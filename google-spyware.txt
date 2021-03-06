@@ -7,3 +7,4 @@
 ||mtalk.google.com^
 ||smartlock.google.com^
 ||firebaseinstallations.googleapis.com^
+||fundingchoicesmessages.google.com^

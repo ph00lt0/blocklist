@@ -1,4 +1,4 @@
-||fonts.gstatic.com
+||fonts.gstatic.com^
 ||myfonts.net^
 ||fonts.net^
 ||typekit.net^

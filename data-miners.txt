@@ -136,3 +136,4 @@
 ||savemysales.co^
 ||shortpixel.ai^
 ||xspdf.com^
+||admob-app-id-*.firebaseio.com^

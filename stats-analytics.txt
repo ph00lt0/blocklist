@@ -1,7 +1,7 @@
-||statistiek.rijksoverheid.nl^$important
-||rtcstats-server.jitsi.net^$important
-||privatestats.whatsapp.net^$important
-||statslogger.rocket.persgroep.cloud^$important
-||statistiek.digid.nl^$important
-||statistieken.groenlinks.nl^$important
-||analytics.partijvoordedieren.nl^$important
+||statistiek.rijksoverheid.nl^
+||rtcstats-server.jitsi.net^
+||privatestats.whatsapp.net^
+||statslogger.rocket.persgroep.cloud^
+||statistiek.digid.nl^
+||statistieken.groenlinks.nl^
+||analytics.partijvoordedieren.nl^

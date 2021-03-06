@@ -1,6 +1,9 @@
 ||safebrowsing.google.com^
 ||safebrowsing.clients.google.com^
+||safebrowsing.googleapis.com^
 ||userlocation.googleapis.com^
 ||*-pa.googleapis.com^
 ||googleadservices.com^
 ||mtalk.google.com^
+||smartlock.google.com^
+||firebaseinstallations.googleapis.com^

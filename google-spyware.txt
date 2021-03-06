@@ -2,3 +2,5 @@
 ||safebrowsing.clients.google.com^
 ||userlocation.googleapis.com^
 ||*-pa.googleapis.com^
+||googleadservices.com^
+||mtalk.google.com^

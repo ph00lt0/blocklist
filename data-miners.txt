@@ -131,7 +131,8 @@
 ||customsearch.ai
 ||aticdn.net^
 ||nationbuilder.com^
-||data.paddle.com^
+||paddle.com^
+||paddleapi.com^
 ||addevweb.com^
 ||savemysales.co^
 ||shortpixel.ai^

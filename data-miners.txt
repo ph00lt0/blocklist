@@ -138,3 +138,4 @@
 ||shortpixel.ai^
 ||xspdf.com^
 ||admob-app-id-*.firebaseio.com^
+||mobilenations.com^

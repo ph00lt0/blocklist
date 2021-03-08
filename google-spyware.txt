@@ -8,3 +8,4 @@
 ||smartlock.google.com^
 ||firebaseinstallations.googleapis.com^
 ||fundingchoicesmessages.google.com^
+||dl.google.com^

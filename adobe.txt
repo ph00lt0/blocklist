@@ -1,4 +1,4 @@
 ||files.acrobat.com^
 ||createpdf.acrobat.com^
-||notify.adobe.io^
+||adobe.io^
 ||genuine.adobe.com^

@@ -16,3 +16,4 @@ Should you have any corrections, questions or remarks, feel free to open an issu
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/bug-reporters.txt
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/adobe.txt
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/apple.txt
+- https://gitlab.com/ph00lt0/blocklists/-/raw/master/mozilla.txt

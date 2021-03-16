@@ -6,3 +6,4 @@
 ||cookie.vpro.nl^
 ||313.nl^
 ||*-gdprlock^
+||csp.mbank.pl

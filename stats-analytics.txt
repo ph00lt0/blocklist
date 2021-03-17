@@ -5,3 +5,4 @@
 ||statistiek.digid.nl^
 ||statistieken.groenlinks.nl^
 ||analytics.partijvoordedieren.nl^
+||stats.bluebillywig.com^

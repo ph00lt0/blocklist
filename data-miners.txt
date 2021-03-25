@@ -139,3 +139,10 @@
 ||xspdf.com^
 ||admob-app-id-*.firebaseio.com^
 ||mobilenations.com^
+||pzz.io^
+||linkpizza.com^
+||eatly.nl^
+||stylecowboys.nl^
+||belgiancowboys.be^
+||travelvalley.nl^
+||dutchcowboys.nl^

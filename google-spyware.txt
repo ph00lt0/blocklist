@@ -11,3 +11,6 @@
 ||www.googleadservices.com^
 ||googleadapis.l.google.com^
 ||geoar.googleapis.com^
+||doubleclick.net^
+||g.doubleclick.net^
+||googleads.g.doubleclick.net^

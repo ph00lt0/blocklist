@@ -7,3 +7,4 @@
 ||analytics.partijvoordedieren.nl^
 ||stats.bluebillywig.com^
 ||statistiek.mijn.overheid.nl^
+||ip.notable.app^

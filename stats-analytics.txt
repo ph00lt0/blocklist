@@ -10,3 +10,4 @@
 ||ip.notable.app^
 ||telemetry-eu.docusign.net.akadns.net^
 ||telemetry.docusign.net^
+||web-security-reports.services.atlassian.com^

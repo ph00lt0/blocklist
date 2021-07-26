@@ -150,5 +150,7 @@
 ||sbixby.com^
 ||atlas.samsung.com^
 ||samsungdm.com^
+||samsungcloud.com^
+||game-mode.net^
 ||simservice.dpgmm.nl^
 ||bvdinfo.com^

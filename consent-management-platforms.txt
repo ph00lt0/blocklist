@@ -7,4 +7,4 @@
 ||313.nl^
 ||*-gdprlock^
 ||csp.mbank.pl
-||privacywall.org^$important
+||privacywall.org^

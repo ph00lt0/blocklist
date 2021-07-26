@@ -7,3 +7,4 @@
 ||apptrace.com^
 ||qcloud.com^
 ||adjust.com^
+||app.adjust.com^$important

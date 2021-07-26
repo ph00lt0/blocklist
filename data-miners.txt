@@ -150,3 +150,4 @@
 ||sbixby.com^
 ||atlas.samsung.com^
 ||simservice.dpgmm.nl^
+||bvdinfo.com^

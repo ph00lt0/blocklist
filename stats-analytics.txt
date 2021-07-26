@@ -8,3 +8,5 @@
 ||stats.bluebillywig.com^
 ||statistiek.mijn.overheid.nl^
 ||ip.notable.app^
+||telemetry-eu.docusign.net.akadns.net^
+||telemetry.docusign.net^

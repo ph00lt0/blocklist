@@ -63,3 +63,5 @@
 ||live.github.com^
 ||githubapp.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
+||checkappexec.microsoft.com^
+||storeedgefd.dsx.mp.microsoft.com^

@@ -14,3 +14,4 @@
 ||doubleclick.net^
 ||g.doubleclick.net^
 ||googleads.g.doubleclick.net^
+||translate.googleapis.com^

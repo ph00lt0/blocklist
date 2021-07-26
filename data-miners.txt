@@ -155,3 +155,8 @@
 ||simservice.dpgmm.nl^
 ||bvdinfo.com^
 ||fingerprintjs.com^
+||adform.net^
+||s1.adform.net^
+||gemius.pl^
+||hit.gemius.pl^
+||gapl.hit.gemius.pl^

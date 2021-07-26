@@ -154,3 +154,4 @@
 ||game-mode.net^
 ||simservice.dpgmm.nl^
 ||bvdinfo.com^
+||fingerprintjs.com^

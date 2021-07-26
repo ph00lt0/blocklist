@@ -149,5 +149,6 @@
 ||api.salesfeed.com^
 ||sbixby.com^
 ||atlas.samsung.com^
+||samsungdm.com^
 ||simservice.dpgmm.nl^
 ||bvdinfo.com^

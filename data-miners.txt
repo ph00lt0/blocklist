@@ -149,3 +149,4 @@
 ||api.salesfeed.com^
 ||sbixby.com^
 ||atlas.samsung.com^
+||simservice.dpgmm.nl^

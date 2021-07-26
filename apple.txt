@@ -14,6 +14,7 @@
 ||apple-dns.net^
 ||xp.apple.com^
 ||help.apple.com^
+||iphonesubmissions.apple.com^
 
 # Icloud
 ||icloud-content.com^

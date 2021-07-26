@@ -10,3 +10,4 @@
 ||fundingchoicesmessages.google.com^
 ||www.googleadservices.com^
 ||googleadapis.l.google.com^
+||geoar.googleapis.com^

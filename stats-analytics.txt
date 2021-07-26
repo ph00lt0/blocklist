@@ -15,4 +15,4 @@
 ||edge.shopsuite.com^
 ||hotjar.com^
 ||static.hotjar.com^
-||pusher.com
+||pusher.com^

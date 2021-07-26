@@ -147,3 +147,5 @@
 ||travelvalley.nl^
 ||dutchcowboys.nl^
 ||api.salesfeed.com^
+||sbixby.com^
+||atlas.samsung.com^

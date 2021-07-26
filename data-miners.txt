@@ -160,3 +160,5 @@
 ||gemius.pl^
 ||hit.gemius.pl^
 ||gapl.hit.gemius.pl^
+||elitechnology.com^
+||projects.elitechnology.com^

@@ -9,3 +9,4 @@
 ||firebaseinstallations.googleapis.com^
 ||fundingchoicesmessages.google.com^
 ||dl.google.com^
+||www.googleadservices.com^

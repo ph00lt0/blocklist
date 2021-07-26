@@ -62,4 +62,4 @@
 ||alive.github.com^
 ||live.github.com^
 ||githubapp.com^
-||geover.prod.do.dsp.mp.microsoft.com
+||geover.prod.do.dsp.mp.microsoft.com^

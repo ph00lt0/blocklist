@@ -167,3 +167,4 @@
 ||shopvote.de^
 ||yieldlove.com^
 ||herleider.nl^
+||dcsaascdn.net

@@ -13,3 +13,5 @@
 ||web-security-reports.services.atlassian.com^
 ||reports.protonmail.ch^
 ||edge.shopsuite.com^
+||hotjar.com^
+||static.hotjar.com^

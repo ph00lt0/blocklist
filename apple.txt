@@ -47,3 +47,6 @@
 
 # Apple Pay
 ||smp-device-content.apple.com^
+
+# Apple Yahoo Finance
+||geo-applefinance-cache.internal.query.g03.yahoodns.net^

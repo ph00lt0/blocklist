@@ -8,5 +8,5 @@
 ||*-gdprlock^
 ||csp.mbank.pl
 ||privacywall.org^
-||cdn-217.privacy-mgmt.com^
+||*.privacy-mgmt.com^
 ||privacy-mgmt.com^

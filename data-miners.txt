@@ -146,3 +146,4 @@
 ||belgiancowboys.be^
 ||travelvalley.nl^
 ||dutchcowboys.nl^
+||api.salesfeed.com^

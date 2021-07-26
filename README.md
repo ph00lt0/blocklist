@@ -20,4 +20,4 @@ Should you have any corrections, questions or remarks, feel free to open an issu
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/zoho.txt
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/nvidia.txt
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/blendle.txt
-- 
+- https://gitlab.com/ph00lt0/blocklists/-/raw/master/amazon.txt

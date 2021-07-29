@@ -10,3 +10,4 @@
 ||privacywall.org^
 ||*.privacy-mgmt.com^
 ||privacy-mgmt.com^
+||cmp.politico.eu^

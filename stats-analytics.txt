@@ -16,3 +16,4 @@
 ||hotjar.com^
 ||static.hotjar.com^
 ||pusher.com^
+||statistics.riskommunal.net^

@@ -168,4 +168,5 @@
 ||yieldlove.com^
 ||herleider.nl^
 ||dcsaascdn.net
-||isoi.asia
+||isoi.asia^
+||wideip-dlcdnets.isoi.asia^

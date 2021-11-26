@@ -18,3 +18,4 @@
 ||pusher.com^
 ||statistics.riskommunal.net^
 ||smartocto.com^
+||scontentinsights.com^

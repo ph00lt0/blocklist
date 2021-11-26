@@ -8,3 +8,6 @@
 ||npo-data.nl^
 ||smartocto.com^
 ||contentinsights.com^
+||cookies.nos.nl^
+||chartbeat.com^
+||tns-nipo.com^

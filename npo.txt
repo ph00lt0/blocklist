@@ -6,3 +6,5 @@
 ||bitmovin.com^
 ||dls-udc.dqa.samsung.com^
 ||npo-data.nl^
+||smartocto.com^
+||contentinsights.com^

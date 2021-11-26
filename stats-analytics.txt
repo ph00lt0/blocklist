@@ -17,3 +17,4 @@
 ||static.hotjar.com^
 ||pusher.com^
 ||statistics.riskommunal.net^
+||smartocto.com^

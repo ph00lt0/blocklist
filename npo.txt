@@ -11,3 +11,4 @@
 ||cookies.nos.nl^
 ||chartbeat.com^
 ||tns-nipo.com^
+||ster.nl^

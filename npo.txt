@@ -12,4 +12,3 @@
 ||chartbeat.com^
 ||tns-nipo.com^
 ||ster.nl^
-||ccm.npo.nl^

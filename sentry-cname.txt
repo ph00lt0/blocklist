@@ -3,3 +3,4 @@
 ||sentry.lbry.tech^
 ||sentry.openbook.social^
 ||sentry.svc.tfw.io^
+||sentry.lbry.tech^

@@ -172,3 +172,5 @@
 ||wideip-dlcdnets.isoi.asia^
 ||routerfeedback.asus.com^
 ||woobox.com^
+||marketingautomation.services^
+||sharpspring.com^

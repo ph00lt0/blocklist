@@ -1,7 +1,7 @@
 # Blocklists for Adguard Home
 
 Blocklists for different purposes, found by my own research.
-Should you have any corrections, questions or remarks, feel free to open an issue or make pull request. 
+Should you have any corrections, questions or remarks, feel free to open an issue or make a pull request. 
 
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/stats-analytics.txt
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/sentry-cname.txt

@@ -39,3 +39,9 @@
 ||webgains.io^
 ||analytics.webgains.io^
 ||collector.wassenaar.org^
+||analytics.vacations.united.com^
+||pwk.tweedekamer.nl^
+||analytics.ubports.com^
+||analytics.trovit.com^
+||trackedweb.net^
+||static.trackedweb.net^

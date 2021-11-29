@@ -12,3 +12,7 @@
 ||privacy-mgmt.com^
 ||cmp.politico.eu^
 ||cookie.vpro.nl^
+||cmp.uniconsent.com^
+||uniconsent.com^
+||truste.com^
+||privacy-policy.truste.com^

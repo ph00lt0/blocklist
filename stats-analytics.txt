@@ -4,6 +4,7 @@
 ||statslogger.rocket.persgroep.cloud^
 ||statistiek.digid.nl^
 ||statistieken.groenlinks.nl^
+||stats.duo.rijkscloud.nl^
 ||analytics.partijvoordedieren.nl^
 ||stats.bluebillywig.com^
 ||statistiek.mijn.overheid.nl^
@@ -23,3 +24,15 @@
 ||d3n8a8pro7vhmx.cloudfront.net^
 ||redistats.com^
 ||hedgehog.fightforthefuture.org^
+||stats.freedom.nl^
+||livestats.greenhost.nl^
+||histats.com^
+||s10.histats.com^
+||stats.it53.nl^
+||stats.monohost.com^
+||stats.nextcloud.com^
+||b.stats.paypal.com^
+||stats.wpmucdn.com^
+||stats.wp.com^
+||status.privacytools.io^
+||stats.uptimerobot.com^

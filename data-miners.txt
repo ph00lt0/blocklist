@@ -215,3 +215,7 @@
 ||tradetracker.net^
 ||admin.trackingmore.net^
 ||trackingmore.net^
+||trackedlink.net^
+||r1-t.trackedlink.net^
+||scroll.com^
+||static.scroll.com^

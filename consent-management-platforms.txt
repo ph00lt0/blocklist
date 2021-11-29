@@ -16,3 +16,4 @@
 ||uniconsent.com^
 ||truste.com^
 ||privacy-policy.truste.com^
+||cmp.cdn.thesun.co.uk^

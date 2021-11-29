@@ -204,3 +204,14 @@
 ||cdn.tpdads.com^
 ||somus.app^
 ||ten08.online^
+||webtrends-optimize.com^
+||webpower.eu^
+||usabilla.com^
+||unrulymedia.com^
+||tag.targeting.unrulymedia.com^
+||unrulymedia.com^
+||fp.ups.com^
+||us-central1-signal-data-science.cloudfunctions.net^
+||tradetracker.net^
+||admin.trackingmore.net^
+||trackingmore.net^

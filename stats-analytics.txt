@@ -36,3 +36,6 @@
 ||stats.wp.com^
 ||status.privacytools.io^
 ||stats.uptimerobot.com^
+||webgains.io^
+||analytics.webgains.io^
+||collector.wassenaar.org^

@@ -47,3 +47,4 @@
 ||static.trackedweb.net^
 ||metrics.three.co.ul^
 ||matomo.waterfox.net^
+||plausible.io^

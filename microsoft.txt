@@ -70,3 +70,4 @@
 ||nexus.officeapps.live.com^
 ||config.edge.skype.com^
 ||officeclient.microsoft.com^
+||js.monitor.azure.com^

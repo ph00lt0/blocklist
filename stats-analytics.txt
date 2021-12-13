@@ -48,3 +48,4 @@
 ||metrics.three.co.ul^
 ||matomo.waterfox.net^
 ||plausible.io^
+||stats.bof.nl^

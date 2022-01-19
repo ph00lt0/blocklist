@@ -235,3 +235,13 @@
 ||tdn.r42tag.com^
 ||wt-safetag.com^
 ||responder.wt-safetag.com^
+||live-uk-uon.contensis.com^
+||bomgarcloud.com^
+||hsleadflows.net^
+||dispatchlive.co.za^
+||liveperson.net^
+||livehelpnow.net^
+||livehelperchat.com^
+||livecom.net^
+||livechatinc.com^
+

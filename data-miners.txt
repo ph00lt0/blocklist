@@ -294,4 +294,4 @@
 ||dpm.demdex.net^
 ||electro.demdex.net^
 ||digidip.net^
-
+||collector.githubapp.com^

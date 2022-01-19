@@ -295,3 +295,5 @@
 ||electro.demdex.net^
 ||digidip.net^
 ||collector.githubapp.com^
+||ip-geolocation.netcraft.com^
+

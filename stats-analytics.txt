@@ -79,4 +79,5 @@
 ||analytics.directvps.nl^
 ||stats.world.hey.com^
 ||stats.basecamp.com^
+||plausible.panic.com^
 

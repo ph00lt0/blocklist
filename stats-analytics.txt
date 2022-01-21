@@ -76,4 +76,5 @@
 ||metrics.three.co.uk^
 ||analytics.ovh.com^
 ||piwik.bit.nl^
+||analytics.directvps.nl^
 

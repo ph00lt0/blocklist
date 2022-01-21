@@ -80,4 +80,5 @@
 ||stats.world.hey.com^
 ||stats.basecamp.com^
 ||plausible.panic.com^
+||a.super.so^
 

@@ -77,4 +77,5 @@
 ||analytics.ovh.com^
 ||piwik.bit.nl^
 ||analytics.directvps.nl^
+||stats.world.hey.com^
 

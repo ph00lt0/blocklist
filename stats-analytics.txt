@@ -74,3 +74,5 @@
 ||analytics.supplyframe.com^
 ||analytics-sdk.yle.fi^
 ||metrics.three.co.uk^
+||analytics.ovh.com^
+

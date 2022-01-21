@@ -78,4 +78,5 @@
 ||piwik.bit.nl^
 ||analytics.directvps.nl^
 ||stats.world.hey.com^
+||stats.basecamp.com^
 

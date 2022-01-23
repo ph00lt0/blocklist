@@ -138,3 +138,4 @@
 ||dove.fullcalendar.io^
 ||matomo.cloud^
 ||cdn.matomo.cloud^
+||addtoany.com^

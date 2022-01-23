@@ -139,3 +139,4 @@
 ||matomo.cloud^
 ||cdn.matomo.cloud^
 ||addtoany.com^
+||static.addtoany.com^

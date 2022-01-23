@@ -170,3 +170,4 @@
 ||currencyrobo.shopapps.in^
 ||shopapps.in^
 ||www.vwa.la^
+||vwa.la^

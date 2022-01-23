@@ -87,3 +87,4 @@
 ||outbrain.com^
 ||events.framer.com^
 ||pirsch.io^
+||mopinion.com^

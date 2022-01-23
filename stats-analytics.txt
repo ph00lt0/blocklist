@@ -127,3 +127,4 @@
 ||ravenjs.com^
 ||cdn.ravenjs.com^
 ||googlesyndication.com^
+||pagead2.googlesyndication.com^

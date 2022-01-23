@@ -132,3 +132,4 @@
 ||google-analytics.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
+||platform.twitter.com^

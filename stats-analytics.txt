@@ -143,3 +143,4 @@
 ||widgetic.com^
 ||crazyegg.com^
 ||script.crazyegg.com^
+||ywxi.net^

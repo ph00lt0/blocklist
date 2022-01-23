@@ -108,3 +108,4 @@
 ||cl.qualaroo.com^
 ||scorecardresearch.com^
 ||sb.scorecardresearch.com^
+||glyph.medium.com^

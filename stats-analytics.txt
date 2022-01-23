@@ -120,3 +120,4 @@
 ||googletagmanager.com^
 ||www.googletagmanager.com^
 ||tiqcdn.com^
+||tags.tiqcdn.com^

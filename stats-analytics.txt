@@ -82,3 +82,4 @@
 ||plausible.panic.com^
 ||a.super.so^
 
+||meter-svc.nytimes.com^

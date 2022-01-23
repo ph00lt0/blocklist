@@ -171,3 +171,4 @@
 ||shopapps.in^
 ||www.vwa.la^
 ||vwa.la^
+||easygdpr.b-cdn.net^

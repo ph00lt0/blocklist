@@ -166,3 +166,4 @@
 ||autocommerce.io^
 ||rec.autocommerce.io^
 ||nfcube.com^
+||instafeed.nfcube.com^

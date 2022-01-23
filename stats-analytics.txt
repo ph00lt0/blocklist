@@ -137,3 +137,4 @@
 ||cdn.carbonads.com^
 ||dove.fullcalendar.io^
 ||matomo.cloud^
+||cdn.matomo.cloud^

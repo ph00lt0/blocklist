@@ -172,3 +172,4 @@
 ||www.vwa.la^
 ||vwa.la^
 ||easygdpr.b-cdn.net^
+||d1liekpayvooaz.cloudfront.net^

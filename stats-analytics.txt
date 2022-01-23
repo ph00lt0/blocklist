@@ -124,3 +124,4 @@
 ||cookielaw.org^
 ||cdn.cookielaw.org^
 ||piwik.openstreetmap.org^
+||ravenjs.com^

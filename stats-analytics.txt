@@ -128,3 +128,4 @@
 ||cdn.ravenjs.com^
 ||googlesyndication.com^
 ||pagead2.googlesyndication.com^
+||www.google-analytics.com^

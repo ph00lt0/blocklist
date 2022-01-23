@@ -140,3 +140,4 @@
 ||cdn.matomo.cloud^
 ||addtoany.com^
 ||static.addtoany.com^
+||widgetic.com^

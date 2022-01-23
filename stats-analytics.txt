@@ -88,3 +88,4 @@
 ||events.framer.com^
 ||pirsch.io^
 ||mopinion.com^
+||deploy.mopinion.com^

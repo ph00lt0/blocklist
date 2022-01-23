@@ -93,3 +93,4 @@
 ||omsc.kpn.com^
 ||kpnbv.tt.omtrdc.net^
 ||newrelic.com^
+||js-agent.newrelic.com^

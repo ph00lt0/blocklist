@@ -157,3 +157,4 @@
 ||leaddyno.com^
 ||static.leaddyno.com^
 ||supportmetrics.apple.com^
+||securemetrics.apple.com^

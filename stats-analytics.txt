@@ -134,3 +134,4 @@
 ||fonts.gstatic.com^
 ||platform.twitter.com^
 ||carbonads.com^
+||cdn.carbonads.com^

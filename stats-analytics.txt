@@ -156,3 +156,4 @@
 ||js.go2sdk.com^
 ||leaddyno.com^
 ||static.leaddyno.com^
+||supportmetrics.apple.com^

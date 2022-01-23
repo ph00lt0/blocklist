@@ -90,3 +90,4 @@
 ||mopinion.com^
 ||deploy.mopinion.com^
 ||omtrdc.net^
+||omsc.kpn.com^

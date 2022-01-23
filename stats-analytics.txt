@@ -86,3 +86,4 @@
 ||widgets.outbrain.com^
 ||outbrain.com^
 ||events.framer.com^
+||pirsch.io^

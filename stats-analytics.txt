@@ -84,3 +84,4 @@
 ||meter-svc.nytimes.com^
 ||a.et.nytimes.com^
 ||widgets.outbrain.com^
+||outbrain.com^

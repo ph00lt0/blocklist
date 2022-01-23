@@ -89,3 +89,4 @@
 ||pirsch.io^
 ||mopinion.com^
 ||deploy.mopinion.com^
+||omtrdc.net^

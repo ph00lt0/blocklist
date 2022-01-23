@@ -123,3 +123,4 @@
 ||tags.tiqcdn.com^
 ||cookielaw.org^
 ||cdn.cookielaw.org^
+||piwik.openstreetmap.org^

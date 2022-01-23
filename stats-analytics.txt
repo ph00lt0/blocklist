@@ -149,3 +149,4 @@
 ||get.s-onetag.com^
 ||amazon-adsystem.com^
 ||syndication.twitter.com^
+||bat.bing.com^

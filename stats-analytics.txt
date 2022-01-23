@@ -111,3 +111,4 @@
 ||glyph.medium.com^
 ||improving.duckduckgo.com^
 ||increaserev.com^
+||tapfiliate.com^

@@ -4,16 +4,13 @@
 read -p "Enter the domain that you want to add:" domain
 
 declare file="./stats-analytics.txt"
-declare regex="\s+$domain\s+"
 
-declare file_content=$( cat "${file}" )
-if [[ " $file_content " =~ $regex ]]
-    then
+if grep -q $domain "$file"; then
         echo "$domain already present"
     else
         if [ "$domain" != "" ]; then
             printf "||$domain^\n" >> "$file"
-            git commit -am "update blocklist" && git push origin master && git push github master
+            # git commit -am "update blocklist" && git push origin master && git push github master
             echo "added $domain"
         else
             echo "no domain provided"

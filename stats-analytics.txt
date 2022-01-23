@@ -81,8 +81,5 @@
 ||stats.basecamp.com^
 ||plausible.panic.com^
 ||a.super.so^
-
 ||meter-svc.nytimes.com^
 ||a.et.nytimes.com^
-||a.et.nytimes.com^
-||a.com^

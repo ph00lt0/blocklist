@@ -165,3 +165,4 @@
 ||ads-twitter.com^
 ||autocommerce.io^
 ||rec.autocommerce.io^
+||nfcube.com^

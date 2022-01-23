@@ -98,3 +98,4 @@
 ||cdn.optimizely.com^
 ||speedcurve.com^
 ||cdn.speedcurve.com^
+||cloudflareinsights.com^

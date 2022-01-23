@@ -126,3 +126,4 @@
 ||piwik.openstreetmap.org^
 ||ravenjs.com^
 ||cdn.ravenjs.com^
+||googlesyndication.com^

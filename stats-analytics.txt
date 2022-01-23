@@ -160,3 +160,4 @@
 ||securemetrics.apple.com^
 ||a.opmnstr.com^
 ||js.monitor.azure.com^
+||geolocation-recommendations.shopifycloud.com^

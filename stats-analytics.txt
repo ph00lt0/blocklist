@@ -118,3 +118,4 @@
 ||s7.addthis.com^
 ||connect.facebook.net^
 ||googletagmanager.com^
+||www.googletagmanager.com^

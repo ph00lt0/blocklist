@@ -163,3 +163,4 @@
 ||geolocation-recommendations.shopifycloud.com^
 ||static.ads-twitter.com^
 ||ads-twitter.com^
+||autocommerce.io^

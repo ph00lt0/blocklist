@@ -144,3 +144,4 @@
 ||crazyegg.com^
 ||script.crazyegg.com^
 ||ywxi.net^
+||cdn.ywxi.net^

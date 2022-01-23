@@ -110,3 +110,4 @@
 ||sb.scorecardresearch.com^
 ||glyph.medium.com^
 ||improving.duckduckgo.com^
+||increaserev.com^

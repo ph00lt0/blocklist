@@ -142,3 +142,4 @@
 ||static.addtoany.com^
 ||widgetic.com^
 ||crazyegg.com^
+||script.crazyegg.com^

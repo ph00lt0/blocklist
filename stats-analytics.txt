@@ -151,3 +151,4 @@
 ||syndication.twitter.com^
 ||bat.bing.com^
 ||hospitalitysem.com^
+||adpxl.co^

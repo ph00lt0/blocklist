@@ -115,3 +115,4 @@
 ||script.tapfiliate.com^
 ||seersco.com^
 ||addthis.com^
+||s7.addthis.com^

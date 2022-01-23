@@ -122,3 +122,4 @@
 ||tiqcdn.com^
 ||tags.tiqcdn.com^
 ||cookielaw.org^
+||cdn.cookielaw.org^

@@ -96,3 +96,4 @@
 ||js-agent.newrelic.com^
 ||optimizely.com^
 ||cdn.optimizely.com^
+||speedcurve.com^

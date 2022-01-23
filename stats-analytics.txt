@@ -112,3 +112,4 @@
 ||improving.duckduckgo.com^
 ||increaserev.com^
 ||tapfiliate.com^
+||script.tapfiliate.com^

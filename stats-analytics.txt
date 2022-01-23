@@ -85,3 +85,4 @@
 ||a.et.nytimes.com^
 ||widgets.outbrain.com^
 ||outbrain.com^
+||events.framer.com^

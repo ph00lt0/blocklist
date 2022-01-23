@@ -95,3 +95,4 @@
 ||newrelic.com^
 ||js-agent.newrelic.com^
 ||optimizely.com^
+||cdn.optimizely.com^

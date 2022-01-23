@@ -11,7 +11,7 @@ if grep -q $rule "$file"; then
     else
         if [ "$domain" != "" ]; then
             printf "$rule\n" >> "$file"
-            git commit -am "update blocklist" && git push origin master && git push github master
+            git commit -am "added $domain to blocklist" && git push origin master && git push github master
             echo "added $domain"
         else
             echo "no domain provided"

@@ -91,3 +91,4 @@
 ||deploy.mopinion.com^
 ||omtrdc.net^
 ||omsc.kpn.com^
+||kpnbv.tt.omtrdc.net^

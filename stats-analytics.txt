@@ -105,3 +105,4 @@
 ||go-mpulse.net^
 ||s.go-mpulse.net^
 ||qualaroo.com^
+||cl.qualaroo.com^

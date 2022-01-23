@@ -154,3 +154,4 @@
 ||adpxl.co^
 ||go2sdk.com^
 ||js.go2sdk.com^
+||leaddyno.com^

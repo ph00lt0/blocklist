@@ -103,3 +103,4 @@
 ||kiyoh.com^
 ||alive.github.com^
 ||go-mpulse.net^
+||s.go-mpulse.net^

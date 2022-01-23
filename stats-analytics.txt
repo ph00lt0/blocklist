@@ -97,3 +97,4 @@
 ||optimizely.com^
 ||cdn.optimizely.com^
 ||speedcurve.com^
+||cdn.speedcurve.com^

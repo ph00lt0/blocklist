@@ -94,3 +94,4 @@
 ||kpnbv.tt.omtrdc.net^
 ||newrelic.com^
 ||js-agent.newrelic.com^
+||optimizely.com^

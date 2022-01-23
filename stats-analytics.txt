@@ -147,3 +147,4 @@
 ||cdn.ywxi.net^
 ||s-onetag.com^
 ||get.s-onetag.com^
+||amazon-adsystem.com^

@@ -129,3 +129,4 @@
 ||googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||www.google-analytics.com^
+||google-analytics.com^

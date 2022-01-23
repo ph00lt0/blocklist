@@ -169,3 +169,4 @@
 ||instafeed.nfcube.com^
 ||currencyrobo.shopapps.in^
 ||shopapps.in^
+||www.vwa.la^

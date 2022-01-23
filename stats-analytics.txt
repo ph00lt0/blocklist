@@ -168,3 +168,4 @@
 ||nfcube.com^
 ||instafeed.nfcube.com^
 ||currencyrobo.shopapps.in^
+||shopapps.in^

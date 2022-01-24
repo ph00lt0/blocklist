@@ -175,3 +175,4 @@
 ||d1liekpayvooaz.cloudfront.net^
 ||jetpack.wordpress.com^
 ||plausible.cloudbrothers.info^
+||securepubads.g.doubleclick.net^

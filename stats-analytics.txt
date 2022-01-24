@@ -179,3 +179,4 @@
 ||doubleclick.net^
 ||typekit.net^
 ||use.typekit.net^
+||analytics.getshogun.com^

@@ -177,3 +177,4 @@
 ||plausible.cloudbrothers.info^
 ||securepubads.g.doubleclick.net^
 ||doubleclick.net^
+||typekit.net^

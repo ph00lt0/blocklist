@@ -176,3 +176,4 @@
 ||jetpack.wordpress.com^
 ||plausible.cloudbrothers.info^
 ||securepubads.g.doubleclick.net^
+||doubleclick.net^

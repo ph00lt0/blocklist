@@ -174,3 +174,4 @@
 ||easygdpr.b-cdn.net^
 ||d1liekpayvooaz.cloudfront.net^
 ||jetpack.wordpress.com^
+||plausible.cloudbrothers.info^

@@ -178,3 +178,4 @@
 ||securepubads.g.doubleclick.net^
 ||doubleclick.net^
 ||typekit.net^
+||use.typekit.net^

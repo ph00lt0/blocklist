@@ -196,3 +196,4 @@
 ||vitals.vercel-insights.com^
 ||mixpanel.com^
 ||statuspage.io^
+||platform-api.sharethis.com^

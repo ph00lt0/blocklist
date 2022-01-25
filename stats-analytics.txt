@@ -201,3 +201,4 @@
 ||api.pirsch.io^
 ||gdpr-wrapper.privacymanager.io^
 ||privacymanager.io^
+||d2dktr6aauwgqs.cloudfront.net^

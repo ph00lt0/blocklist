@@ -205,3 +205,4 @@
 ||hs-banner.com^
 ||js.hs-banner.com^
 ||hsadspixel.net^
+||js.hsadspixel.net^

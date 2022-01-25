@@ -199,3 +199,4 @@
 ||platform-api.sharethis.com^
 ||sharethis.com^
 ||api.pirsch.io^
+||gdpr-wrapper.privacymanager.io^

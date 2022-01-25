@@ -184,3 +184,4 @@
 ||onetrust.com^
 ||rum-static.pingdom.net^
 ||pingdom.net^
+||trustarc.com^

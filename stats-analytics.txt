@@ -181,3 +181,4 @@
 ||use.typekit.net^
 ||analytics.getshogun.com^
 ||ip-geolocation.netcraft.com^
+||onetrust.com^

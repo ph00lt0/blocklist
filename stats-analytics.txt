@@ -207,3 +207,4 @@
 ||hsadspixel.net^
 ||js.hsadspixel.net^
 ||hsleadflows.net^
+||s.hsleadflows.net^

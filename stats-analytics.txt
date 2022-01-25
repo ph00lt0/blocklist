@@ -180,3 +180,4 @@
 ||typekit.net^
 ||use.typekit.net^
 ||analytics.getshogun.com^
+||ip-geolocation.netcraft.com^

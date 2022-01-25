@@ -182,3 +182,4 @@
 ||analytics.getshogun.com^
 ||ip-geolocation.netcraft.com^
 ||onetrust.com^
+||rum-static.pingdom.net^

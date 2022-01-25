@@ -204,3 +204,4 @@
 ||d2dktr6aauwgqs.cloudfront.net^
 ||hs-banner.com^
 ||js.hs-banner.com^
+||hsadspixel.net^

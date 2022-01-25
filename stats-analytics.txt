@@ -193,3 +193,4 @@
 ||www5.omniture.com^
 ||nocookie.net^
 ||vercel-insights.com^
+||vitals.vercel-insights.com^

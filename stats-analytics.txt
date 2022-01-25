@@ -198,3 +198,4 @@
 ||statuspage.io^
 ||platform-api.sharethis.com^
 ||sharethis.com^
+||api.pirsch.io^

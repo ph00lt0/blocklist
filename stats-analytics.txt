@@ -192,3 +192,4 @@
 ||my.omniture.com^
 ||www5.omniture.com^
 ||nocookie.net^
+||vercel-insights.com^

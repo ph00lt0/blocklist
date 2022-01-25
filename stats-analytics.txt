@@ -185,3 +185,4 @@
 ||rum-static.pingdom.net^
 ||pingdom.net^
 ||trustarc.com^
+||consent.trustarc.com^

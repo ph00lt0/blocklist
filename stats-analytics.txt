@@ -195,3 +195,4 @@
 ||vercel-insights.com^
 ||vitals.vercel-insights.com^
 ||mixpanel.com^
+||statuspage.io^

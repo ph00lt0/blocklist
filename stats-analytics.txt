@@ -189,3 +189,4 @@
 ||js.adsrvr.org^
 ||adsrvr.org^
 ||omniture.com^
+||my.omniture.com^

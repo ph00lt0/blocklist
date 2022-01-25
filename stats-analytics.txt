@@ -197,3 +197,4 @@
 ||mixpanel.com^
 ||statuspage.io^
 ||platform-api.sharethis.com^
+||sharethis.com^

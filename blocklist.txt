@@ -829,3 +829,4 @@
 ||cookiebot.com^
 ||static.cloudflareinsights.com^
 ||realtime.www.linkedin.com^
+||radar.cedexis.com^

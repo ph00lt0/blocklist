@@ -1,5 +1,0 @@
-||fonts.gstatic.com^
-||myfonts.net^
-||fonts.net^
-||typekit.net^
-||fonts.googleapis.com^

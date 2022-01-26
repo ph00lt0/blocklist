@@ -1,6 +1,0 @@
-||static-eu.payments-amazon.com^
-||static.payments-amazon.com^
-||m.media-amazon.com^
-||payments-*.amazon.com^
-||payments.amazon.com^
-||pndsn.com^

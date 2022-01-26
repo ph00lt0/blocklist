@@ -1,3 +1,0 @@
-||graph.blendle.com^
-||events.blendle.com^
-||events-external.blendle.com^

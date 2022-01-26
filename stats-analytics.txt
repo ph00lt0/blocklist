@@ -212,3 +212,4 @@
 ||usemessages.com^
 ||js.usemessages.com^
 ||openeducationanalytics.org^
+||accessibilityinsights.io^

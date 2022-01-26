@@ -821,3 +821,4 @@
 ||telemetry.mozilla.org^
 ||telemetry-experiment.cdn.mozilla.net^
 ||location.services.mozilla.com^
+||cdns.eu1.gigya.com^

@@ -828,3 +828,4 @@
 ||consent.cookiebot.com^
 ||cookiebot.com^
 ||static.cloudflareinsights.com^
+||realtime.www.linkedin.com^

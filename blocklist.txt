@@ -826,3 +826,4 @@
 ||firebaselogging.googleapis.com^
 ||cdn.livechatinc.com^
 ||consent.cookiebot.com^
+||cookiebot.com^

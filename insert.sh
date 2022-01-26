@@ -3,7 +3,7 @@
 
 read -p "Enter the domain that you want to add:" domain
 
-declare file="./stats-analytics.txt"
+declare file="./blocklist.txt"
 declare rule="||$domain^"
 
 if grep -q $rule "$file"; then

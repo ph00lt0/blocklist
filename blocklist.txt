@@ -823,3 +823,4 @@
 ||location.services.mozilla.com^
 ||cdns.eu1.gigya.com^
 ||gigya.com^
+||firebaselogging.googleapis.com^

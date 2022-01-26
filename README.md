@@ -14,6 +14,6 @@ Blocklist of analytics and annoyances found by my own research. Blocks:
 All lists have been combined under:
 - https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt
 
-Other lists are deprecicated and will be removed. 
+Other lists are deprecicated.
 
 

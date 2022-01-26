@@ -211,3 +211,4 @@
 ||js.hsleadflows.net^
 ||usemessages.com^
 ||js.usemessages.com^
+||openeducationanalytics.org^

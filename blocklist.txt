@@ -825,3 +825,4 @@
 ||gigya.com^
 ||firebaselogging.googleapis.com^
 ||cdn.livechatinc.com^
+||consent.cookiebot.com^

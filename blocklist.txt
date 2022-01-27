@@ -950,3 +950,4 @@
 ||schrotty.la.welt.de^
 ||judge.la.welt.de^
 ||co.la.welt.de^
+||lo.la.welt.de^

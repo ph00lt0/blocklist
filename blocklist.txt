@@ -993,3 +993,4 @@
 ||mall.tv^
 ||www.mall.tv^
 ||jwpltx.com^
+||prd.jwpltx.com^

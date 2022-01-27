@@ -931,3 +931,4 @@
 ||linkmaker.itunes.apple.com^
 ||ws.sharethis.com^
 ||personalwerk.de^
+||pws.personalwerk.net^

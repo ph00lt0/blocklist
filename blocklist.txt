@@ -869,3 +869,4 @@
 ||cdn.taboola.com^
 ||licensing.bitmovin.com^
 ||hds.ak.token.bild.de^
+||metrics.brightcove.com^

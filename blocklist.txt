@@ -958,3 +958,4 @@
 ||paidnewsletters.ocdn.eu^
 ||authorisation.grupaonet.pl^
 ||grupaonet.pl^
+||artemis-cdn.ocdn.eu^

@@ -973,3 +973,4 @@
 ||caroda.io^
 ||publisher.caroda.io^
 ||cpex.cz^
+||cdn.cpex.cz^

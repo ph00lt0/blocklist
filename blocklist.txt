@@ -882,3 +882,4 @@
 ||advertlinege.adocean.pl^
 ||adocean.pl^
 ||analyticson.com^
+||adword.ge^

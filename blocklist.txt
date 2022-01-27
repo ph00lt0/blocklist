@@ -840,3 +840,4 @@
 ||redventures.io^
 ||at.adtech.redventures.io^
 ||cohesionapps.com^
+||cdn.cohesionapps.com^

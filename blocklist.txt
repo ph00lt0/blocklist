@@ -847,3 +847,4 @@
 ||c.go-mpulse.net^
 ||ads-api.ft.com^
 ||spoor-api.ft.com^
+||ft.coral.coralproject.net^

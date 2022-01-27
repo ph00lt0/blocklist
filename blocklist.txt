@@ -921,3 +921,4 @@
 ||brockmeyer.nl^
 ||api.brockmeyer.nl^
 ||gmads.net^
+||criteo.net^

@@ -929,3 +929,4 @@
 ||brenscino.prescreenapp.io^
 ||hrs.althoffhotels.com^
 ||linkmaker.itunes.apple.com^
+||ws.sharethis.com^

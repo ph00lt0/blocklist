@@ -223,14 +223,11 @@
 ||createpdf.acrobat.com^
 ||adobe.io^
 ||genuine.adobe.com^
-# Itunes
 ||itunes.com^
 ||itunes.apple.com^
 @@||downloaddispatch.itunes.apple.com^
 ||apple.co^
 ||aaplimg.com^'
-
-# Analytics
 ||weather-analytics-events.apple.com^
 ||apple.comscoreresearch.com^
 ||news-edge.apple.com^
@@ -240,24 +237,14 @@
 ||xp.apple.com^
 ||help.apple.com^
 ||iphonesubmissions.apple.com^
-
-# Icloud
 ||icloud-content.com^
 ||me.com^
 ||apple-cloudkit.com^
 ||valid.apple.com^
 ||gateway.icloud.com^
-
-# Sonos
 ||sonos-music.apple.com^
-
-# Home Sharing
 ||pancake.apple.com^
-
-# iMessage
 ||ess.apple.com^
-
-# Location
 ||ls.apple.com^
 ||lcdn-locator.apple.com^
 ||lcdn-registration.apple.com^
@@ -265,16 +252,10 @@
 ||ls.apple.com.akadns.net^
 ||ls.apple.com.edgesuite.net^
 ||reserve-prime.apple.com^
-
-# Push
 ||push-apple.com.akadns.net^
 ||push.apple.com.akadns.net^
 ||push.apple.com^
-
-# Apple Pay
 ||smp-device-content.apple.com^
-
-# Apple Yahoo Finance
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
 ||graph.blendle.com^
 ||events.blendle.com^
@@ -606,7 +587,6 @@
 ||digidip.net^
 ||collector.githubapp.com^
 ||ip-geolocation.netcraft.com^
-
 ||facebook.com^
 ||g.whatsapp.net^
 ||instagram.com^
@@ -984,7 +964,6 @@
 ||cdn.onesignal.com^
 ||client.tonos.gjirafa.tech^
 ||gjirafa.tech^
-||http://mimibazar.cz/^
 ||www.mimibazar.cz^
 ||secure-assets.rubiconproject.com^
 ||usercentrics.eu^

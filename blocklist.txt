@@ -904,3 +904,4 @@
 ||dwin1.com^
 ||www.dwin1.com^
 ||service.force.com^
+||awin.my.salesforce.com^

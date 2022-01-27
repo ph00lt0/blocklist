@@ -936,3 +936,4 @@
 ||wiesbaden.personalwerk.de^
 ||geo1.presslabs.net^
 ||presslabs.net^
+||typeform.com^

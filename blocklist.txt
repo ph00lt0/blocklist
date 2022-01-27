@@ -866,3 +866,4 @@
 ||script.ioam.de^
 ||ioam.de^
 ||taboola.com^
+||cdn.taboola.com^

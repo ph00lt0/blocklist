@@ -946,3 +946,4 @@
 ||greylabeldelivery.com^
 ||gdpr-tcfv2.sp-prod.net^
 ||sp-prod.net^
+||ast.welt.de^

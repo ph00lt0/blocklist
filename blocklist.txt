@@ -937,3 +937,4 @@
 ||geo1.presslabs.net^
 ||presslabs.net^
 ||typeform.com^
+||embed.typeform.com^

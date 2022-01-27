@@ -992,3 +992,4 @@
 ||p.typekit.net^
 ||mall.tv^
 ||www.mall.tv^
+||jwpltx.com^

@@ -886,3 +886,4 @@
 ||counter.top.ge^
 ||top.ge^
 ||cmpsp.autobild.es^
+||cmanager-prometeo.appspot.com^

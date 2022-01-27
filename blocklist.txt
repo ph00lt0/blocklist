@@ -982,3 +982,4 @@
 ||cz-gmtdmp.mookie1.com^
 ||onesignal.com^
 ||cdn.onesignal.com^
+||client.tonos.gjirafa.tech^

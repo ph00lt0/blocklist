@@ -885,3 +885,4 @@
 ||adword.ge^
 ||counter.top.ge^
 ||top.ge^
+||cmpsp.autobild.es^

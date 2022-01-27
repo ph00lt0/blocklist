@@ -896,3 +896,4 @@
 ||dmcdn.net^
 ||cmp.autobild.de^
 ||data-56b1bc19e7.autobild.de^
+||www.asadcdn.com^

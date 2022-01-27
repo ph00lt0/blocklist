@@ -877,3 +877,4 @@
 ||quantcast.mgr.consensu.org^
 ||consensu.org^
 ||agorahtag.tech^
+||symple.ch^

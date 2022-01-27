@@ -976,3 +976,4 @@
 ||munchkin.marketo.net^
 ||snap.licdn.com^
 ||gmass.co^
+||tallyfy.com^

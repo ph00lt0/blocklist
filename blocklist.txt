@@ -871,3 +871,4 @@
 ||hds.ak.token.bild.de^
 ||metrics.brightcove.com^
 ||ping.chartbeat.net^
+||cmp.axelspringer.com^

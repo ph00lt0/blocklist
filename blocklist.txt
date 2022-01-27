@@ -874,3 +874,4 @@
 ||cmp.axelspringer.com^
 ||carvertical.com^
 ||aff.carvertical.com^
+||quantcast.mgr.consensu.org^

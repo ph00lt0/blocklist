@@ -923,3 +923,4 @@
 ||gmads.net^
 ||criteo.net^
 ||static.criteo.net^
+||flex.msn.com^

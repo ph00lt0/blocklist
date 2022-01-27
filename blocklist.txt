@@ -841,3 +841,4 @@
 ||at.adtech.redventures.io^
 ||cohesionapps.com^
 ||cdn.cohesionapps.com^
+||urs.zdnet.com^

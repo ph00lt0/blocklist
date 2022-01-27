@@ -889,3 +889,4 @@
 ||cmanager-prometeo.appspot.com^
 ||libs.aseads.com^
 ||aseads.com^
+||store.axelspringer.es^

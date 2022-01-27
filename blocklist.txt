@@ -990,3 +990,4 @@
 ||usercentrics.eu^
 ||app.usercentrics.eu^
 ||p.typekit.net^
+||mall.tv^

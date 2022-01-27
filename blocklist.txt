@@ -926,3 +926,4 @@
 ||flex.msn.com^
 ||ssa.stepstone.com^
 ||prescreenapp.io^
+||brenscino.prescreenapp.io^

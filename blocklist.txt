@@ -848,3 +848,4 @@
 ||ads-api.ft.com^
 ||spoor-api.ft.com^
 ||ft.coral.coralproject.net^
+||coralproject.net^

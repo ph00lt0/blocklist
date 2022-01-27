@@ -894,3 +894,4 @@
 ||widget.surveymonkey.com^
 ||api.dmcdn.net^
 ||dmcdn.net^
+||cmp.autobild.de^

@@ -980,3 +980,4 @@
 ||mookie1.com^
 ||script.idvert.cz^
 ||cz-gmtdmp.mookie1.com^
+||onesignal.com^

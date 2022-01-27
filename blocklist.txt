@@ -960,3 +960,4 @@
 ||grupaonet.pl^
 ||artemis-cdn.ocdn.eu^
 ||sgqcvfjvr.onet.pl^
+||[A^

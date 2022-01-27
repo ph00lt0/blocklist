@@ -862,3 +862,4 @@
 ||cmp2.bild.de^
 ||adnxs.com^
 ||acdn.adnxs.com^
+||a.bildstatic.de^

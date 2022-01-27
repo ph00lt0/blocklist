@@ -905,3 +905,4 @@
 ||www.dwin1.com^
 ||service.force.com^
 ||awin.my.salesforce.com^
+||cdn-a.yieldlove.com^

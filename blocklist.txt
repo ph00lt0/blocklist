@@ -906,3 +906,4 @@
 ||service.force.com^
 ||awin.my.salesforce.com^
 ||cdn-a.yieldlove.com^
+||smartdesign.immowelt.org^

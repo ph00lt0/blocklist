@@ -861,3 +861,4 @@
 ||rosetta.prod.ps.bild.de^
 ||cmp2.bild.de^
 ||adnxs.com^
+||acdn.adnxs.com^

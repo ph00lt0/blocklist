@@ -878,3 +878,4 @@
 ||consensu.org^
 ||agorahtag.tech^
 ||symple.ch^
+||advertising.symple.ch^

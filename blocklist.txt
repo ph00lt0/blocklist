@@ -963,3 +963,4 @@
 ||rubiconproject.com^
 ||ads.rubiconproject.com^
 ||spir.hit.gemius.pl^
+||performax.cz^

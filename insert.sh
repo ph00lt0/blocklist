@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Update before adding domain
+git pull origin master && git pull github master
 
 read -p "Enter the domain that you want to add:" domain
 

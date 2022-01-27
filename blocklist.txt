@@ -879,3 +879,4 @@
 ||agorahtag.tech^
 ||symple.ch^
 ||advertising.symple.ch^
+||advertlinege.adocean.pl^

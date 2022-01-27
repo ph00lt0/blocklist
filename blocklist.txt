@@ -984,3 +984,4 @@
 ||cdn.onesignal.com^
 ||client.tonos.gjirafa.tech^
 ||gjirafa.tech^
+||http://mimibazar.cz/^

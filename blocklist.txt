@@ -965,3 +965,4 @@
 ||spir.hit.gemius.pl^
 ||performax.cz^
 ||cdn.performax.cz^
+||stat.cncenter.cz^

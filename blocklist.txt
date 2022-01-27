@@ -976,3 +976,4 @@
 ||cdn.cpex.cz^
 ||tjs.cncenter.cz^
 ||idvert.cz^
+||script.tidvert.cz^

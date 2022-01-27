@@ -845,3 +845,4 @@
 ||myfinance.com^
 ||static.myfinance.com^
 ||c.go-mpulse.net^
+||ads-api.ft.com^

@@ -857,3 +857,4 @@
 ||trk.teamblue.services^
 ||teamblue.services^
 ||rem-track.bild.de^
+||data-bb21a2f11b.bild.de^

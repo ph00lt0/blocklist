@@ -949,3 +949,4 @@
 ||ast.welt.de^
 ||schrotty.la.welt.de^
 ||judge.la.welt.de^
+||co.la.welt.de^

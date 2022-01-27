@@ -922,3 +922,4 @@
 ||api.brockmeyer.nl^
 ||gmads.net^
 ||criteo.net^
+||static.criteo.net^

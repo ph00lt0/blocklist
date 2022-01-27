@@ -961,3 +961,4 @@
 ||artemis-cdn.ocdn.eu^
 ||sgqcvfjvr.onet.pl^
 ||rubiconproject.com^
+||ads.rubiconproject.com^

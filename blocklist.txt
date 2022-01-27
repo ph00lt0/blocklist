@@ -956,3 +956,4 @@
 ||cdn.tinypass.com^
 ||experience.tinypass.com^
 ||paidnewsletters.ocdn.eu^
+||authorisation.grupaonet.pl^

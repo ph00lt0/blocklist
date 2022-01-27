@@ -908,3 +908,4 @@
 ||cdn-a.yieldlove.com^
 ||smartdesign.immowelt.org^
 ||imhd.io^
+||cdn.imhd.io^

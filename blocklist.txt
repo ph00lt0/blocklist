@@ -916,3 +916,4 @@
 ||tags.stepstone.com^
 ||browser.sentry-cdn.com^
 ||sentry-cdn.com^
+||track.adform.net^

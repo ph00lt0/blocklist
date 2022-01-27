@@ -852,3 +852,4 @@
 ||survey.g.doubleclick.net^
 ||flourish.studio^
 ||public.flourish.studio^
+||news.google.com^

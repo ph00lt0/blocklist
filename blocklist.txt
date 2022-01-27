@@ -914,3 +914,4 @@
 ||hs-data.com^
 ||s.hs-data.com^
 ||tags.stepstone.com^
+||browser.sentry-cdn.com^

@@ -932,3 +932,4 @@
 ||ws.sharethis.com^
 ||personalwerk.de^
 ||pws.personalwerk.net^
+||personalwerk.net^

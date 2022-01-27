@@ -15,7 +15,7 @@ git remote add github git@github.com:ph00lt0/blocklists.git
 ./insert.sh
 ```
 
-Enter the domain name without https:// or http and no trailing /
+Enter the domain name, https:// or http and trailing / are automatically being removed if included.
 So https://annoyingtrackers.com/ becomes: annoyingtrackers.com
 
 Hit enter, and the domain will be added to the list.

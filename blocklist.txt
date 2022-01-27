@@ -881,3 +881,4 @@
 ||advertising.symple.ch^
 ||advertlinege.adocean.pl^
 ||adocean.pl^
+||analyticson.com^

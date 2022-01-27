@@ -933,3 +933,4 @@
 ||personalwerk.de^
 ||pws.personalwerk.net^
 ||personalwerk.net^
+||wiesbaden.personalwerk.de^

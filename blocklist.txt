@@ -977,3 +977,4 @@
 ||tjs.cncenter.cz^
 ||idvert.cz^
 ||script.tidvert.cz^
+||mookie1.com^

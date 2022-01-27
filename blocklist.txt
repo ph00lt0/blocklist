@@ -891,3 +891,4 @@
 ||aseads.com^
 ||store.axelspringer.es^
 ||navi.axelspringer.es^
+||widget.surveymonkey.com^

@@ -890,3 +890,4 @@
 ||libs.aseads.com^
 ||aseads.com^
 ||store.axelspringer.es^
+||navi.axelspringer.es^

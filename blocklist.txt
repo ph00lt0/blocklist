@@ -844,3 +844,4 @@
 ||urs.zdnet.com^
 ||myfinance.com^
 ||static.myfinance.com^
+||c.go-mpulse.net^

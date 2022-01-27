@@ -962,3 +962,4 @@
 ||sgqcvfjvr.onet.pl^
 ||rubiconproject.com^
 ||ads.rubiconproject.com^
+||spir.hit.gemius.pl^

@@ -838,3 +838,4 @@
 ||api.smartocto.com^
 ||kmnl.tns-nipo.com^
 ||redventures.io^
+||at.adtech.redventures.io^

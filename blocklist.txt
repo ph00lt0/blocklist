@@ -948,3 +948,4 @@
 ||sp-prod.net^
 ||ast.welt.de^
 ||schrotty.la.welt.de^
+||judge.la.welt.de^

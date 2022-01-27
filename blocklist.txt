@@ -953,3 +953,4 @@
 ||lo.la.welt.de^
 ||onet.hit.gemius.pl^
 ||pushpushgo.com^
+||cdn.tinypass.com^

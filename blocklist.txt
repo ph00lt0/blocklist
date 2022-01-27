@@ -968,3 +968,4 @@
 ||stat.cncenter.cz^
 ||onthe.io^
 ||cdn.onthe.io^
+||iotechnologies.com^

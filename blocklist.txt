@@ -865,3 +865,4 @@
 ||a.bildstatic.de^
 ||script.ioam.de^
 ||ioam.de^
+||taboola.com^

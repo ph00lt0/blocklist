@@ -859,3 +859,4 @@
 ||rem-track.bild.de^
 ||data-bb21a2f11b.bild.de^
 ||rosetta.prod.ps.bild.de^
+||cmp2.bild.de^

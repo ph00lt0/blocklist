@@ -975,3 +975,4 @@
 ||cpex.cz^
 ||cdn.cpex.cz^
 ||tjs.cncenter.cz^
+||idvert.cz^

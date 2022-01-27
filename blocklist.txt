@@ -888,3 +888,4 @@
 ||cmpsp.autobild.es^
 ||cmanager-prometeo.appspot.com^
 ||libs.aseads.com^
+||aseads.com^

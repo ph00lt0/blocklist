@@ -856,3 +856,4 @@
 ||cdn-pci.optimizely.com^
 ||trk.teamblue.services^
 ||teamblue.services^
+||rem-track.bild.de^

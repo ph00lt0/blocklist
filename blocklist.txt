@@ -988,3 +988,4 @@
 ||www.mimibazar.cz^
 ||secure-assets.rubiconproject.com^
 ||usercentrics.eu^
+||app.usercentrics.eu^

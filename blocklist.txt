@@ -969,3 +969,4 @@
 ||onthe.io^
 ||cdn.onthe.io^
 ||iotechnologies.com^
+||public.iotechnologies.com^

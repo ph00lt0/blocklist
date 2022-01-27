@@ -893,3 +893,4 @@
 ||navi.axelspringer.es^
 ||widget.surveymonkey.com^
 ||api.dmcdn.net^
+||dmcdn.net^

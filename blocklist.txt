@@ -947,3 +947,4 @@
 ||gdpr-tcfv2.sp-prod.net^
 ||sp-prod.net^
 ||ast.welt.de^
+||schrotty.la.welt.de^

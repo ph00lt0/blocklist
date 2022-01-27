@@ -895,3 +895,4 @@
 ||api.dmcdn.net^
 ||dmcdn.net^
 ||cmp.autobild.de^
+||data-56b1bc19e7.autobild.de^

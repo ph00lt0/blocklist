@@ -842,3 +842,4 @@
 ||cohesionapps.com^
 ||cdn.cohesionapps.com^
 ||urs.zdnet.com^
+||myfinance.com^

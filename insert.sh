@@ -6,6 +6,10 @@ git pull origin master && git pull github master
 read -p "Enter the domain that you want to add:" domain
 
 declare file="./blocklist.txt"
+
+declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://
+declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash
+
 declare rule="||$domain^"
 
 if grep -q $rule "$file"; then

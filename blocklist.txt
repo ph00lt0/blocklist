@@ -930,3 +930,4 @@
 ||hrs.althoffhotels.com^
 ||linkmaker.itunes.apple.com^
 ||ws.sharethis.com^
+||personalwerk.de^

@@ -853,3 +853,4 @@
 ||flourish.studio^
 ||public.flourish.studio^
 ||news.google.com^
+||cdn-pci.optimizely.com^

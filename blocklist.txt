@@ -944,3 +944,4 @@
 ||eu.webhook.logs.insight.rapid7.com^
 ||rapid7.com^
 ||greylabeldelivery.com^
+||gdpr-tcfv2.sp-prod.net^

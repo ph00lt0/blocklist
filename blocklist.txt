@@ -940,3 +940,4 @@
 ||embed.typeform.com^
 ||data-99329e3cb2.welt.de^
 ||rosetta.prod.ps.welt.de^
+||hua-production.la.welt.de^

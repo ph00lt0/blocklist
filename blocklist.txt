@@ -846,3 +846,4 @@
 ||static.myfinance.com^
 ||c.go-mpulse.net^
 ||ads-api.ft.com^
+||spoor-api.ft.com^

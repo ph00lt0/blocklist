@@ -835,3 +835,4 @@
 ||media.net^
 ||ingestion.contentinsights.com^
 ||adcdn.ster.nl^
+||api.smartocto.com^

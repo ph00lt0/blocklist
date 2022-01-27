@@ -872,3 +872,4 @@
 ||metrics.brightcove.com^
 ||ping.chartbeat.net^
 ||cmp.axelspringer.com^
+||carvertical.com^

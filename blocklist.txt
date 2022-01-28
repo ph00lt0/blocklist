@@ -978,3 +978,4 @@
 ||gmass.co^
 ||tallyfy.com^
 ||appdynamics.com^
+||cdn.appdynamics.com^

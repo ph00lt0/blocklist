@@ -986,3 +986,4 @@
 ||stats.topdrawermedia.com^
 ||matomo.riwospine.cn^
 ||analytics.hydra-global.com^
+||analytics.tangential.software^

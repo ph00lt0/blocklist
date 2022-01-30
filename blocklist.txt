@@ -992,3 +992,4 @@
 ||cdn.tagcommander.com^
 ||vantivcnp.com^
 ||request.eprotect.vantivcnp.com^
+||reports.iq.vantivcnp.com^

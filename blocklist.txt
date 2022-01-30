@@ -979,3 +979,4 @@
 ||tallyfy.com^
 ||appdynamics.com^
 ||cdn.appdynamics.com^
+||sentry.hetzner.company^

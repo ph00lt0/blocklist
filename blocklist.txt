@@ -990,3 +990,4 @@
 ||stat.helpteh.com^
 ||tagcommander.com^
 ||cdn.tagcommander.com^
+||vantivcnp.com^

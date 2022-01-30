@@ -1005,3 +1005,4 @@
 ||fast.wistia.com^
 ||wistia.com^
 ||js.hsforms.net^
+||a.klaviyo.com^

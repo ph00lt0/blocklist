@@ -995,3 +995,4 @@
 ||reports.iq.vantivcnp.com^
 ||admantx.com^
 ||usasync01.admantx.com^
+||widget.trustpilot.com^

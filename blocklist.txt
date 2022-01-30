@@ -997,3 +997,4 @@
 ||usasync01.admantx.com^
 ||widget.trustpilot.com^
 ||pixel.ionos.com^
+||amplify.outbrain.com^

@@ -987,3 +987,4 @@
 ||matomo.riwospine.cn^
 ||analytics.hydra-global.com^
 ||analytics.tangential.software^
+||stat.helpteh.com^

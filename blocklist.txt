@@ -998,3 +998,4 @@
 ||widget.trustpilot.com^
 ||pixel.ionos.com^
 ||amplify.outbrain.com^
+||ad.doubleclick.net^

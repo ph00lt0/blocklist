@@ -988,3 +988,4 @@
 ||analytics.hydra-global.com^
 ||analytics.tangential.software^
 ||stat.helpteh.com^
+||tagcommander.com^

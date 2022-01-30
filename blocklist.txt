@@ -994,3 +994,4 @@
 ||request.eprotect.vantivcnp.com^
 ||reports.iq.vantivcnp.com^
 ||admantx.com^
+||usasync01.admantx.com^

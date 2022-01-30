@@ -991,3 +991,4 @@
 ||tagcommander.com^
 ||cdn.tagcommander.com^
 ||vantivcnp.com^
+||request.eprotect.vantivcnp.com^

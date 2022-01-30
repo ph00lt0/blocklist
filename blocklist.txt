@@ -999,3 +999,4 @@
 ||pixel.ionos.com^
 ||amplify.outbrain.com^
 ||ad.doubleclick.net^
+||metrics.ionos.com^

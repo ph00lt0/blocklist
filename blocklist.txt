@@ -989,3 +989,4 @@
 ||analytics.tangential.software^
 ||stat.helpteh.com^
 ||tagcommander.com^
+||cdn.tagcommander.com^

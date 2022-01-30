@@ -1001,3 +1001,4 @@
 ||ad.doubleclick.net^
 ||metrics.ionos.com^
 ||events.api.godaddy.com^
+||geolocation.onetrust.com^

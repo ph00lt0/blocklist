@@ -980,3 +980,4 @@
 ||appdynamics.com^
 ||cdn.appdynamics.com^
 ||sentry.hetzner.company^
+||matomo.hetzner.com^

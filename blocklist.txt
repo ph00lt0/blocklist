@@ -981,3 +981,4 @@
 ||cdn.appdynamics.com^
 ||sentry.hetzner.company^
 ||matomo.hetzner.com^
+||ec2-13-232-90-173.ap-south-1.compute.amazonaws.com^

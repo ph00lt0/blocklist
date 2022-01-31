@@ -1109,3 +1109,4 @@
 ||cookiehub.net^
 ||cookiehub.com^
 ||usefathom.com^
+||goadopt.io^

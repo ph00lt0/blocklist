@@ -1011,3 +1011,4 @@
 ||code-ya.jivosite.com^
 ||axept.io^
 ||static.axept.io^
+||s2.go-mpulse.net^

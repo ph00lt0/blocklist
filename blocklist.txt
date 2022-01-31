@@ -1180,3 +1180,4 @@
 ||metrics1.data.hicloud.com^
 ||metrics2.data.hicloud.com^
 ||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^

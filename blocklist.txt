@@ -1145,3 +1145,4 @@
 ||plista.com^
 ||static-nl.plista.com^
 ||popupsmart.com^
+||apiv2.popupsmart.com^

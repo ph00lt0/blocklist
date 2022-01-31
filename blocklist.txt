@@ -1330,3 +1330,4 @@
 ||fyre.co^
 ||petametrics.com^
 ||cdn.petametrics.com^
+||viafoura.co^

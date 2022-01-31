@@ -1282,3 +1282,4 @@
 ||www.camelotgroup.co.uk^
 ||www.irishlottery.com^
 ||www.lottoland.com^
+||www.lotto.de^

@@ -1015,3 +1015,4 @@
 ||metrics.asos.com^
 ||st-static.asos.com^
 ||btstatic.com^
+||s.btstatic.com^

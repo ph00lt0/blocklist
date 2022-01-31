@@ -1199,3 +1199,4 @@
 ||tracking.miui.com^
 ||sa.api.intl.miui.com^
 ||tracking.intl.miui.com^
+||tracking.india.miui.com^

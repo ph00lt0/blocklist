@@ -1279,3 +1279,4 @@
 ||www.playuklottery.com^
 ||lottery.rhs.org.uk^
 ||poppylottery.org.uk^
+||www.camelotgroup.co.uk^

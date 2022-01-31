@@ -1247,3 +1247,4 @@
 ||freshmarketer.com^
 ||a.mouseflow.com^
 ||api-hotjar.com^
+||hotjar-analytics.com^

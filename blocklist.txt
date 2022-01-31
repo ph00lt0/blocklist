@@ -1219,3 +1219,4 @@
 ||ads.reddit.com^
 ||d.reddit.com^
 ||rereddit.com^
+||events.redditmedia.com^

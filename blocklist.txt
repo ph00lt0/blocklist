@@ -1186,3 +1186,4 @@
 ||logservice1.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||logbak.hicloud.com^
+||hicloud.com^

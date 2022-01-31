@@ -1119,3 +1119,4 @@
 ||www.axeptio.eu^
 ||d3e54v103j8qbb.cloudfront.net^
 ||content2.nrc.nl^
+||vwdservices.com^

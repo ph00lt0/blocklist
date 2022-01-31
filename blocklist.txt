@@ -1267,3 +1267,4 @@
 ||adservetx.media.net^
 ||pagead2.googleadservices.com^
 ||adservice.google.com^
+||ads.google.com^

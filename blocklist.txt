@@ -1087,3 +1087,4 @@
 ||app-sj30.marketo.com^
 ||ketch.com^
 ||ketchcdn.com^
+||global.ketchcdn.com^

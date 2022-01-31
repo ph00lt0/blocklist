@@ -1241,3 +1241,4 @@
 ||luckyorange.com^
 ||cdn.luckyorange.com^
 ||w1.luckyorange.com^
+||upload.luckyorange.net^

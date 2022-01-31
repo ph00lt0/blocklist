@@ -1235,3 +1235,4 @@
 ||ads.facebook.com^
 ||an.facebook.com^
 ||app.getsentry.com^
+||notify.bugsnag.com^

@@ -1197,3 +1197,4 @@
 ||sdkconfig.ad.intl.xiaomi.com^
 ||www.cdn.ad.xiaomi.com^
 ||tracking.miui.com^
+||sa.api.intl.miui.com^

@@ -1335,3 +1335,4 @@
 ||viafoura.net^
 ||cdn.viafoura.net^
 ||cf.eip.telegraph.co.uk^
+||telegraphmedia.bootstrap.fyre.co^

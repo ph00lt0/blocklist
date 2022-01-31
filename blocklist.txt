@@ -1315,3 +1315,4 @@
 ||awin1.com^
 ||zenaps.com^
 ||eu.wbgaf.com^
+||wbgaf.com^

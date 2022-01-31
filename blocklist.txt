@@ -1346,7 +1346,7 @@
 ||conviva.com^
 ||cookiepro.com^
 ||cookie-cdn.cookiepro.com^
-
-
-
-
+||fouanalytics.com^
+||api.fouanalytics.com^
+||ezodn.com^
+||go.ezodn.com^

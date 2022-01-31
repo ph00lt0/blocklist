@@ -1251,3 +1251,4 @@
 ||ssl.google-analytics.com^
 ||analyticsengine.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^

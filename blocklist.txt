@@ -1340,3 +1340,4 @@
 ||nexus.ensighten.com^
 ||ensighten.com^
 ||nitehawk.hearst.io^
+||stats.valitype.com^

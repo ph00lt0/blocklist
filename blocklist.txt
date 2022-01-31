@@ -1106,3 +1106,4 @@
 ||js.chargebee.com^
 ||dynamicyield.com^
 ||cdn.dynamicyield.com^
+||cookiehub.net^

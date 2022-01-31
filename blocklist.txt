@@ -1215,3 +1215,4 @@
 ||ads.youtube.com^
 ||youtube.cleverads.vn^
 ||analytics-sg.tiktok.com^
+||ads-sg.tiktok.com^

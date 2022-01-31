@@ -1213,3 +1213,4 @@
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
 ||ads.youtube.com^
+||youtube.cleverads.vn^

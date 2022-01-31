@@ -1188,3 +1188,4 @@
 ||logbak.hicloud.com^
 ||hicloud.com^
 ||api.ad.xiaomi.com^
+||app.chat.xiaomi.net^

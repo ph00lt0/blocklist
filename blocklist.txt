@@ -1191,3 +1191,4 @@
 ||app.chat.xiaomi.net^
 ||data.mistat.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
+||data.mistat.india.xiaomi.com^

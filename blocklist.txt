@@ -1,4 +1,4 @@
-! Title: ph00lt0: Blocklist
+! Title: ph00lt0 - Blocklist
 ! Expires: 1 days
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists

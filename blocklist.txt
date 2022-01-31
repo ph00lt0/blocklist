@@ -1221,3 +1221,4 @@
 ||rereddit.com^
 ||events.redditmedia.com^
 ||ads.pinterest.com^
+||log.pinterest.com^

@@ -1162,3 +1162,4 @@
 ||metrics.icloud.com^
 ||metrics.apple.com^
 ||ad.samsungadhub.com^
+||samsungadhub.com^

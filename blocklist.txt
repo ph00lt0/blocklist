@@ -1107,3 +1107,4 @@
 ||dynamicyield.com^
 ||cdn.dynamicyield.com^
 ||cookiehub.net^
+||cookiehub.com^

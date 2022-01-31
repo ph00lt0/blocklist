@@ -1257,3 +1257,4 @@
 ||amazonclix.com^
 ||assoc-amazon.com^
 ||fastclick.com^
+||fastclick.net^

@@ -1090,3 +1090,4 @@
 ||global.ketchcdn.com^
 ||privacy-center.org^
 ||www.didomi.io^
+||business.didomi.io^

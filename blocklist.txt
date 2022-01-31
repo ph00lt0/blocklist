@@ -1194,3 +1194,4 @@
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^

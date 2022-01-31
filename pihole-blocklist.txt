@@ -1383,3 +1383,4 @@
 0.0.0.0 kingsoft-office-service.com
 0.0.0.0 msgapi-prod-weu.cloudapp.net
 0.0.0.0 codevexillium.org
+0.0.0.0 investbooking.de

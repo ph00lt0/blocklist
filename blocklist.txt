@@ -1294,3 +1294,4 @@
 ||www.estrazionedellotto.it^
 ||www.lotto-italia.it^
 ||www.nationale-loterij.be^
+||www.e-lotto.be^

@@ -1273,3 +1273,4 @@
 ||lotteryguru.com^
 ||www.lotterypost.com^
 ||lotterypost.com^
+||www.lotto.net^

@@ -1271,3 +1271,4 @@
 ||www.national-lottery.co.uk^
 ||www.lottery.co.uk^
 ||lotteryguru.com^
+||www.lotterypost.com^

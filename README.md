@@ -1,4 +1,4 @@
-# Blocklist for Adguard Home and uBlock Origin
+# Blocklists for Adguard Home, uBlock Origin and PiHole
 
 Blocklist of analytics and annoyances found by my own research. Blocks:
 - Stats and analytics (including privacy preserving ones) 
@@ -22,6 +22,13 @@ https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt
 uBlock Origin does not seem to work with Gitlab's raw file for some vague reason. You can add;
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+```
+
+
+## PiHole
+For PiHole there is a different blocklist, containing the same domains prefixed with '0.0.0.0' as localhost
+```
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 ```
 
 

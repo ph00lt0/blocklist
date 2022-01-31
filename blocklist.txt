@@ -1254,3 +1254,4 @@
 ||affiliationjs.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
 ||amazonaax.com^
+||amazonclix.com^

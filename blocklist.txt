@@ -1026,3 +1026,4 @@
 ||tag.perfectaudience.com^
 ||perfectaudience.com^
 ||iubenda.com^
+||cdn.iubenda.com^

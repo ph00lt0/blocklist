@@ -1249,3 +1249,4 @@
 ||api-hotjar.com^
 ||hotjar-analytics.com^
 ||ssl.google-analytics.com^
+||analyticsengine.s3.amazonaws.com^

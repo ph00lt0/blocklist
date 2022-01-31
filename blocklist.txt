@@ -1239,3 +1239,4 @@
 ||app.bugsnag.com^
 ||sessions.bugsnag.com^
 ||luckyorange.com^
+||cdn.luckyorange.com^

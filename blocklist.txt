@@ -1176,3 +1176,4 @@
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||open.oneplus.net^
+||metrics.data.hicloud.com^

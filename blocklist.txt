@@ -1370,3 +1370,4 @@
 ||pixel.wp.com^
 ||policy.app.cookieinformation.com^
 ||cookieinformation.com^
+||matomo.stil.dk^

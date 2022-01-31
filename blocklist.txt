@@ -1355,3 +1355,4 @@
 ||pluralsight.pxf.io^
 ||pxf.io^
 ||ads.adthrive.com^
+||adthrive.com^

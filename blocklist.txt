@@ -1019,3 +1019,4 @@
 ||ads.httpool.in^
 ||httpool.in^
 ||foreoab.my.salesforce.com^
+||bazaarvoice.com^

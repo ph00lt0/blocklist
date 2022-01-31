@@ -1016,3 +1016,4 @@
 ||st-static.asos.com^
 ||btstatic.com^
 ||s.btstatic.com^
+||ads.httpool.in^

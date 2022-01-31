@@ -1112,3 +1112,4 @@
 ||goadopt.io^
 ||lauragassin.com^
 ||etracker.com^
+||static.etracker.com^

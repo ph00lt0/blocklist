@@ -1378,3 +1378,4 @@
 ||abtasty.com^
 ||try.abtasty.com^
 ||graph.facebook.net^
+||transplugin.io^

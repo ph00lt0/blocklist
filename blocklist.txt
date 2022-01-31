@@ -1066,3 +1066,4 @@
 ||policy.cookiereports.com^
 ||hello.myfonts.net^
 ||ai.marketing^
+||cookiefirst.com^

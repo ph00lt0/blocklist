@@ -1055,3 +1055,4 @@
 ||launcher.spot.im^
 ||bibblio.org^
 ||api.bibblio.org^
+||bbstatic.pcmag.com^

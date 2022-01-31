@@ -1088,3 +1088,4 @@
 ||ketch.com^
 ||ketchcdn.com^
 ||global.ketchcdn.com^
+||privacy-center.org^

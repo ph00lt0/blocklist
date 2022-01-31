@@ -1284,3 +1284,4 @@
 ||www.lottoland.com^
 ||www.lotto.de^
 ||www.lottostar24.com^
+||www.eurojackpot.org^

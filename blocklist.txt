@@ -1042,3 +1042,4 @@
 ||evidon.com^
 ||c.evidon.com^
 ||marketing-api.dreamhost.com^
+||partners.hostgator.com^

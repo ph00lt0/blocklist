@@ -1192,3 +1192,4 @@
 ||data.mistat.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^

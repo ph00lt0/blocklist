@@ -1262,3 +1262,4 @@
 ||cdn.fastclick.net^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
+||mediavisor.doubleclick.net^

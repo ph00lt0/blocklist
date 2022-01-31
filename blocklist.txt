@@ -1129,3 +1129,4 @@
 ||temptation.tubantia.nl^
 ||t.tubantia.nl^
 ||t.ad.nl^
+||temptation.ad.nl^

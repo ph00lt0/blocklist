@@ -1234,3 +1234,4 @@
 ||analytics.facebook.com^
 ||ads.facebook.com^
 ||an.facebook.com^
+||app.getsentry.com^

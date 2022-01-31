@@ -1123,3 +1123,4 @@
 ||charting.vwdservices.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||t.pzc.nl^
+||temptation.pzc.nl^

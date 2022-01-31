@@ -1116,3 +1116,4 @@
 ||www.consentmanager.net^
 ||consentmanager.net^
 ||axeptio.eu^
+||www.axeptio.eu^

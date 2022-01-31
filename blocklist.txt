@@ -1037,3 +1037,4 @@
 ||genesys-chat-production.cap.endurance.com^
 ||endurance.com^
 ||sift.com^
+||cdn.sift.com^

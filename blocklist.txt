@@ -1288,3 +1288,4 @@
 ||www.powerball.com^
 ||www.swisslos.ch^
 ||www.6richtige.ch^
+||www.lotto24.ch^

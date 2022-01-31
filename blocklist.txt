@@ -1318,3 +1318,4 @@
 ||wbgaf.com^
 ||wbgtp.com^
 ||cquotient.com^
+||cdn.cquotient.com^

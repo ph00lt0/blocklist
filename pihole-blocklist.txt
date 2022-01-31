@@ -1348,3 +1348,4 @@
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 fouanalytics.com
 0.0.0.0 api.fouanalytics.com
+0.0.0.0 ezodn.com

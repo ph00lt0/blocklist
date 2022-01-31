@@ -1225,3 +1225,4 @@
 ||ads-dev.pinterest.com^
 ||analytics.pinterest.com^
 ||trk.pinterest.com^
+||widgets.pinterest.com^

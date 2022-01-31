@@ -1321,3 +1321,4 @@
 ||cdn.cquotient.com^
 ||igodigital.com^
 ||collect.igodigital.com^
+||integrations.fitanalytics.com^

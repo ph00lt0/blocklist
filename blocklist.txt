@@ -1155,3 +1155,4 @@
 ||www.trustguard.com^
 ||seal.trustguard.com^
 ||shopperapproved.com^
+||wwww.shopperapproved.com^

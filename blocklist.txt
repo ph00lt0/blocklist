@@ -1025,3 +1025,4 @@
 ||cdn.trustindex.io^
 ||tag.perfectaudience.com^
 ||perfectaudience.com^
+||iubenda.com^

@@ -1144,3 +1144,4 @@
 ||t.bd.nl^
 ||plista.com^
 ||static-nl.plista.com^
+||popupsmart.com^

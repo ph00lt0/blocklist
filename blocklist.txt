@@ -1156,3 +1156,4 @@
 ||seal.trustguard.com^
 ||shopperapproved.com^
 ||wwww.shopperapproved.com^
+||2o7.net^

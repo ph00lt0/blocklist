@@ -1103,3 +1103,4 @@
 ||cdn.privacytools.com.br^
 ||d335luupugsy2.cloudfront.net^
 ||chargebee.com^
+||js.chargebee.com^

@@ -1245,3 +1245,4 @@
 ||cs.luckyorange.net^
 ||settings.luckyorange.net^
 ||freshmarketer.com^
+||a.mouseflow.com^

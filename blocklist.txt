@@ -1094,3 +1094,4 @@
 ||sf-syn.com^
 ||b.sf-syn.com^
 ||hscollectedforms.net^
+||js.hscollectedforms.net^

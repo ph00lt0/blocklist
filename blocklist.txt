@@ -1308,3 +1308,4 @@
 ||elabs3.com^
 ||www.elabs3.com^
 ||sentry.issuu.com^
+||pingback.issuu.com^

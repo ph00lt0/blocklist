@@ -1346,3 +1346,4 @@
 0.0.0.0 conviva.com
 0.0.0.0 cookiepro.com
 0.0.0.0 cookie-cdn.cookiepro.com
+0.0.0.0 fouanalytics.com

@@ -1306,3 +1306,4 @@
 ||userzoom.com^
 ||cdn4.userzoom.com^
 ||elabs3.com^
+||www.elabs3.com^

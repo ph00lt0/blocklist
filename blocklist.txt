@@ -1146,3 +1146,4 @@
 ||static-nl.plista.com^
 ||popupsmart.com^
 ||apiv2.popupsmart.com^
+||sponsorlink.nl^

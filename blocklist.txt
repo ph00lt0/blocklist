@@ -1067,3 +1067,4 @@
 ||hello.myfonts.net^
 ||ai.marketing^
 ||cookiefirst.com^
+||cmp.osano.com^

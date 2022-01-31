@@ -1096,3 +1096,4 @@
 ||hscollectedforms.net^
 ||js.hscollectedforms.net^
 ||g2crowd.com^
+||tracking.g2crowd.com^

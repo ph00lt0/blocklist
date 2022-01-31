@@ -1121,3 +1121,4 @@
 ||content2.nrc.nl^
 ||vwdservices.com^
 ||charting.vwdservices.com^
+||advertising-cdn.dpgmedia.cloud^

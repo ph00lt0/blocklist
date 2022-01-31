@@ -1201,3 +1201,4 @@
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
+||appmetrica.yandex.com^

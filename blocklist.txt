@@ -1205,3 +1205,4 @@
 ||yandexadexchange.net^
 ||analytics.mobile.yandex.net^
 ||extmaps-api.yandex.net^
+||adsdk.yandex.ru^

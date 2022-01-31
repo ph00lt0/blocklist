@@ -1377,3 +1377,4 @@
 0.0.0.0 adserver.adtech.de
 0.0.0.0 abtasty.com
 0.0.0.0 try.abtasty.com
+0.0.0.0 graph.facebook.net

@@ -1377,3 +1377,4 @@
 ||adserver.adtech.de^
 ||abtasty.com^
 ||try.abtasty.com^
+||graph.facebook.net^

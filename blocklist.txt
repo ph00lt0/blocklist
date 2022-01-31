@@ -1287,3 +1287,4 @@
 ||www.eurojackpot.org^
 ||www.powerball.com^
 ||www.swisslos.ch^
+||www.6richtige.ch^

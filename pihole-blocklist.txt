@@ -1358,3 +1358,4 @@
 0.0.0.0 adthrive.com
 0.0.0.0 npttech.com
 0.0.0.0 www.npttech.com
+0.0.0.0 inbenta.io

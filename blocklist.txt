@@ -1358,3 +1358,4 @@
 ||adthrive.com^
 ||npttech.com^
 ||www.npttech.com^
+||inbenta.io^

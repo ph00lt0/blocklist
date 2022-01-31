@@ -1108,3 +1108,4 @@
 ||cdn.dynamicyield.com^
 ||cookiehub.net^
 ||cookiehub.com^
+||usefathom.com^

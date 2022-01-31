@@ -1261,3 +1261,4 @@
 ||media.fastclick.net^
 ||cdn.fastclick.net^
 ||static.doubleclick.net^
+||m.doubleclick.net^

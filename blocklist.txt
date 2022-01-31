@@ -1076,3 +1076,4 @@
 ||cookieyes.com^
 ||cdn-cookieyes.com^
 ||convertexperiments.com^
+||cdn-3.convertexperiments.com^

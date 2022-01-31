@@ -1297,3 +1297,4 @@
 ||www.e-lotto.be^
 ||lotto.nederlandseloterij.nl^
 ||www.fdj.fr^
+||www.veikkaus.fi^

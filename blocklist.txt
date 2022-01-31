@@ -1333,3 +1333,4 @@
 ||viafoura.co^
 ||livecomments.viafoura.co^
 ||viafoura.net^
+||cdn.viafoura.net^

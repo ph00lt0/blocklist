@@ -1202,3 +1202,4 @@
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
 ||appmetrica.yandex.com^
+||yandexadexchange.net^

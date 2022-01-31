@@ -1122,3 +1122,4 @@
 ||vwdservices.com^
 ||charting.vwdservices.com^
 ||advertising-cdn.dpgmedia.cloud^
+||t.pzc.nl^

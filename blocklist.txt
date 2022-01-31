@@ -1014,3 +1014,4 @@
 ||s2.go-mpulse.net^
 ||metrics.asos.com^
 ||st-static.asos.com^
+||btstatic.com^

@@ -1104,3 +1104,4 @@
 ||d335luupugsy2.cloudfront.net^
 ||chargebee.com^
 ||js.chargebee.com^
+||dynamicyield.com^

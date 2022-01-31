@@ -1334,3 +1334,4 @@
 ||livecomments.viafoura.co^
 ||viafoura.net^
 ||cdn.viafoura.net^
+||cf.eip.telegraph.co.uk^

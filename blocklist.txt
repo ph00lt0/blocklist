@@ -1312,3 +1312,4 @@
 ||cdn-ukwest.onetrust.com^
 ||apigee.net^
 ||snapwidget.com^
+||awin1.com^

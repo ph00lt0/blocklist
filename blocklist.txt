@@ -1296,3 +1296,4 @@
 ||www.nationale-loterij.be^
 ||www.e-lotto.be^
 ||lotto.nederlandseloterij.nl^
+||www.fdj.fr^

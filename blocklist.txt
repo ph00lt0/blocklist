@@ -1007,3 +1007,4 @@
 ||js.hsforms.net^
 ||a.klaviyo.com^
 ||o22319.ingest.sentry.io^
+||jivosite.com^

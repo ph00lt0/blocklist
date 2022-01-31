@@ -1143,3 +1143,4 @@
 ||temptation.bd.nl^
 ||t.bd.nl^
 ||plista.com^
+||static-nl.plista.com^

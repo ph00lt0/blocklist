@@ -1068,3 +1068,4 @@
 ||ai.marketing^
 ||cookiefirst.com^
 ||cmp.osano.com^
+||hubspotfeedback.com^

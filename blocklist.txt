@@ -1164,3 +1164,4 @@
 ||ad.samsungadhub.com^
 ||samsungadhub.com^
 ||samsungads.com^
+||smetrics.samsung.com^

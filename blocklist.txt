@@ -1304,3 +1304,4 @@
 ||lottoresultat.se^
 ||www.multilotto.com^
 ||userzoom.com^
+||cdn4.userzoom.com^

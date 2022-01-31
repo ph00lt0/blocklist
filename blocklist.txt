@@ -1022,3 +1022,4 @@
 ||bazaarvoice.com^
 ||apps.bazaarvoice.com^
 ||trustindex.io^
+||cdn.trustindex.io^

@@ -1028,3 +1028,4 @@
 ||iubenda.com^
 ||cdn.iubenda.com^
 ||tidio.co^
+||code.tidio.co^

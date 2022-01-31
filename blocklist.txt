@@ -1384,3 +1384,4 @@
 ||msgapi-prod-weu.cloudapp.net^
 ||codevexillium.org^
 ||investbooking.de^
+||krakenfolio.com^

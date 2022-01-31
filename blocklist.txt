@@ -1329,3 +1329,4 @@
 ||cdn-191.privacy-mgmt.com^
 ||fyre.co^
 ||petametrics.com^
+||cdn.petametrics.com^

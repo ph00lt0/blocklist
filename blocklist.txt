@@ -1309,3 +1309,4 @@
 ||www.elabs3.com^
 ||sentry.issuu.com^
 ||pingback.issuu.com^
+||cdn-ukwest.onetrust.com^

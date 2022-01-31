@@ -1228,3 +1228,4 @@
 ||widgets.pinterest.com^
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
+||ads-api.twitter.com^

@@ -1,4 +1,4 @@
-# Blocklist for Adguard Home
+# Blocklist for Adguard Home and Ublock Origin
 
 Blocklist of analytics and annoyances found by my own research. Blocks:
 - Stats and analytics (including privacy preserving ones) 

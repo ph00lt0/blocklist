@@ -1063,3 +1063,4 @@
 ||api.bibblio.org^
 ||bbstatic.pcmag.com^
 ||cookiereports.com^
+||policy.cookiereports.com^

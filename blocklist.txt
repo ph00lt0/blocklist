@@ -1032,3 +1032,4 @@
 ||analytics.guestplan.app^
 ||platform.clientchatlive.com^
 ||clientchatlive.com^
+||callrail.com^

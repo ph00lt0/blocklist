@@ -1322,3 +1322,4 @@
 ||igodigital.com^
 ||collect.igodigital.com^
 ||integrations.fitanalytics.com^
+||fitanalytics.com^

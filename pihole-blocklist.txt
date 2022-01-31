@@ -1365,3 +1365,4 @@
 0.0.0.0 piwik.nic.cz
 0.0.0.0 commerce.coinbase.com
 0.0.0.0 coinwidget.com
+0.0.0.0 getclicky.com

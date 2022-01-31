@@ -1374,3 +1374,4 @@
 0.0.0.0 www.surveygizmo.eu
 0.0.0.0 surveygizmo.eu
 0.0.0.0 adtech.de
+0.0.0.0 adserver.adtech.de

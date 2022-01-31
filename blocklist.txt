@@ -1374,3 +1374,4 @@
 ||www.surveygizmo.eu^
 ||surveygizmo.eu^
 ||adtech.de^
+||adserver.adtech.de^

@@ -1319,3 +1319,4 @@
 ||wbgtp.com^
 ||cquotient.com^
 ||cdn.cquotient.com^
+||igodigital.com^

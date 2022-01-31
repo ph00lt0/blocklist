@@ -1071,3 +1071,4 @@
 ||hubspotfeedback.com^
 ||js.hubspotfeedback.com^
 ||cdn.heapanalytics.com^
+||embed.tawk.to^

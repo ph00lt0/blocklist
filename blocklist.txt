@@ -1149,3 +1149,4 @@
 ||sponsorlink.nl^
 ||www.sponsorlink.nl^
 ||siteimprove.com^
+||ssl.siteimprove.com^

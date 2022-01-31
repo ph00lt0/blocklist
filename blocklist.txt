@@ -1207,3 +1207,4 @@
 ||extmaps-api.yandex.net^
 ||adsdk.yandex.ru^
 ||ads.yahoo.com^
+||global.adserver.yahoo.com^

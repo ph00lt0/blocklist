@@ -1368,3 +1368,4 @@
 ||getclicky.com^
 ||static.getclicky.com^
 ||pixel.wp.com^
+||policy.app.cookieinformation.com^

@@ -1211,3 +1211,4 @@
 ||analytics.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.tiktok.com^
+||analytics.tiktok.com^

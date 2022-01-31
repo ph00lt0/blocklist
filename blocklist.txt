@@ -1031,3 +1031,4 @@
 ||code.tidio.co^
 ||analytics.guestplan.app^
 ||platform.clientchatlive.com^
+||clientchatlive.com^

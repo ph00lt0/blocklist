@@ -1280,3 +1280,4 @@
 ||lottery.rhs.org.uk^
 ||poppylottery.org.uk^
 ||www.camelotgroup.co.uk^
+||www.irishlottery.com^

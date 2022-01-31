@@ -1091,3 +1091,4 @@
 ||privacy-center.org^
 ||www.didomi.io^
 ||business.didomi.io^
+||sf-syn.com^

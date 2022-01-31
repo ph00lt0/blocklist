@@ -1204,3 +1204,4 @@
 ||appmetrica.yandex.com^
 ||yandexadexchange.net^
 ||analytics.mobile.yandex.net^
+||extmaps-api.yandex.net^

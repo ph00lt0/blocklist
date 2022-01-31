@@ -1114,3 +1114,4 @@
 ||etracker.com^
 ||static.etracker.com^
 ||www.consentmanager.net^
+||consentmanager.net^

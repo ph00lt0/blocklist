@@ -1208,3 +1208,4 @@
 ||adsdk.yandex.ru^
 ||ads.yahoo.com^
 ||global.adserver.yahoo.com^
+||analytics.yahoo.com^

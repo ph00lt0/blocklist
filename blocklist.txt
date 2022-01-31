@@ -1089,3 +1089,4 @@
 ||ketchcdn.com^
 ||global.ketchcdn.com^
 ||privacy-center.org^
+||www.didomi.io^

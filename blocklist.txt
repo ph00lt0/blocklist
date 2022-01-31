@@ -1361,3 +1361,4 @@
 ||inbenta.io^
 ||sdk.inbenta.io^
 ||arcot.com^
+||argus.arcot.com^

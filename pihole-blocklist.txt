@@ -1361,3 +1361,4 @@
 0.0.0.0 inbenta.io
 0.0.0.0 sdk.inbenta.io
 0.0.0.0 arcot.com
+0.0.0.0 argus.arcot.com

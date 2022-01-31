@@ -1367,3 +1367,4 @@
 ||coinwidget.com^
 ||getclicky.com^
 ||static.getclicky.com^
+||pixel.wp.com^

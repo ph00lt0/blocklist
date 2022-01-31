@@ -1367,3 +1367,4 @@
 0.0.0.0 coinwidget.com
 0.0.0.0 getclicky.com
 0.0.0.0 static.getclicky.com
+0.0.0.0 pixel.wp.com

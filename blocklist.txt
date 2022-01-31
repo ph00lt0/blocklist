@@ -1353,3 +1353,4 @@
 ||ampproject.org^
 ||cdn.ampproject.org^
 ||pluralsight.pxf.io^
+||pxf.io^

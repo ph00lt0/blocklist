@@ -1366,3 +1366,4 @@
 ||commerce.coinbase.com^
 ||coinwidget.com^
 ||getclicky.com^
+||static.getclicky.com^

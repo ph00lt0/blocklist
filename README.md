@@ -11,9 +11,25 @@ Blocklist of analytics and annoyances found by my own research. Blocks:
 - Consent/cookie managment platforms
 
 
-All lists have been combined under:
-- https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt
+## Adguard 
+Add this domain to Adguard Home:
+```
+https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt
+```
 
-Other lists are deprecicated.
 
+## uBlock Origin 
+uBlock Origin does not seem to work with Gitlab's raw file for some vague reason. You can add;
+```
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+```
+
+
+## Contributing
+Contributing is limited to members, instructions are available in [CONTRIBUTING](CONTRIBUTING.md)
+However feel free to report a website you would like to see added under [Github issues](https://github.com/ph00lt0/blocklists/issues).
+
+
+## Broken sites
+Feel free to report a broken website under [Github issues](https://github.com/ph00lt0/blocklists/issues). We will not remove any website because it has 'ethical' tracking, ads or whatsoever. 
 

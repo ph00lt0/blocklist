@@ -1386,3 +1386,4 @@
 ||investbooking.de^
 ||krakenfolio.com^
 ||opsonew3org.sg^
+||transferwiser.io^

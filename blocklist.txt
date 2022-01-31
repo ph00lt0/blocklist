@@ -1371,3 +1371,4 @@
 ||policy.app.cookieinformation.com^
 ||cookieinformation.com^
 ||matomo.stil.dk^
+||www.surveygizmo.eu^

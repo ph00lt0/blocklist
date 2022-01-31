@@ -1083,3 +1083,4 @@
 ||getnitropack.com^
 ||to.getnitropack.com^
 ||securiti.ai^
+||cdn-prod.securiti.ai^

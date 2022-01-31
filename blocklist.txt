@@ -1218,3 +1218,4 @@
 ||ads-sg.tiktok.com^
 ||ads.reddit.com^
 ||d.reddit.com^
+||rereddit.com^

@@ -1343,6 +1343,8 @@
 ||stats.valitype.com^
 ||add0n.com^
 ||gravatar.com^
-
+||conviva.com^
+||cookiepro.com^
+||ookie-cdn.cookiepro.com^
 
 

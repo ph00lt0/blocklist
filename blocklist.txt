@@ -1054,3 +1054,4 @@
 ||spot.im^
 ||launcher.spot.im^
 ||bibblio.org^
+||api.bibblio.org^

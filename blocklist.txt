@@ -1323,3 +1323,4 @@
 ||collect.igodigital.com^
 ||integrations.fitanalytics.com^
 ||fitanalytics.com^
+||display.ugc.bazaarvoice.com^

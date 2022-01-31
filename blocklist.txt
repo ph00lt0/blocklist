@@ -1223,3 +1223,4 @@
 ||ads.pinterest.com^
 ||log.pinterest.com^
 ||ads-dev.pinterest.com^
+||analytics.pinterest.com^

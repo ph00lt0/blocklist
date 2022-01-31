@@ -1359,3 +1359,4 @@
 ||npttech.com^
 ||www.npttech.com^
 ||inbenta.io^
+||sdk.inbenta.io^

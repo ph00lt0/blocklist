@@ -1350,3 +1350,4 @@
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 ezodn.com
 0.0.0.0 go.ezodn.com
+0.0.0.0 ampproject.org

@@ -1350,3 +1350,4 @@
 ||api.fouanalytics.com^
 ||ezodn.com^
 ||go.ezodn.com^
+||ampproject.org^

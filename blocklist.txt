@@ -1203,3 +1203,4 @@
 ||tracking.rus.miui.com^
 ||appmetrica.yandex.com^
 ||yandexadexchange.net^
+||analytics.mobile.yandex.net^

@@ -1080,3 +1080,4 @@
 ||ssl-munchkin.marketo.net^
 ||mktossl.com^
 ||ab45.mktossl.com^
+||getnitropack.com^

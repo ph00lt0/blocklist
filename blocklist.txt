@@ -1233,3 +1233,4 @@
 ||pixel.facebook.com^
 ||analytics.facebook.com^
 ||ads.facebook.com^
+||an.facebook.com^

@@ -1150,3 +1150,4 @@
 ||www.sponsorlink.nl^
 ||siteimprove.com^
 ||ssl.siteimprove.com^
+||helpscout.net^

@@ -1010,3 +1010,4 @@
 ||jivosite.com^
 ||code-ya.jivosite.com^
 ||axept.io^
+||static.axept.io^

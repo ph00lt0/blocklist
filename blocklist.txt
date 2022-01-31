@@ -1244,3 +1244,4 @@
 ||upload.luckyorange.net^
 ||cs.luckyorange.net^
 ||settings.luckyorange.net^
+||freshmarketer.com^

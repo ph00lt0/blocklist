@@ -1173,3 +1173,4 @@
 ||analytics-api.samsunghealthcn.com^
 ||config.samsungads.com^
 ||analytics.oneplus.cn^
+||click.oneplus.cn^

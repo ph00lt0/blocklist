@@ -1187,3 +1187,4 @@
 ||metrics-dra.dt.hicloud.com^
 ||logbak.hicloud.com^
 ||hicloud.com^
+||api.ad.xiaomi.com^

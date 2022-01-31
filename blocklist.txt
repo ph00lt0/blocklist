@@ -1210,3 +1210,4 @@
 ||global.adserver.yahoo.com^
 ||analytics.yahoo.com^
 ||ads.yap.yahoo.com^
+||ads.tiktok.com^

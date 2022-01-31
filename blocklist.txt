@@ -1237,3 +1237,4 @@
 ||app.getsentry.com^
 ||notify.bugsnag.com^
 ||app.bugsnag.com^
+||sessions.bugsnag.com^

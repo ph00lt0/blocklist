@@ -1151,3 +1151,4 @@
 ||siteimprove.com^
 ||ssl.siteimprove.com^
 ||helpscout.net^
+||beacon-v2.helpscout.net^

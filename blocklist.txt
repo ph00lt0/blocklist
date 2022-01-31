@@ -1189,3 +1189,4 @@
 ||hicloud.com^
 ||api.ad.xiaomi.com^
 ||app.chat.xiaomi.net^
+||data.mistat.xiaomi.com^

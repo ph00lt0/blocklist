@@ -1138,3 +1138,4 @@
 ||temptation.bndestem.nl^
 ||temptation-module-assets.api.dpgmedia.cloud^
 ||indebuurt.nl^
+||temptation.ed.nl^

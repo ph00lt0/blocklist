@@ -1246,3 +1246,4 @@
 ||settings.luckyorange.net^
 ||freshmarketer.com^
 ||a.mouseflow.com^
+||api-hotjar.com^

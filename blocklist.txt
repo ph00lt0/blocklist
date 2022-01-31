@@ -1277,3 +1277,4 @@
 ||jackpot.com^
 ||lotto.merseyworld.com^
 ||www.playuklottery.com^
+||lottery.rhs.org.uk^

@@ -1217,3 +1217,4 @@
 ||analytics-sg.tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads.reddit.com^
+||d.reddit.com^

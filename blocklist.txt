@@ -1259,3 +1259,4 @@
 ||fastclick.com^
 ||fastclick.net^
 ||media.fastclick.net^
+||cdn.fastclick.net^

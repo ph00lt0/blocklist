@@ -1153,3 +1153,4 @@
 ||helpscout.net^
 ||beacon-v2.helpscout.net^
 ||www.trustguard.com^
+||seal.trustguard.com^

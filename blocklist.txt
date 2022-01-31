@@ -1142,3 +1142,4 @@
 ||t.ed.nl^
 ||temptation.bd.nl^
 ||t.bd.nl^
+||plista.com^

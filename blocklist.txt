@@ -1331,3 +1331,4 @@
 ||petametrics.com^
 ||cdn.petametrics.com^
 ||viafoura.co^
+||livecomments.viafoura.co^

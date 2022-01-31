@@ -1073,3 +1073,4 @@
 ||cdn.heapanalytics.com^
 ||embed.tawk.to^
 ||www.cookieyes.com^
+||cookieyes.com^

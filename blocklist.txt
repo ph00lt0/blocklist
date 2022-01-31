@@ -1338,3 +1338,4 @@
 ||telegraphmedia.bootstrap.fyre.co^
 ||cf-particle-html.eip.telegraph.co.uk^
 ||nexus.ensighten.com^
+||ensighten.com^

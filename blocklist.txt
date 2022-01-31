@@ -1316,3 +1316,4 @@
 ||zenaps.com^
 ||eu.wbgaf.com^
 ||wbgaf.com^
+||wbgtp.com^

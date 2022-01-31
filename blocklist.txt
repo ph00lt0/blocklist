@@ -1168,3 +1168,4 @@
 ||nmetrics.samsung.com^
 ||samsung-com.112.2o7.net^
 ||business.samsungusa.com^
+||analytics.samsungknox.com^

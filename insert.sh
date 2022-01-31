@@ -22,7 +22,7 @@ if grep -q $blocklistRule "$blocklist"; then
             echo "$domain rule added before you"
         else    
             if [ "$domain" != "" ]; then
-               printf "$blockListRule\n" >> "$blocklist"
+               printf "$blocklistRule\n" >> "$blocklist"
                printf "$piholeBlocklistRule\n" >> "$piholeBlocklist" 
                git commit -am "added $domain to blocklist" && git push origin master && git push github master
                echo "added $domain"

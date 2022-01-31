@@ -1017,3 +1017,4 @@
 ||btstatic.com^
 ||s.btstatic.com^
 ||ads.httpool.in^
+||httpool.in^

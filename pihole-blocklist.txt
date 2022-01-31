@@ -1363,3 +1363,4 @@
 0.0.0.0 arcot.com
 0.0.0.0 argus.arcot.com
 0.0.0.0 piwik.nic.cz
+0.0.0.0 commerce.coinbase.com

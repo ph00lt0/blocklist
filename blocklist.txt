@@ -1035,3 +1035,4 @@
 ||callrail.com^
 ||js.callrail.com^
 ||genesys-chat-production.cap.endurance.com^
+||endurance.com^

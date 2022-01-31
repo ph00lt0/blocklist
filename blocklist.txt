@@ -1069,3 +1069,4 @@
 ||cookiefirst.com^
 ||cmp.osano.com^
 ||hubspotfeedback.com^
+||js.hubspotfeedback.com^

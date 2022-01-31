@@ -1314,3 +1314,4 @@
 ||snapwidget.com^
 ||awin1.com^
 ||zenaps.com^
+||eu.wbgaf.com^

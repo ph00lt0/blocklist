@@ -1029,3 +1029,4 @@
 ||cdn.iubenda.com^
 ||tidio.co^
 ||code.tidio.co^
+||analytics.guestplan.app^

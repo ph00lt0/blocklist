@@ -1339,3 +1339,4 @@
 ||cf-particle-html.eip.telegraph.co.uk^
 ||nexus.ensighten.com^
 ||ensighten.com^
+||nitehawk.hearst.io^

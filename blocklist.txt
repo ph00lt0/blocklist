@@ -1295,3 +1295,4 @@
 ||www.lotto-italia.it^
 ||www.nationale-loterij.be^
 ||www.e-lotto.be^
+||lotto.nederlandseloterij.nl^

@@ -1275,3 +1275,4 @@
 ||lotterypost.com^
 ||www.lotto.net^
 ||jackpot.com^
+||lotto.merseyworld.com^

@@ -1364,3 +1364,4 @@
 ||argus.arcot.com^
 ||piwik.nic.cz^
 ||commerce.coinbase.com^
+||coinwidget.com^

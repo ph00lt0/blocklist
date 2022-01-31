@@ -1008,3 +1008,4 @@
 ||a.klaviyo.com^
 ||o22319.ingest.sentry.io^
 ||jivosite.com^
+||code-ya.jivosite.com^

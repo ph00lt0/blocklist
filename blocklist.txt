@@ -1272,3 +1272,4 @@
 ||www.lottery.co.uk^
 ||lotteryguru.com^
 ||www.lotterypost.com^
+||lotterypost.com^

@@ -11,7 +11,7 @@ Blocklist of analytics and annoyances found by my own research. Blocks:
 - Consent/cookie managment platforms
 
 
-## Adguard 
+## Adguard Home
 Add this domain to Adguard Home:
 ```
 https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt

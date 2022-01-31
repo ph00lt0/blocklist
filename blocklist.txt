@@ -1152,3 +1152,4 @@
 ||ssl.siteimprove.com^
 ||helpscout.net^
 ||beacon-v2.helpscout.net^
+||www.trustguard.com^

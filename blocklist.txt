@@ -1082,3 +1082,4 @@
 ||ab45.mktossl.com^
 ||getnitropack.com^
 ||to.getnitropack.com^
+||securiti.ai^

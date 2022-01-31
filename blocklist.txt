@@ -1051,3 +1051,4 @@
 ||cdn.p-n.io^
 ||ziffstatic.com^
 ||cdn.ziffstatic.com^
+||spot.im^

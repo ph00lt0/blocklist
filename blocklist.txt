@@ -1356,3 +1356,4 @@
 ||pxf.io^
 ||ads.adthrive.com^
 ||adthrive.com^
+||npttech.com^

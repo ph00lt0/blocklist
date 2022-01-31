@@ -1356,3 +1356,4 @@
 0.0.0.0 pxf.io
 0.0.0.0 ads.adthrive.com
 0.0.0.0 adthrive.com
+0.0.0.0 npttech.com

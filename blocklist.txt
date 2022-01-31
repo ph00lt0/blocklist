@@ -1301,3 +1301,4 @@
 ||danskespil.dk^
 ||www.lottostat.dk^
 ||www.svenskaspel.se^
+||lottoresultat.se^

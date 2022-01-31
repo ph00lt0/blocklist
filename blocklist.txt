@@ -1255,3 +1255,4 @@
 ||advertising-api-eu.amazon.com^
 ||amazonaax.com^
 ||amazonclix.com^
+||assoc-amazon.com^

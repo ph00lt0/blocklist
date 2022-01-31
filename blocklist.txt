@@ -1161,3 +1161,4 @@
 ||metrics.mzstatic.com^
 ||metrics.icloud.com^
 ||metrics.apple.com^
+||ad.samsungadhub.com^

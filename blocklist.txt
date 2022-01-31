@@ -1,3 +1,9 @@
+! Title: ph00lt0: Blocklist
+! Expires: 1 days
+! Issue tracker: https://github.com/ph00lt0/blocklists
+! Homepage: https://github.com/ph00lt0/blocklists
+! Description: Blocklist for Stats and any analytics, lotttery, bug trackers, ads, data brokers, font content delivery networks and consent managment 
+
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
 ||privatestats.whatsapp.net^

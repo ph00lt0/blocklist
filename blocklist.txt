@@ -1033,3 +1033,4 @@
 ||platform.clientchatlive.com^
 ||clientchatlive.com^
 ||callrail.com^
+||js.callrail.com^

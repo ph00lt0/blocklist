@@ -1269,3 +1269,4 @@
 ||adservice.google.com^
 ||ads.google.com^
 ||www.national-lottery.co.uk^
+||www.lottery.co.uk^

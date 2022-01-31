@@ -1298,3 +1298,4 @@
 ||lotto.nederlandseloterij.nl^
 ||www.fdj.fr^
 ||www.veikkaus.fi^
+||danskespil.dk^

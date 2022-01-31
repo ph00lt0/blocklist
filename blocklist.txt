@@ -1023,3 +1023,4 @@
 ||apps.bazaarvoice.com^
 ||trustindex.io^
 ||cdn.trustindex.io^
+||tag.perfectaudience.com^

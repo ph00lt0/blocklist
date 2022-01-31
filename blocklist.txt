@@ -1181,3 +1181,4 @@
 ||metrics2.data.hicloud.com^
 ||metrics3.data.hicloud.com^
 ||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^

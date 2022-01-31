@@ -1345,6 +1345,4 @@
 ||gravatar.com^
 ||conviva.com^
 ||cookiepro.com^
-||ookie-cdn.cookiepro.com^
-
-
+||cookie-cdn.cookiepro.com^

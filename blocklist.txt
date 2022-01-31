@@ -1128,3 +1128,4 @@
 ||clientcdn.pushengage.com^
 ||temptation.tubantia.nl^
 ||t.tubantia.nl^
+||t.ad.nl^

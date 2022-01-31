@@ -1320,3 +1320,4 @@
 ||cquotient.com^
 ||cdn.cquotient.com^
 ||igodigital.com^
+||collect.igodigital.com^

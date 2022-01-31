@@ -1373,3 +1373,4 @@
 ||matomo.stil.dk^
 ||www.surveygizmo.eu^
 ||surveygizmo.eu^
+||adtech.de^

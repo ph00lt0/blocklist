@@ -1100,3 +1100,4 @@
 ||ethyca.com^
 ||cdn.ethyca.com^
 ||privacytools.com.br^
+||cdn.privacytools.com.br^

@@ -1326,3 +1326,4 @@
 ||display.ugc.bazaarvoice.com^
 ||pages09.net^
 ||www.pages09.net^
+||cdn-191.privacy-mgmt.com^

@@ -1157,3 +1157,4 @@
 ||shopperapproved.com^
 ||wwww.shopperapproved.com^
 ||2o7.net^
+||adtago.s3.amazonaws.com^

@@ -1351,3 +1351,4 @@
 0.0.0.0 ezodn.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 ampproject.org
+0.0.0.0 cdn.ampproject.org

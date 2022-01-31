@@ -1351,3 +1351,4 @@
 ||ezodn.com^
 ||go.ezodn.com^
 ||ampproject.org^
+||cdn.ampproject.org^

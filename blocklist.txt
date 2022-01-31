@@ -1258,3 +1258,4 @@
 ||assoc-amazon.com^
 ||fastclick.com^
 ||fastclick.net^
+||media.fastclick.net^

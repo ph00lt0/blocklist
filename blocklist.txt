@@ -1095,3 +1095,4 @@
 ||b.sf-syn.com^
 ||hscollectedforms.net^
 ||js.hscollectedforms.net^
+||g2crowd.com^

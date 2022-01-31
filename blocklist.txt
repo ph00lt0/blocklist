@@ -1231,3 +1231,4 @@
 ||ads-api.twitter.com^
 ||advertising.twitter.com^
 ||pixel.facebook.com^
+||analytics.facebook.com^

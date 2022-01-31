@@ -1375,3 +1375,4 @@
 ||surveygizmo.eu^
 ||adtech.de^
 ||adserver.adtech.de^
+||abtasty.com^

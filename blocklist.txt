@@ -1021,3 +1021,4 @@
 ||foreoab.my.salesforce.com^
 ||bazaarvoice.com^
 ||apps.bazaarvoice.com^
+||trustindex.io^

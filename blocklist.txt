@@ -1171,3 +1171,4 @@
 ||analytics.samsungknox.com^
 ||bigdata.ssp.samsung.com^
 ||analytics-api.samsunghealthcn.com^
+||config.samsungads.com^

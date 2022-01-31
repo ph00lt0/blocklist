@@ -1064,3 +1064,4 @@
 ||bbstatic.pcmag.com^
 ||cookiereports.com^
 ||policy.cookiereports.com^
+||hello.myfonts.net^

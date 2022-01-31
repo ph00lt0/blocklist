@@ -1050,3 +1050,4 @@
 ||p-n.io^
 ||cdn.p-n.io^
 ||ziffstatic.com^
+||cdn.ziffstatic.com^

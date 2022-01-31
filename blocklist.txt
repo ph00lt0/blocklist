@@ -1148,3 +1148,4 @@
 ||apiv2.popupsmart.com^
 ||sponsorlink.nl^
 ||www.sponsorlink.nl^
+||siteimprove.com^

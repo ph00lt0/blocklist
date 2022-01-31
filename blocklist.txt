@@ -1292,3 +1292,4 @@
 ||www.win2day.at^
 ||www.lotterien.at^
 ||www.estrazionedellotto.it^
+||www.lotto-italia.it^

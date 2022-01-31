@@ -1053,3 +1053,4 @@
 ||cdn.ziffstatic.com^
 ||spot.im^
 ||launcher.spot.im^
+||bibblio.org^

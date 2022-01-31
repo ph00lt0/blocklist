@@ -1229,3 +1229,4 @@
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
 ||ads-api.twitter.com^
+||advertising.twitter.com^

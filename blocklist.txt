@@ -1222,3 +1222,4 @@
 ||events.redditmedia.com^
 ||ads.pinterest.com^
 ||log.pinterest.com^
+||ads-dev.pinterest.com^

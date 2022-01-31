@@ -1013,3 +1013,4 @@
 ||static.axept.io^
 ||s2.go-mpulse.net^
 ||metrics.asos.com^
+||st-static.asos.com^

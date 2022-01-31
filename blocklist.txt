@@ -1354,3 +1354,4 @@
 ||cdn.ampproject.org^
 ||pluralsight.pxf.io^
 ||pxf.io^
+||ads.adthrive.com^

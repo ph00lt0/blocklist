@@ -1354,3 +1354,4 @@
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 pluralsight.pxf.io
 0.0.0.0 pxf.io
+0.0.0.0 ads.adthrive.com

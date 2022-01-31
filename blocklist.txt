@@ -1052,3 +1052,4 @@
 ||ziffstatic.com^
 ||cdn.ziffstatic.com^
 ||spot.im^
+||launcher.spot.im^

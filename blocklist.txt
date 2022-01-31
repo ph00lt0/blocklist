@@ -1085,3 +1085,4 @@
 ||securiti.ai^
 ||cdn-prod.securiti.ai^
 ||app-sj30.marketo.com^
+||ketch.com^

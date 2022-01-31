@@ -1115,3 +1115,4 @@
 ||static.etracker.com^
 ||www.consentmanager.net^
 ||consentmanager.net^
+||axeptio.eu^

@@ -1093,3 +1093,4 @@
 ||business.didomi.io^
 ||sf-syn.com^
 ||b.sf-syn.com^
+||hscollectedforms.net^

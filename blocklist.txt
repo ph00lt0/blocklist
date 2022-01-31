@@ -1336,3 +1336,4 @@
 ||cdn.viafoura.net^
 ||cf.eip.telegraph.co.uk^
 ||telegraphmedia.bootstrap.fyre.co^
+||cf-particle-html.eip.telegraph.co.uk^

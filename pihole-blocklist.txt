@@ -1372,3 +1372,4 @@
 0.0.0.0 cookieinformation.com
 0.0.0.0 matomo.stil.dk
 0.0.0.0 www.surveygizmo.eu
+0.0.0.0 surveygizmo.eu

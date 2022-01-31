@@ -1232,3 +1232,4 @@
 ||advertising.twitter.com^
 ||pixel.facebook.com^
 ||analytics.facebook.com^
+||ads.facebook.com^

@@ -1264,3 +1264,4 @@
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
 ||static.media.net^
+||adservetx.media.net^

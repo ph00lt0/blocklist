@@ -1357,3 +1357,4 @@
 ||ads.adthrive.com^
 ||adthrive.com^
 ||npttech.com^
+||www.npttech.com^

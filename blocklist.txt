@@ -1227,3 +1227,4 @@
 ||trk.pinterest.com^
 ||widgets.pinterest.com^
 ||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^

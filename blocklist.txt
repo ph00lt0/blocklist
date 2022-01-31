@@ -1160,3 +1160,4 @@
 ||adtago.s3.amazonaws.com^
 ||metrics.mzstatic.com^
 ||metrics.icloud.com^
+||metrics.apple.com^

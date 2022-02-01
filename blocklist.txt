@@ -1397,3 +1397,4 @@
 ||static.chartbeat.com^
 ||tribl.io^
 ||code.etracker.com^
+||:googletagmanager.com^

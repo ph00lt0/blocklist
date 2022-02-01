@@ -1394,3 +1394,4 @@
 ||cihost.uberflip.com^
 ||ufa.uberflip.com^
 ||ml314.com^
+||static.chartbeat.com^

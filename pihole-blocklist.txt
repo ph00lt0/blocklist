@@ -1394,3 +1394,4 @@
 0.0.0.0 cihost.uberflip.com
 0.0.0.0 ufa.uberflip.com
 0.0.0.0 ml314.com
+0.0.0.0 static.chartbeat.com

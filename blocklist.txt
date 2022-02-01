@@ -1392,3 +1392,4 @@
 ||assets.npo-data.nl^
 ||uberflip.com^
 ||cihost.uberflip.com^
+||ufa.uberflip.com^

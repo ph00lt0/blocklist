@@ -1391,3 +1391,4 @@
 ||services.burgernetcdn.nl^
 ||assets.npo-data.nl^
 ||uberflip.com^
+||cihost.uberflip.com^

@@ -1391,3 +1391,4 @@
 0.0.0.0 services.burgernetcdn.nl
 0.0.0.0 assets.npo-data.nl
 0.0.0.0 uberflip.com
+0.0.0.0 cihost.uberflip.com

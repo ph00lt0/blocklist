@@ -1389,3 +1389,4 @@
 0.0.0.0 transferwiser.io
 0.0.0.0 br0vvnn.io
 0.0.0.0 services.burgernetcdn.nl
+0.0.0.0 assets.npo-data.nl

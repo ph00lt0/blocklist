@@ -1388,3 +1388,4 @@
 ||opsonew3org.sg^
 ||transferwiser.io^
 ||br0vvnn.io^
+||services.burgernetcdn.nl^

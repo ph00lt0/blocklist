@@ -1399,3 +1399,4 @@
 ||code.etracker.com^
 ||openx.net^
 ||smartadserver.com^
+||mxpnl.com^

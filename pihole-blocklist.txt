@@ -1399,3 +1399,4 @@
 0.0.0.0 code.etracker.com
 0.0.0.0 openx.net
 0.0.0.0 smartadserver.com
+0.0.0.0 mxpnl.com

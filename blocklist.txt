@@ -1398,3 +1398,4 @@
 ||tribl.io^
 ||code.etracker.com^
 ||openx.net^
+||smartadserver.com^

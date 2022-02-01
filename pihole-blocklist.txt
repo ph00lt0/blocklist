@@ -1397,4 +1397,4 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 tribl.io
 0.0.0.0 code.etracker.com
-0.0.0.0 :googletagmanager.com
+0.0.0.0 openx.net

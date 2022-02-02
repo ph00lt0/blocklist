@@ -1437,3 +1437,4 @@
 0.0.0.0 jsm3zsn5kewlmk9q.dns-analytics.com
 0.0.0.0 domain-routing.com
 0.0.0.0 imgcss35d.domain-routing.com
+0.0.0.0 beanbounce.net

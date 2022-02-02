@@ -1499,3 +1499,4 @@
 ||vgz.my.salesforce.com^
 ||otag.h2os.com^
 ||gsa.apple.com^
+||l.google.com^

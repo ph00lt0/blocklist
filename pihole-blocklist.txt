@@ -1531,3 +1531,4 @@
 0.0.0.0 iggcdn.com
 0.0.0.0 omnisnippet1.com
 0.0.0.0 cdn.refersion.com
+0.0.0.0 pxucdn.com

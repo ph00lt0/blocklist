@@ -1500,3 +1500,4 @@
 ||otag.h2os.com^
 ||gsa.apple.com^
 ||l.google.com^
+||ws-mt1.pusher.com^

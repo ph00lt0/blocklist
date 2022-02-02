@@ -1526,3 +1526,4 @@
 ||scripttags.justuno.com^
 ||bsp.pxucdn.com^
 ||hextom.com^
+||cdn.hextom.com^

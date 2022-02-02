@@ -1433,3 +1433,4 @@
 0.0.0.0 jsb8dmc5z4.gettingurl.com
 0.0.0.0 redirigir.net
 0.0.0.0 v
+0.0.0.0 dns-analytics.com

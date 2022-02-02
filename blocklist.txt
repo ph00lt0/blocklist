@@ -1433,3 +1433,4 @@
 ||jsb8dmc5z4.gettingurl.com^
 ||redirigir.net^
 ||v^
+||dns-analytics.com^

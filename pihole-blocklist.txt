@@ -1505,3 +1505,4 @@
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 p3a.brave.com
 0.0.0.0 rewards.brave.com
+0.0.0.0 api.rewards.brave.com

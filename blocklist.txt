@@ -1504,3 +1504,4 @@
 ||oneclient.sfx.ms^
 ||p3a.brave.com^
 ||rewards.brave.com^
+||api.rewards.brave.com^

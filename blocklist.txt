@@ -1531,3 +1531,4 @@
 ||omnisnippet1.com^
 ||cdn.refersion.com^
 ||pxucdn.com^
+||automizely.com^

@@ -1532,3 +1532,4 @@
 0.0.0.0 omnisnippet1.com
 0.0.0.0 cdn.refersion.com
 0.0.0.0 pxucdn.com
+0.0.0.0 automizely.com

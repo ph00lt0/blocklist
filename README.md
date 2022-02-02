@@ -22,7 +22,7 @@ https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt
 
 
 ## uBlock Origin 
-uBlock Origin does not seem to work with Gitlab's raw file for some vague reason. You can add;
+uBlock Origin does not seem to work with Gitlab's raw file for some vague reason. You can add:
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```

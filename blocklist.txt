@@ -1487,3 +1487,4 @@
 ||pc41g20bm.redirectconnection.net^
 ||redirectconnection.net^
 ||jsj8sd9nf.randomlane.net^
+||randomlane.net^

@@ -1488,3 +1488,4 @@
 0.0.0.0 pc41g20bm.redirectconnection.net
 0.0.0.0 redirectconnection.net
 0.0.0.0 jsj8sd9nf.randomlane.net
+0.0.0.0 randomlane.net

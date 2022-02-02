@@ -1537,3 +1537,4 @@
 ||monorail-edge.shopifysvc.com^
 ||starapps.studio^
 ||assets-cdn.starapps.studio^
+||linkmink.com^

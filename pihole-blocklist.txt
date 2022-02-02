@@ -1448,3 +1448,4 @@
 0.0.0.0 mongo77usr.urlredirect.net
 0.0.0.0 urlredirect.net
 0.0.0.0 str1089.mailappzone.com
+0.0.0.0 mailappzone.com

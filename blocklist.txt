@@ -1448,3 +1448,4 @@
 ||mongo77usr.urlredirect.net^
 ||urlredirect.net^
 ||str1089.mailappzone.com^
+||mailappzone.com^

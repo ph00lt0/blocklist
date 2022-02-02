@@ -1481,3 +1481,4 @@
 0.0.0.0 topadblocker.net
 0.0.0.0 tv54d2ml1.topadblocker.net
 0.0.0.0 safecrusade.com
+0.0.0.0 drp2j4sdi.safecrusade.com

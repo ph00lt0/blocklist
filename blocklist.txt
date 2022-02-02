@@ -1482,3 +1482,4 @@
 ||tv54d2ml1.topadblocker.net^
 ||safecrusade.com^
 ||drp2j4sdi.safecrusade.com^
+||redirectweburl.com^

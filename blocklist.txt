@@ -1419,7 +1419,6 @@
 ||opera-van.com^
 ||myfundsdns.com^
 ||pypip36z19.myfundsdns.com^
-||[A[A^
 ||css912jy6.reception-desk.net^
 ||preferenceviews.com^
 ||js85mail.preferenceviews.com^
@@ -1432,7 +1431,6 @@
 ||gettingurl.com^
 ||jsb8dmc5z4.gettingurl.com^
 ||redirigir.net^
-||v^
 ||dns-analytics.com^
 ||jsm3zsn5kewlmk9q.dns-analytics.com^
 ||domain-routing.com^

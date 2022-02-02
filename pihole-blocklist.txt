@@ -1419,7 +1419,6 @@
 0.0.0.0 opera-van.com
 0.0.0.0 myfundsdns.com
 0.0.0.0 pypip36z19.myfundsdns.com
-0.0.0.0 [A[A
 0.0.0.0 css912jy6.reception-desk.net
 0.0.0.0 preferenceviews.com
 0.0.0.0 js85mail.preferenceviews.com
@@ -1432,7 +1431,6 @@
 0.0.0.0 gettingurl.com
 0.0.0.0 jsb8dmc5z4.gettingurl.com
 0.0.0.0 redirigir.net
-0.0.0.0 v
 0.0.0.0 dns-analytics.com
 0.0.0.0 jsm3zsn5kewlmk9q.dns-analytics.com
 0.0.0.0 domain-routing.com

@@ -1435,3 +1435,4 @@
 ||v^
 ||dns-analytics.com^
 ||jsm3zsn5kewlmk9q.dns-analytics.com^
+||domain-routing.com^

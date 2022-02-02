@@ -1496,3 +1496,4 @@
 ||www.teamviewer.com^
 ||teamviewer.com^
 ||samsappsbn.vo.llnwd.net^
+||vgz.my.salesforce.com^

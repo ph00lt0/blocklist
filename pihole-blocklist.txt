@@ -1497,3 +1497,4 @@
 0.0.0.0 www.teamviewer.com
 0.0.0.0 teamviewer.com
 0.0.0.0 samsappsbn.vo.llnwd.net
+0.0.0.0 vgz.my.salesforce.com

@@ -593,9 +593,6 @@
 ||digidip.net^
 ||collector.githubapp.com^
 ||ip-geolocation.netcraft.com^
-||facebook.com^
-||g.whatsapp.net^
-||instagram.com^
 ||facebook.net^
 ||fbstatic-a.akamaihd.net^
 ||fbcdn-profile-a.akamaihd.net^
@@ -1527,3 +1524,4 @@
 ||bsp.pxucdn.com^
 ||hextom.com^
 ||cdn.hextom.com^
+||prg.smartadserver.com^

@@ -593,9 +593,6 @@
 0.0.0.0 digidip.net
 0.0.0.0 collector.githubapp.com
 0.0.0.0 ip-geolocation.netcraft.com
-0.0.0.0 facebook.com
-0.0.0.0 g.whatsapp.net
-0.0.0.0 instagram.com
 0.0.0.0 facebook.net
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fbcdn-profile-a.akamaihd.net
@@ -1528,3 +1525,4 @@
 0.0.0.0 bsp.pxucdn.com
 0.0.0.0 hextom.com
 0.0.0.0 cdn.hextom.com
+0.0.0.0 prg.smartadserver.com

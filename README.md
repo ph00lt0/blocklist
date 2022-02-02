@@ -1,14 +1,17 @@
 # Blocklists for Adguard Home, uBlock Origin and PiHole
 
-Blocklist of analytics and annoyances found by my own research. Blocks:
-- Stats and analytics (including privacy preserving ones) 
+Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
+
+This blocklists aims at blocking:
+- Stats and analytics (including privacy preserving ones such as Matomo) 
 - Lotttery
-- Data collection 
-- Bug trackers
+- Data brokers and data collecting companies
+- Debugging trackers
 - Ads
-- Data brokers
 - Font content delivery networks
 - Consent/cookie managment platforms
+- Malware
+- Spyware
 
 
 ## Adguard Home

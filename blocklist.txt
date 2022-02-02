@@ -1536,3 +1536,4 @@
 ||godog.shopifycloud.com^
 ||monorail-edge.shopifysvc.com^
 ||starapps.studio^
+||assets-cdn.starapps.studio^

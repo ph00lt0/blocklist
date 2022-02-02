@@ -1537,3 +1537,4 @@
 0.0.0.0 godog.shopifycloud.com
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 starapps.studio
+0.0.0.0 assets-cdn.starapps.studio

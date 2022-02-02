@@ -1541,3 +1541,4 @@
 ||analytics.plex.tv^
 ||ws.pusherapp.com^
 ||stats.pusher.com^
+||pusherapp.com^

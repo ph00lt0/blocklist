@@ -1542,3 +1542,4 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 pusherapp.com

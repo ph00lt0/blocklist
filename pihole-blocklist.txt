@@ -1534,3 +1534,4 @@
 0.0.0.0 pxucdn.com
 0.0.0.0 automizely.com
 0.0.0.0 justuno.com
+0.0.0.0 godog.shopifycloud.com

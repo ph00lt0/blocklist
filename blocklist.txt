@@ -1533,3 +1533,4 @@
 ||pxucdn.com^
 ||automizely.com^
 ||justuno.com^
+||godog.shopifycloud.com^

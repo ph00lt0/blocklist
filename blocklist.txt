@@ -1525,3 +1525,4 @@
 ||widgets.automizely.com^
 ||scripttags.justuno.com^
 ||bsp.pxucdn.com^
+||hextom.com^

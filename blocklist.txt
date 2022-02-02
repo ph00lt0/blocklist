@@ -1407,3 +1407,4 @@
 ||imgi64kf5so6k.transferlights.com^
 ||alignmentdisabled.netalignmentdisabled.net^
 ||pc43v65k.alignmentdisabled.net^
+||prioritytrail.net^

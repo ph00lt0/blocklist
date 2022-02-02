@@ -1407,3 +1407,4 @@
 0.0.0.0 imgi64kf5so6k.transferlights.com
 0.0.0.0 alignmentdisabled.netalignmentdisabled.net
 0.0.0.0 pc43v65k.alignmentdisabled.net
+0.0.0.0 prioritytrail.net

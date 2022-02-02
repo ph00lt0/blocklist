@@ -1431,3 +1431,4 @@
 ||react12x2.towebsite.net^
 ||gettingurl.com^
 ||jsb8dmc5z4.gettingurl.com^
+||redirigir.net^

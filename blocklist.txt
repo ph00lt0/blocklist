@@ -1459,7 +1459,6 @@
 ||nodesj44s.unusualneighbor.com^
 ||linksnew.info^
 ||jsonapi2.linksnew.info^
-||[A^
 ||pc25f01dw.loading-url.net^
 ||img9fo658tlsuh.securisurf.com^
 ||securisurf.com^
@@ -1467,4 +1466,4 @@
 ||dbm4kl5d3faqlk6.healthyguess.com^
 ||reload-url.net^
 ||img359axw1z.reload-url.net^
-||[A^
+||cssgraphics.net^

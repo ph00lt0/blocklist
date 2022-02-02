@@ -1459,7 +1459,6 @@
 0.0.0.0 nodesj44s.unusualneighbor.com
 0.0.0.0 linksnew.info
 0.0.0.0 jsonapi2.linksnew.info
-0.0.0.0 [A
 0.0.0.0 pc25f01dw.loading-url.net
 0.0.0.0 img9fo658tlsuh.securisurf.com
 0.0.0.0 securisurf.com
@@ -1467,4 +1466,4 @@
 0.0.0.0 dbm4kl5d3faqlk6.healthyguess.com
 0.0.0.0 reload-url.net
 0.0.0.0 img359axw1z.reload-url.net
-0.0.0.0 [A
+0.0.0.0 cssgraphics.net

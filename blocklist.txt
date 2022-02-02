@@ -1527,3 +1527,4 @@
 ||prg.smartadserver.com^
 ||g.whatsapp.net^
 ||c1.iggcdn.com^
+||iggcdn.com^

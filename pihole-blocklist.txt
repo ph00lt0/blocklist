@@ -1535,3 +1535,4 @@
 0.0.0.0 automizely.com
 0.0.0.0 justuno.com
 0.0.0.0 godog.shopifycloud.com
+0.0.0.0 monorail-edge.shopifysvc.com

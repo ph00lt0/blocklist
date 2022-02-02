@@ -1516,3 +1516,4 @@
 ||gruene.matomo.cloud^
 ||actionnetwork.org^
 ||webstats.liberale.de^
+||statistik.die-partei.net^

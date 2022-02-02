@@ -1454,3 +1454,4 @@
 ||htmlstats.net^
 ||dist564.htmlstats.net^
 ||css235gr.apigraphs.net^
+||apigraphs.net^

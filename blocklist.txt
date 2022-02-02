@@ -1538,3 +1538,4 @@
 ||starapps.studio^
 ||assets-cdn.starapps.studio^
 ||linkmink.com^
+||analytics.plex.tv^

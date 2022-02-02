@@ -1509,3 +1509,4 @@
 ||variations.brave.com^
 ||ads-serve.brave.com^
 ||sync-v2.brave.com^
+||firebase-settings.crashlytics.com^

@@ -1510,3 +1510,4 @@
 0.0.0.0 variations.brave.com
 0.0.0.0 ads-serve.brave.com
 0.0.0.0 sync-v2.brave.com
+0.0.0.0 firebase-settings.crashlytics.com

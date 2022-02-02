@@ -1517,3 +1517,4 @@
 ||actionnetwork.org^
 ||webstats.liberale.de^
 ||statistik.die-partei.net^
+||fehler.die-partei.net^

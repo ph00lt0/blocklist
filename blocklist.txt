@@ -1495,3 +1495,4 @@
 ||proctor.io^
 ||www.teamviewer.com^
 ||teamviewer.com^
+||samsappsbn.vo.llnwd.net^

@@ -1451,3 +1451,4 @@
 ||mailappzone.com^
 ||theappanalytics.com^
 ||apiweb248.theappanalytics.com^
+||htmlstats.net^

@@ -1525,3 +1525,4 @@
 0.0.0.0 refersion.com
 0.0.0.0 widgets.automizely.com
 0.0.0.0 scripttags.justuno.com
+0.0.0.0 bsp.pxucdn.com

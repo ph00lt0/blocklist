@@ -1524,3 +1524,4 @@
 ||refersion.com^
 ||widgets.automizely.com^
 ||scripttags.justuno.com^
+||bsp.pxucdn.com^

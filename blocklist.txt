@@ -1424,3 +1424,4 @@
 ||preferenceviews.com^
 ||js85mail.preferenceviews.com^
 ||css3218i.quota-reader.net^
+||quota-reader.net^

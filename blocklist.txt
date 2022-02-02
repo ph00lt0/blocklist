@@ -1450,3 +1450,4 @@
 ||str1089.mailappzone.com^
 ||mailappzone.com^
 ||theappanalytics.com^
+||apiweb248.theappanalytics.com^

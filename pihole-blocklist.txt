@@ -1540,3 +1540,4 @@
 0.0.0.0 assets-cdn.starapps.studio
 0.0.0.0 linkmink.com
 0.0.0.0 analytics.plex.tv
+0.0.0.0 ws.pusherapp.com

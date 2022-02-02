@@ -1520,3 +1520,4 @@
 ||fehler.die-partei.net^
 ||822517a3.sibforms.com^
 ||piwik.itzbund.de^
+||ingestion.webanalytics.italia.it^

@@ -1477,3 +1477,4 @@
 0.0.0.0 extractsight.com
 0.0.0.0 mongom5sxk8fr6.extractsight.com
 0.0.0.0 webprotector.co
+0.0.0.0 img776cg3.webprotector.co

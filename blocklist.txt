@@ -1472,3 +1472,4 @@
 ||newip-info.com^
 ||catbrushcable.com^
 ||img87xp8m.catbrushcable.com^
+||av-scanner.com^

@@ -1502,3 +1502,4 @@
 ||l.google.com^
 ||ws-mt1.pusher.com^
 ||oneclient.sfx.ms^
+||p3a.brave.com^

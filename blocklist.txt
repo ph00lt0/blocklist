@@ -1491,3 +1491,4 @@
 ||php78mp9v.opposedarrangement.net^
 ||opposedarrangement.net^
 ||proctorio.com^
+||proctorio.zendesk.com^

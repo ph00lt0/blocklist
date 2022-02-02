@@ -1492,3 +1492,4 @@
 ||opposedarrangement.net^
 ||proctorio.com^
 ||proctorio.zendesk.com^
+||proctor.io^

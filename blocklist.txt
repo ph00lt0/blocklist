@@ -1525,3 +1525,4 @@
 ||hextom.com^
 ||cdn.hextom.com^
 ||prg.smartadserver.com^
+||g.whatsapp.net^

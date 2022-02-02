@@ -1526,3 +1526,4 @@
 0.0.0.0 hextom.com
 0.0.0.0 cdn.hextom.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 g.whatsapp.net

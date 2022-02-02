@@ -1535,3 +1535,4 @@
 ||justuno.com^
 ||godog.shopifycloud.com^
 ||monorail-edge.shopifysvc.com^
+||starapps.studio^

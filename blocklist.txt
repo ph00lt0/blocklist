@@ -1453,3 +1453,4 @@
 ||apiweb248.theappanalytics.com^
 ||htmlstats.net^
 ||dist564.htmlstats.net^
+||css235gr.apigraphs.net^

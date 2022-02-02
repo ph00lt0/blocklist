@@ -1506,3 +1506,4 @@
 0.0.0.0 p3a.brave.com
 0.0.0.0 rewards.brave.com
 0.0.0.0 api.rewards.brave.com
+0.0.0.0 grant.rewards.brave.com

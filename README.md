@@ -4,7 +4,7 @@ Blocklist of analytics and annoyances found by our own research (either discover
 
 This blocklists aims at blocking:
 - Stats and analytics (including privacy preserving ones such as Matomo) 
-- Lotttery
+- Lottery and gambling companies
 - Data brokers and data collecting companies
 - Debugging trackers
 - Ads

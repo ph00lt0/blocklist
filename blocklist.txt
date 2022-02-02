@@ -1522,3 +1522,4 @@
 ||piwik.itzbund.de^
 ||ingestion.webanalytics.italia.it^
 ||refersion.com^
+||widgets.automizely.com^

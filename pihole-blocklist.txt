@@ -1523,3 +1523,4 @@
 0.0.0.0 piwik.itzbund.de
 0.0.0.0 ingestion.webanalytics.italia.it
 0.0.0.0 refersion.com
+0.0.0.0 widgets.automizely.com

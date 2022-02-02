@@ -1523,3 +1523,4 @@
 ||ingestion.webanalytics.italia.it^
 ||refersion.com^
 ||widgets.automizely.com^
+||scripttags.justuno.com^

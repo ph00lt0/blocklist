@@ -1524,3 +1524,4 @@
 0.0.0.0 ingestion.webanalytics.italia.it
 0.0.0.0 refersion.com
 0.0.0.0 widgets.automizely.com
+0.0.0.0 scripttags.justuno.com

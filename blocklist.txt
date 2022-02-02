@@ -1506,3 +1506,4 @@
 ||rewards.brave.com^
 ||api.rewards.brave.com^
 ||grant.rewards.brave.com^
+||variations.brave.com^

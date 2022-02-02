@@ -1544,3 +1544,4 @@
 0.0.0.0 stats.pusher.com
 0.0.0.0 pusherapp.com
 0.0.0.0 librato-collector.genius.com
+0.0.0.0 loadus.exelator.com

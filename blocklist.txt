@@ -1543,3 +1543,4 @@
 ||stats.pusher.com^
 ||pusherapp.com^
 ||librato-collector.genius.com^
+||loadus.exelator.com^

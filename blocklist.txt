@@ -1503,3 +1503,4 @@
 ||ws-mt1.pusher.com^
 ||oneclient.sfx.ms^
 ||p3a.brave.com^
+||rewards.brave.com^

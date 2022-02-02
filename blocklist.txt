@@ -1494,3 +1494,4 @@
 ||proctorio.zendesk.com^
 ||proctor.io^
 ||www.teamviewer.com^
+||teamviewer.com^

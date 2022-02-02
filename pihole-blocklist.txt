@@ -1495,3 +1495,4 @@
 0.0.0.0 proctorio.zendesk.com
 0.0.0.0 proctor.io
 0.0.0.0 www.teamviewer.com
+0.0.0.0 teamviewer.com

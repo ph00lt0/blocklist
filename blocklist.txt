@@ -1483,4 +1483,4 @@
 ||safecrusade.com^
 ||drp2j4sdi.safecrusade.com^
 ||redirectweburl.com^
-||[A^
+||api1r3f4.redirectweburl.com^

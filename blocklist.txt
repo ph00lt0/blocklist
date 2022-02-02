@@ -1430,3 +1430,4 @@
 ||towebsite.net^
 ||react12x2.towebsite.net^
 ||gettingurl.com^
+||jsb8dmc5z4.gettingurl.com^

@@ -1532,3 +1532,4 @@
 ||cdn.refersion.com^
 ||pxucdn.com^
 ||automizely.com^
+||justuno.com^

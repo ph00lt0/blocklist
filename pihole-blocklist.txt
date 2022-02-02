@@ -1413,3 +1413,4 @@
 0.0.0.0 jsfk3d43.netvisualizer.com
 0.0.0.0 manydnsnow.com
 0.0.0.0 cdn42js666.manydnsnow.com
+0.0.0.0 handcraftedformat.com

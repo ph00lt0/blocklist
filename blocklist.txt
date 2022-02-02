@@ -1469,3 +1469,4 @@
 ||cssgraphics.net^
 ||css2307.cssgraphics.net^
 ||info2638dg43.newip-info.com^
+||newip-info.com^

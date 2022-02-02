@@ -1516,3 +1516,4 @@
 0.0.0.0 init.push.apple.com
 0.0.0.0 gruene.matomo.cloud
 0.0.0.0 actionnetwork.org
+0.0.0.0 webstats.liberale.de

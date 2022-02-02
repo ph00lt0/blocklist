@@ -1418,3 +1418,4 @@
 ||js43fsf7v.opera-van.com^
 ||opera-van.com^
 ||myfundsdns.com^
+||pypip36z19.myfundsdns.com^

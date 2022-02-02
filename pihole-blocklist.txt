@@ -1520,3 +1520,4 @@
 0.0.0.0 statistik.die-partei.net
 0.0.0.0 fehler.die-partei.net
 0.0.0.0 822517a3.sibforms.com
+0.0.0.0 piwik.itzbund.de

@@ -1526,3 +1526,4 @@
 ||cdn.hextom.com^
 ||prg.smartadserver.com^
 ||g.whatsapp.net^
+||c1.iggcdn.com^

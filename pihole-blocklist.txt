@@ -1502,3 +1502,4 @@
 0.0.0.0 gsa.apple.com
 0.0.0.0 l.google.com
 0.0.0.0 ws-mt1.pusher.com
+0.0.0.0 oneclient.sfx.ms

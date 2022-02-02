@@ -1476,3 +1476,4 @@
 0.0.0.0 img108jkn42.av-scanner.com
 0.0.0.0 extractsight.com
 0.0.0.0 mongom5sxk8fr6.extractsight.com
+0.0.0.0 webprotector.co

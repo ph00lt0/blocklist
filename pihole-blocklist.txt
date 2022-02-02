@@ -1445,3 +1445,4 @@
 0.0.0.0 srva9awf.syncingprocess.com
 0.0.0.0 permalinking.com
 0.0.0.0 imgdsg4f35.permalinking.com
+0.0.0.0 mongo77usr.urlredirect.net

@@ -11,17 +11,17 @@ declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 declare blocklistRule="||$domain^"
 declare piholeBlocklistRule="0.0.0.0 $domain"
 
-if [ "$domain" != "" ]; then
+if [ "$domain" == "" ]; then
     echo "No domain provided."
     exit
 fi
 
-if [ "$domain" != "v" ]; then
+if [ "$domain" == "v" ]; then
     echo "Wrong paste command."
     exit
 fi
 
-if [ "$domain" != "[A[A" ]; then
+if [ "$domain" == "[A[A" ]; then
     echo "syntax error [A[A."
     exit
 fi

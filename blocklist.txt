@@ -1550,4 +1550,3 @@
 ||go.techtarget.com^
 ||indexww.com^
 ||js-sec.indexww.com^
-||mistake^

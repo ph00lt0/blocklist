@@ -40,6 +40,6 @@ Hit enter, and the domain will be delisted and specification will be added to th
 ./delete.sh
 ```
 
-- Enter the same entry you made by mistake, https:// or http and trailing / are automatically being removed if included.
+Enter the same entry you made by mistake, https:// or http and trailing / are automatically being removed if included.
 
 Hit enter, and the mistake will be corrected, the commit message will blame you for it and you can continue your life.

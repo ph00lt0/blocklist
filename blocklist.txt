@@ -2,7 +2,7 @@
 ! Expires: 1 day
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
-! Description: Blocklist for Stats and any analytics, lotttery, bug trackers, ads, data brokers, font content delivery networks and consent managment 
+! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^

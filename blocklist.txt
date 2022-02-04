@@ -1545,3 +1545,4 @@
 ||librato-collector.genius.com^
 ||loadus.exelator.com^
 ||exelator.com^
+||optimizely.techtarget.com^

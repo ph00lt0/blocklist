@@ -1552,3 +1552,4 @@
 ||js-sec.indexww.com^
 ||awaps.yandex.ru^
 ||d31j93rd8oukbv.cloudfront.net^
+||quantcast.com^

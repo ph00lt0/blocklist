@@ -1553,3 +1553,4 @@
 ||awaps.yandex.ru^
 ||d31j93rd8oukbv.cloudfront.net^
 ||quantcast.com^
+||quantserve.com^

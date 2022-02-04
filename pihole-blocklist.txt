@@ -1554,3 +1554,4 @@
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 quantcast.com
+0.0.0.0 quantserve.com

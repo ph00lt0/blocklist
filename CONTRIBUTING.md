@@ -19,3 +19,16 @@ Enter the domain name, https:// or http and trailing / are automatically being r
 So https://annoyingtrackers.com/ becomes: annoyingtrackers.com
 
 Hit enter, and the domain will be added to the list.
+
+
+
+# Delist a domain
+
+```
+./delist.sh
+```
+
+- Enter the domain name, https:// or http and trailing / are automatically being removed if included.
+- Specify reason
+
+Hit enter, and the domain will be delisted and specification will be added to the list for reference.

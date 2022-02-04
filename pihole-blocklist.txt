@@ -1547,3 +1547,4 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 exelator.com
 0.0.0.0 optimizely.techtarget.com
+0.0.0.0 ccpa.sp-prod.net

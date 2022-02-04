@@ -1546,3 +1546,4 @@
 ||loadus.exelator.com^
 ||exelator.com^
 ||optimizely.techtarget.com^
+||ccpa.sp-prod.net^

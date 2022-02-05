@@ -1561,3 +1561,4 @@
 ||cdn.adpushup.com^
 ||adrecover.com^
 ||delivery.adrecover.com^
+||collector.github.com^

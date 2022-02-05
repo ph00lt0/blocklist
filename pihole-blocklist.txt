@@ -1561,3 +1561,4 @@
 0.0.0.0 adpushup.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 adrecover.com
+0.0.0.0 delivery.adrecover.com

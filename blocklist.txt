@@ -1560,3 +1560,4 @@
 ||adpushup.com^
 ||cdn.adpushup.com^
 ||adrecover.com^
+||delivery.adrecover.com^

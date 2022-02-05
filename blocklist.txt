@@ -1573,3 +1573,4 @@
 ||geoip-js.com^
 ||logicanalytics.io^
 ||log.logicanalytics.io^
+||visualwebsiteoptimizer.com^

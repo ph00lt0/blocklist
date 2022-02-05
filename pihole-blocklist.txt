@@ -1564,3 +1564,4 @@
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 collector.github.com
 0.0.0.0 hexagon-analytics.com
+0.0.0.0 prod.log.shortbread.aws.dev

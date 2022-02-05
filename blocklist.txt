@@ -1563,3 +1563,4 @@
 ||delivery.adrecover.com^
 ||collector.github.com^
 ||hexagon-analytics.com^
+||prod.log.shortbread.aws.dev^

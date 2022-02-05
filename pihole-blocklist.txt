@@ -1565,3 +1565,4 @@
 0.0.0.0 collector.github.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com

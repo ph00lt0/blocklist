@@ -1568,3 +1568,4 @@
 ||prod.tools.shortbread.analytics.console.aws.a2z.com^
 ||prod.log.shortbread.analytics.console.aws.a2z.com^
 ||concierge.analytics.console.aws.a2z.com^
+||global.prod.pw.analytics.console.aws.a2z.com^

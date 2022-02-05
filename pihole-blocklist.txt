@@ -1573,3 +1573,4 @@
 0.0.0.0 talk.hyvor.com
 0.0.0.0 geoip-js.com
 0.0.0.0 logicanalytics.io
+0.0.0.0 log.logicanalytics.io

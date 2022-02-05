@@ -1572,3 +1572,4 @@
 ||talk.hyvor.com^
 ||geoip-js.com^
 ||logicanalytics.io^
+||log.logicanalytics.io^

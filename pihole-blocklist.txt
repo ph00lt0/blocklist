@@ -1558,3 +1558,4 @@
 0.0.0.0 tealium.com
 0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 adobedtm.com
+0.0.0.0 adpushup.com

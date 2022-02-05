@@ -1560,3 +1560,4 @@
 0.0.0.0 adobedtm.com
 0.0.0.0 adpushup.com
 0.0.0.0 cdn.adpushup.com
+0.0.0.0 adrecover.com

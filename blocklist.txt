@@ -1559,3 +1559,4 @@
 ||adobedtm.com^
 ||adpushup.com^
 ||cdn.adpushup.com^
+||adrecover.com^

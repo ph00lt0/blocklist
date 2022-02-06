@@ -1582,3 +1582,4 @@
 ||criteo.com^
 ||sizmek.com^
 ||mc.yandex.ru^
+||classistatic.de^

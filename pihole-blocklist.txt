@@ -1583,3 +1583,4 @@
 0.0.0.0 criteo.com
 0.0.0.0 sizmek.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 classistatic.de

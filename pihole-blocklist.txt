@@ -1578,3 +1578,4 @@
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 do-analytics.net
 0.0.0.0 segment.do-analytics.net
+0.0.0.0 elfsight.com

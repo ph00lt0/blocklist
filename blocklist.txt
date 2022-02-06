@@ -1581,3 +1581,4 @@
 ||services.elfsight.com^
 ||criteo.com^
 ||sizmek.com^
+||mc.yandex.ru^

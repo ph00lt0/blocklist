@@ -1578,3 +1578,4 @@
 ||do-analytics.net^
 ||segment.do-analytics.net^
 ||elfsight.com^
+||services.elfsight.com^

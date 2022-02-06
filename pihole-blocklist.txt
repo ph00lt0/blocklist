@@ -1584,3 +1584,4 @@
 0.0.0.0 sizmek.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 classistatic.de
+0.0.0.0 sascdn.com

@@ -1575,3 +1575,4 @@
 ||log.logicanalytics.io^
 ||visualwebsiteoptimizer.com^
 ||dev.visualwebsiteoptimizer.com^
+||do-analytics.net^

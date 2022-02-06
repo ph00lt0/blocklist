@@ -1585,3 +1585,4 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 classistatic.de
 0.0.0.0 sascdn.com
+0.0.0.0 styria-digital.com

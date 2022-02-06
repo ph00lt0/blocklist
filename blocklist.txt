@@ -1584,3 +1584,4 @@
 ||mc.yandex.ru^
 ||classistatic.de^
 ||sascdn.com^
+||styria-digital.com^

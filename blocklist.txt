@@ -1580,3 +1580,4 @@
 ||elfsight.com^
 ||services.elfsight.com^
 ||criteo.com^
+||sizmek.com^

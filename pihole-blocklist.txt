@@ -1581,3 +1581,4 @@
 0.0.0.0 elfsight.com
 0.0.0.0 services.elfsight.com
 0.0.0.0 criteo.com
+0.0.0.0 sizmek.com

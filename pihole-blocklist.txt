@@ -1586,3 +1586,4 @@
 0.0.0.0 classistatic.de
 0.0.0.0 sascdn.com
 0.0.0.0 styria-digital.com
+0.0.0.0 yoc-adserver.com

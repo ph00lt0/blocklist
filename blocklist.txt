@@ -1585,3 +1585,4 @@
 ||classistatic.de^
 ||sascdn.com^
 ||styria-digital.com^
+||yoc-adserver.com^

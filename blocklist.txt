@@ -1576,3 +1576,4 @@
 ||visualwebsiteoptimizer.com^
 ||dev.visualwebsiteoptimizer.com^
 ||do-analytics.net^
+||segment.do-analytics.net^

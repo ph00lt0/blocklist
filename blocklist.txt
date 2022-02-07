@@ -1587,4 +1587,4 @@
 ||styria-digital.com^
 ||yoc-adserver.com^
 ||plau.devitjobs.uk^
-||s.as207960.net^
+@@||s.as207960.net^  # Not a tracker, static files

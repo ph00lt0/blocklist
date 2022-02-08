@@ -1608,3 +1608,4 @@
 0.0.0.0 telemetry.cell-0.ap-northeast-3.prod.tangerinebox.console.aws.a2z.com
 0.0.0.0 telemetry.cell-0.ap-northeast-2.prod.tangerinebox.console.aws.a2z.com
 0.0.0.0 telemetry.cell-0.ap-southeast-1.prod.tangerinebox.console.aws.a2z.com
+0.0.0.0 telemetry.cell-0.ap-southeast-2.prod.tangerinebox.console.aws.a2z.com

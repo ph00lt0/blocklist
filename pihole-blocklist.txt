@@ -1613,3 +1613,4 @@
 0.0.0.0 admixer.net
 0.0.0.0 prebid-inv-eu.admixer.net
 0.0.0.0 cdn.admixer.net
+0.0.0.0 lentainform.com

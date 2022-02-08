@@ -1612,3 +1612,4 @@
 ||admixer.net^
 ||prebid-inv-eu.admixer.net^
 ||cdn.admixer.net^
+||lentainform.com^

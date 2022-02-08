@@ -1596,3 +1596,4 @@
 ||cognito-identity.us-east-1.amazonaws.com^
 ||spyglass.us-west-2.prod.console.iot.aws.dev^
 ||mqtt.us-west-2.prod.console.iot.aws.dev^
+||telemetry.cell-0.us-west-2.prod.tangerinebox.console.aws.a2z.com^

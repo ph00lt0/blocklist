@@ -1592,3 +1592,4 @@
 ||counter.yadro.ru^
 ||notix.io^
 ||telemetry.cell-0.eu-central-1.prod.tangerinebox.console.aws.a2z.com^
+||pinpoint.us-east-1.amazonaws.com^

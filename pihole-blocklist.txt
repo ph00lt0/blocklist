@@ -1593,3 +1593,4 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 notix.io
 0.0.0.0 telemetry.cell-0.eu-central-1.prod.tangerinebox.console.aws.a2z.com
+0.0.0.0 pinpoint.us-east-1.amazonaws.com

@@ -1617,3 +1617,4 @@
 ||manychat.com^
 ||widget.manychat.com^
 ||fellowes.ugc.bazaarvoice.com^
+||wisepops.com^

@@ -1621,3 +1621,4 @@
 0.0.0.0 wisepops.com
 0.0.0.0 loader.wisepops.com
 0.0.0.0 cdn.viglink.com
+0.0.0.0 viglink.com

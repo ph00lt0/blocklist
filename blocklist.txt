@@ -1624,3 +1624,4 @@
 ||offer-go.com^
 ||k.intellitxt.com^
 ||intellitxt.com^
+||shared.piwik.prisma-it.com^

@@ -1602,3 +1602,4 @@
 ||telemetry.cell-0.ca-central-1.prod.tangerinebox.console.aws.a2z.com^
 ||target.aws.amazon.com^
 ||telemetry.cell-0.ap-northeast-1.prod.tangerinebox.console.aws.a2z.com^
+||eu-north-1.ccs.amazonaws.com^

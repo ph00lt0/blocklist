@@ -1619,3 +1619,4 @@
 ||fellowes.ugc.bazaarvoice.com^
 ||wisepops.com^
 ||loader.wisepops.com^
+||cdn.viglink.com^

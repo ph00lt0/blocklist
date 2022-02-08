@@ -1615,3 +1615,4 @@
 ||lentainform.com^
 ||autocounter.lentainform.com^
 ||manychat.com^
+||widget.manychat.com^

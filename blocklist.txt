@@ -1622,3 +1622,4 @@
 ||cdn.viglink.com^
 ||viglink.com^
 ||offer-go.com^
+||k.intellitxt.com^

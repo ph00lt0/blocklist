@@ -1623,3 +1623,4 @@
 0.0.0.0 cdn.viglink.com
 0.0.0.0 viglink.com
 0.0.0.0 offer-go.com
+0.0.0.0 k.intellitxt.com

@@ -1618,3 +1618,4 @@
 ||widget.manychat.com^
 ||fellowes.ugc.bazaarvoice.com^
 ||wisepops.com^
+||loader.wisepops.com^

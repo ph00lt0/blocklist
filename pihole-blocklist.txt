@@ -1619,3 +1619,4 @@
 0.0.0.0 widget.manychat.com
 0.0.0.0 fellowes.ugc.bazaarvoice.com
 0.0.0.0 wisepops.com
+0.0.0.0 loader.wisepops.com

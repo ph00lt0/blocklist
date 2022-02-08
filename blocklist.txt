@@ -1590,3 +1590,4 @@
 @@||s.as207960.net^  # Not a tracker, static files
 ||e.customeriomail.com^
 ||counter.yadro.ru^
+||notix.io^

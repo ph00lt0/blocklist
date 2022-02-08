@@ -1591,3 +1591,4 @@
 ! allow s.as207960.net reason: Not a tracker, static files
 0.0.0.0 e.customeriomail.com
 0.0.0.0 counter.yadro.ru
+0.0.0.0 notix.io

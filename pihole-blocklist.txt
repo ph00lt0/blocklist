@@ -1624,3 +1624,4 @@
 0.0.0.0 viglink.com
 0.0.0.0 offer-go.com
 0.0.0.0 k.intellitxt.com
+0.0.0.0 intellitxt.com

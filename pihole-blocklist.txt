@@ -1615,3 +1615,4 @@
 0.0.0.0 cdn.admixer.net
 0.0.0.0 lentainform.com
 0.0.0.0 autocounter.lentainform.com
+0.0.0.0 manychat.com

@@ -1614,3 +1614,4 @@
 ||cdn.admixer.net^
 ||lentainform.com^
 ||autocounter.lentainform.com^
+||manychat.com^

@@ -1616,3 +1616,4 @@
 ||autocounter.lentainform.com^
 ||manychat.com^
 ||widget.manychat.com^
+||fellowes.ugc.bazaarvoice.com^

@@ -1606,3 +1606,4 @@
 ||telemetry.cell-0.ap-south-1.prod.tangerinebox.console.aws.a2z.com^
 ||telemetry.cell-0.ap-northeast-3.prod.tangerinebox.console.aws.a2z.com^
 ||telemetry.cell-0.ap-northeast-2.prod.tangerinebox.console.aws.a2z.com^
+||telemetry.cell-0.ap-southeast-1.prod.tangerinebox.console.aws.a2z.com^

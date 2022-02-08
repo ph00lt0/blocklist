@@ -1595,3 +1595,4 @@
 ||pinpoint.us-east-1.amazonaws.com^
 ||cognito-identity.us-east-1.amazonaws.com^
 ||spyglass.us-west-2.prod.console.iot.aws.dev^
+||mqtt.us-west-2.prod.console.iot.aws.dev^

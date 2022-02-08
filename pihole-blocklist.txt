@@ -1596,3 +1596,4 @@
 0.0.0.0 pinpoint.us-east-1.amazonaws.com
 0.0.0.0 cognito-identity.us-east-1.amazonaws.com
 0.0.0.0 spyglass.us-west-2.prod.console.iot.aws.dev
+0.0.0.0 mqtt.us-west-2.prod.console.iot.aws.dev

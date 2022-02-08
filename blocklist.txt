@@ -1621,3 +1621,4 @@
 ||loader.wisepops.com^
 ||cdn.viglink.com^
 ||viglink.com^
+||offer-go.com^

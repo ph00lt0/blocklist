@@ -1627,3 +1627,4 @@
 ||shared.piwik.prisma-it.com^
 ||adcolony.com^
 ||applovin.com^
+||appmonet.com^

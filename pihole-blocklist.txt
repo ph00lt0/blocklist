@@ -1628,3 +1628,4 @@
 0.0.0.0 shared.piwik.prisma-it.com
 0.0.0.0 adcolony.com
 0.0.0.0 applovin.com
+0.0.0.0 appmonet.com

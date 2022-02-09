@@ -1627,3 +1627,4 @@
 0.0.0.0 intellitxt.com
 0.0.0.0 shared.piwik.prisma-it.com
 0.0.0.0 adcolony.com
+0.0.0.0 applovin.com

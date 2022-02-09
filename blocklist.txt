@@ -1626,3 +1626,4 @@
 ||intellitxt.com^
 ||shared.piwik.prisma-it.com^
 ||adcolony.com^
+||applovin.com^

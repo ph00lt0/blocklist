@@ -1628,3 +1628,4 @@
 ||adcolony.com^
 ||applovin.com^
 ||appmonet.com^
+||huaweicentral.com^

@@ -1884,3 +1884,4 @@
 ||hollandmediacombinatie.qualifioapp.com^
 ||cdn-kiosk-api.telegraaf.nl^
 ||accounts.tnet.nl^
+||metrics.groene.nl^

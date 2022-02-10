@@ -1885,3 +1885,4 @@
 0.0.0.0 hollandmediacombinatie.qualifioapp.com
 0.0.0.0 cdn-kiosk-api.telegraaf.nl
 0.0.0.0 accounts.tnet.nl
+0.0.0.0 metrics.groene.nl

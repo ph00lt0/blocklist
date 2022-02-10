@@ -1796,3 +1796,4 @@
 ||eum.instana.io^
 ||bordeaux.futurecdn.net^
 ||futurecdn.net^
+||a02342.yorkpress.co.uk^

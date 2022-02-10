@@ -1862,3 +1862,4 @@
 ||signal.co^
 ||tailtarget.com^
 ||districtm.io^
+||districtm.ca^

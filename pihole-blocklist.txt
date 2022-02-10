@@ -1863,3 +1863,4 @@
 0.0.0.0 signal.co
 0.0.0.0 tailtarget.com
 0.0.0.0 districtm.io
+0.0.0.0 districtm.ca

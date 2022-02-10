@@ -1708,3 +1708,4 @@
 ||stmg-prod.mirror.co.uk^
 ||lrcontent.com^
 ||config.lrcontent.com^
+||tm-awx.com^

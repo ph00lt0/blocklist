@@ -1649,3 +1649,4 @@
 ||src.litix.io^
 ||link.theplatform.com^
 ||a.foxdcg.com^
+||pix.pub^

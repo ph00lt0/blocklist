@@ -1650,3 +1650,4 @@
 0.0.0.0 src.litix.io
 0.0.0.0 link.theplatform.com
 0.0.0.0 a.foxdcg.com
+0.0.0.0 pix.pub

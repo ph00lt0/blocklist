@@ -2034,3 +2034,4 @@
 ||cdn.digiteka.com^
 ||digiteka.com^
 ||cmp.courrierinternational.com^
+||wrapper.lemde.fr^

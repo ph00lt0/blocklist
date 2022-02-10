@@ -2035,3 +2035,4 @@
 0.0.0.0 cdn.digiteka.com
 0.0.0.0 digiteka.com
 0.0.0.0 cmp.courrierinternational.com
+0.0.0.0 wrapper.lemde.fr

@@ -2038,3 +2038,4 @@
 ||hal.courrierinternational.com^
 ||www.statsforads.com^
 ||pixel.quantserve.com^
+||d35xxde4fgg0cx.cloudfront.net^

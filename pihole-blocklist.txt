@@ -2039,3 +2039,4 @@
 0.0.0.0 hal.courrierinternational.com
 0.0.0.0 www.statsforads.com
 0.0.0.0 pixel.quantserve.com
+0.0.0.0 d35xxde4fgg0cx.cloudfront.net

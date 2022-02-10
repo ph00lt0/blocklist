@@ -1897,3 +1897,4 @@
 ||d1bs4b7zdgd8l3.cloudfront.net^
 ||cdn.raygun.io^
 ||reclamefolder.org^
+||cdn.reclamefolder.org^

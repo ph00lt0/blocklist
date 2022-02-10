@@ -1898,3 +1898,4 @@
 0.0.0.0 d1bs4b7zdgd8l3.cloudfront.net
 0.0.0.0 cdn.raygun.io
 0.0.0.0 reclamefolder.org
+0.0.0.0 cdn.reclamefolder.org

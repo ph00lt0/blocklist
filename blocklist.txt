@@ -1768,3 +1768,4 @@
 ||js.gumgum.com^
 ||hellobar.com^
 ||my.hellobar.com^
+||kargo.com^

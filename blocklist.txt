@@ -1740,3 +1740,4 @@
 ||8154892.fls.doubleclick.net^
 ||cmpv2.standard.co.uk^
 ||omnitagjs.com^
+||fo-api.omnitagjs.com^

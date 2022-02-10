@@ -1806,3 +1806,4 @@
 ||carbon-cdn.ccgateway.net^
 ||sharethrough.com^
 ||native.sharethrough.com^
+||cdn.exelator.com^

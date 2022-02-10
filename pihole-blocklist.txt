@@ -1807,3 +1807,4 @@
 0.0.0.0 carbon-cdn.ccgateway.net
 0.0.0.0 sharethrough.com
 0.0.0.0 native.sharethrough.com
+0.0.0.0 cdn.exelator.com

@@ -1995,3 +1995,6 @@
 ||badges.instagram.com^
 ||cdn2.pollster.pl^
 ||cmp.lemonde.fr^
+||smcloud.net^
+||optad360.io^
+||appconsent.io^

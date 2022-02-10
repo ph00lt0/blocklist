@@ -1677,3 +1677,4 @@
 ||apv-launcher.minute.ly^
 ||abstractedauthority.com^
 ||geoedge.be^
+||rumcdn.geoedge.be^

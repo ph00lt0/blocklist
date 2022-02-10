@@ -1963,3 +1963,4 @@
 ||gfx.sueddeutsche.de^
 ||consent-cdn.sueddeutsche.de^
 ||prospekte.sueddeutsche.de^
+||rapleaf.com^

@@ -2008,3 +2008,4 @@
 ||batch.com^
 ||statsforads.com^
 ||sdk.privacy-center.org^
+||consentframework.com^

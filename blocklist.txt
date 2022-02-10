@@ -1657,3 +1657,4 @@
 ||imrworldwide.com^
 ||secure-us.imrworldwide.com^
 ||taplytics.com^
+||js.taplytics.com^

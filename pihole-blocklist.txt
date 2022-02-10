@@ -1658,3 +1658,4 @@
 0.0.0.0 imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 taplytics.com
+0.0.0.0 js.taplytics.com

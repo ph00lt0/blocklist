@@ -2050,3 +2050,4 @@
 ||truepush.com^
 ||sdki.truepush.com^
 ||certify-js.alexametrics.com^
+||alexametrics.com^

@@ -1744,3 +1744,4 @@
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 esi.edge.permutive.app
 0.0.0.0 cdn.mediavoice.com
+0.0.0.0 mediavoice.com

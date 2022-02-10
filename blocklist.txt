@@ -1710,3 +1710,4 @@
 ||config.lrcontent.com^
 ||tm-awx.com^
 ||felix.data.tm-awx.com^
+||recommendations.data.tm-awx.com^

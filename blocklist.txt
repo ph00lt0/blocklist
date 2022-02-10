@@ -1753,3 +1753,4 @@
 ||shared.mediahuis.be^
 ||www.nijobfinder.co.uk^
 ||nijobfinder.co.uk^
+||cdn.permutive.app^

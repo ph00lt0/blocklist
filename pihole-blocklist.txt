@@ -1754,3 +1754,4 @@
 0.0.0.0 shared.mediahuis.be
 0.0.0.0 www.nijobfinder.co.uk
 0.0.0.0 nijobfinder.co.uk
+0.0.0.0 cdn.permutive.app

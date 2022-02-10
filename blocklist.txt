@@ -1995,3 +1995,4 @@
 ||badges.instagram.com^
 ||cdn2.pollster.pl^
 ||smcloud.net^
+||optad360.io^

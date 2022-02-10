@@ -1797,3 +1797,4 @@
 ||bordeaux.futurecdn.net^
 ||futurecdn.net^
 ||a02342.yorkpress.co.uk^
+||a02342.thenorthernecho.co.uk^

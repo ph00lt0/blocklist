@@ -1798,3 +1798,4 @@
 0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 futurecdn.net
 0.0.0.0 a02342.yorkpress.co.uk
+0.0.0.0 a02342.thenorthernecho.co.uk

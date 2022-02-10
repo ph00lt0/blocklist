@@ -1866,3 +1866,4 @@
 0.0.0.0 districtm.ca
 0.0.0.0 33across.com
 0.0.0.0 trafficgate.net
+0.0.0.0 rakuten.co.jp

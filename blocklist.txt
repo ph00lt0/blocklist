@@ -1974,3 +1974,4 @@
 ||superlivescore.net^
 ||cdn.superlivescore.net^
 ||totalfootballanalysis.com^
+||data-79505c2b06.borkenerzeitung.de^

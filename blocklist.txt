@@ -1867,3 +1867,4 @@
 ||trafficgate.net^
 ||rakuten.co.jp^
 ||btttag.com^
+||bluetriangletech.com^

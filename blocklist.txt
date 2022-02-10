@@ -1760,3 +1760,4 @@
 ||link.monetizer101.com^
 ||teads.tv^
 ||a.teads.tv^
+||wonderpush.com^

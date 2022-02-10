@@ -2035,3 +2035,4 @@
 ||digiteka.com^
 ||cmp.courrierinternational.com^
 ||wrapper.lemde.fr^
+||hal.courrierinternational.com^

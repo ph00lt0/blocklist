@@ -1902,3 +1902,4 @@
 ||bstatic.com^
 ||insurads.com^
 ||cdn.insurads.com^
+||snigelweb.com^

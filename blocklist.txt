@@ -1721,3 +1721,4 @@
 ||scripts.webcontentassessor.com^
 ||adnami.io^
 ||macro.adnami.io^
+||d2q1qtsl33ql2r.cloudfront.net^

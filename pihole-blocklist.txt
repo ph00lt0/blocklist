@@ -1722,3 +1722,4 @@
 0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 adnami.io
 0.0.0.0 macro.adnami.io
+0.0.0.0 d2q1qtsl33ql2r.cloudfront.net

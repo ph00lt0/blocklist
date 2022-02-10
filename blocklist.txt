@@ -1684,3 +1684,4 @@
 ||centro.pixel.ad^
 ||scdn.co^
 ||i.scdn.co^
+||interactive.guim.co.uk^

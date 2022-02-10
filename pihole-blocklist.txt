@@ -1685,3 +1685,4 @@
 0.0.0.0 centro.pixel.ad
 0.0.0.0 scdn.co
 0.0.0.0 i.scdn.co
+0.0.0.0 interactive.guim.co.uk

@@ -1758,3 +1758,4 @@
 0.0.0.0 deployads.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 monetizer101.com
+0.0.0.0 link.monetizer101.com

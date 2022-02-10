@@ -1980,3 +1980,4 @@
 ||cdn.stroeerdigitalgroup.de^
 ||stroeerdigitalgroup.de^
 ||mergelsbergverlag.de^
+||smart.idmnet.pl^

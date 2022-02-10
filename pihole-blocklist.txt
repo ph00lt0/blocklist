@@ -1883,3 +1883,4 @@
 0.0.0.0 tmg.emsecure.net
 0.0.0.0 emsecure.net
 0.0.0.0 hollandmediacombinatie.qualifioapp.com
+0.0.0.0 cdn-kiosk-api.telegraaf.nl

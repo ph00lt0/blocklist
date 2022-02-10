@@ -1882,3 +1882,4 @@
 ||tmg.emsecure.net^
 ||emsecure.net^
 ||hollandmediacombinatie.qualifioapp.com^
+||cdn-kiosk-api.telegraaf.nl^

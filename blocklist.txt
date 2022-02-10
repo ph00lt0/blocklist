@@ -1773,3 +1773,4 @@
 ||ntv.io^
 ||s.ntv.io^
 ||parsely.com^
+||cdn.parsely.com^

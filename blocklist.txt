@@ -1951,3 +1951,4 @@
 ||fazcdn.net^
 ||imasdk.googleapis.com^
 ||prodo-api.ariva-services.de^
+||ariva-services.de^

@@ -1705,3 +1705,4 @@
 ||d2a5s20526q16u.cloudfront.net^
 ||d35k22e9287vnh.cloudfront.net^
 ||secure.widget.cloud.opta.net^
+||stmg-prod.mirror.co.uk^

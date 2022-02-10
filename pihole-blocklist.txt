@@ -1706,3 +1706,4 @@
 0.0.0.0 d2a5s20526q16u.cloudfront.net
 0.0.0.0 d35k22e9287vnh.cloudfront.net
 0.0.0.0 secure.widget.cloud.opta.net
+0.0.0.0 stmg-prod.mirror.co.uk

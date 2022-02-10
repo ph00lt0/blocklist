@@ -1742,3 +1742,4 @@
 0.0.0.0 cmpv2.standard.co.uk
 0.0.0.0 omnitagjs.com
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 esi.edge.permutive.app

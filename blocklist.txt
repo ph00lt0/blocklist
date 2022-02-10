@@ -1741,3 +1741,4 @@
 ||cmpv2.standard.co.uk^
 ||omnitagjs.com^
 ||fo-api.omnitagjs.com^
+||esi.edge.permutive.app^

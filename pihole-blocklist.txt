@@ -2052,3 +2052,4 @@
 0.0.0.0 sdki.truepush.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 alexametrics.com
+0.0.0.0 clevernt.com

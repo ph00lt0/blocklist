@@ -1700,3 +1700,4 @@
 ||fff.dailymail.co.uk^
 ||rta2.newzit.com^
 ||rta2.metro.co.uk^
+||rta.dailymail.co.uk^

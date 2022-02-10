@@ -1734,3 +1734,4 @@
 ||capi.connatix.com^
 ||connatix.com^
 ||cd.connatix.com^
+||a2a5c7f9-3fa0-4182-889a-15aa61acf59b.edge.permutive.app^

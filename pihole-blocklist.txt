@@ -1844,3 +1844,4 @@
 0.0.0.0 ovp.iris.tv
 0.0.0.0 rampanel.com
 0.0.0.0 inviso.rampanel.com
+0.0.0.0 goldbroker.com

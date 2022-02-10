@@ -1710,3 +1710,4 @@
 0.0.0.0 lrcontent.com
 0.0.0.0 config.lrcontent.com
 0.0.0.0 tm-awx.com
+0.0.0.0 felix.data.tm-awx.com

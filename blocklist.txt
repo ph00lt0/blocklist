@@ -1939,3 +1939,4 @@
 ||scripts.zeit.de^
 ||vgwort.de^
 ||zeit.met.vgwort.de^
+||consent.faz.net^

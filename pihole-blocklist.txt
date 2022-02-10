@@ -1940,3 +1940,4 @@
 0.0.0.0 scripts.zeit.de
 0.0.0.0 vgwort.de
 0.0.0.0 zeit.met.vgwort.de
+0.0.0.0 consent.faz.net

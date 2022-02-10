@@ -1800,3 +1800,4 @@
 ||a02342.thenorthernecho.co.uk^
 ||a02342.theboltonnews.co.uk^
 ||consent.portsmouth.co.uk^
+||ad.crwdcntrl.net^

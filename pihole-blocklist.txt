@@ -1665,3 +1665,4 @@
 0.0.0.0 audioeye.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 strike.fox.com
+0.0.0.0 link.tubitv.com

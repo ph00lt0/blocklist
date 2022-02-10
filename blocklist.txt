@@ -1866,3 +1866,4 @@
 ||33across.com^
 ||trafficgate.net^
 ||rakuten.co.jp^
+||btttag.com^

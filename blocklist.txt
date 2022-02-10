@@ -1631,3 +1631,4 @@
 ||huaweicentral.com^
 ||stats.landingi.com^
 ||a.postrelease.com^
+||postrelease.com^

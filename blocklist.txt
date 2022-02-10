@@ -1729,3 +1729,4 @@
 ||s.skimresources.com^
 ||euasync01.admantx.com^
 ||edkt.io^
+||cdn.edkt.io^

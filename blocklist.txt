@@ -1853,3 +1853,4 @@
 ||a02342.dailyecho.co.uk^
 ||donorbox.org^
 ||adnxs.net^
+||mpstat.us^

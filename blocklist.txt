@@ -1825,3 +1825,4 @@
 ||cdn.vidcrunch.com^
 ||secure.gravatar.com^
 ||consent.thescarboroughnews.co.uk^
+||smartlook.com^

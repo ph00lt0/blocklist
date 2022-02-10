@@ -1819,3 +1819,4 @@
 0.0.0.0 a-ads.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.adxcore.com
+0.0.0.0 adxcore.com

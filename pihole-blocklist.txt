@@ -2024,3 +2024,4 @@
 0.0.0.0 s1.dmcdn.net
 0.0.0.0 sni.ssl-20minutes.fr.c.footprint.net
 0.0.0.0 membre.20minutes.fr
+0.0.0.0 varnish.qualifioapp.com

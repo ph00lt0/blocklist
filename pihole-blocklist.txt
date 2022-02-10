@@ -1734,3 +1734,4 @@
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 capi.connatix.com
 0.0.0.0 connatix.com
+0.0.0.0 cd.connatix.com

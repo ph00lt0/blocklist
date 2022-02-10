@@ -1733,3 +1733,4 @@
 ||crta.metro.co.uk^
 ||capi.connatix.com^
 ||connatix.com^
+||cd.connatix.com^

@@ -2022,3 +2022,4 @@
 ||boot.pbstck.com^
 ||s1.dmcdn.net^
 ||sni.ssl-20minutes.fr.c.footprint.net^
+||membre.20minutes.fr^

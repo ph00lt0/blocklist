@@ -1831,3 +1831,4 @@
 ||cdn-1096-2.privacy-mgmt.com^
 ||help2buyscheme.co.uk^
 ||check.help2buyscheme.co.uk^
+||solarpanelfunding.co.uk^

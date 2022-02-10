@@ -1917,3 +1917,4 @@
 ||static.plista.com^
 ||purechat.com^
 ||app.purechat.com^
+||secure.adnxs.com^

@@ -1876,3 +1876,4 @@
 ||refinery89.com^
 ||partner.bol.com^
 ||fonts.shopifycdn.com^
+||t.volkskrant.nl^

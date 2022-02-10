@@ -2031,3 +2031,5 @@
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 videoadex.com
 0.0.0.0 ads.videoadex.com
+0.0.0.0 s-eu-1.pushpushgo.com
+0.0.0.0 cdn.digiteka.com

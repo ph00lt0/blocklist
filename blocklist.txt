@@ -2030,3 +2030,5 @@
 ||d24rtvkqjwgutp.cloudfront.net^
 ||videoadex.com^
 ||ads.videoadex.com^
+||s-eu-1.pushpushgo.com^
+||cdn.digiteka.com^

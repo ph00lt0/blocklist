@@ -1877,3 +1877,4 @@
 ||partner.bol.com^
 ||fonts.shopifycdn.com^
 ||t.volkskrant.nl^
+||t.parool.nl^

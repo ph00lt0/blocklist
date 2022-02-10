@@ -1878,3 +1878,4 @@
 0.0.0.0 partner.bol.com
 0.0.0.0 fonts.shopifycdn.com
 0.0.0.0 t.volkskrant.nl
+0.0.0.0 t.parool.nl

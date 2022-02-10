@@ -1903,3 +1903,4 @@
 ||insurads.com^
 ||cdn.insurads.com^
 ||snigelweb.com^
+||cdn.snigelweb.com^

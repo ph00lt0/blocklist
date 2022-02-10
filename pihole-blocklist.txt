@@ -1934,3 +1934,4 @@
 0.0.0.0 cl.k5a.io
 0.0.0.0 lp4.io
 0.0.0.0 pp.lp4.io
+0.0.0.0 perr.h-cdn.com

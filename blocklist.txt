@@ -1933,3 +1933,4 @@
 ||cl.k5a.io^
 ||lp4.io^
 ||pp.lp4.io^
+||perr.h-cdn.com^

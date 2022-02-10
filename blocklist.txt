@@ -1838,3 +1838,4 @@
 ||consent.scotsman.com^
 ||irishtimes.grapeshot.co.uk^
 ||ads.thescottishsun.co.uk^
+||cmp.cdn.thescottishsun.co.uk^

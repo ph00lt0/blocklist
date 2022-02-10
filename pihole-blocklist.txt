@@ -1760,3 +1760,4 @@
 0.0.0.0 monetizer101.com
 0.0.0.0 link.monetizer101.com
 0.0.0.0 teads.tv
+0.0.0.0 a.teads.tv

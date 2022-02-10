@@ -1759,3 +1759,4 @@
 ||monetizer101.com^
 ||link.monetizer101.com^
 ||teads.tv^
+||a.teads.tv^

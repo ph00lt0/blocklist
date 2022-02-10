@@ -1667,3 +1667,4 @@
 0.0.0.0 strike.fox.com
 0.0.0.0 link.tubitv.com
 0.0.0.0 adrise.tv
+0.0.0.0 cdn.adrise.tv

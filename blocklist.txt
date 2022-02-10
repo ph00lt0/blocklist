@@ -1666,3 +1666,4 @@
 ||strike.fox.com^
 ||link.tubitv.com^
 ||adrise.tv^
+||cdn.adrise.tv^

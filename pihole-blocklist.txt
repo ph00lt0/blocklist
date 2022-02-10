@@ -1723,3 +1723,4 @@
 0.0.0.0 adnami.io
 0.0.0.0 macro.adnami.io
 0.0.0.0 d2q1qtsl33ql2r.cloudfront.net
+0.0.0.0 dmgmediaprivacy.co.uk

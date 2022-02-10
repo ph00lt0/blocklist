@@ -1779,3 +1779,4 @@
 ||api-esp.piano.io^
 ||buy.tinypass.com^
 ||sdk.snapkit.com^
+||[A^

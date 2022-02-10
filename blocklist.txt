@@ -1665,3 +1665,4 @@
 ||ws.audioeye.com^
 ||strike.fox.com^
 ||link.tubitv.com^
+||adrise.tv^

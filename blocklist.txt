@@ -1999,3 +1999,4 @@
 ||optad360.io^
 ||appconsent.io^
 ||cdn.appconsent.io^
+||f1g.fr^

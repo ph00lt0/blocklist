@@ -1931,3 +1931,4 @@
 0.0.0.0 consent-cdn.zeit.de
 0.0.0.0 interactive.zeit.de
 0.0.0.0 k5a.io
+0.0.0.0 cl.k5a.io

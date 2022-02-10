@@ -1930,3 +1930,4 @@
 ||consent-cdn.zeit.de^
 ||interactive.zeit.de^
 ||k5a.io^
+||cl.k5a.io^

@@ -1931,3 +1931,4 @@
 ||interactive.zeit.de^
 ||k5a.io^
 ||cl.k5a.io^
+||lp4.io^

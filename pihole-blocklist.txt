@@ -1983,3 +1983,4 @@
 0.0.0.0 mergelsbergverlag.de
 0.0.0.0 smart.idmnet.pl
 0.0.0.0 data-e9b64d37c6.bbv-net.de
+0.0.0.0 prisma.de

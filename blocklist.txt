@@ -1912,3 +1912,4 @@
 ||sk.scorecardresearch.com^
 ||parking.bodiscdn.com^
 ||adverteren.rd.nl^
+||pipeline.rd.nl^

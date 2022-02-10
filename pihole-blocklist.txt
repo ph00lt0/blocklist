@@ -1913,3 +1913,4 @@
 0.0.0.0 sk.scorecardresearch.com
 0.0.0.0 parking.bodiscdn.com
 0.0.0.0 adverteren.rd.nl
+0.0.0.0 pipeline.rd.nl

@@ -1901,3 +1901,4 @@
 ||aff.bstatic.com^
 ||bstatic.com^
 ||insurads.com^
+||cdn.insurads.com^

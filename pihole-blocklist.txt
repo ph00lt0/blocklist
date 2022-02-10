@@ -1902,3 +1902,4 @@
 0.0.0.0 aff.bstatic.com
 0.0.0.0 bstatic.com
 0.0.0.0 insurads.com
+0.0.0.0 cdn.insurads.com

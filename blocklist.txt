@@ -1707,3 +1707,4 @@
 ||secure.widget.cloud.opta.net^
 ||stmg-prod.mirror.co.uk^
 ||lrcontent.com^
+||config.lrcontent.com^

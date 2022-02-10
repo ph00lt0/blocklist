@@ -1708,3 +1708,4 @@
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 stmg-prod.mirror.co.uk
 0.0.0.0 lrcontent.com
+0.0.0.0 config.lrcontent.com

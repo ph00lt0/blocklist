@@ -1793,3 +1793,4 @@
 ||permutive.com^
 ||cdn.permutive.com^
 ||instana.io^
+||eum.instana.io^

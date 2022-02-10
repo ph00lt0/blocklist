@@ -2055,3 +2055,4 @@
 0.0.0.0 clevernt.com
 0.0.0.0 top.evolok.net
 0.0.0.0 bc.marfeelcache.com
+0.0.0.0 marfeelcache.com

@@ -277,7 +277,7 @@
 ||adjust.com^
 ||app.adjust.com^
 ||dpgmmservices.nl^
-||myprivacy.dpgmedia.nl^
+@@||myprivacy.dpgmedia.nl^  # Stops all websites from loading.
 ||cmp.dpgmedia.nl^
 ||cmp.pzc.nl^
 ||cmp.volkskrant.nl^

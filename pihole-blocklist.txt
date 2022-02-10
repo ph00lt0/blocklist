@@ -277,7 +277,7 @@
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 dpgmmservices.nl
-0.0.0.0 myprivacy.dpgmedia.nl
+! allow myprivacy.dpgmedia.nl reason: Stops all websites from loading.
 0.0.0.0 cmp.dpgmedia.nl
 0.0.0.0 cmp.pzc.nl
 0.0.0.0 cmp.volkskrant.nl

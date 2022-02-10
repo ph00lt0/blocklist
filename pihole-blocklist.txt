@@ -1652,3 +1652,4 @@
 0.0.0.0 a.foxdcg.com
 0.0.0.0 pix.pub
 0.0.0.0 lytics.io
+0.0.0.0 c.lytics.io

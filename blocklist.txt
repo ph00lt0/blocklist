@@ -1979,3 +1979,4 @@
 ||idmnet.pl^
 ||cdn.stroeerdigitalgroup.de^
 ||stroeerdigitalgroup.de^
+||mergelsbergverlag.de^

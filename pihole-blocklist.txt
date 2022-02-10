@@ -1980,3 +1980,4 @@
 0.0.0.0 idmnet.pl
 0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 stroeerdigitalgroup.de
+0.0.0.0 mergelsbergverlag.de

@@ -2044,3 +2044,4 @@
 ||i2.wp.com^
 ||demo.tagdiv.com^
 ||tagdiv.com^
+||cdn.cxense.com^

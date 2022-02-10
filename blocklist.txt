@@ -1766,3 +1766,4 @@
 ||giraffepiano.com^
 ||gumgum.com^
 ||js.gumgum.com^
+||hellobar.com^

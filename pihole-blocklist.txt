@@ -1979,3 +1979,4 @@
 0.0.0.0 bz.mergelsbergverlag.de
 0.0.0.0 idmnet.pl
 0.0.0.0 cdn.stroeerdigitalgroup.de
+0.0.0.0 stroeerdigitalgroup.de

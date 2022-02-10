@@ -1978,3 +1978,4 @@
 ||bz.mergelsbergverlag.de^
 ||idmnet.pl^
 ||cdn.stroeerdigitalgroup.de^
+||stroeerdigitalgroup.de^

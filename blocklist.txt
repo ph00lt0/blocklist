@@ -1855,3 +1855,4 @@
 ||adnxs.net^
 ||mpstat.us^
 ||casalemedia.com^
+||dcniko1cv0rz.cloudfront.net^

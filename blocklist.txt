@@ -1910,3 +1910,4 @@
 ||cdn.harvest.graindata.com^
 ||graindata.com^
 ||sk.scorecardresearch.com^
+||parking.bodiscdn.com^

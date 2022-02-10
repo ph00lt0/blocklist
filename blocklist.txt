@@ -1697,3 +1697,4 @@
 ||sail-horizon.com^
 ||ak.sail-horizon.com^
 ||hulkprod.anm.co.uk^
+||fff.dailymail.co.uk^

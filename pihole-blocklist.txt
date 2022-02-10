@@ -1684,3 +1684,4 @@
 0.0.0.0 pixel.ad
 0.0.0.0 centro.pixel.ad
 0.0.0.0 scdn.co
+0.0.0.0 i.scdn.co

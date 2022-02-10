@@ -1712,3 +1712,4 @@
 ||felix.data.tm-awx.com^
 ||recommendations.data.tm-awx.com^
 ||grapeshot.co.uk^
+||trinitymirror.grapeshot.co.uk^

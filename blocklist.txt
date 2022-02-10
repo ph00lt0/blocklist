@@ -1794,3 +1794,4 @@
 ||cdn.permutive.com^
 ||instana.io^
 ||eum.instana.io^
+||bordeaux.futurecdn.net^

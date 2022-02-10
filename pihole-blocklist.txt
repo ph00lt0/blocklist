@@ -1795,3 +1795,4 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
+0.0.0.0 bordeaux.futurecdn.net

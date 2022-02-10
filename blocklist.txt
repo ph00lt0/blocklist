@@ -1840,3 +1840,4 @@
 ||ads.thescottishsun.co.uk^
 ||cmp.cdn.thescottishsun.co.uk^
 ||iris.tv^
+||ovp.iris.tv^

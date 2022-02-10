@@ -1919,3 +1919,4 @@
 0.0.0.0 purechat.com
 0.0.0.0 app.purechat.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 klyck.nl

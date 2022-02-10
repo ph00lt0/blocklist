@@ -1633,3 +1633,4 @@
 ||a.postrelease.com^
 ||postrelease.com^
 ||data.cnn.com^
+||lightning.cnn.com^

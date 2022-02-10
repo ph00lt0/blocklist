@@ -1859,3 +1859,4 @@
 ||realytics.io^
 ||imedia.cz^
 ||im.cz^
+||signal.co^

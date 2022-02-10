@@ -1989,3 +1989,4 @@
 ||tagrpd.de^
 ||weekli.systems^
 ||static.weekli.systems^
+||wer.schwarzwaelder-bote.de^

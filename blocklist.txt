@@ -1632,3 +1632,4 @@
 ||stats.landingi.com^
 ||a.postrelease.com^
 ||postrelease.com^
+||data.cnn.com^

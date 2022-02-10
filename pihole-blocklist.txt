@@ -1633,3 +1633,4 @@
 0.0.0.0 stats.landingi.com
 0.0.0.0 a.postrelease.com
 0.0.0.0 postrelease.com
+0.0.0.0 data.cnn.com

@@ -1731,3 +1731,4 @@
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 edkt.io
 0.0.0.0 cdn.edkt.io
+0.0.0.0 crta.metro.co.uk

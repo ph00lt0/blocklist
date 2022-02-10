@@ -1730,3 +1730,4 @@
 ||euasync01.admantx.com^
 ||edkt.io^
 ||cdn.edkt.io^
+||crta.metro.co.uk^

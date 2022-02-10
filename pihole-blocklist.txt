@@ -1815,3 +1815,4 @@
 0.0.0.0 nbcume.hb.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 theplatform.com
+0.0.0.0 newslicensing.co.uk

@@ -1758,3 +1758,4 @@
 ||tags-cdn.deployads.com^
 ||monetizer101.com^
 ||link.monetizer101.com^
+||teads.tv^

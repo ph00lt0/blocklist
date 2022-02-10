@@ -1647,3 +1647,4 @@
 ||content.uplynk.com^
 ||litix.io^
 ||src.litix.io^
+||link.theplatform.com^

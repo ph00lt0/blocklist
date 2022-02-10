@@ -1660,3 +1660,4 @@
 ||js.taplytics.com^
 ||contributor.google.com^
 ||a57.foxnews.com^
+||smetrics.foxbusiness.com^

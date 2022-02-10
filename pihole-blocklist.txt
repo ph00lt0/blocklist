@@ -2010,3 +2010,4 @@
 0.0.0.0 statsforads.com
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 consentframework.com
+0.0.0.0 cache.consentframework.com

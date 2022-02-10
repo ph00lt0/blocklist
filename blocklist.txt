@@ -2009,3 +2009,4 @@
 ||statsforads.com^
 ||sdk.privacy-center.org^
 ||consentframework.com^
+||cache.consentframework.com^

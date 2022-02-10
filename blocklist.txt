@@ -1826,3 +1826,4 @@
 ||secure.gravatar.com^
 ||consent.thescarboroughnews.co.uk^
 ||smartlook.com^
+||rec.smartlook.com^

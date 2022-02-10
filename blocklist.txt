@@ -1821,3 +1821,4 @@
 ||adxcore.com^
 ||themoneytizer.com^
 ||ads.themoneytizer.com^
+||vidcrunch.com^

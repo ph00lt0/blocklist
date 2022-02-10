@@ -1822,3 +1822,4 @@
 0.0.0.0 adxcore.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 ads.themoneytizer.com
+0.0.0.0 vidcrunch.com

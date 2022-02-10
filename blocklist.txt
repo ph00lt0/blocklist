@@ -1885,3 +1885,4 @@
 ||cdn-kiosk-api.telegraaf.nl^
 ||accounts.tnet.nl^
 ||metrics.groene.nl^
+||aswpsdkeu.com^

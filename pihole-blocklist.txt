@@ -1886,3 +1886,4 @@
 0.0.0.0 cdn-kiosk-api.telegraaf.nl
 0.0.0.0 accounts.tnet.nl
 0.0.0.0 metrics.groene.nl
+0.0.0.0 aswpsdkeu.com

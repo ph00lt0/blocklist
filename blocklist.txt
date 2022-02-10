@@ -1659,3 +1659,4 @@
 ||taplytics.com^
 ||js.taplytics.com^
 ||contributor.google.com^
+||a57.foxnews.com^

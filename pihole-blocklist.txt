@@ -1976,3 +1976,4 @@
 0.0.0.0 cdn.superlivescore.net
 0.0.0.0 totalfootballanalysis.com
 0.0.0.0 data-79505c2b06.borkenerzeitung.de
+0.0.0.0 bz.mergelsbergverlag.de

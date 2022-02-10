@@ -1899,3 +1899,4 @@
 ||reclamefolder.org^
 ||cdn.reclamefolder.org^
 ||aff.bstatic.com^
+||bstatic.com^

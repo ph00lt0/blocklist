@@ -1900,3 +1900,4 @@
 0.0.0.0 reclamefolder.org
 0.0.0.0 cdn.reclamefolder.org
 0.0.0.0 aff.bstatic.com
+0.0.0.0 bstatic.com

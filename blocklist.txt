@@ -1915,3 +1915,4 @@
 ||pipeline.rd.nl^
 ||pubads.g.doubleclick.net^
 ||static.plista.com^
+||purechat.com^

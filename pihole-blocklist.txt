@@ -1907,3 +1907,4 @@
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 hub.ndcmediagroep.nl
 0.0.0.0 ndcx.evolok.net
+0.0.0.0 evolok.net

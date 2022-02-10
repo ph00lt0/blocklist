@@ -1989,3 +1989,7 @@
 ||tagrpd.de^
 ||weekli.systems^
 ||pollster.pl^
+||static.weekli.systems^
+||wer.schwarzwaelder-bote.de^
+||schwarzwaelder-bote.de^
+||badges.instagram.com^

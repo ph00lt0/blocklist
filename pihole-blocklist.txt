@@ -1825,3 +1825,4 @@
 0.0.0.0 vidcrunch.com
 0.0.0.0 cdn.vidcrunch.com
 0.0.0.0 secure.gravatar.com
+0.0.0.0 consent.thescarboroughnews.co.uk

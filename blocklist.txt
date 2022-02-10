@@ -1747,3 +1747,4 @@
 ||s2-prod.mirror.co.uk^
 ||reachplc.com^
 ||data.reachplc.com^
+||flip-pay.com^

@@ -1945,3 +1945,4 @@
 ||dynamic.faz.net^
 ||data-4ede7e9c86.faz.net^
 ||snacks.faz.net^
+||cleverpush.com^

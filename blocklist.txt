@@ -1883,3 +1883,4 @@
 ||emsecure.net^
 ||hollandmediacombinatie.qualifioapp.com^
 ||cdn-kiosk-api.telegraaf.nl^
+||accounts.tnet.nl^

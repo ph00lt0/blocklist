@@ -2012,3 +2012,4 @@
 ||cache.consentframework.com^
 ||choices.consentframework.com^
 ||immanens.com^
+||docimg.immanens.com^

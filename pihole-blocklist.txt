@@ -1642,3 +1642,4 @@
 0.0.0.0 ns1p.net
 0.0.0.0 opecloud.com
 0.0.0.0 cdn.opecloud.com
+0.0.0.0 uplynk.com

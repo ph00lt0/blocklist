@@ -1669,3 +1669,4 @@
 0.0.0.0 adrise.tv
 0.0.0.0 cdn.adrise.tv
 0.0.0.0 analytics-ingestion.production-public.tubi.io
+0.0.0.0 a-fds.youborafds01.com

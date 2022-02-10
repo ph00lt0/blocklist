@@ -1822,3 +1822,4 @@
 ||themoneytizer.com^
 ||ads.themoneytizer.com^
 ||vidcrunch.com^
+||cdn.vidcrunch.com^

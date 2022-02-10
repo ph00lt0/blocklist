@@ -1739,3 +1739,4 @@
 ||buzzfeed2.map.fastly.net^
 ||8154892.fls.doubleclick.net^
 ||cmpv2.standard.co.uk^
+||omnitagjs.com^

@@ -1740,3 +1740,4 @@
 0.0.0.0 buzzfeed2.map.fastly.net
 0.0.0.0 8154892.fls.doubleclick.net
 0.0.0.0 cmpv2.standard.co.uk
+0.0.0.0 omnitagjs.com

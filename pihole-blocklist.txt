@@ -2029,3 +2029,4 @@
 0.0.0.0 hubvisor.io
 0.0.0.0 cdn.hubvisor.io
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
+0.0.0.0 videoadex.com

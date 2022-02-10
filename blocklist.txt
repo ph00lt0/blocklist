@@ -1955,3 +1955,4 @@
 ||cdntrf.com^
 ||idcdn.de^
 ||opencmp.net^
+||cdn.opencmp.net^

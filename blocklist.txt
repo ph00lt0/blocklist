@@ -2048,3 +2048,4 @@
 ||httpbin.org^
 ||adserver-cdn.euroweeklynews.com^
 ||truepush.com^
+||sdki.truepush.com^

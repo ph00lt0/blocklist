@@ -1998,3 +1998,4 @@
 ||smcloud.net^
 ||optad360.io^
 ||appconsent.io^
+||cdn.appconsent.io^

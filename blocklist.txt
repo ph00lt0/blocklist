@@ -1812,3 +1812,4 @@
 ||a02342.glasgowtimes.co.uk^
 ||widgets.media.weather.com^
 ||nbcume.hb.omtrdc.net^
+||nbcume.sc.omtrdc.net^

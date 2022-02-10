@@ -1957,3 +1957,4 @@
 0.0.0.0 idcdn.de
 0.0.0.0 opencmp.net
 0.0.0.0 cdn.opencmp.net
+0.0.0.0 pippio.com

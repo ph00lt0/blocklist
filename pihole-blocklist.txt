@@ -1928,3 +1928,4 @@
 0.0.0.0 a-mo.net
 0.0.0.0 assets.a-mo.net
 0.0.0.0 i0.wp.com
+0.0.0.0 consent-cdn.zeit.de

@@ -1937,4 +1937,10 @@
 ||data-af9f3dfb33.zeit.de^
 ||ezoic.net^
 ||scripts.zeit.de^
+<<<<<<< HEAD
 ||www-cultofmac-com.ezoic.net^
+=======
+||vgwort.de^
+||zeit.met.vgwort.de^
+>>>>>>> d4fc558486e4038d1af92e348a5c3e91702b88a0
+||c.amazon-adsystem.com^

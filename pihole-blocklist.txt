@@ -1938,4 +1938,10 @@
 0.0.0.0 data-af9f3dfb33.zeit.de
 0.0.0.0 ezoic.net
 0.0.0.0 scripts.zeit.de
+<<<<<<< HEAD
 0.0.0.0 www-cultofmac-com.ezoic.net
+=======
+0.0.0.0 vgwort.de
+0.0.0.0 zeit.met.vgwort.de
+>>>>>>> d4fc558486e4038d1af92e348a5c3e91702b88a0
+0.0.0.0 c.amazon-adsystem.com

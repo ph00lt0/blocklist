@@ -1953,3 +1953,4 @@
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 prodo-api.ariva-services.de
 0.0.0.0 ariva-services.de
+0.0.0.0 cdntrf.com

@@ -2017,3 +2017,4 @@
 ||www.qiota.com^
 ||s2.dmcdn.net^
 ||milibris.com^
+||static.milibris.com^

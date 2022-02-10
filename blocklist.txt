@@ -2061,3 +2061,4 @@
 ||www-elperiodic-com.translate.goog^
 ||banners.evoluhcion.es^
 ||evoluhcion.es^
+||tagmanager.smartadserver.com^

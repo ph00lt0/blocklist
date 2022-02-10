@@ -2005,3 +2005,4 @@
 ||www.queryly.com^
 ||statics.liberation.fr^
 ||via.batch.com^
+||batch.com^

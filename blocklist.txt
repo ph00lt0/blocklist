@@ -2024,3 +2024,4 @@
 ||sni.ssl-20minutes.fr.c.footprint.net^
 ||membre.20minutes.fr^
 ||varnish.qualifioapp.com^
+||campagne.20minutes.fr^

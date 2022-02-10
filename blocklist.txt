@@ -2033,3 +2033,4 @@
 ||s-eu-1.pushpushgo.com^
 ||cdn.digiteka.com^
 ||digiteka.com^
+||cmp.courrierinternational.com^

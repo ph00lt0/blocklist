@@ -1683,3 +1683,4 @@
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 pixel.ad
 0.0.0.0 centro.pixel.ad
+0.0.0.0 scdn.co

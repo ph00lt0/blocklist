@@ -1643,3 +1643,4 @@
 0.0.0.0 opecloud.com
 0.0.0.0 cdn.opecloud.com
 0.0.0.0 uplynk.com
+0.0.0.0 insights-collector.newrelic.com

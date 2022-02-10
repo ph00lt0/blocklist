@@ -1642,3 +1642,4 @@
 ||opecloud.com^
 ||cdn.opecloud.com^
 ||uplynk.com^
+||insights-collector.newrelic.com^

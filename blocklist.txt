@@ -1650,3 +1650,4 @@
 ||link.theplatform.com^
 ||a.foxdcg.com^
 ||pix.pub^
+||lytics.io^

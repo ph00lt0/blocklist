@@ -2026,3 +2026,4 @@
 ||varnish.qualifioapp.com^
 ||campagne.20minutes.fr^
 ||hubvisor.io^
+||cdn.hubvisor.io^

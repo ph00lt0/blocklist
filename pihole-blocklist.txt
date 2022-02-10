@@ -2027,3 +2027,4 @@
 0.0.0.0 varnish.qualifioapp.com
 0.0.0.0 campagne.20minutes.fr
 0.0.0.0 hubvisor.io
+0.0.0.0 cdn.hubvisor.io

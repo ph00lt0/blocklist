@@ -1751,3 +1751,4 @@
 ||cdn.flip-pay.com^
 ||cdns.gigya.com^
 ||shared.mediahuis.be^
+||www.nijobfinder.co.uk^

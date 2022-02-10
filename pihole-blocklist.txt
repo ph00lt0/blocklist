@@ -1676,3 +1676,4 @@
 0.0.0.0 a57.foxsports.com
 0.0.0.0 minute.ly
 0.0.0.0 apv-launcher.minute.ly
+0.0.0.0 abstractedauthority.com

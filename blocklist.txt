@@ -1675,3 +1675,4 @@
 ||a57.foxsports.com^
 ||minute.ly^
 ||apv-launcher.minute.ly^
+||abstractedauthority.com^

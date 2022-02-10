@@ -1699,3 +1699,4 @@
 ||hulkprod.anm.co.uk^
 ||fff.dailymail.co.uk^
 ||rta2.newzit.com^
+||rta2.metro.co.uk^

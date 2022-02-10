@@ -1700,3 +1700,4 @@
 0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 fff.dailymail.co.uk
 0.0.0.0 rta2.newzit.com
+0.0.0.0 rta2.metro.co.uk

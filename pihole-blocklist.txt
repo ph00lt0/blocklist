@@ -1737,3 +1737,4 @@
 0.0.0.0 cd.connatix.com
 0.0.0.0 a2a5c7f9-3fa0-4182-889a-15aa61acf59b.edge.permutive.app
 0.0.0.0 mapi.huffpost.com
+0.0.0.0 buzzfeed2.map.fastly.net

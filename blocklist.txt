@@ -1889,3 +1889,4 @@
 ||ws.pubble.nl^
 ||waws-prod-am2-261.cloudapp.net^
 ||varnish.qualifio.com^
+||gadgets.buienradar.nl^

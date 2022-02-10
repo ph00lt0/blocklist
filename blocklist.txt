@@ -2013,3 +2013,4 @@
 ||choices.consentframework.com^
 ||immanens.com^
 ||docimg.immanens.com^
+||qiota.com^

@@ -1881,3 +1881,4 @@
 ||t.trouw.nl^
 ||tmg.emsecure.net^
 ||emsecure.net^
+||hollandmediacombinatie.qualifioapp.com^

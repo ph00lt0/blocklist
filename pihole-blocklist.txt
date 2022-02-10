@@ -1695,3 +1695,4 @@
 0.0.0.0 pixels.ai
 0.0.0.0 pub.pixels.ai
 0.0.0.0 tinypass.com
+0.0.0.0 sail-horizon.com

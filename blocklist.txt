@@ -1694,3 +1694,4 @@
 ||pixels.ai^
 ||pub.pixels.ai^
 ||tinypass.com^
+||sail-horizon.com^

@@ -1972,3 +1972,4 @@
 ||xiti.com^
 ||liveramp.com^
 ||superlivescore.net^
+||cdn.superlivescore.net^

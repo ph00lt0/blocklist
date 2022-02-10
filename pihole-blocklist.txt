@@ -1702,3 +1702,4 @@
 0.0.0.0 rta2.newzit.com
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rta.dailymail.co.uk
+0.0.0.0 rta2.inews.co.uk

@@ -1777,3 +1777,4 @@
 0.0.0.0 cdn.parsely.com
 0.0.0.0 s31242.pcdn.co
 0.0.0.0 piano.io
+0.0.0.0 api-esp.piano.io

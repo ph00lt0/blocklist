@@ -1776,3 +1776,4 @@
 ||cdn.parsely.com^
 ||s31242.pcdn.co^
 ||piano.io^
+||api-esp.piano.io^

@@ -1937,3 +1937,4 @@
 ||data-af9f3dfb33.zeit.de^
 ||ezoic.net^
 ||scripts.zeit.de^
+||www-cultofmac-com.ezoic.net^

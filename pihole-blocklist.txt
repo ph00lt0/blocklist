@@ -1781,3 +1781,4 @@
 0.0.0.0 buy.tinypass.com
 0.0.0.0 sdk.snapkit.com
 0.0.0.0 [A
+0.0.0.0 snapkit.com

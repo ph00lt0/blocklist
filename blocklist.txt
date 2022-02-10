@@ -1780,3 +1780,4 @@
 ||buy.tinypass.com^
 ||sdk.snapkit.com^
 ||[A^
+||snapkit.com^

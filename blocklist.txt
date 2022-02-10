@@ -1720,3 +1720,4 @@
 ||reach-id.orbit.tm-awx.com^
 ||scripts.webcontentassessor.com^
 ||adnami.io^
+||macro.adnami.io^

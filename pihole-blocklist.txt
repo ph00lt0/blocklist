@@ -1721,3 +1721,4 @@
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 scripts.webcontentassessor.com
 0.0.0.0 adnami.io
+0.0.0.0 macro.adnami.io

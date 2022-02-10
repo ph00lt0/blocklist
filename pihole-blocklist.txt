@@ -1821,3 +1821,4 @@
 0.0.0.0 ad.adxcore.com
 0.0.0.0 adxcore.com
 0.0.0.0 themoneytizer.com
+0.0.0.0 ads.themoneytizer.com

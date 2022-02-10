@@ -1820,3 +1820,4 @@
 ||ad.adxcore.com^
 ||adxcore.com^
 ||themoneytizer.com^
+||ads.themoneytizer.com^

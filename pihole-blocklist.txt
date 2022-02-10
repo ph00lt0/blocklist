@@ -1671,3 +1671,4 @@
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 a-fds.youborafds01.com
 0.0.0.0 youborafds01.com
+0.0.0.0 manifest.production-public.tubi.io

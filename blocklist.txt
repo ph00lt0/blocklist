@@ -1670,3 +1670,4 @@
 ||analytics-ingestion.production-public.tubi.io^
 ||a-fds.youborafds01.com^
 ||youborafds01.com^
+||manifest.production-public.tubi.io^

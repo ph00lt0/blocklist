@@ -2037,3 +2037,4 @@
 ||wrapper.lemde.fr^
 ||hal.courrierinternational.com^
 ||www.statsforads.com^
+||pixel.quantserve.com^

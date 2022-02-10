@@ -1673,3 +1673,4 @@
 0.0.0.0 youborafds01.com
 0.0.0.0 manifest.production-public.tubi.io
 0.0.0.0 s.update.rainmaker-0.production-public.tubi.io
+0.0.0.0 a57.foxsports.com

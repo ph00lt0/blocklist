@@ -1672,3 +1672,4 @@
 ||youborafds01.com^
 ||manifest.production-public.tubi.io^
 ||s.update.rainmaker-0.production-public.tubi.io^
+||a57.foxsports.com^

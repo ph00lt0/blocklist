@@ -1693,3 +1693,4 @@
 ||edge.permutive.app^
 ||pixels.ai^
 ||pub.pixels.ai^
+||tinypass.com^

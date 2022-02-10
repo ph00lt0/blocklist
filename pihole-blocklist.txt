@@ -1694,3 +1694,4 @@
 0.0.0.0 edge.permutive.app
 0.0.0.0 pixels.ai
 0.0.0.0 pub.pixels.ai
+0.0.0.0 tinypass.com

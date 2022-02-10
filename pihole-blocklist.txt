@@ -1845,3 +1845,4 @@
 0.0.0.0 rampanel.com
 0.0.0.0 inviso.rampanel.com
 0.0.0.0 goldbroker.com
+0.0.0.0 www.goldbroker.com

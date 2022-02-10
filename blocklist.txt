@@ -1844,3 +1844,4 @@
 ||rampanel.com^
 ||inviso.rampanel.com^
 ||goldbroker.com^
+||www.goldbroker.com^

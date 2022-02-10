@@ -1748,3 +1748,4 @@
 ||reachplc.com^
 ||data.reachplc.com^
 ||flip-pay.com^
+||cdn.flip-pay.com^

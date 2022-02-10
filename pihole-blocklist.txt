@@ -2044,3 +2044,4 @@
 0.0.0.0 i1.wp.com
 0.0.0.0 i2.wp.com
 0.0.0.0 demo.tagdiv.com
+0.0.0.0 tagdiv.com

@@ -1969,3 +1969,4 @@
 ||datawrapper.dwcdn.net^
 ||taz.met.vgwort.de^
 ||logs1279.xiti.com^
+||xiti.com^

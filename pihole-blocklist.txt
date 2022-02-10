@@ -1847,3 +1847,4 @@
 0.0.0.0 goldbroker.com
 0.0.0.0 www.goldbroker.com
 0.0.0.0 lmao.ninja
+0.0.0.0 corona.lmao.ninja

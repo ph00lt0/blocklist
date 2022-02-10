@@ -1846,3 +1846,4 @@
 ||goldbroker.com^
 ||www.goldbroker.com^
 ||lmao.ninja^
+||corona.lmao.ninja^

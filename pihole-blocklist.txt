@@ -1790,3 +1790,4 @@
 0.0.0.0 mediaforce.grapeshot.co.uk
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 a02342.theargus.co.uk
+0.0.0.0 d096.theweek.co.uk

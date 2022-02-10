@@ -1789,3 +1789,4 @@
 ||mediaforce.grapeshot.co.uk^
 ||d2zv5rkii46miq.cloudfront.net^
 ||a02342.theargus.co.uk^
+||d096.theweek.co.uk^

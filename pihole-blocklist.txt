@@ -1870,3 +1870,4 @@
 0.0.0.0 btttag.com
 0.0.0.0 bluetriangletech.com
 0.0.0.0 zog.link
+0.0.0.0 groovinads.com

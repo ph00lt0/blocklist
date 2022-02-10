@@ -1949,3 +1949,4 @@
 ||static.cleverpush.com^
 ||iads.fazcdn.net^
 ||fazcdn.net^
+||imasdk.googleapis.com^

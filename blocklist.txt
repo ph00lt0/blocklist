@@ -1676,3 +1676,4 @@
 ||minute.ly^
 ||apv-launcher.minute.ly^
 ||abstractedauthority.com^
+||geoedge.be^

@@ -1686,3 +1686,4 @@
 ||i.scdn.co^
 ||interactive.guim.co.uk^
 ||cmpv2.independent.co.uk^
+||dotmetrics.net^

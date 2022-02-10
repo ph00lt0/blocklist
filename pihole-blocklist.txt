@@ -1687,3 +1687,4 @@
 0.0.0.0 i.scdn.co
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 cmpv2.independent.co.uk
+0.0.0.0 dotmetrics.net

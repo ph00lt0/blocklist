@@ -1744,3 +1744,4 @@
 ||esi.edge.permutive.app^
 ||cdn.mediavoice.com^
 ||mediavoice.com^
+||s2-prod.mirror.co.uk^

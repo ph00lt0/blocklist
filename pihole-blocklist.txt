@@ -2008,3 +2008,4 @@
 0.0.0.0 via.batch.com
 0.0.0.0 batch.com
 0.0.0.0 statsforads.com
+0.0.0.0 sdk.privacy-center.org

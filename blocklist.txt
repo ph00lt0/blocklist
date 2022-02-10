@@ -2007,3 +2007,4 @@
 ||via.batch.com^
 ||batch.com^
 ||statsforads.com^
+||sdk.privacy-center.org^

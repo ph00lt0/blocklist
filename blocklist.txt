@@ -1656,3 +1656,4 @@
 ||ats.rlcdn.com^
 ||imrworldwide.com^
 ||secure-us.imrworldwide.com^
+||taplytics.com^

@@ -1644,3 +1644,4 @@
 ||uplynk.com^
 ||insights-collector.newrelic.com^
 ||x-default-stgec.uplynk.com^
+||content.uplynk.com^

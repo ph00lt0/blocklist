@@ -1635,3 +1635,4 @@
 ||data.cnn.com^
 ||lightning.cnn.com^
 ||websdk.appsflyer.com^
+||appsflyer.com^

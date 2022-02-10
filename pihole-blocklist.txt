@@ -1636,3 +1636,4 @@
 0.0.0.0 data.cnn.com
 0.0.0.0 lightning.cnn.com
 0.0.0.0 websdk.appsflyer.com
+0.0.0.0 appsflyer.com

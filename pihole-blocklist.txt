@@ -1968,3 +1968,4 @@
 0.0.0.0 sz.met.vgwort.de
 0.0.0.0 data-2d3a3249cd.taz.de
 0.0.0.0 datawrapper.dwcdn.net
+0.0.0.0 taz.met.vgwort.de

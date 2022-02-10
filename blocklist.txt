@@ -1967,3 +1967,4 @@
 ||sz.met.vgwort.de^
 ||data-2d3a3249cd.taz.de^
 ||datawrapper.dwcdn.net^
+||taz.met.vgwort.de^

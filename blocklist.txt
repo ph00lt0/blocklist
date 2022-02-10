@@ -1808,3 +1808,4 @@
 ||native.sharethrough.com^
 ||cdn.exelator.com^
 ||seaofads.com^
+||cdn.seaofads.com^

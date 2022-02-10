@@ -1868,3 +1868,4 @@
 ||rakuten.co.jp^
 ||btttag.com^
 ||bluetriangletech.com^
+||zog.link^

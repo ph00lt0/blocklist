@@ -1949,3 +1949,4 @@
 0.0.0.0 cleverpush.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 iads.fazcdn.net
+0.0.0.0 fazcdn.net

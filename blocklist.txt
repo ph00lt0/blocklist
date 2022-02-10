@@ -1948,3 +1948,4 @@
 ||cleverpush.com^
 ||static.cleverpush.com^
 ||iads.fazcdn.net^
+||fazcdn.net^

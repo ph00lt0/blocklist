@@ -1965,3 +1965,4 @@
 ||prospekte.sueddeutsche.de^
 ||rapleaf.com^
 ||sz.met.vgwort.de^
+||data-2d3a3249cd.taz.de^

@@ -1926,3 +1926,4 @@
 ||top-fwz1.mail.ru^
 ||a-mo.net^
 ||assets.a-mo.net^
+||i0.wp.com^

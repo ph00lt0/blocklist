@@ -1787,3 +1787,4 @@
 ||a02342.heraldscotland.com^
 ||uatu.newsquestdigital.co.uk^
 ||mediaforce.grapeshot.co.uk^
+||d2zv5rkii46miq.cloudfront.net^

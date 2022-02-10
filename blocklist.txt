@@ -1976,3 +1976,4 @@
 ||totalfootballanalysis.com^
 ||data-79505c2b06.borkenerzeitung.de^
 ||bz.mergelsbergverlag.de^
+||idmnet.pl^

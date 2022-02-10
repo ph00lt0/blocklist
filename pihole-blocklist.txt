@@ -1855,3 +1855,4 @@
 0.0.0.0 donorbox.org
 0.0.0.0 adnxs.net
 0.0.0.0 mpstat.us
+0.0.0.0 casalemedia.com

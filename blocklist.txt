@@ -1854,3 +1854,4 @@
 ||donorbox.org^
 ||adnxs.net^
 ||mpstat.us^
+||casalemedia.com^

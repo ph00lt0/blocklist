@@ -1958,3 +1958,4 @@
 ||cdn.opencmp.net^
 ||pippio.com^
 ||paywall.production.ippen.space^
+||ippen.space^

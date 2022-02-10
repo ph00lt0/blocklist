@@ -1959,3 +1959,4 @@
 0.0.0.0 cdn.opencmp.net
 0.0.0.0 pippio.com
 0.0.0.0 paywall.production.ippen.space
+0.0.0.0 ippen.space

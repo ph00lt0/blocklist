@@ -1775,3 +1775,4 @@
 ||parsely.com^
 ||cdn.parsely.com^
 ||s31242.pcdn.co^
+||piano.io^

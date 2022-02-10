@@ -2040,3 +2040,4 @@
 0.0.0.0 www.statsforads.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 d35xxde4fgg0cx.cloudfront.net
+0.0.0.0 wtg-ads.com

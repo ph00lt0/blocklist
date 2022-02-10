@@ -1990,3 +1990,4 @@
 ||weekli.systems^
 ||static.weekli.systems^
 ||wer.schwarzwaelder-bote.de^
+||schwarzwaelder-bote.de^

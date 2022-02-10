@@ -1991,3 +1991,4 @@
 0.0.0.0 weekli.systems
 0.0.0.0 static.weekli.systems
 0.0.0.0 wer.schwarzwaelder-bote.de
+0.0.0.0 schwarzwaelder-bote.de

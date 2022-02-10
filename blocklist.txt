@@ -2047,3 +2047,4 @@
 ||cdn.cxense.com^
 ||httpbin.org^
 ||adserver-cdn.euroweeklynews.com^
+||truepush.com^

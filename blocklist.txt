@@ -1829,3 +1829,4 @@
 ||rec.smartlook.com^
 ||consent.northernirelandworld.com^
 ||cdn-1096-2.privacy-mgmt.com^
+||help2buyscheme.co.uk^

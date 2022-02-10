@@ -1762,3 +1762,4 @@
 ||a.teads.tv^
 ||wonderpush.com^
 ||cdn.by.wonderpush.com^
+||d3ujids68p6xmq.cloudfront.net^

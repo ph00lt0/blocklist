@@ -1714,3 +1714,4 @@
 ||grapeshot.co.uk^
 ||trinitymirror.grapeshot.co.uk^
 ||get-latest.convrse.media^
+||convrse.media^

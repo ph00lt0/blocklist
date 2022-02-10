@@ -1779,7 +1779,6 @@
 ||api-esp.piano.io^
 ||buy.tinypass.com^
 ||sdk.snapkit.com^
-||[A^
 ||snapkit.com^
 ||modulous.huffpost.com^
 ||www.tiktok.com^
@@ -1872,3 +1871,4 @@
 ||groovinads.com^
 ||aimatch.com^
 ||sas.com^
+||contextweb.com^

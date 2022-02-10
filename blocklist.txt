@@ -1987,3 +1987,4 @@
 ||d.nativendo.de^
 ||nativendo.de^
 ||tagrpd.de^
+||weekli.systems^

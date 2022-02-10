@@ -2042,3 +2042,6 @@
 ||wtg-ads.com^
 ||i1.wp.com^
 ||lib.wtg-ads.com^
+||i2.wp.com^
+||demo.tagdiv.com^
+||tagdiv.com^

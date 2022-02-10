@@ -1848,3 +1848,4 @@
 ||lmao.ninja^
 ||corona.lmao.ninja^
 ||thememattic.com^
+||cdn.thememattic.com^

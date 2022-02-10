@@ -1667,3 +1667,4 @@
 ||link.tubitv.com^
 ||adrise.tv^
 ||cdn.adrise.tv^
+||analytics-ingestion.production-public.tubi.io^

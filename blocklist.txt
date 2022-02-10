@@ -1817,3 +1817,4 @@
 ||newslicensing.co.uk^
 ||a-ads.com^
 ||ad.a-ads.com^
+||ad.adxcore.com^

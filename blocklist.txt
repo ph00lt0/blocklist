@@ -1893,3 +1893,4 @@
 ||abs.twimg.com^
 ||raygun.com^
 ||raygun.io^
+||raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com^

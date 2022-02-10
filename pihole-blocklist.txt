@@ -1894,3 +1894,4 @@
 0.0.0.0 abs.twimg.com
 0.0.0.0 raygun.com
 0.0.0.0 raygun.io
+0.0.0.0 raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com

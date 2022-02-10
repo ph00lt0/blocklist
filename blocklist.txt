@@ -1920,3 +1920,4 @@
 ||secure.adnxs.com^
 ||klyck.nl^
 ||www.klyck.nl^
+||analytics.showoff.asp.events^

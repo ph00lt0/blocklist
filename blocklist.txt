@@ -1692,3 +1692,4 @@
 ||5d79bce7-5d2b-427e-a6c4-b89b6c7bf048.edge.permutive.app^
 ||edge.permutive.app^
 ||pixels.ai^
+||pub.pixels.ai^

@@ -1899,3 +1899,4 @@
 0.0.0.0 cdn.raygun.io
 0.0.0.0 reclamefolder.org
 0.0.0.0 cdn.reclamefolder.org
+0.0.0.0 aff.bstatic.com

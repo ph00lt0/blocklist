@@ -1898,3 +1898,4 @@
 ||cdn.raygun.io^
 ||reclamefolder.org^
 ||cdn.reclamefolder.org^
+||aff.bstatic.com^

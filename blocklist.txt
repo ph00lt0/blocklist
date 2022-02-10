@@ -1905,3 +1905,4 @@
 ||snigelweb.com^
 ||cdn.snigelweb.com^
 ||hub.ndcmediagroep.nl^
+||ndcx.evolok.net^

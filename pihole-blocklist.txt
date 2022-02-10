@@ -1960,3 +1960,4 @@
 0.0.0.0 pippio.com
 0.0.0.0 paywall.production.ippen.space
 0.0.0.0 ippen.space
+0.0.0.0 fr-online.met.vgwort.de

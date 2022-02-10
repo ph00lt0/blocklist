@@ -1761,3 +1761,4 @@
 ||teads.tv^
 ||a.teads.tv^
 ||wonderpush.com^
+||cdn.by.wonderpush.com^

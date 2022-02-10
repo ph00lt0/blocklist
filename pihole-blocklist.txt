@@ -1762,3 +1762,4 @@
 0.0.0.0 teads.tv
 0.0.0.0 a.teads.tv
 0.0.0.0 wonderpush.com
+0.0.0.0 cdn.by.wonderpush.com

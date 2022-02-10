@@ -1904,3 +1904,4 @@
 ||cdn.insurads.com^
 ||snigelweb.com^
 ||cdn.snigelweb.com^
+||hub.ndcmediagroep.nl^

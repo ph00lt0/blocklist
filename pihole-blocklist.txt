@@ -1865,3 +1865,4 @@
 0.0.0.0 districtm.io
 0.0.0.0 districtm.ca
 0.0.0.0 33across.com
+0.0.0.0 trafficgate.net

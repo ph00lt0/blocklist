@@ -1640,3 +1640,4 @@
 0.0.0.0 analytics.nova.fox.com
 0.0.0.0 cs.ns1p.net
 0.0.0.0 ns1p.net
+0.0.0.0 opecloud.com

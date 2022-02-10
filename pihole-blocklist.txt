@@ -1637,3 +1637,4 @@
 0.0.0.0 lightning.cnn.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 appsflyer.com
+0.0.0.0 analytics.nova.fox.com

@@ -1636,3 +1636,4 @@
 ||lightning.cnn.com^
 ||websdk.appsflyer.com^
 ||appsflyer.com^
+||analytics.nova.fox.com^

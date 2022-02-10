@@ -1704,3 +1704,4 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.inews.co.uk
 0.0.0.0 d2a5s20526q16u.cloudfront.net
+0.0.0.0 d35k22e9287vnh.cloudfront.net

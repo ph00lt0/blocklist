@@ -1989,3 +1989,4 @@
 0.0.0.0 nativendo.de
 0.0.0.0 tagrpd.de
 0.0.0.0 weekli.systems
+0.0.0.0 pollster.pl

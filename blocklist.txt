@@ -1988,3 +1988,4 @@
 ||nativendo.de^
 ||tagrpd.de^
 ||weekli.systems^
+||pollster.pl^

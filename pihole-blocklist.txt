@@ -1775,3 +1775,4 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 parsely.com
 0.0.0.0 cdn.parsely.com
+0.0.0.0 s31242.pcdn.co

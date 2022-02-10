@@ -1779,3 +1779,4 @@
 0.0.0.0 piano.io
 0.0.0.0 api-esp.piano.io
 0.0.0.0 buy.tinypass.com
+0.0.0.0 sdk.snapkit.com

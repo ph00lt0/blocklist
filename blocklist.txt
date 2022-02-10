@@ -1765,3 +1765,4 @@
 ||d3ujids68p6xmq.cloudfront.net^
 ||giraffepiano.com^
 ||gumgum.com^
+||js.gumgum.com^

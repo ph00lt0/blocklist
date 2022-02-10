@@ -1766,3 +1766,4 @@
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 giraffepiano.com
 0.0.0.0 gumgum.com
+0.0.0.0 js.gumgum.com

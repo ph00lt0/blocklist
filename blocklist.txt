@@ -1807,3 +1807,4 @@
 ||sharethrough.com^
 ||native.sharethrough.com^
 ||cdn.exelator.com^
+||seaofads.com^

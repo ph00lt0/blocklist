@@ -2029,3 +2029,4 @@
 ||cdn.hubvisor.io^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||videoadex.com^
+||s-eu-1.pushpushgo.com^

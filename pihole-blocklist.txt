@@ -1840,3 +1840,4 @@
 0.0.0.0 irishtimes.grapeshot.co.uk
 0.0.0.0 ads.thescottishsun.co.uk
 0.0.0.0 cmp.cdn.thescottishsun.co.uk
+0.0.0.0 iris.tv

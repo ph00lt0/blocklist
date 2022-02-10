@@ -1772,3 +1772,4 @@
 ||socialcanvas-cdn.kargo.com^
 ||ntv.io^
 ||s.ntv.io^
+||parsely.com^

@@ -1773,3 +1773,4 @@
 0.0.0.0 socialcanvas-cdn.kargo.com
 0.0.0.0 ntv.io
 0.0.0.0 s.ntv.io
+0.0.0.0 parsely.com

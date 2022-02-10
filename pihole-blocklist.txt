@@ -2002,3 +2002,4 @@
 0.0.0.0 cdn.appconsent.io
 0.0.0.0 f1g.fr
 0.0.0.0 i.f1g.fr
+0.0.0.0 queryly.com

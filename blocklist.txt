@@ -2001,3 +2001,4 @@
 ||cdn.appconsent.io^
 ||f1g.fr^
 ||i.f1g.fr^
+||queryly.com^

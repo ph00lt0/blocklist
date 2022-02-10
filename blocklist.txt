@@ -1688,3 +1688,4 @@
 ||cmpv2.independent.co.uk^
 ||dotmetrics.net^
 ||uk-script.dotmetrics.net^
+||permutive.app^

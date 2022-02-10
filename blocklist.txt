@@ -1874,3 +1874,4 @@
 ||contextweb.com^
 ||pulsepoint.com^
 ||refinery89.com^
+||partner.bol.com^

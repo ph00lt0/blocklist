@@ -2003,3 +2003,4 @@
 ||i.f1g.fr^
 ||queryly.com^
 ||www.queryly.com^
+||statics.liberation.fr^

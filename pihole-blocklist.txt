@@ -2004,3 +2004,4 @@
 0.0.0.0 i.f1g.fr
 0.0.0.0 queryly.com
 0.0.0.0 www.queryly.com
+0.0.0.0 statics.liberation.fr

@@ -1954,3 +1954,4 @@
 ||ariva-services.de^
 ||cdntrf.com^
 ||idcdn.de^
+||opencmp.net^

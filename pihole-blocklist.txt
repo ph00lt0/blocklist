@@ -1947,3 +1947,4 @@
 0.0.0.0 data-4ede7e9c86.faz.net
 0.0.0.0 snacks.faz.net
 0.0.0.0 cleverpush.com
+0.0.0.0 static.cleverpush.com

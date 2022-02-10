@@ -1727,3 +1727,4 @@
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 id5-sync.com
 0.0.0.0 5f42864d-a421-4f37-9478-00266f871d68.edge.permutive.app
+0.0.0.0 s.skimresources.com

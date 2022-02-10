@@ -1925,3 +1925,4 @@
 ||pixel.archive.ph^
 ||top-fwz1.mail.ru^
 ||a-mo.net^
+||assets.a-mo.net^

@@ -2020,3 +2020,4 @@
 0.0.0.0 milibris.com
 0.0.0.0 static.milibris.com
 0.0.0.0 pbstck.com
+0.0.0.0 boot.pbstck.com

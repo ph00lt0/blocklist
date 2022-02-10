@@ -1756,3 +1756,4 @@
 0.0.0.0 nijobfinder.co.uk
 0.0.0.0 cdn.permutive.app
 0.0.0.0 deployads.com
+0.0.0.0 tags-cdn.deployads.com

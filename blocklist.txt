@@ -1755,3 +1755,4 @@
 ||nijobfinder.co.uk^
 ||cdn.permutive.app^
 ||deployads.com^
+||tags-cdn.deployads.com^

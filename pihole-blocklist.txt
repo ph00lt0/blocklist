@@ -1939,3 +1939,4 @@
 0.0.0.0 ezoic.net
 0.0.0.0 scripts.zeit.de
 0.0.0.0 vgwort.de
+0.0.0.0 zeit.met.vgwort.de

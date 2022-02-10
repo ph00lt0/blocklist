@@ -1938,3 +1938,4 @@
 ||ezoic.net^
 ||scripts.zeit.de^
 ||vgwort.de^
+||zeit.met.vgwort.de^

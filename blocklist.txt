@@ -1689,3 +1689,4 @@
 ||dotmetrics.net^
 ||uk-script.dotmetrics.net^
 ||permutive.app^
+||5d79bce7-5d2b-427e-a6c4-b89b6c7bf048.edge.permutive.app^

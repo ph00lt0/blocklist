@@ -1695,3 +1695,4 @@
 ||pub.pixels.ai^
 ||tinypass.com^
 ||sail-horizon.com^
+||ak.sail-horizon.com^

@@ -1733,3 +1733,4 @@
 0.0.0.0 cdn.edkt.io
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 capi.connatix.com
+0.0.0.0 connatix.com

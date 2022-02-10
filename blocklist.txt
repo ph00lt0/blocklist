@@ -1732,3 +1732,4 @@
 ||cdn.edkt.io^
 ||crta.metro.co.uk^
 ||capi.connatix.com^
+||connatix.com^

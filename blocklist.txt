@@ -1724,3 +1724,4 @@
 ||d2q1qtsl33ql2r.cloudfront.net^
 ||dmgmediaprivacy.co.uk^
 ||cmp.dmgmediaprivacy.co.uk^
+||id5-sync.com^

@@ -1916,3 +1916,4 @@
 ||pubads.g.doubleclick.net^
 ||static.plista.com^
 ||purechat.com^
+||app.purechat.com^

@@ -1917,3 +1917,4 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 static.plista.com
 0.0.0.0 purechat.com
+0.0.0.0 app.purechat.com

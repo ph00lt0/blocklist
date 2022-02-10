@@ -2012,3 +2012,4 @@
 0.0.0.0 consentframework.com
 0.0.0.0 cache.consentframework.com
 0.0.0.0 choices.consentframework.com
+0.0.0.0 immanens.com

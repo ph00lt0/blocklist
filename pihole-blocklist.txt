@@ -1888,7 +1888,7 @@
 0.0.0.0 metrics.groene.nl
 0.0.0.0 aswpsdkeu.com
 0.0.0.0 ws.pubble.nl
-0.0.0.0 waws-prod-am2-261.cloudapp.net
+! allow waws-prod-am2-261.cloudapp.net reason: Not just a tracker required to load content
 0.0.0.0 varnish.qualifio.com
 0.0.0.0 gadgets.buienradar.nl
 0.0.0.0 abs.twimg.com

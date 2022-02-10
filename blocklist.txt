@@ -1887,7 +1887,7 @@
 ||metrics.groene.nl^
 ||aswpsdkeu.com^
 ||ws.pubble.nl^
-||waws-prod-am2-261.cloudapp.net^
+@@||waws-prod-am2-261.cloudapp.net^  # Not just a tracker required to load content
 ||varnish.qualifio.com^
 ||gadgets.buienradar.nl^
 ||abs.twimg.com^

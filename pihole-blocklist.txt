@@ -1663,3 +1663,4 @@
 0.0.0.0 a57.foxnews.com
 0.0.0.0 smetrics.foxbusiness.com
 0.0.0.0 audioeye.com
+0.0.0.0 ws.audioeye.com

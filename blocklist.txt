@@ -1662,3 +1662,4 @@
 ||a57.foxnews.com^
 ||smetrics.foxbusiness.com^
 ||audioeye.com^
+||ws.audioeye.com^

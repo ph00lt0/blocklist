@@ -1842,3 +1842,4 @@
 ||iris.tv^
 ||ovp.iris.tv^
 ||rampanel.com^
+||inviso.rampanel.com^

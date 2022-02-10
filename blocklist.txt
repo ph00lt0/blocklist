@@ -1942,3 +1942,4 @@
 ||zeit.met.vgwort.de^
 ||consent.faz.net^
 ||c.amazon-adsystem.com^
+||dynamic.faz.net^

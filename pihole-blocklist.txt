@@ -1943,3 +1943,4 @@
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 consent.faz.net
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 dynamic.faz.net

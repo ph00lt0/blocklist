@@ -2010,3 +2010,4 @@
 ||sdk.privacy-center.org^
 ||consentframework.com^
 ||cache.consentframework.com^
+||choices.consentframework.com^

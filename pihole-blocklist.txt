@@ -2011,3 +2011,4 @@
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 consentframework.com
 0.0.0.0 cache.consentframework.com
+0.0.0.0 choices.consentframework.com

@@ -1914,3 +1914,4 @@
 ||adverteren.rd.nl^
 ||pipeline.rd.nl^
 ||pubads.g.doubleclick.net^
+||static.plista.com^

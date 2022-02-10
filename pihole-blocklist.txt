@@ -1915,3 +1915,4 @@
 0.0.0.0 adverteren.rd.nl
 0.0.0.0 pipeline.rd.nl
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 static.plista.com

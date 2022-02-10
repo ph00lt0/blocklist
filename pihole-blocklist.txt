@@ -2007,3 +2007,4 @@
 0.0.0.0 statics.liberation.fr
 0.0.0.0 via.batch.com
 0.0.0.0 batch.com
+0.0.0.0 statsforads.com

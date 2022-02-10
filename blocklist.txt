@@ -1973,3 +1973,4 @@
 ||liveramp.com^
 ||superlivescore.net^
 ||cdn.superlivescore.net^
+||totalfootballanalysis.com^

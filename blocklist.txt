@@ -1742,3 +1742,4 @@
 ||omnitagjs.com^
 ||fo-api.omnitagjs.com^
 ||esi.edge.permutive.app^
+||cdn.mediavoice.com^

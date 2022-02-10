@@ -1716,3 +1716,4 @@
 ||get-latest.convrse.media^
 ||convrse.media^
 ||mab.data.tm-awx.com^
+||webcontentassessor.com^

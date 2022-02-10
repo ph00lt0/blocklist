@@ -1994,3 +1994,4 @@
 0.0.0.0 wer.schwarzwaelder-bote.de
 0.0.0.0 schwarzwaelder-bote.de
 0.0.0.0 badges.instagram.com
+0.0.0.0 cdn2.pollster.pl

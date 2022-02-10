@@ -1993,3 +1993,4 @@
 ||wer.schwarzwaelder-bote.de^
 ||schwarzwaelder-bote.de^
 ||badges.instagram.com^
+||cdn2.pollster.pl^

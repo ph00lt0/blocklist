@@ -1816,3 +1816,4 @@
 ||theplatform.com^
 ||newslicensing.co.uk^
 ||a-ads.com^
+||ad.a-ads.com^

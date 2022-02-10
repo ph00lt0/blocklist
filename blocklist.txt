@@ -1752,3 +1752,4 @@
 ||cdns.gigya.com^
 ||shared.mediahuis.be^
 ||www.nijobfinder.co.uk^
+||nijobfinder.co.uk^

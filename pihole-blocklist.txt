@@ -2037,3 +2037,4 @@
 0.0.0.0 cmp.courrierinternational.com
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 hal.courrierinternational.com
+0.0.0.0 www.statsforads.com

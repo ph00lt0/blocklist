@@ -2036,3 +2036,4 @@
 ||cmp.courrierinternational.com^
 ||wrapper.lemde.fr^
 ||hal.courrierinternational.com^
+||www.statsforads.com^

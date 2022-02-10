@@ -2055,3 +2055,4 @@
 ||top.evolok.net^
 ||bc.marfeelcache.com^
 ||marfeelcache.com^
+||powerad.ai^

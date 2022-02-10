@@ -1978,3 +1978,4 @@
 0.0.0.0 data-79505c2b06.borkenerzeitung.de
 0.0.0.0 bz.mergelsbergverlag.de
 0.0.0.0 idmnet.pl
+0.0.0.0 cdn.stroeerdigitalgroup.de

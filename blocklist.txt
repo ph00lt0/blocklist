@@ -1669,3 +1669,4 @@
 ||cdn.adrise.tv^
 ||analytics-ingestion.production-public.tubi.io^
 ||a-fds.youborafds01.com^
+||youborafds01.com^

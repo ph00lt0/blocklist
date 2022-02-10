@@ -1835,3 +1835,4 @@
 ||gridtrade.solarpanelfunding.co.uk^
 ||subscribers.com^
 ||cdn.subscribers.com^
+||consent.scotsman.com^

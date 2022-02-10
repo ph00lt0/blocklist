@@ -1680,3 +1680,4 @@
 ||rumcdn.geoedge.be^
 ||pym.nprapps.org^
 ||6635101.fls.doubleclick.net^
+||pixel.ad^

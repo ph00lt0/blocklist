@@ -1637,3 +1637,4 @@
 ||websdk.appsflyer.com^
 ||appsflyer.com^
 ||analytics.nova.fox.com^
+||cs.ns1p.net^

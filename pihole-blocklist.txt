@@ -1965,3 +1965,4 @@
 0.0.0.0 consent-cdn.sueddeutsche.de
 0.0.0.0 prospekte.sueddeutsche.de
 0.0.0.0 rapleaf.com
+0.0.0.0 sz.met.vgwort.de

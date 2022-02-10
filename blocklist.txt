@@ -1964,3 +1964,4 @@
 ||consent-cdn.sueddeutsche.de^
 ||prospekte.sueddeutsche.de^
 ||rapleaf.com^
+||sz.met.vgwort.de^

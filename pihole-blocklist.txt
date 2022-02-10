@@ -2028,3 +2028,4 @@
 0.0.0.0 campagne.20minutes.fr
 0.0.0.0 hubvisor.io
 0.0.0.0 cdn.hubvisor.io
+0.0.0.0 d24rtvkqjwgutp.cloudfront.net

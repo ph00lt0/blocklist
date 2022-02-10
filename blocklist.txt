@@ -2027,3 +2027,4 @@
 ||campagne.20minutes.fr^
 ||hubvisor.io^
 ||cdn.hubvisor.io^
+||d24rtvkqjwgutp.cloudfront.net^

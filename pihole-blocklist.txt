@@ -1750,3 +1750,4 @@
 0.0.0.0 data.reachplc.com
 0.0.0.0 flip-pay.com
 0.0.0.0 cdn.flip-pay.com
+0.0.0.0 cdns.gigya.com

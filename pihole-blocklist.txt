@@ -1828,3 +1828,4 @@
 0.0.0.0 consent.thescarboroughnews.co.uk
 0.0.0.0 smartlook.com
 0.0.0.0 rec.smartlook.com
+0.0.0.0 consent.northernirelandworld.com

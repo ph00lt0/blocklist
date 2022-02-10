@@ -1791,3 +1791,4 @@
 ||a02342.theargus.co.uk^
 ||d096.theweek.co.uk^
 ||permutive.com^
+||cdn.permutive.com^

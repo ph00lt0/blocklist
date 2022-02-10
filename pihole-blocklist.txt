@@ -1792,3 +1792,4 @@
 0.0.0.0 a02342.theargus.co.uk
 0.0.0.0 d096.theweek.co.uk
 0.0.0.0 permutive.com
+0.0.0.0 cdn.permutive.com

@@ -1962,3 +1962,4 @@
 ||fr-online.met.vgwort.de^
 ||gfx.sueddeutsche.de^
 ||consent-cdn.sueddeutsche.de^
+||rapleaf.com^

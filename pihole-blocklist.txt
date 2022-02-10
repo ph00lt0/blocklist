@@ -1853,3 +1853,4 @@
 0.0.0.0 equalitynation.org
 0.0.0.0 a02342.dailyecho.co.uk
 0.0.0.0 donorbox.org
+0.0.0.0 adnxs.net

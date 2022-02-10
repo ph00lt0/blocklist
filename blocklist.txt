@@ -1971,3 +1971,4 @@
 ||logs1279.xiti.com^
 ||xiti.com^
 ||liveramp.com^
+||superlivescore.net^

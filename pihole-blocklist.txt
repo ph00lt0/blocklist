@@ -1972,3 +1972,4 @@
 0.0.0.0 logs1279.xiti.com
 0.0.0.0 xiti.com
 0.0.0.0 liveramp.com
+0.0.0.0 superlivescore.net

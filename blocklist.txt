@@ -1837,3 +1837,4 @@
 ||cdn.subscribers.com^
 ||consent.scotsman.com^
 ||irishtimes.grapeshot.co.uk^
+||ads.thescottishsun.co.uk^

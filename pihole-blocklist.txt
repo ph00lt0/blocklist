@@ -1771,3 +1771,4 @@
 0.0.0.0 my.hellobar.com
 0.0.0.0 kargo.com
 0.0.0.0 socialcanvas-cdn.kargo.com
+0.0.0.0 ntv.io

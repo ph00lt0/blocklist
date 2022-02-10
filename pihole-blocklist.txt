@@ -1768,3 +1768,4 @@
 0.0.0.0 gumgum.com
 0.0.0.0 js.gumgum.com
 0.0.0.0 hellobar.com
+0.0.0.0 my.hellobar.com

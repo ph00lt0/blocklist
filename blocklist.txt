@@ -1767,3 +1767,4 @@
 ||gumgum.com^
 ||js.gumgum.com^
 ||hellobar.com^
+||my.hellobar.com^

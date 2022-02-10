@@ -1994,3 +1994,4 @@
 ||schwarzwaelder-bote.de^
 ||badges.instagram.com^
 ||cdn2.pollster.pl^
+||cmp.lemonde.fr^

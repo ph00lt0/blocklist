@@ -1804,3 +1804,4 @@
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ccgateway.net
 0.0.0.0 johnston.grapeshot.co.uk
+0.0.0.0 carbon-cdn.ccgateway.net

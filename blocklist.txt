@@ -2029,3 +2029,4 @@
 ||cdn.hubvisor.io^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||videoadex.com^
+||ads.videoadex.com^

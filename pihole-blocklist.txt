@@ -1811,3 +1811,4 @@
 0.0.0.0 seaofads.com
 0.0.0.0 cdn.seaofads.com
 0.0.0.0 a02342.glasgowtimes.co.uk
+0.0.0.0 widgets.media.weather.com

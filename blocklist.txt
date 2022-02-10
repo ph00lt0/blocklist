@@ -1810,3 +1810,4 @@
 ||seaofads.com^
 ||cdn.seaofads.com^
 ||a02342.glasgowtimes.co.uk^
+||widgets.media.weather.com^

@@ -2041,3 +2041,4 @@
 ||d35xxde4fgg0cx.cloudfront.net^
 ||wtg-ads.com^
 ||i1.wp.com^
+||i2.wp.com^

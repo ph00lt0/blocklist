@@ -1630,3 +1630,4 @@
 0.0.0.0 applovin.com
 0.0.0.0 appmonet.com
 0.0.0.0 huaweicentral.com
+0.0.0.0 stats.landingi.com

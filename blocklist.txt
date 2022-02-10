@@ -1629,3 +1629,4 @@
 ||applovin.com^
 ||appmonet.com^
 ||huaweicentral.com^
+||stats.landingi.com^

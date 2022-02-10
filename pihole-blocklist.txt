@@ -1936,3 +1936,4 @@
 0.0.0.0 pp.lp4.io
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 data-af9f3dfb33.zeit.de
+0.0.0.0 ezoic.net

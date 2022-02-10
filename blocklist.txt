@@ -2049,3 +2049,4 @@
 ||adserver-cdn.euroweeklynews.com^
 ||truepush.com^
 ||sdki.truepush.com^
+||certify-js.alexametrics.com^

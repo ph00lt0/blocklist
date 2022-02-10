@@ -2050,3 +2050,4 @@
 0.0.0.0 adserver-cdn.euroweeklynews.com
 0.0.0.0 truepush.com
 0.0.0.0 sdki.truepush.com
+0.0.0.0 certify-js.alexametrics.com

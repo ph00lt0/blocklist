@@ -2014,3 +2014,4 @@
 ||immanens.com^
 ||docimg.immanens.com^
 ||qiota.com^
+||www.qiota.com^

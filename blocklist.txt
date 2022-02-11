@@ -2274,3 +2274,4 @@
 ||servmetric.com^
 ||api.parley.nu^
 ||parley.nu^
+||hitcounter.govmetric.com^

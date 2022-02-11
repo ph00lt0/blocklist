@@ -2113,3 +2113,4 @@
 ||cdn.bt.no^
 ||session-service.payment.schibsted.no^
 ||schibsted.no^
+||cm.aftenposten.no^

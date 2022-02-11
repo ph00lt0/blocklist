@@ -2114,3 +2114,4 @@
 0.0.0.0 cdn.bt.no
 0.0.0.0 session-service.payment.schibsted.no
 0.0.0.0 schibsted.no
+0.0.0.0 cm.aftenposten.no

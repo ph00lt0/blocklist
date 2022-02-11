@@ -2354,3 +2354,4 @@
 ||cbs.containers.piwik.pro^
 ||api.eu.kaltura.com^
 ||tweakwise.com^
+||img.publikaan.nl^

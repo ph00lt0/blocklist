@@ -2186,3 +2186,4 @@
 0.0.0.0 nosto.com
 0.0.0.0 xcdn.nl
 0.0.0.0 drogisterij.xcdn.nl
+0.0.0.0 12gobiking.nl

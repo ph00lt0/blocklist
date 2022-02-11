@@ -2117,3 +2117,5 @@
 0.0.0.0 session-service.payment.schibsted.no
 0.0.0.0 schibsted.no
 0.0.0.0 cm.aftenposten.no
+0.0.0.0 scripts.mediavine.com
+0.0.0.0 mediavine.com

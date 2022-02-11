@@ -2430,3 +2430,4 @@
 ||commander1.com^
 ||caanalytics.com^
 ||mmstat.com^
+||www.viglink.com^

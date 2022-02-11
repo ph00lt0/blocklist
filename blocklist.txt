@@ -2300,3 +2300,4 @@
 ||govor.elkander.nl^
 ||landbot.io^
 ||static.landbot.io^
+||app.trengo.eu^

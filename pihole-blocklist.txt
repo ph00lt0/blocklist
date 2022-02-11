@@ -2300,3 +2300,4 @@
 0.0.0.0 govor.elkander.nl
 0.0.0.0 landbot.io
 0.0.0.0 static.landbot.io
+0.0.0.0 app.trengo.eu

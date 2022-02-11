@@ -2290,3 +2290,4 @@
 ||app-script.monsido.com^
 ||netdna.bootstrapcdn.com^
 ||cloudstatic.obi4wan.com^
+||sooqr.com^

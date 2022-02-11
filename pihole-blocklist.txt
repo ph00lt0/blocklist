@@ -2290,3 +2290,4 @@
 0.0.0.0 app-script.monsido.com
 0.0.0.0 netdna.bootstrapcdn.com
 0.0.0.0 cloudstatic.obi4wan.com
+0.0.0.0 sooqr.com

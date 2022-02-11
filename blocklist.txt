@@ -2140,3 +2140,4 @@
 ||static.finncdn.no^
 ||hscta.net^
 ||js.hscta.net^
+||pipdigz.co.uk^

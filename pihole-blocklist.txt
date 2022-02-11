@@ -2141,3 +2141,4 @@
 0.0.0.0 static.finncdn.no
 0.0.0.0 hscta.net
 0.0.0.0 js.hscta.net
+0.0.0.0 pipdigz.co.uk

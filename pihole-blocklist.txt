@@ -2476,3 +2476,4 @@
 0.0.0.0 marketgid.com
 0.0.0.0 wingify.com
 0.0.0.0 d5phz18u4wuww.cloudfront.net
+0.0.0.0 onetag.com

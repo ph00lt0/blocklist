@@ -2210,3 +2210,4 @@
 ||krxd.net^
 ||cdn.krxd.net^
 ||chat-assets.frontapp.com^
+||frontapp.com^

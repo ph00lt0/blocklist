@@ -2212,3 +2212,4 @@
 0.0.0.0 cdn.krxd.net
 0.0.0.0 chat-assets.frontapp.com
 0.0.0.0 frontapp.com
+0.0.0.0 firebaseio.com

@@ -2220,3 +2220,4 @@
 ||ati-host.net^
 ||sf.ezoiccdn.com^
 ||cxense.com^
+||ezoiccdn.com^

@@ -2221,3 +2221,4 @@
 0.0.0.0 ati-host.net
 0.0.0.0 sf.ezoiccdn.com
 0.0.0.0 cxense.com
+0.0.0.0 ezoiccdn.com

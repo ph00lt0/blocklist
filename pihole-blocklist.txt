@@ -2121,3 +2121,4 @@
 0.0.0.0 mediavine.com
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 flodesk.com
+0.0.0.0 assets.flodesk.com

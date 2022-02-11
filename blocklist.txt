@@ -2470,3 +2470,4 @@
 ||adtng.com^
 ||hubspot.com^
 ||hs-scripts.com^
+||mgid.com^

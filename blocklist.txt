@@ -2076,3 +2076,4 @@
 ||durationmedia.net^
 ||a.mailmunch.co^
 ||mailmunch.co^
+||vuukle.com^

@@ -2235,4 +2235,8 @@
 0.0.0.0 odnxs.net
 0.0.0.0 openx.org
 0.0.0.0 nuance.com
-0.0.0.0 hm-uk.digital.nuance.com
+0.0.0.0 openxenterprise.com
+0.0.0.0 servedbyopenx.com
+0.0.0.0 openx.com
+0.0.0.0 www.openx.com
+0.0.0.0 hm-uk.digital.nuance.comhm-uk.digital.nuance.com

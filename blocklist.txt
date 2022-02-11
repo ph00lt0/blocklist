@@ -2235,4 +2235,8 @@
 ||odnxs.net^
 ||openx.org^
 ||nuance.com^
-||hm-uk.digital.nuance.com^
+||openxenterprise.com^
+||servedbyopenx.com^
+||openx.com^
+||www.openx.com^
+||hm-uk.digital.nuance.comhm-uk.digital.nuance.com^

@@ -2329,3 +2329,4 @@
 ||instant.page^
 ||pxlwidgets.com^
 ||cdn.pxlwidgets.com^
+||osano.com^

@@ -2488,3 +2488,4 @@
 ||intercom.io^
 ||digitalwindow.com^
 ||digitalwindow.io^
+||analytics.twitter.com^

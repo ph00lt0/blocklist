@@ -2066,3 +2066,4 @@
 0.0.0.0 scripts.cleverwebserver.com
 0.0.0.0 cleverwebserver.com
 0.0.0.0 sp-ao.shortpixel.ai
+0.0.0.0 clarity.ms

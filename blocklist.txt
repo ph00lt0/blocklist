@@ -2065,3 +2065,4 @@
 ||scripts.cleverwebserver.com^
 ||cleverwebserver.com^
 ||sp-ao.shortpixel.ai^
+||clarity.ms^

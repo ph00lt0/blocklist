@@ -2069,3 +2069,4 @@
 ||www.clarity.ms^
 ||themes.googleusercontent.com^
 ||arcsubscriptions.elpais.com^
+||epimg.net^

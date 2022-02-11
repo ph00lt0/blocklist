@@ -2152,3 +2152,4 @@
 ||startit.qodeinteractive.com^
 ||s0.wp.com^
 ||feedspot.com^
+||blog.feedspot.com^

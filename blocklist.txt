@@ -2187,3 +2187,4 @@
 ||drogisterij.xcdn.nl^
 ||12gobiking.nl^
 ||e.issuu.com^
+||campaignmonitor.com^

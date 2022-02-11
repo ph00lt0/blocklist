@@ -2271,3 +2271,4 @@
 ||www.simanalytics.nl^
 ||enquete.agconsult.com^
 ||websurveys2.servmetric.com^
+||servmetric.com^

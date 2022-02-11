@@ -2299,3 +2299,4 @@
 ||pdok.nl^
 ||govor.elkander.nl^
 ||landbot.io^
+||static.landbot.io^

@@ -2209,3 +2209,4 @@
 0.0.0.0 targetemsecure.blob.core.windows.net
 0.0.0.0 triplelift.com
 0.0.0.0 krxd.net
+0.0.0.0 cdn.krxd.net

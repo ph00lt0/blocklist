@@ -2208,3 +2208,4 @@
 ||targetemsecure.blob.core.windows.net^
 ||triplelift.com^
 ||krxd.net^
+||cdn.krxd.net^

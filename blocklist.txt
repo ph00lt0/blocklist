@@ -2095,3 +2095,4 @@
 ||c0.wp.com^
 ||cmp.aftenposten.no^
 ||mm.aftenposten.no^
+||jssdk.touchpoints.schibsted.media^

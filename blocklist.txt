@@ -2246,3 +2246,4 @@
 ||atwola.com^
 ||social.hm.com^
 ||pictela.net^
+||consent.yahoo.com^

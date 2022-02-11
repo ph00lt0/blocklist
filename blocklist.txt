@@ -2223,3 +2223,4 @@
 ||ezoiccdn.com^
 ||widgets.trustedshops.com^
 ||trustedshops.com^
+||magentocloud.map.fastly.net^

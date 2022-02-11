@@ -2224,3 +2224,4 @@
 0.0.0.0 ezoiccdn.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 trustedshops.com
+0.0.0.0 magentocloud.map.fastly.net

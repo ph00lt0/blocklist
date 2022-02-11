@@ -2320,3 +2320,4 @@
 ||businesscatalyst.com^
 ||cobrowser.com^
 ||app.cobrowser.com^
+||icons8.com^

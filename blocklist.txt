@@ -2316,3 +2316,4 @@
 ||eu.libraryh3lp.com^
 ||survicate.com^
 ||survey.survicate.com^
+||musecdn.businesscatalyst.com^

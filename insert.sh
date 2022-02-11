@@ -9,6 +9,7 @@ declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https://
 declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 
 declare blocklistRule="||$domain^"
+declare allowedRule="@@||$domain^"
 declare piholeBlocklistRule="0.0.0.0 $domain"
 
 if [ "$domain" == "" ]; then
@@ -26,6 +27,11 @@ if [ "$domain" == "[A[A" ]; then
     exit
 fi
 
+# Only check for default blocklist as pihole list should contain same domains.
+if grep -q $allowedRule "$blocklist"; then 
+    echo "domain whitelisted"
+    exit
+fi
 
 # Only check for default blocklist as pihole list should contain same domains.
 if grep -q $blocklistRule "$blocklist"; then 

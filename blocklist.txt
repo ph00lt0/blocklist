@@ -2398,3 +2398,4 @@
 ||amplitude.com^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||segment.io^
+||segment.com^

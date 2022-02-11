@@ -2079,3 +2079,4 @@
 0.0.0.0 mailmunch.co
 0.0.0.0 vuukle.com
 0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cdn.vuukle.com

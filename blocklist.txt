@@ -2078,3 +2078,4 @@
 ||mailmunch.co^
 ||vuukle.com^
 ||cdn-gl.imrworldwide.com^
+||cdn.vuukle.com^

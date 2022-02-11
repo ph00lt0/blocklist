@@ -2138,3 +2138,4 @@
 ||schibsted.tech^
 ||finncdn.no^
 ||static.finncdn.no^
+||hscta.net^

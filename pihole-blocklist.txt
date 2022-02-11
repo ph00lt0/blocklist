@@ -2139,3 +2139,4 @@
 0.0.0.0 schibsted.tech
 0.0.0.0 finncdn.no
 0.0.0.0 static.finncdn.no
+0.0.0.0 hscta.net

@@ -2106,3 +2106,4 @@
 ||log.medietall.no^
 ||medietall.no^
 ||default.sacdn.no^
+||schibsted.com^

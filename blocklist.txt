@@ -2395,3 +2395,4 @@
 ||piwik.zevenaar.nl^
 ||popt.in^
 ||cdn.popt.in^
+||amplitude.com^

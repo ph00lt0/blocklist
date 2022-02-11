@@ -2318,3 +2318,4 @@
 0.0.0.0 survey.survicate.com
 0.0.0.0 musecdn.businesscatalyst.com
 0.0.0.0 businesscatalyst.com
+0.0.0.0 cobrowser.com

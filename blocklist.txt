@@ -2318,3 +2318,4 @@
 ||survey.survicate.com^
 ||musecdn.businesscatalyst.com^
 ||businesscatalyst.com^
+||cobrowser.com^

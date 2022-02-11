@@ -2191,3 +2191,4 @@
 ||chat-api.swapcard.com^
 ||rtm.swapcard.com^
 ||stats.paypal.com^
+||geo.cardinalcommerce.com^

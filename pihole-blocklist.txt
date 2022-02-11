@@ -2110,3 +2110,4 @@
 0.0.0.0 schibsted.com
 0.0.0.0 cis.schibsted.com
 0.0.0.0 schibsted.io
+0.0.0.0 cogwheel.inventory.schibsted.io

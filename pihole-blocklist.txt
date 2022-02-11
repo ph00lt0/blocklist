@@ -2412,3 +2412,4 @@
 0.0.0.0 ads.teads.tv
 0.0.0.0 adlightning.com
 0.0.0.0 www.parsely.com
+0.0.0.0 parse.ly

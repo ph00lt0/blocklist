@@ -2412,3 +2412,4 @@
 ||ads.teads.tv^
 ||adlightning.com^
 ||www.parsely.com^
+||parse.ly^

@@ -2167,3 +2167,4 @@
 0.0.0.0 www.pokeren.nl
 0.0.0.0 betcity.nl
 0.0.0.0 bet365.com
+0.0.0.0 jackscasino.nl

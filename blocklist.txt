@@ -2104,3 +2104,5 @@
 ||youbora.com^
 ||bt.no^
 ||cdn.stream.schibsted.media^
+||log.medietall.no^
+||medietall.no^

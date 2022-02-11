@@ -2087,3 +2087,4 @@
 ||tunnus-sdk.yle.fi^
 ||dax.yle.fi^
 ||infogram.com^
+||e.infogram.com^

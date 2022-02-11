@@ -2291,3 +2291,4 @@
 0.0.0.0 netdna.bootstrapcdn.com
 0.0.0.0 cloudstatic.obi4wan.com
 0.0.0.0 sooqr.com
+0.0.0.0 browser-update.org

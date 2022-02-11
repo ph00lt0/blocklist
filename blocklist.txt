@@ -2118,3 +2118,4 @@
 ||cm.aftenposten.no^
 ||scripts.mediavine.com^
 ||mediavine.com^
+||d5nxst8fruw4z.cloudfront.net^

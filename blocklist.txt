@@ -2079,3 +2079,4 @@
 ||vuukle.com^
 ||cdn.vuukle.com^
 ||locations.api.yle.fi^
+||design-system.cdn.yle.fi^

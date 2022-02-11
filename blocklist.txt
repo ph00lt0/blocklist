@@ -2245,3 +2245,4 @@
 ||advertising.com^
 ||atwola.com^
 ||social.hm.com^
+||pictela.net^

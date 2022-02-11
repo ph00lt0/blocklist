@@ -2245,3 +2245,4 @@
 0.0.0.0 advertising.com
 0.0.0.0 atwola.com
 0.0.0.0 social.hm.com
+0.0.0.0 pictela.net

@@ -2265,3 +2265,4 @@
 ||analytics.theorg.com^
 ||alblasserdam.livecom.net^
 ||virtuele-gemeente-assistent.nl^
+||www.browsealoud.com^

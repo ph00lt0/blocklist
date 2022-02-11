@@ -2414,3 +2414,4 @@
 0.0.0.0 www.parsely.com
 0.0.0.0 parse.ly
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
+0.0.0.0 www.parse.ly

@@ -2309,3 +2309,4 @@
 ||piwik.rsddeliemers.nl^
 ||piwik.westervoort.nl^
 ||piwik.duiven.nl^
+||responsivevoice.org^

@@ -2421,3 +2421,4 @@
 ||graph.facebook.com^
 ||analytics.gigyahosting1.com^
 ||gigcount.com^
+||bidswitch.net^

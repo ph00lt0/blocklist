@@ -2292,3 +2292,4 @@
 ||cloudstatic.obi4wan.com^
 ||sooqr.com^
 ||browser-update.org^
+||widget.scribit.pro^

@@ -2308,3 +2308,4 @@
 ||hitcounter.servmetric.com^
 ||piwik.rsddeliemers.nl^
 ||piwik.westervoort.nl^
+||piwik.duiven.nl^

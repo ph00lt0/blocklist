@@ -2128,3 +2128,4 @@
 ||widgets.shopifyapps.com^
 ||s.adroll.com^
 ||adroll.com^
+||fw-cdn.com^

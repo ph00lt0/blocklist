@@ -2192,3 +2192,4 @@
 ||rtm.swapcard.com^
 ||stats.paypal.com^
 ||geo.cardinalcommerce.com^
+||kg668dbov0.execute-api.us-east-1.amazonaws.com^

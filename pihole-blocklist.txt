@@ -2448,3 +2448,4 @@
 0.0.0.0 spotxcdn.com
 0.0.0.0 spotxchange.com
 0.0.0.0 zetaglobal.com
+0.0.0.0 app.insightgrit.com

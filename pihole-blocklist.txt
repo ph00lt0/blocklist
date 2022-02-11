@@ -2160,3 +2160,4 @@
 0.0.0.0 www.toto.nl
 0.0.0.0 www.unibet.com
 0.0.0.0 www.unibet.eu
+0.0.0.0 unibet.be

@@ -2409,3 +2409,4 @@
 ||www.media.net^
 ||www.cookiebot.com^
 ||trafficfactory.biz^
+||ads.teads.tv^

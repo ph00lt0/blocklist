@@ -2174,3 +2174,4 @@
 ||bingoal.nl^
 ||bingoal.be^
 ||ggpoker.com^
+||fairplay.nl^

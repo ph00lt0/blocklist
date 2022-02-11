@@ -2175,3 +2175,4 @@
 0.0.0.0 bingoal.nl
 0.0.0.0 bingoal.be
 0.0.0.0 ggpoker.com
+0.0.0.0 fairplay.nl

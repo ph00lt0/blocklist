@@ -2306,3 +2306,4 @@
 ||www.samenzorgenvoortwente.nl^
 ||meldingen.zeelandveilig.nl^
 ||hitcounter.servmetric.com^
+||piwik.rsddeliemers.nl^

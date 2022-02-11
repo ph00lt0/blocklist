@@ -2313,3 +2313,4 @@
 ||code.responsivevoice.org^
 ||stats.bitman.nl^
 ||libraryh3lp.com^
+||eu.libraryh3lp.com^

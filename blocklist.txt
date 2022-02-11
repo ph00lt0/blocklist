@@ -2345,3 +2345,4 @@
 ||js.cdlvr.net^
 ||hetcak.containers.piwik.pro^
 ||innocraft.cloud^
+||cbr.innocraft.cloud^

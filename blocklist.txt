@@ -2388,3 +2388,4 @@
 ||bugherd.com^
 ||www.bugherd.com^
 ||pythonunited.com^
+||umami.pythonunited.com^

@@ -2388,3 +2388,4 @@
 0.0.0.0 bugherd.com
 0.0.0.0 www.bugherd.com
 0.0.0.0 pythonunited.com
+0.0.0.0 umami.pythonunited.com

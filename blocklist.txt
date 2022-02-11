@@ -2225,12 +2225,10 @@
 ||trustedshops.com^
 ||magentocloud.map.fastly.net^
 ||itnova.nl^
-<<<<<<< HEAD
 ||static-zeeman.itnova.nl^
-=======
 ||www.cxense.com^
->>>>>>> de68a78eb79f084642884828992e97e9b98a1fe7
 ||inq.com^
 ||exdynsrv.com^
 ||exoclick.com^
 ||hm.inq.com^
+||exosrv.com^

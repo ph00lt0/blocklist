@@ -2288,3 +2288,4 @@
 ||w.usabilla.com^
 ||monsido.com^
 ||app-script.monsido.com^
+||netdna.bootstrapcdn.com^

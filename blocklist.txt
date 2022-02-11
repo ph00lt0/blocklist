@@ -2328,3 +2328,4 @@
 ||tagmanager.becop.nl^
 ||instant.page^
 ||pxlwidgets.com^
+||cdn.pxlwidgets.com^

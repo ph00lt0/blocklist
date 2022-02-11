@@ -2189,3 +2189,4 @@
 ||e.issuu.com^
 ||campaignmonitor.com^
 ||chat-api.swapcard.com^
+||rtm.swapcard.com^

@@ -2419,3 +2419,4 @@
 ||www.1plusx.com^
 ||www.speedcurve.com^
 ||graph.facebook.com^
+||analytics.gigyahosting1.com^

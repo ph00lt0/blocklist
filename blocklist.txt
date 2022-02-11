@@ -2397,3 +2397,4 @@
 ||cdn.popt.in^
 ||amplitude.com^
 ||d24n15hnbwhuhn.cloudfront.net^
+||segment.io^

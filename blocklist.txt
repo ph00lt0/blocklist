@@ -2438,3 +2438,4 @@
 ||list-manage.com^
 ||tapad.com^
 ||go.tapad.com^
+||adyoulike.com^

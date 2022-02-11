@@ -2437,3 +2437,4 @@
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||list-manage.com^
 ||tapad.com^
+||go.tapad.com^

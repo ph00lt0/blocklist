@@ -2437,3 +2437,4 @@
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 list-manage.com
 0.0.0.0 tapad.com
+0.0.0.0 go.tapad.com

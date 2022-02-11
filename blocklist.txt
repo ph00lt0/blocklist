@@ -2067,3 +2067,4 @@
 ||sp-ao.shortpixel.ai^
 ||clarity.ms^
 ||www.clarity.ms^
+||themes.googleusercontent.com^

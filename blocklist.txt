@@ -2239,11 +2239,11 @@
 ||servedbyopenx.com^
 ||openx.com^
 ||www.openx.com^
-||hm-uk.digital.nuance.comhm-uk.digital.nuance.com^
 ||adsdk.com^
 ||a1.adform.net^
 ||advertising.com^
 ||atwola.com^
 ||social.hm.com^
 ||pictela.net^
+||hm-uk.digital.nuance.com^
 ||consent.yahoo.com^

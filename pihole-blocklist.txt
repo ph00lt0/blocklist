@@ -2239,11 +2239,11 @@
 0.0.0.0 servedbyopenx.com
 0.0.0.0 openx.com
 0.0.0.0 www.openx.com
-0.0.0.0 hm-uk.digital.nuance.comhm-uk.digital.nuance.com
 0.0.0.0 adsdk.com
 0.0.0.0 a1.adform.net
 0.0.0.0 advertising.com
 0.0.0.0 atwola.com
 0.0.0.0 social.hm.com
 0.0.0.0 pictela.net
+0.0.0.0 hm-uk.digital.nuance.com
 0.0.0.0 consent.yahoo.com

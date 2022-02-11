@@ -2080,3 +2080,5 @@
 0.0.0.0 vuukle.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.vuukle.com
+0.0.0.0 locations.api.yle.fi
+0.0.0.0 design-system.cdn.yle.fi

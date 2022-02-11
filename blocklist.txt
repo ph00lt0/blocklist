@@ -2079,3 +2079,5 @@
 ||vuukle.com^
 ||cdn-gl.imrworldwide.com^
 ||cdn.vuukle.com^
+||locations.api.yle.fi^
+||design-system.cdn.yle.fi^

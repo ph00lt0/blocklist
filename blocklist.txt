@@ -2147,3 +2147,4 @@
 ||cdn.pushcrew.com^
 ||i.pinimg.com^
 ||diffuser-cdn.app-us1.com^
+||app-us1.com^

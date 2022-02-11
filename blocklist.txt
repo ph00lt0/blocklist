@@ -2155,7 +2155,6 @@
 ||blog.feedspot.com^
 ||blog-cdn.feedspot.com^
 ||widgets.wp.com^
-||www.hollandcasino.nl/en^
 ||www.toto.nl^
 ||www.unibet.com^
 ||www.unibet.eu^
@@ -2178,3 +2177,4 @@
 ||fairplay.club^
 ||bataviadownsgaming.com^
 ||bataviacasino.nl^
+||www.hollandcasino.nl^

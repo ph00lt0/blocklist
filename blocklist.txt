@@ -2278,3 +2278,4 @@
 ||websurveys2.govmetric.com^
 ||govmetric.com^
 ||cb.vrmwb.nl^
+||www.travelbase.nl^

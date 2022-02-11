@@ -2404,3 +2404,4 @@
 ||app.link^
 ||branch.io^
 ||web.analytics.yahoo.com^
+||trafficstars.com^

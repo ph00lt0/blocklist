@@ -2404,3 +2404,4 @@
 0.0.0.0 app.link
 0.0.0.0 branch.io
 0.0.0.0 web.analytics.yahoo.com
+0.0.0.0 trafficstars.com

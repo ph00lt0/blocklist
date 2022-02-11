@@ -2326,3 +2326,4 @@
 0.0.0.0 piwik.zwolle.nl
 0.0.0.0 fast.fonts.net
 0.0.0.0 tagmanager.becop.nl
+0.0.0.0 instant.page

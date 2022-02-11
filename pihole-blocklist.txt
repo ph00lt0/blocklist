@@ -2196,3 +2196,4 @@
 0.0.0.0 kg668dbov0.execute-api.us-east-1.amazonaws.com
 0.0.0.0 execute-api.us-east-1.amazonaws.com
 0.0.0.0 adformdsp.net
+0.0.0.0 seadform.net

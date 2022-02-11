@@ -2315,3 +2315,4 @@
 ||libraryh3lp.com^
 ||eu.libraryh3lp.com^
 ||survicate.com^
+||survey.survicate.com^

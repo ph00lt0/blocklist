@@ -2357,3 +2357,4 @@
 ||img.publikaan.nl^
 ||publikaan.nl^
 ||dimml.io^
+||cdn.dimml.io^

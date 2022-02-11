@@ -2366,3 +2366,4 @@
 0.0.0.0 analytics.redfrog.nl
 0.0.0.0 res.cloudinary.com
 0.0.0.0 cloudinary.com
+0.0.0.0 vfpf1.expoints.nl

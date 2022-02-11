@@ -2366,3 +2366,4 @@
 ||analytics.redfrog.nl^
 ||res.cloudinary.com^
 ||cloudinary.com^
+||vfpf1.expoints.nl^

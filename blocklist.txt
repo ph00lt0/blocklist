@@ -2353,3 +2353,4 @@
 ||ilumy.com^
 ||cbs.containers.piwik.pro^
 ||api.eu.kaltura.com^
+||tweakwise.com^

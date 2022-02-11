@@ -2384,3 +2384,4 @@
 ||optout.aaxads.com^
 ||aax.media^
 ||www.aax.media^
+||chimpstatic.com^

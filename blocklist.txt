@@ -2136,3 +2136,4 @@
 ||cm.aftenbladet.no^
 ||live-timeline-addon.schibsted.tech^
 ||schibsted.tech^
+||finncdn.no^

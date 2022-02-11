@@ -2101,3 +2101,4 @@
 ||comments-api.i.bt.no^
 ||smartplugin.youbora.com^
 ||youbora.com^
+||bt.no^

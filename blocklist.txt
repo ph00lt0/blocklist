@@ -2254,3 +2254,4 @@
 ||kmm-cag.uwv.nl^
 ||piwik.pro^
 ||tag.uwv.nl^
+||onderzoek.platformrijksoverheid.nl^

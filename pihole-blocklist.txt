@@ -2317,3 +2317,4 @@
 0.0.0.0 survicate.com
 0.0.0.0 survey.survicate.com
 0.0.0.0 musecdn.businesscatalyst.com
+0.0.0.0 businesscatalyst.com

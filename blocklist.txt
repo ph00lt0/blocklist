@@ -2317,3 +2317,4 @@
 ||survicate.com^
 ||survey.survicate.com^
 ||musecdn.businesscatalyst.com^
+||businesscatalyst.com^

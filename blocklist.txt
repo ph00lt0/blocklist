@@ -2212,3 +2212,4 @@
 ||chat-assets.frontapp.com^
 ||frontapp.com^
 ||firebaseio.com^
+||eyevestor.firebaseio.com^

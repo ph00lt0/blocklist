@@ -2213,3 +2213,4 @@
 0.0.0.0 chat-assets.frontapp.com
 0.0.0.0 frontapp.com
 0.0.0.0 firebaseio.com
+0.0.0.0 eyevestor.firebaseio.com

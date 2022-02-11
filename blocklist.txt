@@ -2362,3 +2362,4 @@
 ||open.spotify.com^
 ||consentcdn.cookiebot.com^
 ||analytics.knmp.nl^
+||cookieconsent.vruchtvlees.com^

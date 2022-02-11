@@ -2361,3 +2361,4 @@
 ||svb.containers.piwik.pro^
 ||open.spotify.com^
 ||consentcdn.cookiebot.com^
+||analytics.knmp.nl^

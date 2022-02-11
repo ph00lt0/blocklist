@@ -2115,3 +2115,4 @@
 ||schibsted.no^
 ||cm.aftenposten.no^
 ||scripts.mediavine.com^
+||mediavine.com^

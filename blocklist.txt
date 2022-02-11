@@ -2489,3 +2489,4 @@
 ||digitalwindow.com^
 ||digitalwindow.io^
 ||analytics.twitter.com^
+||kameleoon.com^

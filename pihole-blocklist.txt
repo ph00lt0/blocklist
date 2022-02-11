@@ -2489,3 +2489,4 @@
 0.0.0.0 digitalwindow.com
 0.0.0.0 digitalwindow.io
 0.0.0.0 analytics.twitter.com
+0.0.0.0 kameleoon.com

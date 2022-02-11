@@ -2090,3 +2090,4 @@
 ||e.infogram.com^
 ||currency.me.uk^
 ||www.currency.me.uk^
+||exchangerates.org.uk^

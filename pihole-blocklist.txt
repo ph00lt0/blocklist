@@ -2427,3 +2427,4 @@
 0.0.0.0 webvisor.org
 0.0.0.0 commandersact.com
 0.0.0.0 www.commandersact.com
+0.0.0.0 commander1.com

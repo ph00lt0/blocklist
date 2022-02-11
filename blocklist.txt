@@ -2188,3 +2188,4 @@
 ||12gobiking.nl^
 ||e.issuu.com^
 ||campaignmonitor.com^
+||chat-api.swapcard.com^

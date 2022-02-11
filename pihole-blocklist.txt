@@ -2418,3 +2418,4 @@
 0.0.0.0 1plusx.com
 0.0.0.0 www.1plusx.com
 0.0.0.0 www.speedcurve.com
+0.0.0.0 graph.facebook.com

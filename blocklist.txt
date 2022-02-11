@@ -2417,3 +2417,4 @@
 ||www.parse.ly^
 ||1plusx.com^
 ||www.1plusx.com^
+||www.speedcurve.com^

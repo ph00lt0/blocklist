@@ -2303,3 +2303,4 @@
 ||app.trengo.eu^
 ||trengo.eu^
 ||samenzorgenvoortwente.nl^
+||www.samenzorgenvoortwente.nl^

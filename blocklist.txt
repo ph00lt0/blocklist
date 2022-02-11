@@ -2401,3 +2401,4 @@
 ||segment.com^
 ||d47xnnr8b1rki.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
+||app.link^

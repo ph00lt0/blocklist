@@ -2199,3 +2199,4 @@
 ||moatpixel.com^
 ||moat.com^
 ||bkrtx.com^
+||bluekai.com^

@@ -2200,3 +2200,4 @@
 0.0.0.0 moatpixel.com
 0.0.0.0 moat.com
 0.0.0.0 bkrtx.com
+0.0.0.0 bluekai.com

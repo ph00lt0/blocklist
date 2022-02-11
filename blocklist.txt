@@ -2431,3 +2431,4 @@
 ||caanalytics.com^
 ||mmstat.com^
 ||www.viglink.com^
+||betterttv.net^

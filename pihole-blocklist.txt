@@ -2431,3 +2431,4 @@
 0.0.0.0 caanalytics.com
 0.0.0.0 mmstat.com
 0.0.0.0 www.viglink.com
+0.0.0.0 betterttv.net

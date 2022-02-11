@@ -2327,3 +2327,4 @@
 ||fast.fonts.net^
 ||tagmanager.becop.nl^
 ||instant.page^
+||pxlwidgets.com^

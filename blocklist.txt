@@ -2135,3 +2135,4 @@
 ||cmp.aftenbladet.no^
 ||cm.aftenbladet.no^
 ||live-timeline-addon.schibsted.tech^
+||schibsted.tech^

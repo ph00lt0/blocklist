@@ -2136,3 +2136,4 @@
 0.0.0.0 cmp.aftenbladet.no
 0.0.0.0 cm.aftenbladet.no
 0.0.0.0 live-timeline-addon.schibsted.tech
+0.0.0.0 schibsted.tech

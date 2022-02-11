@@ -2084,3 +2084,4 @@
 ||cdnapisec.kaltura.com^
 ||kaltura.com^
 ||tag-manager.yle.fi^
+||tunnus-sdk.yle.fi^

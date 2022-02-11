@@ -2216,3 +2216,4 @@
 0.0.0.0 eyevestor.firebaseio.com
 0.0.0.0 o997758.ingest.sentry.io
 0.0.0.0 fastbase.com
+0.0.0.0 ad-delivery.net

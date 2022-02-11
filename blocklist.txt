@@ -2106,3 +2106,4 @@
 ||cdn.stream.schibsted.media^
 ||log.medietall.no^
 ||medietall.no^
+||d31qbv1cthcecs.cloudfront.net^

@@ -2378,3 +2378,4 @@
 0.0.0.0 static.mailplus.nl
 0.0.0.0 openindex.io
 0.0.0.0 www.openindex.io
+0.0.0.0 tns-counter.ru

@@ -2378,3 +2378,4 @@
 ||static.mailplus.nl^
 ||openindex.io^
 ||www.openindex.io^
+||tns-counter.ru^

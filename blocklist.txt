@@ -2088,3 +2088,4 @@
 ||dax.yle.fi^
 ||infogram.com^
 ||e.infogram.com^
+||currency.me.uk^

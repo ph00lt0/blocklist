@@ -2411,3 +2411,4 @@
 ||trafficfactory.biz^
 ||ads.teads.tv^
 ||adlightning.com^
+||www.parsely.com^

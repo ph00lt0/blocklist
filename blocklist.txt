@@ -2132,3 +2132,4 @@
 ||cmp.bt.no^
 ||cm.bt.no^
 ||vev.design^
+||cmp.aftenbladet.no^

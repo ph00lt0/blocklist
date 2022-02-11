@@ -2133,3 +2133,4 @@
 0.0.0.0 cmp.bt.no
 0.0.0.0 cm.bt.no
 0.0.0.0 vev.design
+0.0.0.0 cmp.aftenbladet.no

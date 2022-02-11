@@ -2130,3 +2130,4 @@
 ||adroll.com^
 ||fw-cdn.com^
 ||cmp.bt.no^
+||cm.bt.no^

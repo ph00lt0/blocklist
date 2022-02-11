@@ -2351,3 +2351,4 @@
 ||sscict.piwik.prisma-it.com^
 ||stats.ilumy.com^
 ||ilumy.com^
+||cbs.containers.piwik.pro^

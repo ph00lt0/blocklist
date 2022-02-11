@@ -2500,3 +2500,4 @@
 ||cedexis-test.com^
 ||cedexis.fastlylb.net^
 ||cedexis.net^
+||coinzillatag.com^

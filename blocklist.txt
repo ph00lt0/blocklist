@@ -2352,3 +2352,4 @@
 ||stats.ilumy.com^
 ||ilumy.com^
 ||cbs.containers.piwik.pro^
+||api.eu.kaltura.com^

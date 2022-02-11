@@ -2287,3 +2287,4 @@
 ||vvvameland.activehosted.com^
 ||w.usabilla.com^
 ||monsido.com^
+||app-script.monsido.com^

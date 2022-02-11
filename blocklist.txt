@@ -2268,3 +2268,4 @@
 ||www.browsealoud.com^
 ||browsealoud.com^
 ||webdiensten.drechtsteden.nl^
+||www.simanalytics.nl^

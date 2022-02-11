@@ -2282,3 +2282,4 @@
 0.0.0.0 travelbase.nl
 0.0.0.0 ameland.travelbase.nl
 0.0.0.0 getflowbox.com
+0.0.0.0 connect.getflowbox.com

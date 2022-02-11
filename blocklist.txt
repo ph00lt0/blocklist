@@ -2334,3 +2334,4 @@
 ||elma.nl^
 ||statistiek.rvo.nl^
 ||piwik.pro.eu-west-1.piwik.pro^
+||cloud.typography.com^

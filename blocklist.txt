@@ -2216,3 +2216,4 @@
 ||o997758.ingest.sentry.io^
 ||fastbase.com^
 ||ad-delivery.net^
+||eyevestor.freshdesk.com^

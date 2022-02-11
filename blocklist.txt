@@ -2302,3 +2302,4 @@
 ||static.landbot.io^
 ||app.trengo.eu^
 ||trengo.eu^
+||samenzorgenvoortwente.nl^

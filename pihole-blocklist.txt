@@ -2302,3 +2302,4 @@
 0.0.0.0 static.landbot.io
 0.0.0.0 app.trengo.eu
 0.0.0.0 trengo.eu
+0.0.0.0 samenzorgenvoortwente.nl

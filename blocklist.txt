@@ -2472,3 +2472,4 @@
 ||hs-scripts.com^
 ||mgid.com^
 ||dt00.net^
+||dt07.net^

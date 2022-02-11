@@ -2472,3 +2472,4 @@
 0.0.0.0 hs-scripts.com
 0.0.0.0 mgid.com
 0.0.0.0 dt00.net
+0.0.0.0 dt07.net

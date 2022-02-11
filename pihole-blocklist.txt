@@ -2241,3 +2241,4 @@
 0.0.0.0 www.openx.com
 0.0.0.0 hm-uk.digital.nuance.comhm-uk.digital.nuance.com
 0.0.0.0 adsdk.com
+0.0.0.0 a1.adform.net

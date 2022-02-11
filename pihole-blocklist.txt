@@ -2396,3 +2396,4 @@
 0.0.0.0 popt.in
 0.0.0.0 cdn.popt.in
 0.0.0.0 amplitude.com
+0.0.0.0 d24n15hnbwhuhn.cloudfront.net

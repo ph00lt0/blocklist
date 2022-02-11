@@ -2474,3 +2474,4 @@
 ||dt00.net^
 ||dt07.net^
 ||marketgid.com^
+||wingify.com^

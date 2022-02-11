@@ -2474,3 +2474,4 @@
 0.0.0.0 dt00.net
 0.0.0.0 dt07.net
 0.0.0.0 marketgid.com
+0.0.0.0 wingify.com

@@ -2113,7 +2113,7 @@
 0.0.0.0 cis.schibsted.com
 0.0.0.0 schibsted.io
 0.0.0.0 cogwheel.inventory.schibsted.io
-0.0.0.0 cdn.bt.no
+! allow cdn.bt.no reason: Not only trackers
 0.0.0.0 session-service.payment.schibsted.no
 0.0.0.0 schibsted.no
 0.0.0.0 cm.aftenposten.no

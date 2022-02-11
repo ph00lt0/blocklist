@@ -2112,7 +2112,7 @@
 ||cis.schibsted.com^
 ||schibsted.io^
 ||cogwheel.inventory.schibsted.io^
-||cdn.bt.no^
+@@||cdn.bt.no^  # Not only trackers
 ||session-service.payment.schibsted.no^
 ||schibsted.no^
 ||cm.aftenposten.no^

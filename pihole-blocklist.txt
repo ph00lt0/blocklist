@@ -2321,3 +2321,4 @@
 0.0.0.0 cobrowser.com
 0.0.0.0 app.cobrowser.com
 0.0.0.0 icons8.com
+0.0.0.0 img.icons8.com

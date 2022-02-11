@@ -2321,3 +2321,4 @@
 ||cobrowser.com^
 ||app.cobrowser.com^
 ||icons8.com^
+||img.icons8.com^

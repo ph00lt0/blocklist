@@ -2305,3 +2305,4 @@
 ||samenzorgenvoortwente.nl^
 ||www.samenzorgenvoortwente.nl^
 ||meldingen.zeelandveilig.nl^
+||hitcounter.servmetric.com^

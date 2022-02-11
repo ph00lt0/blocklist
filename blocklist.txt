@@ -2218,4 +2218,5 @@
 ||ad-delivery.net^
 ||eyevestor.freshdesk.com^
 ||ati-host.net^
+||sf.ezoiccdn.com^
 ||cxense.com^

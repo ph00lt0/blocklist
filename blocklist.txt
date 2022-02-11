@@ -2349,3 +2349,4 @@
 ||statistieken.coa.nl^
 ||piwik.ciz.nl^
 ||sscict.piwik.prisma-it.com^
+||stats.ilumy.com^

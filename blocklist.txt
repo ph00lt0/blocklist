@@ -2469,3 +2469,4 @@
 ||lijit.com^
 ||adtng.com^
 ||hubspot.com^
+||hs-scripts.com^

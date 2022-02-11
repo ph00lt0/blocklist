@@ -2091,3 +2091,4 @@
 ||currency.me.uk^
 ||www.currency.me.uk^
 ||exchangerates.org.uk^
+||www.exchangerates.org.uk^

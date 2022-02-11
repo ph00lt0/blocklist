@@ -2086,3 +2086,4 @@
 ||tag-manager.yle.fi^
 ||tunnus-sdk.yle.fi^
 ||dax.yle.fi^
+||infogram.com^

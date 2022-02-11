@@ -2087,3 +2087,4 @@
 0.0.0.0 tag-manager.yle.fi
 0.0.0.0 tunnus-sdk.yle.fi
 0.0.0.0 dax.yle.fi
+0.0.0.0 infogram.com

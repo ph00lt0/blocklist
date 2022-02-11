@@ -2090,3 +2090,4 @@
 0.0.0.0 infogram.com
 0.0.0.0 e.infogram.com
 0.0.0.0 currency.me.uk
+0.0.0.0 www.currency.me.uk

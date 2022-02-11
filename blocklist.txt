@@ -2081,3 +2081,4 @@
 ||locations.api.yle.fi^
 ||design-system.cdn.yle.fi^
 ||yle-consent-sdk.yle.fi^
+||cdnapisec.kaltura.com^

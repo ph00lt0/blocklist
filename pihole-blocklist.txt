@@ -2364,3 +2364,4 @@
 0.0.0.0 analytics.knmp.nl
 0.0.0.0 cookieconsent.vruchtvlees.com
 0.0.0.0 analytics.redfrog.nl
+0.0.0.0 res.cloudinary.com

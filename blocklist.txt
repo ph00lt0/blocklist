@@ -2364,3 +2364,4 @@
 ||analytics.knmp.nl^
 ||cookieconsent.vruchtvlees.com^
 ||analytics.redfrog.nl^
+||res.cloudinary.com^

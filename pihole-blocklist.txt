@@ -2406,3 +2406,4 @@
 0.0.0.0 web.analytics.yahoo.com
 0.0.0.0 trafficstars.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 www.media.net

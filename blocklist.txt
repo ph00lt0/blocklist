@@ -2486,3 +2486,4 @@
 ||redirectingat.com^
 ||intercom.com^
 ||intercom.io^
+||digitalwindow.com^

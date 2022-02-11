@@ -2260,3 +2260,4 @@
 ||simanalytics.nl^
 ||logging.simanalytics.nl^
 ||use.typekit.com^
+||typekit.com^

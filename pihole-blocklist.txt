@@ -2182,3 +2182,4 @@
 0.0.0.0 connect.nosto.com
 0.0.0.0 static.sooqr.com
 0.0.0.0 interface.mailcampaigns.nl
+0.0.0.0 mailcampaigns.nl

@@ -2181,3 +2181,4 @@
 ||connect.nosto.com^
 ||static.sooqr.com^
 ||interface.mailcampaigns.nl^
+||mailcampaigns.nl^

@@ -2471,3 +2471,4 @@
 0.0.0.0 hubspot.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 mgid.com
+0.0.0.0 dt00.net

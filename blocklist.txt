@@ -2471,3 +2471,4 @@
 ||hubspot.com^
 ||hs-scripts.com^
 ||mgid.com^
+||dt00.net^

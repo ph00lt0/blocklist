@@ -2386,3 +2386,4 @@
 0.0.0.0 www.aax.media
 0.0.0.0 chimpstatic.com
 0.0.0.0 bugherd.com
+0.0.0.0 www.bugherd.com

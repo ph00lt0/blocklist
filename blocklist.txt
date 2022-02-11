@@ -2213,3 +2213,4 @@
 ||frontapp.com^
 ||firebaseio.com^
 ||eyevestor.firebaseio.com^
+||o997758.ingest.sentry.io^

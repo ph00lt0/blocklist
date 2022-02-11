@@ -2394,3 +2394,4 @@
 0.0.0.0 sentry.swarmprod01.simplyadmire.com
 0.0.0.0 piwik.zevenaar.nl
 0.0.0.0 popt.in
+0.0.0.0 cdn.popt.in

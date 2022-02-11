@@ -2481,3 +2481,4 @@
 ||kampyle.com^
 ||aggregateknowledge.com^
 ||agkn.com^
+||shareth.ru^

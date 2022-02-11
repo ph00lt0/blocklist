@@ -2221,3 +2221,4 @@
 ||sf.ezoiccdn.com^
 ||cxense.com^
 ||ezoiccdn.com^
+||widgets.trustedshops.com^

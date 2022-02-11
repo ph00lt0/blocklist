@@ -2222,3 +2222,4 @@
 0.0.0.0 sf.ezoiccdn.com
 0.0.0.0 cxense.com
 0.0.0.0 ezoiccdn.com
+0.0.0.0 widgets.trustedshops.com

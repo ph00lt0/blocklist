@@ -2461,3 +2461,4 @@
 ||mobile.truste.com^
 ||online-metrix.net^
 ||threatmetrix.com^
+||contentsquare.net^

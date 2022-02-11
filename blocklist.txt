@@ -2105,3 +2105,4 @@
 ||cdn.stream.schibsted.media^
 ||log.medietall.no^
 ||medietall.no^
+||default.sacdn.no^

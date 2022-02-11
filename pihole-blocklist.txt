@@ -2106,3 +2106,4 @@
 0.0.0.0 cdn.stream.schibsted.media
 0.0.0.0 log.medietall.no
 0.0.0.0 medietall.no
+0.0.0.0 default.sacdn.no

@@ -2390,3 +2390,4 @@
 ||pythonunited.com^
 ||umami.pythonunited.com^
 ||hdsr.containers.piwik.pro^
+||simplyadmire.com^

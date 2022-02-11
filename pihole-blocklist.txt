@@ -2390,3 +2390,4 @@
 0.0.0.0 pythonunited.com
 0.0.0.0 umami.pythonunited.com
 0.0.0.0 hdsr.containers.piwik.pro
+0.0.0.0 simplyadmire.com

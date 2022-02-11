@@ -2132,3 +2132,4 @@
 0.0.0.0 fw-cdn.com
 0.0.0.0 cmp.bt.no
 0.0.0.0 cm.bt.no
+0.0.0.0 vev.design

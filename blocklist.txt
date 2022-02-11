@@ -2131,3 +2131,4 @@
 ||fw-cdn.com^
 ||cmp.bt.no^
 ||cm.bt.no^
+||vev.design^

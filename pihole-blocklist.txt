@@ -2226,4 +2226,9 @@
 0.0.0.0 trustedshops.com
 0.0.0.0 magentocloud.map.fastly.net
 0.0.0.0 itnova.nl
+<<<<<<< HEAD
 0.0.0.0 static-zeeman.itnova.nl
+=======
+0.0.0.0 www.cxense.com
+>>>>>>> de68a78eb79f084642884828992e97e9b98a1fe7
+0.0.0.0 inq.com

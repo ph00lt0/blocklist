@@ -2264,3 +2264,4 @@
 0.0.0.0 webfonts.creativecloud.com
 0.0.0.0 analytics.theorg.com
 0.0.0.0 alblasserdam.livecom.net
+0.0.0.0 virtuele-gemeente-assistent.nl

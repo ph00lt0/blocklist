@@ -2264,3 +2264,4 @@
 ||webfonts.creativecloud.com^
 ||analytics.theorg.com^
 ||alblasserdam.livecom.net^
+||virtuele-gemeente-assistent.nl^

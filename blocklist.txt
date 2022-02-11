@@ -2190,3 +2190,4 @@
 ||campaignmonitor.com^
 ||chat-api.swapcard.com^
 ||rtm.swapcard.com^
+||stats.paypal.com^

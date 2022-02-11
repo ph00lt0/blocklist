@@ -2191,3 +2191,4 @@
 0.0.0.0 campaignmonitor.com
 0.0.0.0 chat-api.swapcard.com
 0.0.0.0 rtm.swapcard.com
+0.0.0.0 stats.paypal.com

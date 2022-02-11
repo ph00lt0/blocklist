@@ -2225,3 +2225,4 @@
 ||trustedshops.com^
 ||magentocloud.map.fastly.net^
 ||itnova.nl^
+||www.cxense.com^

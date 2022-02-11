@@ -2145,3 +2145,4 @@
 ||cdn.provesrc.com^
 ||pushcrew.com^
 ||cdn.pushcrew.com^
+||i.pinimg.com^

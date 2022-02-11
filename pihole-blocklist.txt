@@ -2391,3 +2391,4 @@
 0.0.0.0 umami.pythonunited.com
 0.0.0.0 hdsr.containers.piwik.pro
 0.0.0.0 simplyadmire.com
+0.0.0.0 sentry.swarmprod01.simplyadmire.com

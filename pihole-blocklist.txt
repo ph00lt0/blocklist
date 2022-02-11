@@ -2346,3 +2346,4 @@
 0.0.0.0 hetcak.containers.piwik.pro
 0.0.0.0 innocraft.cloud
 0.0.0.0 cbr.innocraft.cloud
+0.0.0.0 statistieken.coa.nl

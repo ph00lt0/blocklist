@@ -2346,3 +2346,4 @@
 ||hetcak.containers.piwik.pro^
 ||innocraft.cloud^
 ||cbr.innocraft.cloud^
+||statistieken.coa.nl^

@@ -2402,3 +2402,4 @@
 0.0.0.0 d47xnnr8b1rki.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 app.link
+0.0.0.0 branch.io

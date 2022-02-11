@@ -2109,3 +2109,4 @@
 0.0.0.0 default.sacdn.no
 0.0.0.0 schibsted.com
 0.0.0.0 cis.schibsted.com
+0.0.0.0 schibsted.io

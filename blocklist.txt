@@ -2108,3 +2108,4 @@
 ||default.sacdn.no^
 ||schibsted.com^
 ||cis.schibsted.com^
+||schibsted.io^

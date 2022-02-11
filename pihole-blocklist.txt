@@ -2223,3 +2223,4 @@
 0.0.0.0 cxense.com
 0.0.0.0 ezoiccdn.com
 0.0.0.0 widgets.trustedshops.com
+0.0.0.0 trustedshops.com

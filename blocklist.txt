@@ -2222,3 +2222,4 @@
 ||cxense.com^
 ||ezoiccdn.com^
 ||widgets.trustedshops.com^
+||trustedshops.com^

@@ -2423,3 +2423,4 @@
 ||gigcount.com^
 ||bidswitch.net^
 ||exe.bid^
+||an.webvisor.org^

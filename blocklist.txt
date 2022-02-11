@@ -2261,3 +2261,4 @@
 ||logging.simanalytics.nl^
 ||use.typekit.com^
 ||typekit.com^
+||webfonts.creativecloud.com^

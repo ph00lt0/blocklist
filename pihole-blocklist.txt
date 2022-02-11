@@ -2261,3 +2261,4 @@
 0.0.0.0 logging.simanalytics.nl
 0.0.0.0 use.typekit.com
 0.0.0.0 typekit.com
+0.0.0.0 webfonts.creativecloud.com

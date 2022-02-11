@@ -2078,3 +2078,4 @@
 ||mailmunch.co^
 ||vuukle.com^
 ||cdn.vuukle.com^
+||locations.api.yle.fi^

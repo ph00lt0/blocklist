@@ -2177,3 +2177,4 @@
 0.0.0.0 ggpoker.com
 0.0.0.0 fairplay.nl
 0.0.0.0 fairplay.club
+0.0.0.0 bataviadownsgaming.com

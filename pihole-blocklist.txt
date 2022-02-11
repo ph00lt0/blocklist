@@ -2286,3 +2286,4 @@
 0.0.0.0 activehosted.com
 0.0.0.0 vvvameland.activehosted.com
 0.0.0.0 w.usabilla.com
+0.0.0.0 monsido.com

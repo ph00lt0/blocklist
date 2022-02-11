@@ -2066,3 +2066,4 @@
 ||cleverwebserver.com^
 ||sp-ao.shortpixel.ai^
 ||clarity.ms^
+||www.clarity.ms^

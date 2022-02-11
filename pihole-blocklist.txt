@@ -2380,3 +2380,4 @@
 0.0.0.0 www.openindex.io
 0.0.0.0 tns-counter.ru
 0.0.0.0 mediascope.net
+0.0.0.0 aaxads.com

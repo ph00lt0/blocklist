@@ -2063,3 +2063,4 @@
 0.0.0.0 banners.evoluhcion.es
 0.0.0.0 evoluhcion.es
 0.0.0.0 tagmanager.smartadserver.com
+0.0.0.0 scripts.cleverwebserver.com

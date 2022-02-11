@@ -2062,3 +2062,4 @@
 ||banners.evoluhcion.es^
 ||evoluhcion.es^
 ||tagmanager.smartadserver.com^
+||scripts.cleverwebserver.com^

@@ -2307,3 +2307,4 @@
 ||meldingen.zeelandveilig.nl^
 ||hitcounter.servmetric.com^
 ||piwik.rsddeliemers.nl^
+||piwik.westervoort.nl^

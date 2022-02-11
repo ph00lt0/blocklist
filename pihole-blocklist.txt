@@ -2307,3 +2307,4 @@
 0.0.0.0 meldingen.zeelandveilig.nl
 0.0.0.0 hitcounter.servmetric.com
 0.0.0.0 piwik.rsddeliemers.nl
+0.0.0.0 piwik.westervoort.nl

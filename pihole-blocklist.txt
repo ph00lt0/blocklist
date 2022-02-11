@@ -2451,3 +2451,4 @@
 0.0.0.0 app.insightgrit.com
 0.0.0.0 app.ubertags.com
 0.0.0.0 cdn.boomtrain.com
+0.0.0.0 events.api.boomtrain.com

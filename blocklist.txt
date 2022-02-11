@@ -2094,3 +2094,4 @@
 ||www.exchangerates.org.uk^
 ||c0.wp.com^
 ||cmp.aftenposten.no^
+||mm.aftenposten.no^

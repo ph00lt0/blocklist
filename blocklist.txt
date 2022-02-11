@@ -2337,3 +2337,4 @@
 ||cloud.typography.com^
 ||typography.com^
 ||analytics.cjib.nl^
+||piwik.dtnr.nl^

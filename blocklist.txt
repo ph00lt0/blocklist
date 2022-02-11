@@ -2405,3 +2405,4 @@
 ||branch.io^
 ||web.analytics.yahoo.com^
 ||trafficstars.com^
+||tsyndicate.com^

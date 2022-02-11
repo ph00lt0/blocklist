@@ -2137,3 +2137,4 @@
 ||live-timeline-addon.schibsted.tech^
 ||schibsted.tech^
 ||finncdn.no^
+||static.finncdn.no^

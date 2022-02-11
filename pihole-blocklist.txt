@@ -2298,3 +2298,4 @@
 0.0.0.0 service.pdok.nl
 0.0.0.0 pdok.nl
 0.0.0.0 govor.elkander.nl
+0.0.0.0 landbot.io

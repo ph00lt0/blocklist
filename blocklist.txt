@@ -2083,3 +2083,4 @@
 ||yle-consent-sdk.yle.fi^
 ||cdnapisec.kaltura.com^
 ||kaltura.com^
+||tag-manager.yle.fi^

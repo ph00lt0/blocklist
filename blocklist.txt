@@ -2381,3 +2381,4 @@
 ||tns-counter.ru^
 ||mediascope.net^
 ||aaxads.com^
+||optout.aaxads.com^

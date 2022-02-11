@@ -2371,3 +2371,4 @@
 ||myprivacy.dpgmedia.net^
 ||d33wubrfki0l68.cloudfront.net^
 ||ivory.studio^
+||projects.ivory.studio^

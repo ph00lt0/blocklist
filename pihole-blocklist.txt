@@ -2304,3 +2304,4 @@
 0.0.0.0 trengo.eu
 0.0.0.0 samenzorgenvoortwente.nl
 0.0.0.0 www.samenzorgenvoortwente.nl
+0.0.0.0 meldingen.zeelandveilig.nl

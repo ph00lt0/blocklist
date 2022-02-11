@@ -2304,3 +2304,4 @@
 ||trengo.eu^
 ||samenzorgenvoortwente.nl^
 ||www.samenzorgenvoortwente.nl^
+||meldingen.zeelandveilig.nl^

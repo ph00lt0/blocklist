@@ -2468,3 +2468,4 @@
 ||d3pkae9owd2lcf.cloudfront.net^
 ||lijit.com^
 ||adtng.com^
+||hubspot.com^

@@ -2197,3 +2197,4 @@
 ||adformdsp.net^
 ||seadform.net^
 ||moatpixel.com^
+||moat.com^

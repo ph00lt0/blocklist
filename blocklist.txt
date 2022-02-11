@@ -2392,3 +2392,4 @@
 ||hdsr.containers.piwik.pro^
 ||simplyadmire.com^
 ||sentry.swarmprod01.simplyadmire.com^
+||piwik.zevenaar.nl^

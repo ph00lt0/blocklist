@@ -2459,3 +2459,4 @@
 ||xplusone.com^
 ||netdna-cdn.com^
 ||mobile.truste.com^
+||online-metrix.net^

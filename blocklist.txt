@@ -2487,3 +2487,4 @@
 ||intercom.com^
 ||intercom.io^
 ||digitalwindow.com^
+||digitalwindow.io^

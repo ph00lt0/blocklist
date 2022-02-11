@@ -2487,3 +2487,4 @@
 0.0.0.0 intercom.com
 0.0.0.0 intercom.io
 0.0.0.0 digitalwindow.com
+0.0.0.0 digitalwindow.io

@@ -2339,3 +2339,4 @@
 ||analytics.cjib.nl^
 ||piwik.dtnr.nl^
 ||chat.ind.nl^
+||statistics.ind.nl^

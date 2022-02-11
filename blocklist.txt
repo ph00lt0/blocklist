@@ -2266,3 +2266,4 @@
 ||alblasserdam.livecom.net^
 ||virtuele-gemeente-assistent.nl^
 ||www.browsealoud.com^
+||browsealoud.com^

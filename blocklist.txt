@@ -2415,3 +2415,4 @@
 ||parse.ly^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||www.parse.ly^
+||1plusx.com^

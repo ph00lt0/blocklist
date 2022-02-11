@@ -2245,3 +2245,4 @@
 0.0.0.0 atwola.com
 0.0.0.0 social.hm.com
 0.0.0.0 pictela.net
+0.0.0.0 hm-uk.digital.nuance.com

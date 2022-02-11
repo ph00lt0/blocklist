@@ -2245,3 +2245,4 @@
 ||atwola.com^
 ||social.hm.com^
 ||pictela.net^
+||hm-uk.digital.nuance.com^

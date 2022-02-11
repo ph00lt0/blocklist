@@ -2322,3 +2322,4 @@
 ||app.cobrowser.com^
 ||icons8.com^
 ||img.icons8.com^
+||d1azc1qln24ryf.cloudfront.net^

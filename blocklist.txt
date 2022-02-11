@@ -2126,3 +2126,4 @@
 ||apester.com^
 ||static.apester.com^
 ||widgets.shopifyapps.com^
+||s.adroll.com^

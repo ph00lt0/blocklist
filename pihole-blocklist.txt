@@ -2127,3 +2127,4 @@
 0.0.0.0 apester.com
 0.0.0.0 static.apester.com
 0.0.0.0 widgets.shopifyapps.com
+0.0.0.0 s.adroll.com

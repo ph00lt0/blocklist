@@ -2259,3 +2259,4 @@
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 simanalytics.nl
 0.0.0.0 logging.simanalytics.nl
+0.0.0.0 use.typekit.com

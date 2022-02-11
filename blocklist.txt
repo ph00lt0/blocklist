@@ -2259,3 +2259,4 @@
 ||az416426.vo.msecnd.net^
 ||simanalytics.nl^
 ||logging.simanalytics.nl^
+||use.typekit.com^

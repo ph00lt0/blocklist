@@ -2073,3 +2073,4 @@
 ||ep00.epimg.net^
 ||adserver.euroweeklynews.com^
 ||tag.durationmedia.net^
+||durationmedia.net^

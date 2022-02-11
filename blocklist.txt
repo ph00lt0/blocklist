@@ -2452,3 +2452,4 @@
 ||app.ubertags.com^
 ||cdn.boomtrain.com^
 ||events.api.boomtrain.com^
+||rfihub.com^

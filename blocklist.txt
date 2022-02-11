@@ -2363,3 +2363,4 @@
 ||consentcdn.cookiebot.com^
 ||analytics.knmp.nl^
 ||cookieconsent.vruchtvlees.com^
+||analytics.redfrog.nl^

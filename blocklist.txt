@@ -2111,3 +2111,8 @@
 ||schibsted.com^
 ||cis.schibsted.com^
 ||schibsted.io^
+||cogwheel.inventory.schibsted.io^
+||cdn.bt.no^
+||session-service.payment.schibsted.no^
+||schibsted.no^
+||cm.aftenposten.no^

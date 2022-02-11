@@ -2232,3 +2232,4 @@
 0.0.0.0 exoclick.com
 0.0.0.0 hm.inq.com
 0.0.0.0 exosrv.com
+0.0.0.0 odnxs.net

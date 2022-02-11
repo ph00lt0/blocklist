@@ -2232,3 +2232,4 @@
 ||exoclick.com^
 ||hm.inq.com^
 ||exosrv.com^
+||odnxs.net^

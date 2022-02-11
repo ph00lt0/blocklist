@@ -2152,3 +2152,4 @@
 0.0.0.0 qodeinteractive.com
 0.0.0.0 startit.qodeinteractive.com
 0.0.0.0 s0.wp.com
+0.0.0.0 feedspot.com

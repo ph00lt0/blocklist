@@ -2123,3 +2123,4 @@
 0.0.0.0 flodesk.com
 0.0.0.0 assets.flodesk.com
 0.0.0.0 brandadvance.co.uk
+0.0.0.0 ads.brandadvance.co.uk

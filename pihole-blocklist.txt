@@ -2434,3 +2434,4 @@
 0.0.0.0 betterttv.net
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net

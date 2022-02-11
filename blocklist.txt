@@ -2110,3 +2110,4 @@
 ||cis.schibsted.com^
 ||schibsted.io^
 ||cogwheel.inventory.schibsted.io^
+||cdn.bt.no^

@@ -2142,3 +2142,4 @@
 ||js.hscta.net^
 ||pipdigz.co.uk^
 ||provesrc.com^
+||cdn.provesrc.com^

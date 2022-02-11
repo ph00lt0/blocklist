@@ -2075,3 +2075,4 @@
 ||tag.durationmedia.net^
 ||durationmedia.net^
 ||a.mailmunch.co^
+||mailmunch.co^

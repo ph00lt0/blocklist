@@ -2076,3 +2076,4 @@
 0.0.0.0 tag.durationmedia.net
 0.0.0.0 durationmedia.net
 0.0.0.0 a.mailmunch.co
+0.0.0.0 mailmunch.co

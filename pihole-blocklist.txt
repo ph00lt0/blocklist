@@ -2410,3 +2410,4 @@
 0.0.0.0 www.cookiebot.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 ads.teads.tv
+0.0.0.0 adlightning.com

@@ -2410,3 +2410,4 @@
 ||www.cookiebot.com^
 ||trafficfactory.biz^
 ||ads.teads.tv^
+||adlightning.com^

@@ -2462,3 +2462,4 @@
 ||online-metrix.net^
 ||threatmetrix.com^
 ||contentsquare.net^
+||mxpnl.net^

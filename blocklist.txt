@@ -2200,3 +2200,4 @@
 ||moat.com^
 ||bkrtx.com^
 ||bluekai.com^
+||www.bluekai.com^

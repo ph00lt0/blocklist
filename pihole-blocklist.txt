@@ -2201,3 +2201,4 @@
 0.0.0.0 moat.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bluekai.com
+0.0.0.0 www.bluekai.com

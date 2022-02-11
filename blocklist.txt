@@ -2344,3 +2344,4 @@
 ||js.sentry-cdn.com^
 ||js.cdlvr.net^
 ||hetcak.containers.piwik.pro^
+||innocraft.cloud^

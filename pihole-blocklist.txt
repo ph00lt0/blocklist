@@ -2344,3 +2344,4 @@
 0.0.0.0 js.sentry-cdn.com
 0.0.0.0 js.cdlvr.net
 0.0.0.0 hetcak.containers.piwik.pro
+0.0.0.0 innocraft.cloud

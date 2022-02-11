@@ -2275,3 +2275,4 @@
 ||api.parley.nu^
 ||parley.nu^
 ||hitcounter.govmetric.com^
+||websurveys2.govmetric.com^

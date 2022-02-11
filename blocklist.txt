@@ -2183,3 +2183,4 @@
 ||interface.mailcampaigns.nl^
 ||mailcampaigns.nl^
 ||nosto.com^
+||xcdn.nl^

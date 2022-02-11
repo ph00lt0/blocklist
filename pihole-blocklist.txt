@@ -2172,3 +2172,4 @@
 0.0.0.0 livescore.com
 0.0.0.0 voetbalgokken.nl
 0.0.0.0 onlinecasinoground.nl
+0.0.0.0 bingoal.nl

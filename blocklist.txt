@@ -2367,3 +2367,4 @@
 ||res.cloudinary.com^
 ||cloudinary.com^
 ||vfpf1.expoints.nl^
+||expoints.nl^

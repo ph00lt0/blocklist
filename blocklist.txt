@@ -2244,3 +2244,4 @@
 ||a1.adform.net^
 ||advertising.com^
 ||atwola.com^
+||social.hm.com^

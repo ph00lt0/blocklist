@@ -2074,3 +2074,4 @@
 ||adserver.euroweeklynews.com^
 ||tag.durationmedia.net^
 ||durationmedia.net^
+||a.mailmunch.co^

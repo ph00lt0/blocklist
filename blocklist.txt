@@ -2368,3 +2368,4 @@
 ||cloudinary.com^
 ||vfpf1.expoints.nl^
 ||expoints.nl^
+||myprivacy.dpgmedia.net^

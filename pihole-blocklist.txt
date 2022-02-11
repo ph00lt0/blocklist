@@ -2368,3 +2368,4 @@
 0.0.0.0 cloudinary.com
 0.0.0.0 vfpf1.expoints.nl
 0.0.0.0 expoints.nl
+0.0.0.0 myprivacy.dpgmedia.net

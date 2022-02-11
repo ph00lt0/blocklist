@@ -2277,3 +2277,4 @@
 ||hitcounter.govmetric.com^
 ||websurveys2.govmetric.com^
 ||govmetric.com^
+||cb.vrmwb.nl^

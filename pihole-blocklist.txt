@@ -2248,3 +2248,4 @@
 0.0.0.0 hm-uk.digital.nuance.com
 0.0.0.0 consent.yahoo.com
 0.0.0.0 creativecdn.com
+0.0.0.0 adpilot.com

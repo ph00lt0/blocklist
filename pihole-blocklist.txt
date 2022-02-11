@@ -2273,3 +2273,4 @@
 0.0.0.0 websurveys2.servmetric.com
 0.0.0.0 servmetric.com
 0.0.0.0 api.parley.nu
+0.0.0.0 parley.nu

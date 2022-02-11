@@ -2273,3 +2273,4 @@
 ||websurveys2.servmetric.com^
 ||servmetric.com^
 ||api.parley.nu^
+||parley.nu^

@@ -2377,3 +2377,4 @@
 0.0.0.0 m3.mailplus.nl
 0.0.0.0 static.mailplus.nl
 0.0.0.0 openindex.io
+0.0.0.0 www.openindex.io

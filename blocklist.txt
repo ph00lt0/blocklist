@@ -2377,3 +2377,4 @@
 ||m3.mailplus.nl^
 ||static.mailplus.nl^
 ||openindex.io^
+||www.openindex.io^

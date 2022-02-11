@@ -2107,3 +2107,4 @@
 ||medietall.no^
 ||default.sacdn.no^
 ||schibsted.com^
+||cis.schibsted.com^

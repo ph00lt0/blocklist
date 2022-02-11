@@ -2247,3 +2247,4 @@
 ||pictela.net^
 ||hm-uk.digital.nuance.com^
 ||consent.yahoo.com^
+||creativecdn.com^

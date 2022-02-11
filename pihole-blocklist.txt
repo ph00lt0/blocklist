@@ -2247,3 +2247,4 @@
 0.0.0.0 pictela.net
 0.0.0.0 hm-uk.digital.nuance.com
 0.0.0.0 consent.yahoo.com
+0.0.0.0 creativecdn.com

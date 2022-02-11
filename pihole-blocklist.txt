@@ -2112,3 +2112,4 @@
 0.0.0.0 schibsted.io
 0.0.0.0 cogwheel.inventory.schibsted.io
 0.0.0.0 cdn.bt.no
+0.0.0.0 session-service.payment.schibsted.no

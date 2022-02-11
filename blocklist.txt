@@ -2336,3 +2336,4 @@
 ||piwik.pro.eu-west-1.piwik.pro^
 ||cloud.typography.com^
 ||typography.com^
+||analytics.cjib.nl^

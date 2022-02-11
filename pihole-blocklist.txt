@@ -2336,3 +2336,4 @@
 0.0.0.0 piwik.pro.eu-west-1.piwik.pro
 0.0.0.0 cloud.typography.com
 0.0.0.0 typography.com
+0.0.0.0 analytics.cjib.nl

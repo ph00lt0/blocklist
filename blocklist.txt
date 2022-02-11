@@ -2447,3 +2447,4 @@
 ||spotx.tv^
 ||spotxcdn.com^
 ||spotxchange.com^
+||zetaglobal.com^

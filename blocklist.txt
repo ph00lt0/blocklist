@@ -2255,3 +2255,4 @@
 ||piwik.pro^
 ||tag.uwv.nl^
 ||onderzoek.platformrijksoverheid.nl^
+||koop.piwik.pro^

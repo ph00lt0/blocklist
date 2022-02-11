@@ -2255,3 +2255,4 @@
 0.0.0.0 piwik.pro
 0.0.0.0 tag.uwv.nl
 0.0.0.0 onderzoek.platformrijksoverheid.nl
+0.0.0.0 koop.piwik.pro

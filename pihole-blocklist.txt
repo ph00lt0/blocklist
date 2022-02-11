@@ -2093,3 +2093,4 @@
 0.0.0.0 www.currency.me.uk
 0.0.0.0 exchangerates.org.uk
 0.0.0.0 www.exchangerates.org.uk
+0.0.0.0 c0.wp.com

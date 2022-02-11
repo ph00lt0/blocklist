@@ -2126,3 +2126,4 @@
 0.0.0.0 ads.brandadvance.co.uk
 0.0.0.0 apester.com
 0.0.0.0 static.apester.com
+0.0.0.0 widgets.shopifyapps.com

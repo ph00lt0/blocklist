@@ -2125,3 +2125,4 @@
 ||ads.brandadvance.co.uk^
 ||apester.com^
 ||static.apester.com^
+||widgets.shopifyapps.com^

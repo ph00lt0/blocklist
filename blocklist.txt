@@ -2243,3 +2243,4 @@
 ||adsdk.com^
 ||a1.adform.net^
 ||advertising.com^
+||atwola.com^

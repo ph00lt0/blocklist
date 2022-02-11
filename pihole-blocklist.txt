@@ -2311,3 +2311,4 @@
 0.0.0.0 piwik.duiven.nl
 0.0.0.0 responsivevoice.org
 0.0.0.0 code.responsivevoice.org
+0.0.0.0 stats.bitman.nl

@@ -2422,3 +2422,4 @@
 0.0.0.0 analytics.gigyahosting1.com
 0.0.0.0 gigcount.com
 0.0.0.0 bidswitch.net
+0.0.0.0 exe.bid

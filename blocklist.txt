@@ -2422,3 +2422,4 @@
 ||analytics.gigyahosting1.com^
 ||gigcount.com^
 ||bidswitch.net^
+||exe.bid^

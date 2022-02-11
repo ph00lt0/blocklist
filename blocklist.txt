@@ -2420,3 +2420,4 @@
 ||www.speedcurve.com^
 ||graph.facebook.com^
 ||analytics.gigyahosting1.com^
+||gigcount.com^

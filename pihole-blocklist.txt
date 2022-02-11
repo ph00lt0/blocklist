@@ -2453,3 +2453,4 @@
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 events.api.boomtrain.com
 0.0.0.0 rfihub.com
+0.0.0.0 rfihub.net

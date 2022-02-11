@@ -2080,3 +2080,4 @@
 ||cdn.vuukle.com^
 ||locations.api.yle.fi^
 ||design-system.cdn.yle.fi^
+||yle-consent-sdk.yle.fi^

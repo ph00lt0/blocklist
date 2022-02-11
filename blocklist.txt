@@ -2096,3 +2096,4 @@
 ||cmp.aftenposten.no^
 ||mm.aftenposten.no^
 ||jssdk.touchpoints.schibsted.media^
+||brandmetrics.com^

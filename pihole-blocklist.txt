@@ -2169,3 +2169,4 @@
 0.0.0.0 bet365.com
 0.0.0.0 jackscasino.nl
 0.0.0.0 tombola.nl
+0.0.0.0 livescore.com

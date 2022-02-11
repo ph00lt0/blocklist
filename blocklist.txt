@@ -2077,3 +2077,4 @@
 ||a.mailmunch.co^
 ||mailmunch.co^
 ||vuukle.com^
+||cdn.vuukle.com^

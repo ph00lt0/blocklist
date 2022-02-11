@@ -2464,3 +2464,4 @@
 0.0.0.0 contentsquare.net
 0.0.0.0 mxpnl.net
 0.0.0.0 d1447tq2m68ekg.cloudfront.net
+0.0.0.0 sovrn.com

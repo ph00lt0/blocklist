@@ -2272,3 +2272,4 @@
 ||enquete.agconsult.com^
 ||websurveys2.servmetric.com^
 ||servmetric.com^
+||api.parley.nu^

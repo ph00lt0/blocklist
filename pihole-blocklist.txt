@@ -2314,3 +2314,4 @@
 0.0.0.0 stats.bitman.nl
 0.0.0.0 libraryh3lp.com
 0.0.0.0 eu.libraryh3lp.com
+0.0.0.0 survicate.com

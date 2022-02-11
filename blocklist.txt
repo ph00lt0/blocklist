@@ -2215,3 +2215,4 @@
 ||eyevestor.firebaseio.com^
 ||o997758.ingest.sentry.io^
 ||fastbase.com^
+||eyevestor.freshdesk.com^

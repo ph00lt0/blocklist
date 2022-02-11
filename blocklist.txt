@@ -2276,3 +2276,4 @@
 ||parley.nu^
 ||hitcounter.govmetric.com^
 ||websurveys2.govmetric.com^
+||govmetric.com^

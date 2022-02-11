@@ -2407,3 +2407,4 @@
 0.0.0.0 trafficstars.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 www.media.net
+0.0.0.0 www.cookiebot.com

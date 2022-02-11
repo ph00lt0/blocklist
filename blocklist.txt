@@ -2407,3 +2407,4 @@
 ||trafficstars.com^
 ||tsyndicate.com^
 ||www.media.net^
+||www.cookiebot.com^

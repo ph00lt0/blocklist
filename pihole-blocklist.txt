@@ -2073,3 +2073,4 @@
 0.0.0.0 epimg.net
 0.0.0.0 ep00.epimg.net
 0.0.0.0 adserver.euroweeklynews.com
+0.0.0.0 tag.durationmedia.net

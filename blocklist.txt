@@ -2098,3 +2098,4 @@
 ||jssdk.touchpoints.schibsted.media^
 ||brandmetrics.com^
 ||cdn.brandmetrics.com^
+||comments-api.i.bt.no^

@@ -2293,3 +2293,4 @@
 ||sooqr.com^
 ||browser-update.org^
 ||widget.scribit.pro^
+||scribit.pro^

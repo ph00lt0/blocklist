@@ -2293,3 +2293,4 @@
 0.0.0.0 sooqr.com
 0.0.0.0 browser-update.org
 0.0.0.0 widget.scribit.pro
+0.0.0.0 scribit.pro

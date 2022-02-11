@@ -2139,3 +2139,4 @@
 ||finncdn.no^
 ||static.finncdn.no^
 ||hscta.net^
+||js.hscta.net^

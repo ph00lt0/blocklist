@@ -2482,3 +2482,4 @@
 ||aggregateknowledge.com^
 ||agkn.com^
 ||shareth.ru^
+||skimlinks.com^

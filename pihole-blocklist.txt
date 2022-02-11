@@ -2482,3 +2482,4 @@
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 agkn.com
 0.0.0.0 shareth.ru
+0.0.0.0 skimlinks.com

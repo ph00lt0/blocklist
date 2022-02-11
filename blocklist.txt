@@ -2107,3 +2107,7 @@
 ||log.medietall.no^
 ||medietall.no^
 ||d31qbv1cthcecs.cloudfront.net^
+||default.sacdn.no^
+||schibsted.com^
+||cis.schibsted.com^
+||schibsted.io^

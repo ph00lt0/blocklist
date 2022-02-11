@@ -2108,3 +2108,7 @@
 0.0.0.0 log.medietall.no
 0.0.0.0 medietall.no
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
+0.0.0.0 default.sacdn.no
+0.0.0.0 schibsted.com
+0.0.0.0 cis.schibsted.com
+0.0.0.0 schibsted.io

@@ -2154,3 +2154,4 @@
 ||feedspot.com^
 ||blog.feedspot.com^
 ||blog-cdn.feedspot.com^
+||widgets.wp.com^

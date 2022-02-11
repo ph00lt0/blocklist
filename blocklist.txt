@@ -2399,3 +2399,4 @@
 ||d24n15hnbwhuhn.cloudfront.net^
 ||segment.io^
 ||segment.com^
+||d47xnnr8b1rki.cloudfront.net^

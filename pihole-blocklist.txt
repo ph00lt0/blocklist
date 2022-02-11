@@ -2399,3 +2399,4 @@
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 segment.io
 0.0.0.0 segment.com
+0.0.0.0 d47xnnr8b1rki.cloudfront.net

@@ -2446,3 +2446,4 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 spotx.tv
 0.0.0.0 spotxcdn.com
+0.0.0.0 spotxchange.com

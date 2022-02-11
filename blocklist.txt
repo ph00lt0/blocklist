@@ -2446,3 +2446,4 @@
 ||dnn506yrbagrg.cloudfront.net^
 ||spotx.tv^
 ||spotxcdn.com^
+||spotxchange.com^

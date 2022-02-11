@@ -2483,3 +2483,4 @@
 ||agkn.com^
 ||shareth.ru^
 ||skimlinks.com^
+||redirectingat.com^

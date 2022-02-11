@@ -2360,3 +2360,4 @@
 ||cdn.dimml.io^
 ||svb.containers.piwik.pro^
 ||open.spotify.com^
+||consentcdn.cookiebot.com^

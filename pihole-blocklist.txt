@@ -2360,3 +2360,4 @@
 0.0.0.0 cdn.dimml.io
 0.0.0.0 svb.containers.piwik.pro
 0.0.0.0 open.spotify.com
+0.0.0.0 consentcdn.cookiebot.com

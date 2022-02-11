@@ -2325,3 +2325,4 @@
 ||d1azc1qln24ryf.cloudfront.net^
 ||piwik.zwolle.nl^
 ||fast.fonts.net^
+||tagmanager.becop.nl^

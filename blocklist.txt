@@ -2063,3 +2063,4 @@
 ||evoluhcion.es^
 ||tagmanager.smartadserver.com^
 ||scripts.cleverwebserver.com^
+||cleverwebserver.com^

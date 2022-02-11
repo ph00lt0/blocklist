@@ -2393,3 +2393,4 @@
 ||simplyadmire.com^
 ||sentry.swarmprod01.simplyadmire.com^
 ||piwik.zevenaar.nl^
+||popt.in^

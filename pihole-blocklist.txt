@@ -2130,3 +2130,4 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 adroll.com
 0.0.0.0 fw-cdn.com
+0.0.0.0 cmp.bt.no

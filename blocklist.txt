@@ -2129,3 +2129,4 @@
 ||s.adroll.com^
 ||adroll.com^
 ||fw-cdn.com^
+||cmp.bt.no^

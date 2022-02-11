@@ -2097,3 +2097,7 @@
 0.0.0.0 c0.wp.com
 0.0.0.0 cmp.aftenposten.no
 0.0.0.0 mm.aftenposten.no
+0.0.0.0 jssdk.touchpoints.schibsted.media
+0.0.0.0 brandmetrics.com
+0.0.0.0 cdn.brandmetrics.com
+0.0.0.0 comments-api.i.bt.no

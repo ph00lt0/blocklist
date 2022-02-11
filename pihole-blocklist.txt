@@ -2165,3 +2165,4 @@
 0.0.0.0 unibet.co.uk
 0.0.0.0 live-casino.nl
 0.0.0.0 www.pokeren.nl
+0.0.0.0 betcity.nl

@@ -2102,7 +2102,7 @@
 ||comments-api.i.bt.no^
 ||smartplugin.youbora.com^
 ||youbora.com^
-||bt.no^
+@@||bt.no^  # Not itself the tracker
 ||cdn.stream.schibsted.media^
 ||log.medietall.no^
 ||medietall.no^

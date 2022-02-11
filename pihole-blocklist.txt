@@ -2341,3 +2341,4 @@
 0.0.0.0 chat.ind.nl
 0.0.0.0 statistics.ind.nl
 0.0.0.0 a908883a2197246d2bb967aa1d362c64-980be7e10b9ca5ea.elb.eu-central-1.amazonaws.com
+0.0.0.0 js.sentry-cdn.com

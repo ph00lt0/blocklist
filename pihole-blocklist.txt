@@ -2101,3 +2101,4 @@
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 comments-api.i.bt.no
 0.0.0.0 smartplugin.youbora.com
+0.0.0.0 youbora.com

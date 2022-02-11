@@ -2319,3 +2319,4 @@
 0.0.0.0 musecdn.businesscatalyst.com
 0.0.0.0 businesscatalyst.com
 0.0.0.0 cobrowser.com
+0.0.0.0 app.cobrowser.com

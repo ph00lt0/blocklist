@@ -2319,3 +2319,4 @@
 ||musecdn.businesscatalyst.com^
 ||businesscatalyst.com^
 ||cobrowser.com^
+||app.cobrowser.com^

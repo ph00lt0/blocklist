@@ -2385,3 +2385,4 @@
 ||aax.media^
 ||www.aax.media^
 ||chimpstatic.com^
+||bugherd.com^

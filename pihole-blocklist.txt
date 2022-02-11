@@ -2234,3 +2234,4 @@
 0.0.0.0 exosrv.com
 0.0.0.0 odnxs.net
 0.0.0.0 openx.org
+0.0.0.0 nuance.com

@@ -2208,3 +2208,4 @@
 0.0.0.0 d3iwjrnl4m67rd.cloudfront.net
 0.0.0.0 targetemsecure.blob.core.windows.net
 0.0.0.0 triplelift.com
+0.0.0.0 krxd.net

@@ -2207,3 +2207,4 @@
 ||d3iwjrnl4m67rd.cloudfront.net^
 ||targetemsecure.blob.core.windows.net^
 ||triplelift.com^
+||krxd.net^

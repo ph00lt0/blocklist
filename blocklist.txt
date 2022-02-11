@@ -2233,3 +2233,4 @@
 ||inq.com^
 ||exdynsrv.com^
 ||exoclick.com^
+||exosrv.com^

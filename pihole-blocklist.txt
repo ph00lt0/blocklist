@@ -2210,3 +2210,4 @@
 0.0.0.0 triplelift.com
 0.0.0.0 krxd.net
 0.0.0.0 cdn.krxd.net
+0.0.0.0 chat-assets.frontapp.com

@@ -2145,3 +2145,4 @@
 0.0.0.0 provesrc.com
 0.0.0.0 cdn.provesrc.com
 0.0.0.0 pushcrew.com
+0.0.0.0 cdn.pushcrew.com

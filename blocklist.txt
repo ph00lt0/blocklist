@@ -2144,3 +2144,4 @@
 ||provesrc.com^
 ||cdn.provesrc.com^
 ||pushcrew.com^
+||cdn.pushcrew.com^

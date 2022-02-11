@@ -2439,3 +2439,4 @@
 0.0.0.0 tapad.com
 0.0.0.0 go.tapad.com
 0.0.0.0 adyoulike.com
+0.0.0.0 www.adyoulike.com

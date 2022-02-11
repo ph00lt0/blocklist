@@ -2433,3 +2433,4 @@
 0.0.0.0 www.viglink.com
 0.0.0.0 betterttv.net
 0.0.0.0 weborama.com
+0.0.0.0 weborama.fr

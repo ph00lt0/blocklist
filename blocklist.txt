@@ -2449,3 +2449,4 @@
 ||spotxchange.com^
 ||zetaglobal.com^
 ||app.insightgrit.com^
+||app.ubertags.com^

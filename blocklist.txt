@@ -2103,3 +2103,4 @@
 ||smartplugin.youbora.com^
 ||youbora.com^
 ||bt.no^
+||cdn.stream.schibsted.media^

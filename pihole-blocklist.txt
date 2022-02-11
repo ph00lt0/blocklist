@@ -2104,3 +2104,4 @@
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 youbora.com
 0.0.0.0 bt.no
+0.0.0.0 cdn.stream.schibsted.media

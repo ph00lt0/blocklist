@@ -2071,3 +2071,4 @@
 0.0.0.0 themes.googleusercontent.com
 0.0.0.0 arcsubscriptions.elpais.com
 0.0.0.0 epimg.net
+0.0.0.0 ep00.epimg.net

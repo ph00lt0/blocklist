@@ -2324,3 +2324,4 @@
 0.0.0.0 img.icons8.com
 0.0.0.0 d1azc1qln24ryf.cloudfront.net
 0.0.0.0 piwik.zwolle.nl
+0.0.0.0 fast.fonts.net

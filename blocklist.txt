@@ -2257,3 +2257,4 @@
 ||onderzoek.platformrijksoverheid.nl^
 ||koop.piwik.pro^
 ||az416426.vo.msecnd.net^
+||simanalytics.nl^

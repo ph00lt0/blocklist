@@ -2257,3 +2257,4 @@
 0.0.0.0 onderzoek.platformrijksoverheid.nl
 0.0.0.0 koop.piwik.pro
 0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 simanalytics.nl

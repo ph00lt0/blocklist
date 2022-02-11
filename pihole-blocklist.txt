@@ -2238,3 +2238,4 @@
 0.0.0.0 openxenterprise.com
 0.0.0.0 servedbyopenx.com
 0.0.0.0 openx.com
+0.0.0.0 www.openx.com

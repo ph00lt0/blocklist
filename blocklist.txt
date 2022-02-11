@@ -2196,3 +2196,4 @@
 ||execute-api.us-east-1.amazonaws.com^
 ||adformdsp.net^
 ||seadform.net^
+||moatpixel.com^

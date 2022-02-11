@@ -2237,3 +2237,4 @@
 0.0.0.0 nuance.com
 0.0.0.0 openxenterprise.com
 0.0.0.0 servedbyopenx.com
+0.0.0.0 openx.com

@@ -2180,3 +2180,4 @@
 ||www.hollandcasino.nl^
 ||connect.nosto.com^
 ||static.sooqr.com^
+||interface.mailcampaigns.nl^

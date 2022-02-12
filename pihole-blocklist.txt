@@ -2522,3 +2522,4 @@
 0.0.0.0 hatena.ne.jp
 0.0.0.0 st-hatena.com
 0.0.0.0 mediamath.com
+0.0.0.0 mathads.com

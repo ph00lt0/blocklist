@@ -2522,3 +2522,4 @@
 ||hatena.ne.jp^
 ||st-hatena.com^
 ||mediamath.com^
+||mathads.com^

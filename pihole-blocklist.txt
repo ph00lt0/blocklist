@@ -2528,3 +2528,4 @@
 0.0.0.0 bizible.com
 0.0.0.0 zemanta.com
 0.0.0.0 xaxis.com
+0.0.0.0 footprint.net

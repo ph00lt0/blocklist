@@ -2502,3 +2502,4 @@
 0.0.0.0 cedexis.net
 0.0.0.0 coinzillatag.com
 0.0.0.0 impactradius.com
+0.0.0.0 7eer.net

@@ -2527,3 +2527,4 @@
 ||analytics.demandware.com^
 ||bizible.com^
 ||zemanta.com^
+||xaxis.com^

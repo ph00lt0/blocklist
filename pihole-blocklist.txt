@@ -2510,3 +2510,4 @@
 0.0.0.0 ojrq.net
 0.0.0.0 r7ls.net
 0.0.0.0 microad.co.jp
+0.0.0.0 microad.jp

@@ -2529,3 +2529,4 @@
 ||zemanta.com^
 ||xaxis.com^
 ||footprint.net^
+||stickyadstv.com^

@@ -2517,3 +2517,4 @@
 ||www.pendo.io^
 ||sail-personalize.com^
 ||sailthru.com^
+||de8of677fyt0b.cloudfront.net^

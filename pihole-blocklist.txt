@@ -2517,3 +2517,4 @@
 0.0.0.0 www.pendo.io
 0.0.0.0 sail-personalize.com
 0.0.0.0 sailthru.com
+0.0.0.0 de8of677fyt0b.cloudfront.net

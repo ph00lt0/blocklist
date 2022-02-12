@@ -2509,3 +2509,4 @@
 ||impactradius-tag.com^
 ||ojrq.net^
 ||r7ls.net^
+||microad.co.jp^

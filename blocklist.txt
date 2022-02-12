@@ -2515,3 +2515,4 @@
 ||microadinc.com^
 ||pendo.io^
 ||www.pendo.io^
+||sail-personalize.com^

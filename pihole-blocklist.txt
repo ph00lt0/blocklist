@@ -2515,3 +2515,4 @@
 0.0.0.0 microadinc.com
 0.0.0.0 pendo.io
 0.0.0.0 www.pendo.io
+0.0.0.0 sail-personalize.com

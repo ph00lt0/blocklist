@@ -2523,3 +2523,4 @@
 ||st-hatena.com^
 ||mediamath.com^
 ||mathads.com^
+||mathtag.com^

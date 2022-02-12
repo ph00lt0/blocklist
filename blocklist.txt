@@ -2512,3 +2512,4 @@
 ||microad.co.jp^
 ||microad.jp^
 ||microad.net^
+||microadinc.com^

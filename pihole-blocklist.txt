@@ -2519,3 +2519,4 @@
 0.0.0.0 sailthru.com
 0.0.0.0 de8of677fyt0b.cloudfront.net
 0.0.0.0 eum-appdynamics.com
+0.0.0.0 hatena.ne.jp

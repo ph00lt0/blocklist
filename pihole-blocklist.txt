@@ -2501,3 +2501,4 @@
 0.0.0.0 cedexis.fastlylb.net
 0.0.0.0 cedexis.net
 0.0.0.0 coinzillatag.com
+0.0.0.0 impactradius.com

@@ -2525,3 +2525,4 @@
 0.0.0.0 mathads.com
 0.0.0.0 mathtag.com
 0.0.0.0 analytics.demandware.com
+0.0.0.0 bizible.com

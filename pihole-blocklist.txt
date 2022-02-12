@@ -2530,3 +2530,4 @@
 0.0.0.0 xaxis.com
 0.0.0.0 footprint.net
 0.0.0.0 stickyadstv.com
+0.0.0.0 flashtalking.com

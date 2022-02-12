@@ -2530,3 +2530,4 @@
 ||xaxis.com^
 ||footprint.net^
 ||stickyadstv.com^
+||flashtalking.com^

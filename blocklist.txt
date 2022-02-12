@@ -2516,3 +2516,4 @@
 ||pendo.io^
 ||www.pendo.io^
 ||sail-personalize.com^
+||sailthru.com^

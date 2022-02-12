@@ -2513,3 +2513,4 @@
 0.0.0.0 microad.jp
 0.0.0.0 microad.net
 0.0.0.0 microadinc.com
+0.0.0.0 pendo.io

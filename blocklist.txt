@@ -2513,3 +2513,4 @@
 ||microad.jp^
 ||microad.net^
 ||microadinc.com^
+||pendo.io^

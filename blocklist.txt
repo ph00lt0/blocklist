@@ -2661,3 +2661,4 @@
 ||g.ezoic.net^
 ||widget.getyourguide.com^
 ||portalhc.com^
+||sbhc.portalhc.com^

@@ -2599,3 +2599,4 @@
 0.0.0.0 forbesviz.com
 0.0.0.0 tms.ingservices.nl
 0.0.0.0 fbc.wcfbc.net
+0.0.0.0 ing-wb01.wt-eu02.net

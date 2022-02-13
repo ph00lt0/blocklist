@@ -2695,3 +2695,4 @@
 ||static.olark.com^
 ||rapidscansecure.com^
 ||www.rapidscansecure.com^
+||seal-southerncolorado.bbb.org^

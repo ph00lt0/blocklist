@@ -2649,3 +2649,4 @@
 ||app.hubspot.com^
 ||mypurecloud.de^
 ||apps.mypurecloud.de^
+||tools.eurolandir.com^

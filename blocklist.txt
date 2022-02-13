@@ -2648,3 +2648,4 @@
 ||api.hubapi.com^
 ||app.hubspot.com^
 ||mypurecloud.de^
+||apps.mypurecloud.de^

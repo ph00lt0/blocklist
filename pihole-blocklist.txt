@@ -2648,3 +2648,4 @@
 0.0.0.0 api.hubapi.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 mypurecloud.de
+0.0.0.0 apps.mypurecloud.de

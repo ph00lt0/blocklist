@@ -2645,3 +2645,4 @@
 0.0.0.0 light.co-operativebank.co.uk
 0.0.0.0 light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com
 0.0.0.0 cdn2.hubspot.net
+0.0.0.0 api.hubapi.com

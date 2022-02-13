@@ -2593,3 +2593,4 @@
 0.0.0.0 internal-api.monzo.com
 0.0.0.0 o104379.ingest.sentry.io
 0.0.0.0 geolocation.forbes.com
+0.0.0.0 trustarc.mgr.consensu.org

@@ -2593,3 +2593,4 @@
 ||internal-api.monzo.com^
 ||o104379.ingest.sentry.io^
 ||geolocation.forbes.com^
+||trustarc.mgr.consensu.org^

@@ -2556,3 +2556,4 @@
 ||fonts.sidearmsports.com^
 ||trkn.us^
 ||capturehighered.net^
+||kings.capturehighered.net^

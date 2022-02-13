@@ -2625,3 +2625,4 @@
 0.0.0.0 webfonts.sparkasse.de
 0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 seal-mbc.bbb.org
+0.0.0.0 tag.rmp.rakuten.com

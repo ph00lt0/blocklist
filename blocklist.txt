@@ -2663,3 +2663,4 @@
 ||portalhc.com^
 ||sbhc.portalhc.com^
 ||cmp.heise.de^
+||responder.wt.heise.de^

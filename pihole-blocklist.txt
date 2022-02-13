@@ -2605,3 +2605,4 @@
 0.0.0.0 content.ingbank.pl
 0.0.0.0 protvmd.adocean.pl
 0.0.0.0 ado.icorp.ro
+0.0.0.0 ing.adocean.pl

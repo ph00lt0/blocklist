@@ -2655,3 +2655,4 @@
 ||spoteffects.net^
 ||webanalytics.italia.it^
 ||spotlight.ngtv.io^
+||turnip.cdn.turner.com^

@@ -2651,3 +2651,4 @@
 ||apps.mypurecloud.de^
 ||tools.eurolandir.com^
 ||mktdplp102cdn.azureedge.net^
+||trck.spoteffects.net^

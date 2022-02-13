@@ -2651,3 +2651,4 @@
 0.0.0.0 apps.mypurecloud.de
 0.0.0.0 tools.eurolandir.com
 0.0.0.0 mktdplp102cdn.azureedge.net
+0.0.0.0 trck.spoteffects.net

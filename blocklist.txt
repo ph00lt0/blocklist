@@ -2687,3 +2687,4 @@
 ||ada.support^
 ||data.guides.mailchimp.com^
 ||d2y36twrtb17ty.cloudfront.net^
+||colissimo.fr^

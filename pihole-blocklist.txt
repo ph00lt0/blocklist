@@ -2687,3 +2687,4 @@
 0.0.0.0 ada.support
 0.0.0.0 data.guides.mailchimp.com
 0.0.0.0 d2y36twrtb17ty.cloudfront.net
+0.0.0.0 colissimo.fr

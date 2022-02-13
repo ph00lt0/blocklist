@@ -2637,4 +2637,4 @@
 0.0.0.0 report.23video.com
 0.0.0.0 4.0p10n000000in97saa.00d0n000000gtiyuay.gslb.siteforce.com
 0.0.0.0 cachev2.sparnord.dk
-0.0.0.0 mit.sparnord.dk
+! allow mit.sparnord.dk reason: Required for loading of content

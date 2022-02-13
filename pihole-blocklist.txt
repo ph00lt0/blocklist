@@ -2686,3 +2686,4 @@
 0.0.0.0 static.ada.support
 0.0.0.0 ada.support
 0.0.0.0 data.guides.mailchimp.com
+0.0.0.0 d2y36twrtb17ty.cloudfront.net

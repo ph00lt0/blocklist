@@ -2571,3 +2571,4 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 customer.cludo.com
 0.0.0.0 cludo.com
+0.0.0.0 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com

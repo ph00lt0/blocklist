@@ -2571,3 +2571,4 @@
 ||connect.facebook.com^
 ||customer.cludo.com^
 ||cludo.com^
+||userlike-cdn-widgets.s3-eu-west-1.amazonaws.com^

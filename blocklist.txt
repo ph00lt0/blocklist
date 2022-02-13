@@ -2553,3 +2553,4 @@
 ||app.10ft.itv.com^
 ||http-inputs-itv.splunkcloud.com^
 ||splunkcloud.com^
+||fonts.sidearmsports.com^

@@ -2657,3 +2657,4 @@
 0.0.0.0 spotlight.ngtv.io
 0.0.0.0 turnip.cdn.turner.com
 0.0.0.0 receive.wmcdp.io
+0.0.0.0 g.ezodn.com

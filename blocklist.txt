@@ -2657,3 +2657,4 @@
 ||spotlight.ngtv.io^
 ||turnip.cdn.turner.com^
 ||receive.wmcdp.io^
+||g.ezodn.com^

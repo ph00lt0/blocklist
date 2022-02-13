@@ -2620,3 +2620,4 @@
 ||eu-cdn.ad1x.com^
 ||mkt-api.raiffeisen.sk^
 ||infolinka.raiffeisen.sk^
+||exponea.com^

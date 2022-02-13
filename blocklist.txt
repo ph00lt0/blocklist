@@ -2646,3 +2646,4 @@
 ||light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com^
 ||cdn2.hubspot.net^
 ||api.hubapi.com^
+||app.hubspot.com^

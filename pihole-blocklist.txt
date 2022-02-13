@@ -2607,3 +2607,4 @@
 0.0.0.0 ado.icorp.ro
 0.0.0.0 ing.adocean.pl
 0.0.0.0 ad1x.com
+0.0.0.0 eu-edge.ad1x.com

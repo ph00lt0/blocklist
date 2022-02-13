@@ -2607,3 +2607,4 @@
 ||ado.icorp.ro^
 ||ing.adocean.pl^
 ||ad1x.com^
+||eu-edge.ad1x.com^

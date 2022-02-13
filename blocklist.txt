@@ -2634,3 +2634,4 @@
 ||zn5sybnguvkijglq1-danskebank.siteintercept.qualtrics.com^
 ||nyk.my.salesforce.com^
 ||delivery.twentythree.com^
+||report.23video.com^

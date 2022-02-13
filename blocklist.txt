@@ -2586,3 +2586,4 @@
 ||fecdn.user1st.info^
 ||services.euroland.com^
 ||tools.euroland.com^
+||digitalid.santanderbank.com^

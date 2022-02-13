@@ -2697,3 +2697,4 @@
 ||www.rapidscansecure.com^
 ||seal-southerncolorado.bbb.org^
 ||tags.expo9.exponential.com^
+||exponential.com^

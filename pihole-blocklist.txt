@@ -2616,3 +2616,4 @@
 0.0.0.0 biexcellence.com
 0.0.0.0 cdn.biexcellence.com
 0.0.0.0 info.raiffeisen.at
+0.0.0.0 r-itservices.bzh

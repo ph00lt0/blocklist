@@ -2616,3 +2616,4 @@
 ||biexcellence.com^
 ||cdn.biexcellence.com^
 ||info.raiffeisen.at^
+||r-itservices.bzh^

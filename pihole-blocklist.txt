@@ -2591,3 +2591,4 @@
 0.0.0.0 boldchat.com
 0.0.0.0 sc-static.net
 0.0.0.0 internal-api.monzo.com
+0.0.0.0 o104379.ingest.sentry.io

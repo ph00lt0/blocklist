@@ -2591,3 +2591,4 @@
 ||boldchat.com^
 ||sc-static.net^
 ||internal-api.monzo.com^
+||o104379.ingest.sentry.io^

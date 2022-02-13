@@ -2638,3 +2638,4 @@
 ||4.0p10n000000in97saa.00d0n000000gtiyuay.gslb.siteforce.com^
 ||cachev2.sparnord.dk^
 @@||mit.sparnord.dk^  # Required for loading of content
+||cors-proxy-service.sparnord.dk^

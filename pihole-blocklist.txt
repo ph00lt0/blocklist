@@ -2570,3 +2570,4 @@
 0.0.0.0 cdn.connectif.cloud
 0.0.0.0 connect.facebook.com
 0.0.0.0 customer.cludo.com
+0.0.0.0 cludo.com

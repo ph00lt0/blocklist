@@ -2570,3 +2570,4 @@
 ||cdn.connectif.cloud^
 ||connect.facebook.com^
 ||customer.cludo.com^
+||cludo.com^

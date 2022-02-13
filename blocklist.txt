@@ -2558,3 +2558,4 @@
 ||capturehighered.net^
 ||kings.capturehighered.net^
 ||adentifi.com^
+||bm.adentifi.com^

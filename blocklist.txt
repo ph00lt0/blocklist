@@ -2690,3 +2690,4 @@
 ||colissimo.fr^
 ||ws.colissimo.fr^
 ||iframe.ly^
+||cdn.iframe.ly^

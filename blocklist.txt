@@ -2554,3 +2554,4 @@
 ||http-inputs-itv.splunkcloud.com^
 ||splunkcloud.com^
 ||fonts.sidearmsports.com^
+||trkn.us^

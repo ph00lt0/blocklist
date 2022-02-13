@@ -2554,3 +2554,4 @@
 0.0.0.0 http-inputs-itv.splunkcloud.com
 0.0.0.0 splunkcloud.com
 0.0.0.0 fonts.sidearmsports.com
+0.0.0.0 trkn.us

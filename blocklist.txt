@@ -2588,3 +2588,4 @@
 ||tools.euroland.com^
 ||digitalid.santanderbank.com^
 ||vmss.boldchat.com^
+||boldchat.com^

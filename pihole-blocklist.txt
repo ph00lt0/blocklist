@@ -2588,3 +2588,4 @@
 0.0.0.0 tools.euroland.com
 0.0.0.0 digitalid.santanderbank.com
 0.0.0.0 vmss.boldchat.com
+0.0.0.0 boldchat.com

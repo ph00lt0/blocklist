@@ -2647,3 +2647,4 @@
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 api.hubapi.com
 0.0.0.0 app.hubspot.com
+0.0.0.0 mypurecloud.de

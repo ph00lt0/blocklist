@@ -2567,3 +2567,4 @@
 0.0.0.0 rbdf8uzi.housinganywhere.com
 0.0.0.0 connectif.ai
 0.0.0.0 connectif.cloud
+0.0.0.0 cdn.connectif.cloud

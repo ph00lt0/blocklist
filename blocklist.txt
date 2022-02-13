@@ -2567,3 +2567,4 @@
 ||rbdf8uzi.housinganywhere.com^
 ||connectif.ai^
 ||connectif.cloud^
+||cdn.connectif.cloud^

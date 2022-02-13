@@ -2664,3 +2664,4 @@
 ||sbhc.portalhc.com^
 ||cmp.heise.de^
 ||responder.wt.heise.de^
+||upscore.com^

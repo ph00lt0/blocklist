@@ -2673,3 +2673,4 @@
 ||sentry.io^
 ||crm.zohopublic.eu^
 ||bloomreach.cloud^
+||site-production.anwb.bloomreach.cloud^

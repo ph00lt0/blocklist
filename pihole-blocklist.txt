@@ -2151,7 +2151,7 @@
 0.0.0.0 app-us1.com
 0.0.0.0 qodeinteractive.com
 0.0.0.0 startit.qodeinteractive.com
-0.0.0.0 s0.wp.com
+! allow s0.wp.com reason: Required to load static
 0.0.0.0 feedspot.com
 0.0.0.0 blog.feedspot.com
 0.0.0.0 blog-cdn.feedspot.com

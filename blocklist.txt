@@ -2654,3 +2654,4 @@
 ||trck.spoteffects.net^
 ||spoteffects.net^
 ||webanalytics.italia.it^
+||spotlight.ngtv.io^

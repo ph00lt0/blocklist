@@ -2675,3 +2675,4 @@
 0.0.0.0 bloomreach.cloud
 0.0.0.0 site-production.anwb.bloomreach.cloud
 0.0.0.0 anwb1.expoints.nl
+0.0.0.0 600.static.anwb.nl

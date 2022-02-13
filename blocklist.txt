@@ -2621,3 +2621,4 @@
 ||mkt-api.raiffeisen.sk^
 ||infolinka.raiffeisen.sk^
 ||exponea.com^
+||mkt-api-raiffeisen-sk.exponea.com^

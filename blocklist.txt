@@ -2628,3 +2628,4 @@
 ||tag.rmp.rakuten.com^
 ||static.klaviyo.com^
 ||klaviyo.com^
+||rakuten.com^

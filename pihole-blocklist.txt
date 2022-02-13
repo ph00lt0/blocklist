@@ -2628,3 +2628,4 @@
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 klaviyo.com
+0.0.0.0 rakuten.com

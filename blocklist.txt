@@ -2565,3 +2565,4 @@
 ||cdn.analytics.hatech.dev^
 ||hatech.dev^
 ||rbdf8uzi.housinganywhere.com^
+||connectif.ai^

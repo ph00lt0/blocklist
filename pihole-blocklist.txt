@@ -2578,5 +2578,5 @@
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 investis.com
 0.0.0.0 irs.tools.investis.com
-0.0.0.0 ip-only.net
+! allow ip-only.net reason: Required for qbrick.com video player
 0.0.0.0 notification.qbrick.com

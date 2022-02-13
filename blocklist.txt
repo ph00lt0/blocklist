@@ -2578,5 +2578,5 @@
 ||c.oracleinfinity.io^
 ||investis.com^
 ||irs.tools.investis.com^
-||ip-only.net^
+@@||ip-only.net^  # Required for qbrick.com video player
 ||notification.qbrick.com^

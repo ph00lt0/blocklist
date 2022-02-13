@@ -2543,3 +2543,4 @@
 ||forms.kro-ncrv.nl^
 ||cq.omroepzwart.nl^
 ||o468856.ingest.sentry.io^
+||platform.instagram.com^

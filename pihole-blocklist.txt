@@ -2622,3 +2622,4 @@
 0.0.0.0 infolinka.raiffeisen.sk
 0.0.0.0 exponea.com
 0.0.0.0 mkt-api-raiffeisen-sk.exponea.com
+0.0.0.0 webfonts.sparkasse.de

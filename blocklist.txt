@@ -2670,3 +2670,4 @@
 ||assets.customer.io^
 ||customer.io^
 ||cdn.mxpnl.com^
+||sentry.io^

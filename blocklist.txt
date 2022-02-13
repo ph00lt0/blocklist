@@ -2683,3 +2683,4 @@
 ||impactcdn.com^
 ||ws.zoominfo.com^
 ||cfl.dropboxstatic.com^
+||static.ada.support^

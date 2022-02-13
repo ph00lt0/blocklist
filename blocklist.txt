@@ -2549,3 +2549,4 @@
 ||itv-hub.cdn-v3.conductrics.com^
 ||cpt.itv.com^
 ||scheduled.oasvc.itv.com^
+||tom.itv.com^

@@ -2678,3 +2678,4 @@
 ||600.static.anwb.nl^
 ||nr-data.net^
 ||bam.eu01.nr-data.net^
+||utt.impactcdn.com^

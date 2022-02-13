@@ -2677,3 +2677,4 @@
 0.0.0.0 anwb1.expoints.nl
 0.0.0.0 600.static.anwb.nl
 0.0.0.0 nr-data.net
+0.0.0.0 bam.eu01.nr-data.net

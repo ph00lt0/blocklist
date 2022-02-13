@@ -2611,3 +2611,4 @@
 0.0.0.0 livechat.infobip.com
 0.0.0.0 infobip.com
 0.0.0.0 online.rbb.bg
+0.0.0.0 boerse.raiffeisen.ch

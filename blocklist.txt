@@ -2611,3 +2611,4 @@
 ||livechat.infobip.com^
 ||infobip.com^
 ||online.rbb.bg^
+||boerse.raiffeisen.ch^

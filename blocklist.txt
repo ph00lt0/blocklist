@@ -2596,3 +2596,4 @@
 ||trustarc.mgr.consensu.org^
 ||sdk.sharethrough.com^
 ||fuse.forbes.com^
+||forbesviz.com^

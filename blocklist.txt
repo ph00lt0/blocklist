@@ -2581,3 +2581,4 @@
 @@||ip-only.net^  # Required for qbrick.com video player
 ||notification.qbrick.com^
 ||bowencraggs.com^
+||app.bowencraggs.com^

@@ -2601,3 +2601,4 @@
 0.0.0.0 fbc.wcfbc.net
 0.0.0.0 ing-wb01.wt-eu02.net
 0.0.0.0 wt-eu02.net
+0.0.0.0 ro.adocean.pl

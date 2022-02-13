@@ -2568,3 +2568,4 @@
 0.0.0.0 connectif.ai
 0.0.0.0 connectif.cloud
 0.0.0.0 cdn.connectif.cloud
+0.0.0.0 connect.facebook.com

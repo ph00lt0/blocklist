@@ -2550,3 +2550,4 @@
 ||cpt.itv.com^
 ||scheduled.oasvc.itv.com^
 ||tom.itv.com^
+||app.10ft.itv.com^

@@ -2551,3 +2551,4 @@
 ||scheduled.oasvc.itv.com^
 ||tom.itv.com^
 ||app.10ft.itv.com^
+||http-inputs-itv.splunkcloud.com^

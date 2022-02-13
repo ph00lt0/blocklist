@@ -2658,3 +2658,4 @@
 ||turnip.cdn.turner.com^
 ||receive.wmcdp.io^
 ||g.ezodn.com^
+||g.ezoic.net^

@@ -2541,3 +2541,4 @@
 ||vroegevogels-bnnvara.cdn.prepr.io^
 ||zembla-bnnvara.cdn.prepr.io^
 ||forms.kro-ncrv.nl^
+||cq.omroepzwart.nl^

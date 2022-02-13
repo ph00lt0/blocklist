@@ -2653,3 +2653,4 @@
 ||mktdplp102cdn.azureedge.net^
 ||trck.spoteffects.net^
 ||spoteffects.net^
+||webanalytics.italia.it^

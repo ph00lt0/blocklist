@@ -2639,3 +2639,4 @@
 0.0.0.0 cachev2.sparnord.dk
 ! allow mit.sparnord.dk reason: Required for loading of content
 0.0.0.0 cors-proxy-service.sparnord.dk
+0.0.0.0 coopcdn-res.cloudinary.com

@@ -2617,3 +2617,4 @@
 ||cdn.biexcellence.com^
 ||info.raiffeisen.at^
 ||r-itservices.bzh^
+||eu-cdn.ad1x.com^

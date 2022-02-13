@@ -2617,3 +2617,4 @@
 0.0.0.0 cdn.biexcellence.com
 0.0.0.0 info.raiffeisen.at
 0.0.0.0 r-itservices.bzh
+0.0.0.0 eu-cdn.ad1x.com

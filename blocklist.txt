@@ -2603,3 +2603,4 @@
 ||wt-eu02.net^
 ||ro.adocean.pl^
 ||content.ingbank.pl^
+||protvmd.adocean.pl^

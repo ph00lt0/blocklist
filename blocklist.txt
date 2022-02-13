@@ -2672,3 +2672,4 @@
 ||cdn.mxpnl.com^
 ||sentry.io^
 ||crm.zohopublic.eu^
+||bloomreach.cloud^

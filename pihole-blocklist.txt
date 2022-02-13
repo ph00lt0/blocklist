@@ -2672,3 +2672,4 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 sentry.io
 0.0.0.0 crm.zohopublic.eu
+0.0.0.0 bloomreach.cloud

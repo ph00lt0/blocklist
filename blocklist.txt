@@ -2627,3 +2627,4 @@
 ||seal-mbc.bbb.org^
 ||tag.rmp.rakuten.com^
 ||static.klaviyo.com^
+||klaviyo.com^

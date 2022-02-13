@@ -2627,3 +2627,4 @@
 0.0.0.0 seal-mbc.bbb.org
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 static.klaviyo.com
+0.0.0.0 klaviyo.com

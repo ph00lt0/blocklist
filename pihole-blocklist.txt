@@ -2578,3 +2578,4 @@
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 investis.com
 0.0.0.0 irs.tools.investis.com
+0.0.0.0 ip-only.net

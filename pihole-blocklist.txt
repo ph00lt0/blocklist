@@ -2667,3 +2667,4 @@
 0.0.0.0 upscore.com
 0.0.0.0 hl.upscore.com
 0.0.0.0 data-fb7f8b3ae8.heise.de
+0.0.0.0 assets.customer.io

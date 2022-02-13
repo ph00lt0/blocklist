@@ -2576,3 +2576,4 @@
 ||cdn.cookie-script.com^
 ||oracleinfinity.io^
 ||c.oracleinfinity.io^
+||investis.com^

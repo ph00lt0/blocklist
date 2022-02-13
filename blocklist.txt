@@ -2547,3 +2547,4 @@
 ||mmcdn.nl^
 ||conductrics.com^
 ||itv-hub.cdn-v3.conductrics.com^
+||cpt.itv.com^

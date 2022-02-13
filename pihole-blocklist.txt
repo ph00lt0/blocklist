@@ -2532,3 +2532,4 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 flashtalking.com
 0.0.0.0 cookies.avrotros.nl
+0.0.0.0 hub.npo-data.nl

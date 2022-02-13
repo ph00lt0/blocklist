@@ -2575,3 +2575,4 @@
 0.0.0.0 fonts.au.dk
 0.0.0.0 cdn.cookie-script.com
 0.0.0.0 oracleinfinity.io
+0.0.0.0 c.oracleinfinity.io

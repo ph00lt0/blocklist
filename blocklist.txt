@@ -2612,3 +2612,4 @@
 ||infobip.com^
 ||online.rbb.bg^
 ||boerse.raiffeisen.ch^
+||adocean-global.com^

@@ -2555,3 +2555,4 @@
 ||splunkcloud.com^
 ||fonts.sidearmsports.com^
 ||trkn.us^
+||capturehighered.net^

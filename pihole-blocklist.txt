@@ -2555,3 +2555,4 @@
 0.0.0.0 splunkcloud.com
 0.0.0.0 fonts.sidearmsports.com
 0.0.0.0 trkn.us
+0.0.0.0 capturehighered.net

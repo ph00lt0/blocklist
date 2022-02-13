@@ -2685,3 +2685,4 @@
 0.0.0.0 cfl.dropboxstatic.com
 0.0.0.0 static.ada.support
 0.0.0.0 ada.support
+0.0.0.0 data.guides.mailchimp.com

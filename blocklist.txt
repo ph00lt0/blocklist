@@ -2685,3 +2685,4 @@
 ||cfl.dropboxstatic.com^
 ||static.ada.support^
 ||ada.support^
+||data.guides.mailchimp.com^

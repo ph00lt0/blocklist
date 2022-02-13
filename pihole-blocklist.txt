@@ -2692,3 +2692,4 @@
 0.0.0.0 iframe.ly
 0.0.0.0 cdn.iframe.ly
 0.0.0.0 olark.com
+0.0.0.0 static.olark.com

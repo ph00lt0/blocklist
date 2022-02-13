@@ -2692,3 +2692,4 @@
 ||iframe.ly^
 ||cdn.iframe.ly^
 ||olark.com^
+||static.olark.com^

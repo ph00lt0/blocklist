@@ -2644,3 +2644,4 @@
 ||yellow.co-operativebank.co.uk^
 ||light.co-operativebank.co.uk^
 ||light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com^
+||cdn2.hubspot.net^

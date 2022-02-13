@@ -2619,3 +2619,4 @@
 0.0.0.0 r-itservices.bzh
 0.0.0.0 eu-cdn.ad1x.com
 0.0.0.0 mkt-api.raiffeisen.sk
+0.0.0.0 infolinka.raiffeisen.sk

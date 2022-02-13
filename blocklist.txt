@@ -2676,3 +2676,4 @@
 ||site-production.anwb.bloomreach.cloud^
 ||anwb1.expoints.nl^
 ||600.static.anwb.nl^
+||nr-data.net^

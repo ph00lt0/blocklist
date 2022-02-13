@@ -2665,3 +2665,4 @@
 0.0.0.0 cmp.heise.de
 0.0.0.0 responder.wt.heise.de
 0.0.0.0 upscore.com
+0.0.0.0 hl.upscore.com

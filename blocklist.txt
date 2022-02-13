@@ -2665,3 +2665,4 @@
 ||cmp.heise.de^
 ||responder.wt.heise.de^
 ||upscore.com^
+||hl.upscore.com^

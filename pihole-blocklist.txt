@@ -2580,3 +2580,4 @@
 0.0.0.0 irs.tools.investis.com
 ! allow ip-only.net reason: Required for qbrick.com video player
 0.0.0.0 notification.qbrick.com
+0.0.0.0 bowencraggs.com

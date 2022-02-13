@@ -2580,3 +2580,4 @@
 ||irs.tools.investis.com^
 @@||ip-only.net^  # Required for qbrick.com video player
 ||notification.qbrick.com^
+||bowencraggs.com^

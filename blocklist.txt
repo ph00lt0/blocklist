@@ -2610,3 +2610,4 @@
 ||eu-edge.ad1x.com^
 ||livechat.infobip.com^
 ||infobip.com^
+||online.rbb.bg^

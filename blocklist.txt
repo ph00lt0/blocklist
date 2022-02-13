@@ -2559,3 +2559,4 @@
 ||kings.capturehighered.net^
 ||adentifi.com^
 ||bm.adentifi.com^
+||dbukjj6eu5tsf.cloudfront.net^

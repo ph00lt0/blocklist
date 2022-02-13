@@ -2559,3 +2559,4 @@
 0.0.0.0 kings.capturehighered.net
 0.0.0.0 adentifi.com
 0.0.0.0 bm.adentifi.com
+0.0.0.0 dbukjj6eu5tsf.cloudfront.net

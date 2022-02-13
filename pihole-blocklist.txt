@@ -2669,3 +2669,4 @@
 0.0.0.0 data-fb7f8b3ae8.heise.de
 0.0.0.0 assets.customer.io
 0.0.0.0 customer.io
+0.0.0.0 cdn.mxpnl.com

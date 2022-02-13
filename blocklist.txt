@@ -2669,3 +2669,4 @@
 ||data-fb7f8b3ae8.heise.de^
 ||assets.customer.io^
 ||customer.io^
+||cdn.mxpnl.com^

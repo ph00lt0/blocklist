@@ -2589,3 +2589,4 @@
 ||digitalid.santanderbank.com^
 ||vmss.boldchat.com^
 ||boldchat.com^
+||sc-static.net^

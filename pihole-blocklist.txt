@@ -2589,3 +2589,4 @@
 0.0.0.0 digitalid.santanderbank.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 boldchat.com
+0.0.0.0 sc-static.net

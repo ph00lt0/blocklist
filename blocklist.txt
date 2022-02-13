@@ -2626,3 +2626,4 @@
 ||seal.websecurity.norton.com^
 ||seal-mbc.bbb.org^
 ||tag.rmp.rakuten.com^
+||static.klaviyo.com^

@@ -2689,3 +2689,4 @@
 0.0.0.0 d2y36twrtb17ty.cloudfront.net
 0.0.0.0 colissimo.fr
 0.0.0.0 ws.colissimo.fr
+0.0.0.0 iframe.ly

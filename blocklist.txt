@@ -2662,3 +2662,4 @@
 ||widget.getyourguide.com^
 ||portalhc.com^
 ||sbhc.portalhc.com^
+||cmp.heise.de^

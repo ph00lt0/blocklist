@@ -2662,3 +2662,4 @@
 0.0.0.0 widget.getyourguide.com
 0.0.0.0 portalhc.com
 0.0.0.0 sbhc.portalhc.com
+0.0.0.0 cmp.heise.de

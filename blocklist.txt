@@ -2546,3 +2546,4 @@
 ||platform.instagram.com^
 ||mmcdn.nl^
 ||conductrics.com^
+||itv-hub.cdn-v3.conductrics.com^

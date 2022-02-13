@@ -2660,3 +2660,4 @@
 ||g.ezodn.com^
 ||g.ezoic.net^
 ||widget.getyourguide.com^
+||portalhc.com^

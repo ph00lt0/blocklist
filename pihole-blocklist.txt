@@ -2660,3 +2660,4 @@
 0.0.0.0 g.ezodn.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 widget.getyourguide.com
+0.0.0.0 portalhc.com

@@ -2641,3 +2641,4 @@
 ||cors-proxy-service.sparnord.dk^
 ||coopcdn-res.cloudinary.com^
 ||thecooperativebank.d1.sc.omtrdc.net^
+||yellow.co-operativebank.co.uk^

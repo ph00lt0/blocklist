@@ -2629,3 +2629,4 @@
 ||static.klaviyo.com^
 ||klaviyo.com^
 ||rakuten.com^
+||thinkific.com^

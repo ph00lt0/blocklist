@@ -2602,3 +2602,4 @@
 ||ing-wb01.wt-eu02.net^
 ||wt-eu02.net^
 ||ro.adocean.pl^
+||content.ingbank.pl^

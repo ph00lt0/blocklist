@@ -2694,3 +2694,4 @@
 0.0.0.0 olark.com
 0.0.0.0 static.olark.com
 0.0.0.0 rapidscansecure.com
+0.0.0.0 www.rapidscansecure.com

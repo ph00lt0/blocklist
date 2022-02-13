@@ -2694,3 +2694,4 @@
 ||olark.com^
 ||static.olark.com^
 ||rapidscansecure.com^
+||www.rapidscansecure.com^

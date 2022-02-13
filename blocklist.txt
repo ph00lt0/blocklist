@@ -2643,3 +2643,4 @@
 ||thecooperativebank.d1.sc.omtrdc.net^
 ||yellow.co-operativebank.co.uk^
 ||light.co-operativebank.co.uk^
+||light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com^

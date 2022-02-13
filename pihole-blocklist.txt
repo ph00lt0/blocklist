@@ -2566,3 +2566,4 @@
 0.0.0.0 hatech.dev
 0.0.0.0 rbdf8uzi.housinganywhere.com
 0.0.0.0 connectif.ai
+0.0.0.0 connectif.cloud

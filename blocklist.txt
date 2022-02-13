@@ -2566,3 +2566,4 @@
 ||hatech.dev^
 ||rbdf8uzi.housinganywhere.com^
 ||connectif.ai^
+||connectif.cloud^

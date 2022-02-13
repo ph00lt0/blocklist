@@ -2604,3 +2604,4 @@
 ||ro.adocean.pl^
 ||content.ingbank.pl^
 ||protvmd.adocean.pl^
+||ado.icorp.ro^

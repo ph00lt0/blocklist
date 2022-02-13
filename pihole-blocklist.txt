@@ -2640,3 +2640,4 @@
 ! allow mit.sparnord.dk reason: Required for loading of content
 0.0.0.0 cors-proxy-service.sparnord.dk
 0.0.0.0 coopcdn-res.cloudinary.com
+0.0.0.0 thecooperativebank.d1.sc.omtrdc.net

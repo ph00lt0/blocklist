@@ -2640,3 +2640,4 @@
 @@||mit.sparnord.dk^  # Required for loading of content
 ||cors-proxy-service.sparnord.dk^
 ||coopcdn-res.cloudinary.com^
+||thecooperativebank.d1.sc.omtrdc.net^

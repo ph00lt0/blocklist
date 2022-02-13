@@ -2696,3 +2696,4 @@
 0.0.0.0 rapidscansecure.com
 0.0.0.0 www.rapidscansecure.com
 0.0.0.0 seal-southerncolorado.bbb.org
+0.0.0.0 tags.expo9.exponential.com

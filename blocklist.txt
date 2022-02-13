@@ -2557,3 +2557,4 @@
 ||trkn.us^
 ||capturehighered.net^
 ||kings.capturehighered.net^
+||adentifi.com^

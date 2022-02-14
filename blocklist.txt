@@ -2771,3 +2771,4 @@
 ||live.primis.tech^
 ||aloofvest.com^
 ||narrativ.com^
+||static.narrativ.com^

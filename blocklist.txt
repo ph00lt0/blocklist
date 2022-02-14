@@ -2728,3 +2728,4 @@
 ||lmiutil.com^
 ||cdn.lmiutil.com^
 ||pages04.net^
+||www.sc.pages04.net^

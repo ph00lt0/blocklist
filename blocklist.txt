@@ -2736,3 +2736,4 @@
 ||affiliatetrackerapi.monotypeimaging.com^
 ||hm.baidu.com^
 ||res.wx.qq.com^
+||fn0wz54v.dayugslb.com^

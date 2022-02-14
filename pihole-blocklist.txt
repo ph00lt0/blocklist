@@ -2702,3 +2702,4 @@
 0.0.0.0 stats.kde.org
 0.0.0.0 bountysource.com
 0.0.0.0 www.bountysource.com
+0.0.0.0 cdn.connatix.com

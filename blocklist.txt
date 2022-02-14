@@ -2702,3 +2702,4 @@
 ||stats.kde.org^
 ||bountysource.com^
 ||www.bountysource.com^
+||cdn.connatix.com^

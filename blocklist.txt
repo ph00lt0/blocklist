@@ -2704,3 +2704,4 @@
 ||www.bountysource.com^
 ||cdn.connatix.com^
 ||izooto.com^
+||cdn.izooto.com^

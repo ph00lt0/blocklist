@@ -2766,3 +2766,4 @@
 0.0.0.0 marquiz.ru
 0.0.0.0 ad.gt
 0.0.0.0 a.ad.gt
+0.0.0.0 seg.ad.gt

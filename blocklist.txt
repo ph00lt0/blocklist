@@ -2766,3 +2766,4 @@
 ||marquiz.ru^
 ||ad.gt^
 ||a.ad.gt^
+||seg.ad.gt^

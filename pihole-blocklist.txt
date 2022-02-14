@@ -2760,3 +2760,4 @@
 0.0.0.0 i.spyier.com
 0.0.0.0 [A
 0.0.0.0 wallpapercave.com
+0.0.0.0 spyier.com

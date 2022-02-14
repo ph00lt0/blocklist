@@ -2748,3 +2748,4 @@
 ||www.cocospy.com^
 ||cocospy.com^
 ||spyic.com^
+||spyzie.io^

@@ -2723,3 +2723,4 @@
 ||anon-stats.eff.org^
 ||m.addthis.com^
 ||matomo.standardnotes.org^
+||cdn.usefathom.com^

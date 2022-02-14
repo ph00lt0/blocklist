@@ -2733,3 +2733,4 @@
 ||purr.nytimes.com^
 ||a1.nyt.com^
 ||genesis.malwarebytes.com^
+||affiliatetrackerapi.monotypeimaging.com^

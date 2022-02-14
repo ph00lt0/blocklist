@@ -2733,3 +2733,4 @@
 0.0.0.0 purr.nytimes.com
 0.0.0.0 a1.nyt.com
 0.0.0.0 genesis.malwarebytes.com
+0.0.0.0 affiliatetrackerapi.monotypeimaging.com

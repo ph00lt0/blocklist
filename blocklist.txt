@@ -2701,3 +2701,4 @@
 ||piwik.mailbox.org^
 ||stats.kde.org^
 ||bountysource.com^
+||www.bountysource.com^

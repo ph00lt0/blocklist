@@ -2770,3 +2770,4 @@
 ||primis.tech^
 ||live.primis.tech^
 ||aloofvest.com^
+||narrativ.com^

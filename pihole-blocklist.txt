@@ -2770,3 +2770,4 @@
 0.0.0.0 primis.tech
 0.0.0.0 live.primis.tech
 0.0.0.0 aloofvest.com
+0.0.0.0 narrativ.com

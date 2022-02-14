@@ -2711,3 +2711,4 @@
 0.0.0.0 feedback.developers.cloudflare.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 revampcdn.comrevampcdn.com
+0.0.0.0 revampcdn.com

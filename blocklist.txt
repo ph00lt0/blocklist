@@ -2711,3 +2711,4 @@
 ||feedback.developers.cloudflare.com^
 ||spn-v1.revampcdn.com^
 ||revampcdn.comrevampcdn.com^
+||revampcdn.com^

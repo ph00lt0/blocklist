@@ -2764,3 +2764,4 @@
 0.0.0.0 cdn.clear.link
 0.0.0.0 script.marquiz.ru
 0.0.0.0 marquiz.ru
+0.0.0.0 ad.gt

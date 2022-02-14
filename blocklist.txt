@@ -2764,3 +2764,4 @@
 ||cdn.clear.link^
 ||script.marquiz.ru^
 ||marquiz.ru^
+||ad.gt^

@@ -2712,3 +2712,4 @@
 ||spn-v1.revampcdn.com^
 ||revampcdn.comrevampcdn.com^
 ||revampcdn.com^
+||tics.techdirt.com^

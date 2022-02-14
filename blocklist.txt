@@ -2717,3 +2717,4 @@
 ||analytics.keepassxc.org^
 ||a.esaqa.com^
 ||analytics.write.as^
+||piwik.documentfoundation.org^

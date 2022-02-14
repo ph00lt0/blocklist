@@ -2780,3 +2780,4 @@
 ||koi-3qnkjfhgq6.marketingautomation.services^
 ||leadfamly.com^
 ||files.cdn.leadfamly.com^
+||sentry.bunq.com^

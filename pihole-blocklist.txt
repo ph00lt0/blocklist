@@ -2780,3 +2780,4 @@
 0.0.0.0 koi-3qnkjfhgq6.marketingautomation.services
 0.0.0.0 leadfamly.com
 0.0.0.0 files.cdn.leadfamly.com
+0.0.0.0 sentry.bunq.com

@@ -2735,3 +2735,4 @@
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 affiliatetrackerapi.monotypeimaging.com
 0.0.0.0 hm.baidu.com
+0.0.0.0 res.wx.qq.com

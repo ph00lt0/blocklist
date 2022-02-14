@@ -2735,3 +2735,4 @@
 ||genesis.malwarebytes.com^
 ||affiliatetrackerapi.monotypeimaging.com^
 ||hm.baidu.com^
+||res.wx.qq.com^

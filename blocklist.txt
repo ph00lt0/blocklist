@@ -2705,3 +2705,4 @@
 ||cdn.connatix.com^
 ||izooto.com^
 ||cdn.izooto.com^
+||embedmaker.com^

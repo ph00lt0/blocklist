@@ -2724,3 +2724,4 @@
 0.0.0.0 m.addthis.com
 0.0.0.0 matomo.standardnotes.org
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 scan.coverity.com

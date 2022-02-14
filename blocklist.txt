@@ -2724,3 +2724,4 @@
 ||m.addthis.com^
 ||matomo.standardnotes.org^
 ||cdn.usefathom.com^
+||scan.coverity.com^

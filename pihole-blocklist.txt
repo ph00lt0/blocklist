@@ -2739,3 +2739,4 @@
 0.0.0.0 fn0wz54v.dayugslb.com
 0.0.0.0 dayugslb.com
 0.0.0.0 at.alicdn.com
+0.0.0.0 alicdn.com

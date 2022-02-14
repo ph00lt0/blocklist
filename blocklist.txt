@@ -2725,3 +2725,4 @@
 ||matomo.standardnotes.org^
 ||cdn.usefathom.com^
 ||scan.coverity.com^
+||lmiutil.com^

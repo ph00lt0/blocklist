@@ -2718,3 +2718,4 @@
 ||a.esaqa.com^
 ||analytics.write.as^
 ||piwik.documentfoundation.org^
+||analytics.freetubeapp.io^

@@ -2737,3 +2737,4 @@
 ||hm.baidu.com^
 ||res.wx.qq.com^
 ||fn0wz54v.dayugslb.com^
+||dayugslb.com^

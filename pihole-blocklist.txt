@@ -2737,3 +2737,4 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 res.wx.qq.com
 0.0.0.0 fn0wz54v.dayugslb.com
+0.0.0.0 dayugslb.com

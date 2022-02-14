@@ -2708,3 +2708,4 @@
 0.0.0.0 embedmaker.com
 0.0.0.0 widget.cloudpayments.ru
 0.0.0.0 cdn.paddle.com
+0.0.0.0 feedback.developers.cloudflare.com

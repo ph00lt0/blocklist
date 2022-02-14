@@ -2759,3 +2759,4 @@
 ||i.minspy.com^
 ||i.spyier.com^
 ||[A^
+||wallpapercave.com^

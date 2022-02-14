@@ -2747,3 +2747,4 @@
 ||i.cocospy.com^
 ||www.cocospy.com^
 ||cocospy.com^
+||spyic.com^

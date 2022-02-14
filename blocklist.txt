@@ -2753,3 +2753,4 @@
 ||flexispy.com^
 ||www.flexispy.com^
 ||reviews-widget.mspy.com^
+||mspy.com^

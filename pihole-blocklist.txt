@@ -2753,3 +2753,4 @@
 0.0.0.0 flexispy.com
 0.0.0.0 www.flexispy.com
 0.0.0.0 reviews-widget.mspy.com
+0.0.0.0 mspy.com

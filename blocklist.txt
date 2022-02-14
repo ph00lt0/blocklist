@@ -2767,3 +2767,4 @@
 ||ad.gt^
 ||a.ad.gt^
 ||seg.ad.gt^
+||primis.tech^

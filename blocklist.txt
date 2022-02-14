@@ -2752,3 +2752,4 @@
 ||i.spyzie.io^
 ||flexispy.com^
 ||www.flexispy.com^
+||reviews-widget.mspy.com^

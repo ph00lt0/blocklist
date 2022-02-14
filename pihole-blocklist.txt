@@ -2720,3 +2720,4 @@
 0.0.0.0 piwik.documentfoundation.org
 0.0.0.0 analytics.freetubeapp.io
 0.0.0.0 analytics.lbry.com
+0.0.0.0 anon-stats.eff.org

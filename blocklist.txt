@@ -2720,3 +2720,4 @@
 ||piwik.documentfoundation.org^
 ||analytics.freetubeapp.io^
 ||analytics.lbry.com^
+||anon-stats.eff.org^

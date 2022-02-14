@@ -2719,3 +2719,4 @@
 0.0.0.0 analytics.write.as
 0.0.0.0 piwik.documentfoundation.org
 0.0.0.0 analytics.freetubeapp.io
+0.0.0.0 analytics.lbry.com

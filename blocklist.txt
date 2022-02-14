@@ -2719,3 +2719,4 @@
 ||analytics.write.as^
 ||piwik.documentfoundation.org^
 ||analytics.freetubeapp.io^
+||analytics.lbry.com^

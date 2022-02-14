@@ -2774,3 +2774,4 @@
 ||static.narrativ.com^
 ||f.kinja-static.com^
 ||hbx.media.net^
+||sciencex.com^

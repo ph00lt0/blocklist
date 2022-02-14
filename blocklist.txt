@@ -2707,3 +2707,4 @@
 ||cdn.izooto.com^
 ||embedmaker.com^
 ||widget.cloudpayments.ru^
+||cdn.paddle.com^

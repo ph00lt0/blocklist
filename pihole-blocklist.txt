@@ -2707,3 +2707,4 @@
 0.0.0.0 cdn.izooto.com
 0.0.0.0 embedmaker.com
 0.0.0.0 widget.cloudpayments.ru
+0.0.0.0 cdn.paddle.com

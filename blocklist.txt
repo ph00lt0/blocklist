@@ -2709,3 +2709,4 @@
 ||widget.cloudpayments.ru^
 ||cdn.paddle.com^
 ||feedback.developers.cloudflare.com^
+||spn-v1.revampcdn.com^

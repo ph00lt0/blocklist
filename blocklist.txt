@@ -2751,3 +2751,4 @@
 ||spyzie.io^
 ||i.spyzie.io^
 ||flexispy.com^
+||www.flexispy.com^

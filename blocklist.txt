@@ -2749,3 +2749,4 @@
 ||cocospy.com^
 ||spyic.com^
 ||spyzie.io^
+||i.spyzie.io^

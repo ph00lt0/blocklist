@@ -2776,3 +2776,4 @@
 ||hbx.media.net^
 ||sciencex.com^
 ||js.trendmd.com^
+||trendmd.com^

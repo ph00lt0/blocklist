@@ -2773,3 +2773,4 @@
 ||narrativ.com^
 ||static.narrativ.com^
 ||f.kinja-static.com^
+||hbx.media.net^

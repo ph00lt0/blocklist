@@ -2773,3 +2773,4 @@
 0.0.0.0 narrativ.com
 0.0.0.0 static.narrativ.com
 0.0.0.0 f.kinja-static.com
+0.0.0.0 hbx.media.net

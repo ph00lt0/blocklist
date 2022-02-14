@@ -2756,3 +2756,4 @@
 0.0.0.0 mspy.com
 0.0.0.0 www.mspy.com
 0.0.0.0 minspy.com
+0.0.0.0 i.minspy.com

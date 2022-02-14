@@ -2765,3 +2765,4 @@
 ||script.marquiz.ru^
 ||marquiz.ru^
 ||ad.gt^
+||a.ad.gt^

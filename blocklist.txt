@@ -2750,3 +2750,4 @@
 ||spyic.com^
 ||spyzie.io^
 ||i.spyzie.io^
+||flexispy.com^

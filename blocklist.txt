@@ -2713,3 +2713,4 @@
 ||revampcdn.comrevampcdn.com^
 ||revampcdn.com^
 ||tics.techdirt.com^
+||tomo.techdirt.com^

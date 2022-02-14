@@ -2781,3 +2781,4 @@
 0.0.0.0 leadfamly.com
 0.0.0.0 files.cdn.leadfamly.com
 0.0.0.0 sentry.bunq.com
+0.0.0.0 cdn.segment.com

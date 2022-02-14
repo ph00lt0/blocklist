@@ -2781,3 +2781,4 @@
 ||leadfamly.com^
 ||files.cdn.leadfamly.com^
 ||sentry.bunq.com^
+||cdn.segment.com^

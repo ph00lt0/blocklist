@@ -2706,3 +2706,4 @@
 ||izooto.com^
 ||cdn.izooto.com^
 ||embedmaker.com^
+||widget.cloudpayments.ru^

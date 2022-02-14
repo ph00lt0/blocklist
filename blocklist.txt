@@ -2700,3 +2700,4 @@
 ||exponential.com^
 ||piwik.mailbox.org^
 ||stats.kde.org^
+||bountysource.com^

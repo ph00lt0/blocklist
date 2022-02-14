@@ -2732,3 +2732,4 @@
 ||dw26xg4lubooo.cloudfront.net^
 ||purr.nytimes.com^
 ||a1.nyt.com^
+||genesis.malwarebytes.com^

@@ -2775,3 +2775,4 @@
 0.0.0.0 f.kinja-static.com
 0.0.0.0 hbx.media.net
 0.0.0.0 sciencex.com
+0.0.0.0 js.trendmd.com

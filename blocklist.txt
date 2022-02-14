@@ -2775,3 +2775,4 @@
 ||f.kinja-static.com^
 ||hbx.media.net^
 ||sciencex.com^
+||js.trendmd.com^

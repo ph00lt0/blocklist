@@ -2714,3 +2714,4 @@
 0.0.0.0 revampcdn.com
 0.0.0.0 tics.techdirt.com
 0.0.0.0 tomo.techdirt.com
+0.0.0.0 analytics.keepassxc.org

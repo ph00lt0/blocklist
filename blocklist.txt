@@ -2714,3 +2714,4 @@
 ||revampcdn.com^
 ||tics.techdirt.com^
 ||tomo.techdirt.com^
+||analytics.keepassxc.org^

@@ -2757,3 +2757,4 @@
 ||www.mspy.com^
 ||minspy.com^
 ||i.minspy.com^
+||i.spyier.com^

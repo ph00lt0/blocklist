@@ -2730,3 +2730,4 @@
 ||pages04.net^
 ||www.sc.pages04.net^
 ||dw26xg4lubooo.cloudfront.net^
+||purr.nytimes.com^

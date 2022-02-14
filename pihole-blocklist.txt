@@ -2721,3 +2721,4 @@
 0.0.0.0 analytics.freetubeapp.io
 0.0.0.0 analytics.lbry.com
 0.0.0.0 anon-stats.eff.org
+0.0.0.0 m.addthis.com

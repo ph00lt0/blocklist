@@ -2721,3 +2721,4 @@
 ||analytics.freetubeapp.io^
 ||analytics.lbry.com^
 ||anon-stats.eff.org^
+||m.addthis.com^

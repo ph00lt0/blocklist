@@ -2762,3 +2762,4 @@
 ||spyier.com^
 ||clear.link^
 ||cdn.clear.link^
+||script.marquiz.ru^

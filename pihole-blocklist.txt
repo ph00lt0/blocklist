@@ -2762,3 +2762,4 @@
 0.0.0.0 spyier.com
 0.0.0.0 clear.link
 0.0.0.0 cdn.clear.link
+0.0.0.0 script.marquiz.ru

@@ -2731,3 +2731,4 @@
 ||www.sc.pages04.net^
 ||dw26xg4lubooo.cloudfront.net^
 ||purr.nytimes.com^
+||a1.nyt.com^

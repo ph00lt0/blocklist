@@ -2768,3 +2768,4 @@
 ||a.ad.gt^
 ||seg.ad.gt^
 ||primis.tech^
+||live.primis.tech^

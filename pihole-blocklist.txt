@@ -2801,3 +2801,4 @@
 0.0.0.0 dynatrace.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 jscrambler.com
+0.0.0.0 klm-ea.jscrambler.com

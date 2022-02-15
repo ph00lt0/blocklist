@@ -2801,3 +2801,4 @@
 ||dynatrace.com^
 ||js-cdn.dynatrace.com^
 ||jscrambler.com^
+||klm-ea.jscrambler.com^

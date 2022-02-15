@@ -2851,3 +2851,4 @@
 ||webstats.etf.europa.eu^
 ||piwik.osha.europa.eu^
 ||stats.euipo.europa.eu^
+||gcvm.iss.europa.eu^

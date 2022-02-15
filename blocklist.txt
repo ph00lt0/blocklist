@@ -2831,3 +2831,4 @@
 ||botframework.com^
 ||cdn.botframework.com^
 ||twitcker.com^
+||cpvo.gestmax.eu^

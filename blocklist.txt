@@ -2785,3 +2785,4 @@
 ||downloads.mailchimp.com^
 ||pixfuture.com^
 ||served-by.pixfuture.com^
+||analytics.infomaniak.com^

@@ -2799,3 +2799,4 @@
 ||builder.lift.acquia.com^
 ||csp-reporting.cloudflare.com^
 ||dynatrace.com^
+||js-cdn.dynatrace.com^

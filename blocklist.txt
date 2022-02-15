@@ -2833,3 +2833,4 @@
 ||twitcker.com^
 ||cpvo.gestmax.eu^
 ||gestmax.eu^
+||webstats.cpvo.europa.eu^

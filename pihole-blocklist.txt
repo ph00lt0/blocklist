@@ -2842,3 +2842,4 @@
 0.0.0.0 matomo.eea.europa.eu
 0.0.0.0 t.flickr.com
 0.0.0.0 siftscience.com
+0.0.0.0 cdn.siftscience.com

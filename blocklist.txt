@@ -2814,3 +2814,4 @@
 ||linkwi.se^
 ||go.linkwi.se^
 ||riskified.com^
+||beacon.riskified.com^

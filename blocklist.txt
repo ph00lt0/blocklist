@@ -2817,3 +2817,4 @@
 ||beacon.riskified.com^
 ||loglady.skypicker.com^
 ||forter.com^
+||078d9f6a6dc1.cdn4.forter.com^

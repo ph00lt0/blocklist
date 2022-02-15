@@ -2794,3 +2794,4 @@
 0.0.0.0 wzuk.blob.core.windows.net
 0.0.0.0 csp.myfonts.com
 0.0.0.0 site24x7rum.com
+0.0.0.0 static.site24x7rum.com

@@ -2794,3 +2794,4 @@
 ||wzuk.blob.core.windows.net^
 ||csp.myfonts.com^
 ||site24x7rum.com^
+||static.site24x7rum.com^

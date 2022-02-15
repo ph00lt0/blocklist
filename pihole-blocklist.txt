@@ -2815,3 +2815,4 @@
 0.0.0.0 go.linkwi.se
 0.0.0.0 riskified.com
 0.0.0.0 beacon.riskified.com
+0.0.0.0 loglady.skypicker.com

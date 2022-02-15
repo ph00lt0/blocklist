@@ -2815,3 +2815,4 @@
 ||go.linkwi.se^
 ||riskified.com^
 ||beacon.riskified.com^
+||loglady.skypicker.com^

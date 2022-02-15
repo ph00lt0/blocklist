@@ -2810,3 +2810,4 @@
 0.0.0.0 banners.vliegtickets.nl
 0.0.0.0 logg.kiwi.com
 0.0.0.0 getsmartlook.com
+0.0.0.0 rec.getsmartlook.com

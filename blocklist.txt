@@ -2810,3 +2810,4 @@
 ||banners.vliegtickets.nl^
 ||logg.kiwi.com^
 ||getsmartlook.com^
+||rec.getsmartlook.com^

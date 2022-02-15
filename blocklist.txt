@@ -2824,3 +2824,4 @@
 ||check-phone.kiwi.com^
 ||boxever.com^
 ||api.boxever.com^
+||stats.waag.org^

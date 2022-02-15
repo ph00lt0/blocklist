@@ -2809,3 +2809,4 @@
 ||cdn.trackjs.com^
 ||banners.vliegtickets.nl^
 ||logg.kiwi.com^
+||getsmartlook.com^

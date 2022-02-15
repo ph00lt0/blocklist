@@ -2804,3 +2804,4 @@
 0.0.0.0 klm-ea.jscrambler.com
 0.0.0.0 hermes.travix.com
 0.0.0.0 d1ufw0nild2mi8.cloudfront.net
+0.0.0.0 stats.g.doubleclick.net

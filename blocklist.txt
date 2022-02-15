@@ -2802,3 +2802,4 @@
 ||js-cdn.dynatrace.com^
 ||jscrambler.com^
 ||klm-ea.jscrambler.com^
+||hermes.travix.com^

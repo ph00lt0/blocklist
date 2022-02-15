@@ -2811,3 +2811,4 @@
 ||logg.kiwi.com^
 ||getsmartlook.com^
 ||rec.getsmartlook.com^
+||linkwi.se^

@@ -2811,3 +2811,4 @@
 0.0.0.0 logg.kiwi.com
 0.0.0.0 getsmartlook.com
 0.0.0.0 rec.getsmartlook.com
+0.0.0.0 linkwi.se

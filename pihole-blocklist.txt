@@ -2853,3 +2853,4 @@
 0.0.0.0 stats.euipo.europa.eu
 0.0.0.0 gcvm.iss.europa.eu
 0.0.0.0 cdn.decibelinsight.net
+0.0.0.0 lens.frontex.europa.eu

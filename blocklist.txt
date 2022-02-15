@@ -2853,3 +2853,4 @@
 ||stats.euipo.europa.eu^
 ||gcvm.iss.europa.eu^
 ||cdn.decibelinsight.net^
+||lens.frontex.europa.eu^

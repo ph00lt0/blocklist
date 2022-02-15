@@ -2790,3 +2790,4 @@
 ||tracker.gaconnector.com^
 ||gaconnector.com^
 ||cdn.bizible.com^
+||localize.uat.mywebsitebuilder.com^

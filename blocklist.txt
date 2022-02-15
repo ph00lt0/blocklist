@@ -2796,3 +2796,4 @@
 ||site24x7rum.com^
 ||static.site24x7rum.com^
 ||acquia.com^
+||builder.lift.acquia.com^

@@ -2788,3 +2788,4 @@
 ||analytics.infomaniak.com^
 ||promotional.storage.infomaniak.com^
 ||tracker.gaconnector.com^
+||gaconnector.com^

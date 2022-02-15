@@ -2788,3 +2788,4 @@
 0.0.0.0 analytics.infomaniak.com
 0.0.0.0 promotional.storage.infomaniak.com
 0.0.0.0 tracker.gaconnector.com
+0.0.0.0 gaconnector.com

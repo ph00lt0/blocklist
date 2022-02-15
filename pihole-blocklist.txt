@@ -2837,3 +2837,4 @@
 0.0.0.0 webtools.ec.europa.eu
 0.0.0.0 compell.io
 0.0.0.0 ebsi.compell.io
+0.0.0.0 licensing.theoplayer.com

@@ -2837,3 +2837,4 @@
 ||webtools.ec.europa.eu^
 ||compell.io^
 ||ebsi.compell.io^
+||licensing.theoplayer.com^

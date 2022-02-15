@@ -2807,3 +2807,4 @@
 ||stats.g.doubleclick.net^
 ||trackjs.com^
 ||cdn.trackjs.com^
+||banners.vliegtickets.nl^

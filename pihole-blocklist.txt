@@ -2807,3 +2807,4 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 trackjs.com
 0.0.0.0 cdn.trackjs.com
+0.0.0.0 banners.vliegtickets.nl

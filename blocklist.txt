@@ -2791,3 +2791,4 @@
 ||gaconnector.com^
 ||cdn.bizible.com^
 ||localize.uat.mywebsitebuilder.com^
+||wzuk.blob.core.windows.net^

@@ -2828,3 +2828,4 @@
 0.0.0.0 analytics.enisa.europa.eu
 0.0.0.0 rsms.me
 0.0.0.0 opanalytics.containers.piwik.pro
+0.0.0.0 botframework.com

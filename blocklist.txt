@@ -2828,3 +2828,4 @@
 ||analytics.enisa.europa.eu^
 ||rsms.me^
 ||opanalytics.containers.piwik.pro^
+||botframework.com^

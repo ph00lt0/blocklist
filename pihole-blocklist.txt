@@ -2798,3 +2798,4 @@
 0.0.0.0 acquia.com
 0.0.0.0 builder.lift.acquia.com
 0.0.0.0 csp-reporting.cloudflare.com
+0.0.0.0 dynatrace.com

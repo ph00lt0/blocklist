@@ -2798,3 +2798,4 @@
 ||acquia.com^
 ||builder.lift.acquia.com^
 ||csp-reporting.cloudflare.com^
+||dynatrace.com^

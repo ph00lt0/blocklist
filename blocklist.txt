@@ -2808,3 +2808,4 @@
 ||trackjs.com^
 ||cdn.trackjs.com^
 ||banners.vliegtickets.nl^
+||logg.kiwi.com^

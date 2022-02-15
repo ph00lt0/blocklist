@@ -2808,3 +2808,4 @@
 0.0.0.0 trackjs.com
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 banners.vliegtickets.nl
+0.0.0.0 logg.kiwi.com

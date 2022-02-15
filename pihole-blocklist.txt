@@ -2792,3 +2792,4 @@
 0.0.0.0 cdn.bizible.com
 0.0.0.0 localize.uat.mywebsitebuilder.com
 0.0.0.0 wzuk.blob.core.windows.net
+0.0.0.0 csp.myfonts.com

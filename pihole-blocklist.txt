@@ -2826,3 +2826,4 @@
 0.0.0.0 api.boxever.com
 0.0.0.0 stats.waag.org
 0.0.0.0 analytics.enisa.europa.eu
+0.0.0.0 rsms.me

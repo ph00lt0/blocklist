@@ -2783,3 +2783,4 @@
 ||sentry.bunq.com^
 ||cdn.segment.com^
 ||downloads.mailchimp.com^
+||pixfuture.com^

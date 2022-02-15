@@ -2857,3 +2857,4 @@
 ||logs1409.xiti.com^
 ||matomo.nerio.tech^
 ||piwik1.cdt.europa.eu^
+||share.america.gov^

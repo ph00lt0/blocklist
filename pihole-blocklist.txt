@@ -2819,3 +2819,4 @@
 0.0.0.0 forter.com
 0.0.0.0 078d9f6a6dc1.cdn4.forter.com
 0.0.0.0 infinario.com
+0.0.0.0 skypicker-api.infinario.com

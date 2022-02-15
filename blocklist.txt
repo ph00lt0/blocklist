@@ -2789,3 +2789,4 @@
 ||promotional.storage.infomaniak.com^
 ||tracker.gaconnector.com^
 ||gaconnector.com^
+||cdn.bizible.com^

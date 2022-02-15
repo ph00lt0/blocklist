@@ -2858,3 +2858,4 @@
 ||matomo.nerio.tech^
 ||piwik1.cdt.europa.eu^
 ||share.america.gov^
+||dap.digitalgov.gov^

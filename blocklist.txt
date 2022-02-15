@@ -2797,3 +2797,4 @@
 ||static.site24x7rum.com^
 ||acquia.com^
 ||builder.lift.acquia.com^
+||csp-reporting.cloudflare.com^

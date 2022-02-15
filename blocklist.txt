@@ -2835,3 +2835,4 @@
 ||gestmax.eu^
 ||webstats.cpvo.europa.eu^
 ||webtools.ec.europa.eu^
+||compell.io^

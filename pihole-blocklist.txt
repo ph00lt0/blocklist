@@ -2835,3 +2835,4 @@
 0.0.0.0 gestmax.eu
 0.0.0.0 webstats.cpvo.europa.eu
 0.0.0.0 webtools.ec.europa.eu
+0.0.0.0 compell.io

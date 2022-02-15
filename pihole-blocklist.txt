@@ -2786,3 +2786,4 @@
 0.0.0.0 pixfuture.com
 0.0.0.0 served-by.pixfuture.com
 0.0.0.0 analytics.infomaniak.com
+0.0.0.0 promotional.storage.infomaniak.com

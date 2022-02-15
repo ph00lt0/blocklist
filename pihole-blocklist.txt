@@ -2839,3 +2839,4 @@
 0.0.0.0 ebsi.compell.io
 0.0.0.0 licensing.theoplayer.com
 0.0.0.0 license.theoplayer.com
+0.0.0.0 matomo.eea.europa.eu

@@ -2839,3 +2839,4 @@
 ||ebsi.compell.io^
 ||licensing.theoplayer.com^
 ||license.theoplayer.com^
+||matomo.eea.europa.eu^

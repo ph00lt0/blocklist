@@ -2838,3 +2838,4 @@
 ||compell.io^
 ||ebsi.compell.io^
 ||licensing.theoplayer.com^
+||license.theoplayer.com^

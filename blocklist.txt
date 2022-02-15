@@ -2782,3 +2782,4 @@
 ||files.cdn.leadfamly.com^
 ||sentry.bunq.com^
 ||cdn.segment.com^
+||downloads.mailchimp.com^

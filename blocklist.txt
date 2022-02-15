@@ -2823,3 +2823,4 @@
 ||d35u1vg1q28b3w.cloudfront.net^
 ||check-phone.kiwi.com^
 ||boxever.com^
+||api.boxever.com^

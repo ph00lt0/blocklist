@@ -2823,3 +2823,4 @@
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 check-phone.kiwi.com
 0.0.0.0 boxever.com
+0.0.0.0 api.boxever.com

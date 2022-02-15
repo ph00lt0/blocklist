@@ -2848,3 +2848,4 @@
 0.0.0.0 matomo.efca.europa.eu
 0.0.0.0 efsa.containers.piwik.pro
 0.0.0.0 webytics.era.europa.eu
+0.0.0.0 webstats.etf.europa.eu

@@ -2848,3 +2848,4 @@
 ||matomo.efca.europa.eu^
 ||efsa.containers.piwik.pro^
 ||webytics.era.europa.eu^
+||webstats.etf.europa.eu^

@@ -2844,3 +2844,4 @@
 ||siftscience.com^
 ||cdn.siftscience.com^
 ||licensebuttons.net^
+||webstats.eesc.europa.eu^

@@ -2812,3 +2812,4 @@
 0.0.0.0 getsmartlook.com
 0.0.0.0 rec.getsmartlook.com
 0.0.0.0 linkwi.se
+0.0.0.0 go.linkwi.se

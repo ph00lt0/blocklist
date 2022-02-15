@@ -2829,3 +2829,4 @@
 0.0.0.0 rsms.me
 0.0.0.0 opanalytics.containers.piwik.pro
 0.0.0.0 botframework.com
+0.0.0.0 cdn.botframework.com

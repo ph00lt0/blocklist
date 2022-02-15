@@ -2829,3 +2829,4 @@
 ||rsms.me^
 ||opanalytics.containers.piwik.pro^
 ||botframework.com^
+||cdn.botframework.com^

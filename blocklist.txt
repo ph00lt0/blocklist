@@ -2787,3 +2787,4 @@
 ||served-by.pixfuture.com^
 ||analytics.infomaniak.com^
 ||promotional.storage.infomaniak.com^
+||tracker.gaconnector.com^

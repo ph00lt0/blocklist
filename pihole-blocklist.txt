@@ -2784,3 +2784,4 @@
 0.0.0.0 cdn.segment.com
 0.0.0.0 downloads.mailchimp.com
 0.0.0.0 pixfuture.com
+0.0.0.0 served-by.pixfuture.com

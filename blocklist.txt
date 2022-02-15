@@ -2852,3 +2852,4 @@
 ||piwik.osha.europa.eu^
 ||stats.euipo.europa.eu^
 ||gcvm.iss.europa.eu^
+||cdn.decibelinsight.net^

@@ -2845,3 +2845,4 @@
 ||cdn.siftscience.com^
 ||licensebuttons.net^
 ||webstats.eesc.europa.eu^
+||matomo.efca.europa.eu^

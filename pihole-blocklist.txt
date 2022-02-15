@@ -2845,3 +2845,4 @@
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 licensebuttons.net
 0.0.0.0 webstats.eesc.europa.eu
+0.0.0.0 matomo.efca.europa.eu

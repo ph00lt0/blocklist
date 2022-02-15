@@ -2800,3 +2800,4 @@
 ||csp-reporting.cloudflare.com^
 ||dynatrace.com^
 ||js-cdn.dynatrace.com^
+||jscrambler.com^

@@ -2850,3 +2850,4 @@
 ||webytics.era.europa.eu^
 ||webstats.etf.europa.eu^
 ||piwik.osha.europa.eu^
+||stats.euipo.europa.eu^

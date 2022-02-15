@@ -2850,3 +2850,4 @@
 0.0.0.0 webytics.era.europa.eu
 0.0.0.0 webstats.etf.europa.eu
 0.0.0.0 piwik.osha.europa.eu
+0.0.0.0 stats.euipo.europa.eu

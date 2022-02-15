@@ -2820,3 +2820,4 @@
 ||078d9f6a6dc1.cdn4.forter.com^
 ||infinario.com^
 ||skypicker-api.infinario.com^
+||d35u1vg1q28b3w.cloudfront.net^

@@ -2818,3 +2818,4 @@
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 forter.com
 0.0.0.0 078d9f6a6dc1.cdn4.forter.com
+0.0.0.0 infinario.com

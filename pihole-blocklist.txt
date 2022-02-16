@@ -244,7 +244,7 @@
 0.0.0.0 help.apple.com
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 icloud-content.com
-0.0.0.0 me.com
+! allow me.com reason: Required for icloud
 0.0.0.0 apple-cloudkit.com
 0.0.0.0 valid.apple.com
 0.0.0.0 gateway.icloud.com

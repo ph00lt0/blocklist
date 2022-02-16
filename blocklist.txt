@@ -235,7 +235,7 @@
 ||apple.co^
 ||aaplimg.com^'
 ||weather-analytics-events.apple.com^
-||apple.comscoreresearch.com^
+||apple.comscoreresear ch.com^
 ||news-edge.apple.com^
 ||news-events.apple.com^
 ||apple.news^
@@ -247,7 +247,7 @@
 ||me.com^
 ||apple-cloudkit.com^
 ||valid.apple.com^
-||gateway.icloud.com^
+||gateway.icloud.com
 ||sonos-music.apple.com^
 ||pancake.apple.com^
 ||ess.apple.com^
@@ -2859,3 +2859,4 @@
 ||piwik1.cdt.europa.eu^
 ||share.america.gov^
 ||dap.digitalgov.gov^
+||trmobc.com^

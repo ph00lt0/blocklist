@@ -2862,3 +2862,4 @@
 ||secure-chatsystem.com^
 ||goodworld.me^
 ||widget.zola.com^
+||bbox.blackbaudhosting.com^

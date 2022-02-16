@@ -2862,3 +2862,4 @@
 0.0.0.0 secure-chatsystem.com
 0.0.0.0 goodworld.me
 0.0.0.0 widget.zola.com
+0.0.0.0 bbox.blackbaudhosting.com

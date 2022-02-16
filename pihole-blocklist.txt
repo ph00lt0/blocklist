@@ -229,8 +229,8 @@
 0.0.0.0 createpdf.acrobat.com
 0.0.0.0 adobe.io
 0.0.0.0 genuine.adobe.com
-0.0.0.0 itunes.com
-0.0.0.0 itunes.apple.com
+! allow itunes.com reason: Required for app store and apple music
+! allow itunes.apple.com reason: Required for app store and apple music
 @@0.0.0.0 downloaddispatch.itunes.apple.com
 0.0.0.0 apple.co
 0.0.0.0 aaplimg.com'
@@ -244,7 +244,7 @@
 0.0.0.0 help.apple.com
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 icloud-content.com
-0.0.0.0 me.com
+! allow me.com reason: Required for icloud
 0.0.0.0 apple-cloudkit.com
 0.0.0.0 valid.apple.com
 0.0.0.0 gateway.icloud.com
@@ -2686,7 +2686,7 @@
 0.0.0.0 static.ada.support
 0.0.0.0 ada.support
 0.0.0.0 data.guides.mailchimp.com
-0.0.0.0 d2y36twrtb17ty.cloudfront.net
+! allow d2y36twrtb17ty.cloudfront.net reason: Panopto doesn't load without session tracker.
 0.0.0.0 colissimo.fr
 0.0.0.0 ws.colissimo.fr
 0.0.0.0 iframe.ly
@@ -2860,3 +2860,16 @@
 0.0.0.0 share.america.gov
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 trmobc.com
+0.0.0.0 secure-chatsystem.com
+0.0.0.0 goodworld.me
+0.0.0.0 widget.zola.com
+0.0.0.0 bbox.blackbaudhosting.com
+0.0.0.0 d2vig74li2resi.cloudfront.net
+0.0.0.0 a.storyblok.com
+0.0.0.0 fonts.storage.infomaniak.com
+0.0.0.0 safetracing.infomaniak.com
+0.0.0.0 adblock.ee  # Installs cookies and is not being updated.
+0.0.0.0 ct.sendgrid.com
+0.0.0.0 embedmaps.com
+0.0.0.0 email.designmynight.com
+0.0.0.0 ttf.trmobc.com

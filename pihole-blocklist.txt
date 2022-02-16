@@ -2866,3 +2866,4 @@
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 a.storyblok.com
 0.0.0.0 fonts.storage.infomaniak.com
+0.0.0.0 safetracing.infomaniak.com

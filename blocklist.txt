@@ -2866,3 +2866,4 @@
 ||d2vig74li2resi.cloudfront.net^
 ||a.storyblok.com^
 ||fonts.storage.infomaniak.com^
+||safetracing.infomaniak.com^

@@ -2868,3 +2868,4 @@
 ||fonts.storage.infomaniak.com^
 ||safetracing.infomaniak.com^
 ||adblock.ee^  # Installs cookies and is not being updated.
+||ct.sendgrid.com^

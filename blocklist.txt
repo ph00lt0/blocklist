@@ -2860,3 +2860,4 @@
 ||share.america.gov^
 ||dap.digitalgov.gov^
 ||secure-chatsystem.com^
+||goodworld.me^

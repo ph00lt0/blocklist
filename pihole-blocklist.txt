@@ -2863,3 +2863,4 @@
 0.0.0.0 goodworld.me
 0.0.0.0 widget.zola.com
 0.0.0.0 bbox.blackbaudhosting.com
+0.0.0.0 d2vig74li2resi.cloudfront.net

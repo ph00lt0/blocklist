@@ -2870,3 +2870,4 @@
 0.0.0.0 adblock.ee  # Installs cookies and is not being updated.
 0.0.0.0 ct.sendgrid.com
 0.0.0.0 embedmaps.com
+0.0.0.0 email.designmynight.com

@@ -2867,3 +2867,4 @@
 0.0.0.0 a.storyblok.com
 0.0.0.0 fonts.storage.infomaniak.com
 0.0.0.0 safetracing.infomaniak.com
+0.0.0.0 adblock.ee

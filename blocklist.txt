@@ -2867,3 +2867,4 @@
 ||a.storyblok.com^
 ||fonts.storage.infomaniak.com^
 ||safetracing.infomaniak.com^
+||adblock.ee^

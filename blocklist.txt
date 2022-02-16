@@ -229,7 +229,7 @@
 ||createpdf.acrobat.com^
 ||adobe.io^
 ||genuine.adobe.com^
-||itunes.com^
+@@||itunes.com^  # Required for app store and apple music
 ||itunes.apple.com^
 @@||downloaddispatch.itunes.apple.com^
 ||apple.co^

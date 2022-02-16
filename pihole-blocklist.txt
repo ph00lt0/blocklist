@@ -2686,7 +2686,7 @@
 0.0.0.0 static.ada.support
 0.0.0.0 ada.support
 0.0.0.0 data.guides.mailchimp.com
-0.0.0.0 d2y36twrtb17ty.cloudfront.net
+! allow d2y36twrtb17ty.cloudfront.net reason: Panopto doesn't load without session tracker.
 0.0.0.0 colissimo.fr
 0.0.0.0 ws.colissimo.fr
 0.0.0.0 iframe.ly

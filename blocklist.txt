@@ -2686,7 +2686,7 @@
 ||static.ada.support^
 ||ada.support^
 ||data.guides.mailchimp.com^
-||d2y36twrtb17ty.cloudfront.net^
+@@||d2y36twrtb17ty.cloudfront.net^  # Panopto doesn't load without session tracker.
 ||colissimo.fr^
 ||ws.colissimo.fr^
 ||iframe.ly^

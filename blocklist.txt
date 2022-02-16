@@ -2859,3 +2859,4 @@
 ||piwik1.cdt.europa.eu^
 ||share.america.gov^
 ||dap.digitalgov.gov^
+||secure-chatsystem.com^

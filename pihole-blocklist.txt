@@ -2861,3 +2861,4 @@
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 secure-chatsystem.com
 0.0.0.0 goodworld.me
+0.0.0.0 widget.zola.com

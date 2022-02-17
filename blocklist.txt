@@ -2881,3 +2881,4 @@
 ||explore.zoom.us^
 ||wootric.com^
 ||cdn.wootric.com^
+||fpc.msedge.net^

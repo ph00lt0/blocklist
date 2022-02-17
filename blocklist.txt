@@ -2874,3 +2874,4 @@
 ||email.designmynight.com^
 ||ttf.trmobc.com^
 ||callstats.io^
+||collector.callstats.io^

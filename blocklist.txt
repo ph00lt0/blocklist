@@ -2883,3 +2883,4 @@
 ||cdn.wootric.com^
 ||fpc.msedge.net^
 ||demandbase.com^
+||api.demandbase.com^

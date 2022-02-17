@@ -2884,3 +2884,4 @@
 ||fpc.msedge.net^
 ||demandbase.com^
 ||api.demandbase.com^
+||wooshk.com^

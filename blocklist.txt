@@ -2882,3 +2882,4 @@
 ||wootric.com^
 ||cdn.wootric.com^
 ||fpc.msedge.net^
+||demandbase.com^

@@ -2876,3 +2876,4 @@
 ||callstats.io^
 ||collector.callstats.io^
 ||auth.callstats.io^
+||cdn.pendo.io^

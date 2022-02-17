@@ -2880,3 +2880,4 @@
 ||data.pendo.io^
 ||explore.zoom.us^
 ||wootric.com^
+||cdn.wootric.com^

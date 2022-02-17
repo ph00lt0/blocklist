@@ -2880,3 +2880,4 @@
 0.0.0.0 data.pendo.io
 0.0.0.0 explore.zoom.us
 0.0.0.0 wootric.com
+0.0.0.0 cdn.wootric.com

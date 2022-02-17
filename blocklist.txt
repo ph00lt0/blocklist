@@ -2875,3 +2875,4 @@
 ||ttf.trmobc.com^
 ||callstats.io^
 ||collector.callstats.io^
+||auth.callstats.io^

@@ -2878,3 +2878,4 @@
 ||auth.callstats.io^
 ||cdn.pendo.io^
 ||data.pendo.io^
+||explore.zoom.us^

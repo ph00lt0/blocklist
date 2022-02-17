@@ -2878,3 +2878,4 @@
 0.0.0.0 auth.callstats.io
 0.0.0.0 cdn.pendo.io
 0.0.0.0 data.pendo.io
+0.0.0.0 explore.zoom.us

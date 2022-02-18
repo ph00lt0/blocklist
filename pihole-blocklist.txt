@@ -2976,3 +2976,4 @@
 0.0.0.0 getclicky.com$
 0.0.0.0 bidvertiser.com
 0.0.0.0 afilo.pl
+0.0.0.0 www-analytics.esa.int

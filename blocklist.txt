@@ -2976,3 +2976,4 @@
 ||getclicky.com$^
 ||bidvertiser.com^
 ||afilo.pl^
+||www-analytics.esa.int^

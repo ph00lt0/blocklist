@@ -2946,3 +2946,4 @@
 0.0.0.0 clearbit.com
 0.0.0.0 ubembed.com
 0.0.0.0 hubspot-forms-static-embed.s3.amazonaws.com
+0.0.0.0 perf.hsforms.com

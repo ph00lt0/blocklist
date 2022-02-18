@@ -2970,3 +2970,4 @@
 ||cdn.britepool.com^
 ||sourcepoint.lifehacker.com^
 ||naanalle.pl^
+||doubleclick.be^

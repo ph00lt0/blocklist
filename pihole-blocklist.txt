@@ -2970,3 +2970,4 @@
 0.0.0.0 cdn.britepool.com
 0.0.0.0 sourcepoint.lifehacker.com
 0.0.0.0 naanalle.pl
+0.0.0.0 doubleclick.be

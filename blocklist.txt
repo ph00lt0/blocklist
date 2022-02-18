@@ -2944,3 +2944,4 @@
 ||drift.com^
 ||xad.com^
 ||clearbit.com^
+||ubembed.com^

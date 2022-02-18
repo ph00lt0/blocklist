@@ -2944,3 +2944,4 @@
 0.0.0.0 drift.com
 0.0.0.0 xad.com
 0.0.0.0 clearbit.com
+0.0.0.0 ubembed.com

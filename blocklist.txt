@@ -2903,3 +2903,4 @@
 ||script.hotjar.com^
 ||vars.hotjar.com^
 ||in.hotjar.com^
+||privymktg.com^

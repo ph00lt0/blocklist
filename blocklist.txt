@@ -2886,3 +2886,4 @@
 ||api.demandbase.com^
 ||wooshk.com^
 ||getchat.app^
+||dashboard.webwinkelkeur.nl^

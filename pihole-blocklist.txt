@@ -2886,3 +2886,4 @@
 0.0.0.0 api.demandbase.com
 0.0.0.0 wooshk.com
 0.0.0.0 getchat.app
+0.0.0.0 dashboard.webwinkelkeur.nl

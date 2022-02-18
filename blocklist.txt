@@ -2906,3 +2906,4 @@
 ||privymktg.com^
 ||nexus-websocket-a.intercom.io^
 ||static.intercomassets.com^
+||beaconstac.com^

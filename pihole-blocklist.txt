@@ -2906,3 +2906,4 @@
 0.0.0.0 privymktg.com
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 static.intercomassets.com
+0.0.0.0 beaconstac.com

@@ -2938,3 +2938,4 @@
 ||event.api.drift.com^
 ||beaconedge.com^
 ||trackcmp.net^
+||proximitymarketing.com^

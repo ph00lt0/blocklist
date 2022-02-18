@@ -2938,3 +2938,4 @@
 0.0.0.0 event.api.drift.com
 0.0.0.0 beaconedge.com
 0.0.0.0 trackcmp.net
+0.0.0.0 proximitymarketing.com

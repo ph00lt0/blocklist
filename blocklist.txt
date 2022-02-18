@@ -2913,3 +2913,4 @@
 ||track.contently.com^
 ||marketo.clearbit.com^
 ||bidagent.xad.com^
+||assets.contently.com^

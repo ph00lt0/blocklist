@@ -2913,3 +2913,4 @@
 0.0.0.0 track.contently.com
 0.0.0.0 marketo.clearbit.com
 0.0.0.0 bidagent.xad.com
+0.0.0.0 assets.contently.com

@@ -2892,3 +2892,4 @@
 ||gnar.grammarly.com^
 ||f-log-editor-debug.grammarly.io^
 ||treatment.grammarly.com^
+||f-log-editor.grammarly.io^

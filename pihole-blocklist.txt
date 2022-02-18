@@ -2917,3 +2917,4 @@
 0.0.0.0 b61e599a4f2348afa1a790e4b11dd9fb.js.ubembed.com
 0.0.0.0 js.ubembed.com
 0.0.0.0 pixel.mathtag.com
+0.0.0.0 js.driftt.com

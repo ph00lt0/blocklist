@@ -2954,3 +2954,4 @@
 ||api.lushka.al^
 ||wct-1.com^
 ||worldchasetag.com^
+||i.creativecommons.org^

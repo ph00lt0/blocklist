@@ -2936,3 +2936,4 @@
 ||presence.api.drift.com^
 ||targeting.api.drift.com^
 ||event.api.drift.com^
+||beaconedge.com^

@@ -2966,3 +2966,4 @@
 ||newsifier.com^
 ||cloud1-service.newsifier.com^
 ||insight.adsrvr.org^
+||britepool.com^

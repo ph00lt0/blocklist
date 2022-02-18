@@ -2978,3 +2978,4 @@
 0.0.0.0 afilo.pl
 0.0.0.0 www-analytics.esa.int
 0.0.0.0 wp.hit.gemius.pl
+0.0.0.0 universal.iperceptions.com

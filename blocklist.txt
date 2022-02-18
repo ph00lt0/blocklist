@@ -2978,3 +2978,4 @@
 ||afilo.pl^
 ||www-analytics.esa.int^
 ||wp.hit.gemius.pl^
+||universal.iperceptions.com^

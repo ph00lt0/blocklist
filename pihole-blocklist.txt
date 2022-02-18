@@ -2912,3 +2912,4 @@
 0.0.0.0 h.clarity.ms
 0.0.0.0 track.contently.com
 0.0.0.0 marketo.clearbit.com
+0.0.0.0 bidagent.xad.com

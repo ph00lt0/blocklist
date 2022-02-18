@@ -2912,3 +2912,4 @@
 ||h.clarity.ms^
 ||track.contently.com^
 ||marketo.clearbit.com^
+||bidagent.xad.com^

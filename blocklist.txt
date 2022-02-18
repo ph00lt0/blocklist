@@ -2948,3 +2948,4 @@
 ||hubspot-forms-static-embed.s3.amazonaws.com^
 ||perf.hsforms.com^
 ||track.hubspot.com^
+||js-na1.hs-scripts.com^

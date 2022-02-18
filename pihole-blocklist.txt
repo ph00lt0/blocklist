@@ -2948,3 +2948,4 @@
 0.0.0.0 hubspot-forms-static-embed.s3.amazonaws.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 track.hubspot.com
+0.0.0.0 js-na1.hs-scripts.com

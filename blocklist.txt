@@ -2983,3 +2983,4 @@
 ||gateway.answerscloud.com^
 ||answerscloud.com^
 ||ping-meta-prd.jwpltx.com^
+||cdn.conversant.mgr.consensu.org^

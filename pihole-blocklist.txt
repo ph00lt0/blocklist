@@ -2979,3 +2979,4 @@
 0.0.0.0 www-analytics.esa.int
 0.0.0.0 wp.hit.gemius.pl
 0.0.0.0 universal.iperceptions.com
+0.0.0.0 iperceptions.com

@@ -2979,3 +2979,4 @@
 ||www-analytics.esa.int^
 ||wp.hit.gemius.pl^
 ||universal.iperceptions.com^
+||iperceptions.com^

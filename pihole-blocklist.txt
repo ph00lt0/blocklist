@@ -2940,3 +2940,4 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 proximitymarketing.com
 0.0.0.0 web-writer.eu.smartlook.cloud
+0.0.0.0 smartlook.cloud

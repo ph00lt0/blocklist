@@ -2940,3 +2940,4 @@
 ||trackcmp.net^
 ||proximitymarketing.com^
 ||web-writer.eu.smartlook.cloud^
+||smartlook.cloud^

@@ -2918,3 +2918,4 @@
 ||js.ubembed.com^
 ||pixel.mathtag.com^
 ||js.driftt.com^
+||t.co^

@@ -2935,3 +2935,4 @@
 ||1525850-0.chat.api.drift.com^
 ||presence.api.drift.com^
 ||targeting.api.drift.com^
+||event.api.drift.com^

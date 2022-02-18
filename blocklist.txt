@@ -2982,3 +2982,4 @@
 ||iperceptions.com^
 ||gateway.answerscloud.com^
 ||answerscloud.com^
+||ping-meta-prd.jwpltx.com^

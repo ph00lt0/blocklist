@@ -2982,3 +2982,4 @@
 0.0.0.0 iperceptions.com
 0.0.0.0 gateway.answerscloud.com
 0.0.0.0 answerscloud.com
+0.0.0.0 ping-meta-prd.jwpltx.com

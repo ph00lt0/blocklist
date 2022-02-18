@@ -2987,3 +2987,4 @@
 ||wpcc.io^
 ||cdn.wpcc.io^
 ||spoprod-a.akamaihd.net^
+||gate.rapidsec.net^

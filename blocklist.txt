@@ -2953,3 +2953,4 @@
 ||siteintercept.qualtrics.com^
 ||api.lushka.al^
 ||wct-1.com^
+||worldchasetag.com^

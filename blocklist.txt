@@ -2890,3 +2890,4 @@
 ||f-log-at.grammarly.io^
 ||f-log-test.grammarly.io^
 ||gnar.grammarly.com^
+||f-log-editor-debug.grammarly.io^

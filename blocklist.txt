@@ -2962,3 +2962,4 @@
 ||btloader.com^
 ||static.digidip.net^
 ||tdscd.com^
+||pcf.tdscd.com^

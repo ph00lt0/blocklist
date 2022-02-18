@@ -2942,3 +2942,4 @@
 ||web-writer.eu.smartlook.cloud^
 ||smartlook.cloud^
 ||drift.com^
+||xad.com^

@@ -2942,3 +2942,4 @@
 0.0.0.0 web-writer.eu.smartlook.cloud
 0.0.0.0 smartlook.cloud
 0.0.0.0 drift.com
+0.0.0.0 xad.com

@@ -2968,3 +2968,4 @@
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 britepool.com
 0.0.0.0 cdn.britepool.com
+0.0.0.0 sourcepoint.lifehacker.com

@@ -2968,3 +2968,4 @@
 ||insight.adsrvr.org^
 ||britepool.com^
 ||cdn.britepool.com^
+||sourcepoint.lifehacker.com^

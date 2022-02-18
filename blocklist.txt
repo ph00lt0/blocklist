@@ -2920,3 +2920,4 @@
 ||js.driftt.com^
 ||t.co^
 ||assets.ubembed.com^
+||s.ytimg.com^

@@ -2932,3 +2932,4 @@
 ||metrics.api.drift.com^
 ||bootstrap.api.drift.com^
 ||embeds.driftcdn.com^
+||1525850-0.chat.api.drift.com^

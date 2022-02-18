@@ -2932,3 +2932,4 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 bootstrap.api.drift.com
 0.0.0.0 embeds.driftcdn.com
+0.0.0.0 1525850-0.chat.api.drift.com

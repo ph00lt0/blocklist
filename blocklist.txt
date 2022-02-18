@@ -2919,3 +2919,4 @@
 ||pixel.mathtag.com^
 ||js.driftt.com^
 ||t.co^
+||assets.ubembed.com^

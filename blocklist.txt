@@ -2980,3 +2980,4 @@
 ||wp.hit.gemius.pl^
 ||universal.iperceptions.com^
 ||iperceptions.com^
+||gateway.answerscloud.com^

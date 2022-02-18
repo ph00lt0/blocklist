@@ -2980,3 +2980,4 @@
 0.0.0.0 wp.hit.gemius.pl
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 iperceptions.com
+0.0.0.0 gateway.answerscloud.com

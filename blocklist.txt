@@ -2974,3 +2974,4 @@
 ||doubleclick.com^
 ||doubleclick.de^
 ||getclicky.com$^
+||bidvertiser.com^

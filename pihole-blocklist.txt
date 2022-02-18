@@ -2974,3 +2974,4 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 getclicky.com$
+0.0.0.0 bidvertiser.com

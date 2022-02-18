@@ -2990,3 +2990,4 @@
 ||gate.rapidsec.net^
 ||coveo.com^
 ||static.cloud.coveo.com^
+||cloud.coveo.com^

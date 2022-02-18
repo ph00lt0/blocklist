@@ -2952,3 +2952,4 @@
 ||zn2fubckriac7upsi-netlify.siteintercept.qualtrics.com^
 ||siteintercept.qualtrics.com^
 ||api.lushka.al^
+||wct-1.com^

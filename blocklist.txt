@@ -2902,3 +2902,4 @@
 ||c.clarity.ms^
 ||script.hotjar.com^
 ||vars.hotjar.com^
+||in.hotjar.com^

@@ -2902,3 +2902,4 @@
 0.0.0.0 c.clarity.ms
 0.0.0.0 script.hotjar.com
 0.0.0.0 vars.hotjar.com
+0.0.0.0 in.hotjar.com

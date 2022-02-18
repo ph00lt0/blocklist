@@ -2957,3 +2957,4 @@
 ||i.creativecommons.org^
 ||testifier.nl^
 @@||r.testifier.nl^  # Required for androidworld.nl images
+||socket.multimirror.io^

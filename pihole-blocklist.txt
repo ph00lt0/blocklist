@@ -2957,3 +2957,4 @@
 0.0.0.0 i.creativecommons.org
 0.0.0.0 testifier.nl
 ! allow r.testifier.nl reason: Required for androidworld.nl images
+0.0.0.0 socket.multimirror.io

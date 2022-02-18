@@ -2960,3 +2960,4 @@
 0.0.0.0 socket.multimirror.io
 0.0.0.0 multimirror.io
 0.0.0.0 btloader.com
+0.0.0.0 static.digidip.net

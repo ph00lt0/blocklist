@@ -2960,3 +2960,4 @@
 ||socket.multimirror.io^
 ||multimirror.io^
 ||btloader.com^
+||static.digidip.net^

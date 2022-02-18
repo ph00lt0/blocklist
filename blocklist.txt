@@ -2989,3 +2989,4 @@
 ||spoprod-a.akamaihd.net^
 ||gate.rapidsec.net^
 ||coveo.com^
+||static.cloud.coveo.com^

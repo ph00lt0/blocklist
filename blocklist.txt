@@ -2900,3 +2900,4 @@
 ||k.clarity.ms^
 ||js.intercomcdn.com^
 ||c.clarity.ms^
+||script.hotjar.com^

@@ -2923,3 +2923,4 @@
 ||s.ytimg.com^
 ||115-zbz-379.mktoresp.com^
 ||mktoresp.com^
+||b61e599a4f2348afa1a790e4b11dd9fb.pages.ubembed.com^

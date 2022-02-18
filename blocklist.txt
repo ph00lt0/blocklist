@@ -2971,3 +2971,4 @@
 ||sourcepoint.lifehacker.com^
 ||naanalle.pl^
 ||doubleclick.be^
+||doubleclick.com^

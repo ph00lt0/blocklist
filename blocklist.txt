@@ -2956,4 +2956,4 @@
 ||worldchasetag.com^
 ||i.creativecommons.org^
 ||testifier.nl^
-||r.testifier.nl^
+@@||r.testifier.nl^  # Required for androidworld.nl images

@@ -2930,3 +2930,4 @@
 ||d9hhrg4mnvzow.cloudfront.net^
 ||px4.ads.linkedin.com^
 ||metrics.api.drift.com^
+||bootstrap.api.drift.com^

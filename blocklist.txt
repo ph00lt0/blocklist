@@ -2929,3 +2929,4 @@
 ||b61e599a4f2348afa1a790e4b11dd9fb.events.ubembed.com^
 ||d9hhrg4mnvzow.cloudfront.net^
 ||px4.ads.linkedin.com^
+||metrics.api.drift.com^

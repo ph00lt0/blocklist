@@ -2901,3 +2901,4 @@
 ||js.intercomcdn.com^
 ||c.clarity.ms^
 ||script.hotjar.com^
+||vars.hotjar.com^

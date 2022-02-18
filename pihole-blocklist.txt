@@ -2909,3 +2909,4 @@
 0.0.0.0 beaconstac.com
 0.0.0.0 groundtruth.com
 0.0.0.0 app-ab25.marketo.com
+0.0.0.0 h.clarity.ms

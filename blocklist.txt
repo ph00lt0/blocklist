@@ -2909,3 +2909,4 @@
 ||beaconstac.com^
 ||groundtruth.com^
 ||app-ab25.marketo.com^
+||h.clarity.ms^

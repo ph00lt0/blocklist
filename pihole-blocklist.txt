@@ -2965,3 +2965,4 @@
 0.0.0.0 pcf.tdscd.com
 0.0.0.0 newsifier.com
 0.0.0.0 cloud1-service.newsifier.com
+0.0.0.0 insight.adsrvr.org

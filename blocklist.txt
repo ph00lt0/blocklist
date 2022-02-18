@@ -2965,3 +2965,4 @@
 ||pcf.tdscd.com^
 ||newsifier.com^
 ||cloud1-service.newsifier.com^
+||insight.adsrvr.org^

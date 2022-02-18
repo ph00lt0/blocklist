@@ -2991,3 +2991,4 @@
 0.0.0.0 coveo.com
 0.0.0.0 static.cloud.coveo.com
 0.0.0.0 cloud.coveo.com
+0.0.0.0 static-cms.hotjar.com

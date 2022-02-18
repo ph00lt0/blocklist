@@ -2981,3 +2981,4 @@
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 iperceptions.com
 0.0.0.0 gateway.answerscloud.com
+0.0.0.0 answerscloud.com

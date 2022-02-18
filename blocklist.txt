@@ -2904,3 +2904,4 @@
 ||vars.hotjar.com^
 ||in.hotjar.com^
 ||privymktg.com^
+||nexus-websocket-a.intercom.io^

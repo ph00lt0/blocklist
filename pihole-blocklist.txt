@@ -2899,3 +2899,4 @@
 0.0.0.0 widget.privy.com
 0.0.0.0 k.clarity.ms
 0.0.0.0 js.intercomcdn.com
+0.0.0.0 c.clarity.ms

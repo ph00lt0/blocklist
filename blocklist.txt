@@ -2898,3 +2898,4 @@
 ||dna8twue3dlxq.cloudfront.net^
 ||widget.privy.com^
 ||k.clarity.ms^
+||js.intercomcdn.com^

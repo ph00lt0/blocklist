@@ -2988,3 +2988,4 @@
 0.0.0.0 cdn.wpcc.io
 0.0.0.0 spoprod-a.akamaihd.net
 0.0.0.0 gate.rapidsec.net
+0.0.0.0 coveo.com

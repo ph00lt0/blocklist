@@ -2988,3 +2988,4 @@
 ||cdn.wpcc.io^
 ||spoprod-a.akamaihd.net^
 ||gate.rapidsec.net^
+||coveo.com^

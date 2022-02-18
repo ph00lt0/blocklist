@@ -2945,3 +2945,4 @@
 0.0.0.0 xad.com
 0.0.0.0 clearbit.com
 0.0.0.0 ubembed.com
+0.0.0.0 hubspot-forms-static-embed.s3.amazonaws.com

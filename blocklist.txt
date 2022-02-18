@@ -2945,3 +2945,4 @@
 ||xad.com^
 ||clearbit.com^
 ||ubembed.com^
+||hubspot-forms-static-embed.s3.amazonaws.com^

@@ -2937,3 +2937,4 @@
 ||targeting.api.drift.com^
 ||event.api.drift.com^
 ||beaconedge.com^
+||trackcmp.net^

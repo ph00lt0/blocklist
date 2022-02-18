@@ -2937,3 +2937,4 @@
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 event.api.drift.com
 0.0.0.0 beaconedge.com
+0.0.0.0 trackcmp.net

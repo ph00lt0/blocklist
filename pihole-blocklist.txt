@@ -2963,3 +2963,4 @@
 0.0.0.0 static.digidip.net
 0.0.0.0 tdscd.com
 0.0.0.0 pcf.tdscd.com
+0.0.0.0 newsifier.com

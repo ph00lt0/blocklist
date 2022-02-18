@@ -2949,3 +2949,4 @@
 ||perf.hsforms.com^
 ||track.hubspot.com^
 ||js-na1.hs-scripts.com^
+||zn2fubckriac7upsi-netlify.siteintercept.qualtrics.com^

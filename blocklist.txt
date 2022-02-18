@@ -2964,3 +2964,4 @@
 ||tdscd.com^
 ||pcf.tdscd.com^
 ||newsifier.com^
+||cloud1-service.newsifier.com^

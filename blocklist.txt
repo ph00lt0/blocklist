@@ -2986,3 +2986,4 @@
 ||cdn.conversant.mgr.consensu.org^
 ||wpcc.io^
 ||cdn.wpcc.io^
+||spoprod-a.akamaihd.net^

@@ -2931,3 +2931,4 @@
 0.0.0.0 px4.ads.linkedin.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 bootstrap.api.drift.com
+0.0.0.0 embeds.driftcdn.com

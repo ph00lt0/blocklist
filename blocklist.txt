@@ -2915,3 +2915,4 @@
 ||bidagent.xad.com^
 ||assets.contently.com^
 ||b61e599a4f2348afa1a790e4b11dd9fb.js.ubembed.com^
+||js.ubembed.com^

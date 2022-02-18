@@ -2885,3 +2885,4 @@
 ||demandbase.com^
 ||api.demandbase.com^
 ||wooshk.com^
+||getchat.app^

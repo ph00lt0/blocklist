@@ -2972,3 +2972,4 @@
 ||naanalle.pl^
 ||doubleclick.be^
 ||doubleclick.com^
+||doubleclick.de^

@@ -2972,3 +2972,4 @@
 0.0.0.0 naanalle.pl
 0.0.0.0 doubleclick.be
 0.0.0.0 doubleclick.com
+0.0.0.0 doubleclick.de

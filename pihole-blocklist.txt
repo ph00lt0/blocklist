@@ -2934,3 +2934,4 @@
 0.0.0.0 embeds.driftcdn.com
 0.0.0.0 1525850-0.chat.api.drift.com
 0.0.0.0 presence.api.drift.com
+0.0.0.0 targeting.api.drift.com

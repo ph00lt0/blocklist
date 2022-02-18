@@ -2969,3 +2969,4 @@
 ||britepool.com^
 ||cdn.britepool.com^
 ||sourcepoint.lifehacker.com^
+||naanalle.pl^

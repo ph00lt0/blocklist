@@ -2961,3 +2961,4 @@
 ||multimirror.io^
 ||btloader.com^
 ||static.digidip.net^
+||tdscd.com^

@@ -3046,3 +3046,4 @@
 0.0.0.0 dtagate.virginmedia.co.uk
 0.0.0.0 virgin.inq.com
 0.0.0.0 ct.virginmedia.com
+0.0.0.0 googleoptimize.com

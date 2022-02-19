@@ -2993,3 +2993,4 @@
 0.0.0.0 cloud.coveo.com
 0.0.0.0 static-cms.hotjar.com
 0.0.0.0 sasc.containers.piwik.pro
+0.0.0.0 o1080147.ingest.sentry.io

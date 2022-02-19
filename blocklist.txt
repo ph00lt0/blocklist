@@ -2999,3 +2999,4 @@
 ||providesupport.com^
 ||image.providesupport.com^
 ||frog.wix.com^
+||a.deviantart.net^

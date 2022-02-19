@@ -3037,3 +3037,4 @@
 0.0.0.0 notifications-api.cf.sky.com
 0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.global.sky.com
+0.0.0.0 getamigo.io

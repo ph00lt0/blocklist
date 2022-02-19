@@ -3005,3 +3005,4 @@
 ||cws.conviva.com^
 ||cdn.blueconic.net^
 ||salesforceliveagent.com^
+||c.la1-c1-par.salesforceliveagent.com^

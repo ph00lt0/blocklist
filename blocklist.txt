@@ -3041,3 +3041,4 @@
 ||tag.getamigo.io^
 ||15gifts.com^
 ||virgin.15gifts.com^
+||aklamio.com^

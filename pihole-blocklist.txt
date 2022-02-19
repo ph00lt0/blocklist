@@ -3035,3 +3035,4 @@
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 scontent-cdt1-1.cdninstagram.com
 0.0.0.0 notifications-api.cf.sky.com
+0.0.0.0 analytics.faw.sky.com

@@ -3035,3 +3035,4 @@
 ||tags-eu.tiqcdn.com^
 ||scontent-cdt1-1.cdninstagram.com^
 ||notifications-api.cf.sky.com^
+||analytics.faw.sky.com^

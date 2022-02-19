@@ -2995,3 +2995,4 @@
 0.0.0.0 sasc.containers.piwik.pro
 0.0.0.0 o1080147.ingest.sentry.io
 0.0.0.0 mailerlite.com
+0.0.0.0 static.mailerlite.com

@@ -3063,3 +3063,4 @@
 ||embedly.com^
 ||cdn.embedly.com^
 ||api.rollbar.com^
+||rollbar.com^

@@ -3038,3 +3038,4 @@
 ||analytics.faw.sky.com^
 ||analytics.global.sky.com^
 ||getamigo.io^
+||tag.getamigo.io^

@@ -3023,3 +3023,4 @@
 ||maxmind.com^
 ||ident.me^
 ||api.ipify.org^
+||ipify.org^

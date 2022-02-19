@@ -3022,3 +3022,4 @@
 ||js.maxmind.com^
 ||maxmind.com^
 ||ident.me^
+||api.ipify.org^

@@ -3050,3 +3050,4 @@
 ||www.googleoptimize.com^
 ||evgnet.com^
 ||cdn.evgnet.com^
+||spatialbuzz.com^

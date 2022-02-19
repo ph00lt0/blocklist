@@ -3000,3 +3000,4 @@
 0.0.0.0 image.providesupport.com
 0.0.0.0 frog.wix.com
 0.0.0.0 a.deviantart.net
+0.0.0.0 e.deviantart.net

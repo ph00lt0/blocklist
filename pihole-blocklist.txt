@@ -3024,3 +3024,4 @@
 0.0.0.0 ident.me
 0.0.0.0 api.ipify.org
 0.0.0.0 ipify.org
+0.0.0.0 ipecho.net

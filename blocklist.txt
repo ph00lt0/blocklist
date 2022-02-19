@@ -3065,3 +3065,4 @@
 ||api.rollbar.com^
 ||rollbar.com^
 ||assets.digital.coop.co.uk^
+||swisscomag.tt.omtrdc.net^

@@ -3065,3 +3065,4 @@
 0.0.0.0 api.rollbar.com
 0.0.0.0 rollbar.com
 0.0.0.0 assets.digital.coop.co.uk
+0.0.0.0 swisscomag.tt.omtrdc.net

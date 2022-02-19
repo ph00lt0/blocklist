@@ -8,6 +8,10 @@ declare piholeBlocklist="./pihole-blocklist.txt"
 declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
 declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 
+declare version=$(date +"%Y%m%d")
+declare versionTag="! Version: "
+declare versionLine="! Version: $version"
+
 declare blocklistRule="||$domain^"
 declare allowedRule="@@||$domain^"
 declare piholeBlocklistRule="0.0.0.0 $domain"
@@ -43,6 +47,8 @@ if grep -q $blocklistRule "$blocklist"; then
         if grep -q $blocklistRule "$blocklist"; then
             echo "$domain rule added before you"
         else    
+            sed -i '' "s/$versionTag.*/$versionLine/g" $blocklist 
+            
             printf "$blocklistRule\n" >> "$blocklist"
             printf "$piholeBlocklistRule\n" >> "$piholeBlocklist" 
             git commit -am "added $domain to blocklist" && git push origin master && git push github master

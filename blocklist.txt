@@ -3025,3 +3025,4 @@
 ||api.ipify.org^
 ||ipify.org^
 ||ipecho.net^
+||wpmlorg.s3.amazonaws.com^

@@ -3056,3 +3056,4 @@
 ||o2-uk.spatialbuzz.net^
 ||convertnetwork.com^
 ||perform.convertnetwork.com^
+||cdn.mouseflow.com^

@@ -3056,3 +3056,4 @@
 0.0.0.0 o2-uk.spatialbuzz.net
 0.0.0.0 convertnetwork.com
 0.0.0.0 perform.convertnetwork.com
+0.0.0.0 cdn.mouseflow.com

@@ -2998,3 +2998,4 @@
 ||static.mailerlite.com^
 ||providesupport.com^
 ||image.providesupport.com^
+||frog.wix.com^

@@ -3010,3 +3010,4 @@
 ||assistent.kpn.com^
 ||time.akamai.com^
 ||karma.mdpcdn.com^
+||platform.slack-edge.com^

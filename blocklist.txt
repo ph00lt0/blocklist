@@ -3033,3 +3033,4 @@
 ||pcapredict.com^
 ||giffg11111.pcapredict.com^
 ||tags-eu.tiqcdn.com^
+||scontent-cdt1-1.cdninstagram.com^

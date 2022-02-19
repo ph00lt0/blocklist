@@ -3021,3 +3021,4 @@
 ||ipinfo.io^
 ||js.maxmind.com^
 ||maxmind.com^
+||ident.me^

@@ -2997,3 +2997,4 @@
 0.0.0.0 mailerlite.com
 0.0.0.0 static.mailerlite.com
 0.0.0.0 providesupport.com
+0.0.0.0 image.providesupport.com

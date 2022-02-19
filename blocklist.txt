@@ -2997,3 +2997,4 @@
 ||mailerlite.com^
 ||static.mailerlite.com^
 ||providesupport.com^
+||image.providesupport.com^

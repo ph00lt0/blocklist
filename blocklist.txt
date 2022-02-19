@@ -3047,3 +3047,4 @@
 ||virgin.inq.com^
 ||ct.virginmedia.com^
 ||googleoptimize.com^
+||www.googleoptimize.com^

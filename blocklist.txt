@@ -3044,3 +3044,4 @@
 ||aklamio.com^
 ||api.aklamio.com^
 ||dtagate.virginmedia.co.uk^
+||virgin.inq.com^

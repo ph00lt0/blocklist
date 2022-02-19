@@ -3015,3 +3015,4 @@
 ||frontify.com^
 ||cmpv2.networkworld.com^
 ||twitcount.com^
+||static1.twitcount.com^

@@ -3016,3 +3016,4 @@
 0.0.0.0 cmpv2.networkworld.com
 0.0.0.0 twitcount.com
 0.0.0.0 static1.twitcount.com
+0.0.0.0 asciinema.org

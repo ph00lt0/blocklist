@@ -3009,3 +3009,4 @@
 ||assets.adobedtm.com^
 ||assistent.kpn.com^
 ||time.akamai.com^
+||karma.mdpcdn.com^

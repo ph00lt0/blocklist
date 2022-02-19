@@ -3009,3 +3009,4 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assistent.kpn.com
 0.0.0.0 time.akamai.com
+0.0.0.0 karma.mdpcdn.com

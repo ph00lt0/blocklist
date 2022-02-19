@@ -3067,3 +3067,4 @@
 ||assets.digital.coop.co.uk^
 ||swisscomag.tt.omtrdc.net^
 ||tt.omtrdc.net^
+||monetate.net^

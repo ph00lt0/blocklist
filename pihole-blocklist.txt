@@ -3013,3 +3013,4 @@
 0.0.0.0 platform.slack-edge.com
 0.0.0.0 company-32474.frontify.com
 0.0.0.0 frontify.com
+0.0.0.0 cmpv2.networkworld.com

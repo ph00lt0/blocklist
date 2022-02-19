@@ -3013,3 +3013,4 @@
 ||platform.slack-edge.com^
 ||company-32474.frontify.com^
 ||frontify.com^
+||cmpv2.networkworld.com^

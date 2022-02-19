@@ -3068,3 +3068,4 @@
 ||swisscomag.tt.omtrdc.net^
 ||tt.omtrdc.net^
 ||monetate.net^
+||se.monetate.net^

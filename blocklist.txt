@@ -3060,3 +3060,4 @@
 ||collector-px1uglztko.px-cdn.net^
 ||collector-px1uglztko.px-cloud.net^
 ||collector-px1uglztko.pxchk.net^
+||embedly.com^

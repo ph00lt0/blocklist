@@ -3019,3 +3019,4 @@
 0.0.0.0 asciinema.org
 0.0.0.0 fgip.rosehosting.com
 0.0.0.0 ipinfo.io
+0.0.0.0 js.maxmind.com

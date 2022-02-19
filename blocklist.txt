@@ -3019,3 +3019,4 @@
 ||asciinema.org^
 ||fgip.rosehosting.com^
 ||ipinfo.io^
+||js.maxmind.com^

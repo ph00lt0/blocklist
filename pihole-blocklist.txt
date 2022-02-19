@@ -3006,3 +3006,4 @@
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 salesforceliveagent.com
 0.0.0.0 c.la1-c1-par.salesforceliveagent.com
+0.0.0.0 assets.adobedtm.com

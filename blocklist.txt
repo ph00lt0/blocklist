@@ -2994,3 +2994,4 @@
 ||static-cms.hotjar.com^
 ||sasc.containers.piwik.pro^
 ||o1080147.ingest.sentry.io^
+||mailerlite.com^

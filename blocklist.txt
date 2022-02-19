@@ -3007,3 +3007,4 @@
 ||salesforceliveagent.com^
 ||c.la1-c1-par.salesforceliveagent.com^
 ||assets.adobedtm.com^
+||assistent.kpn.com^

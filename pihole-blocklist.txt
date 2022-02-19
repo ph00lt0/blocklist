@@ -3040,3 +3040,4 @@
 0.0.0.0 getamigo.io
 0.0.0.0 tag.getamigo.io
 0.0.0.0 15gifts.com
+0.0.0.0 virgin.15gifts.com

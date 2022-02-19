@@ -3057,3 +3057,4 @@
 ||convertnetwork.com^
 ||perform.convertnetwork.com^
 ||cdn.mouseflow.com^
+||collector-px1uglztko.px-cdn.net^

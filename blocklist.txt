@@ -3045,3 +3045,4 @@
 ||api.aklamio.com^
 ||dtagate.virginmedia.co.uk^
 ||virgin.inq.com^
+||ct.virginmedia.com^

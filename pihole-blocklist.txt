@@ -3027,3 +3027,4 @@
 0.0.0.0 ipecho.net
 0.0.0.0 wpmlorg.s3.amazonaws.com
 0.0.0.0 d7j863fr5jhrr.cloudfront.net
+0.0.0.0 uk.ads.justpremium.com

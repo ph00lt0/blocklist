@@ -3027,3 +3027,4 @@
 ||ipecho.net^
 ||wpmlorg.s3.amazonaws.com^
 ||d7j863fr5jhrr.cloudfront.net^
+||uk.ads.justpremium.com^

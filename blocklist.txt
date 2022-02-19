@@ -3053,3 +3053,4 @@
 ||spatialbuzz.com^
 ||cdn.spatialbuzz.com^
 ||spatialbuzz.net^
+||o2-uk.spatialbuzz.net^

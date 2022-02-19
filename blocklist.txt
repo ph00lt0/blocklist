@@ -3030,3 +3030,4 @@
 ||uk.ads.justpremium.com^
 ||ads.justpremium.com^
 ||justpremium.com^
+||pcapredict.com^

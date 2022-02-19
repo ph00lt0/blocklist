@@ -3030,3 +3030,4 @@
 0.0.0.0 uk.ads.justpremium.com
 0.0.0.0 ads.justpremium.com
 0.0.0.0 justpremium.com
+0.0.0.0 pcapredict.com

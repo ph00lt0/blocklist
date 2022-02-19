@@ -3049,3 +3049,4 @@
 ||googleoptimize.com^
 ||www.googleoptimize.com^
 ||evgnet.com^
+||cdn.evgnet.com^

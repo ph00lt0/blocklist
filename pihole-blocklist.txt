@@ -3070,3 +3070,4 @@
 0.0.0.0 monetate.net
 0.0.0.0 se.monetate.net
 0.0.0.0 api.millionsview.com
+0.0.0.0 millionsview.com

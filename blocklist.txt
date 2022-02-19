@@ -3039,3 +3039,4 @@
 ||analytics.global.sky.com^
 ||getamigo.io^
 ||tag.getamigo.io^
+||15gifts.com^

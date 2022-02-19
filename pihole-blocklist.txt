@@ -3039,3 +3039,4 @@
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 getamigo.io
 0.0.0.0 tag.getamigo.io
+0.0.0.0 15gifts.com

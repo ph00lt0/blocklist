@@ -3052,3 +3052,4 @@
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 spatialbuzz.com
 0.0.0.0 cdn.spatialbuzz.com
+0.0.0.0 spatialbuzz.net

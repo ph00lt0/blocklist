@@ -3052,3 +3052,4 @@
 ||cdn.evgnet.com^
 ||spatialbuzz.com^
 ||cdn.spatialbuzz.com^
+||spatialbuzz.net^

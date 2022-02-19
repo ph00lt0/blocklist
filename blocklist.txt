@@ -3062,3 +3062,4 @@
 ||collector-px1uglztko.pxchk.net^
 ||embedly.com^
 ||cdn.embedly.com^
+||api.rollbar.com^

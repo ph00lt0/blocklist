@@ -3064,3 +3064,4 @@
 0.0.0.0 cdn.embedly.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 rollbar.com
+0.0.0.0 assets.digital.coop.co.uk

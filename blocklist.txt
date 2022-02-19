@@ -3064,3 +3064,4 @@
 ||cdn.embedly.com^
 ||api.rollbar.com^
 ||rollbar.com^
+||assets.digital.coop.co.uk^

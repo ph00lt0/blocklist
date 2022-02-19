@@ -3018,3 +3018,4 @@
 ||static1.twitcount.com^
 ||asciinema.org^
 ||fgip.rosehosting.com^
+||ipinfo.io^

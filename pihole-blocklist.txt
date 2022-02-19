@@ -3018,3 +3018,4 @@
 0.0.0.0 static1.twitcount.com
 0.0.0.0 asciinema.org
 0.0.0.0 fgip.rosehosting.com
+0.0.0.0 ipinfo.io

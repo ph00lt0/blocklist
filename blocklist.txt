@@ -3088,3 +3088,4 @@
 ||statistik2.yellowmap.de^
 ||100009658.collect.igodigital.com^
 ||pricespider.com^
+||cdn.pricespider.com^

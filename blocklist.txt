@@ -3081,3 +3081,4 @@
 ||iesnare.com^
 ||api.db-ip.com^
 ||db-ip.com^
+||adsrv.moebelmarkt.tv^

@@ -3100,3 +3100,4 @@
 ||adscale.de^
 ||bebi.com^
 ||contentabc.com^
+||bidr.io^

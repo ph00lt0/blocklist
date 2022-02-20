@@ -3086,3 +3086,4 @@
 0.0.0.0 statistik.yellowmap.de
 0.0.0.0 statistik2.yellowmap.de
 0.0.0.0 100009658.collect.igodigital.com
+0.0.0.0 pricespider.com

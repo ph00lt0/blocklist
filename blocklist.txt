@@ -3087,3 +3087,4 @@
 ||statistik.yellowmap.de^
 ||statistik2.yellowmap.de^
 ||100009658.collect.igodigital.com^
+||pricespider.com^

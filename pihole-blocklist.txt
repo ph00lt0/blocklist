@@ -3108,3 +3108,4 @@
 0.0.0.0 oogala.com
 0.0.0.0 mycliplister.com
 0.0.0.0 privacy-proxy.usercentrics.eu
+0.0.0.0 pre.stone-systems.com

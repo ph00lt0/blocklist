@@ -3085,3 +3085,4 @@
 0.0.0.0 usecag.apm.whirlpool.com
 0.0.0.0 statistik.yellowmap.de
 0.0.0.0 statistik2.yellowmap.de
+0.0.0.0 100009658.collect.igodigital.com

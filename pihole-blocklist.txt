@@ -3118,3 +3118,4 @@
 0.0.0.0 appsha1.cointraffic.io
 0.0.0.0 cointraffic.io
 0.0.0.0 adsttc.com
+0.0.0.0 assets.adsttc.com

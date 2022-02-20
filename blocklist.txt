@@ -3119,3 +3119,4 @@
 ||appsha1.cointraffic.io^
 ||cointraffic.io^
 ||adsttc.com^
+||assets.adsttc.com^

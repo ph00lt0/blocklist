@@ -3077,3 +3077,4 @@
 ||p1.answerdash.com^
 ||answerdash.com^
 ||o1091219.ingest.sentry.io^
+||mpsnare.iesnare.com^

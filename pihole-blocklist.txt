@@ -3077,3 +3077,4 @@
 0.0.0.0 answerdash.com
 0.0.0.0 o1091219.ingest.sentry.io
 0.0.0.0 mpsnare.iesnare.com
+0.0.0.0 iesnare.com

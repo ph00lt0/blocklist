@@ -3079,3 +3079,4 @@
 ||o1091219.ingest.sentry.io^
 ||mpsnare.iesnare.com^
 ||iesnare.com^
+||api.db-ip.com^

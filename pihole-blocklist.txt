@@ -3072,3 +3072,4 @@
 0.0.0.0 api.millionsview.com
 0.0.0.0 millionsview.com
 0.0.0.0 ip-api.com
+0.0.0.0 pro.ip-api.com

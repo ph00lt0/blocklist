@@ -3073,3 +3073,4 @@
 ||api.millionsview.com^
 ||millionsview.com^
 ||ip-api.com^
+||pro.ip-api.com^

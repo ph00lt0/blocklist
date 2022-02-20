@@ -3120,3 +3120,4 @@
 0.0.0.0 adsttc.com
 0.0.0.0 assets.adsttc.com
 0.0.0.0 ced.sascdn.com
+0.0.0.0 irpages2.eqs.com

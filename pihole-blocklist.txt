@@ -3075,3 +3075,4 @@
 0.0.0.0 pro.ip-api.com
 0.0.0.0 p1.answerdash.com
 0.0.0.0 answerdash.com
+0.0.0.0 o1091219.ingest.sentry.io

@@ -3083,3 +3083,4 @@
 0.0.0.0 adsrv.moebelmarkt.tv
 0.0.0.0 o455913.ingest.sentry.io
 0.0.0.0 usecag.apm.whirlpool.com
+0.0.0.0 statistik.yellowmap.de

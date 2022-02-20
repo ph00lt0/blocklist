@@ -3075,3 +3075,4 @@
 ||ip-api.com^
 ||pro.ip-api.com^
 ||p1.answerdash.com^
+||answerdash.com^

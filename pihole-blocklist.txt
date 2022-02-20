@@ -3102,3 +3102,4 @@
 0.0.0.0 bidr.io
 0.0.0.0 mfadsrvr.com
 0.0.0.0 btrll.com
+0.0.0.0 richmetrics.com

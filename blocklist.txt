@@ -3103,3 +3103,4 @@
 ||bidr.io^
 ||mfadsrvr.com^
 ||btrll.com^
+||richmetrics.com^

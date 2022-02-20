@@ -3113,3 +3113,4 @@
 0.0.0.0 static.activedemand.com
 0.0.0.0 activedemand.com
 0.0.0.0 apps.mypurecloud.com
+0.0.0.0 mypurecloud.com

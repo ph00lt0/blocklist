@@ -3114,3 +3114,4 @@
 ||static.activedemand.com^
 ||activedemand.com^
 ||apps.mypurecloud.com^
+||mypurecloud.com^

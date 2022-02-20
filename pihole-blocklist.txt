@@ -3111,3 +3111,4 @@
 0.0.0.0 pre.stone-systems.com
 0.0.0.0 apps.usw2.pure.cloud
 0.0.0.0 static.activedemand.com
+0.0.0.0 activedemand.com

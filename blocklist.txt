@@ -3096,3 +3096,4 @@
 ||adotmob.com^
 ||adriver.ru^
 ||adrtx.net^
+||adshot.de^

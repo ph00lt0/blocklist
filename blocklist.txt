@@ -3080,3 +3080,4 @@
 ||mpsnare.iesnare.com^
 ||iesnare.com^
 ||api.db-ip.com^
+||db-ip.com^

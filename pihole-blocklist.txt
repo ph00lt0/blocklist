@@ -3079,3 +3079,4 @@
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 iesnare.com
 0.0.0.0 api.db-ip.com
+0.0.0.0 db-ip.com

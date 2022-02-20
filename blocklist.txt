@@ -3089,3 +3089,4 @@
 ||100009658.collect.igodigital.com^
 ||pricespider.com^
 ||cdn.pricespider.com^
+||acsbapp.com^

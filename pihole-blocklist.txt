@@ -3084,3 +3084,4 @@
 0.0.0.0 o455913.ingest.sentry.io
 0.0.0.0 usecag.apm.whirlpool.com
 0.0.0.0 statistik.yellowmap.de
+0.0.0.0 statistik2.yellowmap.de

@@ -3092,3 +3092,4 @@
 0.0.0.0 extend.tv
 0.0.0.0 ad-stir.com
 0.0.0.0 honeybulb.com
+0.0.0.0 adotmob.com

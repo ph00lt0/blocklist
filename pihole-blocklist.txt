@@ -3136,3 +3136,4 @@
 0.0.0.0 trust-provider.com
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 nojazz.eu
+0.0.0.0 ims.humo.be

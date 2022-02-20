@@ -3095,3 +3095,4 @@
 ||honeybulb.com^
 ||adotmob.com^
 ||adriver.ru^
+||adrtx.net^

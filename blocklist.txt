@@ -3113,3 +3113,4 @@
 ||apps.usw2.pure.cloud^
 ||static.activedemand.com^
 ||activedemand.com^
+||apps.mypurecloud.com^

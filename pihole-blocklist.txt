@@ -3090,3 +3090,4 @@
 0.0.0.0 cdn.pricespider.com
 0.0.0.0 acsbapp.com
 0.0.0.0 extend.tv
+0.0.0.0 ad-stir.com

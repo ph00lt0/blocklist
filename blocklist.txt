@@ -3091,3 +3091,4 @@
 ||cdn.pricespider.com^
 ||acsbapp.com^
 ||extend.tv^
+||ad-stir.com^

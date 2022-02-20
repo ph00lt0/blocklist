@@ -3118,3 +3118,4 @@
 ||cookies.workup.it^
 ||appsha1.cointraffic.io^
 ||cointraffic.io^
+||adsttc.com^

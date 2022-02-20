@@ -3117,3 +3117,4 @@
 0.0.0.0 cookies.workup.it
 0.0.0.0 appsha1.cointraffic.io
 0.0.0.0 cointraffic.io
+0.0.0.0 adsttc.com

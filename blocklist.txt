@@ -3082,3 +3082,4 @@
 ||api.db-ip.com^
 ||db-ip.com^
 ||adsrv.moebelmarkt.tv^
+||o455913.ingest.sentry.io^

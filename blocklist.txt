@@ -3108,3 +3108,4 @@
 ||onetag-sys.com^
 ||oogala.com^
 ||mycliplister.com^
+||privacy-proxy.usercentrics.eu^

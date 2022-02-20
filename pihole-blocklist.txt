@@ -3089,3 +3089,4 @@
 0.0.0.0 pricespider.com
 0.0.0.0 cdn.pricespider.com
 0.0.0.0 acsbapp.com
+0.0.0.0 extend.tv

@@ -3090,3 +3090,4 @@
 ||pricespider.com^
 ||cdn.pricespider.com^
 ||acsbapp.com^
+||extend.tv^

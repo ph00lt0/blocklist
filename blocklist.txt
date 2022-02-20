@@ -3083,3 +3083,4 @@
 ||db-ip.com^
 ||adsrv.moebelmarkt.tv^
 ||o455913.ingest.sentry.io^
+||usecag.apm.whirlpool.com^

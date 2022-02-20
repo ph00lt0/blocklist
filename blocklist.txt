@@ -3124,3 +3124,4 @@
 ||irpages2.eqs.com^
 ||eqs.com^
 ||equitystory.com^
+||charts3.equitystory.com^

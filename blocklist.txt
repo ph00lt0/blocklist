@@ -3126,3 +3126,4 @@
 ||equitystory.com^
 ||charts3.equitystory.com^
 ||ads.creative-serving.com^
+||creative-serving.com^

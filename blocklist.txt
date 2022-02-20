@@ -3116,3 +3116,4 @@
 ||apps.mypurecloud.com^
 ||mypurecloud.com^
 ||cookies.workup.it^
+||appsha1.cointraffic.io^

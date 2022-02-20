@@ -3115,3 +3115,4 @@
 ||activedemand.com^
 ||apps.mypurecloud.com^
 ||mypurecloud.com^
+||cookies.workup.it^

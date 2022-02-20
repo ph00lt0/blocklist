@@ -3111,3 +3111,4 @@
 ||privacy-proxy.usercentrics.eu^
 ||pre.stone-systems.com^
 ||apps.usw2.pure.cloud^
+||static.activedemand.com^

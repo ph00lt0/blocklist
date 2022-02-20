@@ -3135,3 +3135,4 @@
 ||vmweb.net^
 ||dy48bnzanqw0v.cloudfront.net^
 ||trust-provider.com^
+||secure.trust-provider.com^

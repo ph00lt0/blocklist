@@ -3134,3 +3134,4 @@
 0.0.0.0 vmweb.net
 0.0.0.0 dy48bnzanqw0v.cloudfront.net
 0.0.0.0 trust-provider.com
+0.0.0.0 secure.trust-provider.com

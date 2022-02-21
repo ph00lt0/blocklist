@@ -3176,3 +3176,4 @@
 ||target.digitalaudience.io^
 ||annefrank.containers.piwik.pro^
 ||fareharbor.com^
+||gb-livepoll.firebaseio.com^

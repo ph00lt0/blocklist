@@ -3276,3 +3276,4 @@
 0.0.0.0 thisisdax.com
 0.0.0.0 tracking.audio.thisisdax.com
 0.0.0.0 webtrendslive.com
+0.0.0.0 statse.webtrendslive.com

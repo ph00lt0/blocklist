@@ -3277,3 +3277,4 @@
 ||thisisdax.com^
 ||tracking.audio.thisisdax.com^
 ||webtrendslive.com^
+||statse.webtrendslive.com^

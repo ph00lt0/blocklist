@@ -3257,3 +3257,4 @@
 ||stanchartafrica.tt.omtrdc.net^
 ||ds-aksb-a.akamaihd.net^
 ||sstats.bnpparibasfortis.be^
+||cobrowse.bnpparibasfortis.be^

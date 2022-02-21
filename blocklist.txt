@@ -3178,3 +3178,4 @@
 ||fareharbor.com^
 ||gb-livepoll.firebaseio.com^
 ||api.mixpanel.com^
+||popkit.club^

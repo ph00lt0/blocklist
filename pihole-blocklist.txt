@@ -3226,3 +3226,4 @@
 0.0.0.0 placehold.it
 0.0.0.0 widget.alphablues.com
 0.0.0.0 alphablues.com
+0.0.0.0 datalog.bancsabadell.com

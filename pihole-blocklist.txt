@@ -3235,3 +3235,4 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 emssas.bancsabadell.com
 0.0.0.0 widget-mediator.zopim.com
+0.0.0.0 handtalk.me

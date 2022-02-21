@@ -3261,3 +3261,4 @@
 ||bs.serving-sys.com^
 ||secure-ds.serving-sys.com^
 ||dc.ads.linkedin.com^
+||redirect1742.tagcommander.com^

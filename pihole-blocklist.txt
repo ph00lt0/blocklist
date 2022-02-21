@@ -3197,3 +3197,4 @@
 0.0.0.0 gct.americanexpress.com
 ! allow global.americanexpress.com reason: Also required for form
 0.0.0.0 apigateway.americanexpress.com
+0.0.0.0 qwww.aexp-static.com

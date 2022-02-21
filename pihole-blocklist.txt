@@ -3149,3 +3149,4 @@
 0.0.0.0 analytics2.uros.icu
 0.0.0.0 sanalytics.spreadshirt.com
 0.0.0.0 o413082.ingest.sentry.io
+0.0.0.0 tags.crwdcntrl.net

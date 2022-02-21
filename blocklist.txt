@@ -3150,3 +3150,4 @@
 ||analytics2.uros.icu^
 ||sanalytics.spreadshirt.com^
 ||o413082.ingest.sentry.io^
+||tags.crwdcntrl.net^

@@ -3214,3 +3214,4 @@
 ||images-home.com^
 ||optanon.blob.core.windows.net^
 ||sub2tech.com^
+||equifax-cdn.sub2tech.com^

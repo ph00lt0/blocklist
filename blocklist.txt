@@ -3145,3 +3145,4 @@
 ||mb.cision.com^
 ||websolutions.ne.cision.com^
 ||highcharts.com^
+||code.highcharts.com^

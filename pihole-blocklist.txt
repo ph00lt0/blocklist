@@ -3144,3 +3144,4 @@
 0.0.0.0 mb.cision.com
 0.0.0.0 websolutions.ne.cision.com
 0.0.0.0 highcharts.com
+0.0.0.0 code.highcharts.com

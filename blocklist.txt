@@ -3276,3 +3276,4 @@
 ||attribution.adswizz.com^
 ||thisisdax.com^
 ||tracking.audio.thisisdax.com^
+||webtrendslive.com^

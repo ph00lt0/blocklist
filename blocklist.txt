@@ -3175,3 +3175,4 @@
 ||digitalaudience.io^
 ||target.digitalaudience.io^
 ||annefrank.containers.piwik.pro^
+||fareharbor.com^

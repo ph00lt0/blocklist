@@ -2094,7 +2094,7 @@
 ||www.currency.me.uk^
 ||exchangerates.org.uk^
 ||www.exchangerates.org.uk^
-||c0.wp.com^
+@@||c0.wp.com^  # CDN
 ||cmp.aftenposten.no^
 ||mm.aftenposten.no^
 ||jssdk.touchpoints.schibsted.media^

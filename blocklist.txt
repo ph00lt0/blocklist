@@ -3231,3 +3231,4 @@
 ||datastatics.bancsabadell.com^
 ||emstatics.bancsabadell.com^
 ||infodata2.bancsabadell.com^
+||staticlog.bancsabadell.com^

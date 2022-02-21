@@ -3230,3 +3230,4 @@
 0.0.0.0 datastatics.bancsabadell.com
 0.0.0.0 emstatics.bancsabadell.com
 0.0.0.0 infodata2.bancsabadell.com
+0.0.0.0 staticlog.bancsabadell.com

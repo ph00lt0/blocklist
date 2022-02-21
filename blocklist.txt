@@ -3239,3 +3239,4 @@
 ||handtalk.me^
 ||plugin.handtalk.me^
 ||navdmp.com^
+||usr.navdmp.com^

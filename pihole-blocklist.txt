@@ -3262,3 +3262,4 @@
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 redirect1742.tagcommander.com
 0.0.0.0 graph.nationwide.co.uk
+0.0.0.0 smetrics.nationwide.co.uk

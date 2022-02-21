@@ -3263,3 +3263,4 @@
 ||dc.ads.linkedin.com^
 ||redirect1742.tagcommander.com^
 ||graph.nationwide.co.uk^
+||smetrics.nationwide.co.uk^

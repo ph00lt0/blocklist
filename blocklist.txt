@@ -3201,3 +3201,4 @@
 ||qwww.aexp-static.com^
 ||qicm.aexp-static.com^
 ||live5.brownrice.com^
+||brownrice.com^

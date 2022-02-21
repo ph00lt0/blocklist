@@ -3157,3 +3157,4 @@
 ||a1.api.bbc.co.uk^
 ||r.bbci.co.uk^
 ||nsi.activity.api.bbc.com^
+||polling.bbc.co.uk^

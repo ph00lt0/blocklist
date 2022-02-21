@@ -3257,3 +3257,4 @@
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 sstats.bnpparibasfortis.be
 0.0.0.0 cobrowse.bnpparibasfortis.be
+0.0.0.0 bs.serving-sys.com

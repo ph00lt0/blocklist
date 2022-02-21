@@ -3258,3 +3258,4 @@
 ||ds-aksb-a.akamaihd.net^
 ||sstats.bnpparibasfortis.be^
 ||cobrowse.bnpparibasfortis.be^
+||bs.serving-sys.com^

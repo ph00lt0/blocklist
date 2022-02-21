@@ -3162,3 +3162,4 @@
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 braze.eu
 0.0.0.0 sdk.fra-01.braze.eu
+0.0.0.0 o389128.ingest.sentry.io

@@ -3163,3 +3163,4 @@
 ||clientstream.launchdarkly.com^
 ||braze.eu^
 ||sdk.fra-01.braze.eu^
+||o389128.ingest.sentry.io^

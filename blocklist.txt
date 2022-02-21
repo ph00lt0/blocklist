@@ -3181,3 +3181,4 @@
 ||popkit.club^
 ||app.popkit.club^
 ||cloud.typenetwork.com^
+||typenetwork.com^

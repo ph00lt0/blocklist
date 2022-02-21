@@ -3156,3 +3156,4 @@
 ||o264749.ingest.sentry.io^
 ||a1.api.bbc.co.uk^
 ||r.bbci.co.uk^
+||nsi.activity.api.bbc.com^

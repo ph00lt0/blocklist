@@ -3226,3 +3226,4 @@
 ||cc.cdn.civiccomputing.com^
 ||placehold.it^
 ||widget.alphablues.com^
+||alphablues.com^

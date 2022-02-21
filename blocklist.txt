@@ -3225,3 +3225,4 @@
 ||marketingalphaprod.streaming.mediaservices.windows.net^
 ||cc.cdn.civiccomputing.com^
 ||placehold.it^
+||widget.alphablues.com^

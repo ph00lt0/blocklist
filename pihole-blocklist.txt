@@ -3224,3 +3224,4 @@
 0.0.0.0 marketingalphaprod.streaming.mediaservices.windows.net
 0.0.0.0 cc.cdn.civiccomputing.com
 0.0.0.0 placehold.it
+0.0.0.0 widget.alphablues.com

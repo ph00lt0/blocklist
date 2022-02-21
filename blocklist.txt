@@ -3216,3 +3216,4 @@
 ||sub2tech.com^
 ||equifax-cdn.sub2tech.com^
 ||libs.coremetrics.com^
+||coremetrics.com^

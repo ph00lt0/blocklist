@@ -3240,3 +3240,4 @@
 ||plugin.handtalk.me^
 ||navdmp.com^
 ||usr.navdmp.com^
+||app-sjqe.marketo.com^

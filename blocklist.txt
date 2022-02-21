@@ -3234,3 +3234,4 @@
 ||staticlog.bancsabadell.com^
 ||aweucn1.advanced-web-analytics.com^
 ||advanced-web-analytics.com^
+||emssas.bancsabadell.com^

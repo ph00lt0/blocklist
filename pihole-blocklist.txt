@@ -3233,3 +3233,4 @@
 0.0.0.0 staticlog.bancsabadell.com
 0.0.0.0 aweucn1.advanced-web-analytics.com
 0.0.0.0 advanced-web-analytics.com
+0.0.0.0 emssas.bancsabadell.com

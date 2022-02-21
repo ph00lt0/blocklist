@@ -3248,3 +3248,4 @@
 ||mboxedge.tt.omtrdc.net^
 ||target.bankofamerica.com^
 ||signal-collector.gemaltodigitalbankingidcloud.com^
+||gemaltodigitalbankingidcloud.com^

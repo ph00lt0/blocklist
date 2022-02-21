@@ -3216,3 +3216,4 @@
 0.0.0.0 equifax-cdn.sub2tech.com
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 coremetrics.com
+0.0.0.0 rewardschoices.com

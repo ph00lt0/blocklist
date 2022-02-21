@@ -3286,3 +3286,4 @@
 ||wup-16c9d93d.lloydsbank.co.uk^
 ||analytics.qumucloud.com^
 ||optimisation.data.lloydsbankinggroup.com^
+||bcdn-16c9d93d.halifax-online.co.uk^

@@ -3247,3 +3247,4 @@
 ||searchg2-assets.crownpeak.net^
 ||mboxedge.tt.omtrdc.net^
 ||target.bankofamerica.com^
+||signal-collector.gemaltodigitalbankingidcloud.com^

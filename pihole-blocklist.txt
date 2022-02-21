@@ -3246,3 +3246,4 @@
 0.0.0.0 searchg2-assets.crownpeak.net
 0.0.0.0 mboxedge.tt.omtrdc.net
 0.0.0.0 target.bankofamerica.com
+0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com

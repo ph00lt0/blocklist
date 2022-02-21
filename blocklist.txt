@@ -3154,3 +3154,4 @@
 ||referrer.disqus.com^
 ||o375540.ingest.sentry.io^
 ||o264749.ingest.sentry.io^
+||a1.api.bbc.co.uk^

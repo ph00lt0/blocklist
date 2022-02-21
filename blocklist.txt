@@ -3194,3 +3194,4 @@
 ||one.americanexpress.com^
 ||one-xp.americanexpress.com^
 ||tms.americanexpress.com^
+||www.cdn-path.com^

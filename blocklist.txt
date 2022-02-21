@@ -3242,3 +3242,4 @@
 ||usr.navdmp.com^
 ||app-sjqe.marketo.com^
 ||5017ae7b6342bc1727d66f6970134e09.report-uri.com^
+||report-uri.com^

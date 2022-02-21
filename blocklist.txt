@@ -3299,3 +3299,4 @@
 ||olbb2cd2.bmo.com^
 ||nsttvw2t9m-flywheel.netdna-ssl.com^
 ||secure.leadforensics.com^
+||leadforensics.com^

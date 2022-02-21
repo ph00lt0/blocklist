@@ -3301,3 +3301,4 @@
 ||secure.leadforensics.com^
 ||leadforensics.com^
 ||zn5coesfxlcvdstl8-lloydsbankinggroup.siteintercept.qualtrics.com^
+||smetrics.bmo.com^

@@ -3300,3 +3300,4 @@
 0.0.0.0 secure.leadforensics.com
 0.0.0.0 leadforensics.com
 0.0.0.0 zn5coesfxlcvdstl8-lloydsbankinggroup.siteintercept.qualtrics.com
+0.0.0.0 smetrics.bmo.com

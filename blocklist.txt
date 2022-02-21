@@ -3238,3 +3238,4 @@
 ||widget-mediator.zopim.com^
 ||handtalk.me^
 ||plugin.handtalk.me^
+||navdmp.com^

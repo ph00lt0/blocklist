@@ -3252,3 +3252,4 @@
 ||fastfs1.podbean.com^
 ||svc2.sc.com^
 ||stanchartsingapore.sc.omtrdc.net^
+||stanchartsingapore.tt.omtrdc.net^

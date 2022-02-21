@@ -3251,3 +3251,4 @@
 0.0.0.0 fastfs1.podbean.com
 0.0.0.0 svc2.sc.com
 0.0.0.0 stanchartsingapore.sc.omtrdc.net
+0.0.0.0 stanchartsingapore.tt.omtrdc.net

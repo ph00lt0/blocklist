@@ -3149,3 +3149,4 @@
 ||020425.ingest.sentry.io^
 ||analytics2.uros.icu^
 ||sanalytics.spreadshirt.com^
+||o413082.ingest.sentry.io^

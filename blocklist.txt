@@ -3179,3 +3179,4 @@
 ||gb-livepoll.firebaseio.com^
 ||api.mixpanel.com^
 ||popkit.club^
+||app.popkit.club^

@@ -3279,3 +3279,4 @@
 ||webtrendslive.com^
 ||statse.webtrendslive.com^
 ||logs-16c9d93d.lloydsbank.co.uk^
+||lloydsbankinggroup.d3.sc.omtrdc.net^

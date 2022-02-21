@@ -3179,3 +3179,4 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 popkit.club
 0.0.0.0 app.popkit.club
+0.0.0.0 cloud.typenetwork.com

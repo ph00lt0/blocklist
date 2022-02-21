@@ -3180,3 +3180,4 @@
 ||api.mixpanel.com^
 ||popkit.club^
 ||app.popkit.club^
+||cloud.typenetwork.com^

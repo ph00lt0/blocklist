@@ -3146,3 +3146,4 @@
 ||websolutions.ne.cision.com^
 ||highcharts.com^
 ||code.highcharts.com^
+||020425.ingest.sentry.io^

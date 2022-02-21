@@ -3145,3 +3145,4 @@
 0.0.0.0 websolutions.ne.cision.com
 0.0.0.0 highcharts.com
 0.0.0.0 code.highcharts.com
+0.0.0.0 020425.ingest.sentry.io

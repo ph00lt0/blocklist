@@ -3220,3 +3220,4 @@
 ||rewardschoices.com^
 ||affinitysolutions.com^
 ||images.affinitysolutions.com^
+||md8jnn29kj.execute-api.eu-west-1.amazonaws.com^

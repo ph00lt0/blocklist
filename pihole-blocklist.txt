@@ -3281,3 +3281,4 @@
 0.0.0.0 lloydsbankinggroup.d3.sc.omtrdc.net
 0.0.0.0 wup-16c9d93d.bankofscotland.co.uk
 0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
+0.0.0.0 bcdn-16c9d93d.lloydsbank.co.uk

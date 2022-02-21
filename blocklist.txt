@@ -3161,3 +3161,4 @@
 ||push.api.bbci.co.uk^
 ||launchdarkly.com^
 ||clientstream.launchdarkly.com^
+||braze.eu^

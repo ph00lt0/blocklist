@@ -3160,3 +3160,4 @@
 0.0.0.0 push.api.bbci.co.uk
 0.0.0.0 launchdarkly.com
 0.0.0.0 clientstream.launchdarkly.com
+0.0.0.0 braze.eu

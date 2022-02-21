@@ -3192,3 +3192,4 @@
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 one.americanexpress.com
 0.0.0.0 one-xp.americanexpress.com
+0.0.0.0 tms.americanexpress.com

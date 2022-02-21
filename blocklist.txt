@@ -3193,3 +3193,4 @@
 ||omns.americanexpress.com^
 ||one.americanexpress.com^
 ||one-xp.americanexpress.com^
+||tms.americanexpress.com^

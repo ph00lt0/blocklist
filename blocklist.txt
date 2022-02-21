@@ -3229,3 +3229,4 @@
 ||alphablues.com^
 ||datalog.bancsabadell.com^
 ||datastatics.bancsabadell.com^
+||emstatics.bancsabadell.com^

@@ -3147,3 +3147,4 @@
 ||highcharts.com^
 ||code.highcharts.com^
 ||020425.ingest.sentry.io^
+||analytics2.uros.icu^

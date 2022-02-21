@@ -3146,3 +3146,4 @@
 0.0.0.0 highcharts.com
 0.0.0.0 code.highcharts.com
 0.0.0.0 020425.ingest.sentry.io
+0.0.0.0 analytics2.uros.icu

@@ -3207,3 +3207,4 @@
 0.0.0.0 media-cdn.ipredictive.com
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 d.turn.com
+0.0.0.0 turn.com

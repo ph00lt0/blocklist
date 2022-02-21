@@ -3235,3 +3235,4 @@
 ||aweucn1.advanced-web-analytics.com^
 ||advanced-web-analytics.com^
 ||emssas.bancsabadell.com^
+||widget-mediator.zopim.com^

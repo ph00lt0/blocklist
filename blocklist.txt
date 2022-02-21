@@ -3232,3 +3232,4 @@
 ||emstatics.bancsabadell.com^
 ||infodata2.bancsabadell.com^
 ||staticlog.bancsabadell.com^
+||aweucn1.advanced-web-analytics.com^

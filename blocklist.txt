@@ -3249,3 +3249,4 @@
 ||target.bankofamerica.com^
 ||signal-collector.gemaltodigitalbankingidcloud.com^
 ||gemaltodigitalbankingidcloud.com^
+||fastfs1.podbean.com^

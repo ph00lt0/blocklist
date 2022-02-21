@@ -3187,7 +3187,7 @@
 0.0.0.0 plugins.flockler.com
 0.0.0.0 tarantula.hashicorp.com
 0.0.0.0 o473895.ingest.sentry.io
-0.0.0.0 icm.aexp-static.com
+! allow icm.aexp-static.com reason: Not just trackers also images loaded from this subdomain
 0.0.0.0 iwmapapi.americanexpress.com
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 one.americanexpress.com

@@ -3188,7 +3188,7 @@
 ||plugins.flockler.com^
 ||tarantula.hashicorp.com^
 ||o473895.ingest.sentry.io^
-||icm.aexp-static.com^
+@@||icm.aexp-static.com^  # Not just trackers also images loaded from this subdomain
 ||iwmapapi.americanexpress.com^
 ||omns.americanexpress.com^
 ||one.americanexpress.com^

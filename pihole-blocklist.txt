@@ -3163,3 +3163,4 @@
 0.0.0.0 braze.eu
 0.0.0.0 sdk.fra-01.braze.eu
 0.0.0.0 o389128.ingest.sentry.io
+0.0.0.0 tag.simpli.fi

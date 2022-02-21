@@ -3164,3 +3164,4 @@
 ||braze.eu^
 ||sdk.fra-01.braze.eu^
 ||o389128.ingest.sentry.io^
+||tag.simpli.fi^

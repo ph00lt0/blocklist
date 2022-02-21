@@ -3288,3 +3288,4 @@
 ||optimisation.data.lloydsbankinggroup.com^
 ||bcdn-16c9d93d.halifax-online.co.uk^
 ||intelliresponse.com^
+||td.intelliresponse.com^

@@ -3253,3 +3253,4 @@
 0.0.0.0 stanchartsingapore.sc.omtrdc.net
 0.0.0.0 stanchartsingapore.tt.omtrdc.net
 0.0.0.0 stanchartafrica.sc.omtrdc.net
+0.0.0.0 stanchartafrica.tt.omtrdc.net

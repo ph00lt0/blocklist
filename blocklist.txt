@@ -3254,3 +3254,4 @@
 ||stanchartsingapore.sc.omtrdc.net^
 ||stanchartsingapore.tt.omtrdc.net^
 ||stanchartafrica.sc.omtrdc.net^
+||stanchartafrica.tt.omtrdc.net^

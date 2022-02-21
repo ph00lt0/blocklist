@@ -3196,3 +3196,4 @@
 ||tms.americanexpress.com^
 ||www.cdn-path.com^
 ||gct.americanexpress.com^
+||global.americanexpress.com^

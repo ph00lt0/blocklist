@@ -3195,3 +3195,4 @@
 0.0.0.0 tms.americanexpress.com
 0.0.0.0 www.cdn-path.com
 0.0.0.0 gct.americanexpress.com
+0.0.0.0 global.americanexpress.com

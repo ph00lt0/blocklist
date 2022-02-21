@@ -3207,3 +3207,4 @@
 ||ipredictive.com^
 ||media-cdn.ipredictive.com^
 ||fls.doubleclick.net^
+||d.turn.com^

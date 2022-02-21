@@ -3199,3 +3199,4 @@
 @@||global.americanexpress.com^  # Also required for form
 ||apigateway.americanexpress.com^
 ||qwww.aexp-static.com^
+||qicm.aexp-static.com^

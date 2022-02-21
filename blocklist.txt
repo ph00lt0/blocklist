@@ -3259,3 +3259,4 @@
 ||sstats.bnpparibasfortis.be^
 ||cobrowse.bnpparibasfortis.be^
 ||bs.serving-sys.com^
+||secure-ds.serving-sys.com^

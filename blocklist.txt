@@ -3237,3 +3237,4 @@
 ||emssas.bancsabadell.com^
 ||widget-mediator.zopim.com^
 ||handtalk.me^
+||plugin.handtalk.me^

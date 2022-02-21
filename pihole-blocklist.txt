@@ -3236,3 +3236,4 @@
 0.0.0.0 emssas.bancsabadell.com
 0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 handtalk.me
+0.0.0.0 plugin.handtalk.me

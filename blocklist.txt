@@ -3253,3 +3253,4 @@
 ||svc2.sc.com^
 ||stanchartsingapore.sc.omtrdc.net^
 ||stanchartsingapore.tt.omtrdc.net^
+||stanchartafrica.sc.omtrdc.net^

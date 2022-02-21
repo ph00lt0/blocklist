@@ -3255,3 +3255,4 @@
 ||stanchartsingapore.tt.omtrdc.net^
 ||stanchartafrica.sc.omtrdc.net^
 ||stanchartafrica.tt.omtrdc.net^
+||ds-aksb-a.akamaihd.net^

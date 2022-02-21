@@ -3224,3 +3224,4 @@
 ||static.hsappstatic.net^
 ||marketingalphaprod.streaming.mediaservices.windows.net^
 ||cc.cdn.civiccomputing.com^
+||placehold.it^

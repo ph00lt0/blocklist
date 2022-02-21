@@ -3223,3 +3223,4 @@
 0.0.0.0 static.hsappstatic.net
 0.0.0.0 marketingalphaprod.streaming.mediaservices.windows.net
 0.0.0.0 cc.cdn.civiccomputing.com
+0.0.0.0 placehold.it

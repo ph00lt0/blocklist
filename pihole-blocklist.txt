@@ -3284,3 +3284,4 @@
 0.0.0.0 bcdn-16c9d93d.lloydsbank.co.uk
 0.0.0.0 wup-16c9d93d.lloydsbank.co.uk
 0.0.0.0 analytics.qumucloud.com
+0.0.0.0 optimisation.data.lloydsbankinggroup.com

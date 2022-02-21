@@ -3289,3 +3289,4 @@
 0.0.0.0 intelliresponse.com
 0.0.0.0 td.intelliresponse.com
 0.0.0.0 td.com
+0.0.0.0 tmx.td.com

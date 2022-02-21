@@ -3182,3 +3182,4 @@
 0.0.0.0 cloud.typenetwork.com
 0.0.0.0 typenetwork.com
 0.0.0.0 wearehearken.eu
+0.0.0.0 modules.wearehearken.eu

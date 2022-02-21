@@ -3183,3 +3183,4 @@
 ||cloud.typenetwork.com^
 ||typenetwork.com^
 ||wearehearken.eu^
+||modules.wearehearken.eu^

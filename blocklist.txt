@@ -3250,3 +3250,4 @@
 ||signal-collector.gemaltodigitalbankingidcloud.com^
 ||gemaltodigitalbankingidcloud.com^
 ||fastfs1.podbean.com^
+||svc2.sc.com^

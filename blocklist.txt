@@ -3228,3 +3228,4 @@
 ||widget.alphablues.com^
 ||alphablues.com^
 ||datalog.bancsabadell.com^
+||datastatics.bancsabadell.com^

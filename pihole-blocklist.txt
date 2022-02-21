@@ -3217,3 +3217,4 @@
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 coremetrics.com
 0.0.0.0 rewardschoices.com
+0.0.0.0 affinitysolutions.com

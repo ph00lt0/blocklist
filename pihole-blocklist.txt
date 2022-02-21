@@ -3195,5 +3195,5 @@
 0.0.0.0 tms.americanexpress.com
 0.0.0.0 www.cdn-path.com
 0.0.0.0 gct.americanexpress.com
-0.0.0.0 global.americanexpress.com
+! allow global.americanexpress.com reason: Also required for form
 0.0.0.0 apigateway.americanexpress.com

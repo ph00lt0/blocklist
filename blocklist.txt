@@ -3215,3 +3215,4 @@
 ||optanon.blob.core.windows.net^
 ||sub2tech.com^
 ||equifax-cdn.sub2tech.com^
+||libs.coremetrics.com^

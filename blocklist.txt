@@ -3283,3 +3283,4 @@
 ||wup-16c9d93d.bankofscotland.co.uk^
 ||bcdn-16c9d93d.bankofscotland.co.uk^
 ||bcdn-16c9d93d.lloydsbank.co.uk^
+||wup-16c9d93d.lloydsbank.co.uk^

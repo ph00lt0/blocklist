@@ -3205,3 +3205,4 @@
 ||tulip.co^
 ||5168026.fls.doubleclick.net^
 ||ipredictive.com^
+||media-cdn.ipredictive.com^

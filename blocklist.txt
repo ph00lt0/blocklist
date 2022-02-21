@@ -3195,3 +3195,4 @@
 ||one-xp.americanexpress.com^
 ||tms.americanexpress.com^
 ||www.cdn-path.com^
+||gct.americanexpress.com^

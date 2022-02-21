@@ -3185,3 +3185,4 @@
 ||wearehearken.eu^
 ||modules.wearehearken.eu^
 ||flockler.com^
+||plugins.flockler.com^

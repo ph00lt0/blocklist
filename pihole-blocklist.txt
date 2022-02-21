@@ -3269,3 +3269,4 @@
 0.0.0.0 b406929acabac9b095f124c81bdfcf57f.com
 0.0.0.0 a79ab95c1589a13f8a4cab612bc71f9f7.com
 0.0.0.0 1.a79ab95c1589a13f8a4cab612bc71f9f7.com
+0.0.0.0 bclog.nationwide.co.uk

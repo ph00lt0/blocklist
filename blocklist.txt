@@ -3162,3 +3162,4 @@
 ||launchdarkly.com^
 ||clientstream.launchdarkly.com^
 ||braze.eu^
+||sdk.fra-01.braze.eu^

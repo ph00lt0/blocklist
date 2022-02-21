@@ -3222,3 +3222,4 @@
 0.0.0.0 md8jnn29kj.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 static.hsappstatic.net
 0.0.0.0 marketingalphaprod.streaming.mediaservices.windows.net
+0.0.0.0 cc.cdn.civiccomputing.com

@@ -3223,3 +3223,4 @@
 ||md8jnn29kj.execute-api.eu-west-1.amazonaws.com^
 ||static.hsappstatic.net^
 ||marketingalphaprod.streaming.mediaservices.windows.net^
+||cc.cdn.civiccomputing.com^

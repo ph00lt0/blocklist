@@ -3177,3 +3177,4 @@
 ||annefrank.containers.piwik.pro^
 ||fareharbor.com^
 ||gb-livepoll.firebaseio.com^
+||api.mixpanel.com^

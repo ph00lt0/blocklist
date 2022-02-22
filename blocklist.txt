@@ -3306,3 +3306,4 @@
 ||cdn.pagefly.io^
 ||pagefly.io^
 ||platform.smile.io^
+||js.smile.io^

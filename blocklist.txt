@@ -3318,3 +3318,4 @@
 ||personalizer.io^
 ||ngastatic.com^
 ||ls.hit.gemius.pl^
+||rum.allegro.pl^

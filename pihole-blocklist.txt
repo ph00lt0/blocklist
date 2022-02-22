@@ -3302,3 +3302,5 @@
 0.0.0.0 zn5coesfxlcvdstl8-lloydsbankinggroup.siteintercept.qualtrics.com
 0.0.0.0 smetrics.bmo.com
 0.0.0.0 content22.bmo.com
+0.0.0.0 cdn.pagefly.io
+0.0.0.0 pagefly.io

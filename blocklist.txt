@@ -3322,3 +3322,4 @@
 ||martech.condenastdigital.com^
 ||condenastdigital.com^
 ||journey.vogue.com^
+||ezojs.com^

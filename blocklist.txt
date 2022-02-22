@@ -3315,3 +3315,4 @@
 ||co2ok.eco^
 ||shopi-app.co2ok.eco^
 ||edge.personalizer.io^
+||personalizer.io^

@@ -3307,3 +3307,4 @@
 0.0.0.0 platform.smile.io
 0.0.0.0 js.smile.io
 0.0.0.0 smile.io
+0.0.0.0 usb.hextom.com

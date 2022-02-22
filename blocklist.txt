@@ -3308,3 +3308,4 @@
 ||platform.smile.io^
 ||js.smile.io^
 ||smile.io^
+||usb.hextom.com^

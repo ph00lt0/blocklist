@@ -3324,3 +3324,4 @@
 ||journey.vogue.com^
 ||ezojs.com^
 ||www.ezojs.com^
+||placeholder.com^

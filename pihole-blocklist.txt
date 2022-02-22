@@ -3323,3 +3323,4 @@
 0.0.0.0 journey.vogue.com
 0.0.0.0 ezojs.com
 0.0.0.0 www.ezojs.com
+0.0.0.0 placeholder.com

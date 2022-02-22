@@ -3315,3 +3315,4 @@
 0.0.0.0 shopi-app.co2ok.eco
 0.0.0.0 edge.personalizer.io
 0.0.0.0 personalizer.io
+0.0.0.0 ngastatic.com

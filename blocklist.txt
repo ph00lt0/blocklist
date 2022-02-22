@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220221
+! Version: 20220222
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -3316,3 +3316,4 @@
 ||shopi-app.co2ok.eco^
 ||edge.personalizer.io^
 ||personalizer.io^
+||ngastatic.com^

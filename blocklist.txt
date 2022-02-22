@@ -3317,3 +3317,4 @@
 ||edge.personalizer.io^
 ||personalizer.io^
 ||ngastatic.com^
+||ls.hit.gemius.pl^

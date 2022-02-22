@@ -3312,3 +3312,4 @@
 0.0.0.0 g1782759016.co
 0.0.0.0 easy-redirects.s3-eu-west-1.amazonaws.com
 0.0.0.0 co2ok.eco
+0.0.0.0 shopi-app.co2ok.eco

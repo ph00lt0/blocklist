@@ -3314,3 +3314,4 @@
 ||easy-redirects.s3-eu-west-1.amazonaws.com^
 ||co2ok.eco^
 ||shopi-app.co2ok.eco^
+||edge.personalizer.io^

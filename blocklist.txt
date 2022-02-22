@@ -3321,3 +3321,4 @@
 ||rum.allegro.pl^
 ||martech.condenastdigital.com^
 ||condenastdigital.com^
+||journey.vogue.com^

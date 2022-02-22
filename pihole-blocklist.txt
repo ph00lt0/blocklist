@@ -3329,3 +3329,4 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 unagi.amazon.com
+0.0.0.0 sstatic1.histats.com

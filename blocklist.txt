@@ -3330,3 +3330,4 @@
 ||aax-eu.amazon-adsystem.com^
 ||fls-na.amazon.com^
 ||unagi.amazon.com^
+||sstatic1.histats.com^

@@ -3318,3 +3318,4 @@
 0.0.0.0 ngastatic.com
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 rum.allegro.pl
+0.0.0.0 martech.condenastdigital.com

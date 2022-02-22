@@ -3319,3 +3319,4 @@
 ||ngastatic.com^
 ||ls.hit.gemius.pl^
 ||rum.allegro.pl^
+||martech.condenastdigital.com^

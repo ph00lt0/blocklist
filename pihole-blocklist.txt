@@ -3304,3 +3304,4 @@
 0.0.0.0 content22.bmo.com
 0.0.0.0 cdn.pagefly.io
 0.0.0.0 pagefly.io
+0.0.0.0 platform.smile.io

@@ -3305,3 +3305,4 @@
 ||content22.bmo.com^
 ||cdn.pagefly.io^
 ||pagefly.io^
+||platform.smile.io^

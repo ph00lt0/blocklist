@@ -3306,3 +3306,4 @@
 0.0.0.0 pagefly.io
 0.0.0.0 platform.smile.io
 0.0.0.0 js.smile.io
+0.0.0.0 smile.io

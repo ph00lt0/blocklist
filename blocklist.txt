@@ -3358,3 +3358,4 @@
 ||analytics.nicknick.nl^
 ||analytics.ttgswe.at^
 ||script-at.iocnt.net^
+||adspirit.de^

@@ -43,3 +43,11 @@ Hit enter, and the domain will be delisted and specification will be added to th
 Enter the same entry you made by mistake, https:// or http and trailing / are automatically being removed if included.
 
 Hit enter, and the mistake will be corrected, the commit message will blame you for it and you can continue your life.
+
+
+# Got an error pushing upstream?
+This is likely due to you commiting just at the same time someone else is pushing upstream. You can use the following command to retry adding a domain rather then fixing the merge conflict manually.
+```
+./reattempt.sh
+```
+After this following the insertion instructions: enter a domain, hit enter, and the domain will be added to the list.

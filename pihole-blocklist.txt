@@ -3327,7 +3327,7 @@
 0.0.0.0 via.placeholder.com
 0.0.0.0 services.crmservice.eu
 0.0.0.0 aax-eu.amazon-adsystem.com
-0.0.0.0 fls-na.amazon.com
+! allow fls-na.amazon.com reason: Required for loading images
 0.0.0.0 unagi.amazon.com
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 2cc9bcd87e4511a3759bc9299721d1609b726e59.cws.conviva.com

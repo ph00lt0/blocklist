@@ -3345,3 +3345,4 @@
 ||usage.trackjs.com^
 ||wistia.net^
 ||go.turning.com^
+||textshark.com^

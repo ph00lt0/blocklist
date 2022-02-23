@@ -3356,3 +3356,4 @@
 0.0.0.0 c.statcounter.com
 0.0.0.0 analytics.nicknick.nl
 0.0.0.0 analytics.ttgswe.at
+0.0.0.0 script-at.iocnt.net

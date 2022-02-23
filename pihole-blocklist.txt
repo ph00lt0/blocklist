@@ -3364,3 +3364,4 @@
 0.0.0.0 app-sj01.marketo.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 1a900239-fa24-48b2-a8c9-2816d477ef40.edge.permutive.app
+0.0.0.0 chatwoot.com

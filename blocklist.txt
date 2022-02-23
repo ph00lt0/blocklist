@@ -3365,3 +3365,4 @@
 ||app-sj01.marketo.com^
 ||b.scorecardresearch.com^
 ||1a900239-fa24-48b2-a8c9-2816d477ef40.edge.permutive.app^
+||chatwoot.com^

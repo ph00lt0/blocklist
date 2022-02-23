@@ -3368,3 +3368,4 @@
 ||chatwoot.com^
 ||app.chatwoot.com^
 ||go2cloud.org^
+||trezor.go2cloud.org^

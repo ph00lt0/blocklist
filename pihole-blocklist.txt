@@ -3367,3 +3367,4 @@
 0.0.0.0 chatwoot.com
 0.0.0.0 app.chatwoot.com
 0.0.0.0 go2cloud.org
+0.0.0.0 trezor.go2cloud.org

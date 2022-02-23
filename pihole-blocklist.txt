@@ -3339,3 +3339,4 @@
 0.0.0.0 push-content.springernature.io
 0.0.0.0 springernature.io
 0.0.0.0 injections.readcube.com
+0.0.0.0 readcube.com

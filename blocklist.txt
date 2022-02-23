@@ -3340,3 +3340,4 @@
 ||push-content.springernature.io^
 ||springernature.io^
 ||injections.readcube.com^
+||readcube.com^

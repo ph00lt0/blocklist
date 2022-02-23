@@ -3343,3 +3343,4 @@
 0.0.0.0 dai046e8knt28.cloudfront.net
 0.0.0.0 usage.trackjs.com
 0.0.0.0 wistia.net
+0.0.0.0 go.turning.com

@@ -3344,3 +3344,4 @@
 ||dai046e8knt28.cloudfront.net^
 ||usage.trackjs.com^
 ||wistia.net^
+||go.turning.com^

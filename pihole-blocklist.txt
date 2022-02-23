@@ -3340,3 +3340,4 @@
 0.0.0.0 springernature.io
 0.0.0.0 injections.readcube.com
 0.0.0.0 readcube.com
+0.0.0.0 dai046e8knt28.cloudfront.net

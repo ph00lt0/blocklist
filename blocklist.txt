@@ -3350,3 +3350,4 @@
 ||s.amazon-adsystem.com^
 ||cdn.userway.org^
 ||userway.org^
+||d2p83s3q5aa83e.cloudfront.net^

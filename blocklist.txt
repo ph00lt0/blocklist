@@ -3367,3 +3367,4 @@
 ||1a900239-fa24-48b2-a8c9-2816d477ef40.edge.permutive.app^
 ||chatwoot.com^
 ||app.chatwoot.com^
+||go2cloud.org^

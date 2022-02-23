@@ -3342,3 +3342,4 @@
 ||injections.readcube.com^
 ||readcube.com^
 ||dai046e8knt28.cloudfront.net^
+||usage.trackjs.com^

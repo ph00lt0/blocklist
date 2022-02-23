@@ -3341,3 +3341,4 @@
 0.0.0.0 injections.readcube.com
 0.0.0.0 readcube.com
 0.0.0.0 dai046e8knt28.cloudfront.net
+0.0.0.0 usage.trackjs.com

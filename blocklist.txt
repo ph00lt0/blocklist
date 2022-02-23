@@ -3370,3 +3370,4 @@
 ||go2cloud.org^
 ||trezor.go2cloud.org^
 ||titanembeds.com^
+||shiftcrypto.activehosted.com^

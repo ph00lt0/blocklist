@@ -3369,3 +3369,4 @@
 0.0.0.0 go2cloud.org
 0.0.0.0 trezor.go2cloud.org
 0.0.0.0 titanembeds.com
+0.0.0.0 shiftcrypto.activehosted.com

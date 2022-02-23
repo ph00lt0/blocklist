@@ -3346,3 +3346,4 @@
 ||wistia.net^
 ||go.turning.com^
 ||textshark.com^
+||tf3.textshark.com^

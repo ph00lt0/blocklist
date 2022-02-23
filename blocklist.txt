@@ -3352,3 +3352,4 @@
 ||userway.org^
 ||d2p83s3q5aa83e.cloudfront.net^
 ||pubwise.io^
+||fdyn.pubwise.io^

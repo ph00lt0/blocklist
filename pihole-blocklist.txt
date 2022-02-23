@@ -3347,3 +3347,4 @@
 0.0.0.0 textshark.com
 0.0.0.0 tf3.textshark.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 cdn.userway.org

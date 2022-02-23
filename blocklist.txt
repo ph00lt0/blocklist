@@ -3348,3 +3348,4 @@
 ||textshark.com^
 ||tf3.textshark.com^
 ||s.amazon-adsystem.com^
+||cdn.userway.org^

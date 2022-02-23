@@ -3359,3 +3359,4 @@
 ||analytics.ttgswe.at^
 ||script-at.iocnt.net^
 ||adspirit.de^
+||wandern-com.adspirit.de^

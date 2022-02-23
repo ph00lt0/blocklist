@@ -3355,3 +3355,4 @@
 ||fdyn.pubwise.io^
 ||c.la1-c1-lo3.salesforceliveagent.com^
 ||c.statcounter.com^
+||analytics.nicknick.nl^

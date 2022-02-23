@@ -3360,3 +3360,4 @@
 ||script-at.iocnt.net^
 ||adspirit.de^
 ||wandern-com.adspirit.de^
+||js-sdk.dirs21.de^

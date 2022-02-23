@@ -3334,3 +3334,4 @@
 0.0.0.0 gabe.hit.gemius.pl
 0.0.0.0 tr.datatrics.com
 0.0.0.0 datatrics.com
+0.0.0.0 ads.ad-center.com

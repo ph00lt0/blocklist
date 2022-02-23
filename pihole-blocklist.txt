@@ -3335,3 +3335,4 @@
 0.0.0.0 tr.datatrics.com
 0.0.0.0 datatrics.com
 0.0.0.0 ads.ad-center.com
+0.0.0.0 ad-center.com

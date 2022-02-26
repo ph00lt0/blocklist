@@ -3409,3 +3409,4 @@
 ||clickonometrics.pl^
 ||delivery.clickonometrics.pl^
 ||salesmanago.pl^
+||pilot.salesmanago.pl^

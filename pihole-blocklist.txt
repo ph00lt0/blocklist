@@ -3408,3 +3408,4 @@
 0.0.0.0 clickonometrics.pl
 0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 salesmanago.pl
+0.0.0.0 pilot.salesmanago.pl

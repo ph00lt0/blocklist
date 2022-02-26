@@ -3414,3 +3414,4 @@
 ||htlb.casalemedia.com^
 ||hbopenbid.pubmatic.com^
 ||inistrack.net^
+||rt.inistrack.net^

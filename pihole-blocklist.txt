@@ -3413,3 +3413,4 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 inistrack.net
+0.0.0.0 rt.inistrack.net

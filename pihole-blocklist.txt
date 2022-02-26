@@ -3384,3 +3384,4 @@
 0.0.0.0 api.pushpushgo.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 s2.adform.net
+0.0.0.0 ads.mp.pl

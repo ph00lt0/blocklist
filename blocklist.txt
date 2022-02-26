@@ -3385,3 +3385,4 @@
 ||api.pushpushgo.com^
 ||ib.adnxs.com^
 ||s2.adform.net^
+||ads.mp.pl^

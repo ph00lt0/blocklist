@@ -3424,3 +3424,4 @@
 ||collector-pxikkul2rm.perimeterx.net^
 ||msmetrics.ws.sonos.com^
 ||redirect.frontend.weborama.fr^
+||doubleverify.com^

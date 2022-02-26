@@ -3423,3 +3423,4 @@
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 redirect.frontend.weborama.fr
+0.0.0.0 doubleverify.com

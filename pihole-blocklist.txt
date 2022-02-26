@@ -3425,3 +3425,4 @@
 0.0.0.0 redirect.frontend.weborama.fr
 0.0.0.0 doubleverify.com
 0.0.0.0 tps.doubleverify.com
+0.0.0.0 tpsc-frc.doubleverify.com

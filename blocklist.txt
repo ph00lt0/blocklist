@@ -3426,3 +3426,4 @@
 ||redirect.frontend.weborama.fr^
 ||doubleverify.com^
 ||tps.doubleverify.com^
+||tpsc-frc.doubleverify.com^

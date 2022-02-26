@@ -3412,3 +3412,4 @@
 ||pilot.salesmanago.pl^
 ||pixel.advertising.com^
 ||htlb.casalemedia.com^
+||hbopenbid.pubmatic.com^

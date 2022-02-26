@@ -3411,3 +3411,4 @@
 ||salesmanago.pl^
 ||pilot.salesmanago.pl^
 ||pixel.advertising.com^
+||htlb.casalemedia.com^

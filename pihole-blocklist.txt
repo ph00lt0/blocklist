@@ -3410,3 +3410,4 @@
 0.0.0.0 salesmanago.pl
 0.0.0.0 pilot.salesmanago.pl
 0.0.0.0 pixel.advertising.com
+0.0.0.0 htlb.casalemedia.com

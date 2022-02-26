@@ -3417,3 +3417,4 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 adjust.world
 0.0.0.0 adjust.net.in
+0.0.0.0 app.adjust.world

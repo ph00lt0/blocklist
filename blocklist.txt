@@ -3418,3 +3418,4 @@
 ||urbanairship.com^
 ||adjust.world^
 ||adjust.net.in^
+||app.adjust.world^

@@ -3392,3 +3392,4 @@
 0.0.0.0 yieldmo.com
 0.0.0.0 sync-amz.ads.yieldmo.com
 0.0.0.0 btlr.sharethrough.com
+0.0.0.0 ads.businessclick.com

@@ -3426,3 +3426,4 @@
 0.0.0.0 doubleverify.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tpsc-frc.doubleverify.com
+0.0.0.0 beacon.krxd.net

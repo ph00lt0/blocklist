@@ -3427,3 +3427,4 @@
 ||doubleverify.com^
 ||tps.doubleverify.com^
 ||tpsc-frc.doubleverify.com^
+||beacon.krxd.net^

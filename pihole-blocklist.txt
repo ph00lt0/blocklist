@@ -3390,3 +3390,4 @@
 0.0.0.0 amazon-tam-match.dotomi.com
 0.0.0.0 dotomi.com
 0.0.0.0 yieldmo.com
+0.0.0.0 sync-amz.ads.yieldmo.com

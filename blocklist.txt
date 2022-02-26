@@ -3391,3 +3391,4 @@
 ||amazon-tam-match.dotomi.com^
 ||dotomi.com^
 ||yieldmo.com^
+||sync-amz.ads.yieldmo.com^

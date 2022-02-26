@@ -3425,3 +3425,4 @@
 ||msmetrics.ws.sonos.com^
 ||redirect.frontend.weborama.fr^
 ||doubleverify.com^
+||tps.doubleverify.com^

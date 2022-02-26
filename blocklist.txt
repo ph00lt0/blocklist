@@ -3397,3 +3397,4 @@
 ||adb.wp.pl^
 ||deepintent.com^
 ||match.deepintent.com^
+||technoratimedia.com^

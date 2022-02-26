@@ -3410,3 +3410,4 @@
 ||delivery.clickonometrics.pl^
 ||salesmanago.pl^
 ||pilot.salesmanago.pl^
+||pixel.advertising.com^

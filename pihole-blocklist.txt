@@ -3412,3 +3412,4 @@
 0.0.0.0 pixel.advertising.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 inistrack.net

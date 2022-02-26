@@ -3420,3 +3420,4 @@
 ||adjust.net.in^
 ||app.adjust.world^
 ||app.adjust.net.in^
+||perimeterx.net^

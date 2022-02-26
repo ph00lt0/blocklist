@@ -3415,3 +3415,4 @@
 0.0.0.0 inistrack.net
 0.0.0.0 rt.inistrack.net
 0.0.0.0 urbanairship.com
+0.0.0.0 adjust.world

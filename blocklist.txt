@@ -3416,3 +3416,4 @@
 ||inistrack.net^
 ||rt.inistrack.net^
 ||urbanairship.com^
+||adjust.world^

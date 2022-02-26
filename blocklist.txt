@@ -3392,3 +3392,4 @@
 ||dotomi.com^
 ||yieldmo.com^
 ||sync-amz.ads.yieldmo.com^
+||btlr.sharethrough.com^

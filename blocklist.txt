@@ -3407,3 +3407,4 @@
 ||65d214d9203e5941156feae337e7046a.safeframe.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||clickonometrics.pl^
+||delivery.clickonometrics.pl^

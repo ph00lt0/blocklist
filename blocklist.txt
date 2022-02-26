@@ -3395,3 +3395,4 @@
 ||btlr.sharethrough.com^
 ||ads.businessclick.com^
 ||adb.wp.pl^
+||deepintent.com^

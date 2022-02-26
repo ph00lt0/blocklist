@@ -3405,3 +3405,4 @@
 ||pixel6.wp.pl^
 ||eus.rubiconproject.com^
 ||65d214d9203e5941156feae337e7046a.safeframe.googlesyndication.com^
+||safeframe.googlesyndication.com^

@@ -3404,3 +3404,4 @@
 0.0.0.0 pixel6.wp.pl
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 65d214d9203e5941156feae337e7046a.safeframe.googlesyndication.com
+0.0.0.0 safeframe.googlesyndication.com

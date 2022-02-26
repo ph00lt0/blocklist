@@ -3408,3 +3408,4 @@
 ||safeframe.googlesyndication.com^
 ||clickonometrics.pl^
 ||delivery.clickonometrics.pl^
+||salesmanago.pl^

@@ -3407,3 +3407,4 @@
 0.0.0.0 safeframe.googlesyndication.com
 0.0.0.0 clickonometrics.pl
 0.0.0.0 delivery.clickonometrics.pl
+0.0.0.0 salesmanago.pl

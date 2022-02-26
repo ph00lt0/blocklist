@@ -3399,3 +3399,4 @@
 0.0.0.0 technoratimedia.com
 0.0.0.0 uat-net.technoratimedia.com
 0.0.0.0 audex.userreport.com
+0.0.0.0 userreport.com

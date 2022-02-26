@@ -3379,3 +3379,4 @@
 0.0.0.0 service.giosg.com
 0.0.0.0 tvn.hit.gemius.pl
 0.0.0.0 mobile-collector.eu01.nr-data.net
+0.0.0.0 pix2.services.tvn.pl

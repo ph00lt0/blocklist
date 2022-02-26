@@ -3422,3 +3422,4 @@
 ||app.adjust.net.in^
 ||perimeterx.net^
 ||collector-pxikkul2rm.perimeterx.net^
+||msmetrics.ws.sonos.com^

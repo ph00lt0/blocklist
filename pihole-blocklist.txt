@@ -3421,3 +3421,4 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 perimeterx.net
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
+0.0.0.0 msmetrics.ws.sonos.com

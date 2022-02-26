@@ -3419,3 +3419,4 @@
 ||adjust.world^
 ||adjust.net.in^
 ||app.adjust.world^
+||app.adjust.net.in^

@@ -3396,3 +3396,4 @@
 ||ads.businessclick.com^
 ||adb.wp.pl^
 ||deepintent.com^
+||match.deepintent.com^

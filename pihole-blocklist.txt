@@ -3385,3 +3385,4 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 s2.adform.net
 0.0.0.0 ads.mp.pl
+0.0.0.0 secure.quantserve.com

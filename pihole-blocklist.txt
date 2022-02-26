@@ -3397,3 +3397,4 @@
 0.0.0.0 deepintent.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 technoratimedia.com
+0.0.0.0 uat-net.technoratimedia.com

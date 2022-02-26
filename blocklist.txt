@@ -3398,3 +3398,4 @@
 ||deepintent.com^
 ||match.deepintent.com^
 ||technoratimedia.com^
+||uat-net.technoratimedia.com^

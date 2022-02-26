@@ -3387,3 +3387,4 @@
 ||s2.adform.net^
 ||ads.mp.pl^
 ||secure.quantserve.com^
+||mgr.consensu.org^

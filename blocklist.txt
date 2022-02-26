@@ -3428,3 +3428,4 @@
 ||tps.doubleverify.com^
 ||tpsc-frc.doubleverify.com^
 ||beacon.krxd.net^
+||myao.adocean.pl^

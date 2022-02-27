@@ -3433,3 +3433,4 @@
 0.0.0.0 acquire.io
 0.0.0.0 adserver.binqmedia.nl
 0.0.0.0 tempest.saymedia.com
+0.0.0.0 content-content-saymedia.com

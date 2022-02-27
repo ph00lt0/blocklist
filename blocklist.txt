@@ -3438,3 +3438,4 @@
 ||images.saymedia.^
 ||saymedia-content.com^
 ||images.saymedia-content.com^
+||saymedia.com^

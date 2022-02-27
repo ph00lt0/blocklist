@@ -3433,3 +3433,4 @@
 ||m573ni.acquire.io^
 ||acquire.io^
 ||adserver.binqmedia.nl^
+||tempest.saymedia.com^

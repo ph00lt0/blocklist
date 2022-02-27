@@ -3432,3 +3432,4 @@
 0.0.0.0 m573ni.acquire.io
 0.0.0.0 acquire.io
 0.0.0.0 adserver.binqmedia.nl
+0.0.0.0 tempest.saymedia.com

@@ -3446,3 +3446,4 @@
 ||syndication.teleborsa.it^
 ||syndication.teleborsa.itsyndication.teleborsa.it^
 ||iforbet.pl^
+||betgenius.com^

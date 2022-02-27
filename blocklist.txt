@@ -3436,3 +3436,4 @@
 ||tempest.saymedia.com^
 ||content-content-saymedia.com^
 ||images.saymedia.^
+||s.vi-serve.com^

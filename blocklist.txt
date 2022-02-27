@@ -3448,3 +3448,4 @@
 ||iforbet.pl^
 ||betgenius.com^
 ||getreview.pl^
+||3way.pl^

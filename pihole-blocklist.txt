@@ -3435,3 +3435,4 @@
 0.0.0.0 tempest.saymedia.com
 0.0.0.0 content-content-saymedia.com
 0.0.0.0 images.saymedia.
+0.0.0.0 saymedia-content.com

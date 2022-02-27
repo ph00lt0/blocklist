@@ -3435,3 +3435,4 @@
 ||adserver.binqmedia.nl^
 ||tempest.saymedia.com^
 ||content-content-saymedia.com^
+||images.saymedia.^

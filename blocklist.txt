@@ -3447,3 +3447,4 @@
 ||syndication.teleborsa.itsyndication.teleborsa.it^
 ||iforbet.pl^
 ||betgenius.com^
+||getreview.pl^

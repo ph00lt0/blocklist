@@ -3446,3 +3446,4 @@
 0.0.0.0 syndication.teleborsa.itsyndication.teleborsa.it
 0.0.0.0 iforbet.pl
 0.0.0.0 betgenius.com
+0.0.0.0 getreview.pl

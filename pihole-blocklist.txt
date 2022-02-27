@@ -3429,3 +3429,4 @@
 0.0.0.0 beacon.krxd.net
 0.0.0.0 myao.adocean.pl
 0.0.0.0 tracking.olx-st.com
+0.0.0.0 m573ni.acquire.io

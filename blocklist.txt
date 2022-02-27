@@ -3437,3 +3437,4 @@
 ||content-content-saymedia.com^
 ||images.saymedia.^
 ||saymedia-content.com^
+||images.saymedia-content.com^

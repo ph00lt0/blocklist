@@ -3451,3 +3451,4 @@
 ||3way.pl^
 ||elqtrk.intel.com^
 ||cdnssl.clicktale.net^
+||researchintel.com^

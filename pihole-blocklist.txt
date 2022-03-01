@@ -3450,3 +3450,4 @@
 0.0.0.0 3way.pl
 0.0.0.0 elqtrk.intel.com
 0.0.0.0 cdnssl.clicktale.net
+0.0.0.0 researchintel.com

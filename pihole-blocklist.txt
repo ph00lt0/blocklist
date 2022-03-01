@@ -3449,3 +3449,4 @@
 0.0.0.0 getreview.pl
 0.0.0.0 3way.pl
 0.0.0.0 elqtrk.intel.com
+0.0.0.0 cdnssl.clicktale.net

@@ -3450,3 +3450,4 @@
 ||getreview.pl^
 ||3way.pl^
 ||elqtrk.intel.com^
+||cdnssl.clicktale.net^

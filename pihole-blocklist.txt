@@ -3448,3 +3448,4 @@
 0.0.0.0 betgenius.com
 0.0.0.0 getreview.pl
 0.0.0.0 3way.pl
+0.0.0.0 elqtrk.intel.com

@@ -3455,3 +3455,4 @@
 0.0.0.0 lasteventf-tm.everesttech.net
 0.0.0.0 everesttech.net
 0.0.0.0 partner.domaining.com
+0.0.0.0 s3.feedly.com

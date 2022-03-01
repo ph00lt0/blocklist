@@ -3456,3 +3456,4 @@
 ||lasteventf-tm.everesttech.net^
 ||everesttech.net^
 ||partner.domaining.com^
+||s3.feedly.com^

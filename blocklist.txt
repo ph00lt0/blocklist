@@ -3459,3 +3459,4 @@
 ||s3.feedly.com^
 ||feedly.com^
 ||perk0mean.com^
+||secure.perk0mean.com^

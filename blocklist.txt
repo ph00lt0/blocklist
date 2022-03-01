@@ -3460,3 +3460,4 @@
 ||feedly.com^
 ||perk0mean.com^
 ||secure.perk0mean.com^
+||cdn.rollbar.com^

@@ -3459,3 +3459,4 @@
 0.0.0.0 feedly.com
 0.0.0.0 perk0mean.com
 0.0.0.0 secure.perk0mean.com
+0.0.0.0 cdn.rollbar.com

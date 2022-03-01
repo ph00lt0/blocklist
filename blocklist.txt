@@ -3453,3 +3453,4 @@
 ||cdnssl.clicktale.net^
 ||researchintel.com^
 ||onsite2.researchintel.com^
+||lasteventf-tm.everesttech.net^

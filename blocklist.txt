@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220227
+! Version: 20220302
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -3436,16 +3436,14 @@
 ||tempest.saymedia.com^
 ||content-content-saymedia.com^
 ||images.saymedia.^
-<<<<<<< HEAD
 ||s.vi-serve.com^
-=======
 ||saymedia-content.com^
 ||images.saymedia-content.com^
 ||saymedia.com^
->>>>>>> 7b6d212eb142b79474af58ca12fc20b522de0b30
 ||syndication.teleborsa.it^
 ||syndication.teleborsa.itsyndication.teleborsa.it^
 ||iforbet.pl^
 ||betgenius.com^
 ||getreview.pl^
 ||3way.pl^
+||client.perimeterx.net^

@@ -3436,13 +3436,10 @@
 ||tempest.saymedia.com^
 ||content-content-saymedia.com^
 ||images.saymedia.^
-<<<<<<< HEAD
 ||s.vi-serve.com^
-=======
 ||saymedia-content.com^
 ||images.saymedia-content.com^
 ||saymedia.com^
->>>>>>> 7b6d212eb142b79474af58ca12fc20b522de0b30
 ||syndication.teleborsa.it^
 ||syndication.teleborsa.itsyndication.teleborsa.it^
 ||iforbet.pl^
@@ -3463,3 +3460,4 @@
 ||cdn.rollbar.com^
 ||client.perimeterx.net^
 ||esputnik.com^
+||piwik.web.cern.ch^

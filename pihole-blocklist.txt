@@ -3435,13 +3435,10 @@
 0.0.0.0 tempest.saymedia.com
 0.0.0.0 content-content-saymedia.com
 0.0.0.0 images.saymedia.
-<<<<<<< HEAD
 0.0.0.0 s.vi-serve.com
-=======
 0.0.0.0 saymedia-content.com
 0.0.0.0 images.saymedia-content.com
 0.0.0.0 saymedia.com
->>>>>>> 7b6d212eb142b79474af58ca12fc20b522de0b30
 0.0.0.0 syndication.teleborsa.it
 0.0.0.0 syndication.teleborsa.itsyndication.teleborsa.it
 0.0.0.0 iforbet.pl
@@ -3462,3 +3459,4 @@
 0.0.0.0 cdn.rollbar.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 esputnik.com
+0.0.0.0 piwik.web.cern.ch

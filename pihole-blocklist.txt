@@ -3461,3 +3461,4 @@
 0.0.0.0 secure.perk0mean.com
 0.0.0.0 cdn.rollbar.com
 0.0.0.0 client.perimeterx.net
+0.0.0.0 esputnik.com

@@ -3469,3 +3469,4 @@
 ||config.gorgias.chat^
 ||pixlee.com^
 ||assets.pixlee.com^
+||returngo.ai^

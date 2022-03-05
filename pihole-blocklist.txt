@@ -3494,3 +3494,4 @@
 0.0.0.0 apps.elfsight.com
 0.0.0.0 squeezely.tech
 0.0.0.0 static.widget.trengo.eu
+0.0.0.0 invitejs.trustpilot.com

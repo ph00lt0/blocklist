@@ -3495,3 +3495,4 @@
 ||apps.elfsight.com^
 ||squeezely.tech^
 ||static.widget.trengo.eu^
+||invitejs.trustpilot.com^

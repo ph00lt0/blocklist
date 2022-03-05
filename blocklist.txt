@@ -3477,3 +3477,4 @@
 ||api.ipstack.com^
 ||adeptmind.ai^
 ||raven.adeptmind.ai^
+||cdn.avmws.com^

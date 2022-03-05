@@ -3486,3 +3486,4 @@
 ||hf-website-live.s3-eu-west-1.amazonaws.com^
 ||o46710.ingest.sentry.io^
 ||rec.ingka.com^
+||favs.oneweb.ingka.com^

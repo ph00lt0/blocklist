@@ -3472,3 +3472,4 @@
 0.0.0.0 static.returngo.ai
 0.0.0.0 gethypervisual.com
 0.0.0.0 cdn.gethypervisual.com
+0.0.0.0 ipstack.com

@@ -3522,3 +3522,4 @@
 ||spon.ticketmaster.com^
 ||analytics.ticketmaster.ae^
 ||pixelpin.io^
+||developer-assets.pixelpin.io^

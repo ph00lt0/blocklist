@@ -3499,3 +3499,4 @@
 0.0.0.0 analytics.ticketmaster.co.uk
 0.0.0.0 collector-pxdha6lqm5.px-cloud.net
 0.0.0.0 collector-pxdha6lqm5.px-cdn.net
+0.0.0.0 collector-pxdha6lqm5.pxchk.net

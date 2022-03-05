@@ -3493,3 +3493,4 @@
 0.0.0.0 icecat.biz
 0.0.0.0 apps.elfsight.com
 0.0.0.0 squeezely.tech
+0.0.0.0 static.widget.trengo.eu

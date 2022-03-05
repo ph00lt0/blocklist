@@ -3494,3 +3494,4 @@
 ||icecat.biz^
 ||apps.elfsight.com^
 ||squeezely.tech^
+||static.widget.trengo.eu^

@@ -3478,3 +3478,4 @@
 ||adeptmind.ai^
 ||raven.adeptmind.ai^
 ||cdn.avmws.com^
+||avmws.com^

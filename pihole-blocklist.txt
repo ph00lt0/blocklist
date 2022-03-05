@@ -3477,3 +3477,4 @@
 0.0.0.0 adeptmind.ai
 0.0.0.0 raven.adeptmind.ai
 0.0.0.0 cdn.avmws.com
+0.0.0.0 avmws.com

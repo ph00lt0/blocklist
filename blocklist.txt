@@ -3497,3 +3497,4 @@
 ||static.widget.trengo.eu^
 ||invitejs.trustpilot.com^
 ||analytics.ticketmaster.nl^
+||analytics.ticketmaster.co.uk^

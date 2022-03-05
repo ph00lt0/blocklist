@@ -3468,3 +3468,4 @@
 ||gorgias.chat^
 ||config.gorgias.chat^
 ||pixlee.com^
+||assets.pixlee.com^

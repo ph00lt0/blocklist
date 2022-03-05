@@ -3502,3 +3502,4 @@
 ||collector-pxdha6lqm5.px-cdn.net^
 ||collector-pxdha6lqm5.pxchk.net^
 ||nudatasecurity.com^
+||api-ticketmaster.nd.nudatasecurity.com^

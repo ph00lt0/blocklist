@@ -3472,3 +3472,4 @@
 ||returngo.ai^
 ||static.returngo.ai^
 ||gethypervisual.com^
+||cdn.gethypervisual.com^

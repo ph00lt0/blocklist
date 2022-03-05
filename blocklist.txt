@@ -3506,3 +3506,4 @@
 ||analytics.ticketmaster.it^
 ||analytics.ticketmaster.at^
 ||analytics.ticketmaster.no^
+||analytics.ticketmaster.co.nz^

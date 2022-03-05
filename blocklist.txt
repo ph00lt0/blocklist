@@ -3504,3 +3504,4 @@
 ||nudatasecurity.com^
 ||api-ticketmaster.nd.nudatasecurity.com^
 ||analytics.ticketmaster.it^
+||analytics.ticketmaster.at^

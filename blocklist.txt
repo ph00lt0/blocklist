@@ -3479,3 +3479,4 @@
 ||raven.adeptmind.ai^
 ||cdn.avmws.com^
 ||avmws.com^
+||d7aa7r7vz5xs4.cloudfront.net^

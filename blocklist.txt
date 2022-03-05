@@ -3529,3 +3529,4 @@
 ||analytics.ticketmaster.pl^
 ||widget.fitanalytics.com^
 ||addevent.com^
+||srcspot.com^

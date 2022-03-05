@@ -3529,3 +3529,4 @@
 0.0.0.0 widget.fitanalytics.com
 0.0.0.0 addevent.com
 0.0.0.0 srcspot.com
+0.0.0.0 static.srcspot.com

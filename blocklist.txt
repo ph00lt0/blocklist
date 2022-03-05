@@ -3530,3 +3530,4 @@
 ||widget.fitanalytics.com^
 ||addevent.com^
 ||srcspot.com^
+||static.srcspot.com^

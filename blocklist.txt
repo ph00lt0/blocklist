@@ -3528,3 +3528,4 @@
 ||analytics.ticketmaster.fi^
 ||analytics.ticketmaster.pl^
 ||widget.fitanalytics.com^
+||addevent.com^

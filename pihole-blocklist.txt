@@ -3518,3 +3518,4 @@
 0.0.0.0 analytics.ticketmaster.be
 0.0.0.0 analytics.ticketmaster.com.au
 0.0.0.0 spon.ticketmaster.net
+0.0.0.0 spon.ticketmaster.com

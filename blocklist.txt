@@ -3463,3 +3463,4 @@
 ||piwik.web.cern.ch^
 ||seoab.io^
 ||bcc.livecom.net^
+||dynamic-yield.com^

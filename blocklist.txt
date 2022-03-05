@@ -3515,3 +3515,4 @@
 ||analytics.ticketmaster.es^
 ||analytics.ticketmaster.de^
 ||analytics.ticketmaster.dk^
+||analytics.ticketmaster.cz^

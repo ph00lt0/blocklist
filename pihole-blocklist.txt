@@ -3514,3 +3514,4 @@
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.ticketmaster.de
 0.0.0.0 analytics.ticketmaster.dk
+0.0.0.0 analytics.ticketmaster.cz

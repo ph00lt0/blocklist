@@ -3518,3 +3518,4 @@
 ||analytics.ticketmaster.cz^
 ||analytics.ticketmaster.be^
 ||analytics.ticketmaster.com.au^
+||spon.ticketmaster.net^

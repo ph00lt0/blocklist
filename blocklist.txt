@@ -3493,3 +3493,4 @@
 ||live.icecat.biz^
 ||icecat.biz^
 ||apps.elfsight.com^
+||squeezely.tech^

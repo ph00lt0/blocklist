@@ -3481,3 +3481,4 @@
 ||avmws.com^
 ||d7aa7r7vz5xs4.cloudfront.net^
 ||appmate.io^
+||api.appmate.io^

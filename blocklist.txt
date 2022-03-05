@@ -3483,3 +3483,4 @@
 ||appmate.io^
 ||api.appmate.io^
 ||navigator-dynamic.tweakwise.com^
+||hf-website-live.s3-eu-west-1.amazonaws.com^

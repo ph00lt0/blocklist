@@ -3464,3 +3464,4 @@
 ||seoab.io^
 ||bcc.livecom.net^
 ||dynamic-yield.com^
+||sca-cdn.dynamic-yield.com^

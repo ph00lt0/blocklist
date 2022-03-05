@@ -3463,3 +3463,4 @@
 0.0.0.0 seoab.io
 0.0.0.0 bcc.livecom.net
 0.0.0.0 dynamic-yield.com
+0.0.0.0 sca-cdn.dynamic-yield.com

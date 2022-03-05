@@ -3507,3 +3507,4 @@
 0.0.0.0 analytics.ticketmaster.no
 0.0.0.0 analytics.ticketmaster.co.nz
 0.0.0.0 analytics.ticketmaster.com.mx
+0.0.0.0 addtocalendar.com

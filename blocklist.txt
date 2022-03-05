@@ -3508,3 +3508,4 @@
 ||analytics.ticketmaster.no^
 ||analytics.ticketmaster.co.nz^
 ||analytics.ticketmaster.com.mx^
+||addtocalendar.com^

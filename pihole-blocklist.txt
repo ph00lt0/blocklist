@@ -3481,3 +3481,4 @@
 0.0.0.0 d7aa7r7vz5xs4.cloudfront.net
 0.0.0.0 appmate.io
 0.0.0.0 api.appmate.io
+0.0.0.0 navigator-dynamic.tweakwise.com

@@ -3498,3 +3498,4 @@
 ||invitejs.trustpilot.com^
 ||analytics.ticketmaster.nl^
 ||analytics.ticketmaster.co.uk^
+||collector-pxdha6lqm5.px-cloud.net^

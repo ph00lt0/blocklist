@@ -3524,3 +3524,4 @@
 ||pixelpin.io^
 ||developer-assets.pixelpin.io^
 ||analytics.ticketmaster.ch^
+||analytics.ticketmaster.se^

@@ -3471,3 +3471,4 @@
 ||assets.pixlee.com^
 ||returngo.ai^
 ||static.returngo.ai^
+||gethypervisual.com^

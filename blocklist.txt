@@ -3466,3 +3466,4 @@
 ||dynamic-yield.com^
 ||sca-cdn.dynamic-yield.com^
 ||gorgias.chat^
+||config.gorgias.chat^

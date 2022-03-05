@@ -3503,3 +3503,4 @@
 ||collector-pxdha6lqm5.pxchk.net^
 ||nudatasecurity.com^
 ||api-ticketmaster.nd.nudatasecurity.com^
+||analytics.ticketmaster.it^

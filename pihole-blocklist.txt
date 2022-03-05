@@ -3502,3 +3502,4 @@
 0.0.0.0 collector-pxdha6lqm5.pxchk.net
 0.0.0.0 nudatasecurity.com
 0.0.0.0 api-ticketmaster.nd.nudatasecurity.com
+0.0.0.0 analytics.ticketmaster.it

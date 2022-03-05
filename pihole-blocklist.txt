@@ -3522,3 +3522,4 @@
 0.0.0.0 analytics.ticketmaster.ae
 0.0.0.0 pixelpin.io
 0.0.0.0 developer-assets.pixelpin.io
+0.0.0.0 analytics.ticketmaster.ch

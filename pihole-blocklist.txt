@@ -3504,3 +3504,4 @@
 0.0.0.0 api-ticketmaster.nd.nudatasecurity.com
 0.0.0.0 analytics.ticketmaster.it
 0.0.0.0 analytics.ticketmaster.at
+0.0.0.0 analytics.ticketmaster.no

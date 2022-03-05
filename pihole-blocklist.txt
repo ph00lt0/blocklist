@@ -3479,3 +3479,4 @@
 0.0.0.0 cdn.avmws.com
 0.0.0.0 avmws.com
 0.0.0.0 d7aa7r7vz5xs4.cloudfront.net
+0.0.0.0 appmate.io

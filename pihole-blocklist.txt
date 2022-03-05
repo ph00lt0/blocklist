@@ -3525,3 +3525,4 @@
 0.0.0.0 analytics.ticketmaster.ch
 0.0.0.0 analytics.ticketmaster.se
 0.0.0.0 analytics.ticketmaster.fi
+0.0.0.0 analytics.ticketmaster.pl

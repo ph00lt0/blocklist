@@ -3526,3 +3526,4 @@
 ||analytics.ticketmaster.ch^
 ||analytics.ticketmaster.se^
 ||analytics.ticketmaster.fi^
+||analytics.ticketmaster.pl^

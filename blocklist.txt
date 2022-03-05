@@ -3476,3 +3476,4 @@
 ||ipstack.com^
 ||api.ipstack.com^
 ||adeptmind.ai^
+||raven.adeptmind.ai^

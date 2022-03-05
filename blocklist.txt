@@ -3475,3 +3475,4 @@
 ||cdn.gethypervisual.com^
 ||ipstack.com^
 ||api.ipstack.com^
+||adeptmind.ai^

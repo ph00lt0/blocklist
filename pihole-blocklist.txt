@@ -3474,3 +3474,4 @@
 0.0.0.0 cdn.gethypervisual.com
 0.0.0.0 ipstack.com
 0.0.0.0 api.ipstack.com
+0.0.0.0 adeptmind.ai

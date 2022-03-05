@@ -3492,3 +3492,4 @@
 ||widget.thuiswinkel.org^
 ||live.icecat.biz^
 ||icecat.biz^
+||apps.elfsight.com^

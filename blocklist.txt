@@ -3510,3 +3510,4 @@
 ||analytics.ticketmaster.com.mx^
 ||addtocalendar.com^
 ||analytics.ticketmaster.ie^
+||avis-verifies.com^

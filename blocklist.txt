@@ -3513,3 +3513,4 @@
 ||avis-verifies.com^
 ||www.avis-verifies.com^
 ||analytics.ticketmaster.es^
+||analytics.ticketmaster.de^

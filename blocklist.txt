@@ -3525,3 +3525,4 @@
 ||developer-assets.pixelpin.io^
 ||analytics.ticketmaster.ch^
 ||analytics.ticketmaster.se^
+||analytics.ticketmaster.fi^

@@ -3520,3 +3520,4 @@
 ||analytics.ticketmaster.com.au^
 ||spon.ticketmaster.net^
 ||spon.ticketmaster.com^
+||analytics.ticketmaster.ae^

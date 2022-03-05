@@ -3521,3 +3521,4 @@
 ||spon.ticketmaster.net^
 ||spon.ticketmaster.com^
 ||analytics.ticketmaster.ae^
+||pixelpin.io^

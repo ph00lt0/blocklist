@@ -3535,3 +3535,4 @@
 ||matomo.clickmeeting.com^
 ||adobe.tt.omtrdc.net^
 ||geo2.adobe.com^
+||tools.refokus.io^

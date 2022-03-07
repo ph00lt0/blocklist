@@ -3639,3 +3639,4 @@
 ||clearbitscripts.com^
 ||tag.clearbitscripts.com^
 ||askattest.com^
+||c.strava.com^

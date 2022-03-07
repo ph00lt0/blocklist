@@ -3624,3 +3624,4 @@
 0.0.0.0 heron.joel.is
 0.0.0.0 gdpr.privacymanager.io
 0.0.0.0 fonts.twitter.com
+0.0.0.0 snowplowanalytics.com

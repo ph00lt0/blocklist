@@ -3644,3 +3644,4 @@
 ||logger.goeuro.com^
 ||a977a3e6afa6.cdn4.forter.com^
 ||d1wix2gc2cgqis.cloudfront.net^
+||o140309.ingest.sentry.io^

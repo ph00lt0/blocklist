@@ -3606,3 +3606,4 @@
 ||web-sdk.urbanairship.com^
 ||snowplow.gusto.com^
 ||edge.fullstory.com^
+||fullstory.com^

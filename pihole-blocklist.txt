@@ -3670,3 +3670,4 @@
 0.0.0.0 zndmmn5xvl6kkq0eh-simplybusiness.siteintercept.qualtrics.com
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 cta-service-cms2.hubspot.com
+0.0.0.0 hsforms.com

@@ -3671,3 +3671,4 @@
 ||zndmmn5xvl6kkq0eh-simplybusiness.siteintercept.qualtrics.com^
 ||app-sji.marketo.com^
 ||cta-service-cms2.hubspot.com^
+||hsforms.com^

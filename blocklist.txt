@@ -3572,3 +3572,4 @@
 ||cdn.finsweet.com^
 ||finsweet.com^
 ||lfeeder.com^
+||sc.lfeeder.com^

@@ -3571,3 +3571,4 @@
 0.0.0.0 cdn.finsweet.com
 0.0.0.0 finsweet.com
 0.0.0.0 lfeeder.com
+0.0.0.0 sc.lfeeder.com

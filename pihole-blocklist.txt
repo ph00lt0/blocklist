@@ -3545,3 +3545,4 @@
 0.0.0.0 geojs.io
 0.0.0.0 get.geojs.io
 0.0.0.0 cdn.cove.chat
+0.0.0.0 cove.chat

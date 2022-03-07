@@ -3601,3 +3601,4 @@
 0.0.0.0 prolitteris.ch
 0.0.0.0 pl01.owen.prolitteris.ch
 0.0.0.0 gc-ingress-prod.danzz.ch
+0.0.0.0 danzz.ch

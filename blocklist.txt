@@ -3602,3 +3602,4 @@
 ||prolitteris.ch^
 ||pl01.owen.prolitteris.ch^
 ||gc-ingress-prod.danzz.ch^
+||danzz.ch^

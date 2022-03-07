@@ -3562,3 +3562,4 @@
 ||sumo.com^
 ||vanschneider.ghost.io^
 ||ghost.io^
+||segment-analytics.buffer.com^

@@ -3571,3 +3571,4 @@
 ||js.partnerstack.com^
 ||cdn.finsweet.com^
 ||finsweet.com^
+||lfeeder.com^

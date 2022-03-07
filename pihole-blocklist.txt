@@ -3533,3 +3533,4 @@
 0.0.0.0 matomo.riot.im
 0.0.0.0 matomo.clickmeeting.com
 0.0.0.0 adobe.tt.omtrdc.net
+0.0.0.0 geo2.adobe.com

@@ -3623,3 +3623,4 @@
 ||proxy.speechkit.io^
 ||beeline-widget.s3.amazonaws.com^
 ||heron.joel.is^
+||gdpr.privacymanager.io^

@@ -3625,3 +3625,4 @@
 0.0.0.0 gdpr.privacymanager.io
 0.0.0.0 fonts.twitter.com
 0.0.0.0 snowplowanalytics.com
+0.0.0.0 go.snowplowanalytics.com

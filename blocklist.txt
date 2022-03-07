@@ -3626,3 +3626,4 @@
 ||gdpr.privacymanager.io^
 ||fonts.twitter.com^
 ||snowplowanalytics.com^
+||go.snowplowanalytics.com^

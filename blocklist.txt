@@ -3635,3 +3635,4 @@
 ||fluid.4strokemedia.com^
 ||tm.mittelbayerische.de^
 ||api-dev-4il4eytndq-ey.a.run.app^
+||static-de.plista.com^

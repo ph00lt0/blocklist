@@ -3560,3 +3560,4 @@
 ||rightmessage.com^
 ||load.sumo.com^
 ||sumo.com^
+||vanschneider.ghost.io^

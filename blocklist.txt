@@ -3552,3 +3552,4 @@
 ||deadlinefunnel.com^
 ||videoask.com^
 ||www.videoask.com^
+||sparkloop.app^

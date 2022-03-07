@@ -3594,3 +3594,4 @@
 ||oxifwsabgd.nzz.ch^
 ||track.nzz.ch^
 ||tms.nzz.ch^
+||adnz.co^

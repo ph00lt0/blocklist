@@ -3593,3 +3593,4 @@
 0.0.0.0 oxifwsabgd.nzz.ch
 0.0.0.0 track.nzz.ch
 0.0.0.0 tms.nzz.ch
+0.0.0.0 adnz.co

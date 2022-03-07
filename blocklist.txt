@@ -3666,3 +3666,4 @@
 ||sentry.justwatch.com^
 ||i.tw.cx^
 ||tw.cx^
+||bc-us.simplybusiness.com^

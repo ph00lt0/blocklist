@@ -3532,3 +3532,4 @@
 ||srcspot.com^
 ||static.srcspot.com^
 ||matomo.riot.im^
+||matomo.clickmeeting.com^

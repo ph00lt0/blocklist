@@ -3531,3 +3531,4 @@
 0.0.0.0 srcspot.com
 0.0.0.0 static.srcspot.com
 0.0.0.0 matomo.riot.im
+0.0.0.0 matomo.clickmeeting.com

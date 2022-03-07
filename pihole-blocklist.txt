@@ -3580,3 +3580,4 @@
 0.0.0.0 img3.usefathom.com
 0.0.0.0 fathom.status.im
 0.0.0.0 app.hushly.com
+0.0.0.0 hushly.com

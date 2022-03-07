@@ -3581,3 +3581,4 @@
 ||img3.usefathom.com^
 ||fathom.status.im^
 ||app.hushly.com^
+||hushly.com^

@@ -3539,3 +3539,4 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 d33np9n32j53g7.cloudfront.net
 0.0.0.0 demo-web.matomo.org
+0.0.0.0 ghbtns.com

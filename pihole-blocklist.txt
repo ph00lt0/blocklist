@@ -3662,3 +3662,4 @@
 0.0.0.0 cdn.tryribbon.com
 0.0.0.0 performancing.com
 0.0.0.0 pmetrics.performancing.com
+0.0.0.0 sentry.justwatch.com

@@ -3550,3 +3550,4 @@
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 deadlinefunnel.com
 0.0.0.0 videoask.com
+0.0.0.0 www.videoask.com

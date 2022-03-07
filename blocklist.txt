@@ -3551,3 +3551,4 @@
 ||a.deadlinefunnel.com^
 ||deadlinefunnel.com^
 ||videoask.com^
+||www.videoask.com^

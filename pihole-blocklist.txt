@@ -3574,3 +3574,4 @@
 0.0.0.0 sc.lfeeder.com
 0.0.0.0 o55869.ingest.sentry.io
 0.0.0.0 x.clearbitjs.com
+0.0.0.0 grow.clearbitjs.com

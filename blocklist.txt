@@ -3619,3 +3619,4 @@
 ||sitesearch360.com^
 ||arc.io^
 ||t.ghostboard.io^
+||speechkit.io^

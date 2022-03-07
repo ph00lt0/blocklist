@@ -3574,3 +3574,4 @@
 ||lfeeder.com^
 ||sc.lfeeder.com^
 ||o55869.ingest.sentry.io^
+||x.clearbitjs.com^

@@ -3628,3 +3628,4 @@
 ||snowplowanalytics.com^
 ||go.snowplowanalytics.com^
 ||customerioforms.com^
+||d1fc8wv8zag5ca.cloudfront.net^

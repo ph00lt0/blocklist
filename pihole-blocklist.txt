@@ -3627,3 +3627,4 @@
 0.0.0.0 snowplowanalytics.com
 0.0.0.0 go.snowplowanalytics.com
 0.0.0.0 customerioforms.com
+0.0.0.0 d1fc8wv8zag5ca.cloudfront.net

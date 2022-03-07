@@ -3609,3 +3609,4 @@
 0.0.0.0 appboycdn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 pewresearch.org
+0.0.0.0 assets.pewresearch.org

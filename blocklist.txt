@@ -3610,3 +3610,4 @@
 ||appboycdn.com^
 ||js.appboycdn.com^
 ||pewresearch.org^
+||assets.pewresearch.org^

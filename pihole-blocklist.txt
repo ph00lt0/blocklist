@@ -3560,3 +3560,4 @@
 0.0.0.0 load.sumo.com
 0.0.0.0 sumo.com
 0.0.0.0 vanschneider.ghost.io
+0.0.0.0 ghost.io

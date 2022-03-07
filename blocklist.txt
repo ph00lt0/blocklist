@@ -3640,4 +3640,4 @@
 ||tag.clearbitscripts.com^
 ||askattest.com^
 ||c.strava.com^
-||cdn-goeuro.com^
+@@||cdn-goeuro.com^  # Not just tracker

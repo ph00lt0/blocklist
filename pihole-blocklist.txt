@@ -3639,4 +3639,4 @@
 0.0.0.0 tag.clearbitscripts.com
 0.0.0.0 askattest.com
 0.0.0.0 c.strava.com
-0.0.0.0 cdn-goeuro.com
+! allow cdn-goeuro.com reason: Not just tracker

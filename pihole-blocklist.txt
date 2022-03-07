@@ -3655,3 +3655,4 @@
 0.0.0.0 api.rb-fe.nuglif.net
 0.0.0.0 hb.districtm.io
 0.0.0.0 d21gpk1vhmjuf5.cloudfront.net
+0.0.0.0 www.iglooanalytics.com

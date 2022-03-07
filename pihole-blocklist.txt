@@ -3640,3 +3640,4 @@
 0.0.0.0 askattest.com
 0.0.0.0 c.strava.com
 ! allow cdn-goeuro.com reason: Not just tracker
+0.0.0.0 logger.goeuro.com

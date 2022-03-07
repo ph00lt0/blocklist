@@ -3641,3 +3641,4 @@
 ||askattest.com^
 ||c.strava.com^
 @@||cdn-goeuro.com^  # Not just tracker
+||logger.goeuro.com^

@@ -3578,3 +3578,4 @@
 ||grow.clearbitjs.com^
 ||clearbitjs.com^
 ||fastmail.innocraft.cloud^
+||img3.usefathom.com^

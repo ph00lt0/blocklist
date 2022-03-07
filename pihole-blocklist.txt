@@ -3578,3 +3578,4 @@
 0.0.0.0 clearbitjs.com
 0.0.0.0 fastmail.innocraft.cloud
 0.0.0.0 img3.usefathom.com
+0.0.0.0 fathom.status.im

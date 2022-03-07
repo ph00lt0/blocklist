@@ -3541,3 +3541,4 @@
 0.0.0.0 demo-web.matomo.org
 0.0.0.0 ghbtns.com
 0.0.0.0 firstpromoter.com
+0.0.0.0 cdn.firstpromoter.com

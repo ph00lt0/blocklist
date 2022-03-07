@@ -3542,3 +3542,4 @@
 ||demo-web.matomo.org^
 ||ghbtns.com^
 ||firstpromoter.com^
+||cdn.firstpromoter.com^

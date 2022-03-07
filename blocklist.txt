@@ -3649,3 +3649,4 @@
 ||app.launchdarkly.com^
 ||snplow.net^
 ||com-tourlane-prod1.collector.snplow.net^
+||collector.snplow.net^

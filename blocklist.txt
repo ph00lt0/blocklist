@@ -3553,3 +3553,4 @@
 ||videoask.com^
 ||www.videoask.com^
 ||sparkloop.app^
+||dash.sparkloop.app^

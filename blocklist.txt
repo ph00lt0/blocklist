@@ -3621,3 +3621,4 @@
 ||t.ghostboard.io^
 ||speechkit.io^
 ||proxy.speechkit.io^
+||beeline-widget.s3.amazonaws.com^

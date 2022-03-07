@@ -3543,3 +3543,4 @@
 ||ghbtns.com^
 ||firstpromoter.com^
 ||cdn.firstpromoter.com^
+||geojs.io^

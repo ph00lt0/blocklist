@@ -3542,3 +3542,4 @@
 0.0.0.0 ghbtns.com
 0.0.0.0 firstpromoter.com
 0.0.0.0 cdn.firstpromoter.com
+0.0.0.0 geojs.io

@@ -3646,3 +3646,4 @@
 ||d1wix2gc2cgqis.cloudfront.net^
 ||o140309.ingest.sentry.io^
 ||sp.welcometothejungle.com^
+||app.launchdarkly.com^

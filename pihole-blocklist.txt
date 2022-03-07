@@ -3536,3 +3536,4 @@
 0.0.0.0 geo2.adobe.com
 0.0.0.0 tools.refokus.io
 0.0.0.0 hubspot.clearbit.com
+0.0.0.0 api.amplitude.com

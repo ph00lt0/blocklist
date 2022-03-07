@@ -3537,3 +3537,4 @@
 ||geo2.adobe.com^
 ||tools.refokus.io^
 ||hubspot.clearbit.com^
+||api.amplitude.com^

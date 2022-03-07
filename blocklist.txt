@@ -3604,3 +3604,4 @@
 ||gc-ingress-prod.danzz.ch^
 ||danzz.ch^
 ||web-sdk.urbanairship.com^
+||snowplow.gusto.com^

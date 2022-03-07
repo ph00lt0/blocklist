@@ -3619,3 +3619,4 @@
 0.0.0.0 arc.io
 0.0.0.0 t.ghostboard.io
 0.0.0.0 speechkit.io
+0.0.0.0 proxy.speechkit.io

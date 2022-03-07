@@ -3672,3 +3672,4 @@
 ||app-sji.marketo.com^
 ||cta-service-cms2.hubspot.com^
 ||hsforms.com^
+||aswpsdkus.com^

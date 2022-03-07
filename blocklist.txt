@@ -3550,3 +3550,4 @@
 ||thebrowser.ghost.io^
 ||a.deadlinefunnel.com^
 ||deadlinefunnel.com^
+||videoask.com^

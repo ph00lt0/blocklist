@@ -3549,3 +3549,4 @@
 0.0.0.0 thebrowser.ghost.io
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 deadlinefunnel.com
+0.0.0.0 videoask.com

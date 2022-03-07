@@ -3549,3 +3549,4 @@
 ||cove.chat^
 ||thebrowser.ghost.io^
 ||a.deadlinefunnel.com^
+||deadlinefunnel.com^

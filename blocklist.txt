@@ -3557,3 +3557,4 @@
 ||aliabdaal.ck.page^
 ||ck.page^
 ||tb.rightmessage.com^
+||rightmessage.com^

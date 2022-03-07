@@ -3590,3 +3590,4 @@
 ||texttrafikcom.files.wordpress.com^
 ||intelligencesquared.com^
 ||www.intelligencesquared.com^
+||astatic.org^

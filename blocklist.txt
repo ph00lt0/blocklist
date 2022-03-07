@@ -3654,3 +3654,4 @@
 ||cdn.optable.co^
 ||micro.rubiconproject.com^
 ||api.rb-fe.nuglif.net^
+||hb.districtm.io^

@@ -3650,3 +3650,4 @@
 0.0.0.0 com-tourlane-prod1.collector.snplow.net
 0.0.0.0 collector.snplow.net
 0.0.0.0 optable.co
+0.0.0.0 cdn.optable.co

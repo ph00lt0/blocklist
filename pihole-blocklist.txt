@@ -3637,3 +3637,4 @@
 0.0.0.0 static-de.plista.com
 0.0.0.0 clearbitscripts.com
 0.0.0.0 tag.clearbitscripts.com
+0.0.0.0 askattest.com

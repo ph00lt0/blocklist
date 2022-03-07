@@ -3638,3 +3638,4 @@
 ||static-de.plista.com^
 ||clearbitscripts.com^
 ||tag.clearbitscripts.com^
+||askattest.com^

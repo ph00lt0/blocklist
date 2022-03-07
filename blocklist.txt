@@ -3556,3 +3556,4 @@
 ||dash.sparkloop.app^
 ||aliabdaal.ck.page^
 ||ck.page^
+||tb.rightmessage.com^

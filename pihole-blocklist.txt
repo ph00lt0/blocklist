@@ -3635,3 +3635,4 @@
 0.0.0.0 tm.mittelbayerische.de
 0.0.0.0 api-dev-4il4eytndq-ey.a.run.app
 0.0.0.0 static-de.plista.com
+0.0.0.0 clearbitscripts.com

@@ -3651,3 +3651,4 @@
 0.0.0.0 collector.snplow.net
 0.0.0.0 optable.co
 0.0.0.0 cdn.optable.co
+0.0.0.0 micro.rubiconproject.com

@@ -3652,3 +3652,4 @@
 ||collector.snplow.net^
 ||optable.co^
 ||cdn.optable.co^
+||micro.rubiconproject.com^

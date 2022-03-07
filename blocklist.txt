@@ -3640,3 +3640,4 @@
 ||tag.clearbitscripts.com^
 ||askattest.com^
 ||c.strava.com^
+||cdn-goeuro.com^

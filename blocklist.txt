@@ -3567,3 +3567,4 @@
 ||matomo.ulysses.app^
 ||convertflow.co^
 ||js.convertflow.co^
+||partnerstack.com^

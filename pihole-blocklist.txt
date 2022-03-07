@@ -3566,3 +3566,4 @@
 0.0.0.0 matomo.ulysses.app
 0.0.0.0 convertflow.co
 0.0.0.0 js.convertflow.co
+0.0.0.0 partnerstack.com

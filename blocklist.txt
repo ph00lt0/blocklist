@@ -3608,3 +3608,4 @@
 ||edge.fullstory.com^
 ||fullstory.com^
 ||appboycdn.com^
+||js.appboycdn.com^

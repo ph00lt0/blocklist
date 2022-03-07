@@ -3587,3 +3587,4 @@
 ||keywee.co^
 ||cdn.keywee.co^
 ||troyhunt.report-uri.com^
+||texttrafikcom.files.wordpress.com^

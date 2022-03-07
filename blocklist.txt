@@ -3568,3 +3568,4 @@
 ||convertflow.co^
 ||js.convertflow.co^
 ||partnerstack.com^
+||js.partnerstack.com^

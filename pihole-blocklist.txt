@@ -3544,3 +3544,4 @@
 0.0.0.0 cdn.firstpromoter.com
 0.0.0.0 geojs.io
 0.0.0.0 get.geojs.io
+0.0.0.0 cdn.cove.chat

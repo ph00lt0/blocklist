@@ -3545,3 +3545,4 @@
 ||cdn.firstpromoter.com^
 ||geojs.io^
 ||get.geojs.io^
+||cdn.cove.chat^

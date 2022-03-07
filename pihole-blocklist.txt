@@ -3659,3 +3659,4 @@
 0.0.0.0 iglooanalytics.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 tryribbon.com
+0.0.0.0 cdn.tryribbon.com

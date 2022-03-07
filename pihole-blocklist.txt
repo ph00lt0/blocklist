@@ -3606,3 +3606,4 @@
 0.0.0.0 snowplow.gusto.com
 0.0.0.0 edge.fullstory.com
 0.0.0.0 fullstory.com
+0.0.0.0 appboycdn.com

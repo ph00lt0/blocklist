@@ -3569,3 +3569,4 @@
 0.0.0.0 partnerstack.com
 0.0.0.0 js.partnerstack.com
 0.0.0.0 cdn.finsweet.com
+0.0.0.0 finsweet.com

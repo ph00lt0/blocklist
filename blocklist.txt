@@ -3570,3 +3570,4 @@
 ||partnerstack.com^
 ||js.partnerstack.com^
 ||cdn.finsweet.com^
+||finsweet.com^

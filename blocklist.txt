@@ -3589,3 +3589,4 @@
 ||troyhunt.report-uri.com^
 ||texttrafikcom.files.wordpress.com^
 ||intelligencesquared.com^
+||www.intelligencesquared.com^

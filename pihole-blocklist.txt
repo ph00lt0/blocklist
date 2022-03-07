@@ -3611,3 +3611,4 @@
 0.0.0.0 pewresearch.org
 0.0.0.0 assets.pewresearch.org
 0.0.0.0 flo.uri.sh
+0.0.0.0 uri.sh

@@ -3612,3 +3612,4 @@
 ||pewresearch.org^
 ||assets.pewresearch.org^
 ||flo.uri.sh^
+||uri.sh^

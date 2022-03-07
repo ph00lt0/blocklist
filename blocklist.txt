@@ -3577,3 +3577,4 @@
 ||x.clearbitjs.com^
 ||grow.clearbitjs.com^
 ||clearbitjs.com^
+||fastmail.innocraft.cloud^

@@ -3658,3 +3658,4 @@
 ||d21gpk1vhmjuf5.cloudfront.net^
 ||www.iglooanalytics.com^
 ||iglooanalytics.com^
+||d10lpsik1i8c69.cloudfront.net^

@@ -3623,3 +3623,4 @@
 0.0.0.0 beeline-widget.s3.amazonaws.com
 0.0.0.0 heron.joel.is
 0.0.0.0 gdpr.privacymanager.io
+0.0.0.0 fonts.twitter.com

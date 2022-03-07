@@ -3613,3 +3613,4 @@
 0.0.0.0 flo.uri.sh
 0.0.0.0 uri.sh
 0.0.0.0 app-ab31.marketo.com
+0.0.0.0 ghostboard.io

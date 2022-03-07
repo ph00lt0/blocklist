@@ -3576,3 +3576,4 @@
 ||o55869.ingest.sentry.io^
 ||x.clearbitjs.com^
 ||grow.clearbitjs.com^
+||clearbitjs.com^

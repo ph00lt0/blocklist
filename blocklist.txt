@@ -3634,3 +3634,4 @@
 ||4strokemedia.com^
 ||fluid.4strokemedia.com^
 ||tm.mittelbayerische.de^
+||api-dev-4il4eytndq-ey.a.run.app^

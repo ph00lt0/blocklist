@@ -3558,3 +3558,4 @@
 0.0.0.0 tb.rightmessage.com
 0.0.0.0 rightmessage.com
 0.0.0.0 load.sumo.com
+0.0.0.0 sumo.com

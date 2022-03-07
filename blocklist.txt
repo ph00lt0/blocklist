@@ -3630,3 +3630,4 @@
 ||customerioforms.com^
 ||d1fc8wv8zag5ca.cloudfront.net^
 ||data-ae99031d75.mittelbayerische.de^
+||data-79b61f918a.mittelbayerische.de^

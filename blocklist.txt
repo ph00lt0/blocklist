@@ -3603,3 +3603,4 @@
 ||pl01.owen.prolitteris.ch^
 ||gc-ingress-prod.danzz.ch^
 ||danzz.ch^
+||web-sdk.urbanairship.com^

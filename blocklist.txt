@@ -3547,3 +3547,4 @@
 ||get.geojs.io^
 ||cdn.cove.chat^
 ||cove.chat^
+||thebrowser.ghost.io^

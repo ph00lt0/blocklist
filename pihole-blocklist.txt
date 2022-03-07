@@ -3641,3 +3641,4 @@
 0.0.0.0 c.strava.com
 ! allow cdn-goeuro.com reason: Not just tracker
 0.0.0.0 logger.goeuro.com
+0.0.0.0 a977a3e6afa6.cdn4.forter.com

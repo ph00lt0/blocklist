@@ -3608,3 +3608,4 @@
 0.0.0.0 fullstory.com
 0.0.0.0 appboycdn.com
 0.0.0.0 js.appboycdn.com
+0.0.0.0 pewresearch.org

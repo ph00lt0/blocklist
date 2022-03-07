@@ -3609,3 +3609,4 @@
 ||fullstory.com^
 ||appboycdn.com^
 ||js.appboycdn.com^
+||pewresearch.org^

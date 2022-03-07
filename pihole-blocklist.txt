@@ -3604,3 +3604,4 @@
 0.0.0.0 danzz.ch
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 snowplow.gusto.com
+0.0.0.0 edge.fullstory.com

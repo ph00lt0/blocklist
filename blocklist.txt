@@ -3674,3 +3674,4 @@
 ||hsforms.com^
 ||aswpsdkus.com^
 ||cmx.weightwatchers.com^
+||a2320460149.cdn.optimizely.com^

@@ -3688,3 +3688,4 @@
 0.0.0.0 comm100vue.com
 0.0.0.0 il.ax
 0.0.0.0 partnerprogramma.bol.com
+0.0.0.0 adshim.com

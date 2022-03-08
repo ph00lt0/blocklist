@@ -3685,3 +3685,4 @@
 0.0.0.0 vue.comm100.com
 0.0.0.0 comm100.com
 0.0.0.0 standby.comm100vue.com
+0.0.0.0 comm100vue.com

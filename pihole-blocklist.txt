@@ -3690,3 +3690,4 @@
 0.0.0.0 partnerprogramma.bol.com
 0.0.0.0 adshim.com
 0.0.0.0 cdn.adshim.com
+0.0.0.0 ats-wrapper.privacymanager.io

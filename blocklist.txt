@@ -3691,3 +3691,4 @@
 ||partnerprogramma.bol.com^
 ||adshim.com^
 ||cdn.adshim.com^
+||ats-wrapper.privacymanager.io^

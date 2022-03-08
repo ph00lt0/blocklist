@@ -3678,4 +3678,4 @@
 0.0.0.0 tapi.optimizely.com
 0.0.0.0 api.ww.com
 0.0.0.0 widgets.q4app.com
-0.0.0.0 s2.q4cdn.com
+! allow s2.q4cdn.com reason: Not a tracker

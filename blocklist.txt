@@ -3702,3 +3702,4 @@
 ||vi-serve.com^
 ||mdpcdn.com^
 ||b-code.liadm.com^
+||hu-manity.co^

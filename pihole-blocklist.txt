@@ -3698,3 +3698,4 @@
 0.0.0.0 secure.rating-widget.com
 0.0.0.0 requestmetrics.com
 0.0.0.0 cdn.requestmetrics.com
+0.0.0.0 vi-serve.com

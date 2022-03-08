@@ -3699,3 +3699,4 @@
 ||secure.rating-widget.com^
 ||requestmetrics.com^
 ||cdn.requestmetrics.com^
+||vi-serve.com^

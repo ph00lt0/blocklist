@@ -3690,3 +3690,4 @@
 ||il.ax^
 ||partnerprogramma.bol.com^
 ||adshim.com^
+||cdn.adshim.com^

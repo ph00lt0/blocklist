@@ -3696,3 +3696,4 @@
 ||fundraiseup.com^
 ||cdn.fundraiseup.com^
 ||rating-widget.com^
+||secure.rating-widget.com^

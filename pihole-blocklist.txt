@@ -3702,3 +3702,4 @@
 0.0.0.0 mdpcdn.com
 0.0.0.0 b-code.liadm.com
 0.0.0.0 hu-manity.co
+0.0.0.0 cdn.hu-manity.co

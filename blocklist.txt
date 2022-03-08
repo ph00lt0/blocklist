@@ -3695,3 +3695,4 @@
 ||api.mijnmagazines.be^
 ||fundraiseup.com^
 ||cdn.fundraiseup.com^
+||rating-widget.com^

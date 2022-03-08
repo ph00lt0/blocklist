@@ -3694,3 +3694,4 @@
 0.0.0.0 api.mijnmagazines.be
 0.0.0.0 fundraiseup.com
 0.0.0.0 cdn.fundraiseup.com
+0.0.0.0 rating-widget.com

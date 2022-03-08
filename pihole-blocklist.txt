@@ -3675,3 +3675,4 @@
 0.0.0.0 cmx.weightwatchers.com
 0.0.0.0 a2320460149.cdn.optimizely.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 tapi.optimizely.com

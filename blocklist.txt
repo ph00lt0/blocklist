@@ -3676,3 +3676,4 @@
 ||cmx.weightwatchers.com^
 ||a2320460149.cdn.optimizely.com^
 ||logx.optimizely.com^
+||tapi.optimizely.com^

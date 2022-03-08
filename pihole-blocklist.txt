@@ -3691,3 +3691,4 @@
 0.0.0.0 adshim.com
 0.0.0.0 cdn.adshim.com
 0.0.0.0 ats-wrapper.privacymanager.io
+0.0.0.0 api.mijnmagazines.be

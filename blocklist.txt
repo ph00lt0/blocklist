@@ -3692,3 +3692,4 @@
 ||adshim.com^
 ||cdn.adshim.com^
 ||ats-wrapper.privacymanager.io^
+||api.mijnmagazines.be^

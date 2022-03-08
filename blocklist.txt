@@ -3694,3 +3694,4 @@
 ||ats-wrapper.privacymanager.io^
 ||api.mijnmagazines.be^
 ||fundraiseup.com^
+||cdn.fundraiseup.com^

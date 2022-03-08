@@ -3699,3 +3699,4 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 cdn.requestmetrics.com
 0.0.0.0 vi-serve.com
+0.0.0.0 mdpcdn.com

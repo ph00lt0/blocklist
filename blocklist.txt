@@ -3705,3 +3705,4 @@
 ||hu-manity.co^
 ||cdn.hu-manity.co^
 ||truehits.in.th^
+||lvs.truehits.in.th^

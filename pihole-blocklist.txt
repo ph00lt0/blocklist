@@ -3704,3 +3704,4 @@
 0.0.0.0 hu-manity.co
 0.0.0.0 cdn.hu-manity.co
 0.0.0.0 truehits.in.th
+0.0.0.0 lvs.truehits.in.th

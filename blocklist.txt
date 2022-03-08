@@ -3678,3 +3678,4 @@
 ||logx.optimizely.com^
 ||tapi.optimizely.com^
 ||api.ww.com^
+||widgets.q4app.com^

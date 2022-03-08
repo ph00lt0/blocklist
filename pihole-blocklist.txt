@@ -3680,3 +3680,4 @@
 0.0.0.0 widgets.q4app.com
 ! allow s2.q4cdn.com reason: Not a tracker
 0.0.0.0 q4app.com
+0.0.0.0 scarabresearch.com

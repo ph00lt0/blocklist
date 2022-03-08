@@ -3681,3 +3681,4 @@
 ||widgets.q4app.com^
 @@||s2.q4cdn.com^  # Not a tracker
 ||q4app.com^
+||scarabresearch.com^

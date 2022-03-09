@@ -3718,3 +3718,4 @@
 ||res-2.cdn.office.net^
 ||res-1.cdn.office.net^
 ||res.cdn.office.net^
+||amcdn.msftauth.net^

@@ -3717,3 +3717,4 @@
 0.0.0.0 res-2.cdn.office.net
 0.0.0.0 res-1.cdn.office.net
 0.0.0.0 res.cdn.office.net
+0.0.0.0 amcdn.msftauth.net

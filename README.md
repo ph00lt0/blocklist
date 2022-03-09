@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ## uBlock Origin 
 - Open the uBO Dashboard
 - Navigate to `Filter lists`
-- Scroll down to Custom
+- Scroll down to **Custom**
 - Check `Import…`
 - Paste the URL below
 - Click the `Apply changes` button on top of the page.
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 ## Brave
 - Navigate to `brave://adblock/`
-- Click `Add filter list via URL` at the bottom of the page under Subscribe to filter lists
+- Click `Add filter list via URL` at the bottom of the page under **Subscribe** to filter lists
 - Add the URL below and press `Submit`
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt

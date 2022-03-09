@@ -222,7 +222,7 @@
 ||accessibilityinsights.io^
 ||static-eu.payments-amazon.com^
 ||static.payments-amazon.com^
-||m.media-amazon.com^
+@@||m.media-amazon.com^  # Required for loading of images on amazon.com
 ||payments-*.amazon.com^
 ||payments.amazon.com^
 ||pndsn.com^

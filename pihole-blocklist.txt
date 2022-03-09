@@ -221,7 +221,7 @@
 0.0.0.0 accessibilityinsights.io
 0.0.0.0 static-eu.payments-amazon.com
 0.0.0.0 static.payments-amazon.com
-0.0.0.0 m.media-amazon.com
+! allow m.media-amazon.com reason: Required for loading of images on amazon.com
 0.0.0.0 payments-*.amazon.com
 0.0.0.0 payments.amazon.com
 0.0.0.0 pndsn.com

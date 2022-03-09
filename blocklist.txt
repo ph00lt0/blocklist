@@ -3728,3 +3728,4 @@
 ||l.getsitecontrol.com^
 ||services.vlitag.com^
 ||widget.uservoice.com^
+||uservoice.com^

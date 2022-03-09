@@ -3709,3 +3709,4 @@
 ||sentry.odysee.tv^
 ||watchman.na-backend.odysee.com^
 ||browser.events.data.microsoft.com^
+||fpt.microsoft.com^

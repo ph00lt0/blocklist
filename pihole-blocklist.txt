@@ -3713,3 +3713,4 @@
 0.0.0.0 gfx.ms
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 loki.delve.office.com

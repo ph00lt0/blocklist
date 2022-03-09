@@ -3714,3 +3714,4 @@
 ||gfx.ms^
 ||statics-marketingsites-neu-ms-com.akamaized.net^
 ||browser.pipe.aria.microsoft.com^
+||loki.delve.office.com^

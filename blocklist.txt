@@ -3687,7 +3687,7 @@
 ||comm100.com^
 ||standby.comm100vue.com^
 ||comm100vue.com^
-||il.ax^
+@@||il.ax^  # Not a tracker
 ||partnerprogramma.bol.com^
 ||adshim.com^
 ||cdn.adshim.com^

@@ -3708,3 +3708,4 @@
 ||lvs.truehits.in.th^
 ||sentry.odysee.tv^
 ||watchman.na-backend.odysee.com^
+||browser.events.data.microsoft.com^

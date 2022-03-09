@@ -3707,3 +3707,4 @@
 0.0.0.0 lvs.truehits.in.th
 0.0.0.0 sentry.odysee.tv
 0.0.0.0 watchman.na-backend.odysee.com
+0.0.0.0 browser.events.data.microsoft.com

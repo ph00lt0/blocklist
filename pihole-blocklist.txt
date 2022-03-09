@@ -3729,3 +3729,4 @@
 0.0.0.0 widget.uservoice.com
 0.0.0.0 uservoice.com
 0.0.0.0 stats.converter.app
+0.0.0.0 lustre.ai

@@ -3730,3 +3730,4 @@
 ||widget.uservoice.com^
 ||uservoice.com^
 ||stats.converter.app^
+||lustre.ai^

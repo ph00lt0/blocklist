@@ -3719,3 +3719,4 @@
 ||res-1.cdn.office.net^
 ||res.cdn.office.net^
 ||amcdn.msftauth.net^
+||r4.res.office365.com^

@@ -1,4 +1,4 @@
-# Blocklists for Adguard Home, uBlock Origin and PiHole
+# Blocklists for Adguard Home, uBlock Origin, Brave and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 
@@ -17,14 +17,28 @@ This blocklists aims at blocking:
 ## Adguard Home
 Add this domain to Adguard Home:
 ```
-https://gitlab.com/ph00lt0/blocklists/-/raw/master/blocklist.txt
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
 
 
 ## uBlock Origin 
-uBlock Origin does not seem to work with Gitlab's raw file for some vague reason. You can add:
+- Open the uBO Dashboard
+- Navigate to `Filter lists`
+- Scroll down to Custom
+- Check `Import…`
+- Paste the URL below
+- Click the `Apply changes` button on top of the page.
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+```
+
+## Brave
+- Navigate to `brave://adblock/`
+- Click `Add filter list via URL` at the bottom of the page under Subscribe to filter lists
+- Add the URL below and press `Submit`
+```
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+
 ```
 
 

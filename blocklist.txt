@@ -3729,3 +3729,4 @@
 ||services.vlitag.com^
 ||widget.uservoice.com^
 ||uservoice.com^
+||stats.converter.app^

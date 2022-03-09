@@ -1,4 +1,4 @@
-# Blocklists for Adguard Home, uBlock Origin, Brave and PiHole
+# Blocklists for Adguard Home, uBlock Origin, Brave Adblock, and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 

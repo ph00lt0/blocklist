@@ -3710,3 +3710,4 @@
 ||watchman.na-backend.odysee.com^
 ||browser.events.data.microsoft.com^
 ||fpt.microsoft.com^
+||mem.gfx.ms^

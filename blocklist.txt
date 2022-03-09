@@ -3726,3 +3726,4 @@
 ||stats.medeastcloud.com^
 ||getsitecontrol.com^
 ||l.getsitecontrol.com^
+||services.vlitag.com^

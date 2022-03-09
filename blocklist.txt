@@ -3716,3 +3716,4 @@
 ||browser.pipe.aria.microsoft.com^
 ||loki.delve.office.com^
 ||res-2.cdn.office.net^
+||res-1.cdn.office.net^

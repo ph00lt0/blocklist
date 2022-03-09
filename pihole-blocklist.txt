@@ -3710,3 +3710,4 @@
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 mem.gfx.ms
+0.0.0.0 gfx.ms

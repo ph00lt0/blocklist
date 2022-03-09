@@ -3711,3 +3711,4 @@
 ||browser.events.data.microsoft.com^
 ||fpt.microsoft.com^
 ||mem.gfx.ms^
+||gfx.ms^

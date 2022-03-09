@@ -3711,3 +3711,4 @@
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 mem.gfx.ms
 0.0.0.0 gfx.ms
+0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net

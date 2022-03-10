@@ -3760,3 +3760,4 @@
 ||mindrocketsapis.com^
 ||cdn.mindrocketsapis.com^
 ||broadstreetads.com^
+||cdn.broadstreetads.com^

@@ -3759,3 +3759,4 @@
 0.0.0.0 mindrocketsapis.com
 0.0.0.0 cdn.mindrocketsapis.com
 0.0.0.0 broadstreetads.com
+0.0.0.0 cdn.broadstreetads.com

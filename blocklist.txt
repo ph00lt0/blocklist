@@ -3780,3 +3780,4 @@
 ||clmbtech.com^
 ||static.clmbtech.com^
 ||pg.ziffstatic.com^
+||cdn.static.zdbb.net^

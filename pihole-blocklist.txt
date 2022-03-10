@@ -3779,3 +3779,4 @@
 0.0.0.0 clmbtech.com
 0.0.0.0 static.clmbtech.com
 0.0.0.0 pg.ziffstatic.com
+0.0.0.0 cdn.static.zdbb.net

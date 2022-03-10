@@ -3737,3 +3737,4 @@
 ||spclotto4.it^
 ||www.spclotto4.it^
 ||buyexpressly.com^
+||assets01.buyexpressly.com^

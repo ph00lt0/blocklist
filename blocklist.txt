@@ -3746,3 +3746,4 @@
 ||qbrick.com^
 ||analytics.bit.admin.ch^
 ||webstats.ch.ch^
+||analytics.init.de^

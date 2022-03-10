@@ -3764,3 +3764,4 @@
 ||toru0vane.com^
 ||secure.toru0vane.com^
 ||company-target.com^
+||api.company-target.com^

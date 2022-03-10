@@ -3793,3 +3793,4 @@
 ||jacks.nl^
 ||oryxgaming.com^
 ||cdn.oryxgaming.com^
+||cdn-jvhr.oryxgaming.com^

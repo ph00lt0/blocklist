@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220309
+! Version: 20220310
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -3738,3 +3738,4 @@
 ||www.spclotto4.it^
 ||buyexpressly.com^
 ||assets01.buyexpressly.com^
+||c.la1-c1-frf.salesforceliveagent.com^

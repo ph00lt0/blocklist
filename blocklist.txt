@@ -3800,3 +3800,4 @@
 ||assets.strossle.com^
 ||uplinkly-static.com^
 ||sticky-cart.uplinkly-static.com^
+||loox.io^

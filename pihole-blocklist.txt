@@ -3753,3 +3753,4 @@
 0.0.0.0 pharos.mfa.gr
 0.0.0.0 gateway.foresee.com
 0.0.0.0 foresee.com
+0.0.0.0 stats.gouv.mc

@@ -3754,3 +3754,4 @@
 ||pharos.mfa.gr^
 ||gateway.foresee.com^
 ||foresee.com^
+||stats.gouv.mc^

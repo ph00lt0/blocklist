@@ -3786,3 +3786,4 @@
 ||trinitymedia.ai^
 ||a.fsdn.com^
 ||slashdot.org^
+||analytics.linuxjournal.com^

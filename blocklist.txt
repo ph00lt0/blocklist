@@ -3795,3 +3795,4 @@
 ||cdn.oryxgaming.com^
 ||cdn-jvhr.oryxgaming.com^
 ||optoutadvertising.com^
+||cdn.optoutadvertising.com^

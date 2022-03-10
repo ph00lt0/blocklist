@@ -3794,3 +3794,4 @@
 0.0.0.0 cdn.oryxgaming.com
 0.0.0.0 cdn-jvhr.oryxgaming.com
 0.0.0.0 optoutadvertising.com
+0.0.0.0 cdn.optoutadvertising.com

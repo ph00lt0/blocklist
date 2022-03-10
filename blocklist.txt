@@ -3767,3 +3767,4 @@
 ||api.company-target.com^
 ||scripts.demandbase.com^
 ||servedby.flashtalking.com^
+||view.ceros.com^

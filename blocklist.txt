@@ -3744,3 +3744,4 @@
 ||supwizapp.com^
 ||play2.qbrick.com^
 ||qbrick.com^
+||analytics.bit.admin.ch^

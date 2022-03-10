@@ -3758,3 +3758,4 @@
 ||fta.digital.nuance.com^
 ||happinessmeter.gov.ae^
 ||mindrocketsapis.com^
+||cdn.mindrocketsapis.com^

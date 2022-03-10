@@ -3809,3 +3809,4 @@
 ||informamarkets.com^
 ||id.informamarkets.com^
 ||s.delvenetworks.com^
+||delvenetworks.com^

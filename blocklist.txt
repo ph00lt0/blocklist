@@ -3788,3 +3788,4 @@
 ||slashdot.org^
 ||analytics.linuxjournal.com^
 ||api.b2c.com^
+||b2c.com^

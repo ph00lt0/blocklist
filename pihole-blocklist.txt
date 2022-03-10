@@ -3773,3 +3773,4 @@
 0.0.0.0 a40.usablenet.com
 0.0.0.0 informa.com
 0.0.0.0 static.iris.informa.com
+0.0.0.0 assets.zephr.com

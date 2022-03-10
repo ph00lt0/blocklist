@@ -3774,3 +3774,4 @@
 ||a40.usablenet.com^
 ||informa.com^
 ||static.iris.informa.com^
+||assets.zephr.com^

@@ -3751,3 +3751,4 @@
 ||ccm19.de^
 ||sdc.agenziaentrate.it^
 ||aews-analytics.sogei.it^
+||pharos.mfa.gr^

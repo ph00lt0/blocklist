@@ -3753,3 +3753,4 @@
 ||aews-analytics.sogei.it^
 ||pharos.mfa.gr^
 ||gateway.foresee.com^
+||foresee.com^

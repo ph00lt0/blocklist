@@ -3752,3 +3752,4 @@
 0.0.0.0 aews-analytics.sogei.it
 0.0.0.0 pharos.mfa.gr
 0.0.0.0 gateway.foresee.com
+0.0.0.0 foresee.com

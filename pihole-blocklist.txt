@@ -3782,3 +3782,4 @@
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 aiv-cdn.net
 0.0.0.0 cloudfront.xp-assets.aiv-cdn.net
+0.0.0.0 trinitymedia.ai

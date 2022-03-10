@@ -3791,3 +3791,4 @@
 0.0.0.0 fsdn.com
 0.0.0.0 jacks.nl
 0.0.0.0 oryxgaming.com
+0.0.0.0 cdn.oryxgaming.com

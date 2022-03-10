@@ -3792,3 +3792,4 @@
 ||fsdn.com^
 ||jacks.nl^
 ||oryxgaming.com^
+||cdn.oryxgaming.com^

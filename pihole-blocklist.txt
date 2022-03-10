@@ -3756,3 +3756,4 @@
 0.0.0.0 stats.gouv.mc
 0.0.0.0 fta.digital.nuance.com
 0.0.0.0 happinessmeter.gov.ae
+0.0.0.0 mindrocketsapis.com

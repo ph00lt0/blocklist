@@ -3757,3 +3757,4 @@
 ||stats.gouv.mc^
 ||fta.digital.nuance.com^
 ||happinessmeter.gov.ae^
+||mindrocketsapis.com^

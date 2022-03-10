@@ -3745,3 +3745,4 @@
 ||play2.qbrick.com^
 ||qbrick.com^
 ||analytics.bit.admin.ch^
+||webstats.ch.ch^

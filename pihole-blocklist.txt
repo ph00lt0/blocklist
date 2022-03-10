@@ -3744,3 +3744,4 @@
 0.0.0.0 play2.qbrick.com
 0.0.0.0 qbrick.com
 0.0.0.0 analytics.bit.admin.ch
+0.0.0.0 webstats.ch.ch

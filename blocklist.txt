@@ -3778,3 +3778,4 @@
 ||zephr.com^
 ||sm.pcmag.com^
 ||clmbtech.com^
+||static.clmbtech.com^

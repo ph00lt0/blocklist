@@ -3781,3 +3781,4 @@
 ||static.clmbtech.com^
 ||pg.ziffstatic.com^
 ||cdn.static.zdbb.net^
+||aiv-cdn.net^

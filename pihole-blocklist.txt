@@ -3810,3 +3810,4 @@
 0.0.0.0 s.delvenetworks.com
 0.0.0.0 delvenetworks.com
 0.0.0.0 video.limelight.com
+0.0.0.0 limelight.com

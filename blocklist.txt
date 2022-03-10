@@ -3811,3 +3811,4 @@
 ||s.delvenetworks.com^
 ||delvenetworks.com^
 ||video.limelight.com^
+||limelight.com^

@@ -3794,3 +3794,4 @@
 ||oryxgaming.com^
 ||cdn.oryxgaming.com^
 ||cdn-jvhr.oryxgaming.com^
+||optoutadvertising.com^

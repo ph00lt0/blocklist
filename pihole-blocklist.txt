@@ -3776,3 +3776,4 @@
 0.0.0.0 assets.zephr.com
 0.0.0.0 zephr.com
 0.0.0.0 sm.pcmag.com
+0.0.0.0 clmbtech.com

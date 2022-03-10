@@ -3752,3 +3752,4 @@
 ||sdc.agenziaentrate.it^
 ||aews-analytics.sogei.it^
 ||pharos.mfa.gr^
+||gateway.foresee.com^

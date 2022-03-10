@@ -3807,3 +3807,4 @@
 0.0.0.0 pexi.nl
 0.0.0.0 informamarkets.com
 0.0.0.0 id.informamarkets.com
+0.0.0.0 s.delvenetworks.com

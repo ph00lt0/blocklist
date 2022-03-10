@@ -3763,3 +3763,4 @@
 ||cdn.broadstreetads.com^
 ||toru0vane.com^
 ||secure.toru0vane.com^
+||company-target.com^

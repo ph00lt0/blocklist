@@ -3798,3 +3798,4 @@
 ||cdn.optoutadvertising.com^
 ||strossle.com^
 ||assets.strossle.com^
+||uplinkly-static.com^

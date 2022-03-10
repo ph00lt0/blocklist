@@ -3797,3 +3797,4 @@
 0.0.0.0 cdn.optoutadvertising.com
 0.0.0.0 strossle.com
 0.0.0.0 assets.strossle.com
+0.0.0.0 uplinkly-static.com

@@ -3759,3 +3759,4 @@
 ||happinessmeter.gov.ae^
 ||mindrocketsapis.com^
 ||cdn.mindrocketsapis.com^
+||broadstreetads.com^

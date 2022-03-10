@@ -3779,3 +3779,4 @@
 ||sm.pcmag.com^
 ||clmbtech.com^
 ||static.clmbtech.com^
+||pg.ziffstatic.com^

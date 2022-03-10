@@ -3796,3 +3796,4 @@
 ||cdn-jvhr.oryxgaming.com^
 ||optoutadvertising.com^
 ||cdn.optoutadvertising.com^
+||strossle.com^

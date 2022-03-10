@@ -3787,3 +3787,4 @@
 ||a.fsdn.com^
 ||slashdot.org^
 ||analytics.linuxjournal.com^
+||api.b2c.com^

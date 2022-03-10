@@ -3765,3 +3765,4 @@
 ||secure.toru0vane.com^
 ||company-target.com^
 ||api.company-target.com^
+||scripts.demandbase.com^

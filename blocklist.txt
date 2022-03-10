@@ -3784,3 +3784,4 @@
 ||aiv-cdn.net^
 ||cloudfront.xp-assets.aiv-cdn.net^
 ||trinitymedia.ai^
+||a.fsdn.com^

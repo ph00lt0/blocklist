@@ -3790,3 +3790,4 @@
 ||api.b2c.com^
 ||b2c.com^
 ||fsdn.com^
+||jacks.nl^

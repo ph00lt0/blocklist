@@ -3790,3 +3790,4 @@
 0.0.0.0 b2c.com
 0.0.0.0 fsdn.com
 0.0.0.0 jacks.nl
+0.0.0.0 oryxgaming.com

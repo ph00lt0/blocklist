@@ -3741,3 +3741,4 @@
 ||c.la1-c1-frf.salesforceliveagent.com^
 ||pwa001.belastingdienst.nl^
 ||supchat.skat.supwizapp.com^
+||supwizapp.com^

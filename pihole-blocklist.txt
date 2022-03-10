@@ -3740,3 +3740,4 @@
 0.0.0.0 c.la1-c1-frf.salesforceliveagent.com
 0.0.0.0 pwa001.belastingdienst.nl
 0.0.0.0 supchat.skat.supwizapp.com
+0.0.0.0 supwizapp.com

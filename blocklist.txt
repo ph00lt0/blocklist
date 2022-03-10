@@ -3797,3 +3797,4 @@
 ||optoutadvertising.com^
 ||cdn.optoutadvertising.com^
 ||strossle.com^
+||assets.strossle.com^

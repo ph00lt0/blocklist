@@ -3803,3 +3803,4 @@
 0.0.0.0 crnsgngrpj.nl
 0.0.0.0 track.pexi.nl/t
 0.0.0.0 ads.pexi.nl
+0.0.0.0 static.pexi.nl

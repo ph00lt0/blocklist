@@ -322,7 +322,7 @@
 ||awvn.nl^
 ||nldigital.nl^
 ||onderzoekfilter.nl^
-||aspnetcdn.com^
+@@||aspnetcdn.com^  # Not a tracker
 ||juniormie.nl^
 ||smartonderzoek.com^
 ||artoo.nl^

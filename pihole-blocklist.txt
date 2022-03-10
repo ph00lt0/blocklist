@@ -321,7 +321,7 @@
 0.0.0.0 awvn.nl
 0.0.0.0 nldigital.nl
 0.0.0.0 onderzoekfilter.nl
-0.0.0.0 aspnetcdn.com
+! allow aspnetcdn.com reason: Not a tracker
 0.0.0.0 juniormie.nl
 0.0.0.0 smartonderzoek.com
 0.0.0.0 artoo.nl

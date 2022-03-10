@@ -3782,3 +3782,4 @@
 ||pg.ziffstatic.com^
 ||cdn.static.zdbb.net^
 ||aiv-cdn.net^
+||cloudfront.xp-assets.aiv-cdn.net^

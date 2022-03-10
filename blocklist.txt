@@ -3742,3 +3742,4 @@
 ||pwa001.belastingdienst.nl^
 ||supchat.skat.supwizapp.com^
 ||supwizapp.com^
+||play2.qbrick.com^

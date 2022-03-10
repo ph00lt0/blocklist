@@ -3775,3 +3775,4 @@
 ||informa.com^
 ||static.iris.informa.com^
 ||assets.zephr.com^
+||zephr.com^

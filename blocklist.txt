@@ -3821,3 +3821,4 @@
 ||clicktripz.com^
 ||static.clicktripz.com^
 ||static.adsafeprotected.com^
+||10870841.collect.igodigital.com^

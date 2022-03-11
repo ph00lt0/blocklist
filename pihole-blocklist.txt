@@ -3820,3 +3820,4 @@
 0.0.0.0 clicktripz.com
 0.0.0.0 static.clicktripz.com
 0.0.0.0 static.adsafeprotected.com
+0.0.0.0 10870841.collect.igodigital.com

@@ -3819,3 +3819,4 @@
 ||www.interserver.net^
 ||interserver.net^
 ||clicktripz.com^
+||static.clicktripz.com^

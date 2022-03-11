@@ -3818,3 +3818,4 @@
 0.0.0.0 www.interserver.net
 0.0.0.0 interserver.net
 0.0.0.0 clicktripz.com
+0.0.0.0 static.clicktripz.com

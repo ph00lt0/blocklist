@@ -3826,3 +3826,4 @@
 ||xg4ken.com^
 ||resources.xg4ken.com^
 ||summerhamster.com^
+||www.summerhamster.com^

@@ -3830,3 +3830,4 @@
 0.0.0.0 flocdn.com
 0.0.0.0 s.flocdn.com
 0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
+0.0.0.0 freyr.futurecdn.net

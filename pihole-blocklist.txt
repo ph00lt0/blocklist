@@ -3826,3 +3826,4 @@
 0.0.0.0 resources.xg4ken.com
 0.0.0.0 summerhamster.com
 0.0.0.0 www.summerhamster.com
+0.0.0.0 user.usatoday.com

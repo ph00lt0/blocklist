@@ -3827,3 +3827,4 @@
 ||resources.xg4ken.com^
 ||summerhamster.com^
 ||www.summerhamster.com^
+||user.usatoday.com^

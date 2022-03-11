@@ -3824,3 +3824,4 @@
 ||10870841.collect.igodigital.com^
 ||sp.usatoday.com^
 ||xg4ken.com^
+||resources.xg4ken.com^

@@ -3818,3 +3818,4 @@
 ||uapi.siteground.com^
 ||www.interserver.net^
 ||interserver.net^
+||clicktripz.com^

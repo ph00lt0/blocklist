@@ -3828,3 +3828,4 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 user.usatoday.com
 0.0.0.0 flocdn.com
+0.0.0.0 s.flocdn.com

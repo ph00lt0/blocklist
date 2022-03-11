@@ -3834,3 +3834,4 @@
 ||freyr.futurecdn.net^
 ||p.cpx.to^
 ||search-api.fie.futurecdn.net^
+||arc.msn.com^

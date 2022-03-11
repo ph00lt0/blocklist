@@ -3830,3 +3830,4 @@
 ||user.usatoday.com^
 ||flocdn.com^
 ||s.flocdn.com^
+||6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app^

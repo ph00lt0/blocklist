@@ -3816,3 +3816,4 @@
 0.0.0.0 namecheap.pxf.io
 0.0.0.0 uapi.siteground.com
 0.0.0.0 www.interserver.net
+0.0.0.0 interserver.net

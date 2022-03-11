@@ -3817,3 +3817,4 @@
 ||namecheap.pxf.io^
 ||uapi.siteground.com^
 ||www.interserver.net^
+||interserver.net^

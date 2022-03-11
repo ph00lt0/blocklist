@@ -3820,3 +3820,4 @@
 ||interserver.net^
 ||clicktripz.com^
 ||static.clicktripz.com^
+||static.adsafeprotected.com^

@@ -3822,3 +3822,4 @@
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 sp.usatoday.com
+0.0.0.0 xg4ken.com

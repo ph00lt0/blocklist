@@ -3824,3 +3824,4 @@
 0.0.0.0 sp.usatoday.com
 0.0.0.0 xg4ken.com
 0.0.0.0 resources.xg4ken.com
+0.0.0.0 summerhamster.com

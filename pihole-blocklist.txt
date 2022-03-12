@@ -3846,3 +3846,4 @@
 0.0.0.0 images.dmca.com
 0.0.0.0 dmca.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 trc.taboola.com

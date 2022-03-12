@@ -3847,3 +3847,4 @@
 ||images.dmca.com^
 ||dmca.com^
 ||sp.analytics.yahoo.com^
+||trc.taboola.com^

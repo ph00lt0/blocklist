@@ -3838,3 +3838,4 @@
 ||o122616.ingest.sentry.io^
 ||dynamic.criteo.com^
 ||c.sf-syn.com^
+||connect.liblynx.com^

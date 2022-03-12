@@ -3841,3 +3841,4 @@
 0.0.0.0 d1bxh8uas1mnw7.cloudfront.net
 0.0.0.0 yastatic.net
 0.0.0.0 yadro.ru
+0.0.0.0 heatmap.it

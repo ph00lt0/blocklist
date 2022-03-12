@@ -3835,3 +3835,4 @@
 0.0.0.0 search-api.fie.futurecdn.net
 0.0.0.0 arc.msn.com
 0.0.0.0 o122616.ingest.sentry.io
+0.0.0.0 dynamic.criteo.com

@@ -3789,7 +3789,7 @@
 ||analytics.linuxjournal.com^
 ||api.b2c.com^
 ||b2c.com^
-||fsdn.com^
+@@||fsdn.com^  # cdn
 ||jacks.nl^
 ||oryxgaming.com^
 ||cdn.oryxgaming.com^

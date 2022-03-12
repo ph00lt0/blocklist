@@ -3788,7 +3788,7 @@
 0.0.0.0 analytics.linuxjournal.com
 0.0.0.0 api.b2c.com
 0.0.0.0 b2c.com
-0.0.0.0 fsdn.com
+! allow fsdn.com reason: cdn
 0.0.0.0 jacks.nl
 0.0.0.0 oryxgaming.com
 0.0.0.0 cdn.oryxgaming.com

@@ -3844,3 +3844,4 @@
 0.0.0.0 heatmap.it
 0.0.0.0 u.heatmap.it
 0.0.0.0 images.dmca.com
+0.0.0.0 dmca.com

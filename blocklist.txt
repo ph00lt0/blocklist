@@ -3845,3 +3845,4 @@
 ||heatmap.it^
 ||u.heatmap.it^
 ||images.dmca.com^
+||dmca.com^

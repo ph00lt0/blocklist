@@ -3784,7 +3784,7 @@
 ||aiv-cdn.net^
 ||cloudfront.xp-assets.aiv-cdn.net^
 ||trinitymedia.ai^
-||a.fsdn.com^
+@@||a.fsdn.com^  # cdn
 ||slashdot.org^
 ||analytics.linuxjournal.com^
 ||api.b2c.com^

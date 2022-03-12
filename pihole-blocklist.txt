@@ -3837,5 +3837,5 @@
 0.0.0.0 o122616.ingest.sentry.io
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 c.sf-syn.com
-0.0.0.0 connect.liblynx.com
+! allow connect.liblynx.com reason: Not just tracker
 0.0.0.0 d1bxh8uas1mnw7.cloudfront.net

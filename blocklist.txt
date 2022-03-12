@@ -3844,3 +3844,4 @@
 ||yadro.ru^
 ||heatmap.it^
 ||u.heatmap.it^
+||images.dmca.com^

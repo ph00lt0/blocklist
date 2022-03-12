@@ -3843,3 +3843,4 @@
 ||yastatic.net^
 ||yadro.ru^
 ||heatmap.it^
+||u.heatmap.it^

@@ -3841,3 +3841,4 @@
 @@||connect.liblynx.com^  # Not just tracker
 ||d1bxh8uas1mnw7.cloudfront.net^
 ||yastatic.net^
+||yadro.ru^

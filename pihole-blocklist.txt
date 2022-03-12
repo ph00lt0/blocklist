@@ -3838,3 +3838,4 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 c.sf-syn.com
 0.0.0.0 connect.liblynx.com
+0.0.0.0 d1bxh8uas1mnw7.cloudfront.net

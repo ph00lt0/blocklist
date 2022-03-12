@@ -3839,3 +3839,4 @@
 ||dynamic.criteo.com^
 ||c.sf-syn.com^
 ||connect.liblynx.com^
+||d1bxh8uas1mnw7.cloudfront.net^

@@ -3848,3 +3848,4 @@
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 flagcounter.com
+0.0.0.0 chat-us.libanswers.com

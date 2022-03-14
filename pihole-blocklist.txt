@@ -3849,3 +3849,4 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 flagcounter.com
 0.0.0.0 chat-us.libanswers.com
+0.0.0.0 cookies.jeugdjournaal.nl

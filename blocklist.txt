@@ -3853,3 +3853,4 @@
 ||cookies.jeugdjournaal.nl^
 ||atconnect.npo.nl^
 ||e-10220.adzerk.net^
+||adzerk.net^

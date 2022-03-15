@@ -3864,3 +3864,4 @@
 0.0.0.0 forms.hubspot.com
 0.0.0.0 api.hubspot.com
 0.0.0.0 getsidekick.com
+0.0.0.0 1962994g44.secure0082.hubspot.net

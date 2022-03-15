@@ -3866,3 +3866,4 @@
 @@||blog.hubspot.com^ # Permit blog subdomain
 ||api.hubspot.com^
 ||getsidekick.com^
+||1962994g44.secure0082.hubspot.net^

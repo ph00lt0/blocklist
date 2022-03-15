@@ -3876,3 +3876,4 @@
 ||koi-3qnciq0m5q.marketingautomation.services^
 ||debug.nordvpn.com^
 ||js.pusher.com^
+||fonts.cdnfonts.com^

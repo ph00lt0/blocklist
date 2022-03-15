@@ -3875,3 +3875,4 @@
 @@||knowledge.hubspot.com^  # Allow knowledge base subdomain
 ||koi-3qnciq0m5q.marketingautomation.services^
 ||debug.nordvpn.com^
+||js.pusher.com^

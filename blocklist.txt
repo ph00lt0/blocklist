@@ -3861,3 +3861,4 @@
 ||local.hubspot.com^
 ||exceptions.hubspot.com^
 ||wtcfns.hubspot.com^
+||feedback.hubapi.com^

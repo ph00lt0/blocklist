@@ -3869,3 +3869,4 @@
 ||1962994g44.secure0082.hubspot.net^
 ||brooklynrail-web.imgix.net^
 ||appwiki.nl^
+||d.newsletter.forbes.com^

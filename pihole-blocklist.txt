@@ -3855,3 +3855,4 @@
 0.0.0.0 adzerk.net
 0.0.0.0 donny.wetransfer.com
 0.0.0.0 lebowski.wetransfer.com
+0.0.0.0 citrix-sharefile-content.customer.pendo.io

@@ -3860,3 +3860,4 @@
 ||rads.stackoverflow.com^
 ||local.hubspot.com^
 ||exceptions.hubspot.com^
+||wtcfns.hubspot.com^

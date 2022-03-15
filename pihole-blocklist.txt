@@ -3858,3 +3858,4 @@
 0.0.0.0 citrix-sharefile-content.customer.pendo.io
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 local.hubspot.com
+0.0.0.0 exceptions.hubspot.com

@@ -3859,3 +3859,4 @@
 ||citrix-sharefile-content.customer.pendo.io^
 ||rads.stackoverflow.com^
 ||local.hubspot.com^
+||exceptions.hubspot.com^

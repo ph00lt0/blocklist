@@ -3871,3 +3871,4 @@
 ||appwiki.nl^
 ||d.newsletter.forbes.com^
 @@||developers.hubspot.com^  # Allow developer subdomain for api docs
+||static2cdn.hubspot.com^

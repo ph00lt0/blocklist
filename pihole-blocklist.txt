@@ -3869,3 +3869,4 @@
 0.0.0.0 appwiki.nl
 0.0.0.0 d.newsletter.forbes.com
 ! allow developers.hubspot.com reason: Allow developer subdomain for api docs
+0.0.0.0 static2cdn.hubspot.com

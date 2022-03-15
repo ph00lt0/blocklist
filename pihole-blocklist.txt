@@ -3870,3 +3870,4 @@
 0.0.0.0 d.newsletter.forbes.com
 ! allow developers.hubspot.com reason: Allow developer subdomain for api docs
 ! allow static2cdn.hubspot.com reason: Allow cdn to read docs and blog
+0.0.0.0 knowledge.hubspot.com

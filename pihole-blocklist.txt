@@ -3875,3 +3875,4 @@
 0.0.0.0 debug.nordvpn.com
 0.0.0.0 js.pusher.com
 0.0.0.0 fonts.cdnfonts.com
+0.0.0.0 cdnfonts.com

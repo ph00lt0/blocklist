@@ -3877,3 +3877,4 @@
 ||debug.nordvpn.com^
 ||js.pusher.com^
 ||fonts.cdnfonts.com^
+||cdnfonts.com^

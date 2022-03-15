@@ -3862,3 +3862,4 @@
 ||exceptions.hubspot.com^
 ||wtcfns.hubspot.com^
 ||feedback.hubapi.com^
+||forms.hubspot.com^

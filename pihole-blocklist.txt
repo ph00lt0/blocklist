@@ -3861,3 +3861,4 @@
 0.0.0.0 exceptions.hubspot.com
 0.0.0.0 wtcfns.hubspot.com
 0.0.0.0 feedback.hubapi.com
+0.0.0.0 forms.hubspot.com

@@ -3863,3 +3863,4 @@
 ||wtcfns.hubspot.com^
 ||feedback.hubapi.com^
 ||forms.hubspot.com^
+@@||blog.hubspot.com^ # Permit blog subdomain

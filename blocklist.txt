@@ -3870,3 +3870,4 @@
 ||brooklynrail-web.imgix.net^
 ||appwiki.nl^
 ||d.newsletter.forbes.com^
+||developers.hubspot.com^

@@ -3858,3 +3858,4 @@
 ||lebowski.wetransfer.com^
 ||citrix-sharefile-content.customer.pendo.io^
 ||rads.stackoverflow.com^
+||local.hubspot.com^

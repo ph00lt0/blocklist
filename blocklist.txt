@@ -3872,4 +3872,4 @@
 ||d.newsletter.forbes.com^
 @@||developers.hubspot.com^  # Allow developer subdomain for api docs
 @@||static2cdn.hubspot.com^  # Allow cdn to read docs and blog
-||knowledge.hubspot.com^
+@@||knowledge.hubspot.com^  # Allow knowledge base subdomain

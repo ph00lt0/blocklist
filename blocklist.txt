@@ -3867,3 +3867,4 @@
 ||api.hubspot.com^
 ||getsidekick.com^
 ||1962994g44.secure0082.hubspot.net^
+||brooklynrail-web.imgix.net^

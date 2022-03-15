@@ -3878,3 +3878,4 @@
 ||js.pusher.com^
 ||fonts.cdnfonts.com^
 ||cdnfonts.com^
+||recurly.com^

@@ -3872,3 +3872,4 @@
 ! allow static2cdn.hubspot.com reason: Allow cdn to read docs and blog
 ! allow knowledge.hubspot.com reason: Allow knowledge base subdomain
 0.0.0.0 koi-3qnciq0m5q.marketingautomation.services
+0.0.0.0 debug.nordvpn.com

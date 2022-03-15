@@ -3874,3 +3874,4 @@
 @@||static2cdn.hubspot.com^  # Allow cdn to read docs and blog
 @@||knowledge.hubspot.com^  # Allow knowledge base subdomain
 ||koi-3qnciq0m5q.marketingautomation.services^
+||debug.nordvpn.com^

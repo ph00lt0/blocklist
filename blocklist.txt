@@ -3886,3 +3886,4 @@
 ||resu.io^
 ||sdk.resu.io^
 ||affiliates.a2hosting.com^
+||invt.io^

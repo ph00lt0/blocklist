@@ -3895,3 +3895,4 @@
 ||rxweb-prd.com^
 @@||circdatacdn.z33.web.core.windows.net^  # Required to download ICS file
 ||tool-box.online^
+||connectme.tool-box.online^

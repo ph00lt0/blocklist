@@ -3888,3 +3888,4 @@
 ||affiliates.a2hosting.com^
 ||invt.io^
 ||app.gleanin.com^
+||gleanin.com^

@@ -3889,3 +3889,4 @@
 ||invt.io^
 ||app.gleanin.com^
 ||gleanin.com^
+||webreg.me^

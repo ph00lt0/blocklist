@@ -3890,3 +3890,4 @@
 ||app.gleanin.com^
 ||gleanin.com^
 ||webreg.me^
+||app.webreg.me^

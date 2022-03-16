@@ -3888,3 +3888,4 @@
 0.0.0.0 app.gleanin.com
 0.0.0.0 gleanin.com
 0.0.0.0 webreg.me
+0.0.0.0 app.webreg.me

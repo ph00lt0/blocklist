@@ -3879,3 +3879,4 @@
 ||fonts.cdnfonts.com^
 ||cdnfonts.com^
 ||recurly.com^
+||chatbotprodas01.azurewebsites.net^

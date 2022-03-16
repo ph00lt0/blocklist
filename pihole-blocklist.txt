@@ -3877,3 +3877,4 @@
 0.0.0.0 fonts.cdnfonts.com
 0.0.0.0 cdnfonts.com
 0.0.0.0 recurly.com
+0.0.0.0 chatbotprodas01.azurewebsites.net

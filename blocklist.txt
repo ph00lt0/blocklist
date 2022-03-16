@@ -3882,3 +3882,4 @@
 ||chatbotprodas01.azurewebsites.net^
 ||haptikapi.com^
 ||toolassets.haptikapi.com^
+||cdn-akamai.mookie1.com^

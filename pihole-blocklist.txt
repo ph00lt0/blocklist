@@ -3880,3 +3880,4 @@
 0.0.0.0 chatbotprodas01.azurewebsites.net
 0.0.0.0 haptikapi.com
 0.0.0.0 toolassets.haptikapi.com
+0.0.0.0 cdn-akamai.mookie1.com

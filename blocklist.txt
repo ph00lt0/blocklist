@@ -3884,3 +3884,4 @@
 ||toolassets.haptikapi.com^
 ||cdn-akamai.mookie1.com^
 ||resu.io^
+||sdk.resu.io^

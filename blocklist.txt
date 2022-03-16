@@ -3881,3 +3881,4 @@
 ||recurly.com^
 ||chatbotprodas01.azurewebsites.net^
 ||haptikapi.com^
+||toolassets.haptikapi.com^

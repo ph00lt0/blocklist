@@ -3881,3 +3881,4 @@
 0.0.0.0 haptikapi.com
 0.0.0.0 toolassets.haptikapi.com
 0.0.0.0 cdn-akamai.mookie1.com
+0.0.0.0 resu.io

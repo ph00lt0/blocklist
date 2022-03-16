@@ -3883,3 +3883,4 @@
 ||haptikapi.com^
 ||toolassets.haptikapi.com^
 ||cdn-akamai.mookie1.com^
+||resu.io^

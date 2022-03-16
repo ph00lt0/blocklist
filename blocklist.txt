@@ -3893,3 +3893,4 @@
 ||app.webreg.me^
 ||css-components.rxweb-prd.com^
 ||rxweb-prd.com^
+||circdatacdn.z33.web.core.windows.net^

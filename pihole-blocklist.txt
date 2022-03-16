@@ -3891,4 +3891,4 @@
 0.0.0.0 app.webreg.me
 0.0.0.0 css-components.rxweb-prd.com
 0.0.0.0 rxweb-prd.com
-0.0.0.0 circdatacdn.z33.web.core.windows.net
+! allow circdatacdn.z33.web.core.windows.net reason: Required to download ICS file

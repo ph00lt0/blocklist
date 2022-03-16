@@ -3892,3 +3892,4 @@
 ||webreg.me^
 ||app.webreg.me^
 ||css-components.rxweb-prd.com^
+||rxweb-prd.com^

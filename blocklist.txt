@@ -3880,3 +3880,4 @@
 ||cdnfonts.com^
 ||recurly.com^
 ||chatbotprodas01.azurewebsites.net^
+||haptikapi.com^

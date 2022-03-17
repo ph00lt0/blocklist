@@ -3905,3 +3905,4 @@
 ||api.smoot.apple.com^
 ||klik.nrc.nl^
 ||checkip.dyndns.org^
+||cmp.viva.nl^

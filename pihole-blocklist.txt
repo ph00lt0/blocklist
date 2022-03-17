@@ -3903,3 +3903,4 @@
 0.0.0.0 api.smoot.apple.com
 0.0.0.0 klik.nrc.nl
 0.0.0.0 checkip.dyndns.org
+0.0.0.0 cmp.viva.nl

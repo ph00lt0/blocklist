@@ -3908,3 +3908,4 @@
 ||cmp.viva.nl^
 ||writing.chelseakomlo.com^
 ||in.appcenter.ms^
+||win10-trt.msedge.net^

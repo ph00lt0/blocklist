@@ -3900,3 +3900,4 @@
 ||stats.decorrespondent.nl^
 ||api.producthunt.com^
 ||widget.intercom.io^
+||p1.parsely.com^

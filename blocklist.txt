@@ -3898,3 +3898,4 @@
 ||connectme.tool-box.online^
 ||stats.thinkprivacy.ch^
 ||stats.decorrespondent.nl^
+||api.producthunt.com^

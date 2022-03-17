@@ -3897,3 +3897,4 @@
 ||tool-box.online^
 ||connectme.tool-box.online^
 ||stats.thinkprivacy.ch^
+||stats.decorrespondent.nl^

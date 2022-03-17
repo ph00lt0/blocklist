@@ -3895,3 +3895,4 @@
 0.0.0.0 tool-box.online
 0.0.0.0 connectme.tool-box.online
 0.0.0.0 stats.thinkprivacy.ch
+0.0.0.0 stats.decorrespondent.nl

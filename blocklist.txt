@@ -3899,3 +3899,4 @@
 ||stats.thinkprivacy.ch^
 ||stats.decorrespondent.nl^
 ||api.producthunt.com^
+||widget.intercom.io^

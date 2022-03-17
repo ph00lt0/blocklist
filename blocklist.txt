@@ -3903,3 +3903,4 @@
 ||p1.parsely.com^
 ||checkip.synology.com^
 ||api.smoot.apple.com^
+||klik.nrc.nl^

@@ -3915,3 +3915,4 @@
 ||zen.spamhaus.org^
 ||bl.spamcop.net^
 ||ngpweb.com^
+||gnpfesdk-pa.googleapis.com^

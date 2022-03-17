@@ -3911,3 +3911,4 @@
 0.0.0.0 gmail.com.dbl.spamhaus.org
 0.0.0.0 dbl.spamhaus.org
 0.0.0.0 zen.spamhaus.org
+0.0.0.0 bl.spamcop.net

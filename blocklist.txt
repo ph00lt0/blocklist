@@ -3913,3 +3913,4 @@
 ||gmail.com.dbl.spamhaus.org^
 ||dbl.spamhaus.org^
 ||zen.spamhaus.org^
+||bl.spamcop.net^

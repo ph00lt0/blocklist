@@ -3894,3 +3894,4 @@
 ! allow circdatacdn.z33.web.core.windows.net reason: Required to download ICS file
 0.0.0.0 tool-box.online
 0.0.0.0 connectme.tool-box.online
+0.0.0.0 stats.thinkprivacy.ch

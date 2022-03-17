@@ -2364,7 +2364,7 @@
 0.0.0.0 analytics.knmp.nl
 0.0.0.0 cookieconsent.vruchtvlees.com
 0.0.0.0 analytics.redfrog.nl
-0.0.0.0 res.cloudinary.com
+! allow res.cloudinary.com reason: CDN
 0.0.0.0 cloudinary.com
 0.0.0.0 vfpf1.expoints.nl
 0.0.0.0 expoints.nl

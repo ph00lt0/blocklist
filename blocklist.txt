@@ -2365,7 +2365,7 @@
 ||analytics.knmp.nl^
 ||cookieconsent.vruchtvlees.com^
 ||analytics.redfrog.nl^
-||res.cloudinary.com^
+@@||res.cloudinary.com^  # CDN
 ||cloudinary.com^
 ||vfpf1.expoints.nl^
 ||expoints.nl^

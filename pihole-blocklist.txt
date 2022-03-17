@@ -3899,3 +3899,4 @@
 0.0.0.0 api.producthunt.com
 0.0.0.0 widget.intercom.io
 0.0.0.0 p1.parsely.com
+0.0.0.0 checkip.synology.com

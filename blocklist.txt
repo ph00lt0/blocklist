@@ -3901,3 +3901,4 @@
 ||api.producthunt.com^
 ||widget.intercom.io^
 ||p1.parsely.com^
+||checkip.synology.com^

@@ -3928,3 +3928,4 @@
 0.0.0.0 path2.xtracloud.net
 0.0.0.0 path1.xtracloud.net
 0.0.0.0 manifest.localytics.com
+0.0.0.0 www.swoogo.com

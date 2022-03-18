@@ -3920,4 +3920,4 @@
 0.0.0.0 omappapi.com
 0.0.0.0 a.omappapi.com
 0.0.0.0 secure.avaaz.org.dbl.spamhaus.org
-0.0.0.0 outlook.htrhosting.nl
+! allow outlook.htrhosting.nl reason: Not just email tracking

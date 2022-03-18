@@ -3926,3 +3926,4 @@
 ||analytics.localytics.com^
 ||profile.localytics.com^
 ||xtracloud.net^
+||path3.xtracloud.net^

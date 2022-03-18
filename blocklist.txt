@@ -3917,3 +3917,4 @@
 ||ngpweb.com^
 ||gnpfesdk-pa.googleapis.com^
 ||fairsconsult.webpower.eu^
+||mailzgbaag.mail.webpower.eu^

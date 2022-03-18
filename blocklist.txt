@@ -3931,3 +3931,4 @@
 ||path1.xtracloud.net^
 ||manifest.localytics.com^
 ||www.swoogo.com^
+||get.swoogo.com^

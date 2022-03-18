@@ -3923,3 +3923,4 @@
 ! allow outlook.htrhosting.nl reason: Not just email tracking
 0.0.0.0 analytics.localytics.com
 0.0.0.0 profile.localytics.com
+0.0.0.0 xtracloud.net

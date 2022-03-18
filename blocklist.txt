@@ -3925,3 +3925,4 @@
 @@||outlook.htrhosting.nl^  # Not just email tracking
 ||analytics.localytics.com^
 ||profile.localytics.com^
+||xtracloud.net^

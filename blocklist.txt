@@ -3937,3 +3937,4 @@
 ||milet11111.pcapredict.com^
 ||boldapps.net^
 ||option.boldapps.net^
+||matomo.companieshouse.gov.uk^

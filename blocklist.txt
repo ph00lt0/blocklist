@@ -3924,3 +3924,4 @@
 ||secure.avaaz.org.dbl.spamhaus.org^
 @@||outlook.htrhosting.nl^  # Not just email tracking
 ||analytics.localytics.com^
+||profile.localytics.com^

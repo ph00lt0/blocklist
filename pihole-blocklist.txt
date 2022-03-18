@@ -3919,3 +3919,4 @@
 0.0.0.0 mail.secondhome.nl
 0.0.0.0 omappapi.com
 0.0.0.0 a.omappapi.com
+0.0.0.0 secure.avaaz.org.dbl.spamhaus.org

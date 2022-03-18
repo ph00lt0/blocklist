@@ -3931,3 +3931,4 @@
 0.0.0.0 www.swoogo.com
 0.0.0.0 get.swoogo.com
 0.0.0.0 serve.albacross.com
+0.0.0.0 albacross.com

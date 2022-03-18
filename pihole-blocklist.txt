@@ -3925,3 +3925,4 @@
 0.0.0.0 profile.localytics.com
 0.0.0.0 xtracloud.net
 0.0.0.0 path3.xtracloud.net
+0.0.0.0 path2.xtracloud.net

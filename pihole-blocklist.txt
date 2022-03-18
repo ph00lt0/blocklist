@@ -3933,3 +3933,4 @@
 0.0.0.0 serve.albacross.com
 0.0.0.0 albacross.com
 0.0.0.0 milet11111.pcapredict.com
+0.0.0.0 boldapps.net

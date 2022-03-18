@@ -3914,3 +3914,4 @@
 0.0.0.0 bl.spamcop.net
 0.0.0.0 ngpweb.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
+0.0.0.0 fairsconsult.webpower.eu

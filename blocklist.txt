@@ -3932,3 +3932,4 @@
 ||manifest.localytics.com^
 ||www.swoogo.com^
 ||get.swoogo.com^
+||serve.albacross.com^

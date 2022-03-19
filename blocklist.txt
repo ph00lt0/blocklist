@@ -3965,3 +3965,4 @@
 ||sentry.scaleway.com^
 ||evs.nuage01.scaleway.com^
 ||datanyze.com^
+||errors.serverius.net^

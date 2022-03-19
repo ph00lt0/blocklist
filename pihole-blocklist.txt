@@ -3963,3 +3963,4 @@
 0.0.0.0 sentry.scaleway.com
 0.0.0.0 evs.nuage01.scaleway.com
 0.0.0.0 datanyze.com
+0.0.0.0 errors.serverius.net

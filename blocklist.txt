@@ -3940,3 +3940,4 @@
 ||matomo.companieshouse.gov.uk^
 ||514003051.collect.igodigital.com^
 ||track.gaconnector.com^
+||consent.truste.com^

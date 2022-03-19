@@ -3952,3 +3952,4 @@
 ||metrics.ionos.it^
 ||pixel.ionos.it^
 ||metrics.ionos.ca^
+||pixel.ionos.ca^

@@ -3957,3 +3957,4 @@
 ||pixel.ionos.fr^
 ||pixel.ionos.at^
 ||metrics.ionos.at^
+||service.bmf.gv.at^

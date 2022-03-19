@@ -3962,3 +3962,4 @@
 ||etracker.de^
 ||analysis.sozialversicherung.at^
 ||foq.youreurope.europa.eu^
+||sentry.scaleway.com^

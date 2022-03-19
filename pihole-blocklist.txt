@@ -3948,3 +3948,4 @@
 0.0.0.0 uir.uimserv.net
 0.0.0.0 uimserv.net
 0.0.0.0 metrics.ionos.it
+0.0.0.0 pixel.ionos.it

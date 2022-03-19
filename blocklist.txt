@@ -3953,3 +3953,4 @@
 ||pixel.ionos.it^
 ||metrics.ionos.ca^
 ||pixel.ionos.ca^
+||metrics.ionos.fr^

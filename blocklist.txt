@@ -3955,3 +3955,4 @@
 ||pixel.ionos.ca^
 ||metrics.ionos.fr^
 ||pixel.ionos.fr^
+||pixel.ionos.at^

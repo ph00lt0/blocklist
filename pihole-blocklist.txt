@@ -3954,3 +3954,4 @@
 0.0.0.0 metrics.ionos.fr
 0.0.0.0 pixel.ionos.fr
 0.0.0.0 pixel.ionos.at
+0.0.0.0 metrics.ionos.at

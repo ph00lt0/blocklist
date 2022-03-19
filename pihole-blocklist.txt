@@ -3952,3 +3952,4 @@
 0.0.0.0 metrics.ionos.ca
 0.0.0.0 pixel.ionos.ca
 0.0.0.0 metrics.ionos.fr
+0.0.0.0 pixel.ionos.fr

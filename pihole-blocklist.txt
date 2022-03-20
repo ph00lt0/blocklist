@@ -3968,3 +3968,4 @@
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 chat.covid19.go.id
 0.0.0.0 trustaproiam.de
+0.0.0.0 widget.kominfo.go.id

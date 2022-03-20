@@ -3975,3 +3975,4 @@
 0.0.0.0 sprinklecontent.com
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 primed.io
+0.0.0.0 cdn.primed.io

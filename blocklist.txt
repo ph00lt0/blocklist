@@ -3977,3 +3977,4 @@
 ||sprinklecontent.com^
 ||widgets.sprinklecontent.com^
 ||primed.io^
+||cdn.primed.io^

@@ -3975,3 +3975,4 @@
 ||woxo.tech^
 ||tentacles.smartocto.com^
 ||sprinklecontent.com^
+||widgets.sprinklecontent.com^

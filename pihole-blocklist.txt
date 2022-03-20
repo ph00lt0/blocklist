@@ -3973,3 +3973,4 @@
 0.0.0.0 woxo.tech
 0.0.0.0 tentacles.smartocto.com
 0.0.0.0 sprinklecontent.com
+0.0.0.0 widgets.sprinklecontent.com

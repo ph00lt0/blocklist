@@ -3971,3 +3971,4 @@
 ||chat.covid19.go.id^
 ||trustaproiam.de^
 ||widget.kominfo.go.id^
+||cdn2.woxo.tech^

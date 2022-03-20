@@ -3972,3 +3972,4 @@
 0.0.0.0 cdn2.woxo.tech
 0.0.0.0 woxo.tech
 0.0.0.0 tentacles.smartocto.com
+0.0.0.0 sprinklecontent.com

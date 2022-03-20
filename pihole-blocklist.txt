@@ -3978,3 +3978,4 @@
 0.0.0.0 cdn.primed.io
 0.0.0.0 o314617.ingest.sentry.io
 0.0.0.0 pla.paretosecurity.com
+0.0.0.0 d1f8f9xcsvx3ha.cloudfront.net

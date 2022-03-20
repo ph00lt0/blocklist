@@ -3980,3 +3980,4 @@
 ||cdn.primed.io^
 ||o314617.ingest.sentry.io^
 ||pla.paretosecurity.com^
+||d1f8f9xcsvx3ha.cloudfront.net^

@@ -3966,3 +3966,4 @@
 0.0.0.0 errors.serverius.net
 0.0.0.0 o1092205.ingest.sentry.io
 0.0.0.0 certify.alexametrics.com
+0.0.0.0 chat.covid19.go.id

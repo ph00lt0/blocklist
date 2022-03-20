@@ -3968,3 +3968,4 @@
 ||errors.serverius.net^
 ||o1092205.ingest.sentry.io^
 ||certify.alexametrics.com^
+||chat.covid19.go.id^

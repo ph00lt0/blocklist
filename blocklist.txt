@@ -1492,7 +1492,7 @@
 ||proctorio.zendesk.com^
 ||proctor.io^
 ||www.teamviewer.com^
-||teamviewer.com^
+@@||teamviewer.com^  # Please don't use this crap but we're not blocking websites.
 ||samsappsbn.vo.llnwd.net^
 ||vgz.my.salesforce.com^
 ||otag.h2os.com^

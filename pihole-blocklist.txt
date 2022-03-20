@@ -3974,3 +3974,4 @@
 0.0.0.0 tentacles.smartocto.com
 0.0.0.0 sprinklecontent.com
 0.0.0.0 widgets.sprinklecontent.com
+0.0.0.0 primed.io

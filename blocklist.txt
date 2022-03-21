@@ -4014,3 +4014,4 @@
 ||event.vgl.org^
 ||auswertung.vzbv.de^
 ||my.clickdesk.com^
+||clickdesk.com^

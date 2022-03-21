@@ -4013,3 +4013,4 @@
 0.0.0.0 auswertung.vzbv.de
 0.0.0.0 my.clickdesk.com
 0.0.0.0 clickdesk.com
+0.0.0.0 advertising-module.api.dpgmedia.cloud

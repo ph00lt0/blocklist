@@ -3999,3 +3999,4 @@
 ||www.powr.io^
 ||thimatic-apps.com^
 ||salesbox.fireapps.io^
+||fireapps.io^

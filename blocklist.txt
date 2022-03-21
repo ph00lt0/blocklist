@@ -3988,3 +3988,4 @@
 ||widget.beop.io^
 ||beop.io^
 ||dmaqfsvvftg8w.cloudfront.net^
+||opmnstr.com^

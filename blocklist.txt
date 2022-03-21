@@ -3984,3 +3984,4 @@
 ||mix.paretosecurity.com^
 ||d82f7a30-751a-4689-b7e9-19336a89ab46.edge.permutive.app^
 ||tags.catapultx.com^
+||catapultx.com^

@@ -3982,3 +3982,4 @@
 0.0.0.0 mix.paretosecurity.com
 0.0.0.0 d82f7a30-751a-4689-b7e9-19336a89ab46.edge.permutive.app
 0.0.0.0 tags.catapultx.com
+0.0.0.0 catapultx.com

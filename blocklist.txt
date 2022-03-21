@@ -4000,3 +4000,4 @@
 ||thimatic-apps.com^
 ||salesbox.fireapps.io^
 ||fireapps.io^
+||shop.app^

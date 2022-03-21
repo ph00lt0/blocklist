@@ -3998,3 +3998,4 @@
 0.0.0.0 thimatic-apps.com
 0.0.0.0 salesbox.fireapps.io
 0.0.0.0 fireapps.io
+0.0.0.0 shop.app

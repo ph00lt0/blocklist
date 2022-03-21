@@ -3986,3 +3986,4 @@
 ||tags.catapultx.com^
 ||catapultx.com^
 ||widget.beop.io^
+||beop.io^

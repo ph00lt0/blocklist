@@ -4010,3 +4010,4 @@
 ||d.delivery.consentmanager.net^
 ||vgl.org^
 ||cdn-data.vgl.org^
+||data.vgl.org^

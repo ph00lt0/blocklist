@@ -3996,3 +3996,4 @@
 0.0.0.0 powr.io
 0.0.0.0 www.powr.io
 0.0.0.0 thimatic-apps.com
+0.0.0.0 salesbox.fireapps.io

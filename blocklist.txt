@@ -4001,3 +4001,4 @@
 ||salesbox.fireapps.io^
 ||fireapps.io^
 ||shop.app^
+||gtm.aeg.fi^

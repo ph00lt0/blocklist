@@ -3990,3 +3990,4 @@
 ||dmaqfsvvftg8w.cloudfront.net^
 ||opmnstr.com^
 ||cdn.callrail.com^
+||rudderlabs.com^

@@ -4009,3 +4009,4 @@
 ||cdn.consentmanager.net^
 ||d.delivery.consentmanager.net^
 ||vgl.org^
+||cdn-data.vgl.org^

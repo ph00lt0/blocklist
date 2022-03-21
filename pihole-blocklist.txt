@@ -4006,3 +4006,4 @@
 0.0.0.0 gtm.aeg.de
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 d.delivery.consentmanager.net
+0.0.0.0 vgl.org

@@ -4013,3 +4013,4 @@
 ||data.vgl.org^
 ||event.vgl.org^
 ||auswertung.vzbv.de^
+||my.clickdesk.com^

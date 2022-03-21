@@ -3996,3 +3996,4 @@
 ||dl.episerver.net^
 ||episerver.net^
 ||powr.io^
+||www.powr.io^

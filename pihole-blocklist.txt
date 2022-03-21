@@ -4010,3 +4010,4 @@
 0.0.0.0 cdn-data.vgl.org
 0.0.0.0 data.vgl.org
 0.0.0.0 event.vgl.org
+0.0.0.0 auswertung.vzbv.de

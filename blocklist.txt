@@ -4012,3 +4012,4 @@
 ||cdn-data.vgl.org^
 ||data.vgl.org^
 ||event.vgl.org^
+||auswertung.vzbv.de^

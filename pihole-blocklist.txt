@@ -3985,3 +3985,4 @@
 0.0.0.0 catapultx.com
 0.0.0.0 widget.beop.io
 0.0.0.0 beop.io
+0.0.0.0 dmaqfsvvftg8w.cloudfront.net

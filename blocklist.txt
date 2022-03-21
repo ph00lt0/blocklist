@@ -4007,3 +4007,4 @@
 ||gtm.aeg.ie^
 ||gtm.aeg.de^
 ||cdn.consentmanager.net^
+||d.delivery.consentmanager.net^

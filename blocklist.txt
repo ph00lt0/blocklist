@@ -4028,3 +4028,4 @@
 ||ar.cdnhub.co^
 ||cdnhub.co^
 ||myfaqprime.appspot.com^
+||cdn.pushowl.com^

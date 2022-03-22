@@ -4041,3 +4041,4 @@
 ||pharmaintelligence.informa.com^
 ||2mdn.net^
 ||s0.2mdn.net^
+||gdpr.picserver.nl^

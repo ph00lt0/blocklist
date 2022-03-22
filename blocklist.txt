@@ -4039,3 +4039,4 @@
 ||v3.paddleapi.com^
 ||data.paddle.com^
 ||pharmaintelligence.informa.com^
+||2mdn.net^

@@ -4037,3 +4037,4 @@
 0.0.0.0 v3.paddleapi.com
 0.0.0.0 data.paddle.com
 0.0.0.0 pharmaintelligence.informa.com
+0.0.0.0 2mdn.net

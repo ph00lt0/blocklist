@@ -4020,3 +4020,4 @@
 ||app.cookieoptimizer.com^
 ||prooffactor.com^
 ||cdn.prooffactor.com^
+||gtmniddocks.herokuapp.com^

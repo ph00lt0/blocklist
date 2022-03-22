@@ -4014,3 +4014,4 @@
 0.0.0.0 my.clickdesk.com
 0.0.0.0 clickdesk.com
 0.0.0.0 advertising-module.api.dpgmedia.cloud
+0.0.0.0 cookieoptimizer.com

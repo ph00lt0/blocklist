@@ -4037,3 +4037,4 @@
 ||spreedly.com^
 ||core.spreedly.com^
 ||v3.paddleapi.com^
+||data.paddle.com^

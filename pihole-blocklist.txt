@@ -4035,3 +4035,4 @@
 0.0.0.0 spreedly.com
 0.0.0.0 core.spreedly.com
 0.0.0.0 v3.paddleapi.com
+0.0.0.0 data.paddle.com

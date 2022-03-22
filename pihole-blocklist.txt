@@ -4033,3 +4033,4 @@
 ! allow checkout.paddle.com reason: Required for purchases of app licenses
 0.0.0.0 o522631.ingest.sentry.io
 0.0.0.0 spreedly.com
+0.0.0.0 core.spreedly.com

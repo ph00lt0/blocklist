@@ -428,7 +428,7 @@
 0.0.0.0 customsearch.ai
 0.0.0.0 aticdn.net
 0.0.0.0 nationbuilder.com
-0.0.0.0 paddle.com
+! allow paddle.com reason: Required for purchases of app licenses
 0.0.0.0 paddleapi.com
 0.0.0.0 addevweb.com
 0.0.0.0 savemysales.co

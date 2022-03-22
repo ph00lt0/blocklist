@@ -429,7 +429,7 @@
 ||customsearch.ai
 ||aticdn.net^
 ||nationbuilder.com^
-||paddle.com^
+@@||paddle.com^  # Required for purchases of app licenses
 ||paddleapi.com^
 ||addevweb.com^
 ||savemysales.co^

@@ -4019,3 +4019,4 @@
 ||cookieoptimizer.com^
 ||app.cookieoptimizer.com^
 ||prooffactor.com^
+||cdn.prooffactor.com^

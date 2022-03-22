@@ -4034,3 +4034,4 @@
 ||static.zotabox.com^
 @@||checkout.paddle.com^  # Required for purchases of app licenses
 ||o522631.ingest.sentry.io^
+||spreedly.com^

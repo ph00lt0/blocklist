@@ -4021,3 +4021,4 @@
 ||prooffactor.com^
 ||cdn.prooffactor.com^
 ||gtmniddocks.herokuapp.com^
+||cdn.recapture.io^

@@ -4023,3 +4023,4 @@
 ||gtmniddocks.herokuapp.com^
 ||cdn.recapture.io^
 ||recapture.io^
+||ko-fi.com^

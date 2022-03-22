@@ -4038,3 +4038,4 @@
 0.0.0.0 data.paddle.com
 0.0.0.0 pharmaintelligence.informa.com
 0.0.0.0 2mdn.net
+0.0.0.0 s0.2mdn.net

@@ -4018,3 +4018,4 @@
 ||advertising-module.api.dpgmedia.cloud^
 ||cookieoptimizer.com^
 ||app.cookieoptimizer.com^
+||prooffactor.com^

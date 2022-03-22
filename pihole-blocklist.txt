@@ -2707,7 +2707,7 @@
 0.0.0.0 cdn.izooto.com
 0.0.0.0 embedmaker.com
 0.0.0.0 widget.cloudpayments.ru
-0.0.0.0 cdn.paddle.com
+! allow cdn.paddle.com reason: Required for purchases of app licenses
 0.0.0.0 feedback.developers.cloudflare.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 revampcdn.comrevampcdn.com

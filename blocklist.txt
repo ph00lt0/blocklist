@@ -2708,7 +2708,7 @@
 ||cdn.izooto.com^
 ||embedmaker.com^
 ||widget.cloudpayments.ru^
-||cdn.paddle.com^
+@@||cdn.paddle.com^  # Required for purchases of app licenses
 ||feedback.developers.cloudflare.com^
 ||spn-v1.revampcdn.com^
 ||revampcdn.comrevampcdn.com^

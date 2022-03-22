@@ -4029,3 +4029,4 @@
 0.0.0.0 cdn.pushowl.com
 0.0.0.0 pushowl.com
 0.0.0.0 zotabox.com
+0.0.0.0 static.zotabox.com

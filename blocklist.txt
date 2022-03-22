@@ -4031,3 +4031,4 @@
 ||cdn.pushowl.com^
 ||pushowl.com^
 ||zotabox.com^
+||static.zotabox.com^

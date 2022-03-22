@@ -4024,3 +4024,4 @@
 ||cdn.recapture.io^
 ||recapture.io^
 ||ko-fi.com^
+||cdn.ko-fi.com^

@@ -4032,4 +4032,4 @@
 ||pushowl.com^
 ||zotabox.com^
 ||static.zotabox.com^
-||checkout.paddle.com^
+@@||checkout.paddle.com^  # Required for purchases of app licenses

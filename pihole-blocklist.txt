@@ -4034,3 +4034,4 @@
 0.0.0.0 o522631.ingest.sentry.io
 0.0.0.0 spreedly.com
 0.0.0.0 core.spreedly.com
+0.0.0.0 v3.paddleapi.com

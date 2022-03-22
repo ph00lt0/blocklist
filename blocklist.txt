@@ -4036,3 +4036,4 @@
 ||o522631.ingest.sentry.io^
 ||spreedly.com^
 ||core.spreedly.com^
+||v3.paddleapi.com^

@@ -4025,3 +4025,4 @@
 0.0.0.0 cdn.ko-fi.com
 0.0.0.0 ar.cdnhub.co
 0.0.0.0 cdnhub.co
+0.0.0.0 myfaqprime.appspot.com

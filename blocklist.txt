@@ -4027,3 +4027,4 @@
 ||cdn.ko-fi.com^
 ||ar.cdnhub.co^
 ||cdnhub.co^
+||myfaqprime.appspot.com^

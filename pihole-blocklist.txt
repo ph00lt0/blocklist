@@ -4031,3 +4031,4 @@
 0.0.0.0 zotabox.com
 0.0.0.0 static.zotabox.com
 ! allow checkout.paddle.com reason: Required for purchases of app licenses
+0.0.0.0 o522631.ingest.sentry.io

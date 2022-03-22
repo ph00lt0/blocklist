@@ -4023,3 +4023,4 @@
 0.0.0.0 recapture.io
 0.0.0.0 ko-fi.com
 0.0.0.0 cdn.ko-fi.com
+0.0.0.0 ar.cdnhub.co

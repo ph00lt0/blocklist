@@ -4017,3 +4017,4 @@
 ||clickdesk.com^
 ||advertising-module.api.dpgmedia.cloud^
 ||cookieoptimizer.com^
+||app.cookieoptimizer.com^

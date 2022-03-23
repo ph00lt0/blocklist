@@ -4050,3 +4050,4 @@
 ||znd6vm6wv06ormkfh-hbp.siteintercept.qualtrics.com^
 ||events.launchdarkly.com^
 ||harvard.edu.sc.omtrdc.net^
+||harvardbusinessrevie.tt.omtrdc.net^

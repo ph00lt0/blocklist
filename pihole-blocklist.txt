@@ -4048,3 +4048,4 @@
 0.0.0.0 znd6vm6wv06ormkfh-hbp.siteintercept.qualtrics.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 harvard.edu.sc.omtrdc.net
+0.0.0.0 harvardbusinessrevie.tt.omtrdc.net

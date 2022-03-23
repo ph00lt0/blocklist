@@ -4044,3 +4044,4 @@
 0.0.0.0 intellimize.co
 0.0.0.0 apiapi.intellimize.co
 0.0.0.0 api.intellimize.co
+0.0.0.0 adtech.redventures.io

@@ -4043,3 +4043,4 @@
 ||s0.2mdn.net^
 ||gdpr.picserver.nl^
 ||picserver.nl^
+||intellimize.co^

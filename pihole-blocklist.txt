@@ -4043,3 +4043,4 @@
 0.0.0.0 picserver.nl
 0.0.0.0 intellimize.co
 0.0.0.0 apiapi.intellimize.co
+0.0.0.0 api.intellimize.co

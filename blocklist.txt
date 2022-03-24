@@ -4069,3 +4069,4 @@
 ||id.redhat.com^
 ||autocomplete.demandbase.com^
 ||eloqua.com^
+||secure.eloqua.com^

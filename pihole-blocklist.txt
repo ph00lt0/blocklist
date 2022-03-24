@@ -4058,3 +4058,4 @@
 0.0.0.0 iplocation.zoho.com
 0.0.0.0 fonts.zohowebstatic.com
 0.0.0.0 bizographics.com
+0.0.0.0 www.bizographics.com

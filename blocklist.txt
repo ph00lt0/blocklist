@@ -4060,3 +4060,4 @@
 ||iplocation.zoho.com^
 ||fonts.zohowebstatic.com^
 ||bizographics.com^
+||www.bizographics.com^

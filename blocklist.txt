@@ -4058,3 +4058,4 @@
 ||assets.juicer.io^
 ||app-sj16.marketo.com^
 ||iplocation.zoho.com^
+||fonts.zohowebstatic.com^

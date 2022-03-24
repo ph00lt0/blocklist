@@ -4053,3 +4053,4 @@
 ||harvardbusinessrevie.tt.omtrdc.net^
 ||analytics.uxmetrics.com^
 ||termly.io^
+||app.termly.io^

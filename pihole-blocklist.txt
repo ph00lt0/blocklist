@@ -4053,3 +4053,4 @@
 0.0.0.0 termly.io
 0.0.0.0 app.termly.io
 0.0.0.0 juicer.io
+0.0.0.0 assets.juicer.io

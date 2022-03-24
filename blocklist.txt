@@ -4055,3 +4055,4 @@
 ||termly.io^
 ||app.termly.io^
 ||juicer.io^
+||assets.juicer.io^

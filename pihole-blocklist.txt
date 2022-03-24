@@ -4052,3 +4052,4 @@
 0.0.0.0 analytics.uxmetrics.com
 0.0.0.0 termly.io
 0.0.0.0 app.termly.io
+0.0.0.0 juicer.io

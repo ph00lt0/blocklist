@@ -4054,3 +4054,4 @@
 ||analytics.uxmetrics.com^
 ||termly.io^
 ||app.termly.io^
+||juicer.io^

@@ -4057,3 +4057,4 @@
 0.0.0.0 app-sj16.marketo.com
 0.0.0.0 iplocation.zoho.com
 0.0.0.0 fonts.zohowebstatic.com
+0.0.0.0 bizographics.com

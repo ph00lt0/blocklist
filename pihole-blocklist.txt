@@ -4049,3 +4049,4 @@
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 harvard.edu.sc.omtrdc.net
 0.0.0.0 harvardbusinessrevie.tt.omtrdc.net
+0.0.0.0 analytics.uxmetrics.com

@@ -4052,3 +4052,4 @@
 ||harvard.edu.sc.omtrdc.net^
 ||harvardbusinessrevie.tt.omtrdc.net^
 ||analytics.uxmetrics.com^
+||termly.io^

@@ -4073,3 +4073,4 @@
 ||img.en25.com^
 ||redhat.tt.omtrdc.net^
 ||tags.sendinblue.com^
+||ws-eu.amazon-adsystem.com^

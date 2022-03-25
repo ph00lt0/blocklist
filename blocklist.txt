@@ -4080,3 +4080,4 @@
 ||km.support.apple.com^
 ||firefly.bol.com^
 ||bltg.s-bol.com^
+||gcp.api.snapchat.com^

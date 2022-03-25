@@ -4081,3 +4081,4 @@
 ||firefly.bol.com^
 ||bltg.s-bol.com^
 ||gcp.api.snapchat.com^
+||crta.dailymail.co.uk^

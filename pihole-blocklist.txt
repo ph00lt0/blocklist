@@ -1891,7 +1891,7 @@
 ! allow waws-prod-am2-261.cloudapp.net reason: Not just a tracker required to load content
 0.0.0.0 varnish.qualifio.com
 0.0.0.0 gadgets.buienradar.nl
-0.0.0.0 abs.twimg.com
+! allow abs.twimg.com reason: Breaks twitter.com
 0.0.0.0 raygun.com
 0.0.0.0 raygun.io
 0.0.0.0 raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com

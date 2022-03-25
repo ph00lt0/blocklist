@@ -1891,7 +1891,7 @@
 @@||waws-prod-am2-261.cloudapp.net^  # Not just a tracker required to load content
 ||varnish.qualifio.com^
 ||gadgets.buienradar.nl^
-||abs.twimg.com^
+@@||abs.twimg.com^  # Breaks twitter.com
 ||raygun.com^
 ||raygun.io^
 ||raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com^

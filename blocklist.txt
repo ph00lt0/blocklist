@@ -4089,3 +4089,4 @@
 ||app.cadmoremedia.com^
 ||cadmoremedia.com^
 ||plu.mx^
+||cdn.plu.mx^

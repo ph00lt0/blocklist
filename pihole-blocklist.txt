@@ -4087,3 +4087,4 @@
 0.0.0.0 app.cadmoremedia.com
 0.0.0.0 cadmoremedia.com
 0.0.0.0 plu.mx
+0.0.0.0 cdn.plu.mx

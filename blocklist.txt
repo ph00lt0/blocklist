@@ -4095,3 +4095,4 @@
 ||notifier-configs.airbrake.io^
 ||airbrake.io^
 ||fast.appcues.com^
+||appcues.com^

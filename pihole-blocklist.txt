@@ -4093,3 +4093,4 @@
 0.0.0.0 notifier-configs.airbrake.io
 0.0.0.0 airbrake.io
 0.0.0.0 fast.appcues.com
+0.0.0.0 appcues.com

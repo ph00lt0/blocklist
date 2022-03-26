@@ -4094,3 +4094,4 @@
 ||collect.springer.com^
 ||notifier-configs.airbrake.io^
 ||airbrake.io^
+||fast.appcues.com^

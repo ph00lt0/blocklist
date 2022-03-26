@@ -4089,3 +4089,4 @@
 0.0.0.0 plu.mx
 0.0.0.0 cdn.plu.mx
 0.0.0.0 nav.sciencedirect.com
+0.0.0.0 collect.springer.com

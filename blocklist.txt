@@ -4088,3 +4088,4 @@
 ||id.google.com^
 ||app.cadmoremedia.com^
 ||cadmoremedia.com^
+||plu.mx^

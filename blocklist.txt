@@ -4090,3 +4090,4 @@
 ||cadmoremedia.com^
 ||plu.mx^
 ||cdn.plu.mx^
+||nav.sciencedirect.com^

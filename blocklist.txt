@@ -4124,3 +4124,4 @@
 ||sph.com.sg^
 ||static.mysph.sph.com.sg^
 ||sphdigital.com^
+||adtag.sphdigital.com^

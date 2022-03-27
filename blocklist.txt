@@ -4134,3 +4134,4 @@
 ||vidoomy.com^
 ||customily.com^
 ||cdn.customily.com^
+||o406206.ingest.sentry.io^

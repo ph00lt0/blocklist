@@ -4129,3 +4129,4 @@
 0.0.0.0 pips-bnnvara.cdn.prepr.io
 0.0.0.0 fonts.bnnvara.nl
 0.0.0.0 ads.vidoomy.com
+0.0.0.0 vidoomy.com

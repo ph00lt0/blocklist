@@ -4131,3 +4131,4 @@
 ||pips-bnnvara.cdn.prepr.io^
 ||fonts.bnnvara.nl^
 ||ads.vidoomy.com^
+||vidoomy.com^

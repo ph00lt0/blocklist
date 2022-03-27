@@ -4115,3 +4115,4 @@
 ||ad.wsod.com^
 ||tru.am^
 ||wsod.com^
+||www.dianomi.com^

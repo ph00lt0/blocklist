@@ -100,7 +100,7 @@
 ||omsc.kpn.com^
 ||kpnbv.tt.omtrdc.net^
 ||newrelic.com^
-@@||js-agent.newrelic.com^  # Required for certain websites to load
+||js-agent.newrelic.com^
 ||optimizely.com^
 ||cdn.optimizely.com^
 ||speedcurve.com^

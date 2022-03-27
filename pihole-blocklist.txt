@@ -4114,3 +4114,4 @@
 0.0.0.0 tru.am
 0.0.0.0 wsod.com
 0.0.0.0 www.dianomi.com
+0.0.0.0 dianomi.com

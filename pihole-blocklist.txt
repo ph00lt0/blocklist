@@ -4126,3 +4126,4 @@
 0.0.0.0 idp.mysph.sph.com.sg
 0.0.0.0 geoip.fedoraproject.org
 0.0.0.0 beans.opensuse.org
+0.0.0.0 pips-bnnvara.cdn.prepr.io

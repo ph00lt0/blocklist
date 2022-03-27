@@ -4121,3 +4121,4 @@
 0.0.0.0 cdp.sph.com.sg
 0.0.0.0 sph.com.sg
 0.0.0.0 static.mysph.sph.com.sg
+0.0.0.0 sphdigital.com

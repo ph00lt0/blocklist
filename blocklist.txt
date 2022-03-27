@@ -4123,3 +4123,4 @@
 ||cdp.sph.com.sg^
 ||sph.com.sg^
 ||static.mysph.sph.com.sg^
+||sphdigital.com^

@@ -4095,3 +4095,4 @@
 0.0.0.0 fast.appcues.com
 0.0.0.0 appcues.com
 0.0.0.0 unagi-na.amazon.com
+0.0.0.0 a.scholieren.com

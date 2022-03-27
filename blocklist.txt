@@ -4108,4 +4108,4 @@
 ||gaua.hit.gemius.pl^
 ||bbg.d1.sc.omtrdc.net^
 ||gdb.voanews.com^
-||pangea-cms.com^
+@@||pangea-cms.com^  # Not just tracker

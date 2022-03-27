@@ -4106,4 +4106,4 @@
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 bbg.d1.sc.omtrdc.net
 0.0.0.0 gdb.voanews.com
-0.0.0.0 pangea-cms.com
+! allow pangea-cms.com reason: Not just tracker

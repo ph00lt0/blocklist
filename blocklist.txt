@@ -4133,3 +4133,4 @@
 ||ads.vidoomy.com^
 ||vidoomy.com^
 ||customily.com^
+||cdn.customily.com^

@@ -4131,3 +4131,4 @@
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 vidoomy.com
 0.0.0.0 customily.com
+0.0.0.0 cdn.customily.com

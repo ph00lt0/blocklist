@@ -4111,3 +4111,4 @@
 @@||pangea-cms.com^  # Not just tracker
 ||livetracker.voa.pangea-cms.com^
 ||webapi.stormgeo.com^
+||stormgeo.com^

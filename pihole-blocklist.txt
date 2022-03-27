@@ -4109,3 +4109,4 @@
 ! allow pangea-cms.com reason: Not just tracker
 0.0.0.0 livetracker.voa.pangea-cms.com
 0.0.0.0 webapi.stormgeo.com
+0.0.0.0 stormgeo.com

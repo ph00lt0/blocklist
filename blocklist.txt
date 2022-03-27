@@ -4113,3 +4113,4 @@
 ||webapi.stormgeo.com^
 ||stormgeo.com^
 ||ad.wsod.com^
+||tru.am^

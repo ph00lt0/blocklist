@@ -4112,3 +4112,4 @@
 ||livetracker.voa.pangea-cms.com^
 ||webapi.stormgeo.com^
 ||stormgeo.com^
+||ad.wsod.com^

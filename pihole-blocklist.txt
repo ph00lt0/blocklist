@@ -4118,3 +4118,4 @@
 0.0.0.0 recommend-zoom.mediacorp.sg
 0.0.0.0 mediacorp.sg
 0.0.0.0 5f876161-9740-4cc8-9b64-4585990b2690.edge.permutive.app
+0.0.0.0 cdp.sph.com.sg

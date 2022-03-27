@@ -4129,3 +4129,4 @@
 ||geoip.fedoraproject.org^
 ||beans.opensuse.org^
 ||pips-bnnvara.cdn.prepr.io^
+||fonts.bnnvara.nl^

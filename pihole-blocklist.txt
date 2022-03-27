@@ -4127,3 +4127,4 @@
 0.0.0.0 geoip.fedoraproject.org
 0.0.0.0 beans.opensuse.org
 0.0.0.0 pips-bnnvara.cdn.prepr.io
+0.0.0.0 fonts.bnnvara.nl

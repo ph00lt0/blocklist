@@ -4125,3 +4125,4 @@
 0.0.0.0 adtag.sphdigital.com
 0.0.0.0 idp.mysph.sph.com.sg
 0.0.0.0 geoip.fedoraproject.org
+0.0.0.0 beans.opensuse.org

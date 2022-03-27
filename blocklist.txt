@@ -4127,3 +4127,4 @@
 ||adtag.sphdigital.com^
 ||idp.mysph.sph.com.sg^
 ||geoip.fedoraproject.org^
+||beans.opensuse.org^

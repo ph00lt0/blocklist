@@ -4112,3 +4112,4 @@
 0.0.0.0 stormgeo.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 tru.am
+0.0.0.0 wsod.com

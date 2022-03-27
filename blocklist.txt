@@ -4114,3 +4114,4 @@
 ||stormgeo.com^
 ||ad.wsod.com^
 ||tru.am^
+||wsod.com^

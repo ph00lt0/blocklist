@@ -4130,3 +4130,4 @@
 ||beans.opensuse.org^
 ||pips-bnnvara.cdn.prepr.io^
 ||fonts.bnnvara.nl^
+||ads.vidoomy.com^

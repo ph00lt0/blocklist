@@ -4100,3 +4100,4 @@
 ||a.scholieren.com^
 ||leadinfo.net^
 ||cdn.leadinfo.net^
+||metrik.algorithmwatch.org^

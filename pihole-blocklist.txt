@@ -4098,3 +4098,4 @@
 0.0.0.0 a.scholieren.com
 0.0.0.0 leadinfo.net
 0.0.0.0 cdn.leadinfo.net
+0.0.0.0 metrik.algorithmwatch.org

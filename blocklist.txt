@@ -4109,3 +4109,4 @@
 ||bbg.d1.sc.omtrdc.net^
 ||gdb.voanews.com^
 @@||pangea-cms.com^  # Not just tracker
+||livetracker.voa.pangea-cms.com^

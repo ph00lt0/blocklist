@@ -4107,3 +4107,4 @@
 0.0.0.0 bbg.d1.sc.omtrdc.net
 0.0.0.0 gdb.voanews.com
 ! allow pangea-cms.com reason: Not just tracker
+0.0.0.0 livetracker.voa.pangea-cms.com

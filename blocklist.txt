@@ -4107,3 +4107,4 @@
 ||live.dennis-jackson.uk^
 ||gaua.hit.gemius.pl^
 ||bbg.d1.sc.omtrdc.net^
+||gdb.voanews.com^

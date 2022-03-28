@@ -4164,3 +4164,4 @@
 ||o552333.ingest.sentry.io^
 ||v2.zopim.com^
 ||trackonomics.net^
+||cdn-magiclinks.trackonomics.net^

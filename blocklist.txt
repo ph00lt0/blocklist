@@ -4137,3 +4137,4 @@
 ||o406206.ingest.sentry.io^
 ||o526196.ingest.sentry.io^
 ||kta.etherscan.com^
+||parra.bbvms.com^

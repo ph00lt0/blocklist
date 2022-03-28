@@ -4135,3 +4135,4 @@
 0.0.0.0 o406206.ingest.sentry.io
 0.0.0.0 o526196.ingest.sentry.io
 0.0.0.0 kta.etherscan.com
+0.0.0.0 parra.bbvms.com

@@ -4162,3 +4162,4 @@
 ||changelly.com^
 ||fdt.kraken.com^
 ||o552333.ingest.sentry.io^
+||v2.zopim.com^

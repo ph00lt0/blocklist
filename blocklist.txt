@@ -4148,3 +4148,4 @@
 ||showheroes.com^
 ||vl-cdn.showheroes.com^
 ||s.pubmine.com^
+||pubmine.com^

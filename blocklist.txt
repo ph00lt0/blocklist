@@ -4154,3 +4154,4 @@
 ||open.mkt922.com^
 ||silverpop.com^
 ||acoustic.com^
+||pod2.ibmmarketingcloud.com^

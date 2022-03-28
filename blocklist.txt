@@ -4160,3 +4160,4 @@
 ||pages02.net^
 ||a.agoradesk.com^
 ||changelly.com^
+||fdt.kraken.com^

@@ -4143,3 +4143,4 @@
 0.0.0.0 nextday.media
 0.0.0.0 content.viralize.tv
 0.0.0.0 viralize.tv
+0.0.0.0 showheroes.com

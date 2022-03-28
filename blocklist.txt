@@ -4145,3 +4145,4 @@
 ||nextday.media^
 ||content.viralize.tv^
 ||viralize.tv^
+||showheroes.com^

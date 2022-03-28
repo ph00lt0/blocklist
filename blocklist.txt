@@ -4167,3 +4167,4 @@
 ||cdn-magiclinks.trackonomics.net^
 ||a.rltd.io^
 ||rltd.io^
+||kendo.cdn.telerik.com^

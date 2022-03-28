@@ -4166,3 +4166,4 @@
 0.0.0.0 a.rltd.io
 0.0.0.0 rltd.io
 0.0.0.0 kendo.cdn.telerik.com
+0.0.0.0 widgets.guidestar.org

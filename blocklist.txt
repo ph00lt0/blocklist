@@ -4168,3 +4168,4 @@
 ||a.rltd.io^
 ||rltd.io^
 ||kendo.cdn.telerik.com^
+||widgets.guidestar.org^

@@ -4149,3 +4149,4 @@
 0.0.0.0 pubmine.com
 0.0.0.0 netwerk.autoblog.nl
 0.0.0.0 mkt922.com
+0.0.0.0 open.mkt922.com

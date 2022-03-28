@@ -3876,7 +3876,7 @@
 0.0.0.0 js.pusher.com
 0.0.0.0 fonts.cdnfonts.com
 0.0.0.0 cdnfonts.com
-0.0.0.0 recurly.com
+! allow recurly.com reason: Payment provider
 0.0.0.0 chatbotprodas01.azurewebsites.net
 0.0.0.0 haptikapi.com
 0.0.0.0 toolassets.haptikapi.com

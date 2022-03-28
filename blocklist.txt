@@ -3878,7 +3878,7 @@
 ||js.pusher.com^
 ||fonts.cdnfonts.com^
 ||cdnfonts.com^
-||recurly.com^
+@@||recurly.com^  # Payment provider
 ||chatbotprodas01.azurewebsites.net^
 ||haptikapi.com^
 ||toolassets.haptikapi.com^

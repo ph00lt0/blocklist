@@ -4158,3 +4158,4 @@
 ||ibmmarketingcloud.com^
 ||www.pages02.net^
 ||pages02.net^
+||a.agoradesk.com^

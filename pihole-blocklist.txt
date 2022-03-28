@@ -4151,3 +4151,4 @@
 0.0.0.0 mkt922.com
 0.0.0.0 open.mkt922.com
 0.0.0.0 silverpop.com
+0.0.0.0 acoustic.com

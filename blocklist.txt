@@ -4138,3 +4138,4 @@
 ||o526196.ingest.sentry.io^
 ||kta.etherscan.com^
 ||parra.bbvms.com^
+||hb.improvedigital.com^

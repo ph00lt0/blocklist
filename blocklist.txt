@@ -4140,3 +4140,4 @@
 ||parra.bbvms.com^
 ||hb.improvedigital.com^
 ||live.demand.supply^
+||demand.supply^

@@ -4146,3 +4146,4 @@
 ||content.viralize.tv^
 ||viralize.tv^
 ||showheroes.com^
+||vl-cdn.showheroes.com^

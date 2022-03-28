@@ -4134,3 +4134,4 @@
 0.0.0.0 cdn.customily.com
 0.0.0.0 o406206.ingest.sentry.io
 0.0.0.0 o526196.ingest.sentry.io
+0.0.0.0 kta.etherscan.com

@@ -4157,3 +4157,4 @@
 ||pod2.ibmmarketingcloud.com^
 ||ibmmarketingcloud.com^
 ||www.pages02.net^
+||pages02.net^

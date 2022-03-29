@@ -4175,3 +4175,4 @@
 0.0.0.0 matomo.internet.nl
 0.0.0.0 iirexhibitionslimite.tt.omtrdc.net
 0.0.0.0 fuseplatform.net
+0.0.0.0 cdn.fuseplatform.net

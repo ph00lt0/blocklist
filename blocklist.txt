@@ -4177,3 +4177,4 @@
 ||matomo.internet.nl^
 ||iirexhibitionslimite.tt.omtrdc.net^
 ||fuseplatform.net^
+||cdn.fuseplatform.net^

@@ -4176,3 +4176,4 @@
 ||analytics.shutterstock.com^
 ||matomo.internet.nl^
 ||iirexhibitionslimite.tt.omtrdc.net^
+||fuseplatform.net^

@@ -4174,3 +4174,4 @@
 0.0.0.0 analytics.shutterstock.com
 0.0.0.0 matomo.internet.nl
 0.0.0.0 iirexhibitionslimite.tt.omtrdc.net
+0.0.0.0 fuseplatform.net

@@ -4172,3 +4172,4 @@
 ||okayanalytics.com^
 ||hosted.okayanalytics.com^
 ||statistiek.rechtspraak.nl^
+||evs.proxy.analytics.shutterstock.com^

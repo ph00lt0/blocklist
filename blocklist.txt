@@ -4170,3 +4170,4 @@
 ||kendo.cdn.telerik.com^
 ||widgets.guidestar.org^
 ||okayanalytics.com^
+||hosted.okayanalytics.com^

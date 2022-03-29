@@ -4172,3 +4172,4 @@
 0.0.0.0 statistiek.rechtspraak.nl
 0.0.0.0 evs.proxy.analytics.shutterstock.com
 0.0.0.0 analytics.shutterstock.com
+0.0.0.0 matomo.internet.nl

@@ -4171,3 +4171,4 @@
 ||widgets.guidestar.org^
 ||okayanalytics.com^
 ||hosted.okayanalytics.com^
+||statistiek.rechtspraak.nl^

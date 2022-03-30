@@ -4179,3 +4179,4 @@
 ||fuseplatform.net^
 ||cdn.fuseplatform.net^
 ||www.ox.hostingwp.pl^
+||hostingwp.pl^

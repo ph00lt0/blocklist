@@ -4182,3 +4182,4 @@
 ||hostingwp.pl^
 ||location.bloomberg.com^
 ||sourcepointcmp.bloomberg.com^
+||coordinator.cm.bloomberg.com^

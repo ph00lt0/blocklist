@@ -4181,3 +4181,4 @@
 ||www.ox.hostingwp.pl^
 ||hostingwp.pl^
 ||location.bloomberg.com^
+||sourcepointcmp.bloomberg.com^

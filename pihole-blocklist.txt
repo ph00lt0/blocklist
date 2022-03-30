@@ -4181,3 +4181,4 @@
 0.0.0.0 location.bloomberg.com
 0.0.0.0 sourcepointcmp.bloomberg.com
 0.0.0.0 coordinator.cm.bloomberg.com
+0.0.0.0 cm.bloomberg.com

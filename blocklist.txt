@@ -4183,3 +4183,4 @@
 ||location.bloomberg.com^
 ||sourcepointcmp.bloomberg.com^
 ||coordinator.cm.bloomberg.com^
+||cm.bloomberg.com^

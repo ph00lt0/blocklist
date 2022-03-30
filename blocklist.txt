@@ -4180,3 +4180,4 @@
 ||cdn.fuseplatform.net^
 ||www.ox.hostingwp.pl^
 ||hostingwp.pl^
+||location.bloomberg.com^

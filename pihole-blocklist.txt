@@ -4178,3 +4178,4 @@
 0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 www.ox.hostingwp.pl
 0.0.0.0 hostingwp.pl
+0.0.0.0 location.bloomberg.com

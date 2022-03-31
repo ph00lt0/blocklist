@@ -4185,3 +4185,4 @@
 ||coordinator.cm.bloomberg.com^
 ||cm.bloomberg.com^
 ||vng.containers.piwik.pro^
+||embed.testimonial.to^

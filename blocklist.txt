@@ -4187,3 +4187,4 @@
 ||vng.containers.piwik.pro^
 ||embed.testimonial.to^
 ||analytics.example.com^
+||s06.flagcounter.com^

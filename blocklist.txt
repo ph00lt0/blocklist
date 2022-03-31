@@ -4186,3 +4186,4 @@
 ||cm.bloomberg.com^
 ||vng.containers.piwik.pro^
 ||embed.testimonial.to^
+||analytics.example.com^

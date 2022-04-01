@@ -4189,3 +4189,4 @@
 ||analytics.example.com^
 ||s06.flagcounter.com^
 ||bugs.lever.co^
+||alertcarolina.unc.edu^

@@ -4187,3 +4187,4 @@
 0.0.0.0 analytics.example.com
 0.0.0.0 s06.flagcounter.com
 0.0.0.0 bugs.lever.co
+0.0.0.0 alertcarolina.unc.edu

@@ -4190,3 +4190,4 @@
 ||s06.flagcounter.com^
 ||bugs.lever.co^
 ||alertcarolina.unc.edu^
+||go.bishopfox.com^

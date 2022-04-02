@@ -4193,3 +4193,4 @@
 0.0.0.0 knotch-cdn.com
 0.0.0.0 www.knotch-cdn.com
 0.0.0.0 o32409.ingest.sentry.io
+0.0.0.0 static.getbutton.io

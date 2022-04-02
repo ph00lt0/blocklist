@@ -4191,3 +4191,4 @@
 0.0.0.0 go.bishopfox.com
 0.0.0.0 bulletin.nebula.zyxel.com
 0.0.0.0 knotch-cdn.com
+0.0.0.0 www.knotch-cdn.com

@@ -4193,3 +4193,4 @@
 ||go.bishopfox.com^
 ||bulletin.nebula.zyxel.com^
 ||knotch-cdn.com^
+||www.knotch-cdn.com^

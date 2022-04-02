@@ -4198,3 +4198,4 @@
 ||static.getbutton.io^
 ||getbutton.io^
 ||rcm-na.amazon-adsystem.com^
+||stats.ivpn.net^

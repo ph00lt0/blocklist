@@ -4190,3 +4190,4 @@
 0.0.0.0 alertcarolina.unc.edu
 0.0.0.0 go.bishopfox.com
 0.0.0.0 bulletin.nebula.zyxel.com
+0.0.0.0 knotch-cdn.com

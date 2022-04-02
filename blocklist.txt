@@ -4192,3 +4192,4 @@
 ||alertcarolina.unc.edu^
 ||go.bishopfox.com^
 ||bulletin.nebula.zyxel.com^
+||knotch-cdn.com^

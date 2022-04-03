@@ -4199,3 +4199,4 @@
 0.0.0.0 stats.ivpn.net
 0.0.0.0 smodus.nike.com
 0.0.0.0 radius8.com
+0.0.0.0 platform.radius8.com

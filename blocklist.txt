@@ -4215,3 +4215,4 @@
 ||jdsports-client-resources.co.uk^
 ||in.getclicky.com^
 ||clkmc.com^
+||cdn.clkmc.com^

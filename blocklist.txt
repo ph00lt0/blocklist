@@ -4214,3 +4214,4 @@
 ||d2tefupx1dneli.cloudfront.net^
 ||jdsports-client-resources.co.uk^
 ||in.getclicky.com^
+||clkmc.com^

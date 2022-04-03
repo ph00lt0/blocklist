@@ -4211,3 +4211,4 @@
 0.0.0.0 d2tefupx1dneli.cloudfront.net
 0.0.0.0 jdsports-client-resources.co.uk
 0.0.0.0 in.getclicky.com
+0.0.0.0 clkmc.com

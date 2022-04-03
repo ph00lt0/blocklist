@@ -4211,3 +4211,4 @@
 ||cnzz.com^
 ||v1.cnzz.com^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d2tefupx1dneli.cloudfront.net^

@@ -4209,3 +4209,4 @@
 ||attraqt.io^
 ||cdn.attraqt.io^
 ||cnzz.com^
+||v1.cnzz.com^

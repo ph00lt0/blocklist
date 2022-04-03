@@ -4204,3 +4204,4 @@
 ||platform.radius8.com^
 ||reporting.cdndex.io^
 ||hooiberg.speld.nl^
+||o454586.ingest.sentry.io^

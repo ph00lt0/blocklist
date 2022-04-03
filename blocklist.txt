@@ -4210,3 +4210,4 @@
 ||cdn.attraqt.io^
 ||cnzz.com^
 ||v1.cnzz.com^
+||d16fk4ms6rqz1v.cloudfront.net^

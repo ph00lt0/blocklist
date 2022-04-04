@@ -4223,3 +4223,4 @@
 ||scoop.it^
 ||www.scoop.it^
 ||ds360.co^
+||share-eu1.hsforms.com^

@@ -4225,3 +4225,4 @@
 ||ds360.co^
 ||share-eu1.hsforms.com^
 ||secure.marketinghub.opentext.com^
+||marketinghub.opentext.com^

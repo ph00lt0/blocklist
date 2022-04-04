@@ -4222,3 +4222,4 @@
 0.0.0.0 ds360.co
 0.0.0.0 share-eu1.hsforms.com
 0.0.0.0 secure.marketinghub.opentext.com
+0.0.0.0 marketinghub.opentext.com

@@ -4220,3 +4220,4 @@
 ||stats-web.polytechnique.fr^
 ||piwik.inria.fr^
 ||stats-web.ens.fr^
+||scoop.it^

@@ -4219,3 +4219,4 @@
 ||ogs.google.com^
 ||stats-web.polytechnique.fr^
 ||piwik.inria.fr^
+||stats-web.ens.fr^

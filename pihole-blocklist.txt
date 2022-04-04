@@ -4216,3 +4216,4 @@
 0.0.0.0 ogs.google.com
 0.0.0.0 stats-web.polytechnique.fr
 0.0.0.0 piwik.inria.fr
+0.0.0.0 stats-web.ens.fr

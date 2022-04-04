@@ -4217,3 +4217,4 @@
 ||clkmc.com^
 ||cdn.clkmc.com^
 ||ogs.google.com^
+||stats-web.polytechnique.fr^

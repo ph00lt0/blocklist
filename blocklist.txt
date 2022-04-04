@@ -4226,3 +4226,4 @@
 ||share-eu1.hsforms.com^
 ||secure.marketinghub.opentext.com^
 ||marketinghub.opentext.com^
+||static-socialhead.cdnhub.co^

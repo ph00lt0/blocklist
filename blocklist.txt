@@ -4221,3 +4221,4 @@
 ||piwik.inria.fr^
 ||stats-web.ens.fr^
 ||scoop.it^
+||www.scoop.it^

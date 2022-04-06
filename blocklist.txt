@@ -4229,3 +4229,4 @@
 ||static-socialhead.cdnhub.co^
 ||upsellproductaddons.com^
 ||snippet.growsumo.com^
+||growsumo.com^

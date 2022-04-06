@@ -1114,7 +1114,7 @@
 0.0.0.0 consentmanager.net
 0.0.0.0 axeptio.eu
 0.0.0.0 www.axeptio.eu
-0.0.0.0 d3e54v103j8qbb.cloudfront.net
+! allow d3e54v103j8qbb.cloudfront.net reason: not a tracker anymore
 0.0.0.0 content2.nrc.nl
 0.0.0.0 vwdservices.com
 0.0.0.0 charting.vwdservices.com

@@ -4240,3 +4240,4 @@
 ||gtm.elementor.com^
 ||buysellads.com^
 ||srv.buysellads.com^
+||track.mailerlite.com^

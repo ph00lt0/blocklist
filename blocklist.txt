@@ -4241,3 +4241,4 @@
 ||buysellads.com^
 ||srv.buysellads.com^
 ||track.mailerlite.com^
+||edge.quantserve.com^

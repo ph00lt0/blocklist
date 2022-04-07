@@ -2370,7 +2370,7 @@
 ||vfpf1.expoints.nl^
 ||expoints.nl^
 ||myprivacy.dpgmedia.net^
-||d33wubrfki0l68.cloudfront.net^
+@@||d33wubrfki0l68.cloudfront.net^  # Required for dnspref.com
 ||ivory.studio^
 ||projects.ivory.studio^
 ||zonmw.containers.piwik.pro^

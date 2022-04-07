@@ -4242,3 +4242,4 @@
 ||srv.buysellads.com^
 ||track.mailerlite.com^
 ||edge.quantserve.com^
+||lngtd.com^

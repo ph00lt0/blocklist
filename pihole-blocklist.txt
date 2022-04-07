@@ -4239,3 +4239,4 @@
 0.0.0.0 srv.buysellads.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 edge.quantserve.com
+0.0.0.0 lngtd.com

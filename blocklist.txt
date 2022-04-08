@@ -4251,3 +4251,4 @@
 ||adtraction.com^
 ||etoro.com^
 ||med.etoro.com^
+||tglyr.co^

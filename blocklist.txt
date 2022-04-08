@@ -4264,3 +4264,4 @@
 ||mkt-api.auvik.com^
 ||crs.cloudapps.cisco.com^
 ||api-mktdev.solarwinds.com^
+||solarwindscom.postaffiliatepro.com^

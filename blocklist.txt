@@ -4254,3 +4254,4 @@
 ||tglyr.co^
 ||trustoo.nl^
 ||static.trustoo.nl^
+||plausible.snikket.org^

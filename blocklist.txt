@@ -4232,7 +4232,7 @@
 ||growsumo.com^
 ||webflow.refersion.com^
 ||d2hrivdxn8ekm8.cloudfront.net^
-||datatracker.ietf.org^
+@@||datatracker.ietf.org^  # not a tracker
 ||engage.wixapps.net^
 ||app-ab41.marketo.com^
 ||libraries.hund.io^

@@ -4250,3 +4250,4 @@
 0.0.0.0 med.etoro.com
 0.0.0.0 tglyr.co
 0.0.0.0 trustoo.nl
+0.0.0.0 static.trustoo.nl

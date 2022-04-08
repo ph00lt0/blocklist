@@ -4253,3 +4253,4 @@
 ||med.etoro.com^
 ||tglyr.co^
 ||trustoo.nl^
+||static.trustoo.nl^

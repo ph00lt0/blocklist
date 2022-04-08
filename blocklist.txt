@@ -4248,3 +4248,4 @@
 ||cdn.threadloom.com^
 ||z-na.amazon-adsystem.com^
 ||track.adtraction.com^
+||adtraction.com^

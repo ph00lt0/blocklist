@@ -4260,3 +4260,4 @@
 0.0.0.0 jsonip.com
 0.0.0.0 mkt-api.auvik.com
 0.0.0.0 crs.cloudapps.cisco.com
+0.0.0.0 api-mktdev.solarwinds.com

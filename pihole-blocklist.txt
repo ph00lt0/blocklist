@@ -4247,3 +4247,4 @@
 0.0.0.0 track.adtraction.com
 0.0.0.0 adtraction.com
 0.0.0.0 etoro.com
+0.0.0.0 med.etoro.com

@@ -4250,3 +4250,4 @@
 ||track.adtraction.com^
 ||adtraction.com^
 ||etoro.com^
+||med.etoro.com^

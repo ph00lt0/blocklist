@@ -4257,3 +4257,4 @@
 0.0.0.0 h50007.www5.hpe.com
 0.0.0.0 data-fh.ext.hpe.com
 0.0.0.0 ipv4.jsonip.com
+0.0.0.0 jsonip.com

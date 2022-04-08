@@ -4261,3 +4261,4 @@
 ||data-fh.ext.hpe.com^
 ||ipv4.jsonip.com^
 ||jsonip.com^
+||mkt-api.auvik.com^

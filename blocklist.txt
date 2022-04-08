@@ -4249,3 +4249,4 @@
 ||z-na.amazon-adsystem.com^
 ||track.adtraction.com^
 ||adtraction.com^
+||etoro.com^

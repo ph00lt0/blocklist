@@ -4273,3 +4273,4 @@
 ||matelma.com^
 ||www.matelma.com^
 ||app-sj05.marketo.com^
+||siteintercept.allegiancetech.com^

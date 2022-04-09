@@ -4263,3 +4263,4 @@
 0.0.0.0 api-mktdev.solarwinds.com
 0.0.0.0 solarwindscom.postaffiliatepro.com
 0.0.0.0 postaffiliatepro.com
+0.0.0.0 e-10192.adzerk.net

@@ -4275,3 +4275,4 @@
 ||app-sj05.marketo.com^
 ||siteintercept.allegiancetech.com^
 ||bc0a.com^
+||cdn.bc0a.com^

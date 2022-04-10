@@ -4273,3 +4273,4 @@
 0.0.0.0 siteintercept.allegiancetech.com
 0.0.0.0 bc0a.com
 0.0.0.0 cdn.bc0a.com
+0.0.0.0 refer.wordpress.com

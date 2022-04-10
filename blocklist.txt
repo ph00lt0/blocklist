@@ -4277,3 +4277,4 @@
 ||bc0a.com^
 ||cdn.bc0a.com^
 ||refer.wordpress.com^
+||monitor.clickcease.com^

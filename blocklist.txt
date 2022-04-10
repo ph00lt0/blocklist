@@ -4279,3 +4279,4 @@
 ||refer.wordpress.com^
 ||monitor.clickcease.com^
 ||clickcease.com^
+||embedsocial.com^

@@ -4278,3 +4278,4 @@
 ||cdn.bc0a.com^
 ||refer.wordpress.com^
 ||monitor.clickcease.com^
+||clickcease.com^

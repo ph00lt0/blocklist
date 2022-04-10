@@ -4275,3 +4275,4 @@
 0.0.0.0 cdn.bc0a.com
 0.0.0.0 refer.wordpress.com
 0.0.0.0 monitor.clickcease.com
+0.0.0.0 clickcease.com

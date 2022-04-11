@@ -4281,3 +4281,4 @@
 ||clickcease.com^
 ||embedsocial.com^
 ||ipapi.com^
+||api.ipapi.com^

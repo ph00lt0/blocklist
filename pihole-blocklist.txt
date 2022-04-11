@@ -4277,3 +4277,4 @@
 0.0.0.0 monitor.clickcease.com
 0.0.0.0 clickcease.com
 0.0.0.0 embedsocial.com
+0.0.0.0 ipapi.com

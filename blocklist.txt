@@ -433,7 +433,7 @@
 ||paddleapi.com^
 ||addevweb.com^
 ||savemysales.co^
-||shortpixel.ai^
+@@||shortpixel.ai^  # cdn
 ||xspdf.com^
 ||admob-app-id-*.firebaseio.com^
 ||mobilenations.com^

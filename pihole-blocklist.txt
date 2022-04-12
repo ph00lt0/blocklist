@@ -432,7 +432,7 @@
 0.0.0.0 paddleapi.com
 0.0.0.0 addevweb.com
 0.0.0.0 savemysales.co
-0.0.0.0 shortpixel.ai
+! allow shortpixel.ai reason: cdn
 0.0.0.0 xspdf.com
 0.0.0.0 admob-app-id-*.firebaseio.com
 0.0.0.0 mobilenations.com

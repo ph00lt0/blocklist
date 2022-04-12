@@ -4288,3 +4288,4 @@
 ||epsilon.6sense.com^
 ||visitor-service.tealiumiq.com^
 ||collect.tealiumiq.com^
+||tealiumiq.com^

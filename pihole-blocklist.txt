@@ -4281,3 +4281,4 @@
 0.0.0.0 api.ipapi.com
 0.0.0.0 event.webinarjam.com
 0.0.0.0 securityiq.infosecinstitute.com
+0.0.0.0 6sense.com

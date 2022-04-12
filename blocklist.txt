@@ -4284,3 +4284,4 @@
 ||api.ipapi.com^
 ||event.webinarjam.com^
 ||securityiq.infosecinstitute.com^
+||6sense.com^

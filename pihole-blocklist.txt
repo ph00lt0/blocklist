@@ -4280,3 +4280,4 @@
 0.0.0.0 ipapi.com
 0.0.0.0 api.ipapi.com
 0.0.0.0 event.webinarjam.com
+0.0.0.0 securityiq.infosecinstitute.com

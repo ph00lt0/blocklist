@@ -4283,3 +4283,4 @@
 ||ipapi.com^
 ||api.ipapi.com^
 ||event.webinarjam.com^
+||securityiq.infosecinstitute.com^

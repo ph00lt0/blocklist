@@ -4284,3 +4284,4 @@
 0.0.0.0 6sense.com
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 visitor-service.tealiumiq.com
+0.0.0.0 collect.tealiumiq.com

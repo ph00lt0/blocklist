@@ -4296,3 +4296,4 @@
 ||cdn.bigpicture.io^
 ||bigpicture.io^
 ||oktopost.com^
+||static.oktopost.com^

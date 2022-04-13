@@ -4293,3 +4293,4 @@
 0.0.0.0 cdn.bigpicture.io
 0.0.0.0 bigpicture.io
 0.0.0.0 oktopost.com
+0.0.0.0 static.oktopost.com

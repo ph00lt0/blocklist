@@ -4298,3 +4298,4 @@
 ||oktopost.com^
 ||static.oktopost.com^
 ||bafybeian33l6hrvjoapve7dxbghs2ej4zeya2cgoldrqo3tm5id7tj6uey.ipfs.dweb.link^
+||ipfs.dweb.link^

@@ -4293,3 +4293,4 @@
 ||sjs.bizographics.com^
 ||scontent-lcy1-1.cdninstagram.com^
 ||bgetr.infogalactic.com^
+||cdn.bigpicture.io^

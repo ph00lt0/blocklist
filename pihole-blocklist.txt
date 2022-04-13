@@ -4287,3 +4287,4 @@
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 pelican.protomaps.com
+0.0.0.0 sjs.bizographics.com

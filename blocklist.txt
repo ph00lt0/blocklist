@@ -4290,3 +4290,4 @@
 ||collect.tealiumiq.com^
 ||tealiumiq.com^
 ||pelican.protomaps.com^
+||sjs.bizographics.com^

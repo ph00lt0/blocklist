@@ -4300,3 +4300,4 @@
 0.0.0.0 global.localizecdn.com
 0.0.0.0 ld.paddle.com
 0.0.0.0 paddle.s3.amazonaws.com
+0.0.0.0 ea.pstmrk.it

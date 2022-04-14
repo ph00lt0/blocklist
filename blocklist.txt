@@ -4302,3 +4302,4 @@
 ||localizecdn.com^
 ||global.localizecdn.com^
 ||ld.paddle.com^
+||paddle.s3.amazonaws.com^

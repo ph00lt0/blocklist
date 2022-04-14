@@ -4297,3 +4297,4 @@
 0.0.0.0 bafybeian33l6hrvjoapve7dxbghs2ej4zeya2cgoldrqo3tm5id7tj6uey.ipfs.dweb.link
 0.0.0.0 ipfs.dweb.link
 0.0.0.0 localizecdn.com
+0.0.0.0 global.localizecdn.com

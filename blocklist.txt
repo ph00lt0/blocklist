@@ -4301,3 +4301,4 @@
 ||ipfs.dweb.link^
 ||localizecdn.com^
 ||global.localizecdn.com^
+||ld.paddle.com^

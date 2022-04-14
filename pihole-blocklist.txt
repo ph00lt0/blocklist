@@ -4298,3 +4298,4 @@
 0.0.0.0 ipfs.dweb.link
 0.0.0.0 localizecdn.com
 0.0.0.0 global.localizecdn.com
+0.0.0.0 ld.paddle.com

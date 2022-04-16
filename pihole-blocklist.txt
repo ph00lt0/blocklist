@@ -4318,3 +4318,4 @@
 0.0.0.0 pagesense.io
 0.0.0.0 cdn-eu.pagesense.io
 0.0.0.0 salesiq.zoho.eu
+0.0.0.0 webfonts.zoho.eu

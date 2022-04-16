@@ -4320,3 +4320,4 @@
 ||leadbooster-chat.pipedrive.com^
 ||pagesense.io^
 ||cdn-eu.pagesense.io^
+||salesiq.zoho.eu^

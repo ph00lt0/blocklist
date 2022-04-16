@@ -4318,3 +4318,4 @@
 ||services.fandom.com^
 ||pipedrive.com^
 ||leadbooster-chat.pipedrive.com^
+||pagesense.io^

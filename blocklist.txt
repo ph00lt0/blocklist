@@ -4316,3 +4316,4 @@
 ||secure.gaug.es^
 ||gaug.es^
 ||services.fandom.com^
+||pipedrive.com^

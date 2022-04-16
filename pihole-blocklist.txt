@@ -4313,3 +4313,4 @@
 0.0.0.0 secure.gaug.es
 0.0.0.0 gaug.es
 0.0.0.0 services.fandom.com
+0.0.0.0 pipedrive.com

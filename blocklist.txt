@@ -4314,3 +4314,4 @@
 ||cdn.icontentall.co.uk^
 ||icontentall.co.uk^
 ||secure.gaug.es^
+||gaug.es^

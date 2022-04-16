@@ -4322,3 +4322,4 @@
 ||cdn-eu.pagesense.io^
 ||salesiq.zoho.eu^
 ||webfonts.zoho.eu^
+||mh.zoho.eu^

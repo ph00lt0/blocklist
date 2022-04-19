@@ -4328,3 +4328,4 @@
 ||engagement.ai^
 ||cdn.engagement.ai^
 ||ads.the-sun.com^
+||cmp.cdn.the-sun.com^

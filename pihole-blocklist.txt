@@ -4325,3 +4325,4 @@
 0.0.0.0 engagement.ai
 0.0.0.0 cdn.engagement.ai
 0.0.0.0 ads.the-sun.com
+0.0.0.0 cmp.cdn.the-sun.com

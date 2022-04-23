@@ -4338,3 +4338,4 @@
 ||wa.arounddeal.com^
 ||admetrics.events^
 ||shopify.admetrics.events^
+||lib.getshogun.com^

@@ -4335,3 +4335,4 @@
 0.0.0.0 wa.arounddeal.com
 0.0.0.0 admetrics.events
 0.0.0.0 shopify.admetrics.events
+0.0.0.0 lib.getshogun.com

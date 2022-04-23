@@ -4337,3 +4337,4 @@
 ||msstonojssocial.112.2o7.net^
 ||wa.arounddeal.com^
 ||admetrics.events^
+||shopify.admetrics.events^

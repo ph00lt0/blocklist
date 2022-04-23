@@ -4349,3 +4349,4 @@
 ||d2badvwg0mti9p.cloudfront.net^
 ||dttrk.com^
 ||shoppy.gg^
+||cdn.starapps.studio^

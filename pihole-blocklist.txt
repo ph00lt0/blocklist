@@ -4346,3 +4346,4 @@
 0.0.0.0 d2badvwg0mti9p.cloudfront.net
 0.0.0.0 dttrk.com
 0.0.0.0 shoppy.gg
+0.0.0.0 cdn.starapps.studio

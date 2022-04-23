@@ -4340,3 +4340,4 @@
 ||shopify.admetrics.events^
 ||lib.getshogun.com^
 ||cdn.getshogun.com^
+||bcdn.starapps.studio^

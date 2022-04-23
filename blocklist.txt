@@ -4352,3 +4352,4 @@
 ||cdn.starapps.studio^
 ||analytics.chase.com^
 ||rc.rlcdn.com^
+||target.chase.com^

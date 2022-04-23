@@ -4335,3 +4335,4 @@
 ||biddr.brealtime.com^
 ||brealtime.com^
 ||msstonojssocial.112.2o7.net^
+||wa.arounddeal.com^

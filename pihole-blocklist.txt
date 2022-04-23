@@ -4336,3 +4336,4 @@
 0.0.0.0 admetrics.events
 0.0.0.0 shopify.admetrics.events
 0.0.0.0 lib.getshogun.com
+0.0.0.0 cdn.getshogun.com

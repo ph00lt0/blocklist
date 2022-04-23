@@ -4340,3 +4340,4 @@
 0.0.0.0 bcdn.starapps.studio
 0.0.0.0 mc.boldapps.net
 0.0.0.0 attributionapp.com
+0.0.0.0 scripts.attributionapp.com

@@ -4343,3 +4343,4 @@
 ||bcdn.starapps.studio^
 ||mc.boldapps.net^
 ||attributionapp.com^
+||scripts.attributionapp.com^

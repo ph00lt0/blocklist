@@ -4348,3 +4348,4 @@
 ||cdn.zigpoll.com^
 ||d2badvwg0mti9p.cloudfront.net^
 ||dttrk.com^
+||shoppy.gg^

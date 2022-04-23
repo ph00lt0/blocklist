@@ -4346,3 +4346,4 @@
 ||scripts.attributionapp.com^
 ||zigpoll.com^
 ||cdn.zigpoll.com^
+||d2badvwg0mti9p.cloudfront.net^

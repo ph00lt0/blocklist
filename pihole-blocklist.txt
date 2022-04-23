@@ -4338,3 +4338,4 @@
 0.0.0.0 lib.getshogun.com
 0.0.0.0 cdn.getshogun.com
 0.0.0.0 bcdn.starapps.studio
+0.0.0.0 mc.boldapps.net

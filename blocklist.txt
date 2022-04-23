@@ -4341,3 +4341,4 @@
 ||lib.getshogun.com^
 ||cdn.getshogun.com^
 ||bcdn.starapps.studio^
+||mc.boldapps.net^

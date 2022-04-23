@@ -4350,3 +4350,4 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 target.chase.com
+0.0.0.0 midas.chase.com

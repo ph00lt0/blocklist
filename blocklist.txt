@@ -4353,3 +4353,4 @@
 ||analytics.chase.com^
 ||rc.rlcdn.com^
 ||target.chase.com^
+||midas.chase.com^

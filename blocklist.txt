@@ -4344,3 +4344,4 @@
 ||mc.boldapps.net^
 ||attributionapp.com^
 ||scripts.attributionapp.com^
+||zigpoll.com^

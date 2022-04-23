@@ -4345,3 +4345,4 @@
 ||attributionapp.com^
 ||scripts.attributionapp.com^
 ||zigpoll.com^
+||cdn.zigpoll.com^

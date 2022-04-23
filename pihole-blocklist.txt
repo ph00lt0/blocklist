@@ -4342,3 +4342,4 @@
 0.0.0.0 attributionapp.com
 0.0.0.0 scripts.attributionapp.com
 0.0.0.0 zigpoll.com
+0.0.0.0 cdn.zigpoll.com

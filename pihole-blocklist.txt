@@ -4354,3 +4354,4 @@
 0.0.0.0 znnan-morganstanleydigital.siteintercept.qualtrics.com
 0.0.0.0 oda.markitqa.com
 0.0.0.0 analytics.delta360.net
+0.0.0.0 analytics.rinzler.ch

@@ -4357,3 +4357,4 @@
 ||znnan-morganstanleydigital.siteintercept.qualtrics.com^
 ||oda.markitqa.com^
 ||analytics.delta360.net^
+||analytics.rinzler.ch^

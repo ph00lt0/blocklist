@@ -4359,3 +4359,4 @@
 ||analytics.delta360.net^
 ||analytics.rinzler.ch^
 ||service.geolizr.com^
+||geolizr.com^

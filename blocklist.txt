@@ -4361,3 +4361,4 @@
 ||service.geolizr.com^
 ||geolizr.com^
 ||gravity-software.com^
+||webyze.com^

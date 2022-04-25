@@ -4359,3 +4359,4 @@
 0.0.0.0 geolizr.com
 0.0.0.0 gravity-software.com
 0.0.0.0 webyze.com
+0.0.0.0 s-pc.webyze.com

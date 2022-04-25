@@ -4362,3 +4362,4 @@
 ||geolizr.com^
 ||gravity-software.com^
 ||webyze.com^
+||s-pc.webyze.com^

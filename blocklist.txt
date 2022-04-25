@@ -4360,3 +4360,4 @@
 ||analytics.rinzler.ch^
 ||service.geolizr.com^
 ||geolizr.com^
+||gravity-software.com^

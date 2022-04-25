@@ -4357,3 +4357,4 @@
 0.0.0.0 analytics.rinzler.ch
 0.0.0.0 service.geolizr.com
 0.0.0.0 geolizr.com
+0.0.0.0 gravity-software.com

@@ -4367,3 +4367,4 @@
 ||d1buj3lvc9ukyl.cloudfront.net^
 ||cdn.sanity.io^
 ||sanity.io^
+||o100763.ingest.sentry.io^

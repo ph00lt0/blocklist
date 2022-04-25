@@ -4365,3 +4365,4 @@
 ||s-pc.webyze.com^
 ||theraptormedia.com^
 ||d1buj3lvc9ukyl.cloudfront.net^
+||cdn.sanity.io^

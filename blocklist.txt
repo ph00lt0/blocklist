@@ -4376,3 +4376,4 @@
 ||quantummetric.com^
 ||cdn.quantummetric.com^
 ||api.leanplum.com^
+||leanplum.com^

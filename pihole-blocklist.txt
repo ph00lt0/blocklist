@@ -4366,3 +4366,4 @@
 0.0.0.0 sanity.io
 0.0.0.0 o100763.ingest.sentry.io
 0.0.0.0 traffic.ctemplar.net
+0.0.0.0 cors-anywhere.herokuapp.com

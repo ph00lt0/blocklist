@@ -4375,3 +4375,4 @@
 ||cdn.tapcart.com^
 ||quantummetric.com^
 ||cdn.quantummetric.com^
+||api.leanplum.com^

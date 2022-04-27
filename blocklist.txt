@@ -4370,3 +4370,4 @@
 ||o100763.ingest.sentry.io^
 ||traffic.ctemplar.net^
 ||cors-anywhere.herokuapp.com^
+||sspinc.io^

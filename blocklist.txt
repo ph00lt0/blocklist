@@ -4371,3 +4371,4 @@
 ||traffic.ctemplar.net^
 ||cors-anywhere.herokuapp.com^
 ||sspinc.io^
+||tapcart.com^

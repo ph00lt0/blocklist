@@ -4369,3 +4369,4 @@
 0.0.0.0 cors-anywhere.herokuapp.com
 0.0.0.0 sspinc.io
 0.0.0.0 tapcart.com
+0.0.0.0 cdn.tapcart.com

@@ -4373,3 +4373,4 @@
 ||sspinc.io^
 ||tapcart.com^
 ||cdn.tapcart.com^
+||quantummetric.com^

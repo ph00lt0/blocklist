@@ -4374,3 +4374,4 @@
 ||tapcart.com^
 ||cdn.tapcart.com^
 ||quantummetric.com^
+||cdn.quantummetric.com^

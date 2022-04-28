@@ -4380,3 +4380,4 @@
 0.0.0.0 go.coolmaterial.com
 0.0.0.0 uywtvbmw.coolmaterial.com
 0.0.0.0 insightexpressai.com
+0.0.0.0 secure.insightexpressai.com

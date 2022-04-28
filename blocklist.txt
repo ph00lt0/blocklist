@@ -4378,3 +4378,4 @@
 ||api.leanplum.com^
 ||leanplum.com^
 ||bayengage.com^
+||sf.bayengage.com^

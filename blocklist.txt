@@ -4400,3 +4400,4 @@
 ||app.mempay.com^
 ||yotpo.com^
 ||staticw2.yotpo.com^
+||vivaio.nu^

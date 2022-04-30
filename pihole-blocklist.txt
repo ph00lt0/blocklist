@@ -4383,3 +4383,4 @@
 0.0.0.0 secure.insightexpressai.com
 0.0.0.0 gatag.it
 0.0.0.0 eu.cookie-script.com
+0.0.0.0 cookie-script.com

@@ -4389,3 +4389,4 @@
 0.0.0.0 api-server-1.goaffpro.com
 0.0.0.0 widebundle.com
 0.0.0.0 socialshopwave.com
+0.0.0.0 d1um8515vdn9kb.cloudfront.net

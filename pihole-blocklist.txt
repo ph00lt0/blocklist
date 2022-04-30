@@ -4388,3 +4388,4 @@
 0.0.0.0 goaffpro.com
 0.0.0.0 api-server-1.goaffpro.com
 0.0.0.0 widebundle.com
+0.0.0.0 socialshopwave.com

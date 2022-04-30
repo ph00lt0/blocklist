@@ -4391,3 +4391,4 @@
 ||goaffpro.com^
 ||api-server-1.goaffpro.com^
 ||widebundle.com^
+||socialshopwave.com^

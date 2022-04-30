@@ -4399,3 +4399,4 @@
 ||mempay.com^
 ||app.mempay.com^
 ||yotpo.com^
+||staticw2.yotpo.com^

@@ -4396,3 +4396,4 @@
 0.0.0.0 mempay.com
 0.0.0.0 app.mempay.com
 0.0.0.0 yotpo.com
+0.0.0.0 staticw2.yotpo.com

@@ -4401,3 +4401,4 @@
 ||yotpo.com^
 ||staticw2.yotpo.com^
 ||vivaio.nu^
+||apps.vivaio.nu^

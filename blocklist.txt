@@ -4397,3 +4397,4 @@
 ||apps.omegatheme.com^
 ||ucarecdn.com^
 ||mempay.com^
+||app.mempay.com^

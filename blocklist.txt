@@ -4387,3 +4387,4 @@
 ||gatag.it^
 ||eu.cookie-script.com^
 ||cookie-script.com^
+||a.cdn-hotels.com^

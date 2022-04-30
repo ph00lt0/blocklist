@@ -4398,3 +4398,4 @@
 ||ucarecdn.com^
 ||mempay.com^
 ||app.mempay.com^
+||yotpo.com^

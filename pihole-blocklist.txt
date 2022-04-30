@@ -4395,3 +4395,4 @@
 0.0.0.0 ucarecdn.com
 0.0.0.0 mempay.com
 0.0.0.0 app.mempay.com
+0.0.0.0 yotpo.com

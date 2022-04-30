@@ -4384,4 +4384,4 @@
 0.0.0.0 gatag.it
 0.0.0.0 eu.cookie-script.com
 0.0.0.0 cookie-script.com
-0.0.0.0 a.cdn-hotels.com
+! allow a.cdn-hotels.com reason: Sripts not trackers

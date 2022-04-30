@@ -4387,4 +4387,4 @@
 ||gatag.it^
 ||eu.cookie-script.com^
 ||cookie-script.com^
-||a.cdn-hotels.com^
+@@||a.cdn-hotels.com^  # Sripts not trackers

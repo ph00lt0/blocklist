@@ -4390,3 +4390,4 @@
 @@||a.cdn-hotels.com^  # Sripts not trackers
 ||goaffpro.com^
 ||api-server-1.goaffpro.com^
+||widebundle.com^

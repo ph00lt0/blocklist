@@ -4385,3 +4385,4 @@
 ||insightexpressai.com^
 ||secure.insightexpressai.com^
 ||gatag.it^
+||eu.cookie-script.com^

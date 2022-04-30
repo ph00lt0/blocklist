@@ -4385,3 +4385,4 @@
 0.0.0.0 eu.cookie-script.com
 0.0.0.0 cookie-script.com
 ! allow a.cdn-hotels.com reason: Sripts not trackers
+0.0.0.0 goaffpro.com

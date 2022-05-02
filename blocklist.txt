@@ -4406,3 +4406,4 @@
 ||sdk.beeketing.com^
 ||stats.privacyguides.net^
 ||api.privacyguides.net^
+||production-cmp.isgprivacy.cbsi.com^

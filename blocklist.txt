@@ -4405,3 +4405,4 @@
 ||beeketing.com^
 ||sdk.beeketing.com^
 ||stats.privacyguides.net^
+||api.privacyguides.net^

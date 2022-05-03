@@ -4408,3 +4408,4 @@
 ||api.privacyguides.net^
 ||production-cmp.isgprivacy.cbsi.com^
 ||facebookmicrosites.github.io^
+||metomic.io^

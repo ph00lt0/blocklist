@@ -4406,3 +4406,4 @@
 0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 facebookmicrosites.github.io
 0.0.0.0 metomic.io
+0.0.0.0 config.metomic.io

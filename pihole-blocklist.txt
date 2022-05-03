@@ -4407,3 +4407,4 @@
 0.0.0.0 facebookmicrosites.github.io
 0.0.0.0 metomic.io
 0.0.0.0 config.metomic.io
+0.0.0.0 consent-manager.metomic.io

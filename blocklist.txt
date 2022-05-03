@@ -4410,3 +4410,4 @@
 ||facebookmicrosites.github.io^
 ||metomic.io^
 ||config.metomic.io^
+||consent-manager.metomic.io^

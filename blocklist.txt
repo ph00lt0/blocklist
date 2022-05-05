@@ -4419,3 +4419,4 @@
 ||chloro.trip.com^
 ||riskpoc.trip.com^
 ||ic.trip.com^
+||ubt-sin.tripcdn.com^

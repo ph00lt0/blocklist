@@ -4421,3 +4421,4 @@
 ||ic.trip.com^
 ||ubt-sin.tripcdn.com^
 ||ak-s.tripcdn.com^
+||analytics.skyscanner.net^

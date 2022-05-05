@@ -4426,3 +4426,4 @@
 0.0.0.0 stfalcon.github.io
 ! allow gaia-acceptance-assets.otravo.com reason: Required for website to function
 ! allow gaia-production-translations.otravo.com reason: Required for website to functiion
+0.0.0.0 revy.io

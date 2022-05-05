@@ -4415,3 +4415,4 @@
 0.0.0.0 d2xf5gjipzd8cd.cloudfront.net
 0.0.0.0 chloro.trip.com
 0.0.0.0 riskpoc.trip.com
+0.0.0.0 ic.trip.com

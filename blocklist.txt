@@ -4428,4 +4428,4 @@
 ||o828979.ingest.sentry.io^
 ||stfalcon.github.io^
 ||gaia-acceptance-assets.otravo.com^
-||gaia-production-translations.otravo.com^
+@@||gaia-production-translations.otravo.com^  # Required for website to functiion

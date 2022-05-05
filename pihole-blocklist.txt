@@ -4425,4 +4425,4 @@
 0.0.0.0 o828979.ingest.sentry.io
 0.0.0.0 stfalcon.github.io
 0.0.0.0 gaia-acceptance-assets.otravo.com
-0.0.0.0 gaia-production-translations.otravo.com
+! allow gaia-production-translations.otravo.com reason: Required for website to functiion

@@ -4426,3 +4426,4 @@
 ||a3.odistatic.net^
 ||odistatic.net^
 ||o828979.ingest.sentry.io^
+||stfalcon.github.io^

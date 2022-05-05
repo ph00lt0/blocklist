@@ -4421,3 +4421,4 @@
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 a39499f57b93.cdn4.forter.com
 0.0.0.0 a3.odistatic.net
+0.0.0.0 odistatic.net

@@ -4424,3 +4424,4 @@
 ||analytics.skyscanner.net^
 ||a39499f57b93.cdn4.forter.com^
 ||a3.odistatic.net^
+||odistatic.net^

@@ -4392,7 +4392,7 @@
 ! allow 0.0.0.0 d1um8515vdn9kb.cloudfront.net reason: Not a tracker
 0.0.0.0 omegatheme.com
 0.0.0.0 apps.omegatheme.com
-0.0.0.0 ucarecdn.com
+! allow ucarecdn.com reason: CDN
 0.0.0.0 mempay.com
 0.0.0.0 app.mempay.com
 0.0.0.0 yotpo.com

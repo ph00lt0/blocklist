@@ -4395,7 +4395,7 @@
 @@||d1um8515vdn9kb.cloudfront.net^ # Not a tracker
 ||omegatheme.com^
 ||apps.omegatheme.com^
-||ucarecdn.com^
+@@||ucarecdn.com^  # CDN
 ||mempay.com^
 ||app.mempay.com^
 ||yotpo.com^

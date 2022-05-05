@@ -4413,3 +4413,4 @@
 ||consent-manager.metomic.io^
 ||tagman.britishairways.com^
 ||webdata.iag.cloud^
+||gr.linkwi.se^

@@ -4430,3 +4430,4 @@
 @@||gaia-acceptance-assets.otravo.com^  # Required for website to function
 @@||gaia-production-translations.otravo.com^  # Required for website to functiion
 ||revy.io^
+||api.revy.io^

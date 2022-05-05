@@ -4427,3 +4427,4 @@
 ||odistatic.net^
 ||o828979.ingest.sentry.io^
 ||stfalcon.github.io^
+||gaia-acceptance-assets.otravo.com^

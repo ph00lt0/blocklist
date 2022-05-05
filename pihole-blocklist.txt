@@ -4424,3 +4424,4 @@
 0.0.0.0 odistatic.net
 0.0.0.0 o828979.ingest.sentry.io
 0.0.0.0 stfalcon.github.io
+0.0.0.0 gaia-acceptance-assets.otravo.com

@@ -4428,3 +4428,4 @@
 ! allow gaia-production-translations.otravo.com reason: Required for website to functiion
 0.0.0.0 revy.io
 0.0.0.0 api.revy.io
+0.0.0.0 data.efteling.com

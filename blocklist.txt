@@ -4433,3 +4433,4 @@
 ||api.revy.io^
 ||data.efteling.com^
 ||cdn.conversationalsdevelopment.nl^
+||loyalty.airmalta.com^

@@ -4432,3 +4432,4 @@
 0.0.0.0 cdn.conversationalsdevelopment.nl
 0.0.0.0 loyalty.airmalta.com
 0.0.0.0 locize.io
+0.0.0.0 api.locize.io

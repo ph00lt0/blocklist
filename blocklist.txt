@@ -4436,3 +4436,4 @@
 ||loyalty.airmalta.com^
 ||locize.io^
 ||api.locize.io^
+||etg.containers.piwik.pro^

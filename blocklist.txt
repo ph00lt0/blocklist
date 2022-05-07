@@ -4434,3 +4434,4 @@
 ||data.efteling.com^
 ||cdn.conversationalsdevelopment.nl^
 ||loyalty.airmalta.com^
+||locize.io^

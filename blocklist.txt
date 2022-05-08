@@ -4439,3 +4439,4 @@
 ||etg.containers.piwik.pro^
 ||interact.f5.com^
 ||analytics.bookstackapp.com^
+||zingtree.com^

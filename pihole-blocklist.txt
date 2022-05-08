@@ -4436,3 +4436,4 @@
 0.0.0.0 etg.containers.piwik.pro
 0.0.0.0 interact.f5.com
 0.0.0.0 analytics.bookstackapp.com
+0.0.0.0 zingtree.com

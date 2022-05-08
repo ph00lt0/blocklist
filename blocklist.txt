@@ -4441,3 +4441,4 @@
 ||analytics.bookstackapp.com^
 ||zingtree.com^
 ||surveypal.com^
+||my.surveypal.com^

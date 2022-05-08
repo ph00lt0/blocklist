@@ -4438,3 +4438,4 @@
 0.0.0.0 analytics.bookstackapp.com
 0.0.0.0 zingtree.com
 0.0.0.0 surveypal.com
+0.0.0.0 my.surveypal.com

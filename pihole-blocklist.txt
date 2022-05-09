@@ -4439,3 +4439,4 @@
 0.0.0.0 zingtree.com
 0.0.0.0 surveypal.com
 0.0.0.0 my.surveypal.com
+0.0.0.0 identityprovider.red-gate.com

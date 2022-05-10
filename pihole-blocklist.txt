@@ -4453,3 +4453,4 @@
 0.0.0.0 thebrighttag.com
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 social.playstation.com
+0.0.0.0 id.sonyentertainmentnetwork.com

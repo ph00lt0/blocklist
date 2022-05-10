@@ -4444,3 +4444,4 @@
 ||my.surveypal.com^
 ||identityprovider.red-gate.com^
 ||ad.softcatala.org^
+||logrocket.io^

@@ -4451,3 +4451,4 @@
 ||d38dvuoodjuw9x.cloudfront.net^
 ||cdn-stamped-io.azureedge.net^
 ||htlbid.com^
+||fpa-cdn.adweek.com^

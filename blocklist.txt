@@ -4459,3 +4459,4 @@
 ||id.sonyentertainmentnetwork.com^
 ||web-toolbar.playstation.com^
 ||web.np.playstation.com^
+||sonygs.112.2o7.net^

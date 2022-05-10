@@ -4455,3 +4455,4 @@
 ||adsrv.advanced-television.tv^
 ||thebrighttag.com^
 ||s.thebrighttag.com^
+||social.playstation.com^

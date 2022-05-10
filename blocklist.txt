@@ -4452,3 +4452,4 @@
 ||cdn-stamped-io.azureedge.net^
 ||htlbid.com^
 ||fpa-cdn.adweek.com^
+||adsrv.advanced-television.tv^

@@ -4449,3 +4449,4 @@
 0.0.0.0 cdn-stamped-io.azureedge.net
 0.0.0.0 htlbid.com
 0.0.0.0 fpa-cdn.adweek.com
+0.0.0.0 adsrv.advanced-television.tv

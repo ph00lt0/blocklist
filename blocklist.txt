@@ -4454,3 +4454,4 @@
 ||fpa-cdn.adweek.com^
 ||adsrv.advanced-television.tv^
 ||thebrighttag.com^
+||s.thebrighttag.com^

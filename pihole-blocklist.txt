@@ -4451,3 +4451,4 @@
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 adsrv.advanced-television.tv
 0.0.0.0 thebrighttag.com
+0.0.0.0 s.thebrighttag.com

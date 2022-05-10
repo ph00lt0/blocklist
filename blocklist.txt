@@ -4446,3 +4446,4 @@
 ||ad.softcatala.org^
 ||logrocket.io^
 ||d16wq72hfqgb8j.cloudfront.net^
+||cdn.logrocket.io^

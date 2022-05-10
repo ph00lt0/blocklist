@@ -4443,3 +4443,4 @@
 0.0.0.0 ad.softcatala.org
 0.0.0.0 logrocket.io
 0.0.0.0 d16wq72hfqgb8j.cloudfront.net
+0.0.0.0 cdn.logrocket.io

@@ -4466,3 +4466,4 @@
 ||web.vortex.data.microsoft.com^
 ||ad.atdmt.com^
 ||atdmt.com^
+||c.xbox.com^

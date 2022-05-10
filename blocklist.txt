@@ -4457,3 +4457,4 @@
 ||s.thebrighttag.com^
 ||social.playstation.com^
 ||id.sonyentertainmentnetwork.com^
+||web-toolbar.playstation.com^

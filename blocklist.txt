@@ -4453,3 +4453,4 @@
 ||htlbid.com^
 ||fpa-cdn.adweek.com^
 ||adsrv.advanced-television.tv^
+||thebrighttag.com^

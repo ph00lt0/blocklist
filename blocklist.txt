@@ -4463,3 +4463,4 @@
 ||tr.marsflag.com^
 ||c.marsflag.com^
 ||o741402.ingest.sentry.io^
+||web.vortex.data.microsoft.com^

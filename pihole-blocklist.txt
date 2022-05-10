@@ -4462,3 +4462,4 @@
 0.0.0.0 o741402.ingest.sentry.io
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 ad.atdmt.com
+0.0.0.0 atdmt.com

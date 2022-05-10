@@ -4465,3 +4465,4 @@
 ||o741402.ingest.sentry.io^
 ||web.vortex.data.microsoft.com^
 ||ad.atdmt.com^
+||atdmt.com^

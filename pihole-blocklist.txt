@@ -4455,3 +4455,4 @@
 0.0.0.0 social.playstation.com
 0.0.0.0 id.sonyentertainmentnetwork.com
 0.0.0.0 web-toolbar.playstation.com
+0.0.0.0 web.np.playstation.com

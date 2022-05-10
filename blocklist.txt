@@ -4460,3 +4460,4 @@
 ||web-toolbar.playstation.com^
 ||web.np.playstation.com^
 ||sonygs.112.2o7.net^
+||tr.marsflag.com^

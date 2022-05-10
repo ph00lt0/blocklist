@@ -4462,3 +4462,4 @@
 ||sonygs.112.2o7.net^
 ||tr.marsflag.com^
 ||c.marsflag.com^
+||o741402.ingest.sentry.io^

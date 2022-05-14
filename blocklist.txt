@@ -4474,3 +4474,4 @@
 ||prod.accdab.net^
 ||ajaxgeo.cartrawler.com^
 ||cdn.getyourguide.com^
+||activities.easyjet.com^

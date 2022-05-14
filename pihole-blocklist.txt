@@ -4474,3 +4474,4 @@
 0.0.0.0 activities.easyjet.com
 0.0.0.0 analytics.easyjet.com
 0.0.0.0 b.travel-assets.com
+0.0.0.0 oms.expedia.com

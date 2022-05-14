@@ -4473,3 +4473,4 @@
 0.0.0.0 cdn.getyourguide.com
 0.0.0.0 activities.easyjet.com
 0.0.0.0 analytics.easyjet.com
+0.0.0.0 b.travel-assets.com

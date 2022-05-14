@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220514
+! Version: 20220515
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -4476,3 +4476,4 @@
 ||cdn.getyourguide.com^
 ||activities.easyjet.com^
 ||analytics.easyjet.com^
+||b.travel-assets.com^

@@ -4472,3 +4472,4 @@
 ||trafico.prensaiberica.es^
 ||accdab.net^
 ||prod.accdab.net^
+||ajaxgeo.cartrawler.com^

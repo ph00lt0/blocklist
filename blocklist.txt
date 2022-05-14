@@ -4467,3 +4467,4 @@
 ||ad.atdmt.com^
 ||atdmt.com^
 ||c.xbox.com^
+||bitban.com^

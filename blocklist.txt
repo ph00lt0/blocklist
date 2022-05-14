@@ -4469,3 +4469,4 @@
 ||c.xbox.com^
 ||bitban.com^
 ||epi.stats.bitban.com^
+||trafico.prensaiberica.es^

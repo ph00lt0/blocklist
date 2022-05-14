@@ -4465,3 +4465,4 @@
 0.0.0.0 atdmt.com
 0.0.0.0 c.xbox.com
 0.0.0.0 bitban.com
+0.0.0.0 epi.stats.bitban.com

@@ -4468,3 +4468,4 @@
 ||atdmt.com^
 ||c.xbox.com^
 ||bitban.com^
+||epi.stats.bitban.com^

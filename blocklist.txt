@@ -4475,3 +4475,4 @@
 ||ajaxgeo.cartrawler.com^
 ||cdn.getyourguide.com^
 ||activities.easyjet.com^
+||analytics.easyjet.com^

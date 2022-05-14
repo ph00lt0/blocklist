@@ -4472,3 +4472,4 @@
 0.0.0.0 ajaxgeo.cartrawler.com
 0.0.0.0 cdn.getyourguide.com
 0.0.0.0 activities.easyjet.com
+0.0.0.0 analytics.easyjet.com

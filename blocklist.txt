@@ -4473,3 +4473,4 @@
 ||accdab.net^
 ||prod.accdab.net^
 ||ajaxgeo.cartrawler.com^
+||cdn.getyourguide.com^

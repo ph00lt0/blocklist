@@ -4468,3 +4468,4 @@
 0.0.0.0 epi.stats.bitban.com
 0.0.0.0 trafico.prensaiberica.es
 0.0.0.0 accdab.net
+0.0.0.0 prod.accdab.net

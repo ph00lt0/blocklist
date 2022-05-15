@@ -4507,3 +4507,4 @@
 ||endpoint2.collection.sumologic.com^
 ||sumologic.com^
 ||em-frame.securitytrfx.com^
+||3483aa961f45.cdn4.forter.com^

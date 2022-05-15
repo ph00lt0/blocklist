@@ -4490,3 +4490,4 @@
 ||5308433.fls.doubleclick.net^
 @@||cf.bstatic.com^  # Content
 ||q-xx.bstatic.com^
+||collector-pxikkul2rm.px-cdn.net^

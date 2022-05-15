@@ -4527,3 +4527,4 @@
 ||secure.analytics.ihg.com^
 ||livefyre.com^
 ||cdn.livefyre.com^
+||ihgsixcontinentshote.tt.omtrdc.net^

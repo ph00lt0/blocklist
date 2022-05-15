@@ -4513,3 +4513,4 @@
 0.0.0.0 pnsa1.byside.com
 0.0.0.0 cdn-bundler.nice-team.net
 0.0.0.0 nice-team.net
+0.0.0.0 static.affiliatly.com

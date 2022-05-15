@@ -4530,3 +4530,4 @@
 0.0.0.0 accor.webgeoservices.com
 0.0.0.0 karavel.112.2o7.net
 0.0.0.0 z7cpethotg.kameleoon.eu
+0.0.0.0 adnext.fr

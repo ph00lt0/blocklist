@@ -4533,3 +4533,4 @@
 ||accor.webgeoservices.com^
 ||karavel.112.2o7.net^
 ||z7cpethotg.kameleoon.eu^
+||adnext.fr^

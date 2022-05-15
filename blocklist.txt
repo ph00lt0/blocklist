@@ -4488,5 +4488,5 @@
 ||corendonairlines.api.useinsider.com^
 ||ct.pinterest.com^
 ||5308433.fls.doubleclick.net^
-||cf.bstatic.com^
+@@||cf.bstatic.com^  # Content
 ||q-xx.bstatic.com^

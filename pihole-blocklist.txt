@@ -4485,5 +4485,5 @@
 0.0.0.0 corendonairlines.api.useinsider.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 5308433.fls.doubleclick.net
-0.0.0.0 cf.bstatic.com
+! allow cf.bstatic.com reason: Content
 0.0.0.0 q-xx.bstatic.com

@@ -4531,3 +4531,4 @@
 ||analytics.ihg.com^
 ||webgeoservices.com^
 ||accor.webgeoservices.com^
+||karavel.112.2o7.net^

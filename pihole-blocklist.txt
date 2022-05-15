@@ -4528,3 +4528,4 @@
 0.0.0.0 analytics.ihg.com
 0.0.0.0 webgeoservices.com
 0.0.0.0 accor.webgeoservices.com
+0.0.0.0 karavel.112.2o7.net

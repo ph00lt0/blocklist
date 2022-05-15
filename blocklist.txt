@@ -4503,7 +4503,7 @@
 ||dmc1acwvwny3.cloudfront.net^
 @@||em-frontend-assets.airtrfx.com^  # Content
 ||em-tr4ck-settings.airtrfx.com^
-||fc-services-api.airtrfx.com^
+@@||fc-services-api.airtrfx.com^  # Required for website to function
 ||endpoint2.collection.sumologic.com^
 ||sumologic.com^
 ||em-frame.securitytrfx.com^

@@ -4520,3 +4520,4 @@
 0.0.0.0 cdn.uplift-platform.com
 0.0.0.0 api.ils-links.mmg.zone
 0.0.0.0 mmg.zone
+0.0.0.0 wsmcdn.audioeye.com

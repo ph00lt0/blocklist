@@ -4522,3 +4522,4 @@
 ||uplift-platform.com^
 ||cdn.uplift-platform.com^
 ||api.ils-links.mmg.zone^
+||mmg.zone^

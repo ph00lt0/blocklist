@@ -4494,3 +4494,4 @@
 ||collector-pxikkul2rm.px-cloud.net^
 ||collector-pxikkul2rm.pxchk.net^
 ||www.securitytrfx.com^
+||securitytrfx.com^

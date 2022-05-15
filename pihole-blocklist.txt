@@ -4517,3 +4517,4 @@
 0.0.0.0 affiliatly.com
 0.0.0.0 maxymiser.net
 0.0.0.0 uplift-platform.com
+0.0.0.0 cdn.uplift-platform.com

@@ -4520,3 +4520,4 @@
 ||affiliatly.com^
 ||maxymiser.net^
 ||uplift-platform.com^
+||cdn.uplift-platform.com^

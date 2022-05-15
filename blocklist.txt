@@ -4489,3 +4489,4 @@
 ||ct.pinterest.com^
 ||5308433.fls.doubleclick.net^
 ||cf.bstatic.com^
+||q-xx.bstatic.com^

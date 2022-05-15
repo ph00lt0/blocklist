@@ -4511,3 +4511,4 @@
 ||collector-px9atjsd0n.px-cdn.net^
 ||collector-px9atjsd0n.px-cloud.net^
 ||collector-px9atjsd0n.pxchk.net^
+||affirm.com^

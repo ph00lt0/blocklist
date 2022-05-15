@@ -4519,3 +4519,4 @@
 ||static.affiliatly.com^
 ||affiliatly.com^
 ||maxymiser.net^
+||uplift-platform.com^

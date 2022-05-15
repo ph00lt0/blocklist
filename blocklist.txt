@@ -4528,4 +4528,3 @@
 ||livefyre.com^
 ||cdn.livefyre.com^
 ||ihgsixcontinentshote.tt.omtrdc.net^
-||apis.ihg.com^

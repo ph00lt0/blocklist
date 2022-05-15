@@ -4501,3 +4501,4 @@
 ||/pnsa1.byside.com^
 ||tms.delta.com^
 ||dmc1acwvwny3.cloudfront.net^
+||em-frontend-assets.airtrfx.com^

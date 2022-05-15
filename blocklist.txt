@@ -4498,7 +4498,6 @@
 ||api.budgetair.nl^
 ||cdn-eu.dynamicyield.com^
 ||wsa1.byside.com^
-||/pnsa1.byside.com^
 ||tms.delta.com^
 ||dmc1acwvwny3.cloudfront.net^
 @@||em-frontend-assets.airtrfx.com^  # Content

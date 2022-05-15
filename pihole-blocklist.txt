@@ -4515,3 +4515,4 @@
 0.0.0.0 nice-team.net
 0.0.0.0 static.affiliatly.com
 0.0.0.0 affiliatly.com
+0.0.0.0 maxymiser.net

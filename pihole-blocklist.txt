@@ -4536,3 +4536,4 @@
 ! allow api-fe.corendonresources.com reason: Required for booking
 0.0.0.0 sa.opo-server.com
 0.0.0.0 opo-server.com
+0.0.0.0 connect.ekomi.de

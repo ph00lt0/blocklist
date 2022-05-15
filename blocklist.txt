@@ -4539,3 +4539,4 @@
 @@||api-fe.corendonresources.com^  # Required for booking
 ||sa.opo-server.com^
 ||opo-server.com^
+||connect.ekomi.de^

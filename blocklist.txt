@@ -4499,3 +4499,4 @@
 ||cdn-eu.dynamicyield.com^
 ||wsa1.byside.com^
 ||/pnsa1.byside.com^
+||tms.delta.com^

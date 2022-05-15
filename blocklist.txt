@@ -4529,3 +4529,4 @@
 ||cdn.livefyre.com^
 ||ihgsixcontinentshote.tt.omtrdc.net^
 ||analytics.ihg.com^
+||webgeoservices.com^

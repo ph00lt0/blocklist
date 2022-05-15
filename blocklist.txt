@@ -4506,3 +4506,4 @@
 ||fc-services-api.airtrfx.com^
 ||endpoint2.collection.sumologic.com^
 ||sumologic.com^
+||em-frame.securitytrfx.com^

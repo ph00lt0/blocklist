@@ -4479,3 +4479,4 @@
 0.0.0.0 www.uciservice.com
 0.0.0.0 tuiuk.d1.sc.omtrdc.net
 0.0.0.0 tuiukltd.tt.omtrdc.net
+0.0.0.0 cloud.tui.com

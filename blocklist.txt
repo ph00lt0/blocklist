@@ -4515,3 +4515,4 @@
 ||3463749.fls.doubleclick.net^
 ||pnsa1.byside.com^
 ||cdn-bundler.nice-team.net^
+||nice-team.net^

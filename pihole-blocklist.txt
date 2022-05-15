@@ -4525,3 +4525,4 @@
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 ihgsixcontinentshote.tt.omtrdc.net
+0.0.0.0 analytics.ihg.com

@@ -4498,3 +4498,4 @@
 ||api.budgetair.nl^
 ||cdn-eu.dynamicyield.com^
 ||wsa1.byside.com^
+||/pnsa1.byside.com^

@@ -4496,3 +4496,4 @@
 ||www.securitytrfx.com^
 ||securitytrfx.com^
 ||api.budgetair.nl^
+||cdn-eu.dynamicyield.com^

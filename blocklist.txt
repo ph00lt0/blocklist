@@ -4536,3 +4536,4 @@
 ||adnext.fr^
 ||cdn.adnext.fr^
 ||corendon.my.salesforce.com^
+||api-fe.corendonresources.com^

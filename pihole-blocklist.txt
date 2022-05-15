@@ -4533,3 +4533,4 @@
 0.0.0.0 adnext.fr
 0.0.0.0 cdn.adnext.fr
 0.0.0.0 corendon.my.salesforce.com
+0.0.0.0 api-fe.corendonresources.com

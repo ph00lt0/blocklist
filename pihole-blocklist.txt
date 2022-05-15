@@ -4505,3 +4505,4 @@
 0.0.0.0 sumologic.com
 0.0.0.0 em-frame.securitytrfx.com
 0.0.0.0 3483aa961f45.cdn4.forter.com
+0.0.0.0 collector-px9atjsd0n.px-cdn.net

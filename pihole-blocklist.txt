@@ -4534,3 +4534,4 @@
 0.0.0.0 cdn.adnext.fr
 0.0.0.0 corendon.my.salesforce.com
 ! allow api-fe.corendonresources.com reason: Required for booking
+0.0.0.0 sa.opo-server.com

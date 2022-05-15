@@ -4488,3 +4488,4 @@
 ||corendonairlines.api.useinsider.com^
 ||ct.pinterest.com^
 ||5308433.fls.doubleclick.net^
+||cf.bstatic.com^

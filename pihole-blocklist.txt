@@ -4477,3 +4477,4 @@
 0.0.0.0 oms.expedia.com
 0.0.0.0 uciservice.com
 0.0.0.0 www.uciservice.com
+0.0.0.0 tuiuk.d1.sc.omtrdc.net

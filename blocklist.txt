@@ -4486,3 +4486,4 @@
 ||d2659ckpncacnl.cloudfront.net^
 ||useinsider.com^
 ||corendonairlines.api.useinsider.com^
+||ct.pinterest.com^

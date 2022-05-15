@@ -4510,3 +4510,4 @@
 0.0.0.0 collector-px9atjsd0n.pxchk.net
 0.0.0.0 affirm.com
 0.0.0.0 cdn1.affirm.com
+0.0.0.0 3463749.fls.doubleclick.net

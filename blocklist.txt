@@ -4524,3 +4524,4 @@
 ||api.ils-links.mmg.zone^
 ||mmg.zone^
 ||wsmcdn.audioeye.com^
+||secure.analytics.ihg.com^

@@ -4497,3 +4497,4 @@
 0.0.0.0 wsa1.byside.com
 0.0.0.0 /pnsa1.byside.com
 0.0.0.0 tms.delta.com
+0.0.0.0 dmc1acwvwny3.cloudfront.net

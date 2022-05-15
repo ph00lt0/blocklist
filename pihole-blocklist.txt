@@ -4501,3 +4501,4 @@
 ! allow em-frontend-assets.airtrfx.com reason: Content
 0.0.0.0 em-tr4ck-settings.airtrfx.com
 0.0.0.0 fc-services-api.airtrfx.com
+0.0.0.0 endpoint2.collection.sumologic.com

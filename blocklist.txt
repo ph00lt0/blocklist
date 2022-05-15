@@ -4504,3 +4504,4 @@
 @@||em-frontend-assets.airtrfx.com^  # Content
 ||em-tr4ck-settings.airtrfx.com^
 ||fc-services-api.airtrfx.com^
+||endpoint2.collection.sumologic.com^

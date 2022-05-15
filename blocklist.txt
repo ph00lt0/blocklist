@@ -4535,3 +4535,4 @@
 ||z7cpethotg.kameleoon.eu^
 ||adnext.fr^
 ||cdn.adnext.fr^
+||corendon.my.salesforce.com^

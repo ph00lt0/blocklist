@@ -4482,3 +4482,4 @@
 0.0.0.0 cloud.tui.com
 0.0.0.0 d2659ckpncacnl.cloudfront.net
 0.0.0.0 useinsider.com
+0.0.0.0 corendonairlines.api.useinsider.com

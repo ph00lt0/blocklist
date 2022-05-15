@@ -4485,3 +4485,4 @@
 ||cloud.tui.com^
 ||d2659ckpncacnl.cloudfront.net^
 ||useinsider.com^
+||corendonairlines.api.useinsider.com^

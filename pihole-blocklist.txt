@@ -4495,7 +4495,6 @@
 0.0.0.0 api.budgetair.nl
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 wsa1.byside.com
-0.0.0.0 /pnsa1.byside.com
 0.0.0.0 tms.delta.com
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 ! allow em-frontend-assets.airtrfx.com reason: Content

@@ -4530,3 +4530,4 @@
 ||ihgsixcontinentshote.tt.omtrdc.net^
 ||analytics.ihg.com^
 ||webgeoservices.com^
+||accor.webgeoservices.com^

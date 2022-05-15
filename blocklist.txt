@@ -4510,3 +4510,4 @@
 ||3483aa961f45.cdn4.forter.com^
 ||collector-px9atjsd0n.px-cdn.net^
 ||collector-px9atjsd0n.px-cloud.net^
+||collector-px9atjsd0n.pxchk.net^

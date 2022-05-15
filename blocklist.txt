@@ -4517,3 +4517,4 @@
 ||cdn-bundler.nice-team.net^
 ||nice-team.net^
 ||static.affiliatly.com^
+||affiliatly.com^

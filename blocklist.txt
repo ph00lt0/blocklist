@@ -4556,3 +4556,4 @@
 ||sm4xqadz4o.kameleoon.eu^
 ||sdk.joinsherpa.io^
 ||joinsherpa.io^
+||bacustomer360.my.salesforce.com^

@@ -4548,3 +4548,4 @@
 ||zend-apps.com^
 ||ecommplugins-scripts.trustpilot.com^
 ||cdn.secomapp.com^
+||secomapp.com^

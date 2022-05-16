@@ -4543,3 +4543,4 @@
 0.0.0.0 foursixty.com
 0.0.0.0 ecommplugins-trustboxsettings.trustpilot.com
 0.0.0.0 zend-apps.com
+0.0.0.0 ecommplugins-scripts.trustpilot.com

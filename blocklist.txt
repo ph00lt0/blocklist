@@ -4546,3 +4546,4 @@
 ||foursixty.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^
 ||zend-apps.com^
+||ecommplugins-scripts.trustpilot.com^

@@ -4550,3 +4550,4 @@
 ||cdn.secomapp.com^
 ||secomapp.com^
 ||gdpr-settings.s3.amazonaws.com^
+||app.cloverly-ecommerce.com^

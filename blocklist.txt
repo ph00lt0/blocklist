@@ -4552,3 +4552,4 @@
 ||gdpr-settings.s3.amazonaws.com^
 ||app.cloverly-ecommerce.com^
 ||cloverly-ecommerce.com^
+||accessibly.app^

@@ -4548,3 +4548,4 @@
 0.0.0.0 secomapp.com
 0.0.0.0 gdpr-settings.s3.amazonaws.com
 0.0.0.0 app.cloverly-ecommerce.com
+0.0.0.0 cloverly-ecommerce.com

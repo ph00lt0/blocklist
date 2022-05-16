@@ -4546,3 +4546,4 @@
 0.0.0.0 ecommplugins-scripts.trustpilot.com
 0.0.0.0 cdn.secomapp.com
 0.0.0.0 secomapp.com
+0.0.0.0 gdpr-settings.s3.amazonaws.com

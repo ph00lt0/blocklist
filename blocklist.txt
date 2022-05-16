@@ -4559,3 +4559,4 @@
 ||bacustomer360.my.salesforce.com^
 ||www.localytics.com^
 ||localytics.com^
+||sdk-assets.localytics.com^

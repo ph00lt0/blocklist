@@ -4556,3 +4556,4 @@
 0.0.0.0 bacustomer360.my.salesforce.com
 0.0.0.0 www.localytics.com
 0.0.0.0 localytics.com
+0.0.0.0 sdk-assets.localytics.com

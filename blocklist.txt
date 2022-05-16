@@ -4555,3 +4555,4 @@
 ||accessibly.app^
 ||sm4xqadz4o.kameleoon.eu^
 ||sdk.joinsherpa.io^
+||joinsherpa.io^

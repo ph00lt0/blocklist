@@ -4542,3 +4542,4 @@
 0.0.0.0 country-blocker.zend-apps.com
 0.0.0.0 foursixty.com
 0.0.0.0 ecommplugins-trustboxsettings.trustpilot.com
+0.0.0.0 zend-apps.com

@@ -4545,3 +4545,4 @@
 ||country-blocker.zend-apps.com^
 ||foursixty.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^
+||zend-apps.com^

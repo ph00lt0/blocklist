@@ -4554,3 +4554,4 @@
 0.0.0.0 sdk.joinsherpa.io
 0.0.0.0 joinsherpa.io
 0.0.0.0 bacustomer360.my.salesforce.com
+0.0.0.0 www.localytics.com

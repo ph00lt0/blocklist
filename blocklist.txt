@@ -4557,3 +4557,4 @@
 ||sdk.joinsherpa.io^
 ||joinsherpa.io^
 ||bacustomer360.my.salesforce.com^
+||www.localytics.com^

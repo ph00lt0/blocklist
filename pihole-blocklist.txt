@@ -4557,3 +4557,4 @@
 0.0.0.0 www.localytics.com
 0.0.0.0 localytics.com
 0.0.0.0 sdk-assets.localytics.com
+0.0.0.0 simpleanalytics.com

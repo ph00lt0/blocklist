@@ -4560,3 +4560,4 @@
 ||www.localytics.com^
 ||localytics.com^
 ||sdk-assets.localytics.com^
+||simpleanalytics.com^

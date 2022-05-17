@@ -4576,3 +4576,4 @@
 0.0.0.0 cdn.caast.tv
 0.0.0.0 caast.tv
 0.0.0.0 imagesmx.cdscdn.com
+0.0.0.0 geo.captcha-delivery.com

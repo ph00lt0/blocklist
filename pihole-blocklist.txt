@@ -4732,3 +4732,4 @@
 0.0.0.0 sofe.ebay.in
 0.0.0.0 sofe.ebay.my
 0.0.0.0 sofe.ebay.pl
+0.0.0.0 sofe.ebay.com

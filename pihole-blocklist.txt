@@ -4591,3 +4591,4 @@
 0.0.0.0 cgi6.ebay.fr
 0.0.0.0 pulsar.ebay.fr
 0.0.0.0 vi.vipr.ebaydesc.com
+0.0.0.0 monitor.ebay.com

@@ -4594,3 +4594,4 @@
 ||cgi6.ebay.fr^
 ||pulsar.ebay.fr^
 ||vi.vipr.ebaydesc.com^
+||monitor.ebay.com^

@@ -4730,3 +4730,4 @@
 0.0.0.0 sofe.ebay.com.hk
 0.0.0.0 srv.com.hk.ebayrtm.com
 0.0.0.0 sofe.ebay.in
+0.0.0.0 sofe.ebay.my

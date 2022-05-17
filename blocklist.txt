@@ -4733,3 +4733,4 @@
 ||sofe.ebay.com.hk^
 ||srv.com.hk.ebayrtm.com^
 ||sofe.ebay.in^
+||sofe.ebay.my^

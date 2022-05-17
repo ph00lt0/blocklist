@@ -4567,3 +4567,4 @@
 ||tracking.cdiscount.com^
 ||cdtm.cdiscount.com^
 ||ib.adnxs-simple.com^
+||adnxs-simple.com^

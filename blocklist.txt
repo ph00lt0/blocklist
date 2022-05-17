@@ -4571,3 +4571,4 @@
 ||trustcommander.net^
 ||cdn.trustcommander.net^
 ||cshield.io^
+||bb01-xcare.cshield.io^

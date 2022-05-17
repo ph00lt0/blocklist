@@ -4641,3 +4641,9 @@
 ||pulsar.ebay.nl^
 ||pulsar.ebay.at^
 ||srv.at.ebayrtm.com^
+||edgetrksvc.ebay.at^
+||ocsrest.ebay.at^
+||devicebind.ebay.at^
+||backstory.ebay.at^
+||rover.ebay.at^
+||cgi6.ebay.at^

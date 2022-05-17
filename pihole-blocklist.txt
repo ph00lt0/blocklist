@@ -4700,3 +4700,4 @@
 0.0.0.0 edgetrksvc.ebay.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 segmentify.com
+0.0.0.0 cdn.segmentify.com

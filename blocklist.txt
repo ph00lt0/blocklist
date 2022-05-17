@@ -4703,3 +4703,4 @@
 ||edgetrksvc.ebay.com^
 ||stags.bluekai.com^
 ||segmentify.com^
+||cdn.segmentify.com^

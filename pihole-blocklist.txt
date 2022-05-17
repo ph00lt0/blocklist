@@ -4566,3 +4566,4 @@
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 adnxs-simple.com
 0.0.0.0 trustcommander.net
+0.0.0.0 cdn.trustcommander.net

@@ -4602,3 +4602,4 @@
 ||backstory.ebay.ch^
 ||rover.ebay.ch^
 ||srv.ch.ebayrtm.com^
+||rover.ebay.de^

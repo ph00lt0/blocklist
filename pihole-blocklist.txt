@@ -4599,3 +4599,4 @@
 0.0.0.0 backstory.ebay.ch
 0.0.0.0 rover.ebay.ch
 0.0.0.0 srv.ch.ebayrtm.com
+0.0.0.0 rover.ebay.de

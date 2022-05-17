@@ -4732,3 +4732,4 @@
 ||cgi6.ebay.com.hk^
 ||sofe.ebay.com.hk^
 ||srv.com.hk.ebayrtm.com^
+||sofe.ebay.in^

@@ -4783,3 +4783,4 @@
 ||cgi6.ebay.ie^
 ||sofe.ebay.ie^
 ||srv.ie.ebayrtm.com^
+||browserapi.manomano.fr^

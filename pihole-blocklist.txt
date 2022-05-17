@@ -4780,3 +4780,4 @@
 0.0.0.0 cgi6.ebay.ie
 0.0.0.0 sofe.ebay.ie
 0.0.0.0 srv.ie.ebayrtm.com
+0.0.0.0 browserapi.manomano.fr

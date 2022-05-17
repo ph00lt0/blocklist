@@ -4734,3 +4734,4 @@
 0.0.0.0 sofe.ebay.pl
 0.0.0.0 sofe.ebay.com
 0.0.0.0 ca
+0.0.0.0 co.uk

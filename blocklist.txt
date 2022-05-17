@@ -4737,3 +4737,4 @@
 ||sofe.ebay.pl^
 ||sofe.ebay.com^
 ||ca^
+||co.uk^

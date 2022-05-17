@@ -4654,3 +4654,11 @@
 ||pulsar.ebay.ch^
 ||edgetrksvc.ebay.ch^
 ||cgi6.ebay.ch^
+||pulsar.ebay.pl^
+||edgetrksvc.ebay.pl^
+||ocsrest.ebay.pl^
+||devicebind.ebay.pl^
+||backstory.ebay.pl^
+||rover.ebay.pl^
+||cgi6.ebay.pl^
+||srv.pl.ebayrtm.com^

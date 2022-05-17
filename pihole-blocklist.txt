@@ -4651,3 +4651,11 @@
 0.0.0.0 pulsar.ebay.ch
 0.0.0.0 edgetrksvc.ebay.ch
 0.0.0.0 cgi6.ebay.ch
+0.0.0.0 pulsar.ebay.pl
+0.0.0.0 edgetrksvc.ebay.pl
+0.0.0.0 ocsrest.ebay.pl
+0.0.0.0 devicebind.ebay.pl
+0.0.0.0 backstory.ebay.pl
+0.0.0.0 rover.ebay.pl
+0.0.0.0 cgi6.ebay.pl
+0.0.0.0 srv.pl.ebayrtm.com

@@ -4628,3 +4628,4 @@
 ||rover.ebay.nl^
 ||srv.nl.ebayrtm.com^
 ||edgetrksvc.ebay.nl^
+||ebaydesc.com^

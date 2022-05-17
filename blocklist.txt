@@ -4687,3 +4687,4 @@
 ||rover.ebay.ph^
 ||cgi6.ebay.ph^
 ||srv.ph.ebayrtm.com^
+||montelena-rcv.gmarket.co.kr^

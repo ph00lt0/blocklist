@@ -4684,3 +4684,4 @@
 0.0.0.0 rover.ebay.ph
 0.0.0.0 cgi6.ebay.ph
 0.0.0.0 srv.ph.ebayrtm.com
+0.0.0.0 montelena-rcv.gmarket.co.kr

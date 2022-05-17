@@ -4611,3 +4611,4 @@
 0.0.0.0 devicebind.benl.ebay.be
 0.0.0.0 backstory.benl.ebay.be
 0.0.0.0 rover.benl.ebay.be
+0.0.0.0 srv.benl.ebayrtm.com

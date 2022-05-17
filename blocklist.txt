@@ -4736,7 +4736,6 @@
 ||sofe.ebay.my^
 ||sofe.ebay.pl^
 ||sofe.ebay.com^
-||ca^
 ||pulsar.ebay.co.uk^
 ||edgetrksvc.ebay.co.uk^
 ||ocsrest.ebay.co.uk^

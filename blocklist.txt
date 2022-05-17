@@ -4576,3 +4576,4 @@
 ||c.contentsquare.net^
 ||i-wantit.com^
 ||cdiscount.i-wantit.com^
+||cdn.caast.tv^

@@ -4675,3 +4675,4 @@
 0.0.0.0 rover.ebay.in
 0.0.0.0 cgi6.ebay.in
 0.0.0.0 srv.in.ebayrtm.com
+0.0.0.0 cgi6.ebay.de

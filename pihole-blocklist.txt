@@ -4709,3 +4709,4 @@
 0.0.0.0 rover.ebay.es
 0.0.0.0 cgi6.ebay.es
 0.0.0.0 srv.es.ebayrtm.com
+0.0.0.0 sofe.ebay.de

@@ -4588,3 +4588,4 @@
 0.0.0.0 perfdrive.com
 0.0.0.0 backstory.ebay.fr
 0.0.0.0 edgetrksvc.ebay.fr
+0.0.0.0 cgi6.ebay.fr

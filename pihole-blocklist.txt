@@ -4606,3 +4606,4 @@
 0.0.0.0 ebayrtm.com
 0.0.0.0 devicebind.ebay.de
 0.0.0.0 edgetrksvc.ebay.de
+0.0.0.0 rover.ebay.com

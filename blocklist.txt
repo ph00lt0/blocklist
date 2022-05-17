@@ -4609,3 +4609,4 @@
 ||ebayrtm.com^
 ||devicebind.ebay.de^
 ||edgetrksvc.ebay.de^
+||rover.ebay.com^

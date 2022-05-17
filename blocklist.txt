@@ -4724,3 +4724,6 @@
 ||rover.ebay.be^
 ||sofe.ebay.ch^
 ||sofe.ebay.fr^
+||cgi6.ebay.be^
+||sofe.ebay.be^
+||srv.be.ebayrtm.com^

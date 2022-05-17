@@ -4714,3 +4714,9 @@
 0.0.0.0 sofe.ebay.it
 0.0.0.0 cgi6.ebay.nl
 0.0.0.0 sofe.ebay.nl
+0.0.0.0 edgetrksvc.ebay.be
+0.0.0.0 ocsrest.ebay.be
+0.0.0.0 devicebind.ebay.be
+0.0.0.0 backstory.ebay.be
+0.0.0.0 rover.ebay.be
+0.0.0.0 sofe.ebay.ch

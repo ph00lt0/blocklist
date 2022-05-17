@@ -4717,3 +4717,9 @@
 ||sofe.ebay.it^
 ||cgi6.ebay.nl^
 ||sofe.ebay.nl^
+||edgetrksvc.ebay.be^
+||ocsrest.ebay.be^
+||devicebind.ebay.be^
+||backstory.ebay.be^
+||rover.ebay.be^
+||sofe.ebay.ch^

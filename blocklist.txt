@@ -4562,3 +4562,4 @@
 ||sdk-assets.localytics.com^
 ||simpleanalytics.com^
 ||ravelin.net^
+||cdn.ravelin.net^

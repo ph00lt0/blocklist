@@ -4691,3 +4691,4 @@
 ||montelena.gmarket.co.kr^
 ||impssllog.gmarket.co.kr^
 ||pdsssl.gmarket.co.kr^
+||utsssl.gmarket.co.kr^

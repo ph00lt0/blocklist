@@ -4676,3 +4676,11 @@
 0.0.0.0 cgi6.ebay.in
 0.0.0.0 srv.in.ebayrtm.com
 0.0.0.0 cgi6.ebay.de
+0.0.0.0 pulsar.ebay.ph
+0.0.0.0 edgetrksvc.ebay.ph
+0.0.0.0 ocsrest.ebay.ph
+0.0.0.0 devicebind.ebay.ph
+0.0.0.0 backstory.ebay.ph
+0.0.0.0 rover.ebay.ph
+0.0.0.0 cgi6.ebay.ph
+0.0.0.0 srv.ph.ebayrtm.com

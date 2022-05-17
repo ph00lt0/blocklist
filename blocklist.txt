@@ -4679,3 +4679,11 @@
 ||cgi6.ebay.in^
 ||srv.in.ebayrtm.com^
 ||cgi6.ebay.de^
+||pulsar.ebay.ph^
+||edgetrksvc.ebay.ph^
+||ocsrest.ebay.ph^
+||devicebind.ebay.ph^
+||backstory.ebay.ph^
+||rover.ebay.ph^
+||cgi6.ebay.ph^
+||srv.ph.ebayrtm.com^

@@ -4623,3 +4623,4 @@
 0.0.0.0 backstory.ebay.nl
 0.0.0.0 devicebind.ebay.nl
 0.0.0.0 rover.ebay.nl
+0.0.0.0 srv.nl.ebayrtm.com

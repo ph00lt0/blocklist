@@ -4737,3 +4737,12 @@
 ||sofe.ebay.pl^
 ||sofe.ebay.com^
 ||ca^
+||pulsar.ebay.co.uk^
+||edgetrksvc.ebay.co.uk^
+||ocsrest.ebay.co.uk^
+||devicebind.ebay.co.uk^
+||backstory.ebay.co.uk^
+||rover.ebay.co.uk^
+||cgi6.ebay.co.uk^
+||sofe.ebay.co.uk^
+||srv.co.uk.ebayrtm.com^

@@ -4734,3 +4734,12 @@
 0.0.0.0 sofe.ebay.pl
 0.0.0.0 sofe.ebay.com
 0.0.0.0 ca
+0.0.0.0 pulsar.ebay.co.uk
+0.0.0.0 edgetrksvc.ebay.co.uk
+0.0.0.0 ocsrest.ebay.co.uk
+0.0.0.0 devicebind.ebay.co.uk
+0.0.0.0 backstory.ebay.co.uk
+0.0.0.0 rover.ebay.co.uk
+0.0.0.0 cgi6.ebay.co.uk
+0.0.0.0 sofe.ebay.co.uk
+0.0.0.0 srv.co.uk.ebayrtm.com

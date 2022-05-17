@@ -4690,3 +4690,4 @@
 ||montelena-rcv.gmarket.co.kr^
 ||montelena.gmarket.co.kr^
 ||impssllog.gmarket.co.kr^
+||pdsssl.gmarket.co.kr^

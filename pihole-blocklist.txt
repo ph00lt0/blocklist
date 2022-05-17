@@ -4753,3 +4753,12 @@
 0.0.0.0 sofe.ebay.com.sg
 0.0.0.0 srv.sg.ebayrtm.com
 0.0.0.0 sofe.ebay.at
+0.0.0.0 pulsar.ebay.co.jp
+0.0.0.0 edgetrksvc.ebay.co.jp
+0.0.0.0 ocsrest.ebay.co.jp
+0.0.0.0 devicebind.ebay.co.jp
+0.0.0.0 backstory.ebay.co.jp
+0.0.0.0 rover.ebay.co.jp
+0.0.0.0 cgi6.ebay.co.jp
+0.0.0.0 sofe.ebay.co.jp
+0.0.0.0 srv.jp.ebayrtm.com

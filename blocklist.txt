@@ -4756,3 +4756,12 @@
 ||sofe.ebay.com.sg^
 ||srv.sg.ebayrtm.com^
 ||sofe.ebay.at^
+||pulsar.ebay.co.jp^
+||edgetrksvc.ebay.co.jp^
+||ocsrest.ebay.co.jp^
+||devicebind.ebay.co.jp^
+||backstory.ebay.co.jp^
+||rover.ebay.co.jp^
+||cgi6.ebay.co.jp^
+||sofe.ebay.co.jp^
+||srv.jp.ebayrtm.com^

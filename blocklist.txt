@@ -4755,3 +4755,4 @@
 ||cgi6.ebay.com.sg^
 ||sofe.ebay.com.sg^
 ||srv.sg.ebayrtm.com^
+||sofe.ebay.at^

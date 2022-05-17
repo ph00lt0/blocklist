@@ -4752,3 +4752,4 @@
 0.0.0.0 cgi6.ebay.com.sg
 0.0.0.0 sofe.ebay.com.sg
 0.0.0.0 srv.sg.ebayrtm.com
+0.0.0.0 sofe.ebay.at

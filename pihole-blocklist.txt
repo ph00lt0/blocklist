@@ -4725,3 +4725,7 @@
 0.0.0.0 sofe.ebay.be
 0.0.0.0 srv.be.ebayrtm.com
 0.0.0.0 sofe.ebay.es
+0.0.0.0 pulsar.ebay.com.hk
+0.0.0.0 cgi6.ebay.com.hk
+0.0.0.0 sofe.ebay.com.hk
+0.0.0.0 srv.com.hk.ebayrtm.com

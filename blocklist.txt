@@ -4728,3 +4728,7 @@
 ||sofe.ebay.be^
 ||srv.be.ebayrtm.com^
 ||sofe.ebay.es^
+||pulsar.ebay.com.hk^
+||cgi6.ebay.com.hk^
+||sofe.ebay.com.hk^
+||srv.com.hk.ebayrtm.com^

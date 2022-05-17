@@ -4577,3 +4577,4 @@
 ||i-wantit.com^
 ||cdiscount.i-wantit.com^
 ||cdn.caast.tv^
+||caast.tv^

@@ -4695,3 +4695,4 @@
 ||glrpp.gmarket.co.kr^
 ||svcs.ebay.com^
 ||srv.hk.ebayrtm.com^
+||devicebind.ebay.com.hk^

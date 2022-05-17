@@ -4691,3 +4691,4 @@
 0.0.0.0 utsssl.gmarket.co.kr
 0.0.0.0 glrpp.gmarket.co.kr
 0.0.0.0 svcs.ebay.com
+0.0.0.0 srv.hk.ebayrtm.com

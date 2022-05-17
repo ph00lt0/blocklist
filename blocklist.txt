@@ -4694,3 +4694,4 @@
 ||utsssl.gmarket.co.kr^
 ||glrpp.gmarket.co.kr^
 ||svcs.ebay.com^
+||srv.hk.ebayrtm.com^

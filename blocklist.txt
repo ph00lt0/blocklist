@@ -4699,3 +4699,4 @@
 ||edgetrksvc.ebay.com.hk^
 ||backstory.ebay.com.hk^
 ||rover.ebay.com.hk^
+||ocsrest.ebay.com.hk^

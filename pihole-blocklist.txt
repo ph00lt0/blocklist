@@ -4695,3 +4695,4 @@
 0.0.0.0 devicebind.ebay.com.hk
 0.0.0.0 edgetrksvc.ebay.com.hk
 0.0.0.0 backstory.ebay.com.hk
+0.0.0.0 rover.ebay.com.hk

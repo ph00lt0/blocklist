@@ -4698,3 +4698,4 @@
 ||devicebind.ebay.com.hk^
 ||edgetrksvc.ebay.com.hk^
 ||backstory.ebay.com.hk^
+||rover.ebay.com.hk^

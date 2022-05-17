@@ -4586,3 +4586,4 @@
 ||devicebind.ebay.fr^
 ||ocsrest.ebay.fr^
 ||rover.ebay.fr^
+||srv.fr.ebayrtm.com^

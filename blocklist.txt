@@ -4693,3 +4693,4 @@
 ||pdsssl.gmarket.co.kr^
 ||utsssl.gmarket.co.kr^
 ||glrpp.gmarket.co.kr^
+||svcs.ebay.com^

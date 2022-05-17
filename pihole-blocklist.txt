@@ -4569,3 +4569,4 @@
 0.0.0.0 cdn.trustcommander.net
 0.0.0.0 cshield.io
 0.0.0.0 bb01-xcare.cshield.io
+0.0.0.0 bb01-xperf.cshield.io

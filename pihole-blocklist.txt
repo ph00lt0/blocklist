@@ -4561,3 +4561,4 @@
 0.0.0.0 ravelin.net
 0.0.0.0 cdn.ravelin.net
 0.0.0.0 smetrics.cdiscount.com
+0.0.0.0 tracking.cdiscount.com

@@ -4564,3 +4564,4 @@
 ||ravelin.net^
 ||cdn.ravelin.net^
 ||smetrics.cdiscount.com^
+||tracking.cdiscount.com^

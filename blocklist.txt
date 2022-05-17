@@ -4634,3 +4634,4 @@
 ||ocsrest.ebay.it^
 ||rover.ebay.it^
 ||srv.it.ebayrtm.com^
+||pulsar.ebay.it^

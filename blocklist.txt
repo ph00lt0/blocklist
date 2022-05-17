@@ -4593,3 +4593,4 @@
 ||edgetrksvc.ebay.fr^
 ||cgi6.ebay.fr^
 ||pulsar.ebay.fr^
+||vi.vipr.ebaydesc.com^

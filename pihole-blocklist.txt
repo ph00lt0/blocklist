@@ -4781,3 +4781,4 @@
 0.0.0.0 sofe.ebay.ie
 0.0.0.0 srv.ie.ebayrtm.com
 0.0.0.0 browserapi.manomano.fr
+0.0.0.0 o119305.ingest.sentry.io

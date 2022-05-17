@@ -4784,3 +4784,4 @@
 ||sofe.ebay.ie^
 ||srv.ie.ebayrtm.com^
 ||browserapi.manomano.fr^
+||o119305.ingest.sentry.io^

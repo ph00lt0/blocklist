@@ -4724,3 +4724,4 @@
 0.0.0.0 cgi6.ebay.be
 0.0.0.0 sofe.ebay.be
 0.0.0.0 srv.be.ebayrtm.com
+0.0.0.0 sofe.ebay.es

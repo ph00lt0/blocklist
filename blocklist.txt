@@ -4621,3 +4621,4 @@
 ||devicebind.befr.ebay.be^
 ||backstory.befr.ebay.be^
 ||srv.befr.ebayrtm.com^
+||edgetrksvc.befr.ebay.be^

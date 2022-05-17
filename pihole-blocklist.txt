@@ -4618,3 +4618,4 @@
 0.0.0.0 devicebind.befr.ebay.be
 0.0.0.0 backstory.befr.ebay.be
 0.0.0.0 srv.befr.ebayrtm.com
+0.0.0.0 edgetrksvc.befr.ebay.be

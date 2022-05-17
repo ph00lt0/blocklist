@@ -4713,3 +4713,5 @@
 ||cgi6.ebay.es^
 ||srv.es.ebayrtm.com^
 ||sofe.ebay.de^
+||cgi6.ebay.it^
+||sofe.ebay.it^

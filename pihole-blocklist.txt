@@ -4629,3 +4629,4 @@
 0.0.0.0 backstory.ebay.it
 0.0.0.0 devicebind.ebay.it
 0.0.0.0 ocsrest.ebay.it
+0.0.0.0 rover.ebay.it

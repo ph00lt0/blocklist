@@ -4632,3 +4632,4 @@
 ||backstory.ebay.it^
 ||devicebind.ebay.it^
 ||ocsrest.ebay.it^
+||rover.ebay.it^

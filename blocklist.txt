@@ -4648,3 +4648,4 @@
 ||rover.ebay.at^
 ||cgi6.ebay.at^
 ||ocsrest.ebay.com^
+||devicebind.ebay.com^

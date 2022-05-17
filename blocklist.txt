@@ -4573,3 +4573,4 @@
 ||cshield.io^
 ||bb01-xcare.cshield.io^
 ||bb01-xperf.cshield.io^
+||c.contentsquare.net^

@@ -4633,3 +4633,4 @@
 ||devicebind.ebay.it^
 ||ocsrest.ebay.it^
 ||rover.ebay.it^
+||srv.it.ebayrtm.com^

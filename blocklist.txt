@@ -4566,3 +4566,4 @@
 ||smetrics.cdiscount.com^
 ||tracking.cdiscount.com^
 ||cdtm.cdiscount.com^
+||ib.adnxs-simple.com^

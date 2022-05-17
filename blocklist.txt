@@ -4635,3 +4635,4 @@
 ||rover.ebay.it^
 ||srv.it.ebayrtm.com^
 ||pulsar.ebay.it^
+||edgetrksvc.ebay.it^

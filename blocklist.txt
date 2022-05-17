@@ -4601,3 +4601,4 @@
 ||devicebind.ebay.ch^
 ||backstory.ebay.ch^
 ||rover.ebay.ch^
+||srv.ch.ebayrtm.com^

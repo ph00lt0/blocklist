@@ -4598,3 +4598,4 @@
 0.0.0.0 devicebind.ebay.ch
 0.0.0.0 backstory.ebay.ch
 0.0.0.0 rover.ebay.ch
+0.0.0.0 srv.ch.ebayrtm.com

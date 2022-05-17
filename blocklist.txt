@@ -4581,3 +4581,4 @@
 ||imagesmx.cdscdn.com^
 ||geo.captcha-delivery.com^
 ||ayads.co^
+||sac.ayads.co^

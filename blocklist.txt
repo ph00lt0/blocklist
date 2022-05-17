@@ -4765,3 +4765,12 @@
 ||cgi6.ebay.co.jp^
 ||sofe.ebay.co.jp^
 ||srv.jp.ebayrtm.com^
+||pulsar.ebay.com.au^
+||edgetrksvc.ebay.com.au^
+||ocsrest.ebay.com.au^
+||devicebind.ebay.com.au^
+||backstory.ebay.com.au^
+||rover.ebay.com.au^
+||cgi6.ebay.com.au^
+||sofe.ebay.com.au^
+||srv.au.ebayrtm.com^

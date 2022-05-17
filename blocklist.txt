@@ -4785,3 +4785,4 @@
 ||srv.ie.ebayrtm.com^
 ||browserapi.manomano.fr^
 ||o119305.ingest.sentry.io^
+||api.auchan.fr^

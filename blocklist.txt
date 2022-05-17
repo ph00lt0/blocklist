@@ -4774,3 +4774,12 @@
 ||cgi6.ebay.com.au^
 ||sofe.ebay.com.au^
 ||srv.au.ebayrtm.com^
+||pulsar.ebay.ie^
+||edgetrksvc.ebay.ie^
+||ocsrest.ebay.ie^
+||devicebind.ebay.ie^
+||backstory.ebay.ie^
+||rover.ebay.ie^
+||cgi6.ebay.ie^
+||sofe.ebay.ie^
+||srv.ie.ebayrtm.com^

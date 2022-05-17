@@ -4771,3 +4771,12 @@
 0.0.0.0 cgi6.ebay.com.au
 0.0.0.0 sofe.ebay.com.au
 0.0.0.0 srv.au.ebayrtm.com
+0.0.0.0 pulsar.ebay.ie
+0.0.0.0 edgetrksvc.ebay.ie
+0.0.0.0 ocsrest.ebay.ie
+0.0.0.0 devicebind.ebay.ie
+0.0.0.0 backstory.ebay.ie
+0.0.0.0 rover.ebay.ie
+0.0.0.0 cgi6.ebay.ie
+0.0.0.0 sofe.ebay.ie
+0.0.0.0 srv.ie.ebayrtm.com

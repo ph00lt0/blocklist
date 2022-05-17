@@ -4699,3 +4699,4 @@
 0.0.0.0 ocsrest.ebay.com.hk
 0.0.0.0 edgetrksvc.ebay.com
 0.0.0.0 stags.bluekai.com
+0.0.0.0 segmentify.com

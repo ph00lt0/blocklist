@@ -4702,3 +4702,4 @@
 ||ocsrest.ebay.com.hk^
 ||edgetrksvc.ebay.com^
 ||stags.bluekai.com^
+||segmentify.com^

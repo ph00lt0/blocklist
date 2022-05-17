@@ -4624,3 +4624,4 @@
 ||edgetrksvc.befr.ebay.be^
 ||ocsrest.ebay.nl^
 ||backstory.ebay.nl^
+||devicebind.ebay.nl^

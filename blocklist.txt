@@ -4723,3 +4723,4 @@
 ||backstory.ebay.be^
 ||rover.ebay.be^
 ||sofe.ebay.ch^
+||sofe.ebay.fr^

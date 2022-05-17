@@ -4720,3 +4720,4 @@
 0.0.0.0 backstory.ebay.be
 0.0.0.0 rover.ebay.be
 0.0.0.0 sofe.ebay.ch
+0.0.0.0 sofe.ebay.fr

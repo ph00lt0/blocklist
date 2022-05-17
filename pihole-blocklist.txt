@@ -4648,3 +4648,6 @@
 0.0.0.0 devicebind.ebay.com
 0.0.0.0 backstory.ebay.com
 0.0.0.0 srv.main.ebayrtm.com
+0.0.0.0 pulsar.ebay.ch
+0.0.0.0 edgetrksvc.ebay.ch
+0.0.0.0 cgi6.ebay.ch

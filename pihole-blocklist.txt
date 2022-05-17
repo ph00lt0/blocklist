@@ -4603,3 +4603,4 @@
 0.0.0.0 backstory.ebay.de
 0.0.0.0 ocsrest.ebay.de
 0.0.0.0 srv.de.ebayrtm.com
+0.0.0.0 ebayrtm.com

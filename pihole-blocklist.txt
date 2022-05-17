@@ -4693,3 +4693,4 @@
 0.0.0.0 svcs.ebay.com
 0.0.0.0 srv.hk.ebayrtm.com
 0.0.0.0 devicebind.ebay.com.hk
+0.0.0.0 edgetrksvc.ebay.com.hk

@@ -4662,3 +4662,11 @@
 ||rover.ebay.pl^
 ||cgi6.ebay.pl^
 ||srv.pl.ebayrtm.com^
+||pulsar.ebay.my^
+||edgetrksvc.ebay.my^
+||ocsrest.ebay.my^
+||devicebind.ebay.my^
+||backstory.ebay.my^
+||rover.ebay.my^
+||cgi6.ebay.my^
+||srv.my.ebayrtm.com^

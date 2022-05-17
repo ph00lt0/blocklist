@@ -4567,3 +4567,4 @@
 0.0.0.0 adnxs-simple.com
 0.0.0.0 trustcommander.net
 0.0.0.0 cdn.trustcommander.net
+0.0.0.0 cshield.io

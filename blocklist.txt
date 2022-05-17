@@ -4570,3 +4570,4 @@
 ||adnxs-simple.com^
 ||trustcommander.net^
 ||cdn.trustcommander.net^
+||cshield.io^

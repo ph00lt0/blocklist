@@ -4572,3 +4572,4 @@
 0.0.0.0 bb01-xperf.cshield.io
 0.0.0.0 c.contentsquare.net
 0.0.0.0 i-wantit.com
+0.0.0.0 cdiscount.i-wantit.com

@@ -4575,3 +4575,4 @@
 ||bb01-xperf.cshield.io^
 ||c.contentsquare.net^
 ||i-wantit.com^
+||cdiscount.i-wantit.com^

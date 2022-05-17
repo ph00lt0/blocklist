@@ -4701,3 +4701,11 @@
 0.0.0.0 stags.bluekai.com
 0.0.0.0 segmentify.com
 0.0.0.0 cdn.segmentify.com
+0.0.0.0 pulsar.ebay.es
+0.0.0.0 edgetrksvc.ebay.es
+0.0.0.0 ocsrest.ebay.es
+0.0.0.0 devicebind.ebay.es
+0.0.0.0 backstory.ebay.es
+0.0.0.0 rover.ebay.es
+0.0.0.0 cgi6.ebay.es
+0.0.0.0 srv.es.ebayrtm.com

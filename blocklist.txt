@@ -4704,3 +4704,11 @@
 ||stags.bluekai.com^
 ||segmentify.com^
 ||cdn.segmentify.com^
+||pulsar.ebay.es^
+||edgetrksvc.ebay.es^
+||ocsrest.ebay.es^
+||devicebind.ebay.es^
+||backstory.ebay.es^
+||rover.ebay.es^
+||cgi6.ebay.es^
+||srv.es.ebayrtm.com^

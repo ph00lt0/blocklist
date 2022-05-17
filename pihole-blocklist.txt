@@ -4689,3 +4689,4 @@
 0.0.0.0 impssllog.gmarket.co.kr
 0.0.0.0 pdsssl.gmarket.co.kr
 0.0.0.0 utsssl.gmarket.co.kr
+0.0.0.0 glrpp.gmarket.co.kr

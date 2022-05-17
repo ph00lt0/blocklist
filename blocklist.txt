@@ -4608,3 +4608,4 @@
 ||srv.de.ebayrtm.com^
 ||ebayrtm.com^
 ||devicebind.ebay.de^
+||edgetrksvc.ebay.de^

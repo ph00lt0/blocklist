@@ -4582,3 +4582,4 @@
 ||geo.captcha-delivery.com^
 ||ayads.co^
 ||sac.ayads.co^
+||dd.leboncoin.fr^

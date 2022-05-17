@@ -4700,3 +4700,4 @@
 ||backstory.ebay.com.hk^
 ||rover.ebay.com.hk^
 ||ocsrest.ebay.com.hk^
+||edgetrksvc.ebay.com^

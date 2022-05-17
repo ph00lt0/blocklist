@@ -4743,3 +4743,12 @@
 0.0.0.0 cgi6.ebay.co.uk
 0.0.0.0 sofe.ebay.co.uk
 0.0.0.0 srv.co.uk.ebayrtm.com
+0.0.0.0 pulsar.ebay.com.sg
+0.0.0.0 edgetrksvc.ebay.com.sg
+0.0.0.0 ocsrest.ebay.com.sg
+0.0.0.0 devicebind.ebay.com.sg
+0.0.0.0 backstory.ebay.com.sg
+0.0.0.0 rover.ebay.com.sg
+0.0.0.0 cgi6.ebay.com.sg
+0.0.0.0 sofe.ebay.com.sg
+0.0.0.0 srv.sg.ebayrtm.com

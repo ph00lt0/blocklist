@@ -4746,3 +4746,12 @@
 ||cgi6.ebay.co.uk^
 ||sofe.ebay.co.uk^
 ||srv.co.uk.ebayrtm.com^
+||pulsar.ebay.com.sg^
+||edgetrksvc.ebay.com.sg^
+||ocsrest.ebay.com.sg^
+||devicebind.ebay.com.sg^
+||backstory.ebay.com.sg^
+||rover.ebay.com.sg^
+||cgi6.ebay.com.sg^
+||sofe.ebay.com.sg^
+||srv.sg.ebayrtm.com^

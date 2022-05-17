@@ -4585,3 +4585,4 @@
 ||dd.leboncoin.fr^
 ||devicebind.ebay.fr^
 ||ocsrest.ebay.fr^
+||rover.ebay.fr^

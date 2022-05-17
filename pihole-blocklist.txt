@@ -4582,3 +4582,4 @@
 0.0.0.0 dd.leboncoin.fr
 0.0.0.0 devicebind.ebay.fr
 0.0.0.0 ocsrest.ebay.fr
+0.0.0.0 rover.ebay.fr

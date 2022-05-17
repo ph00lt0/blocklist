@@ -4617,3 +4617,4 @@
 ||srv.benl.ebayrtm.com^
 ||edgetrksvc.benl.ebay.be^
 ||rover.befr.ebay.be^
+||ocsrest.befr.ebay.be^

@@ -4670,3 +4670,11 @@
 ||rover.ebay.my^
 ||cgi6.ebay.my^
 ||srv.my.ebayrtm.com^
+||pulsar.ebay.in^
+||edgetrksvc.ebay.in^
+||ocsrest.ebay.in^
+||devicebind.ebay.in^
+||backstory.ebay.in^
+||rover.ebay.in^
+||cgi6.ebay.in^
+||srv.in.ebayrtm.com^

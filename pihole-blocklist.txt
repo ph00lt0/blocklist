@@ -4667,3 +4667,11 @@
 0.0.0.0 rover.ebay.my
 0.0.0.0 cgi6.ebay.my
 0.0.0.0 srv.my.ebayrtm.com
+0.0.0.0 pulsar.ebay.in
+0.0.0.0 edgetrksvc.ebay.in
+0.0.0.0 ocsrest.ebay.in
+0.0.0.0 devicebind.ebay.in
+0.0.0.0 backstory.ebay.in
+0.0.0.0 rover.ebay.in
+0.0.0.0 cgi6.ebay.in
+0.0.0.0 srv.in.ebayrtm.com

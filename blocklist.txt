@@ -4636,3 +4636,4 @@
 ||srv.it.ebayrtm.com^
 ||pulsar.ebay.it^
 ||edgetrksvc.ebay.it^
+||pulsar.ebay.de^

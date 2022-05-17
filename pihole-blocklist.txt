@@ -4615,3 +4615,4 @@
 0.0.0.0 edgetrksvc.benl.ebay.be
 0.0.0.0 rover.befr.ebay.be
 0.0.0.0 ocsrest.befr.ebay.be
+0.0.0.0 devicebind.befr.ebay.be

@@ -4598,3 +4598,4 @@
 ||adf0901f1861.cdn4.forter.com^
 ||srv.uk.ebayrtm.com^
 ||ocsrest.ebay.ch^
+||devicebind.ebay.ch^

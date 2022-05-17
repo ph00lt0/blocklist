@@ -4595,3 +4595,4 @@
 0.0.0.0 adf0901f1861.cdn4.forter.com
 0.0.0.0 srv.uk.ebayrtm.com
 0.0.0.0 ocsrest.ebay.ch
+0.0.0.0 devicebind.ebay.ch

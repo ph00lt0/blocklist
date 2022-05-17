@@ -4630,3 +4630,4 @@
 ||edgetrksvc.ebay.nl^
 ||ebaydesc.com^
 ||backstory.ebay.it^
+||devicebind.ebay.it^

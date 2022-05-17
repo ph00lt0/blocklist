@@ -4627,3 +4627,4 @@
 0.0.0.0 edgetrksvc.ebay.nl
 0.0.0.0 ebaydesc.com
 0.0.0.0 backstory.ebay.it
+0.0.0.0 devicebind.ebay.it

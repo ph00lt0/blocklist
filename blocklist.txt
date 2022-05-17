@@ -4715,3 +4715,5 @@
 ||sofe.ebay.de^
 ||cgi6.ebay.it^
 ||sofe.ebay.it^
+||cgi6.ebay.nl^
+||sofe.ebay.nl^

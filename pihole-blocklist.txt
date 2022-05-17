@@ -4712,3 +4712,5 @@
 0.0.0.0 sofe.ebay.de
 0.0.0.0 cgi6.ebay.it
 0.0.0.0 sofe.ebay.it
+0.0.0.0 cgi6.ebay.nl
+0.0.0.0 sofe.ebay.nl

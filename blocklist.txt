@@ -4787,3 +4787,4 @@
 ||api.auchan.fr^
 ||powerreviews.com^
 ||t.contentsquare.net^
+||d37oebn0w9ir6a.cloudfront.net^

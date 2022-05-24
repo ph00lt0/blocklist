@@ -4792,5 +4792,5 @@
 ||t2.phplivesupport.com^
 ||b001.recharge.com^
 ||tdep.recharge.com^
-||recommerce-static.recharge.com^
+@@||recommerce-static.recharge.com^  # Images
 ||o31660.ingest.sentry.io^

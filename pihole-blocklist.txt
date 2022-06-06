@@ -4798,3 +4798,4 @@
 0.0.0.0 app.posthog.com
 0.0.0.0 piwik.coe.int
 0.0.0.0 blogherads.com
+0.0.0.0 ads.blogherads.com

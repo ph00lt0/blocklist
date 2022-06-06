@@ -4801,3 +4801,4 @@
 ||app.posthog.com^
 ||piwik.coe.int^
 ||blogherads.com^
+||ads.blogherads.com^

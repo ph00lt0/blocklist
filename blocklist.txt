@@ -4810,3 +4810,4 @@
 ||api.msn.com^
 ||stats.puri.sm^
 ||api.smartrecruiters.com^
+||subscriptions.smartrecruiters.com^

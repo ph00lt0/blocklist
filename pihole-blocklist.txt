@@ -4807,3 +4807,4 @@
 0.0.0.0 api.msn.com
 0.0.0.0 stats.puri.sm
 0.0.0.0 api.smartrecruiters.com
+0.0.0.0 subscriptions.smartrecruiters.com

@@ -4813,3 +4813,4 @@
 0.0.0.0 stats.hey.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 qloudstat.com
+0.0.0.0 static.qloudstat.com

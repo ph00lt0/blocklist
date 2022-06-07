@@ -4816,3 +4816,4 @@
 ||stats.hey.com^
 ||client-analytics.braintreegateway.com^
 ||qloudstat.com^
+||static.qloudstat.com^

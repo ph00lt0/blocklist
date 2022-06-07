@@ -4803,3 +4803,4 @@
 ||blogherads.com^
 ||ads.blogherads.com^
 ||reports.proton.me^
+||browser.events.data.msn.com^

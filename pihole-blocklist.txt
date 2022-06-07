@@ -698,7 +698,7 @@
 0.0.0.0 s5.symcb.com
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 static-spartan-neu-s-msn-com.akamaized.net
-0.0.0.0 assets.msn.com
+! allow assets.msn.com reason: CDN
 0.0.0.0 srtb.msn.com
 0.0.0.0 otf.msn.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com

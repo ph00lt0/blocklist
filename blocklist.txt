@@ -699,7 +699,7 @@
 ||s5.symcb.com^
 ||img-s-msn-com.akamaized.net^
 ||static-spartan-neu-s-msn-com.akamaized.net^
-||assets.msn.com^
+@@||assets.msn.com^  # CDN
 ||srtb.msn.com^
 ||otf.msn.com^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^

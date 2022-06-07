@@ -4811,3 +4811,4 @@
 ||stats.puri.sm^
 ||api.smartrecruiters.com^
 ||subscriptions.smartrecruiters.com^
+||j.6sc.co^

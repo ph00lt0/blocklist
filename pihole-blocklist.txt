@@ -4806,3 +4806,4 @@
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 api.msn.com
 0.0.0.0 stats.puri.sm
+0.0.0.0 api.smartrecruiters.com

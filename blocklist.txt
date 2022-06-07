@@ -4809,3 +4809,4 @@
 ||vidstat.taboola.com^
 ||api.msn.com^
 ||stats.puri.sm^
+||api.smartrecruiters.com^

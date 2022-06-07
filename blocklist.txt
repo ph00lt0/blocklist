@@ -4814,3 +4814,4 @@
 ||j.6sc.co^
 ||6sc.co^
 ||stats.hey.com^
+||client-analytics.braintreegateway.com^

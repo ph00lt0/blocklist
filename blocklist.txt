@@ -4808,3 +4808,4 @@
 ||civicscience.com^
 ||vidstat.taboola.com^
 ||api.msn.com^
+||stats.puri.sm^

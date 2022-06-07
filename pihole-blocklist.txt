@@ -696,7 +696,7 @@
 0.0.0.0 s3.symcb.com
 0.0.0.0 s4.symcb.com
 0.0.0.0 s5.symcb.com
-0.0.0.0 img-s-msn-com.akamaized.net
+! allow img-s-msn-com.akamaized.net reason: CDN for images MSN
 0.0.0.0 static-spartan-neu-s-msn-com.akamaized.net
 ! allow assets.msn.com reason: CDN
 0.0.0.0 srtb.msn.com

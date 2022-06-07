@@ -4817,3 +4817,4 @@
 ||client-analytics.braintreegateway.com^
 ||qloudstat.com^
 ||static.qloudstat.com^
+||t.paypal.com^

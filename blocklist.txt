@@ -4805,3 +4805,4 @@
 ||reports.proton.me^
 ||browser.events.data.msn.com^
 ||www138.civicscience.com^
+||civicscience.com^

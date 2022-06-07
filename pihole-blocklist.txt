@@ -4803,3 +4803,4 @@
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 civicscience.com
+0.0.0.0 vidstat.taboola.com

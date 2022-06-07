@@ -4807,3 +4807,4 @@
 ||www138.civicscience.com^
 ||civicscience.com^
 ||vidstat.taboola.com^
+||api.msn.com^

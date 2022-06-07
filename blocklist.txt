@@ -4813,3 +4813,4 @@
 ||subscriptions.smartrecruiters.com^
 ||j.6sc.co^
 ||6sc.co^
+||stats.hey.com^

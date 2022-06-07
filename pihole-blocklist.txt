@@ -4809,3 +4809,4 @@
 0.0.0.0 api.smartrecruiters.com
 0.0.0.0 subscriptions.smartrecruiters.com
 0.0.0.0 j.6sc.co
+0.0.0.0 6sc.co

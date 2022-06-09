@@ -625,7 +625,7 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 mtalk.google.com
 0.0.0.0 smartlock.google.com
-0.0.0.0 firebaseinstallations.googleapis.com
+! allow firebaseinstallations.googleapis.com reason: Required for notificiations
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 googleadapis.l.google.com

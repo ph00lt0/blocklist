@@ -626,7 +626,7 @@
 ||googleadservices.com^
 ||mtalk.google.com^
 ||smartlock.google.com^
-||firebaseinstallations.googleapis.com^
+@@||firebaseinstallations.googleapis.com^  # Required for notificiations
 ||fundingchoicesmessages.google.com^
 ||www.googleadservices.com^
 ||googleadapis.l.google.com^

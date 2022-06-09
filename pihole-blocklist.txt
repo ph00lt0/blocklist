@@ -263,7 +263,7 @@
 0.0.0.0 push.apple.com
 0.0.0.0 smp-device-content.apple.com
 0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
-0.0.0.0 graph.blendle.com
+! allow graph.blendle.com reason: Required for app to load content
 0.0.0.0 events.blendle.com
 0.0.0.0 events-external.blendle.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com

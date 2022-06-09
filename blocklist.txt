@@ -264,7 +264,7 @@
 ||push.apple.com^
 ||smp-device-content.apple.com^
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
-||graph.blendle.com^
+@@||graph.blendle.com^  # Required for app to load content
 ||events.blendle.com^
 ||events-external.blendle.com^
 ||crashlyticsreports-pa.googleapis.com^

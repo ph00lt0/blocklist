@@ -979,7 +979,8 @@
 ||prd.jwpltx.com^
 ||munchkin.marketo.net^
 ||snap.licdn.com^
-@@media-exp2.licdn.com^ # Images CDN of LinkedIn
+@@||media-exp2.licdn.com^ # Images CDN of LinkedIn
+@@||dms.licdn.com # Images CDN of LinkedIn
 ||gmass.co^
 ||tallyfy.com^
 ||appdynamics.com^

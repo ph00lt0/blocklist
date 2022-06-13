@@ -1499,7 +1499,7 @@
 ||vgz.my.salesforce.com^
 ||otag.h2os.com^
 ||gsa.apple.com^
-||l.google.com^
+@@||l.google.com^  # CNAME for many google services
 ||ws-mt1.pusher.com^
 ||oneclient.sfx.ms^
 ||p3a.brave.com^

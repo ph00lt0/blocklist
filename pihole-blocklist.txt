@@ -1497,7 +1497,7 @@
 0.0.0.0 vgz.my.salesforce.com
 0.0.0.0 otag.h2os.com
 0.0.0.0 gsa.apple.com
-0.0.0.0 l.google.com
+! allow l.google.com reason: CNAME for many google services
 0.0.0.0 ws-mt1.pusher.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 p3a.brave.com

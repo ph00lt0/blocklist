@@ -4822,3 +4822,4 @@
 ||t.paypal.com^
 ||exc.ns.nl^
 ||tags.affiliatefuture.com^
+||affiliatefuture.com^

@@ -4902,3 +4902,4 @@
 ||adservice.google.fg^
 ||adservice.google.gg^
 ||adservice.google.com.gh^
+||adservice.google.com.gi^

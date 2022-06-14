@@ -4897,3 +4897,4 @@
 0.0.0.0 adservice.google.fg
 0.0.0.0 adservice.google.gg
 0.0.0.0 adservice.google.com.gh
+0.0.0.0 adservice.google.com.gi

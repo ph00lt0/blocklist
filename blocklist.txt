@@ -4903,3 +4903,4 @@
 ||adservice.google.gg^
 ||adservice.google.com.gh^
 ||adservice.google.com.gi^
+||adservice.google.gl^

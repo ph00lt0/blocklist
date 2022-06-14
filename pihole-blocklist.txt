@@ -5015,3 +5015,4 @@
 0.0.0.0 adservice.google.co.ve
 0.0.0.0 adservice.google.vg
 0.0.0.0 adservice.google.co.vi
+0.0.0.0 adservice.google.com.vn

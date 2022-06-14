@@ -5020,3 +5020,4 @@
 ||adservice.google.co.ve^
 ||adservice.google.vg^
 ||adservice.google.co.vi^
+||adservice.google.com.vn^

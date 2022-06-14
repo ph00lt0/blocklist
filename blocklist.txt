@@ -4921,3 +4921,4 @@
 ||adservice.google.co.in^
 ||adservice.google.io^
 ||adservice.google.is^
+||adservice.google.je^

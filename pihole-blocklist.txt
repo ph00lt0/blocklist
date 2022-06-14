@@ -4916,3 +4916,4 @@
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.io
 0.0.0.0 adservice.google.is
+0.0.0.0 adservice.google.je

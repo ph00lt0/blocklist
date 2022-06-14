@@ -4967,3 +4967,4 @@
 0.0.0.0 adservice.google.com.pk
 0.0.0.0 adservice.google.com.pa
 0.0.0.0 adservice.google.com.pe
+0.0.0.0 adservice.google.com.ph

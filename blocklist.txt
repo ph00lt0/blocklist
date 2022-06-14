@@ -4901,3 +4901,4 @@
 ||adservice.google.ge^
 ||adservice.google.fg^
 ||adservice.google.gg^
+||adservice.google.com.gh^

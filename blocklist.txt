@@ -4925,3 +4925,4 @@
 ||adservice.google.com.jm^
 ||adservice.google.jo^
 ||adservice.google.co.jp^
+||adservice.google.co.ke^

@@ -4931,3 +4931,4 @@
 0.0.0.0 adservice.google.com.lb
 0.0.0.0 adservice.google.com.lc
 0.0.0.0 adservice.google.li
+0.0.0.0 adservice.google.lk

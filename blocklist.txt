@@ -4874,3 +4874,4 @@
 ||adservice.google.cat^
 ||adservice.google.cg^
 ||adservice.google.ch^
+||adservice.google.ci^

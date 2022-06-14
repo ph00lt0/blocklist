@@ -4932,3 +4932,4 @@
 ||adservice.google.co.kr^
 ||adservice.google.com.kw^
 ||adservice.google.kz^
+||adservice.google.la^

@@ -4966,3 +4966,4 @@
 ||adservice.google.no^
 ||adservice.google.com.np^
 ||adservice.google.nr^
+||adservice.google.nu^

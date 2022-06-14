@@ -4961,3 +4961,4 @@
 0.0.0.0 adservice.google.no
 0.0.0.0 adservice.google.com.np
 0.0.0.0 adservice.google.nr
+0.0.0.0 adservice.google.nu

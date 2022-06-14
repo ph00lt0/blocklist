@@ -4844,3 +4844,4 @@
 0.0.0.0 adservice.google.com.ar
 0.0.0.0 adservice.google.as
 0.0.0.0 adservice.google.at
+0.0.0.0 adservice.google.com.au

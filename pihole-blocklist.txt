@@ -4846,3 +4846,4 @@
 0.0.0.0 adservice.google.at
 0.0.0.0 adservice.google.com.au
 0.0.0.0 adservice.google.az
+0.0.0.0 adservice.google.ba

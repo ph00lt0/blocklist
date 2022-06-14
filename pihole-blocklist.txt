@@ -4925,3 +4925,4 @@
 0.0.0.0 adservice.google.ki
 0.0.0.0 adservice.google.kg
 0.0.0.0 adservice.google.co.kr
+0.0.0.0 adservice.google.com.kw

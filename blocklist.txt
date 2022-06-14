@@ -4873,3 +4873,4 @@
 ||adservice.google.cf^
 ||adservice.google.cat^
 ||adservice.google.cg^
+||adservice.google.ch^

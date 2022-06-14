@@ -4868,3 +4868,4 @@
 0.0.0.0 adservice.google.cf
 0.0.0.0 adservice.google.cat
 0.0.0.0 adservice.google.cg
+0.0.0.0 adservice.google.ch

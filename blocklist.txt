@@ -4991,3 +4991,4 @@
 ||adservice.google.com.sg^
 ||adservice.google.sh^
 ||adservice.google.si^
+||adservice.google.sk^

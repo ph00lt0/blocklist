@@ -4957,3 +4957,4 @@
 0.0.0.0 adservice.google.ne
 0.0.0.0 adservice.google.com.nf
 0.0.0.0 adservice.google.com.ng
+0.0.0.0 adservice.google.com.ni

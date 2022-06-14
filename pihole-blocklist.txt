@@ -4900,3 +4900,4 @@
 0.0.0.0 adservice.google.com.gi
 0.0.0.0 adservice.google.gl
 0.0.0.0 adservice.google.gm
+0.0.0.0 adservice.google.gp

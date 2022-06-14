@@ -4988,3 +4988,4 @@
 ||adservice.google.com.sb^
 ||adservice.google.sc^
 ||adservice.google.se^
+||adservice.google.com.sg^

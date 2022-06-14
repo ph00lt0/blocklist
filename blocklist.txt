@@ -5015,3 +5015,4 @@
 ||adservice.google.com.ua^
 ||adservice.google.co.ug^
 ||adservice.google.com.uy^
+||adservice.google.co.uz^

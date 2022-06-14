@@ -5010,3 +5010,4 @@
 0.0.0.0 adservice.google.com.ua
 0.0.0.0 adservice.google.co.ug
 0.0.0.0 adservice.google.com.uy
+0.0.0.0 adservice.google.co.uz

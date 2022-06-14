@@ -4858,3 +4858,4 @@
 ||adservice.google.com.bh^
 ||adservice.google.bi^
 ||adservice.google.bj^
+||adservice.google.com.bn^

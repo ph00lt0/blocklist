@@ -4865,3 +4865,4 @@
 0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.cc
 0.0.0.0 adservice.google.cd
+0.0.0.0 adservice.google.cf

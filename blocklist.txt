@@ -4870,3 +4870,4 @@
 ||adservice.google.com.hk^
 ||adservice.google.cc^
 ||adservice.google.cd^
+||adservice.google.cf^

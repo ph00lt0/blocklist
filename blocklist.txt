@@ -5018,3 +5018,4 @@
 ||adservice.google.co.uz^
 ||adservice.google.com.vc^
 ||adservice.google.co.ve^
+||adservice.google.vg^

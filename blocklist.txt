@@ -4836,3 +4836,4 @@
 ||adservice.google.de^
 ||adservice.google.nl^
 ||adservice.google.be^
+||adservice.google.fr^

@@ -4957,3 +4957,4 @@
 ||adservice.google.mw^
 ||adservice.google.com.mx^
 ||adservice.google.com.my^
+||adservice.google.co.mz^

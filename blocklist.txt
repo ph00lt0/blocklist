@@ -4923,3 +4923,4 @@
 ||adservice.google.is^
 ||adservice.google.je^
 ||adservice.google.com.jm^
+||adservice.google.jo^

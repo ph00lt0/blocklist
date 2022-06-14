@@ -4836,3 +4836,4 @@
 0.0.0.0 adservice.google.ad
 0.0.0.0 adservice.google.ae
 0.0.0.0 adservice.google.com.af
+0.0.0.0 adservice.google.com.ag

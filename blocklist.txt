@@ -4841,3 +4841,4 @@
 ||adservice.google.ad^
 ||adservice.google.ae^
 ||adservice.google.com.af^
+||adservice.google.com.ag^

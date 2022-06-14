@@ -4976,3 +4976,4 @@
 0.0.0.0 adservice.google.com.py
 0.0.0.0 adservice.google.com.qa
 0.0.0.0 adservice.google.ro
+0.0.0.0 adservice.google.rs

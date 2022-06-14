@@ -4981,3 +4981,4 @@
 ||adservice.google.com.py^
 ||adservice.google.com.qa^
 ||adservice.google.ro^
+||adservice.google.rs^

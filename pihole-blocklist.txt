@@ -4849,3 +4849,4 @@
 0.0.0.0 adservice.google.ba
 0.0.0.0 adservice.google.com.bd
 0.0.0.0 adservice.google.bf
+0.0.0.0 adservice.google.bg

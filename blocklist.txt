@@ -4854,3 +4854,4 @@
 ||adservice.google.ba^
 ||adservice.google.com.bd^
 ||adservice.google.bf^
+||adservice.google.bg^

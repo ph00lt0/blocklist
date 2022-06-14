@@ -4952,3 +4952,4 @@
 ||adservice.google.mn^
 ||adservice.google.ms^
 ||adservice.google.com.mt^
+||adservice.google.mu^

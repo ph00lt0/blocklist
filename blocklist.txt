@@ -4934,3 +4934,4 @@
 ||adservice.google.kz^
 ||adservice.google.la^
 ||adservice.google.com.lb^
+||adservice.google.com.lc^

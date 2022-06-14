@@ -4927,3 +4927,4 @@
 ||adservice.google.co.jp^
 ||adservice.google.co.ke^
 ||adservice.google.kl^
+||adservice.google.ki^

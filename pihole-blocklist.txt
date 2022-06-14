@@ -4922,3 +4922,4 @@
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.co.ke
 0.0.0.0 adservice.google.kl
+0.0.0.0 adservice.google.ki

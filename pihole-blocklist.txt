@@ -4985,3 +4985,4 @@
 0.0.0.0 adservice.google.se
 0.0.0.0 adservice.google.com.sg
 0.0.0.0 adservice.google.sh
+0.0.0.0 adservice.google.si

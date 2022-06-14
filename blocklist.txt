@@ -4990,3 +4990,4 @@
 ||adservice.google.se^
 ||adservice.google.com.sg^
 ||adservice.google.sh^
+||adservice.google.si^

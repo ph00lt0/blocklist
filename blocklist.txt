@@ -4857,3 +4857,4 @@
 ||adservice.google.bg^
 ||adservice.google.com.bh^
 ||adservice.google.bi^
+||adservice.google.bj^

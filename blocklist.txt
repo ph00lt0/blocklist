@@ -4891,3 +4891,4 @@
 ||adservice.google.com.do^
 ||adservice.google.com.ec^
 ||adservice.google.ee^
+||adservice.google.com.eg^

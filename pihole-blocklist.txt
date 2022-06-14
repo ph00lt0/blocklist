@@ -4886,3 +4886,4 @@
 0.0.0.0 adservice.google.com.do
 0.0.0.0 adservice.google.com.ec
 0.0.0.0 adservice.google.ee
+0.0.0.0 adservice.google.com.eg

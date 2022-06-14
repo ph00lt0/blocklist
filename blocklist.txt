@@ -4889,3 +4889,4 @@
 ||adservice.google.dk^
 ||adservice.google.dm^
 ||adservice.google.com.do^
+||adservice.google.com.ec^

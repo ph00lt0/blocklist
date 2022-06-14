@@ -4867,3 +4867,4 @@
 ||adservice.google.by^
 ||adservice.google.com.bz^
 ||adservice.google.ca^
+||adservice.google.com.hk^

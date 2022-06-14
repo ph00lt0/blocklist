@@ -5007,3 +5007,4 @@
 0.0.0.0 adservice.google.tt
 0.0.0.0 adservice.google.com.tw
 0.0.0.0 adservice.google.co.tz
+0.0.0.0 adservice.google.com.ua

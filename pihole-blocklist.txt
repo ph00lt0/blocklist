@@ -4953,3 +4953,4 @@
 0.0.0.0 adservice.google.com.mx
 0.0.0.0 adservice.google.com.my
 0.0.0.0 adservice.google.co.mz
+0.0.0.0 adservice.google.com.na

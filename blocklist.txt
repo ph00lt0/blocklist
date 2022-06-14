@@ -4940,3 +4940,4 @@
 ||adservice.google.co.ls^
 ||adservice.google.lt^
 ||adservice.google.lu^
+||adservice.google.lv^

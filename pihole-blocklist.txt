@@ -4995,3 +4995,4 @@
 0.0.0.0 adservice.google.sr
 0.0.0.0 adservice.google.com.sv
 0.0.0.0 adservice.google.td
+0.0.0.0 adservice.google.tg

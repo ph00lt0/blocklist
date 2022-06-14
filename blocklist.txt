@@ -5000,3 +5000,4 @@
 ||adservice.google.sr^
 ||adservice.google.com.sv^
 ||adservice.google.td^
+||adservice.google.tg^

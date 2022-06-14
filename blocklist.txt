@@ -4894,3 +4894,4 @@
 ||adservice.google.com.eg^
 ||adservice.google.com.et^
 ||adservice.google.es^
+||adservice.google.fi^

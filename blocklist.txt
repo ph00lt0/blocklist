@@ -4918,3 +4918,4 @@
 ||adservice.google.ie^
 ||adservice.google.co.il^
 ||adservice.google.im^
+||adservice.google.co.in^

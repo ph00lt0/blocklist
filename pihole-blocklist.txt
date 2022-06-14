@@ -4913,3 +4913,4 @@
 0.0.0.0 adservice.google.ie
 0.0.0.0 adservice.google.co.il
 0.0.0.0 adservice.google.im
+0.0.0.0 adservice.google.co.in

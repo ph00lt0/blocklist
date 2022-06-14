@@ -4860,3 +4860,4 @@
 0.0.0.0 adservice.google.bt
 0.0.0.0 adservice.google.co.bw
 0.0.0.0 adservice.google.by
+0.0.0.0 adservice.google.com.bz

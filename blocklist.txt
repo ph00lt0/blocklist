@@ -4945,3 +4945,4 @@
 ||adservice.google.co.ma^
 ||adservice.google.md^
 ||adservice.google.me^
+||adservice.google.mg^

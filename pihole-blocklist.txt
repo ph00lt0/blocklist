@@ -4940,3 +4940,4 @@
 0.0.0.0 adservice.google.co.ma
 0.0.0.0 adservice.google.md
 0.0.0.0 adservice.google.me
+0.0.0.0 adservice.google.mg

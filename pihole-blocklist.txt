@@ -4821,3 +4821,4 @@
 0.0.0.0 mssplus.mcafee.com
 0.0.0.0 scinstallcheck.mcafee.com
 0.0.0.0 plausible.omgapi.org
+0.0.0.0 o1071161.ingest.sentry.io

@@ -4907,3 +4907,4 @@
 ||adservice.google.gm^
 ||adservice.google.gp^
 ||adservice.google.gr^
+||adservice.google.com.gt^

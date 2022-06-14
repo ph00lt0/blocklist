@@ -4899,3 +4899,4 @@
 ||adservice.google.fm^
 ||adservice.google.ga^
 ||adservice.google.ge^
+||adservice.google.fg^

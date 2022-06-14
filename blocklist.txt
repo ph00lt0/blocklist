@@ -4830,3 +4830,4 @@
 ||telephonyspamprotect-pa.googleapis.com^
 ||auction.unityads.unity3d.com^
 ||unityads.unity3d.com^
+||adservice.google.co.uk^

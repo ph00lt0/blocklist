@@ -5013,3 +5013,4 @@
 ||adservice.google.com.tw^
 ||adservice.google.co.tz^
 ||adservice.google.com.ua^
+||adservice.google.co.ug^

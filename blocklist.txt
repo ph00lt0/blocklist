@@ -4824,3 +4824,4 @@
 ||tags.affiliatefuture.com^
 ||affiliatefuture.com^
 ||mssplus.mcafee.com^
+||scinstallcheck.mcafee.com^

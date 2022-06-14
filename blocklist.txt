@@ -4866,3 +4866,4 @@
 ||adservice.google.co.bw^
 ||adservice.google.by^
 ||adservice.google.com.bz^
+||adservice.google.ca^

@@ -4936,3 +4936,4 @@
 0.0.0.0 adservice.google.lt
 0.0.0.0 adservice.google.lu
 0.0.0.0 adservice.google.lv
+0.0.0.0 adservice.google.com.ly

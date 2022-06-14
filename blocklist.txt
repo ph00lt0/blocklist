@@ -4915,3 +4915,4 @@
 ||adservice.google.hu^
 ||adservice.google.co.id^
 ||adservice.google.iq^
+||adservice.google.ie^

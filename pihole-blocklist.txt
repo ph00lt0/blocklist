@@ -4910,3 +4910,4 @@
 0.0.0.0 adservice.google.hu
 0.0.0.0 adservice.google.co.id
 0.0.0.0 adservice.google.iq
+0.0.0.0 adservice.google.ie

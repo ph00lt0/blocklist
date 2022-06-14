@@ -228,7 +228,7 @@
 ||pndsn.com^
 ||files.acrobat.com^
 ||createpdf.acrobat.com^
-||adobe.io^
+@@||adobe.io^  # rdc.adobe.io is used for download of software
 ||genuine.adobe.com^
 @@||itunes.com^  # Required for app store and apple music
 @@||itunes.apple.com^  # Required for app store and apple music

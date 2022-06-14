@@ -227,7 +227,7 @@
 0.0.0.0 pndsn.com
 0.0.0.0 files.acrobat.com
 0.0.0.0 createpdf.acrobat.com
-0.0.0.0 adobe.io
+! allow adobe.io reason: rdc.adobe.io is used for download of software
 0.0.0.0 genuine.adobe.com
 ! allow itunes.com reason: Required for app store and apple music
 ! allow itunes.apple.com reason: Required for app store and apple music

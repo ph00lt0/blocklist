@@ -4888,3 +4888,4 @@
 ||adservice.google.dj^
 ||adservice.google.dk^
 ||adservice.google.dm^
+||adservice.google.com.do^

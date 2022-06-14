@@ -4883,3 +4883,4 @@
 0.0.0.0 adservice.google.dj
 0.0.0.0 adservice.google.dk
 0.0.0.0 adservice.google.dm
+0.0.0.0 adservice.google.com.do

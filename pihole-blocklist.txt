@@ -4903,3 +4903,4 @@
 0.0.0.0 adservice.google.gp
 0.0.0.0 adservice.google.gr
 0.0.0.0 adservice.google.com.gt
+0.0.0.0 adservice.google.gy

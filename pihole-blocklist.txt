@@ -4971,3 +4971,4 @@
 0.0.0.0 adservice.google.com.pg
 0.0.0.0 adservice.google.pn
 0.0.0.0 adservice.google.com.pr
+0.0.0.0 adservice.google.ps

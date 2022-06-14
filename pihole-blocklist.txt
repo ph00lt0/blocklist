@@ -4893,3 +4893,4 @@
 0.0.0.0 adservice.google.com.fj
 0.0.0.0 adservice.google.fm
 0.0.0.0 adservice.google.ga
+0.0.0.0 adservice.google.ge

@@ -4916,3 +4916,4 @@
 ||adservice.google.co.id^
 ||adservice.google.iq^
 ||adservice.google.ie^
+||adservice.google.co.il^

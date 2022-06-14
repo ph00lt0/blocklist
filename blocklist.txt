@@ -4852,3 +4852,4 @@
 ||adservice.google.com.au^
 ||adservice.google.az^
 ||adservice.google.ba^
+||adservice.google.com.bd^

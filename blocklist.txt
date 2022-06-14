@@ -4900,3 +4900,4 @@
 ||adservice.google.ga^
 ||adservice.google.ge^
 ||adservice.google.fg^
+||adservice.google.gg^

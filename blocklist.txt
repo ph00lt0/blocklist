@@ -4840,3 +4840,4 @@
 ||adservice.google.ac^
 ||adservice.google.ad^
 ||adservice.google.ae^
+||adservice.google.com.af^

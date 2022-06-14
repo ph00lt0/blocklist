@@ -5002,3 +5002,4 @@
 ||adservice.google.td^
 ||adservice.google.tg^
 ||adservice.google.co.th^
+||adservice.google.com.tj^

@@ -5022,3 +5022,4 @@
 ||adservice.google.co.vi^
 ||adservice.google.com.vn^
 ||adservice.google.vu^
+||adservice.google.ws^

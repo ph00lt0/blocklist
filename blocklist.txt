@@ -4946,3 +4946,4 @@
 ||adservice.google.md^
 ||adservice.google.me^
 ||adservice.google.mg^
+||adservice.google.mk^

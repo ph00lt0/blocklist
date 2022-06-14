@@ -4984,3 +4984,4 @@
 ||adservice.google.rs^
 ||adservice.google.ru^
 ||adservice.google.rw^
+||adservice.google.com.sa^

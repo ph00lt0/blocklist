@@ -4872,3 +4872,4 @@
 ||adservice.google.cd^
 ||adservice.google.cf^
 ||adservice.google.cat^
+||adservice.google.cg^

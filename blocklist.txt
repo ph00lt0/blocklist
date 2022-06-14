@@ -4868,3 +4868,4 @@
 ||adservice.google.com.bz^
 ||adservice.google.ca^
 ||adservice.google.com.hk^
+||adservice.google.cc^

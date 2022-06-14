@@ -4838,3 +4838,4 @@
 ||adservice.google.be^
 ||adservice.google.fr^
 ||adservice.google.ac^
+||adservice.google.ad^

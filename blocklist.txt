@@ -4948,3 +4948,4 @@
 ||adservice.google.mg^
 ||adservice.google.mk^
 ||adservice.google.ml^
+||adservice.google.com.mm^

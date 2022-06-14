@@ -4864,3 +4864,4 @@
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.com.hk
 0.0.0.0 adservice.google.cc
+0.0.0.0 adservice.google.cd

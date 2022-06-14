@@ -4913,3 +4913,4 @@
 ||adservice.google.hr^
 ||adservice.google.ht^
 ||adservice.google.hu^
+||adservice.google.co.id^

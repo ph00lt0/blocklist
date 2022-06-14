@@ -4908,3 +4908,4 @@
 0.0.0.0 adservice.google.hr
 0.0.0.0 adservice.google.ht
 0.0.0.0 adservice.google.hu
+0.0.0.0 adservice.google.co.id

@@ -4844,3 +4844,4 @@
 ||adservice.google.com.ag^
 ||adservice.google.com.ai^
 ||adservice.google.al^
+||adservice.google.am^

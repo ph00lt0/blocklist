@@ -4839,3 +4839,4 @@
 0.0.0.0 adservice.google.com.ag
 0.0.0.0 adservice.google.com.ai
 0.0.0.0 adservice.google.al
+0.0.0.0 adservice.google.am

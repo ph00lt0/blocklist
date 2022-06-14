@@ -4959,3 +4959,4 @@
 ||adservice.google.com.my^
 ||adservice.google.co.mz^
 ||adservice.google.com.na^
+||adservice.google.ne^

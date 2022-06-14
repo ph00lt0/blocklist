@@ -4846,3 +4846,4 @@
 ||adservice.google.al^
 ||adservice.google.am^
 ||adservice.google.co.ao^
+||adservice.google.com.ar^

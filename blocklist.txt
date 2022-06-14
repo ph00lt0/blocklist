@@ -4875,3 +4875,4 @@
 ||adservice.google.cg^
 ||adservice.google.ch^
 ||adservice.google.ci^
+||adservice.google.cl^

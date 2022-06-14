@@ -4876,3 +4876,4 @@
 ||adservice.google.ch^
 ||adservice.google.ci^
 ||adservice.google.cl^
+||adservice.google.cm^

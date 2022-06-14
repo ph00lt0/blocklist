@@ -4871,3 +4871,4 @@
 0.0.0.0 adservice.google.ch
 0.0.0.0 adservice.google.ci
 0.0.0.0 adservice.google.cl
+0.0.0.0 adservice.google.cm

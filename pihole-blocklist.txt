@@ -4828,3 +4828,4 @@
 0.0.0.0 adservice.google.co.uk
 0.0.0.0 adservice.google.it
 0.0.0.0 adservice.google.pl
+0.0.0.0 adservice.google.de

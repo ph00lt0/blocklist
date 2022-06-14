@@ -4937,3 +4937,4 @@
 ||adservice.google.com.lc^
 ||adservice.google.li^
 ||adservice.google.lk^
+||adservice.google.co.ls^

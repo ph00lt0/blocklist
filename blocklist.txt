@@ -4928,3 +4928,4 @@
 ||adservice.google.co.ke^
 ||adservice.google.kl^
 ||adservice.google.ki^
+||adservice.google.kg^

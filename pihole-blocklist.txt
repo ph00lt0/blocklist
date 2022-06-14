@@ -4962,3 +4962,4 @@
 0.0.0.0 adservice.google.com.np
 0.0.0.0 adservice.google.nr
 0.0.0.0 adservice.google.nu
+0.0.0.0 adservice.google.co.nz

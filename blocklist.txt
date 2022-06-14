@@ -4967,3 +4967,4 @@
 ||adservice.google.com.np^
 ||adservice.google.nr^
 ||adservice.google.nu^
+||adservice.google.co.nz^

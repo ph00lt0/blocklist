@@ -4990,3 +4990,4 @@
 0.0.0.0 adservice.google.com.sl
 0.0.0.0 adservice.google.sn
 0.0.0.0 adservice.google.sm
+0.0.0.0 adservice.google.so

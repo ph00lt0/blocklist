@@ -4997,3 +4997,4 @@
 ||adservice.google.sm^
 ||adservice.google.so^
 ||adservice.google.st^
+||adservice.google.sr^

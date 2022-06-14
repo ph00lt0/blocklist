@@ -4965,3 +4965,4 @@
 ||adservice.google.com.ni^
 ||adservice.google.no^
 ||adservice.google.com.np^
+||adservice.google.nr^

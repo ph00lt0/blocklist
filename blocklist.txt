@@ -4880,3 +4880,4 @@
 ||adservice.google.cn^
 ||adservice.g.cn^
 ||adservice.google.com.co^
+||adservice.google.co.cr^

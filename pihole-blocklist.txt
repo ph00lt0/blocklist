@@ -4855,3 +4855,4 @@
 0.0.0.0 adservice.google.bj
 0.0.0.0 adservice.google.com.bn
 0.0.0.0 adservice.google.com.bo
+0.0.0.0 adservice.google.br

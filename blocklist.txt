@@ -4860,3 +4860,4 @@
 ||adservice.google.bj^
 ||adservice.google.com.bn^
 ||adservice.google.com.bo^
+||adservice.google.br^

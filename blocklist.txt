@@ -5017,3 +5017,4 @@
 ||adservice.google.com.uy^
 ||adservice.google.co.uz^
 ||adservice.google.com.vc^
+||adservice.google.co.ve^

@@ -4848,3 +4848,4 @@
 ||adservice.google.co.ao^
 ||adservice.google.com.ar^
 ||adservice.google.as^
+||adservice.google.at^

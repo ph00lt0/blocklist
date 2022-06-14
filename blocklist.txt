@@ -4955,3 +4955,4 @@
 ||adservice.google.mu^
 ||adservice.google.mv^
 ||adservice.google.mw^
+||adservice.google.com.mx^

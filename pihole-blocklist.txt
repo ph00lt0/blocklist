@@ -5000,3 +5000,4 @@
 0.0.0.0 adservice.google.com.tj
 0.0.0.0 adservice.google.tk
 0.0.0.0 adservice.google.tl
+0.0.0.0 adservice.google.tm

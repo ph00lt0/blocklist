@@ -4929,3 +4929,4 @@
 ||adservice.google.kl^
 ||adservice.google.ki^
 ||adservice.google.kg^
+||adservice.google.co.kr^

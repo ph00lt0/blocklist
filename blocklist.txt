@@ -4963,3 +4963,4 @@
 ||adservice.google.com.nf^
 ||adservice.google.com.ng^
 ||adservice.google.com.ni^
+||adservice.google.no^

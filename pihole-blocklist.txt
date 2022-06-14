@@ -4822,3 +4822,4 @@
 0.0.0.0 scinstallcheck.mcafee.com
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 o1071161.ingest.sentry.io
+0.0.0.0 telephonyspamprotect-pa.googleapis.com

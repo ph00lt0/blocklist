@@ -4827,3 +4827,4 @@
 ||scinstallcheck.mcafee.com^
 ||plausible.omgapi.org^
 ||o1071161.ingest.sentry.io^
+||telephonyspamprotect-pa.googleapis.com^

@@ -4968,3 +4968,4 @@
 ||adservice.google.nr^
 ||adservice.google.nu^
 ||adservice.google.co.nz^
+||adservice.google.com.om^

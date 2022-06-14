@@ -4886,3 +4886,4 @@
 ||adservice.google.com.cy^
 ||adservice.google.cz^
 ||adservice.google.dj^
+||adservice.google.dk^

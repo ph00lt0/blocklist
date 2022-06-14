@@ -4832,3 +4832,4 @@
 ||unityads.unity3d.com^
 ||adservice.google.co.uk^
 ||adservice.google.it^
+||adservice.google.pl^

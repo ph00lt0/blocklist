@@ -4982,3 +4982,4 @@
 0.0.0.0 adservice.google.com.sa
 0.0.0.0 adservice.google.com.sb
 0.0.0.0 adservice.google.sc
+0.0.0.0 adservice.google.se

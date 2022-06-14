@@ -4878,3 +4878,4 @@
 ||adservice.google.cl^
 ||adservice.google.cm^
 ||adservice.google.cn^
+||adservice.g.cn^

@@ -4971,3 +4971,4 @@
 ||adservice.google.com.om^
 ||adservice.google.com.pk^
 ||adservice.google.com.pa^
+||adservice.google.com.pe^

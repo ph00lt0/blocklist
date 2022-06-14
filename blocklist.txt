@@ -4982,3 +4982,4 @@
 ||adservice.google.com.qa^
 ||adservice.google.ro^
 ||adservice.google.rs^
+||adservice.google.ru^

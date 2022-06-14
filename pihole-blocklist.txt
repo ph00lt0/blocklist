@@ -4977,3 +4977,4 @@
 0.0.0.0 adservice.google.com.qa
 0.0.0.0 adservice.google.ro
 0.0.0.0 adservice.google.rs
+0.0.0.0 adservice.google.ru

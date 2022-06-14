@@ -4938,3 +4938,4 @@
 ||adservice.google.li^
 ||adservice.google.lk^
 ||adservice.google.co.ls^
+||adservice.google.lt^

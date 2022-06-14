@@ -5020,3 +5020,4 @@
 0.0.0.0 adservice.google.ws
 0.0.0.0 adservice.google.co.za
 0.0.0.0 adservice.google.co.zm
+0.0.0.0 adservice.google.co.zw

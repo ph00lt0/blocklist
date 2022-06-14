@@ -5025,3 +5025,4 @@
 ||adservice.google.ws^
 ||adservice.google.co.za^
 ||adservice.google.co.zm^
+||adservice.google.co.zw^

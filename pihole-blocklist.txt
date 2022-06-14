@@ -4948,3 +4948,4 @@
 0.0.0.0 adservice.google.ms
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adservice.google.mu
+0.0.0.0 adservice.google.mv

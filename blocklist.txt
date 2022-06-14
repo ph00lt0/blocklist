@@ -4986,3 +4986,4 @@
 ||adservice.google.rw^
 ||adservice.google.com.sa^
 ||adservice.google.com.sb^
+||adservice.google.sc^

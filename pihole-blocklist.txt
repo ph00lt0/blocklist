@@ -4981,3 +4981,4 @@
 0.0.0.0 adservice.google.rw
 0.0.0.0 adservice.google.com.sa
 0.0.0.0 adservice.google.com.sb
+0.0.0.0 adservice.google.sc

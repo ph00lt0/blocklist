@@ -4965,3 +4965,4 @@
 0.0.0.0 adservice.google.co.nz
 0.0.0.0 adservice.google.com.om
 0.0.0.0 adservice.google.com.pk
+0.0.0.0 adservice.google.com.pa

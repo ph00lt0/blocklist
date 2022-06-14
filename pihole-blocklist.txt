@@ -4942,3 +4942,4 @@
 0.0.0.0 adservice.google.me
 0.0.0.0 adservice.google.mg
 0.0.0.0 adservice.google.mk
+0.0.0.0 adservice.google.ml

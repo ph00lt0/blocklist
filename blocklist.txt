@@ -4975,3 +4975,4 @@
 ||adservice.google.com.ph^
 ||adservice.google.com.pg^
 ||adservice.google.pn^
+||adservice.google.com.pr^

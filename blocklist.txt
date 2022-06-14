@@ -4943,3 +4943,4 @@
 ||adservice.google.lv^
 ||adservice.google.com.ly^
 ||adservice.google.co.ma^
+||adservice.google.md^

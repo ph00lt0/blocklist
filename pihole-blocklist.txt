@@ -5004,3 +5004,4 @@
 0.0.0.0 adservice.google.to
 0.0.0.0 adservice.google.tn
 0.0.0.0 adservice.google.com.tr
+0.0.0.0 adservice.google.tt

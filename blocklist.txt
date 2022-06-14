@@ -5009,3 +5009,4 @@
 ||adservice.google.to^
 ||adservice.google.tn^
 ||adservice.google.com.tr^
+||adservice.google.tt^

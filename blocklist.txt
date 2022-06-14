@@ -4980,3 +4980,4 @@
 ||adservice.google.pt^
 ||adservice.google.com.py^
 ||adservice.google.com.qa^
+||adservice.google.ro^

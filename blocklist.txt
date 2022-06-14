@@ -4825,3 +4825,4 @@
 ||affiliatefuture.com^
 ||mssplus.mcafee.com^
 ||scinstallcheck.mcafee.com^
+||plausible.omgapi.org^

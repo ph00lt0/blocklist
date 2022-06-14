@@ -4911,3 +4911,4 @@
 ||adservice.google.gy^
 ||adservice.google.hn^
 ||adservice.google.hr^
+||adservice.google.ht^

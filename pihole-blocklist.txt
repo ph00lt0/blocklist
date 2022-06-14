@@ -4906,3 +4906,4 @@
 0.0.0.0 adservice.google.gy
 0.0.0.0 adservice.google.hn
 0.0.0.0 adservice.google.hr
+0.0.0.0 adservice.google.ht

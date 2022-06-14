@@ -4912,3 +4912,4 @@
 ||adservice.google.hn^
 ||adservice.google.hr^
 ||adservice.google.ht^
+||adservice.google.hu^

@@ -4920,3 +4920,4 @@
 ||adservice.google.im^
 ||adservice.google.co.in^
 ||adservice.google.io^
+||adservice.google.is^

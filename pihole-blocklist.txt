@@ -4998,3 +4998,4 @@
 0.0.0.0 adservice.google.tg
 0.0.0.0 adservice.google.co.th
 0.0.0.0 adservice.google.com.tj
+0.0.0.0 adservice.google.tk

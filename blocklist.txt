@@ -5003,3 +5003,4 @@
 ||adservice.google.tg^
 ||adservice.google.co.th^
 ||adservice.google.com.tj^
+||adservice.google.tk^

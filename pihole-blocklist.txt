@@ -5018,3 +5018,4 @@
 0.0.0.0 adservice.google.com.vn
 0.0.0.0 adservice.google.vu
 0.0.0.0 adservice.google.ws
+0.0.0.0 adservice.google.co.za

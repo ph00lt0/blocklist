@@ -4987,3 +4987,4 @@
 0.0.0.0 adservice.google.sh
 0.0.0.0 adservice.google.si
 0.0.0.0 adservice.google.sk
+0.0.0.0 adservice.google.com.sl

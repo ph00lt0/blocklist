@@ -4928,3 +4928,4 @@
 0.0.0.0 adservice.google.com.kw
 0.0.0.0 adservice.google.kz
 0.0.0.0 adservice.google.la
+0.0.0.0 adservice.google.com.lb

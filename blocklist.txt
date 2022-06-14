@@ -4883,3 +4883,4 @@
 ||adservice.google.co.cr^
 ||adservice.google.com.cu^
 ||adservice.google.cv^
+||adservice.google.com.cy^

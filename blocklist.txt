@@ -4850,3 +4850,4 @@
 ||adservice.google.as^
 ||adservice.google.at^
 ||adservice.google.com.au^
+||adservice.google.az^

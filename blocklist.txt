@@ -4977,3 +4977,4 @@
 ||adservice.google.pn^
 ||adservice.google.com.pr^
 ||adservice.google.ps^
+||adservice.google.pt^

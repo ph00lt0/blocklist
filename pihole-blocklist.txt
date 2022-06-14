@@ -4949,3 +4949,4 @@
 0.0.0.0 adservice.google.com.mt
 0.0.0.0 adservice.google.mu
 0.0.0.0 adservice.google.mv
+0.0.0.0 adservice.google.mw

@@ -4879,3 +4879,4 @@
 0.0.0.0 adservice.google.com.cu
 0.0.0.0 adservice.google.cv
 0.0.0.0 adservice.google.com.cy
+0.0.0.0 adservice.google.cz

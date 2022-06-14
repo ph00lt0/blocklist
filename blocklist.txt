@@ -4999,3 +4999,4 @@
 ||adservice.google.st^
 ||adservice.google.sr^
 ||adservice.google.com.sv^
+||adservice.google.td^

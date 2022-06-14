@@ -4978,3 +4978,4 @@
 ||adservice.google.com.pr^
 ||adservice.google.ps^
 ||adservice.google.pt^
+||adservice.google.com.py^

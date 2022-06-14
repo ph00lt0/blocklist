@@ -5011,3 +5011,4 @@
 ||adservice.google.com.tr^
 ||adservice.google.tt^
 ||adservice.google.com.tw^
+||adservice.google.co.tz^

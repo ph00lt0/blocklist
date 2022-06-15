@@ -5027,3 +5027,4 @@
 ||adservice.google.co.zm^
 ||adservice.google.co.zw^
 www.rieder-zillertal.at##+js(rc, dp--cookie-consent, body, stay)
+www.theverge.com##.m-privacy-consent

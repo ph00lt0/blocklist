@@ -5033,3 +5033,4 @@
 0.0.0.0 nitropay.com
 0.0.0.0 t.seedtag.com
 0.0.0.0 widgets.pexi.nl
+0.0.0.0 nav.smartscreen.microsoft.com

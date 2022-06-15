@@ -5062,3 +5062,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||t.seedtag.com^
 ||widgets.pexi.nl^
 ||nav.smartscreen.microsoft.com^
+||x.ss2.us^

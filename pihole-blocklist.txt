@@ -5031,3 +5031,4 @@
 0.0.0.0 tg1.aniview.com
 0.0.0.0 s.nitropay.com
 0.0.0.0 nitropay.com
+0.0.0.0 t.seedtag.com

@@ -5059,3 +5059,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||tg1.aniview.com^
 ||s.nitropay.com^
 ||nitropay.com^
+||t.seedtag.com^

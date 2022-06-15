@@ -5073,3 +5073,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||footprints-pa.googleapis.com^
 ||events.data.microsoft.com^
 ||api2.branch.io^
+||akstat.io^

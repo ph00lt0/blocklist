@@ -5050,3 +5050,4 @@ www.linkedin.com###compactfooter-advertising
 ||c.aaxads.com^
 ||cmpv2.macworld.com^
 stackoverflow.com##.js-consent-banner
+www.geeksforgeeks.org##.textBasedMannualAds

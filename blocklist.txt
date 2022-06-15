@@ -5065,3 +5065,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||x.ss2.us^
 ||ss2.us^
 ||ntp.msn.com^
+||beacons.gcp.gvt2.com^

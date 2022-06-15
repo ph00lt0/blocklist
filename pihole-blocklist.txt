@@ -5037,3 +5037,4 @@
 0.0.0.0 x.ss2.us
 0.0.0.0 ss2.us
 0.0.0.0 ntp.msn.com
+0.0.0.0 beacons.gcp.gvt2.com

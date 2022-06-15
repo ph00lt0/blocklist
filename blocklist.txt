@@ -5054,3 +5054,4 @@ www.geeksforgeeks.org##.textBasedMannualAds
 startpage.com###marketing-tag-container
 www.linkedin.com##.feed-shared-promo
 merkur.dk##body:style(overflow: auto!important)
+||spott.ai^

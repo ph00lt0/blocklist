@@ -5026,3 +5026,4 @@
 0.0.0.0 b2c-contenthub.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 cmpv2.macworld.com
+0.0.0.0 spott.ai

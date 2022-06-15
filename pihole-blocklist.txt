@@ -5041,3 +5041,4 @@
 0.0.0.0 s2s.singular.net
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 activity.windows.com
+0.0.0.0 gllto.glpals.com

@@ -5052,3 +5052,4 @@ www.linkedin.com###compactfooter-advertising
 stackoverflow.com##.js-consent-banner
 www.geeksforgeeks.org##.textBasedMannualAds
 startpage.com###marketing-tag-container
+www.linkedin.com##.feed-shared-promo

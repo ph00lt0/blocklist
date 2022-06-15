@@ -5075,3 +5075,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||api2.branch.io^
 ||akstat.io^
 ||spcdn.incartupsell.com^
+||incartupsell.com^

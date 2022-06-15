@@ -5048,3 +5048,4 @@ www.asml.com##.is-open.cookie-consent-message
 www.linkedin.com###compactfooter-advertising
 ||b2c-contenthub.com^
 ||c.aaxads.com^
+||cmpv2.macworld.com^

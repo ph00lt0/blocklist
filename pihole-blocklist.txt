@@ -5025,3 +5025,4 @@
 0.0.0.0 frshplkng.nl
 0.0.0.0 b2c-contenthub.com
 0.0.0.0 c.aaxads.com
+0.0.0.0 cmpv2.macworld.com

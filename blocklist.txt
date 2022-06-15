@@ -5030,3 +5030,4 @@ www.rieder-zillertal.at##+js(rc, dp--cookie-consent, body, stay)
 www.theverge.com##.m-privacy-consent
 podimo.com##.cookie
 www.tele2.nl##.show.cookie.fade.modal
+||s.deepl.com^

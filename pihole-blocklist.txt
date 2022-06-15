@@ -5021,3 +5021,4 @@
 0.0.0.0 adservice.google.co.za
 0.0.0.0 adservice.google.co.zm
 0.0.0.0 adservice.google.co.zw
+0.0.0.0 s.deepl.com

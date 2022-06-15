@@ -5026,3 +5026,4 @@
 ||adservice.google.co.za^
 ||adservice.google.co.zm^
 ||adservice.google.co.zw^
+www.rieder-zillertal.at##+js(rc, dp--cookie-consent, body, stay)

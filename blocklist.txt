@@ -5066,3 +5066,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||ss2.us^
 ||ntp.msn.com^
 ||beacons.gcp.gvt2.com^
+||s2s.singular.net^

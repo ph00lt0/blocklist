@@ -5045,3 +5045,4 @@ www.telegraaf.nl##.AdBlockPopUp__wrapper
 www.asml.com##.cookie-consent-message
 www.asml.com##.is-open.cookie-consent-message
 ||frshplkng.nl^
+www.linkedin.com###compactfooter-advertising

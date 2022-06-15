@@ -5078,3 +5078,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||incartupsell.com^
 ||littlebesidesme.com^
 ||cdn.littlebesidesme.com^
+||d37vui3hvxbbje.cloudfront.net^

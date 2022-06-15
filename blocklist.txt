@@ -5051,3 +5051,4 @@ www.linkedin.com###compactfooter-advertising
 ||cmpv2.macworld.com^
 stackoverflow.com##.js-consent-banner
 www.geeksforgeeks.org##.textBasedMannualAds
+startpage.com###marketing-tag-container

@@ -5056,3 +5056,4 @@ www.linkedin.com##.feed-shared-promo
 merkur.dk##body:style(overflow: auto!important)
 ||spott.ai^
 ||static.spott.ai^
+||tg1.aniview.com^

@@ -5028,3 +5028,4 @@
 0.0.0.0 cmpv2.macworld.com
 0.0.0.0 spott.ai
 0.0.0.0 static.spott.ai
+0.0.0.0 tg1.aniview.com

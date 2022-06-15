@@ -5076,3 +5076,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||akstat.io^
 ||spcdn.incartupsell.com^
 ||incartupsell.com^
+||littlebesidesme.com^

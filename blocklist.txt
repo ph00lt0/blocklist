@@ -5060,3 +5060,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||s.nitropay.com^
 ||nitropay.com^
 ||t.seedtag.com^
+||widgets.pexi.nl^

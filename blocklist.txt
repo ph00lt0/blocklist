@@ -5067,3 +5067,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||ntp.msn.com^
 ||beacons.gcp.gvt2.com^
 ||s2s.singular.net^
+||cc-api-data.adobe.io^

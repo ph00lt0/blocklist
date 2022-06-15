@@ -5036,3 +5036,4 @@ www.npostart.nl##.option-one.ticket-banner
 www.nrc.nl##.emailwall--emailwall.emailwall
 danskebank.dk##.cookie-consent-banner-modal
 www.theverge.com###privacy-consent
+hackernoon.com##.ads

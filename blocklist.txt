@@ -5070,3 +5070,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||cc-api-data.adobe.io^
 ||activity.windows.com^
 ||gllto.glpals.com^
+||footprints-pa.googleapis.com^

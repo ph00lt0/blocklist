@@ -679,7 +679,7 @@
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
-0.0.0.0 dl.delivery.mp.microsoft.com
+! allow dl.delivery.mp.microsoft.com reason: CDN for Windows Updates
 0.0.0.0 clientconfig.passport.net
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com

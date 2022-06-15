@@ -680,7 +680,7 @@
 ||win10.ipv6.microsoft.com^
 ||v10.vortex-win.data.microsoft.com^
 ||geo-prod.do.dsp.mp.microsoft.com^
-||dl.delivery.mp.microsoft.com^
+@@||dl.delivery.mp.microsoft.com^  # CDN for Windows Updates
 ||clientconfig.passport.net^
 ||device-metrics-us.amazon.com^
 ||kv101-prod.do.dsp.mp.microsoft.com^

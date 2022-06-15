@@ -5064,3 +5064,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||nav.smartscreen.microsoft.com^
 ||x.ss2.us^
 ||ss2.us^
+||ntp.msn.com^

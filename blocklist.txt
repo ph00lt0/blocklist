@@ -5068,3 +5068,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||beacons.gcp.gvt2.com^
 ||s2s.singular.net^
 ||cc-api-data.adobe.io^
+||activity.windows.com^

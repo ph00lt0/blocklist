@@ -34,6 +34,7 @@ Hit enter, and the domain will be added to the list.
 Hit enter, and the domain will be delisted and specification will be added to the list for reference.
 
 
+
 # Made a mistake?
 
 ```
@@ -45,7 +46,21 @@ Enter the same entry you made by mistake, https:// or http and trailing / are au
 Hit enter, and the mistake will be corrected, the commit message will blame you for it and you can continue your life.
 
 
+# Remove element by class or id
+```
+./insert-remove-class-rule.sh
+```
+- Enter the domain
+- Enter the identifier, following given instructions
+
+Hit enter, and the rule will be added to the blocklist. Note that this won't be in the pihole blocklist and work for DNS only filters
+
+
 # Add rule to remove a class from element
+```
+./insert-remove-class-rule.sh 
+```
+
 Do you want to remove a class from an element? For example a class making the body disappear to show a cookie banner?
 
 - Enter the domain name, the class, and the element to remove it from

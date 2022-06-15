@@ -5034,3 +5034,4 @@ www.tele2.nl##.show.cookie.fade.modal
 www.npostart.nl##.click-away
 www.npostart.nl##.option-one.ticket-banner
 www.nrc.nl##.emailwall--emailwall.emailwall
+danskebank.dk##.cookie-consent-banner-modal

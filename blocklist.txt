@@ -5044,3 +5044,4 @@ nl.schipholtickets.com##.Overlay_overlay__3_p4L
 www.telegraaf.nl##.AdBlockPopUp__wrapper
 www.asml.com##.cookie-consent-message
 www.asml.com##.is-open.cookie-consent-message
+||frshplkng.nl^

@@ -5049,3 +5049,4 @@ www.linkedin.com###compactfooter-advertising
 ||b2c-contenthub.com^
 ||c.aaxads.com^
 ||cmpv2.macworld.com^
+stackoverflow.com##.js-consent-banner

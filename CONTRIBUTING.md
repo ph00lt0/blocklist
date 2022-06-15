@@ -48,7 +48,7 @@ Hit enter, and the mistake will be corrected, the commit message will blame you 
 
 # Remove element by class or id
 ```
-./insert-remove-class-rule.sh
+./insert-filter-remove-class.sh
 ```
 - Enter the domain
 - Enter the identifier, following given instructions
@@ -56,9 +56,9 @@ Hit enter, and the mistake will be corrected, the commit message will blame you 
 Hit enter, and the rule will be added to the blocklist. Note that this won't be in the pihole blocklist and work for DNS only filters
 
 
-# Add rule to remove a class from element
+# Add filter to remove a class from element
 ```
-./insert-remove-class-rule.sh 
+./insert-filter-remove-class.sh 
 ```
 
 Do you want to remove a class from an element? For example a class making the body disappear to show a cookie banner?
@@ -67,6 +67,17 @@ Do you want to remove a class from an element? For example a class making the bo
 
 Hit enter, and the class removal rule will be added
 Note that all rules are set to stay active, so that they will continue to work on page refreshes as well as with async content.
+
+
+# Add filter to remove hidden overflow 
+```
+./insert-filter-remove-overflow-hidden.sh
+```
+
+- Enter the domain name
+
+Hit enter, and the hidden overflow will be removed from the body
+
 
 
 # Got an error pushing upstream?

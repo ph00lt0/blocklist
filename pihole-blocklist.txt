@@ -5044,3 +5044,4 @@
 0.0.0.0 gllto.glpals.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 events.data.microsoft.com
+0.0.0.0 api2.branch.io

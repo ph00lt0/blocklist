@@ -5071,3 +5071,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||activity.windows.com^
 ||gllto.glpals.com^
 ||footprints-pa.googleapis.com^
+||events.data.microsoft.com^

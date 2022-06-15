@@ -5074,3 +5074,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||events.data.microsoft.com^
 ||api2.branch.io^
 ||akstat.io^
+||spcdn.incartupsell.com^

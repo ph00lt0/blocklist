@@ -5046,3 +5046,4 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 api2.branch.io
 0.0.0.0 akstat.io
+0.0.0.0 spcdn.incartupsell.com

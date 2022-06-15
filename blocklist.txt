@@ -5039,3 +5039,4 @@ www.theverge.com###privacy-consent
 hackernoon.com##.ads
 appletoolbox.com###ez-cookie-dialog
 appletoolbox.com###ez-cookie-dialog-wrapper
+nos.nl###ccm_notification_wrapper

@@ -5080,3 +5080,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||cdn.littlebesidesme.com^
 ||d37vui3hvxbbje.cloudfront.net^
 ||1.www.s81c.com^
+||s81c.com^

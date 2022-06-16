@@ -5084,3 +5084,4 @@ merkur.dk##body:style(overflow: auto!important)
 ||extreme-ip-lookup.com^
 ||gtm.vanmoof.com^
 ||pc3.vanmoof.com^
+opener.pl##.cookies

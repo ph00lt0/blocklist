@@ -5087,3 +5087,4 @@ merkur.dk##body:style(overflow: auto!important)
 opener.pl##.cookies
 ||d13cihc9138cdj.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
+||pro.hit.gemius.pl^

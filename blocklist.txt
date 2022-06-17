@@ -5094,3 +5094,4 @@ opener.pl##.cookies
 ||www.formilla.com^
 ||formilla.com^
 ||files-shpf.mageworx.com^
+||mageworx.com^

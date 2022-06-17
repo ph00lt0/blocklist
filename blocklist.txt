@@ -5093,3 +5093,4 @@ opener.pl##.cookies
 ||flybuy.com^
 ||www.formilla.com^
 ||formilla.com^
+||files-shpf.mageworx.com^

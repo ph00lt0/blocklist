@@ -5069,3 +5069,4 @@
 0.0.0.0 altitude-arena.com
 0.0.0.0 data.altbeacon.org
 0.0.0.0 mtrack.nl
+0.0.0.0 loyalistic.com

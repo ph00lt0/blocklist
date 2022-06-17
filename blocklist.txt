@@ -5098,3 +5098,4 @@ opener.pl##.cookies
 ||altitude-arena.com^
 ||data.altbeacon.org^
 ||mtrack.nl^
+||loyalistic.com^

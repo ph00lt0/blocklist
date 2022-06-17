@@ -5090,3 +5090,4 @@ opener.pl##.cookies
 ||pro.hit.gemius.pl^
 ||altbeacon.org^
 ||radiusnetworks.com^
+||flybuy.com^

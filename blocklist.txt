@@ -5095,3 +5095,4 @@ opener.pl##.cookies
 ||formilla.com^
 ||files-shpf.mageworx.com^
 ||mageworx.com^
+||altitude-arena.com^

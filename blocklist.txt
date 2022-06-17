@@ -5092,3 +5092,4 @@ opener.pl##.cookies
 ||radiusnetworks.com^
 ||flybuy.com^
 ||www.formilla.com^
+||formilla.com^

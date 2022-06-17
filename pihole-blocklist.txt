@@ -5067,3 +5067,4 @@
 0.0.0.0 files-shpf.mageworx.com
 0.0.0.0 mageworx.com
 0.0.0.0 altitude-arena.com
+0.0.0.0 data.altbeacon.org

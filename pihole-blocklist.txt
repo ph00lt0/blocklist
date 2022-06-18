@@ -5075,3 +5075,4 @@
 0.0.0.0 analytics.aweber.com
 0.0.0.0 widgets.jobbio.com
 0.0.0.0 adtcdn.com
+0.0.0.0 player.adtcdn.com

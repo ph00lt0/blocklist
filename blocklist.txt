@@ -5154,3 +5154,4 @@ $removeparam=utm_source
 $removeparam=afftrack
 ||adsninja.ca^
 ||webpushs.com^
+||web.webpushs.com^

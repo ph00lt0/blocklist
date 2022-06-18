@@ -12,7 +12,7 @@ declare blocklistRule="\$removeparam=${param}"
 
 echo $blocklistRule
 
-if [ "$param" == "v"; then
+if [ "$param" == "v"]; then
     exit
 fi
 

@@ -5130,3 +5130,4 @@ siliconcanals.com##.ai-track
 ||realtimely.io^
 ||ua.realtimely.io^
 $removeparam=awinmid
+$removeparam=awinaffid

@@ -5113,3 +5113,4 @@ $removeparam=mt_campaign
 $removeparam=mt_adset
 $removeparam=mt_creative
 $removeparam=clickId
+$removeparam=iclid

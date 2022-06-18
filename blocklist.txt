@@ -5100,3 +5100,4 @@ opener.pl##.cookies
 ||mtrack.nl^
 ||loyalistic.com^
 revolut.com###DndLiveRegion-0
+$removeparam=kayakclickid

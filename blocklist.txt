@@ -5103,3 +5103,4 @@ revolut.com###DndLiveRegion-0
 $removeparam=kayakclickid
 ||trk.mail.ru^
 $removeparam=mt_gaid
+$removeparam=mt_sub1

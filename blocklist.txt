@@ -5140,3 +5140,4 @@ $removeparam=utm_channel
 $removeparam=utm_cid
 $removeparam=utm_content
 $removeparam=utm_id
+$removeparam=utm_name

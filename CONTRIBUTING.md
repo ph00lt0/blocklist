@@ -45,6 +45,17 @@ Enter the same entry you made by mistake, https:// or http and trailing / are au
 
 Hit enter, and the mistake will be corrected, the commit message will blame you for it and you can continue your life.
 
+# Remove a URL parameter
+```
+./insert-filter-remove-parameter.sh
+```
+OR
+```
+insert-filter-remove-parameter-domain.sh
+```
+Carefully choose whether to remove a parameter from only a single domain or globally. A clear tracker can be removed from all websites, but a UID may be required for some websites to operate. Generic UID names should not be removed globally.
+
+Depending on the script enter the domain name and the parameter to remove. The script will do the rest.
 
 # Remove element by class or id
 ```

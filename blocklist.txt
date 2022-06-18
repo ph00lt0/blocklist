@@ -5133,3 +5133,4 @@ $removeparam=awinmid
 $removeparam=awinaffid
 $removeparam=clickref
 ||tracking.atreemo.com^
+||xct.atreemo.com^

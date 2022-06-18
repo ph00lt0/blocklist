@@ -5128,3 +5128,4 @@ siliconcanals.com##.ai-track
 ||adtcdn.com^
 ||player.adtcdn.com^
 ||realtimely.io^
+||ua.realtimely.io^

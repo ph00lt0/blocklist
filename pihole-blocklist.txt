@@ -5071,3 +5071,4 @@
 0.0.0.0 mtrack.nl
 0.0.0.0 loyalistic.com
 0.0.0.0 trk.mail.ru
+0.0.0.0 analytics.checkyourlink.com

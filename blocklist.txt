@@ -5115,3 +5115,4 @@ $removeparam=mt_creative
 $removeparam=clickId
 $removeparam=iclid
 $removeparam=amc
+$removeparam=aff_sub2

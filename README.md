@@ -1,4 +1,4 @@
-# Blocklists for Adguard Home, uBlock Origin, Brave Adblock, and PiHole
+# Blocklists for AGguard Home, AGguard, uBlock Origin, Brave Adblock, and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 
@@ -14,8 +14,24 @@ This blocklists aims at blocking:
 - Spyware
 
 
-## Adguard Home
-Add this domain to Adguard Home:
+## AGguard Home
+Add this domain to AGguard Home:
+```
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+```
+
+
+## AdGuard 
+- Open the AdGuard settings
+- Navigate to `Filters`
+- Scroll down to **Custom**
+- Enable the custom `switch`
+- Click on `Custom`
+- Click **Add custom filter**
+- Paste the URL below
+- For the best impact enable the `trusted` checkbox
+- Click **Subscribe**
+
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```

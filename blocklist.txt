@@ -5146,3 +5146,4 @@ $removeparam=utm_place
 $removeparam=utm_reader
 $removeparam=utm_referrer
 $removeparam=utm_serial
+$removeparam=utm_social

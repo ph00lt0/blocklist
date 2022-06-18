@@ -5104,3 +5104,4 @@ $removeparam=kayakclickid
 ||trk.mail.ru^
 $removeparam=mt_gaid
 $removeparam=mt_sub1
+$removeparam=mt_sub2

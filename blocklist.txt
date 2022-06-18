@@ -5123,4 +5123,4 @@ $removeparam=tracking_id
 $removeparam=subId1
 ||analytics.aweber.com^
 ||widgets.jobbio.com^
-siliconcanals.com####.brave_popup--popup.brave_popup
+siliconcanals.com##.brave_popup--popup.brave_popup

@@ -5119,3 +5119,4 @@ $removeparam=aff_sub2
 $removeparam=msclkid
 $removeparam=utm_term
 ||analytics.checkyourlink.com^
+$removeparam=tracking_id

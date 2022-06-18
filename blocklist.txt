@@ -5114,3 +5114,4 @@ $removeparam=mt_adset
 $removeparam=mt_creative
 $removeparam=clickId
 $removeparam=iclid
+$removeparam=amc

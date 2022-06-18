@@ -5125,3 +5125,4 @@ $removeparam=subId1
 ||widgets.jobbio.com^
 siliconcanals.com##.brave_popup--popup.brave_popup
 siliconcanals.com##.ai-track
+||adtcdn.com^

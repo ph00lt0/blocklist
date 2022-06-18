@@ -5116,3 +5116,4 @@ $removeparam=clickId
 $removeparam=iclid
 $removeparam=amc
 $removeparam=aff_sub2
+$removeparam=msclkid

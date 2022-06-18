@@ -5110,3 +5110,4 @@ $removeparam=mt_sub4
 $removeparam=mt_sub5
 $removeparam=mt_network
 $removeparam=mt_campaign
+$removeparam=mt_adset

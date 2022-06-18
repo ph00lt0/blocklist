@@ -5143,3 +5143,4 @@ $removeparam=utm_id
 $removeparam=utm_name
 $removeparam=utm_pubreferrer
 $removeparam=utm_place
+$removeparam=utm_reader

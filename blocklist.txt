@@ -5151,3 +5151,4 @@ $removeparam=utm_social-type
 $removeparam=fbclid
 $removeparam=utm_source
 ||shareasale-analytics.com^
+$removeparam=afftrack

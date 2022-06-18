@@ -1,4 +1,4 @@
-# Blocklists for AGguard Home, AGguard, uBlock Origin, Brave Adblock, and PiHole
+# Blocklists for AGguard Home, AdGuard, uBlock Origin, Brave Adblock, and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 
@@ -14,8 +14,8 @@ This blocklists aims at blocking:
 - Spyware
 
 
-## AGguard Home
-Add this domain to AGguard Home:
+## AdGuard Home
+Add this domain to AdGuard Home:
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```

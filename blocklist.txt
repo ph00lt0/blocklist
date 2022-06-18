@@ -5152,3 +5152,4 @@ $removeparam=fbclid
 $removeparam=utm_source
 ||shareasale-analytics.com^
 $removeparam=afftrack
+||adsninja.ca^

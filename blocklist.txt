@@ -5165,3 +5165,4 @@ $removeparam=afftrack
 ||moosite.com^
 ||mg2.moosite.com^
 ||player.tubia.com^
+||tubia.com^

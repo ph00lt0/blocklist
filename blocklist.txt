@@ -5156,3 +5156,4 @@ $removeparam=afftrack
 ||webpushs.com^
 ||web.webpushs.com^
 ||tag.atom.gamedistribution.com^
+||ana.headerlift.com^

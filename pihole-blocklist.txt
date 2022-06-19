@@ -5088,3 +5088,4 @@
 0.0.0.0 ana.headerlift.com
 0.0.0.0 msgrt.gamedistribution.com
 0.0.0.0 services.bilsyndication.com
+0.0.0.0 pushtide.com

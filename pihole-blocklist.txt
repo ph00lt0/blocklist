@@ -5092,3 +5092,4 @@
 0.0.0.0 shbilsyndication.com
 0.0.0.0 mochibot.com
 0.0.0.0 moosite.com
+0.0.0.0 mg2.moosite.com

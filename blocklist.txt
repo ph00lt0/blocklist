@@ -5163,3 +5163,4 @@ $removeparam=afftrack
 ||shbilsyndication.com^
 ||mochibot.com^
 ||moosite.com^
+||mg2.moosite.com^

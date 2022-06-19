@@ -5164,3 +5164,4 @@ $removeparam=afftrack
 ||mochibot.com^
 ||moosite.com^
 ||mg2.moosite.com^
+||player.tubia.com^

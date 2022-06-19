@@ -5091,3 +5091,4 @@
 0.0.0.0 pushtide.com
 0.0.0.0 shbilsyndication.com
 0.0.0.0 mochibot.com
+0.0.0.0 moosite.com

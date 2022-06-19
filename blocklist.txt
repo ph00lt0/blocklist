@@ -5168,3 +5168,4 @@ $removeparam=afftrack
 ||tubia.com^
 ||3hm.minijuegos.com^
 ||m2d.m2.ai^
+||m2.ai^

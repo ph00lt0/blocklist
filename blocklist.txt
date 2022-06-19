@@ -5171,3 +5171,4 @@ $removeparam=afftrack
 ||m2.ai^
 ||banner.overgamez.com^
 ||secure.xsolla.com^
+||i.987967.xyz^

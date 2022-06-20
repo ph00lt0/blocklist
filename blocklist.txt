@@ -6785,3 +6785,4 @@ $removeparam=afftrack
 ||geoip-api.skypicker.com^
 @@||plexus-prod.skypicker.com^  # Required
 ||finance-launchpad.skypicker.com^
+||rates-finance.skypicker.com^

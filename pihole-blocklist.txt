@@ -596,7 +596,7 @@
 0.0.0.0 facebook.net
 ! allow fbstatic-a.akamaihd.net reason: CDN
 ! allow fbcdn-profile-a.akamaihd.net reason: CDN
-0.0.0.0 fbcdn-sphotos-a-a.akamaihd.net
+! allow fbcdn-sphotos-a-a.akamaihd.net reason: CDN
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbexternal-a.akamaihd.net
 ! allow fbcdn-sphotos-b-a.akamaihd.net reason: Photos CDN

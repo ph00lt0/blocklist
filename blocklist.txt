@@ -6294,3 +6294,4 @@ $removeparam=afftrack
 ||sam4m.com^
 ||scandit.com^
 ||www.scoreloop.com^
+||scoreloop.com^

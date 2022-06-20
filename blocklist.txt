@@ -6505,3 +6505,4 @@ $removeparam=afftrack
 ||anagog.com^
 ||amobee.com^
 ||amoad.com^
+||amplifyframework.com^

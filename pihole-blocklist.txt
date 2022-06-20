@@ -6434,3 +6434,4 @@
 0.0.0.0 anagog.com
 0.0.0.0 amobee.com
 0.0.0.0 amoad.com
+0.0.0.0 amplifyframework.com

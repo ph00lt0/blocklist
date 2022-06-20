@@ -6151,3 +6151,4 @@
 0.0.0.0 synerise.com
 0.0.0.0 sync2ad.com
 0.0.0.0 swrve.com
+0.0.0.0 swirl.com

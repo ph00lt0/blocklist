@@ -6222,3 +6222,4 @@ $removeparam=afftrack
 ||synerise.com^
 ||sync2ad.com^
 ||swrve.com^
+||swirl.com^

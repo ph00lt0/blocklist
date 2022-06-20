@@ -612,7 +612,7 @@
 @@||fbcdn-sphotos-k-a.akamaihd.net^  # Photos CDN
 @@||fbcdn-sphotos-l-a.akamaihd.net^  # Photos CDN
 @@||fbcdn-sphotos-m-a.akamaihd.net^  # Photos CDN
-||fbcdn-sphotos-n-a.akamaihd.net^
+@@||fbcdn-sphotos-n-a.akamaihd.net^  # Photos CDN
 ||fonts.gstatic.com^
 ||myfonts.net^
 ||fonts.net^

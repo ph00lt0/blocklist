@@ -624,7 +624,7 @@
 ||userlocation.googleapis.com^
 ||*-pa.googleapis.com^
 ||googleadservices.com^
-||mtalk.google.com^
+@@||mtalk.google.com^  # Google Cloud Messaging
 ||smartlock.google.com^
 @@||firebaseinstallations.googleapis.com^  # Required for notificiations
 ||fundingchoicesmessages.google.com^

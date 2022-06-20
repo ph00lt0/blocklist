@@ -623,7 +623,7 @@
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 *-pa.googleapis.com
 0.0.0.0 googleadservices.com
-0.0.0.0 mtalk.google.com
+! allow mtalk.google.com reason: Google Cloud Messaging
 0.0.0.0 smartlock.google.com
 ! allow firebaseinstallations.googleapis.com reason: Required for notificiations
 0.0.0.0 fundingchoicesmessages.google.com

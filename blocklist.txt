@@ -6383,3 +6383,4 @@ $removeparam=afftrack
 ||locuslabs.com^
 ||lisnr.com^
 ||ligatus.com^
+||partner-service.link^

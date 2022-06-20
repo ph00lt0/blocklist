@@ -6048,3 +6048,4 @@
 0.0.0.0 dvr-cdn.aimage.it
 0.0.0.0 plug.it
 0.0.0.0 audienceproject.com
+0.0.0.0 adbility-media.com

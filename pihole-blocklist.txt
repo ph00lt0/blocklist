@@ -6289,3 +6289,4 @@
 0.0.0.0 offertoro.com
 0.0.0.0 nielsen.com
 0.0.0.0 nexage.com
+0.0.0.0 nativex.com

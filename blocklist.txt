@@ -6403,3 +6403,4 @@ $removeparam=afftrack
 ||instreamatic.com^
 ||instabug.com^
 ||inrix.io^
+||inrix.com^

@@ -5107,3 +5107,4 @@
 0.0.0.0 aa.google.com
 0.0.0.0 id.google.fi
 0.0.0.0 id.google.nl
+0.0.0.0 id.google.be

@@ -6293,3 +6293,4 @@ $removeparam=afftrack
 ||video-ads.rubiconproject.com^
 ||sam4m.com^
 ||scandit.com^
+||www.scoreloop.com^

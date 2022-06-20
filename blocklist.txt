@@ -6425,3 +6425,4 @@ $removeparam=afftrack
 ||geniee.co.jp^
 ||gameanalytics.com^
 ||fwmrm.net^
+||freewheel.tv^

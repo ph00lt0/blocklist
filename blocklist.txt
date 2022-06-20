@@ -6485,3 +6485,4 @@ $removeparam=afftrack
 ||app-ab01.marketo.com^
 ||zippyfrog.co^
 ||profitwell.com^
+||public.profitwell.com^

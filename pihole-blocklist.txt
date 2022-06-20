@@ -6433,3 +6433,4 @@
 0.0.0.0 nicepeopleatwork.com
 0.0.0.0 anagog.com
 0.0.0.0 amobee.com
+0.0.0.0 amoad.com

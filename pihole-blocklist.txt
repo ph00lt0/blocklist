@@ -5312,3 +5312,4 @@
 0.0.0.0 mirando.de
 0.0.0.0 arkeero.com
 0.0.0.0 whatrocks.co
+0.0.0.0 kervit.com

@@ -5392,3 +5392,4 @@ $removeparam=afftrack
 ||impactify.io^
 ||webads.eu^
 ||dynamic-tracking.com^
+||betterbanners.com^

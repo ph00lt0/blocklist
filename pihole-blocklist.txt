@@ -5321,3 +5321,4 @@
 0.0.0.0 impactify.io
 0.0.0.0 webads.eu
 0.0.0.0 dynamic-tracking.com
+0.0.0.0 betterbanners.com

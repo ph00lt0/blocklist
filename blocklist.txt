@@ -6206,3 +6206,4 @@ $removeparam=afftrack
 ||tapresearch.com^
 ||tappx.com^
 ||api.taplytics.com^
+||tapjoy.com^

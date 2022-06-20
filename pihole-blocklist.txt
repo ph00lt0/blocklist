@@ -6135,3 +6135,4 @@
 0.0.0.0 tapresearch.com
 0.0.0.0 tappx.com
 0.0.0.0 api.taplytics.com
+0.0.0.0 tapjoy.com

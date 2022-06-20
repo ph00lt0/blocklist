@@ -6703,3 +6703,4 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 api-device.mocaplatform.com
 0.0.0.0 mobvista.com
+0.0.0.0 d2v02itv0y9u9t.cloudfront.net

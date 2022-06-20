@@ -6774,3 +6774,4 @@ $removeparam=afftrack
 ||mobile-collector.newrelic.com^
 ||api-device.mocaplatform.com^
 ||mobvista.com^
+||d2v02itv0y9u9t.cloudfront.net^

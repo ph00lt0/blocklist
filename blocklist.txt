@@ -6339,3 +6339,4 @@ $removeparam=afftrack
 ||placer.io^
 ||placed.com^
 ||pingstart.com^
+||pincrux.com^

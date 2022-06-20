@@ -6268,3 +6268,4 @@
 0.0.0.0 placer.io
 0.0.0.0 placed.com
 0.0.0.0 pingstart.com
+0.0.0.0 pincrux.com

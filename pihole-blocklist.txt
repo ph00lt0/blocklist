@@ -594,7 +594,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 ip-geolocation.netcraft.com
 0.0.0.0 facebook.net
-0.0.0.0 fbstatic-a.akamaihd.net
+! allow fbstatic-a.akamaihd.net reason: CDN
 0.0.0.0 fbcdn-profile-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-a-a.akamaihd.net
 0.0.0.0 fbcdn-creative-a.akamaihd.net

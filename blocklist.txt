@@ -595,7 +595,7 @@
 ||collector.githubapp.com^
 ||ip-geolocation.netcraft.com^
 ||facebook.net^
-||fbstatic-a.akamaihd.net^
+@@||fbstatic-a.akamaihd.net^  # CDN
 ||fbcdn-profile-a.akamaihd.net^
 ||fbcdn-sphotos-a-a.akamaihd.net^
 ||fbcdn-creative-a.akamaihd.net^

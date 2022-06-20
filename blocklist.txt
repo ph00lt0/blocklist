@@ -6439,3 +6439,4 @@ $removeparam=afftrack
 ||fineboost.com^
 ||yifants.cn^
 ||fidzup.com^
+||api.factual.com^

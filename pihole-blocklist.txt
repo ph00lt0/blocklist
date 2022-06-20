@@ -6227,3 +6227,4 @@
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
 0.0.0.0 incoming-data-sense360.s3.amazonaws.com
 0.0.0.0 quinoa-personal-identify-prod.sense360eng.com
+0.0.0.0 www.sensoro.com

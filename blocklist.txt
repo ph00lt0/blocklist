@@ -6200,3 +6200,4 @@ $removeparam=afftrack
 ||mta.qq.com^
 ||lbs.qq.com^
 ||telequid.com^
+||mars.telequid.com^

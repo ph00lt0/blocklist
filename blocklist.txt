@@ -6512,3 +6512,4 @@ $removeparam=afftrack
 ||adsmogo.com^
 ||adxcorp.kr^
 ||adtrial.com^
+||adpopcorn.com^

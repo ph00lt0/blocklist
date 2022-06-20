@@ -6436,3 +6436,4 @@
 0.0.0.0 amoad.com
 0.0.0.0 amplifyframework.com
 0.0.0.0 altamob.com
+0.0.0.0 alphalytics.net

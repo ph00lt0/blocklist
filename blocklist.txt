@@ -6189,3 +6189,4 @@ $removeparam=afftrack
 ||mopub.com^
 ||tusdk.com^
 ||tutucloud.com^
+||tutela.com^

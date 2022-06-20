@@ -6139,3 +6139,4 @@ $removeparam=afftrack
 ||api.smartechmetrics.com^
 ||xmode.io^
 ||wootric.com.herokudns.com,wootric.com^
+||widespace.com^

@@ -6390,3 +6390,4 @@ $removeparam=afftrack
 ||kissmetricshq.com^
 ||kiip.me^
 ||www.ninthdecimal.com^
+||ninthdecimal.com^

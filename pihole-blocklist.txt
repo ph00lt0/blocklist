@@ -6425,3 +6425,4 @@
 0.0.0.0 appnexus.com
 0.0.0.0 appnext.com
 0.0.0.0 monet.com
+0.0.0.0 applause.com

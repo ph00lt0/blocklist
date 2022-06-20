@@ -6779,3 +6779,4 @@ $removeparam=afftrack
 ||cdn.ad.plus^
 ||cdn.thisiswaldo.com^
 ||thisiswaldo.com^
+||m1.nedstatbasic.net^

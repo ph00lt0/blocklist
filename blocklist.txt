@@ -6499,3 +6499,4 @@ $removeparam=afftrack
 ||applause.com^
 ||appbrain.com^
 ||appanalytics.io^
+||anysdk.com^

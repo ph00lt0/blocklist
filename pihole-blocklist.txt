@@ -6456,3 +6456,4 @@
 0.0.0.0 aatkit.com
 0.0.0.0 addapptr.com
 0.0.0.0 adcenix.com
+0.0.0.0 adcash.com

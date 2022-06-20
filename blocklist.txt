@@ -6186,3 +6186,4 @@ $removeparam=afftrack
 ||oc.umeng.com^
 ||uop.umeng.com^
 ||events.uber.com^
+||mopub.com^

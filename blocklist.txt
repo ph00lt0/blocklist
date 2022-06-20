@@ -6489,3 +6489,4 @@ $removeparam=afftrack
 ||bidmachine.io^
 ||beintoo.com^
 ||beaconsinspace.com^
+||appvador.com^

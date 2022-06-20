@@ -6418,3 +6418,4 @@
 0.0.0.0 bidmachine.io
 0.0.0.0 beintoo.com
 0.0.0.0 beaconsinspace.com
+0.0.0.0 appvador.com

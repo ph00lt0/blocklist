@@ -6205,3 +6205,4 @@
 0.0.0.0 smartadserver.ru
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 usw-lax.adsrvr.org
+0.0.0.0 quantcast.net

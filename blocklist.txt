@@ -6276,3 +6276,4 @@ $removeparam=afftrack
 ||smartadserver.ru^
 ||tmk.smartadserver.com^
 ||usw-lax.adsrvr.org^
+||quantcast.net^

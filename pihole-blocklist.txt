@@ -6376,3 +6376,4 @@
 0.0.0.0 arcgis.com
 0.0.0.0 duapps.com
 0.0.0.0 ad.duapps.com
+0.0.0.0 dov-e.com

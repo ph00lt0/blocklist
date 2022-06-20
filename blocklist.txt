@@ -6447,3 +6447,4 @@ $removeparam=afftrack
 ||arcgis.com^
 ||duapps.com^
 ||ad.duapps.com^
+||dov-e.com^

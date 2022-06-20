@@ -6442,3 +6442,4 @@
 0.0.0.0 adxcorp.kr
 0.0.0.0 adtrial.com
 0.0.0.0 adpopcorn.com
+0.0.0.0 admuing.com

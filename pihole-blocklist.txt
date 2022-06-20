@@ -6142,4 +6142,3 @@
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 evt.tamoco.com
 0.0.0.0 tamoco.com
-0.0.0.0 account.talkingdata.com,av1.xdrig.com,cloud.xdrig.com,m.talkingdata.com,push.xdrig.com

@@ -6281,3 +6281,4 @@ $removeparam=afftrack
 ||receptiv.com^
 ||www.receptiv.com^
 ||repro.io^
+||retency.com^

@@ -6210,3 +6210,4 @@
 0.0.0.0 receptiv.com
 0.0.0.0 www.receptiv.com
 0.0.0.0 repro.io
+0.0.0.0 retency.com

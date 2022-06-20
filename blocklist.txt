@@ -6112,7 +6112,7 @@ $removeparam=afftrack
 ||www.adman.gr^
 ||admetrics.io^
 ||www.adways.com^
-||www.fandom.com^
+@@||www.fandom.com^  # Not a tracker
 ||www.lead-alliance.net^
 ||wips.plug.it^
 ||aimage.it^

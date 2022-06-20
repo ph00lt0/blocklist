@@ -6041,7 +6041,7 @@
 0.0.0.0 www.adman.gr
 0.0.0.0 admetrics.io
 0.0.0.0 www.adways.com
-0.0.0.0 www.fandom.com
+! allow www.fandom.com reason: Not a tracker
 0.0.0.0 www.lead-alliance.net
 0.0.0.0 wips.plug.it
 0.0.0.0 aimage.it

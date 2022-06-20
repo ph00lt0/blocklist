@@ -6715,3 +6715,4 @@
 ! allow plexus-prod.skypicker.com reason: Required
 0.0.0.0 finance-launchpad.skypicker.com
 0.0.0.0 rates-finance.skypicker.com
+0.0.0.0 csp-reporter.ryanair.com

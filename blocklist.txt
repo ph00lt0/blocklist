@@ -6786,3 +6786,4 @@ $removeparam=afftrack
 @@||plexus-prod.skypicker.com^  # Required
 ||finance-launchpad.skypicker.com^
 ||rates-finance.skypicker.com^
+||csp-reporter.ryanair.com^

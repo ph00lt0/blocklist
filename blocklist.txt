@@ -6428,3 +6428,4 @@ $removeparam=afftrack
 ||freewheel.tv^
 ||www.footmarks.com^
 ||footmarks.com^
+||followanalytics.com^

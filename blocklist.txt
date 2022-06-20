@@ -6402,3 +6402,4 @@ $removeparam=afftrack
 ||ipqualityscore.com^
 ||instreamatic.com^
 ||instabug.com^
+||inrix.io^

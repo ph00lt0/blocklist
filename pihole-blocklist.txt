@@ -6184,3 +6184,4 @@
 0.0.0.0 startappservice.com
 0.0.0.0 va.origin.startappservice.com
 0.0.0.0 event.split.io
+0.0.0.0 sdk.split.io

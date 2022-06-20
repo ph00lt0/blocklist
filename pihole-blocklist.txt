@@ -595,7 +595,7 @@
 0.0.0.0 ip-geolocation.netcraft.com
 0.0.0.0 facebook.net
 ! allow fbstatic-a.akamaihd.net reason: CDN
-0.0.0.0 fbcdn-profile-a.akamaihd.net
+! allow fbcdn-profile-a.akamaihd.net reason: CDN
 0.0.0.0 fbcdn-sphotos-a-a.akamaihd.net
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbexternal-a.akamaihd.net

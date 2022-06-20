@@ -596,7 +596,7 @@
 ||ip-geolocation.netcraft.com^
 ||facebook.net^
 @@||fbstatic-a.akamaihd.net^  # CDN
-||fbcdn-profile-a.akamaihd.net^
+@@||fbcdn-profile-a.akamaihd.net^  # CDN
 ||fbcdn-sphotos-a-a.akamaihd.net^
 ||fbcdn-creative-a.akamaihd.net^
 ||fbexternal-a.akamaihd.net^

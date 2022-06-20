@@ -6349,3 +6349,4 @@
 0.0.0.0 analytics.withgoogle.com
 0.0.0.0 admob.google.com
 0.0.0.0 www.gomfactory.com
+0.0.0.0 gomfactory.com

@@ -6420,3 +6420,4 @@ $removeparam=afftrack
 ||analytics.withgoogle.com^
 ||admob.google.com^
 ||www.gomfactory.com^
+||gomfactory.com^

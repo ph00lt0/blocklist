@@ -6123,3 +6123,4 @@
 0.0.0.0 tnkfactory.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 thinkingdata.cn
+0.0.0.0 tenjin.com

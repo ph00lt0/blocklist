@@ -5317,3 +5317,4 @@
 0.0.0.0 wunderkind.co
 0.0.0.0 optomaton.com
 0.0.0.0 twiago.com
+0.0.0.0 adsafety.net

@@ -6468,3 +6468,4 @@ $removeparam=afftrack
 ||carto.com^
 ||nutiteq.com^
 ||calldorado.com^
+||buzzvil.atlassian.net^

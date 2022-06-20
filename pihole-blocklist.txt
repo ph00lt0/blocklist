@@ -6233,3 +6233,6 @@
 0.0.0.0 sensorsdata.com
 0.0.0.0 sentiance.com
 0.0.0.0 shallwead.com
+0.0.0.0 dk.shopkick.com
+0.0.0.0 shopkick.com
+0.0.0.0 shopkick.de

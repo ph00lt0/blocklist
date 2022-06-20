@@ -6304,3 +6304,6 @@ $removeparam=afftrack
 ||sensorsdata.com^
 ||sentiance.com^
 ||shallwead.com^
+||dk.shopkick.com^
+||shopkick.com^
+||shopkick.de^

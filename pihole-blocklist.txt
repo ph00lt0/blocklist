@@ -6713,3 +6713,4 @@
 0.0.0.0 cdn.paritydeals.com
 0.0.0.0 geoip-api.skypicker.com
 ! allow plexus-prod.skypicker.com reason: Required
+0.0.0.0 finance-launchpad.skypicker.com

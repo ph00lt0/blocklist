@@ -6128,3 +6128,4 @@
 0.0.0.0 stat.qq.com
 0.0.0.0 mta.qq.com
 0.0.0.0 lbs.qq.com
+0.0.0.0 telequid.com

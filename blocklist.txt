@@ -6315,3 +6315,4 @@ $removeparam=afftrack
 ||singlespot.com^
 ||singular.net^
 ||skplanet.com^
+||smaato.net^

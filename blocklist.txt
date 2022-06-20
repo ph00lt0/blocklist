@@ -6370,3 +6370,4 @@ $removeparam=afftrack
 ||moodpresence.com^
 ||moengage.com^
 ||api.moengage.com^
+||apiv2.moengage.com^

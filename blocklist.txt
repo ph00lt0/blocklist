@@ -5386,3 +5386,4 @@ $removeparam=afftrack
 ||kervit.com^
 ||lifesight.io^
 ||wunderkind.co^
+||optomaton.com^

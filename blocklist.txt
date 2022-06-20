@@ -6314,3 +6314,4 @@ $removeparam=afftrack
 ||54.243.73.253^
 ||singlespot.com^
 ||singular.net^
+||skplanet.com^

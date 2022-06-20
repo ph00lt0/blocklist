@@ -5389,3 +5389,4 @@ $removeparam=afftrack
 ||optomaton.com^
 ||twiago.com^
 ||adsafety.net^
+||impactify.io^

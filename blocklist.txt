@@ -5416,3 +5416,4 @@ $removeparam=afftrack
 ||b2bmg.com^
 ||targetspot.com^
 ||adelement.com^
+||taptapdigital.com^

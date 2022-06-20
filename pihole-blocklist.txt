@@ -5345,3 +5345,4 @@
 0.0.0.0 b2bmg.com
 0.0.0.0 targetspot.com
 0.0.0.0 adelement.com
+0.0.0.0 taptapdigital.com

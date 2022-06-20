@@ -6256,3 +6256,4 @@ $removeparam=afftrack
 ||va.origin.startappservice.com^
 ||event.split.io^
 ||sdk.split.io^
+||soom.la^

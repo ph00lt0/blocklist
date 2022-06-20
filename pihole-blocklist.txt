@@ -6188,4 +6188,3 @@
 0.0.0.0 soom.la
 0.0.0.0 is.com
 0.0.0.0 soomla.com
-0.0.0.0 adsrvr.org,akamai.smartadserver.com,cdn1.smartadserver.com,diff2.smartadserver.com,diff3.smartadserver.com,diff.smartadserver.com,eqx.smartadserver.com,gallery.smartadserver.com,im2.smartadserver.com,insight.adsrvr.org,itx5-publicidad.smartadserver.com,itx5.smartadserver.com,js.adsrvr.org,match.adsrvr.org,preview.smartadserver.com,rtb-csync.smartadserver.com,saspreview.com,smartadserver.com,smartadserver.ru,tmk.smartadserver.com,usw-lax.adsrvr.org

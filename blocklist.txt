@@ -6125,3 +6125,4 @@ $removeparam=afftrack
 ||analytics.zoho.com^
 ||zendrive.com^
 ||zapr.in^
+||youappi.com^

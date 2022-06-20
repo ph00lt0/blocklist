@@ -6213,3 +6213,4 @@ $removeparam=afftrack
 ||ads.tapdaq.com^
 ||evt.tamoco.com^
 ||tamoco.com^
+||account.talkingdata.com,av1.xdrig.com,cloud.xdrig.com,m.talkingdata.com,push.xdrig.com^

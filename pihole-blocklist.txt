@@ -6451,3 +6451,4 @@
 0.0.0.0 adincube.com
 0.0.0.0 supership.jp
 0.0.0.0 adgem.com
+0.0.0.0 adgatemedia.com

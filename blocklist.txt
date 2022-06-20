@@ -6523,3 +6523,4 @@ $removeparam=afftrack
 ||supership.jp^
 ||adgem.com^
 ||adgatemedia.com^
+||adfalcon.com^

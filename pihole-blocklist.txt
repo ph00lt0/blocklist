@@ -6264,3 +6264,4 @@
 0.0.0.0 pokkt.com
 0.0.0.0 pointinside.com
 0.0.0.0 plexure.com
+0.0.0.0 playtestcloud.com

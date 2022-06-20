@@ -6783,4 +6783,4 @@ $removeparam=afftrack
 ||nedstatbasic.net^
 ||cdn.paritydeals.com^
 ||geoip-api.skypicker.com^
-||plexus-prod.skypicker.com^
+@@||plexus-prod.skypicker.com^  # Required

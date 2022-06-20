@@ -6459,3 +6459,4 @@ $removeparam=afftrack
 ||conversantmedia.com^
 ||comscore.com^
 ||colocator.net^
+||wzrkt.com^

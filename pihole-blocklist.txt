@@ -6388,3 +6388,4 @@
 0.0.0.0 conversantmedia.com
 0.0.0.0 comscore.com
 0.0.0.0 colocator.net
+0.0.0.0 wzrkt.com

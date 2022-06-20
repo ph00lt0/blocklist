@@ -5324,3 +5324,4 @@
 0.0.0.0 betterbanners.com
 0.0.0.0 bandsintown.com
 0.0.0.0 audio-cc.com
+0.0.0.0 mindful.ly

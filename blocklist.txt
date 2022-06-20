@@ -5395,3 +5395,4 @@ $removeparam=afftrack
 ||betterbanners.com^
 ||bandsintown.com^
 ||audio-cc.com^
+||mindful.ly^

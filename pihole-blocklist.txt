@@ -6422,3 +6422,4 @@
 0.0.0.0 apptentive.com
 0.0.0.0 appsee.com
 0.0.0.0 appodealstack.com
+0.0.0.0 appnexus.com

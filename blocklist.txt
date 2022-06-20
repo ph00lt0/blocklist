@@ -6493,3 +6493,4 @@ $removeparam=afftrack
 ||apptentive.com^
 ||appsee.com^
 ||appodealstack.com^
+||appnexus.com^

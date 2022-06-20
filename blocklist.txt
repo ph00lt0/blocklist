@@ -6312,3 +6312,4 @@ $removeparam=afftrack
 ||silverpush.co^
 ||silverpush.com^
 ||54.243.73.253^
+||singlespot.com^

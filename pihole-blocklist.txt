@@ -6241,3 +6241,4 @@
 0.0.0.0 silverpush.co
 0.0.0.0 silverpush.com
 0.0.0.0 54.243.73.253
+0.0.0.0 singlespot.com

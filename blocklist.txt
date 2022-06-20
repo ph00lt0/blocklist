@@ -6348,3 +6348,4 @@ $removeparam=afftrack
 ||rtb.persona.ly^
 ||sdk.persona.ly^
 ||pangleglobal.com^
+||deliver.oztam.com.au^

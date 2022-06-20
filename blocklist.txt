@@ -5394,3 +5394,4 @@ $removeparam=afftrack
 ||dynamic-tracking.com^
 ||betterbanners.com^
 ||bandsintown.com^
+||audio-cc.com^

@@ -6316,3 +6316,4 @@
 0.0.0.0 www.lenddo.com
 0.0.0.0 lenddo.com
 0.0.0.0 kontakt.io
+0.0.0.0 kissmetricshq.com

@@ -6205,3 +6205,4 @@ $removeparam=afftrack
 ||tapstream.com^
 ||tapresearch.com^
 ||tappx.com^
+||api.taplytics.com^

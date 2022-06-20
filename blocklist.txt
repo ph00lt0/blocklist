@@ -5397,3 +5397,4 @@ $removeparam=afftrack
 ||audio-cc.com^
 ||mindful.ly^
 ||datmean.com^
+||goldbach.com^

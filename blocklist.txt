@@ -5404,3 +5404,4 @@ $removeparam=afftrack
 ||infiniamobile.com^
 ||admixer.com^
 ||sunmedia.tv^
+||adswizz.com^

@@ -5333,3 +5333,4 @@
 0.0.0.0 infiniamobile.com
 0.0.0.0 admixer.com
 0.0.0.0 sunmedia.tv
+0.0.0.0 adswizz.com

@@ -6356,3 +6356,4 @@ $removeparam=afftrack
 ||openback.com^
 ||ooyala.com^
 ||oneaudience.com^
+||presage.io^

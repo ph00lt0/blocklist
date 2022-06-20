@@ -6467,3 +6467,4 @@ $removeparam=afftrack
 ||chartboost.com^
 ||carto.com^
 ||nutiteq.com^
+||calldorado.com^

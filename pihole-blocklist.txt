@@ -6400,3 +6400,4 @@
 0.0.0.0 buzzvil.atlassian.net
 0.0.0.0 buzzvil.com
 0.0.0.0 usebutton.com
+0.0.0.0 bugsense.com

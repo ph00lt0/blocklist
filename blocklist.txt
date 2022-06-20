@@ -6471,3 +6471,4 @@ $removeparam=afftrack
 ||buzzvil.atlassian.net^
 ||buzzvil.com^
 ||usebutton.com^
+||bugsense.com^

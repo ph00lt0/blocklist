@@ -5343,3 +5343,4 @@
 0.0.0.0 carbonrmp.com
 0.0.0.0 delivered-by-madington.com
 0.0.0.0 b2bmg.com
+0.0.0.0 targetspot.com

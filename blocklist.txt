@@ -6461,3 +6461,4 @@ $removeparam=afftrack
 ||colocator.net^
 ||wzrkt.com^
 ||clevertap.com^
+||tele.fm^

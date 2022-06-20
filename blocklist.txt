@@ -600,7 +600,7 @@
 ||fbcdn-sphotos-a-a.akamaihd.net^
 ||fbcdn-creative-a.akamaihd.net^
 ||fbexternal-a.akamaihd.net^
-||fbcdn-sphotos-b-a.akamaihd.net^
+@@||fbcdn-sphotos-b-a.akamaihd.net^  # Photos CDN
 ||fbcdn-sphotos-c-a.akamaihd.net^
 ||fbcdn-sphotos-d-a.akamaihd.net^
 ||fbcdn-sphotos-e-a.akamaihd.net^

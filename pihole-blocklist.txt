@@ -6711,3 +6711,4 @@
 0.0.0.0 m1.nedstatbasic.net
 0.0.0.0 nedstatbasic.net
 0.0.0.0 cdn.paritydeals.com
+0.0.0.0 geoip-api.skypicker.com

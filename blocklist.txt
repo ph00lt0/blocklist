@@ -6782,3 +6782,4 @@ $removeparam=afftrack
 ||m1.nedstatbasic.net^
 ||nedstatbasic.net^
 ||cdn.paritydeals.com^
+||geoip-api.skypicker.com^

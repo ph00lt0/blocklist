@@ -6070,3 +6070,4 @@
 0.0.0.0 wootric.com.herokudns.com,wootric.com
 0.0.0.0 widespace.com
 0.0.0.0 map.qq.com
+0.0.0.0 webtrends.com

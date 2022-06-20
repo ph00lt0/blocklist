@@ -6141,3 +6141,4 @@ $removeparam=afftrack
 ||wootric.com.herokudns.com,wootric.com^
 ||widespace.com^
 ||map.qq.com^
+||webtrends.com^

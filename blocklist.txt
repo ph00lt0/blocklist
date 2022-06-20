@@ -6362,3 +6362,4 @@ $removeparam=afftrack
 ||nexage.com^
 ||nativex.com^
 ||tracker-api.my.com^
+||tracker.my.com^

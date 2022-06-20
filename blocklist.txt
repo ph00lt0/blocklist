@@ -6318,3 +6318,4 @@ $removeparam=afftrack
 ||smaato.net^
 ||soma.smaato.net^
 ||smaato.com^
+||pyze.com^

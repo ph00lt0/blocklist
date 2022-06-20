@@ -6247,3 +6247,4 @@
 0.0.0.0 smaato.net
 0.0.0.0 soma.smaato.net
 0.0.0.0 smaato.com
+0.0.0.0 pyze.com

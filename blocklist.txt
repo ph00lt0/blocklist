@@ -5409,3 +5409,4 @@ $removeparam=afftrack
 ||dataexchanger.pl^
 ||shinystat.com^
 ||playground.xyz^
+||opinary.com^

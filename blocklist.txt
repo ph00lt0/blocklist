@@ -6130,3 +6130,7 @@ $removeparam=afftrack
 ||yinzcam.com^
 ||yoc-performance.com^
 ||analytics.yinzcam.com^
+||banners-slb.mobile.yandex.net^
+||banners.mobile.yandex.net^
+||report.appmetrica.yandex.net^
+||startup.mobile.yandex.net^

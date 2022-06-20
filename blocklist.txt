@@ -6120,3 +6120,4 @@ $removeparam=afftrack
 ||plug.it^
 ||audienceproject.com^
 ||adbility-media.com^
+||analytics.tacticaltech.org^

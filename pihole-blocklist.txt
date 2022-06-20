@@ -6710,3 +6710,4 @@
 0.0.0.0 thisiswaldo.com
 0.0.0.0 m1.nedstatbasic.net
 0.0.0.0 nedstatbasic.net
+0.0.0.0 cdn.paritydeals.com

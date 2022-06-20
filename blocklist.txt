@@ -6781,3 +6781,4 @@ $removeparam=afftrack
 ||thisiswaldo.com^
 ||m1.nedstatbasic.net^
 ||nedstatbasic.net^
+||cdn.paritydeals.com^

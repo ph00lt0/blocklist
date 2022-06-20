@@ -6168,3 +6168,4 @@ $removeparam=afftrack
 ||verify.uxcam.com^
 ||uxcam.com^
 ||userexperior.com^
+||device-api.urbanairship.com,urbanairship.com^

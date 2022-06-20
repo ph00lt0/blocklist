@@ -6097,3 +6097,4 @@
 0.0.0.0 verify.uxcam.com
 0.0.0.0 uxcam.com
 0.0.0.0 userexperior.com
+0.0.0.0 device-api.urbanairship.com,urbanairship.com

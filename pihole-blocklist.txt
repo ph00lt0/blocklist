@@ -6168,3 +6168,4 @@
 0.0.0.0 v.ssacdn.com
 0.0.0.0 www.supersonicads.com
 0.0.0.0 superawesome.tv
+0.0.0.0 superawesome.com

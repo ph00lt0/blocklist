@@ -6239,3 +6239,4 @@ $removeparam=afftrack
 ||v.ssacdn.com^
 ||www.supersonicads.com^
 ||superawesome.tv^
+||superawesome.com^

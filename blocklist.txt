@@ -5398,3 +5398,4 @@ $removeparam=afftrack
 ||mindful.ly^
 ||datmean.com^
 ||goldbach.com^
+||localsensor.com^

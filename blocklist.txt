@@ -6460,3 +6460,4 @@ $removeparam=afftrack
 ||comscore.com^
 ||colocator.net^
 ||wzrkt.com^
+||clevertap.com^

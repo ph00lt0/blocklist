@@ -6398,3 +6398,4 @@
 0.0.0.0 nutiteq.com
 0.0.0.0 calldorado.com
 0.0.0.0 buzzvil.atlassian.net
+0.0.0.0 buzzvil.com

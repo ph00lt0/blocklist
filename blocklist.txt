@@ -6450,3 +6450,4 @@ $removeparam=afftrack
 ||dov-e.com^
 ||display.io^
 ||didomi.io^
+||deltadna.net^

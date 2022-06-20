@@ -6410,3 +6410,4 @@ $removeparam=afftrack
 ||acoustic.co^
 ||iabtechlab.com^
 ||hyprmx.com^
+||huq.io^

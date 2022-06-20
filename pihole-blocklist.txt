@@ -5311,3 +5311,4 @@
 0.0.0.0 kayzen.io
 0.0.0.0 mirando.de
 0.0.0.0 arkeero.com
+0.0.0.0 whatrocks.co

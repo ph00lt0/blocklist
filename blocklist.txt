@@ -5382,3 +5382,4 @@ $removeparam=afftrack
 ||kayzen.io^
 ||mirando.de^
 ||arkeero.com^
+||whatrocks.co^

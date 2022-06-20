@@ -6406,3 +6406,4 @@ $removeparam=afftrack
 ||inrix.com^
 ||inneractive.com^
 ||inlocomedia.com^
+||indooratlas.com^

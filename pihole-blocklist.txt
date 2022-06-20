@@ -6141,3 +6141,4 @@
 0.0.0.0 tapdaq.com
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 evt.tamoco.com
+0.0.0.0 tamoco.com

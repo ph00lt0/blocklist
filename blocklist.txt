@@ -6212,3 +6212,4 @@ $removeparam=afftrack
 ||tapdaq.com^
 ||ads.tapdaq.com^
 ||evt.tamoco.com^
+||tamoco.com^

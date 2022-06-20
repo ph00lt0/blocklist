@@ -605,7 +605,7 @@
 @@||fbcdn-sphotos-d-a.akamaihd.net^  # Photos CDN
 @@||fbcdn-sphotos-e-a.akamaihd.net^  # Photos CDN
 @@||fbcdn-sphotos-f-a.akamaihd.net^  # Photos CDN
-||fbcdn-sphotos-g-a.akamaihd.net^
+@@||fbcdn-sphotos-g-a.akamaihd.net^  # Photos CDN
 ||fbcdn-sphotos-h-a.akamaihd.net^
 ||fbcdn-sphotos-i-a.akamaihd.net^
 ||fbcdn-sphotos-j-a.akamaihd.net^

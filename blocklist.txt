@@ -6142,3 +6142,4 @@ $removeparam=afftrack
 ||widespace.com^
 ||map.qq.com^
 ||webtrends.com^
+||dc.webtrends.com^

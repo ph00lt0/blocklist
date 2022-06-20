@@ -6415,3 +6415,4 @@ $removeparam=afftrack
 ||hockeyapp.net^
 ||herow.io^
 ||helpshift.com^
+||heap.io^

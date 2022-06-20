@@ -6301,3 +6301,4 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 mocaplatform.com
+0.0.0.0 appcenter.ms

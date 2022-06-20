@@ -6308,3 +6308,4 @@ $removeparam=afftrack
 ||shopkick.com^
 ||shopkick.de^
 ||signal360.com^
+||sonicnotify.com^

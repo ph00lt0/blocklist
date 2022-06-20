@@ -6237,3 +6237,4 @@
 0.0.0.0 shopkick.com
 0.0.0.0 shopkick.de
 0.0.0.0 signal360.com
+0.0.0.0 sonicnotify.com

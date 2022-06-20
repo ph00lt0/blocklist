@@ -5373,3 +5373,4 @@ $removeparam=afftrack
 ||id.google.co.zm^
 ||id.google.co.zw^
 ||cognitivemarketing.tid.es^
+||digitaleast.mobi^

@@ -601,7 +601,7 @@
 0.0.0.0 fbexternal-a.akamaihd.net
 ! allow fbcdn-sphotos-b-a.akamaihd.net reason: Photos CDN
 ! allow fbcdn-sphotos-c-a.akamaihd.net reason: Photos CDN
-0.0.0.0 fbcdn-sphotos-d-a.akamaihd.net
+! allow fbcdn-sphotos-d-a.akamaihd.net reason: Photos CDN
 0.0.0.0 fbcdn-sphotos-e-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-f-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-g-a.akamaihd.net

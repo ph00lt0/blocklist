@@ -6169,5 +6169,4 @@
 0.0.0.0 www.supersonicads.com
 0.0.0.0 superawesome.tv
 0.0.0.0 superawesome.com
-0.0.0.0 c2i.startappnetwork.com,c2s.startappnetwork.com,click.startappservice.com,dts.startappservice.com,events.startappservice.com,images.startappservice.com,imp.startappservice.com,info.static.startappservice.com,init.startappservice.com,req.startappservice.com,soda.startappservice.com,startappservice.com,va.origin.startappservice.com
 0.0.0.0 beaconinside.com

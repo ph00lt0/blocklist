@@ -6089,3 +6089,4 @@
 0.0.0.0 ssl.vungle.com
 0.0.0.0 v.vungle.com
 0.0.0.0 vungle.com
+0.0.0.0 vpon.com

@@ -6473,3 +6473,4 @@ $removeparam=afftrack
 ||usebutton.com^
 ||bugsense.com^
 ||bugsee.com^
+||bugfender.com^

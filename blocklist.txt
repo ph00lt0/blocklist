@@ -6423,3 +6423,4 @@ $removeparam=afftrack
 ||gomfactory.com^
 ||glympse.com^
 ||geniee.co.jp^
+||gameanalytics.com^

@@ -6490,3 +6490,4 @@ $removeparam=afftrack
 ||beintoo.com^
 ||beaconsinspace.com^
 ||appvador.com^
+||apptentive.com^

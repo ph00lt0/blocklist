@@ -6330,3 +6330,4 @@ $removeparam=afftrack
 ||proximi.fi^
 ||predic.io^
 ||prebid.org^
+||www.pollfish.com^

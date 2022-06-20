@@ -6126,3 +6126,4 @@ $removeparam=afftrack
 ||zendrive.com^
 ||zapr.in^
 ||youappi.com^
+||yoadx.com^

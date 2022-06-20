@@ -6506,3 +6506,4 @@ $removeparam=afftrack
 ||amobee.com^
 ||amoad.com^
 ||amplifyframework.com^
+||altamob.com^

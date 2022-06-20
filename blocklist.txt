@@ -6350,3 +6350,4 @@ $removeparam=afftrack
 ||pangleglobal.com^
 ||deliver.oztam.com.au^
 ||opentelemetry.io^
+||opensignal.com^

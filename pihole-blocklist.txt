@@ -5307,3 +5307,4 @@
 0.0.0.0 truedata.co
 0.0.0.0 notify-group.com
 0.0.0.0 skaze.com
+0.0.0.0 Adserve.zone

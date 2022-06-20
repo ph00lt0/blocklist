@@ -5378,3 +5378,4 @@ $removeparam=afftrack
 ||truedata.co^
 ||notify-group.com^
 ||skaze.com^
+||Adserve.zone^

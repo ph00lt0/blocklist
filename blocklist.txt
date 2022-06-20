@@ -6128,3 +6128,4 @@ $removeparam=afftrack
 ||youappi.com^
 ||yoadx.com^
 ||yinzcam.com^
+||yoc-performance.com^

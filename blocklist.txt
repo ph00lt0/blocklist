@@ -6518,3 +6518,4 @@ $removeparam=afftrack
 ||admitad.com^
 ||adlocus.com^
 ||adlibr.com^
+||adjoe.io^

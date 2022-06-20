@@ -6447,3 +6447,4 @@
 0.0.0.0 admitad.com
 0.0.0.0 adlocus.com
 0.0.0.0 adlibr.com
+0.0.0.0 adjoe.io

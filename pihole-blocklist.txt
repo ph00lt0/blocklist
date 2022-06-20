@@ -6213,3 +6213,4 @@
 0.0.0.0 retency.com
 0.0.0.0 revealmobile.com
 0.0.0.0 rjfun.github.io
+0.0.0.0 roximity.com

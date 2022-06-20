@@ -6118,3 +6118,4 @@ $removeparam=afftrack
 ||aimage.it^
 ||dvr-cdn.aimage.it^
 ||plug.it^
+||audienceproject.com^

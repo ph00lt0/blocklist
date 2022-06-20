@@ -6510,3 +6510,4 @@ $removeparam=afftrack
 ||alphalytics.net^
 ||alimama.com^
 ||adsmogo.com^
+||adxcorp.kr^

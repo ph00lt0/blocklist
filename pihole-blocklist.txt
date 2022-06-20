@@ -6439,3 +6439,4 @@
 0.0.0.0 alphalytics.net
 0.0.0.0 alimama.com
 0.0.0.0 adsmogo.com
+0.0.0.0 adxcorp.kr

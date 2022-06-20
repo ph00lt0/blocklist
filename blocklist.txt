@@ -6316,3 +6316,4 @@ $removeparam=afftrack
 ||singular.net^
 ||skplanet.com^
 ||smaato.net^
+||soma.smaato.net^

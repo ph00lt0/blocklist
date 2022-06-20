@@ -5948,7 +5948,7 @@
 0.0.0.0 docs.prebid.org
 0.0.0.0 www.gadsme.com
 0.0.0.0 www.admo.tv
-0.0.0.0 docs.roku.com
+! allow docs.roku.com reason: Not a tracker
 0.0.0.0 channelpilot.co.uk
 0.0.0.0 bealion.com
 0.0.0.0 www.geoprove.io

@@ -6019,7 +6019,7 @@ $removeparam=afftrack
 ||docs.prebid.org^
 ||www.gadsme.com^
 ||www.admo.tv^
-||docs.roku.com^
+@@||docs.roku.com^  # Not a tracker
 ||channelpilot.co.uk^
 ||bealion.com^
 ||www.geoprove.io^

@@ -6294,3 +6294,4 @@
 0.0.0.0 tracker.my.com
 0.0.0.0 target.my.com
 0.0.0.0 mparticle.com
+0.0.0.0 moodmedia.com.au

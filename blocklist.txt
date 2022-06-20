@@ -6327,3 +6327,4 @@ $removeparam=afftrack
 ||simage2.pubmatic.com^
 ||proximi.io^
 ||api.proximi.fi^
+||proximi.fi^

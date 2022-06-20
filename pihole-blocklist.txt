@@ -5467,7 +5467,7 @@
 0.0.0.0 v3.adhood.com
 0.0.0.0 www.rms.de
 0.0.0.0 drbanner.com
-0.0.0.0 www.adobe.com
+! allow www.adobe.com reason: Not just tracking company
 0.0.0.0 viewpay.tv
 0.0.0.0 www.cpex.cz
 0.0.0.0 www.otto.de

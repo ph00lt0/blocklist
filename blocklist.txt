@@ -5538,7 +5538,7 @@ $removeparam=afftrack
 ||v3.adhood.com^
 ||www.rms.de^
 ||drbanner.com^
-||www.adobe.com^
+@@||www.adobe.com^  # Not just tracking company
 ||viewpay.tv^
 ||www.cpex.cz^
 ||www.otto.de^

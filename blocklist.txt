@@ -6453,3 +6453,4 @@ $removeparam=afftrack
 ||deltadna.net^
 ||deltadna.com^
 ||cuebiq.com^
+||count.ly^

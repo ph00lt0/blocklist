@@ -6269,3 +6269,4 @@
 0.0.0.0 placed.com
 0.0.0.0 pingstart.com
 0.0.0.0 pincrux.com
+0.0.0.0 sdk.foursquare.com

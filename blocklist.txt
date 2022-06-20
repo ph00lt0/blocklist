@@ -6340,3 +6340,4 @@ $removeparam=afftrack
 ||placed.com^
 ||pingstart.com^
 ||pincrux.com^
+||sdk.foursquare.com^

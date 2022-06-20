@@ -6280,3 +6280,4 @@
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 opentelemetry.io
 0.0.0.0 opensignal.com
+0.0.0.0 safegraph.com

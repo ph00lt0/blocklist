@@ -6351,3 +6351,4 @@ $removeparam=afftrack
 ||deliver.oztam.com.au^
 ||opentelemetry.io^
 ||opensignal.com^
+||safegraph.com^

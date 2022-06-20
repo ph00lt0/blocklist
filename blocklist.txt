@@ -6386,3 +6386,4 @@ $removeparam=afftrack
 ||partner-service.link^
 ||www.lenddo.com^
 ||lenddo.com^
+||kontakt.io^

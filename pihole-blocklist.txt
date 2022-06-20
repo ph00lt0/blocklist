@@ -6391,3 +6391,4 @@
 0.0.0.0 wzrkt.com
 0.0.0.0 clevertap.com
 0.0.0.0 tele.fm
+0.0.0.0 actv8me.com

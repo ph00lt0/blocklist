@@ -6361,3 +6361,4 @@ $removeparam=afftrack
 ||nielsen.com^
 ||nexage.com^
 ||nativex.com^
+||tracker-api.my.com^

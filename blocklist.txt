@@ -6424,3 +6424,4 @@ $removeparam=afftrack
 ||glympse.com^
 ||geniee.co.jp^
 ||gameanalytics.com^
+||fwmrm.net^

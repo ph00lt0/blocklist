@@ -6230,3 +6230,4 @@
 0.0.0.0 www.sensoro.com
 0.0.0.0 sensoro.com
 0.0.0.0 www.sensorsdata.cn
+0.0.0.0 sensorsdata.com

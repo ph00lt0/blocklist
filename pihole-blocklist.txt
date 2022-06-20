@@ -5328,3 +5328,4 @@
 0.0.0.0 datmean.com
 0.0.0.0 goldbach.com
 0.0.0.0 localsensor.com
+0.0.0.0 sourcepoint.com

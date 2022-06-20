@@ -5399,3 +5399,4 @@ $removeparam=afftrack
 ||datmean.com^
 ||goldbach.com^
 ||localsensor.com^
+||sourcepoint.com^

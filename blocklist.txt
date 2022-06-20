@@ -6448,3 +6448,4 @@ $removeparam=afftrack
 ||duapps.com^
 ||ad.duapps.com^
 ||dov-e.com^
+||display.io^

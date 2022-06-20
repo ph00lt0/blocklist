@@ -6218,3 +6218,4 @@ $removeparam=afftrack
 ||cloud.xdrig.com^
 ||m.talkingdata.com^
 ||push.xdrig.com^
+||talkingdata.com^

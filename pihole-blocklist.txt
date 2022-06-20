@@ -6147,3 +6147,4 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 m.talkingdata.com
 0.0.0.0 push.xdrig.com
+0.0.0.0 talkingdata.com

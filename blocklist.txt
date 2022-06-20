@@ -6096,7 +6096,7 @@ $removeparam=afftrack
 ||adara.com^
 ||www.reppublika.com^
 ||bannernow.com^
-||www.linkedin.com^
+@@||www.linkedin.com^  # CompanyCompany domain
 ||site.adform.com^
 ||adgear.com^
 ||reg.tiscali.cz^

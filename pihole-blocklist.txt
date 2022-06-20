@@ -6025,7 +6025,7 @@
 0.0.0.0 adara.com
 0.0.0.0 www.reppublika.com
 0.0.0.0 bannernow.com
-0.0.0.0 www.linkedin.com
+! allow www.linkedin.com reason: CompanyCompany domain
 0.0.0.0 site.adform.com
 0.0.0.0 adgear.com
 0.0.0.0 reg.tiscali.cz

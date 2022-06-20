@@ -6195,3 +6195,4 @@ $removeparam=afftrack
 ||etl.tindersparks.com^
 ||thinkingdata.cn^
 ||tenjin.com^
+||weiyun.com^

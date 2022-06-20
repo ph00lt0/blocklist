@@ -6283,3 +6283,4 @@ $removeparam=afftrack
 ||repro.io^
 ||retency.com^
 ||revealmobile.com^
+||rjfun.github.io^

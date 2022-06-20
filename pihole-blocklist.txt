@@ -6415,3 +6415,4 @@
 0.0.0.0 zippyfrog.co
 0.0.0.0 profitwell.com
 0.0.0.0 public.profitwell.com
+0.0.0.0 bidmachine.io

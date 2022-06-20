@@ -6486,3 +6486,4 @@ $removeparam=afftrack
 ||zippyfrog.co^
 ||profitwell.com^
 ||public.profitwell.com^
+||bidmachine.io^

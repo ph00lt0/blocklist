@@ -6354,3 +6354,4 @@ $removeparam=afftrack
 ||safegraph.com^
 ||api.safegraph.com^
 ||openback.com^
+||ooyala.com^

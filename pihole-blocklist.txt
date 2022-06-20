@@ -6387,3 +6387,4 @@
 0.0.0.0 .cooladata.com
 0.0.0.0 conversantmedia.com
 0.0.0.0 comscore.com
+0.0.0.0 colocator.net

@@ -598,7 +598,7 @@
 @@||fbstatic-a.akamaihd.net^  # CDN
 @@||fbcdn-profile-a.akamaihd.net^  # CDN
 @@||fbcdn-sphotos-a-a.akamaihd.net^  # CDN
-||fbcdn-creative-a.akamaihd.net^
+@@||fbcdn-creative-a.akamaihd.net^  # CDN
 ||fbexternal-a.akamaihd.net^
 @@||fbcdn-sphotos-b-a.akamaihd.net^  # Photos CDN
 @@||fbcdn-sphotos-c-a.akamaihd.net^  # Photos CDN

@@ -6109,3 +6109,8 @@
 0.0.0.0 stats.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 umeng.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alogs.umeng.com
+0.0.0.0 ar.umeng.com
+0.0.0.0 oc.umeng.com
+0.0.0.0 uop.umeng.com

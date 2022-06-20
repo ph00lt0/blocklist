@@ -6180,3 +6180,8 @@ $removeparam=afftrack
 ||stats.unity3d.com^
 ||webview.unityads.unity3d.com^
 ||umeng.com^
+||alog.umeng.com^
+||alogs.umeng.com^
+||ar.umeng.com^
+||oc.umeng.com^
+||uop.umeng.com^

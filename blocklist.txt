@@ -6117,3 +6117,4 @@ $removeparam=afftrack
 ||wips.plug.it^
 ||aimage.it^
 ||dvr-cdn.aimage.it^
+||plug.it^

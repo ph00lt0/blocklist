@@ -6124,3 +6124,4 @@ $removeparam=afftrack
 ||.yume.com^
 ||analytics.zoho.com^
 ||zendrive.com^
+||zapr.in^

@@ -6072,3 +6072,4 @@
 0.0.0.0 map.qq.com
 0.0.0.0 webtrends.com
 0.0.0.0 dc.webtrends.com
+0.0.0.0 webtrekk.com

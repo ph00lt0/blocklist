@@ -6357,3 +6357,4 @@ $removeparam=afftrack
 ||ooyala.com^
 ||oneaudience.com^
 ||presage.io^
+||offertoro.com^

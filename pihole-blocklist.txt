@@ -6006,7 +6006,7 @@
 0.0.0.0 www.xxxlutz.de
 0.0.0.0 privacy.centro.net
 0.0.0.0 dstillery.com
-0.0.0.0 www.facebook.com
+! allow www.facebook.com reason: Social media company
 0.0.0.0 www.ibm.com
 0.0.0.0 www.kobler.no
 0.0.0.0 www.metrixlab.com

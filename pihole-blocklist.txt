@@ -6119,3 +6119,4 @@
 0.0.0.0 tusdk.com
 0.0.0.0 tutucloud.com
 0.0.0.0 tutela.com
+0.0.0.0 treasuredata.com

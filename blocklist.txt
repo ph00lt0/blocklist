@@ -6488,3 +6488,4 @@ $removeparam=afftrack
 ||public.profitwell.com^
 ||bidmachine.io^
 ||beintoo.com^
+||beaconsinspace.com^

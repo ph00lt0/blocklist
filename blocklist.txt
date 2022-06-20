@@ -5415,3 +5415,4 @@ $removeparam=afftrack
 ||delivered-by-madington.com^
 ||b2bmg.com^
 ||targetspot.com^
+||adelement.com^

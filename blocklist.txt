@@ -6526,3 +6526,4 @@ $removeparam=afftrack
 ||adfalcon.com^
 ||aatkit.com^
 ||addapptr.com^
+||adcenix.com^

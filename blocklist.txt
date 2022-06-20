@@ -6165,3 +6165,4 @@ $removeparam=afftrack
 ||sdk.verizonmedia.com^
 ||veloxity.net^
 ||chocolateplatform.com^
+||verify.uxcam.com^

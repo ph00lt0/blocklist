@@ -6311,3 +6311,4 @@
 0.0.0.0 loggly.com
 0.0.0.0 locuslabs.com
 0.0.0.0 lisnr.com
+0.0.0.0 ligatus.com

@@ -6382,3 +6382,4 @@ $removeparam=afftrack
 ||loggly.com^
 ||locuslabs.com^
 ||lisnr.com^
+||ligatus.com^

@@ -6007,7 +6007,7 @@
 0.0.0.0 privacy.centro.net
 0.0.0.0 dstillery.com
 ! allow www.facebook.com reason: Social media company
-0.0.0.0 www.ibm.com
+! allow www.ibm.com reason: company domain
 0.0.0.0 www.kobler.no
 0.0.0.0 www.metrixlab.com
 0.0.0.0 mktsci.com

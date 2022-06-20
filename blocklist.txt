@@ -6078,7 +6078,7 @@ $removeparam=afftrack
 ||privacy.centro.net^
 ||dstillery.com^
 @@||www.facebook.com^  # Social media company
-||www.ibm.com^
+@@||www.ibm.com^  # company domain
 ||www.kobler.no^
 ||www.metrixlab.com^
 ||mktsci.com^

@@ -6515,3 +6515,4 @@ $removeparam=afftrack
 ||adpopcorn.com^
 ||admuing.com^
 ||admost.com^
+||admitad.com^

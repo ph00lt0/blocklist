@@ -6444,3 +6444,4 @@
 0.0.0.0 adpopcorn.com
 0.0.0.0 admuing.com
 0.0.0.0 admost.com
+0.0.0.0 admitad.com

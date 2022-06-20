@@ -5976,7 +5976,7 @@
 0.0.0.0 www.vitrado.de
 0.0.0.0 adverty.com
 0.0.0.0 42ads.io
-0.0.0.0 www.amazon.co.uk
+! allow www.amazon.co.uk reason: Not a tracker
 0.0.0.0 abtshield.com
 0.0.0.0 www.adn.ai
 0.0.0.0 www.aniview.com

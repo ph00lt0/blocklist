@@ -6047,7 +6047,7 @@ $removeparam=afftrack
 ||www.vitrado.de^
 ||adverty.com^
 ||42ads.io^
-||www.amazon.co.uk^
+@@||www.amazon.co.uk^  # Not a tracker
 ||abtshield.com^
 ||www.adn.ai^
 ||www.aniview.com^

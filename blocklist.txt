@@ -6170,3 +6170,12 @@ $removeparam=afftrack
 ||userexperior.com^
 ||device-api.urbanairship.com,urbanairship.com^
 ||upsight.com^
+||adserver.unityads.unity3d.com^
+||analytics.social.unity.com^
+||api.uca.cloud.unity3d.com^
+||cdn-highwinds.unityads.unity3d.com^
+||cdn.unityads.unity3d.com^
+||config.uca.cloud.unity3d.com^
+||config.unityads.unity3d.com^
+||stats.unity3d.com^
+||webview.unityads.unity3d.com^

@@ -6457,3 +6457,4 @@ $removeparam=afftrack
 ||measurementsys.com^
 ||.cooladata.com^
 ||conversantmedia.com^
+||comscore.com^

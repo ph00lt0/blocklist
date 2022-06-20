@@ -5791,7 +5791,7 @@ $removeparam=afftrack
 ||programmatic.natexo.com^
 ||service.dpa-infocom.de^
 ||www.snigel.com^
-||www.ab-inbev.com^
+@@||www.ab-inbev.com^  # Not a tracker
 ||tacs.c0nnectthed0ts.com^
 ||www.prequel.tv^
 ||www.citiservimedia.com^

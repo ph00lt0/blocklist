@@ -5720,7 +5720,7 @@
 0.0.0.0 programmatic.natexo.com
 0.0.0.0 service.dpa-infocom.de
 0.0.0.0 www.snigel.com
-0.0.0.0 www.ab-inbev.com
+! allow www.ab-inbev.com reason: Not a tracker
 0.0.0.0 tacs.c0nnectthed0ts.com
 0.0.0.0 www.prequel.tv
 0.0.0.0 www.citiservimedia.com

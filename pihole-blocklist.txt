@@ -6705,3 +6705,4 @@
 0.0.0.0 mobvista.com
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 ad.plus
+0.0.0.0 cdn.ad.plus

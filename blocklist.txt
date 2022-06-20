@@ -5379,3 +5379,4 @@ $removeparam=afftrack
 ||notify-group.com^
 ||skaze.com^
 ||Adserve.zone^
+||kayzen.io^

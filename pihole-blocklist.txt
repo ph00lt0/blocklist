@@ -6170,3 +6170,16 @@
 0.0.0.0 superawesome.tv
 0.0.0.0 superawesome.com
 0.0.0.0 beaconinside.com
+0.0.0.0 c2i.startappnetwork.com
+0.0.0.0 c2s.startappnetwork.com
+0.0.0.0 click.startappservice.com
+0.0.0.0 dts.startappservice.com
+0.0.0.0 events.startappservice.com
+0.0.0.0 images.startappservice.com
+0.0.0.0 imp.startappservice.com
+0.0.0.0 info.static.startappservice.com
+0.0.0.0 init.startappservice.com
+0.0.0.0 req.startappservice.com
+0.0.0.0 soda.startappservice.com
+0.0.0.0 startappservice.com
+0.0.0.0 va.origin.startappservice.com

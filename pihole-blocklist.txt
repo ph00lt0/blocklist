@@ -6707,3 +6707,4 @@
 0.0.0.0 ad.plus
 0.0.0.0 cdn.ad.plus
 0.0.0.0 cdn.thisiswaldo.com
+0.0.0.0 thisiswaldo.com

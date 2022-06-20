@@ -6778,3 +6778,4 @@ $removeparam=afftrack
 ||ad.plus^
 ||cdn.ad.plus^
 ||cdn.thisiswaldo.com^
+||thisiswaldo.com^

@@ -6334,3 +6334,4 @@ $removeparam=afftrack
 ||pollfish.com^
 ||pokkt.com^
 ||pointinside.com^
+||plexure.com^

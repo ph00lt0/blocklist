@@ -6163,3 +6163,4 @@ $removeparam=afftrack
 ||vpon.com^
 ||virgomobile.com^
 ||sdk.verizonmedia.com^
+||veloxity.net^

@@ -6092,3 +6092,4 @@
 0.0.0.0 vpon.com
 0.0.0.0 virgomobile.com
 0.0.0.0 sdk.verizonmedia.com
+0.0.0.0 veloxity.net

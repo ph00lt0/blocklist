@@ -6530,3 +6530,4 @@ $removeparam=afftrack
 ||adcash.com^
 ||adbuddiz.com^
 ||ad4screen.com^
+||actv8technologies.com^

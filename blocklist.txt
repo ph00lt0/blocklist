@@ -6373,3 +6373,4 @@ $removeparam=afftrack
 ||apiv2.moengage.com^
 ||mocaplatform.com^
 ||appcenter.ms^
+||metrics.dropwizard.io^

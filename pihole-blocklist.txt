@@ -6302,3 +6302,4 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 mocaplatform.com
 0.0.0.0 appcenter.ms
+0.0.0.0 metrics.dropwizard.io

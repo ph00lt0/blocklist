@@ -6258,3 +6258,4 @@ $removeparam=afftrack
 ||sdk.split.io^
 ||soom.la^
 ||is.com^
+||soomla.com^

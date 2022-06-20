@@ -6453,3 +6453,4 @@
 0.0.0.0 adgem.com
 0.0.0.0 adgatemedia.com
 0.0.0.0 adfalcon.com
+0.0.0.0 aatkit.com

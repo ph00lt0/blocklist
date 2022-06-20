@@ -6063,3 +6063,6 @@
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 api.myendpoint.io
+0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
+0.0.0.0 api.smartechmetrics.com

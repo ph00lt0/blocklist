@@ -6134,3 +6134,6 @@ $removeparam=afftrack
 ||banners.mobile.yandex.net^
 ||report.appmetrica.yandex.net^
 ||startup.mobile.yandex.net^
+||api.myendpoint.io^
+||bin5y4muil.execute-api.us-east-1.amazonaws.com^
+||api.smartechmetrics.com^

@@ -6210,3 +6210,4 @@ $removeparam=afftrack
 ||tapjoyads.com^
 ||5rocks.io^
 ||tapdaq.com^
+||ads.tapdaq.com^

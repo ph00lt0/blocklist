@@ -6149,3 +6149,4 @@
 0.0.0.0 push.xdrig.com
 0.0.0.0 talkingdata.com
 0.0.0.0 synerise.com
+0.0.0.0 sync2ad.com

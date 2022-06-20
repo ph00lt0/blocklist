@@ -6121,3 +6121,4 @@ $removeparam=afftrack
 ||audienceproject.com^
 ||adbility-media.com^
 ||analytics.tacticaltech.org^
+||.yume.com^

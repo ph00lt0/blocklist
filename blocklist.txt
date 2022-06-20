@@ -5391,3 +5391,4 @@ $removeparam=afftrack
 ||adsafety.net^
 ||impactify.io^
 ||webads.eu^
+||dynamic-tracking.com^

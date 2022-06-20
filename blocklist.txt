@@ -5390,3 +5390,4 @@ $removeparam=afftrack
 ||twiago.com^
 ||adsafety.net^
 ||impactify.io^
+||webads.eu^

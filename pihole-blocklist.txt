@@ -608,7 +608,7 @@
 ! allow fbcdn-sphotos-h-a.akamaihd.net reason: Photos CDN
 ! allow fbcdn-sphotos-i-a.akamaihd.net reason: Photos CDN
 ! allow fbcdn-sphotos-j-a.akamaihd.net reason: Photos CDN
-0.0.0.0 fbcdn-sphotos-k-a.akamaihd.net
+! allow fbcdn-sphotos-k-a.akamaihd.net reason: Photos CDN
 0.0.0.0 fbcdn-sphotos-l-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-m-a.akamaihd.net
 0.0.0.0 fbcdn-sphotos-n-a.akamaihd.net

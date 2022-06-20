@@ -6270,3 +6270,9 @@
 0.0.0.0 pingstart.com
 0.0.0.0 pincrux.com
 0.0.0.0 sdk.foursquare.com
+0.0.0.0 dev-api.persona.ly
+0.0.0.0 dev.dsp.persona.ly
+0.0.0.0 dev.persona.ly
+0.0.0.0 dsp.persona.ly
+0.0.0.0 rtb.persona.ly
+0.0.0.0 sdk.persona.ly

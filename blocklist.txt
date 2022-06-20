@@ -6341,3 +6341,9 @@ $removeparam=afftrack
 ||pingstart.com^
 ||pincrux.com^
 ||sdk.foursquare.com^
+||dev-api.persona.ly^
+||dev.dsp.persona.ly^
+||dev.persona.ly^
+||dsp.persona.ly^
+||rtb.persona.ly^
+||sdk.persona.ly^

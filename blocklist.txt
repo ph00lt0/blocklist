@@ -6366,3 +6366,4 @@ $removeparam=afftrack
 ||target.my.com^
 ||mparticle.com^
 ||moodmedia.com.au^
+||moodmedia.com^

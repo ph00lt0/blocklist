@@ -6295,3 +6295,6 @@ $removeparam=afftrack
 ||scandit.com^
 ||www.scoreloop.com^
 ||scoreloop.com^
+||android-quinoa-config-prod.sense360eng.com^
+||incoming-data-sense360.s3.amazonaws.com^
+||quinoa-personal-identify-prod.sense360eng.com^

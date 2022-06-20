@@ -5384,3 +5384,4 @@ $removeparam=afftrack
 ||arkeero.com^
 ||whatrocks.co^
 ||kervit.com^
+||lifesight.io^

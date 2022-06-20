@@ -6502,3 +6502,4 @@ $removeparam=afftrack
 ||anysdk.com^
 ||anvato.net^
 ||nicepeopleatwork.com^
+||anagog.com^

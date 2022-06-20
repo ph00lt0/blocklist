@@ -6328,3 +6328,4 @@ $removeparam=afftrack
 ||proximi.io^
 ||api.proximi.fi^
 ||proximi.fi^
+||predic.io^

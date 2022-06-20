@@ -6762,3 +6762,15 @@ $removeparam=afftrack
 ||us01.rayjump.com^
 ||marketo.com^
 ||mktoedge.com^
+||sdk.insert.io.^
+||sdk.pendo.io^
+||api.otherlevels.com^
+||geodata.otherlevels.com^
+||mdn.otherlevels.com^
+||rich.otherlevels.com^
+||tags.otherlevels.com^
+||ws.otherlevels.com^
+||us-ads.openx.net^
+||mobile-collector.newrelic.com^
+||api-device.mocaplatform.com^
+||mobvista.com^

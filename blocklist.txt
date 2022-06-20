@@ -6191,3 +6191,4 @@ $removeparam=afftrack
 ||tutucloud.com^
 ||tutela.com^
 ||treasuredata.com^
+||tnkfactory.com^

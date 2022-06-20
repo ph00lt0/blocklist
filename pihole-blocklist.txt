@@ -6120,3 +6120,4 @@
 0.0.0.0 tutucloud.com
 0.0.0.0 tutela.com
 0.0.0.0 treasuredata.com
+0.0.0.0 tnkfactory.com

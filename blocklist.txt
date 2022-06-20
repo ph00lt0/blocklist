@@ -6299,3 +6299,4 @@ $removeparam=afftrack
 ||incoming-data-sense360.s3.amazonaws.com^
 ||quinoa-personal-identify-prod.sense360eng.com^
 ||www.sensoro.com^
+||sensoro.com^

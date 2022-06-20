@@ -6501,3 +6501,4 @@ $removeparam=afftrack
 ||appanalytics.io^
 ||anysdk.com^
 ||anvato.net^
+||nicepeopleatwork.com^

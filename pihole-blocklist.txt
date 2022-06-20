@@ -6138,3 +6138,4 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 5rocks.io
+0.0.0.0 tapdaq.com

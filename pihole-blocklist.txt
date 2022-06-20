@@ -6367,3 +6367,4 @@
 0.0.0.0 flowsense.com
 0.0.0.0 fineboost.com
 0.0.0.0 yifants.cn
+0.0.0.0 fidzup.com

@@ -6438,3 +6438,4 @@ $removeparam=afftrack
 ||flowsense.com^
 ||fineboost.com^
 ||yifants.cn^
+||fidzup.com^

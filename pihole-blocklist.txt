@@ -5304,3 +5304,4 @@
 0.0.0.0 cognitivemarketing.tid.es
 0.0.0.0 digitaleast.mobi
 0.0.0.0 contentignite.com
+0.0.0.0 truedata.co

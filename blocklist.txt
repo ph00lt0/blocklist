@@ -5375,3 +5375,4 @@ $removeparam=afftrack
 ||cognitivemarketing.tid.es^
 ||digitaleast.mobi^
 ||contentignite.com^
+||truedata.co^

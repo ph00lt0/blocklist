@@ -6300,3 +6300,4 @@ $removeparam=afftrack
 ||quinoa-personal-identify-prod.sense360eng.com^
 ||www.sensoro.com^
 ||sensoro.com^
+||www.sensorsdata.cn^

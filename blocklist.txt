@@ -6400,3 +6400,4 @@ $removeparam=afftrack
 ||ironsrc.com^
 ||iqzone.com^
 ||ipqualityscore.com^
+||instreamatic.com^

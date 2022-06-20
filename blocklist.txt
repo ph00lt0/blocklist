@@ -6353,3 +6353,4 @@ $removeparam=afftrack
 ||opensignal.com^
 ||safegraph.com^
 ||api.safegraph.com^
+||openback.com^

@@ -6196,3 +6196,4 @@ $removeparam=afftrack
 ||thinkingdata.cn^
 ||tenjin.com^
 ||weiyun.com^
+||stat.qq.com^

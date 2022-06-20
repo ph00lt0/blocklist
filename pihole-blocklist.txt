@@ -6125,3 +6125,4 @@
 0.0.0.0 thinkingdata.cn
 0.0.0.0 tenjin.com
 0.0.0.0 weiyun.com
+0.0.0.0 stat.qq.com

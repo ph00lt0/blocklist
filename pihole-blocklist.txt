@@ -6126,3 +6126,4 @@
 0.0.0.0 tenjin.com
 0.0.0.0 weiyun.com
 0.0.0.0 stat.qq.com
+0.0.0.0 mta.qq.com

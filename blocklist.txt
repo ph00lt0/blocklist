@@ -6029,7 +6029,7 @@ $removeparam=afftrack
 ||www.fido.id^
 ||www.mobkoi.com^
 ||www.e-planning.net^
-||www.ebayinc.com^
+@@||www.ebayinc.com^  # Not a tracker
 ||www.advisible.com^
 ||www.studio-gong.de^
 ||www.eskimi.com^

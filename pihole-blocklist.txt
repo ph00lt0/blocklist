@@ -5958,7 +5958,7 @@
 0.0.0.0 www.fido.id
 0.0.0.0 www.mobkoi.com
 0.0.0.0 www.e-planning.net
-0.0.0.0 www.ebayinc.com
+! allow www.ebayinc.com reason: Not a tracker
 0.0.0.0 www.advisible.com
 0.0.0.0 www.studio-gong.de
 0.0.0.0 www.eskimi.com

@@ -6098,3 +6098,4 @@
 0.0.0.0 uxcam.com
 0.0.0.0 userexperior.com
 0.0.0.0 device-api.urbanairship.com,urbanairship.com
+0.0.0.0 upsight.com

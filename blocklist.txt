@@ -6475,3 +6475,4 @@ $removeparam=afftrack
 ||bugsee.com^
 ||bugfender.com^
 ||braze.com^
+||appboy.com^

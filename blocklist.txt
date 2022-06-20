@@ -6440,3 +6440,4 @@ $removeparam=afftrack
 ||yifants.cn^
 ||fidzup.com^
 ||api.factual.com^
+||fbflipper.com^

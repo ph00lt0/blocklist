@@ -6352,3 +6352,4 @@ $removeparam=afftrack
 ||opentelemetry.io^
 ||opensignal.com^
 ||safegraph.com^
+||api.safegraph.com^

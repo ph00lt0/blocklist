@@ -6198,3 +6198,4 @@ $removeparam=afftrack
 ||weiyun.com^
 ||stat.qq.com^
 ||mta.qq.com^
+||lbs.qq.com^

@@ -6430,3 +6430,4 @@ $removeparam=afftrack
 ||footmarks.com^
 ||followanalytics.com^
 ||follow-apps.com^
+||flymob.com^

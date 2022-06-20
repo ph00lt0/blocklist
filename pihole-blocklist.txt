@@ -6056,3 +6056,4 @@
 0.0.0.0 zapr.in
 0.0.0.0 youappi.com
 0.0.0.0 yoadx.com
+0.0.0.0 yinzcam.com

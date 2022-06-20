@@ -6127,3 +6127,4 @@ $removeparam=afftrack
 ||zapr.in^
 ||youappi.com^
 ||yoadx.com^
+||yinzcam.com^

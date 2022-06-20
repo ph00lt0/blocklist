@@ -5393,3 +5393,4 @@ $removeparam=afftrack
 ||webads.eu^
 ||dynamic-tracking.com^
 ||betterbanners.com^
+||bandsintown.com^

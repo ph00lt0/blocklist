@@ -6479,3 +6479,4 @@ $removeparam=afftrack
 ||boltanalytics.com^
 ||bolt.com^
 ||blueconic.com^
+||bluecats.com^

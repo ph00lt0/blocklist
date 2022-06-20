@@ -6332,3 +6332,4 @@ $removeparam=afftrack
 ||prebid.org^
 ||www.pollfish.com^
 ||pollfish.com^
+||pokkt.com^

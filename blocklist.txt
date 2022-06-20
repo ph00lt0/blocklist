@@ -6413,3 +6413,4 @@ $removeparam=afftrack
 ||huq.io^
 ||houndify.com^
 ||hockeyapp.net^
+||herow.io^

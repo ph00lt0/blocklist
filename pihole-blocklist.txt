@@ -6342,3 +6342,4 @@
 0.0.0.0 huq.io
 0.0.0.0 houndify.com
 0.0.0.0 hockeyapp.net
+0.0.0.0 herow.io

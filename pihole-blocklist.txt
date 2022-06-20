@@ -6136,3 +6136,4 @@
 0.0.0.0 tappx.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 tapjoy.com
+0.0.0.0 tapjoyads.com

@@ -6401,3 +6401,4 @@ $removeparam=afftrack
 ||iqzone.com^
 ||ipqualityscore.com^
 ||instreamatic.com^
+||instabug.com^

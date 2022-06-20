@@ -6330,3 +6330,4 @@
 0.0.0.0 iqzone.com
 0.0.0.0 ipqualityscore.com
 0.0.0.0 instreamatic.com
+0.0.0.0 instabug.com

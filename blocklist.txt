@@ -6508,3 +6508,4 @@ $removeparam=afftrack
 ||amplifyframework.com^
 ||altamob.com^
 ||alphalytics.net^
+||alimama.com^

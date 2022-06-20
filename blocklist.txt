@@ -6426,3 +6426,4 @@ $removeparam=afftrack
 ||gameanalytics.com^
 ||fwmrm.net^
 ||freewheel.tv^
+||www.footmarks.com^

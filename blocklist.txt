@@ -6455,3 +6455,4 @@ $removeparam=afftrack
 ||cuebiq.com^
 ||count.ly^
 ||measurementsys.com^
+||.cooladata.com^

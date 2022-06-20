@@ -6159,3 +6159,4 @@ $removeparam=afftrack
 ||monitoring.vungle.com^
 ||ssl.vungle.com^
 ||v.vungle.com^
+||vungle.com^

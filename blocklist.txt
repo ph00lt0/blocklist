@@ -6491,3 +6491,4 @@ $removeparam=afftrack
 ||beaconsinspace.com^
 ||appvador.com^
 ||apptentive.com^
+||appsee.com^

@@ -6440,3 +6440,4 @@
 0.0.0.0 alimama.com
 0.0.0.0 adsmogo.com
 0.0.0.0 adxcorp.kr
+0.0.0.0 adtrial.com

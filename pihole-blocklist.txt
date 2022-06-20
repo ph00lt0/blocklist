@@ -6406,3 +6406,4 @@
 0.0.0.0 braze.com
 0.0.0.0 appboy.com
 0.0.0.0 boltanalytics.com
+0.0.0.0 bolt.com

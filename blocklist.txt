@@ -6477,3 +6477,4 @@ $removeparam=afftrack
 ||braze.com^
 ||appboy.com^
 ||boltanalytics.com^
+||bolt.com^

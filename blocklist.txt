@@ -6374,3 +6374,4 @@ $removeparam=afftrack
 ||mocaplatform.com^
 ||appcenter.ms^
 ||metrics.dropwizard.io^
+||www.metaps.com^

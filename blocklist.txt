@@ -6379,3 +6379,4 @@ $removeparam=afftrack
 ||mdotm.com^
 ||adpf-info.i-mobile.co.jp^
 ||lotadata.com^
+||loggly.com^

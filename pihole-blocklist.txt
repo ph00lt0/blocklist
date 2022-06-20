@@ -6250,3 +6250,7 @@
 0.0.0.0 pyze.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 pushspring.com
+0.0.0.0 aktrack.pubmatic.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 image2.pubmatic.com
+0.0.0.0 simage2.pubmatic.com

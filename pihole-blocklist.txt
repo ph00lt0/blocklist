@@ -6309,3 +6309,4 @@
 0.0.0.0 adpf-info.i-mobile.co.jp
 0.0.0.0 lotadata.com
 0.0.0.0 loggly.com
+0.0.0.0 locuslabs.com

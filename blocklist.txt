@@ -6358,3 +6358,4 @@ $removeparam=afftrack
 ||oneaudience.com^
 ||presage.io^
 ||offertoro.com^
+||nielsen.com^

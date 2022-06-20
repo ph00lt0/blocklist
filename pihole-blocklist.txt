@@ -6122,3 +6122,4 @@
 0.0.0.0 treasuredata.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 etl.tindersparks.com
+0.0.0.0 thinkingdata.cn

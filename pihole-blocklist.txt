@@ -6412,3 +6412,4 @@
 0.0.0.0 blesh.com
 0.0.0.0 bitly.com
 0.0.0.0 app-ab01.marketo.com
+0.0.0.0 zippyfrog.co

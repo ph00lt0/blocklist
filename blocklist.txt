@@ -6285,3 +6285,9 @@ $removeparam=afftrack
 ||revealmobile.com^
 ||rjfun.github.io^
 ||roximity.com^
+||fastlane.rubiconproject.com^
+||optimized-by.rubiconproject.com^
+||pixel.rubiconproject.com^
+||stats.aws.rubiconproject.com^
+||tap2-cdn.rubiconproject.com^
+||video-ads.rubiconproject.com^

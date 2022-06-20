@@ -6208,3 +6208,4 @@ $removeparam=afftrack
 ||api.taplytics.com^
 ||tapjoy.com^
 ||tapjoyads.com^
+||5rocks.io^

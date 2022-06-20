@@ -6137,3 +6137,4 @@
 0.0.0.0 api.taplytics.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
+0.0.0.0 5rocks.io

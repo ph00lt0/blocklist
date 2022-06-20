@@ -5408,3 +5408,4 @@ $removeparam=afftrack
 ||flexoffers.com^
 ||dataexchanger.pl^
 ||shinystat.com^
+||playground.xyz^

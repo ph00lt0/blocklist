@@ -2,6 +2,13 @@
 
 read -p "Enter the domain that you want to add:" domain
 
+if [[ $domain == *","* ]]; then
+    echo "You are trying to add multiple domains"
+    echo "Start bulk insertion"
+    ./insert-bulk.sh
+    exit
+fi
+
 declare blocklist="./blocklist.txt"
 declare piholeBlocklist="./pihole-blocklist.txt"
 

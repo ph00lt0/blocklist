@@ -6292,3 +6292,4 @@
 0.0.0.0 nativex.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.my.com
+0.0.0.0 target.my.com

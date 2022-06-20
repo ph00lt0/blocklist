@@ -6463,3 +6463,4 @@ $removeparam=afftrack
 ||clevertap.com^
 ||tele.fm^
 ||actv8me.com^
+||cmcm.com^

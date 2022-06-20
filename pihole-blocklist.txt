@@ -6338,3 +6338,4 @@
 0.0.0.0 indooratlas.com
 0.0.0.0 acoustic.co
 0.0.0.0 iabtechlab.com
+0.0.0.0 hyprmx.com

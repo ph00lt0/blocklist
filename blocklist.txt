@@ -6347,3 +6347,4 @@ $removeparam=afftrack
 ||dsp.persona.ly^
 ||rtb.persona.ly^
 ||sdk.persona.ly^
+||pangleglobal.com^

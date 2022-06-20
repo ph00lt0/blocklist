@@ -6365,3 +6365,4 @@
 0.0.0.0 flurry.com
 0.0.0.0 flowsense.com.br
 0.0.0.0 flowsense.com
+0.0.0.0 fineboost.com

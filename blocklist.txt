@@ -6336,3 +6336,4 @@ $removeparam=afftrack
 ||pointinside.com^
 ||plexure.com^
 ||playtestcloud.com^
+||placer.io^

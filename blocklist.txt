@@ -6292,3 +6292,4 @@ $removeparam=afftrack
 ||tap2-cdn.rubiconproject.com^
 ||video-ads.rubiconproject.com^
 ||sam4m.com^
+||scandit.com^

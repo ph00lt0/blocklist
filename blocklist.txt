@@ -5844,7 +5844,7 @@ $removeparam=afftrack
 ||www.kantar.com^
 ||leadoo.com^
 ||hashtag-labs.com^
-||www.oracle.com^
+@@||www.oracle.com^  # Company domain
 ||cafemedia.com^
 ||www.exoclick.com^
 ||lunamedia.io^

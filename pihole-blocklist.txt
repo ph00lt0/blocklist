@@ -5773,7 +5773,7 @@
 0.0.0.0 www.kantar.com
 0.0.0.0 leadoo.com
 0.0.0.0 hashtag-labs.com
-0.0.0.0 www.oracle.com
+! allow www.oracle.com reason: Company domain
 0.0.0.0 cafemedia.com
 0.0.0.0 www.exoclick.com
 0.0.0.0 lunamedia.io

@@ -5405,3 +5405,4 @@ $removeparam=afftrack
 ||admixer.com^
 ||sunmedia.tv^
 ||adswizz.com^
+||flexoffers.com^

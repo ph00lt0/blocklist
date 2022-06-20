@@ -6371,3 +6371,4 @@ $removeparam=afftrack
 ||moengage.com^
 ||api.moengage.com^
 ||apiv2.moengage.com^
+||mocaplatform.com^

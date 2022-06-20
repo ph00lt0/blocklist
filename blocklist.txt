@@ -6140,3 +6140,4 @@ $removeparam=afftrack
 ||xmode.io^
 ||wootric.com.herokudns.com,wootric.com^
 ||widespace.com^
+||map.qq.com^

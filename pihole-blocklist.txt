@@ -6069,3 +6069,4 @@
 0.0.0.0 xmode.io
 0.0.0.0 wootric.com.herokudns.com,wootric.com
 0.0.0.0 widespace.com
+0.0.0.0 map.qq.com

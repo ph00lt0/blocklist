@@ -5335,3 +5335,4 @@
 0.0.0.0 sunmedia.tv
 0.0.0.0 adswizz.com
 0.0.0.0 flexoffers.com
+0.0.0.0 dataexchanger.pl

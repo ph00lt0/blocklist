@@ -5406,3 +5406,4 @@ $removeparam=afftrack
 ||sunmedia.tv^
 ||adswizz.com^
 ||flexoffers.com^
+||dataexchanger.pl^

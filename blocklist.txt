@@ -6377,3 +6377,4 @@ $removeparam=afftrack
 ||www.metaps.com^
 ||www.mediba.jp^
 ||mdotm.com^
+||adpf-info.i-mobile.co.jp^

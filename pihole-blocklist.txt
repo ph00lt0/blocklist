@@ -5987,7 +5987,7 @@
 0.0.0.0 www.xandr.com
 0.0.0.0 www.united-internet-media.de
 0.0.0.0 www.objectiveplatform.com
-0.0.0.0 help.disqus.com
+! allow help.disqus.com reason: Not a tracker
 0.0.0.0 adrenalead.com
 0.0.0.0 qualitymedianetwork.de
 0.0.0.0 getbring.com

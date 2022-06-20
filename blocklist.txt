@@ -6058,7 +6058,7 @@ $removeparam=afftrack
 ||www.xandr.com^
 ||www.united-internet-media.de^
 ||www.objectiveplatform.com^
-||help.disqus.com^
+@@||help.disqus.com^  # Not a tracker
 ||adrenalead.com^
 ||qualitymedianetwork.de^
 ||getbring.com^

@@ -6304,3 +6304,4 @@
 0.0.0.0 appcenter.ms
 0.0.0.0 metrics.dropwizard.io
 0.0.0.0 www.metaps.com
+0.0.0.0 www.mediba.jp

@@ -6162,3 +6162,4 @@ $removeparam=afftrack
 ||vungle.com^
 ||vpon.com^
 ||virgomobile.com^
+||sdk.verizonmedia.com^

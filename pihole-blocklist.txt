@@ -6167,3 +6167,4 @@
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 v.ssacdn.com
 0.0.0.0 www.supersonicads.com
+0.0.0.0 superawesome.tv

@@ -6302,3 +6302,4 @@ $removeparam=afftrack
 ||sensoro.com^
 ||www.sensorsdata.cn^
 ||sensorsdata.com^
+||sentiance.com^

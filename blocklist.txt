@@ -5401,3 +5401,4 @@ $removeparam=afftrack
 ||localsensor.com^
 ||sourcepoint.com^
 ||ozoneproject.com^
+||infiniamobile.com^

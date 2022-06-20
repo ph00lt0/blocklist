@@ -5410,3 +5410,4 @@ $removeparam=afftrack
 ||shinystat.com^
 ||playground.xyz^
 ||opinary.com^
+||kupona.de^

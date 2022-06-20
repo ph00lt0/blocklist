@@ -6138,3 +6138,4 @@ $removeparam=afftrack
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||api.smartechmetrics.com^
 ||xmode.io^
+||wootric.com.herokudns.com,wootric.com^

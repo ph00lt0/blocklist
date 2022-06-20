@@ -6067,3 +6067,4 @@
 0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
 0.0.0.0 api.smartechmetrics.com
 0.0.0.0 xmode.io
+0.0.0.0 wootric.com.herokudns.com,wootric.com

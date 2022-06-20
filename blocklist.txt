@@ -6203,3 +6203,4 @@ $removeparam=afftrack
 ||mars.telequid.com^
 ||databerries.com^
 ||tapstream.com^
+||tapresearch.com^

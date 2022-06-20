@@ -6336,3 +6336,4 @@
 0.0.0.0 inneractive.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 indooratlas.com
+0.0.0.0 acoustic.co

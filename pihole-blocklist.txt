@@ -6095,3 +6095,4 @@
 0.0.0.0 veloxity.net
 0.0.0.0 chocolateplatform.com
 0.0.0.0 verify.uxcam.com
+0.0.0.0 uxcam.com

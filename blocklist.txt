@@ -6166,3 +6166,4 @@ $removeparam=afftrack
 ||veloxity.net^
 ||chocolateplatform.com^
 ||verify.uxcam.com^
+||uxcam.com^

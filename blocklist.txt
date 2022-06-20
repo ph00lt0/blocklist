@@ -6278,3 +6278,4 @@ $removeparam=afftrack
 ||usw-lax.adsrvr.org^
 ||quantcast.net^
 ||proximitykit.radiusnetworks.com^
+||receptiv.com^

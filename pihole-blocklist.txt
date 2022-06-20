@@ -6207,3 +6207,4 @@
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 quantcast.net
 0.0.0.0 proximitykit.radiusnetworks.com
+0.0.0.0 receptiv.com

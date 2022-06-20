@@ -6417,3 +6417,4 @@ $removeparam=afftrack
 ||helpshift.com^
 ||heap.io^
 ||doubleclickbygoogle.com^
+||analytics.withgoogle.com^

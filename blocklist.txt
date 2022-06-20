@@ -6378,3 +6378,4 @@ $removeparam=afftrack
 ||www.mediba.jp^
 ||mdotm.com^
 ||adpf-info.i-mobile.co.jp^
+||lotadata.com^

@@ -6338,3 +6338,4 @@ $removeparam=afftrack
 ||playtestcloud.com^
 ||placer.io^
 ||placed.com^
+||pingstart.com^

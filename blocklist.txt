@@ -6257,3 +6257,4 @@ $removeparam=afftrack
 ||event.split.io^
 ||sdk.split.io^
 ||soom.la^
+||is.com^

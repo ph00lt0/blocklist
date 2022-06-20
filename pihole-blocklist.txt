@@ -6186,3 +6186,4 @@
 0.0.0.0 event.split.io
 0.0.0.0 sdk.split.io
 0.0.0.0 soom.la
+0.0.0.0 is.com

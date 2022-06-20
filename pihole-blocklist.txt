@@ -6360,3 +6360,4 @@
 0.0.0.0 followanalytics.com
 0.0.0.0 follow-apps.com
 0.0.0.0 flymob.com
+0.0.0.0 fluzo.com

@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220620
+! Version: 20220621
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -6787,3 +6787,4 @@ $removeparam=afftrack
 ||finance-launchpad.skypicker.com^
 ||rates-finance.skypicker.com^
 ||csp-reporter.ryanair.com^
+||opstatics.com^

@@ -6789,3 +6789,4 @@ $removeparam=afftrack
 ||csp-reporter.ryanair.com^
 ||opstatics.com^
 ||cdn.opstatics.com^
+||soter.tencent.com^

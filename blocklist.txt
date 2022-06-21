@@ -6788,3 +6788,4 @@ $removeparam=afftrack
 ||rates-finance.skypicker.com^
 ||csp-reporter.ryanair.com^
 ||opstatics.com^
+||cdn.opstatics.com^

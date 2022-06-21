@@ -6717,3 +6717,4 @@
 0.0.0.0 rates-finance.skypicker.com
 0.0.0.0 csp-reporter.ryanair.com
 0.0.0.0 opstatics.com
+0.0.0.0 cdn.opstatics.com

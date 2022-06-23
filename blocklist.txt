@@ -6809,3 +6809,4 @@ $removeparam=afftrack
 ||cdn-app.pathfactory.com^
 ||pathfactory.com^
 ||abrtp2-cdn.marketo.com^
+||clickdimensions.com^

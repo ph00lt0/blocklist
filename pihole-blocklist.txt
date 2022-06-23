@@ -6720,3 +6720,4 @@
 0.0.0.0 cdn.opstatics.com
 0.0.0.0 soter.tencent.com
 0.0.0.0 cdn.gumlet.com
+0.0.0.0 gumlet.com

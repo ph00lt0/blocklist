@@ -6791,3 +6791,4 @@ $removeparam=afftrack
 ||cdn.opstatics.com^
 ||soter.tencent.com^
 ||cdn.gumlet.com^
+||gumlet.com^

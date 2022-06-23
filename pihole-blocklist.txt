@@ -6732,3 +6732,4 @@
 0.0.0.0 ti.tradetracker.net
 0.0.0.0 static-dscn.net
 0.0.0.0 twin-iq.kickfire.com
+0.0.0.0 kickfire.com

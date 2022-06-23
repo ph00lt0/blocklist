@@ -6803,3 +6803,4 @@ $removeparam=afftrack
 ||ti.tradetracker.net^
 ||static-dscn.net^
 ||twin-iq.kickfire.com^
+||kickfire.com^

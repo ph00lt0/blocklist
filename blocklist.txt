@@ -6804,3 +6804,4 @@ $removeparam=afftrack
 ||static-dscn.net^
 ||twin-iq.kickfire.com^
 ||kickfire.com^
+||salesloft.com^

@@ -6796,3 +6796,4 @@ $removeparam=afftrack
 ||cdn-social.janrain.com^
 ||janrain.com^
 ||nl.widgets.investing.com^
+||ga.getresponse.com^

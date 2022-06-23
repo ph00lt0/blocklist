@@ -6735,3 +6735,4 @@
 0.0.0.0 kickfire.com
 0.0.0.0 salesloft.com
 0.0.0.0 scout-cdn.salesloft.com
+0.0.0.0 cdn-app.pathfactory.com

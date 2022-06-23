@@ -6806,3 +6806,4 @@ $removeparam=afftrack
 ||kickfire.com^
 ||salesloft.com^
 ||scout-cdn.salesloft.com^
+||cdn-app.pathfactory.com^

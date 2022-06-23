@@ -6793,3 +6793,4 @@ $removeparam=afftrack
 ||cdn.gumlet.com^
 ||gumlet.com^
 ||d1sr9z1pdl3mb7.cloudfront.net^
+||cdn-social.janrain.com^

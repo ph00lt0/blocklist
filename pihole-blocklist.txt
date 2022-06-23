@@ -6722,3 +6722,4 @@
 0.0.0.0 cdn.gumlet.com
 0.0.0.0 gumlet.com
 0.0.0.0 d1sr9z1pdl3mb7.cloudfront.net
+0.0.0.0 cdn-social.janrain.com

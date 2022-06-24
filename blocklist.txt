@@ -6829,3 +6829,4 @@ $removeparam=afftrack
 ||wpad.belkin^
 ||heartbeat.belkin.com^
 ||nelreports.net^
+||purevpn.com^

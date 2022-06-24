@@ -6850,3 +6850,4 @@ $removeparam=afftrack
 ||als-svc.nytimes.com^
 ^utag.js^
 ^utag.sync.js^
+^fingerprint2.min.js^

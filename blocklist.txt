@@ -6837,3 +6837,4 @@ $removeparam=afftrack
 ||quick-esteemed.usefathom.com^
 ||twenty-graceful.sunknudsen.com^
 ^fathom.min.js^
+^piwik.js^

@@ -6838,3 +6838,4 @@ $removeparam=afftrack
 ||twenty-graceful.sunknudsen.com^
 ^fathom.min.js^
 ^piwik.js^
+^matomo.js^

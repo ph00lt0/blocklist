@@ -6830,3 +6830,4 @@ $removeparam=afftrack
 ||heartbeat.belkin.com^
 ||nelreports.net^
 ||purevpn.com^
+||purevpn.com.cdn.cloudflare.net^

@@ -6814,3 +6814,4 @@ $removeparam=afftrack
 ||flowpros.com^
 ||api.flowpros.com^
 ||mczbf.com^
+||app.mailmunch.com^

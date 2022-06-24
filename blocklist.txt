@@ -6840,3 +6840,4 @@ $removeparam=afftrack
 ^piwik.js^
 ^matomo.js^
 ^advert-xandr.js^
+^prebid.js^

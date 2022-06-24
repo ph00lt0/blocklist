@@ -6832,3 +6832,4 @@ $removeparam=afftrack
 ||purevpn.com^
 ||purevpn.com.cdn.cloudflare.net^
 ||onelink.me^
+||newsletter2go.com^

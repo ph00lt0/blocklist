@@ -6818,3 +6818,4 @@ $removeparam=afftrack
 ||mailmunch.com^
 ||platform.vine.co^
 ||idiagnostics.apple.com^
+||idiagnostics.apple.com.akadns.net^

@@ -6839,3 +6839,4 @@ $removeparam=afftrack
 ^fathom.min.js^
 ^piwik.js^
 ^matomo.js^
+^advert-xandr.js^

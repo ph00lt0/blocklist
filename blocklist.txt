@@ -6845,3 +6845,4 @@ $removeparam=afftrack
 ^gh_show_ads.js^
 ||run.pstmn.io^
 ^tag.js^
+||a-reporting.nytimes.com^

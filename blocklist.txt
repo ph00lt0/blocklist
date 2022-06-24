@@ -6842,3 +6842,4 @@ $removeparam=afftrack
 ^advert-xandr.js^
 ^prebid.js^
 ^temptation.js^
+^gh_show_ads.js^

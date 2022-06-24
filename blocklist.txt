@@ -6841,3 +6841,4 @@ $removeparam=afftrack
 ^matomo.js^
 ^advert-xandr.js^
 ^prebid.js^
+^temptation.js^

@@ -6849,3 +6849,4 @@ $removeparam=afftrack
 ||a.nytimes.com^
 ||als-svc.nytimes.com^
 ^utag.js^
+^utag.sync.js^

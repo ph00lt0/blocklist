@@ -6848,3 +6848,4 @@ $removeparam=afftrack
 ||a-reporting.nytimes.com^
 ||a.nytimes.com^
 ||als-svc.nytimes.com^
+^utag.js^

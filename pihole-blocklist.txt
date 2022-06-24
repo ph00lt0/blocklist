@@ -6746,3 +6746,4 @@
 0.0.0.0 app.mailmunch.com
 0.0.0.0 mailmunch.com
 0.0.0.0 platform.vine.co
+0.0.0.0 idiagnostics.apple.com

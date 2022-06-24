@@ -6757,3 +6757,4 @@
 0.0.0.0 emtysmbyfmrqdp.belkin
 0.0.0.0 wpad.belkin
 0.0.0.0 heartbeat.belkin.com
+0.0.0.0 nelreports.net

@@ -6756,3 +6756,4 @@
 0.0.0.0 ntyrqusvwz.belkin
 0.0.0.0 emtysmbyfmrqdp.belkin
 0.0.0.0 wpad.belkin
+0.0.0.0 heartbeat.belkin.com

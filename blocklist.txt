@@ -6844,3 +6844,4 @@ $removeparam=afftrack
 ^temptation.js^
 ^gh_show_ads.js^
 ||run.pstmn.io^
+^tag.js^

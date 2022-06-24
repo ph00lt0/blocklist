@@ -6748,3 +6748,4 @@
 0.0.0.0 platform.vine.co
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idiagnostics.apple.com.akadns.net
+0.0.0.0 c.persgroep.net

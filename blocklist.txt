@@ -6819,3 +6819,4 @@ $removeparam=afftrack
 ||platform.vine.co^
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
+||c.persgroep.net^

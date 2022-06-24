@@ -6851,3 +6851,4 @@ $removeparam=afftrack
 ^utag.js^
 ^utag.sync.js^
 ^fingerprint2.min.js^
+^fingerprint.min.js^

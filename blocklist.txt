@@ -6853,3 +6853,4 @@ $removeparam=afftrack
 ^fingerprint2.min.js^
 ^fingerprint.min.js^
 ||report.b06a.net^
+||www.medworq.nl^

@@ -6856,3 +6856,4 @@ $removeparam=afftrack
 ||www.medworq.nl^
 ||js.tito.io^
 ||trialfire.com^
+||cdn.trialfire.com^

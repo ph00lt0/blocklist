@@ -6858,3 +6858,4 @@ $removeparam=afftrack
 ||trialfire.com^
 ||cdn.trialfire.com^
 ||tito.io^
+||tags.srv.stackadapt.com^

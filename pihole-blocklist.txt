@@ -6833,3 +6833,4 @@
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 cleverecommerce.com
 0.0.0.0 nitroapps.co
+0.0.0.0 amaicdn.com

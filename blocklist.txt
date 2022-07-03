@@ -6932,3 +6932,4 @@ $removeparam=utm_v
 ||st.linkfire.com^
 ||linkfire.com^
 ||fontify.nitroapps.co^
+||smarteucookiebanner.upsell-apps.com^

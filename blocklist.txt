@@ -6863,3 +6863,4 @@ $removeparam=afftrack
 ||getinsights.io^
 ||friendlyanalytics.io^
 ||friendly.ch^
+wp.pl##.ld04qn9

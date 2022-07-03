@@ -14,10 +14,25 @@ This blocklists aims at blocking:
 - Spyware
 <br>
 <br>
+---
 
 ## How to add?
 
+<details>
+<summary>AdGuard Home</summary>
+<ol>
+<li>Go to `Filters`/`DNS blocklists`</li>
+<li>Go to `Filters`/`DNS blocklists`</li>
+<li>Press `Add blocklist`</li>
+<li>Select `Add a custom list`</li>
+<li>Chose name and paste the URL from below</li>
+<code>https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt</code>
+<li>Press `Save`</li>
+</ol>
+</details>
+
 ### AdGuard Home
+
 1. Go to `Filters`/`DNS blocklists`
 2. Press `Add blocklist`
 3. Select `Add a custom list`
@@ -42,9 +57,9 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 9. Click `Subscribe`
 
 ### uBlock Origin 
-1. Open the uBO Dashboard 
+1. ⚙ Open the uBO︎ Dashboard 
 2. Navigate to `Filter lists`
-3. Scroll down to **Custom**
+3. Scroll down to `Custom`
 4. Check `Import…`
 5. Paste the URL from below
 ```
@@ -53,7 +68,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 6. Click the `Apply changes` button on top of the page.
 
 ### Brave
-1. Navigate to <a href="brave://adblock/" target="_blank" rel="noopener noreferrer">`brave://adblock/`</a>
+1. Navigate to <a href="#" target="_blank" rel="noopener noreferrer">`brave://adblock/`</a>
 2. Click `Add filter list via URL` at the bottom of the page under `Subscribe` to filter lists 
 3. Add the URL from below
 ```

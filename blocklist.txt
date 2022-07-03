@@ -6880,3 +6880,4 @@ wp.pl###AdArea
 ^rexdot.js^
 ^lsget.html^
 ^fpdata.js^
+^delete_pixel.gif^

@@ -6891,3 +6891,4 @@ wp.pl###AdArea
 ||prebid-eu.creativecdn.com^
 ||staticbc.com^
 ||www6.smartadserver.com^
+||prebid-server.rubiconproject.com^

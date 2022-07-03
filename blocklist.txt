@@ -6902,3 +6902,4 @@ wp.pl###AdArea
 ^dl.clickmap.min.js^
 ^dl.cmp.min.js^
 ||pulsembed.eu^
+||recommendations-onet.aureus.ringpublishing.com^

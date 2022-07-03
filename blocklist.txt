@@ -6864,3 +6864,4 @@ $removeparam=afftrack
 ||friendlyanalytics.io^
 ||friendly.ch^
 allegro.pl###opbox-gdpr-consents-modal
+allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m389_6m.mpof_ki

@@ -6890,3 +6890,4 @@ wp.pl###AdArea
 ||bidder.criteo.com^
 ||prebid-eu.creativecdn.com^
 ||staticbc.com^
+||www6.smartadserver.com^

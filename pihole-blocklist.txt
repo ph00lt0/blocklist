@@ -6793,3 +6793,4 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 prebid-eu.creativecdn.com
 0.0.0.0 staticbc.com
+0.0.0.0 www6.smartadserver.com

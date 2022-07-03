@@ -6168,7 +6168,6 @@ $removeparam=afftrack
 ||verify.uxcam.com^
 ||uxcam.com^
 ||userexperior.com^
-@@||device-api.urbanairship.com,urbanairship.com^  # Mistake
 ||upsight.com^
 ||adserver.unityads.unity3d.com^
 ||analytics.social.unity.com^

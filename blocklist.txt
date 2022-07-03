@@ -6894,3 +6894,4 @@ wp.pl###AdArea
 ||prebid-server.rubiconproject.com^
 ||herr.io^
 ||static.herr.io^
+||t.visx.net^

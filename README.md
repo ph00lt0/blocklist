@@ -53,9 +53,10 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 6. Click the `Apply changes` button on top of the page.
 
 ### Brave
-1. Navigate to <a href="brave://adblock/" target="_blank" rel="noopener noreferrer">`brave://adblock/`</a>
-2. Click `Add filter list via URL` at the bottom of the page under `Subscribe` to filter lists 
-3. Add the URL from below
+1. Open the hamburger menu `≡`
+2. Click on `Brave Ad Block`
+3. Click `Add filter list via URL` at the bottom of the page under `Subscribe` to filter lists 
+4. Add the URL from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```

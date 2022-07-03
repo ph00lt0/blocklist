@@ -6903,7 +6903,7 @@ wp.pl###AdArea
 ^dl.cmp.min.js^
 ||pulsembed.eu^
 @@||recommendations-onet.aureus.ringpublishing.com^  # Required for onet.pl to function
-||fallback-onet.aureus.ringpublishing.com^
+@@||fallback-onet.aureus.ringpublishing.com^  # Required for onet.pl to function
 ||ipresso.pl^
 ||tvn-media.ipresso.pl^
 ||csr.onet.pl^

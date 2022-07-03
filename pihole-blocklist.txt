@@ -6804,7 +6804,7 @@
 0.0.0.0 ipsos.pl
 0.0.0.0 pulsembed.eu
 ! allow recommendations-onet.aureus.ringpublishing.com reason: Required for onet.pl to function
-0.0.0.0 fallback-onet.aureus.ringpublishing.com
+! allow fallback-onet.aureus.ringpublishing.com reason: Required for onet.pl to function
 0.0.0.0 ipresso.pl
 0.0.0.0 tvn-media.ipresso.pl
 0.0.0.0 csr.onet.pl

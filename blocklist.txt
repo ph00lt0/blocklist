@@ -6896,3 +6896,4 @@ wp.pl###AdArea
 ||static.herr.io^
 ||t.visx.net^
 ||visx.net^
+||third-party-cookie.raspcs.pl^

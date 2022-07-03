@@ -6916,3 +6916,4 @@ $removeparam=utm_v
 ||onet.pl^$removeparam=sid
 ||tagger.opecloud.com^
 ||cdn-eu.piano.io^
+||5431800.fls.doubleclick.net^

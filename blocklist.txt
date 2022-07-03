@@ -6921,3 +6921,4 @@ $removeparam=utm_v
 ||user.com^
 ||morizon.user.com^
 ||3gl.net^
+||g.3gl.net^

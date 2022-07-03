@@ -6806,3 +6806,4 @@
 0.0.0.0 recommendations-onet.aureus.ringpublishing.com
 0.0.0.0 fallback-onet.aureus.ringpublishing.com
 0.0.0.0 ipresso.pl
+0.0.0.0 tvn-media.ipresso.pl

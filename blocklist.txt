@@ -6905,3 +6905,4 @@ wp.pl###AdArea
 ||recommendations-onet.aureus.ringpublishing.com^
 ||fallback-onet.aureus.ringpublishing.com^
 ||ipresso.pl^
+||tvn-media.ipresso.pl^

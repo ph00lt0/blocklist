@@ -6911,3 +6911,4 @@ wp.pl###AdArea
 ||cmp.dreamlab.pl^
 ||dreamlab.pl^
 ||cmp.ringpublishing.com^
+$removeparam=pid

@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 
 ### PiHole
-> For PiHole there is a different blocklist, containing the same domains prefixed with '0.0.0.0' as localhost
+For PiHole there is a different blocklist, containing the same domains prefixed with '0.0.0.0' as localhost
 
 1. Go to `Group Management`
 2. Select `Adlist`

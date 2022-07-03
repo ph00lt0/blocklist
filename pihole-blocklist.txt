@@ -6801,3 +6801,4 @@
 0.0.0.0 visx.net
 0.0.0.0 third-party-cookie.raspcs.pl
 0.0.0.0 raspcs.pl
+0.0.0.0 ipsos.pl

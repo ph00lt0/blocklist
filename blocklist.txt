@@ -6903,3 +6903,4 @@ wp.pl###AdArea
 ^dl.cmp.min.js^
 ||pulsembed.eu^
 ||recommendations-onet.aureus.ringpublishing.com^
+||fallback-onet.aureus.ringpublishing.com^

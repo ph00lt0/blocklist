@@ -6940,3 +6940,4 @@ $removeparam=utm_v
 ||nitroapps.co^
 ||amaicdn.com^
 ||mydatascript.bubbleup.com^
+||bubbleup.com^

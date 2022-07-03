@@ -6879,3 +6879,4 @@ wp.pl###AdArea
 ^tracker.js^
 ^rexdot.js^
 ^lsget.html^
+^fpdata.js^

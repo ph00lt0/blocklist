@@ -6870,3 +6870,4 @@ allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m
 ||piwik.owncloud.com^
 wp.pl##.ld04qn9
 ||fonts.wpcdn.pl^
+wp.pl##.fdy68g6

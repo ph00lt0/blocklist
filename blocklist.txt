@@ -6927,3 +6927,4 @@ $removeparam=utm_v
 ||*.warnerartists.net^$removeparam=ref
 ||theappreciationengine.com^
 ||umg.theappreciationengine.com^
+||clickfuse.com^

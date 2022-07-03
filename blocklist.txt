@@ -6926,3 +6926,4 @@ $removeparam=utm_v
 ||www.twentyonepilots.com/sites/g/files/g2000013736/files/2022-01/shapiro_75_heavy-webfont_2.woff2^
 ||*.warnerartists.net^$removeparam=ref
 ||theappreciationengine.com^
+||umg.theappreciationengine.com^

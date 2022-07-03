@@ -6780,3 +6780,4 @@
 0.0.0.0 getinsights.io
 0.0.0.0 friendlyanalytics.io
 0.0.0.0 friendly.ch
+0.0.0.0 device-api.urbanairship.com

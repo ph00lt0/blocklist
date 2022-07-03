@@ -6790,3 +6790,4 @@
 0.0.0.0 connectad.io
 0.0.0.0 cdn.connectad.io
 0.0.0.0 i.connectad.io
+0.0.0.0 bidder.criteo.com

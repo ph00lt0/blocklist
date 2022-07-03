@@ -6887,3 +6887,4 @@ wp.pl###AdArea
 ||connectad.io^
 ||cdn.connectad.io^
 ||i.connectad.io^
+||bidder.criteo.com^

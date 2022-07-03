@@ -6818,3 +6818,4 @@
 0.0.0.0 api.survicate.com
 0.0.0.0 user.com
 0.0.0.0 morizon.user.com
+0.0.0.0 3gl.net

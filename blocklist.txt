@@ -6900,3 +6900,4 @@ wp.pl###AdArea
 ||raspcs.pl^
 ||ipsos.pl^
 ^dl.clickmap.min.js^
+^dl.cmp.min.js^

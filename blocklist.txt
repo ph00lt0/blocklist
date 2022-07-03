@@ -6883,3 +6883,4 @@ wp.pl###AdArea
 ^delete_pixel.gif^
 ^pixel.gif^
 ||u.openx.net^
+||wirtualn-d.openx.net^

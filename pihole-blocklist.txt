@@ -6786,3 +6786,4 @@
 0.0.0.0 piwik.owncloud.com
 0.0.0.0 fonts.wpcdn.pl
 0.0.0.0 u.openx.net
+0.0.0.0 wirtualn-d.openx.net

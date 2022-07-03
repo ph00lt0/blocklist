@@ -6795,3 +6795,4 @@
 0.0.0.0 staticbc.com
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 herr.io

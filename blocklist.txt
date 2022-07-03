@@ -6892,3 +6892,4 @@ wp.pl###AdArea
 ||staticbc.com^
 ||www6.smartadserver.com^
 ||prebid-server.rubiconproject.com^
+||herr.io^

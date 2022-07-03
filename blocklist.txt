@@ -6897,3 +6897,4 @@ wp.pl###AdArea
 ||t.visx.net^
 ||visx.net^
 ||third-party-cookie.raspcs.pl^
+||raspcs.pl^

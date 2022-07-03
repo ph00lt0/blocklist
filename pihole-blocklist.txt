@@ -6097,7 +6097,7 @@
 0.0.0.0 verify.uxcam.com
 0.0.0.0 uxcam.com
 0.0.0.0 userexperior.com
-0.0.0.0 device-api.urbanairship.com,urbanairship.com
+! allow device-api.urbanairship.com,urbanairship.com reason: Mistake
 0.0.0.0 upsight.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 analytics.social.unity.com

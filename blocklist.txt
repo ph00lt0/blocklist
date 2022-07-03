@@ -6908,3 +6908,4 @@ wp.pl###AdArea
 ||tvn-media.ipresso.pl^
 ||csr.onet.pl^
 ||k266d5zsl.onet.pl^
+||cmp.dreamlab.pl^

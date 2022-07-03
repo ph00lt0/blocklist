@@ -6941,3 +6941,4 @@ $removeparam=utm_v
 ||amaicdn.com^
 ||mydatascript.bubbleup.com^
 ||bubbleup.com^
+*.ffm.to##.privacy-notice-gdpr

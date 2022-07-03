@@ -6922,3 +6922,4 @@ $removeparam=utm_v
 ||morizon.user.com^
 ||3gl.net^
 ||g.3gl.net^
+||www.twentyonepilots.com/akam/13/5793fe71^

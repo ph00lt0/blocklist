@@ -6885,3 +6885,4 @@ wp.pl###AdArea
 ||u.openx.net^
 ||wirtualn-d.openx.net^
 ||connectad.io^
+||cdn.connectad.io^

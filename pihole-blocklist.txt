@@ -6828,3 +6828,4 @@
 0.0.0.0 linkfire.com
 0.0.0.0 fontify.nitroapps.co
 0.0.0.0 smarteucookiebanner.upsell-apps.com
+0.0.0.0 upsell-apps.com

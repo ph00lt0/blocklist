@@ -6924,3 +6924,4 @@ $removeparam=utm_v
 ||g.3gl.net^
 ||www.twentyonepilots.com/akam/13/5793fe71^
 ||www.twentyonepilots.com/sites/g/files/g2000013736/files/2022-01/shapiro_75_heavy-webfont_2.woff2^
+||*.warnerartists.net^$removeparam=ref

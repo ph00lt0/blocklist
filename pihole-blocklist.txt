@@ -5749,7 +5749,7 @@
 0.0.0.0 projectagora.com
 0.0.0.0 adlane.info
 0.0.0.0 www.one-count.com
-0.0.0.0 allegro.pl
+! allow 0.0.0.0 allegro.pl reason: Not a tracker
 0.0.0.0 platform161.com
 0.0.0.0 viads.com
 0.0.0.0 www.plista.com

@@ -5820,7 +5820,7 @@ $removeparam=afftrack
 ||projectagora.com^
 ||adlane.info^
 ||www.one-count.com^
-||allegro.pl^
+@@||allegro.pl^ Not a tracker
 ||platform161.com^
 ||viads.com^
 ||www.plista.com^

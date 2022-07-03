@@ -6834,3 +6834,4 @@
 0.0.0.0 cleverecommerce.com
 0.0.0.0 nitroapps.co
 0.0.0.0 amaicdn.com
+0.0.0.0 mydatascript.bubbleup.com

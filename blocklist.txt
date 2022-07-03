@@ -6939,3 +6939,4 @@ $removeparam=utm_v
 ||cleverecommerce.com^
 ||nitroapps.co^
 ||amaicdn.com^
+||mydatascript.bubbleup.com^

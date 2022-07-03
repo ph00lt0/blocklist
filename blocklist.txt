@@ -6863,3 +6863,4 @@ $removeparam=afftrack
 ||getinsights.io^
 ||friendlyanalytics.io^
 ||friendly.ch^
+allegro.pl###opbox-gdpr-consents-modal

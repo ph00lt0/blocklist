@@ -6913,3 +6913,4 @@ wp.pl###AdArea
 ||cmp.ringpublishing.com^
 $removeparam=pid
 $removeparam=utm_v
+||onet.pl^$removeparam=sid

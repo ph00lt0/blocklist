@@ -12,58 +12,71 @@ This blocklists aims at blocking:
 - Consent/cookie managment platforms
 - Malware
 - Spyware
+<br>
+<br>
+---
 
+## How to add?
 
-## AdGuard Home
-Add this domain to AdGuard Home:
+### AdGuard Home
+1. Go to `Filters`/`DNS blocklists`
+2. Press `Add blocklist`
+3. Select `Add a custom list`
+4. Chose name and paste the URL from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
+5. Press `Save`
 
-
-## AdGuard 
-- Open the AdGuard settings
-- Navigate to `Filters`
-- Scroll down to **Custom**
-- Enable the custom `switch`
-- Click on `Custom`
-- Click **Add custom filter**
-- Paste the URL below
-- For the best impact enable the `trusted` checkbox
-- Click **Subscribe**
-
+### AdGuard 
+1. Open the AdGuard `settings`
+2. Navigate to `Filters`
+3. Scroll down to `Custom`
+4. Enable the `custom switch`
+5. Click on `Custom`
+6. Click `Add custom filter`
+7. Paste the URL from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
+8. For the best impact enable the `trusted` checkbox
+9. Click `Subscribe`
 
-
-## uBlock Origin 
-- Open the uBO Dashboard
-- Navigate to `Filter lists`
-- Scroll down to **Custom**
-- Check `Import…`
-- Paste the URL below
-- Click the `Apply changes` button on top of the page.
+### uBlock Origin 
+1. Open the uBO Dashboard 
+2. Navigate to `Filter lists`
+3. Scroll down to **Custom**
+4. Check `Import…`
+5. Paste the URL from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
+6. Click the `Apply changes` button on top of the page.
 
-## Brave
-- Navigate to `brave://adblock/`
-- Click `Add filter list via URL` at the bottom of the page under **Subscribe** to filter lists
-- Add the URL below and press `Submit`
+### Brave
+1. Navigate to <a href="#" target="_blank" rel="noopener noreferrer">`brave://adblock/`</a>
+2. Click `Add filter list via URL` at the bottom of the page under `Subscribe` to filter lists 
+3. Add the URL from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
-
 ```
+4. press `Submit`
 
 
-## PiHole
-For PiHole there is a different blocklist, containing the same domains prefixed with '0.0.0.0' as localhost
+### PiHole
+> For PiHole there is a different blocklist, containing the same domains prefixed with '0.0.0.0' as localhost
+
+1. Go to `Group Management`
+2. Select `Adlist`
+3. Paste the `Address` from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 ```
+4. Press `Add`
 
+#### (OPTIONAL) To update your filters
+5. Go to `Tools`/`Update Gravity`
+6. Click `Update`
 
 ## Contributing
 Contributing is limited to members, instructions are available in [CONTRIBUTING](CONTRIBUTING.md)

@@ -6942,3 +6942,4 @@ $removeparam=utm_v
 ||mydatascript.bubbleup.com^
 ||bubbleup.com^
 *.ffm.to##.privacy-notice-gdpr
+*.ffm.to##.bg-overlay

@@ -14,7 +14,6 @@ This blocklists aims at blocking:
 - Spyware
 <br>
 <br>
----
 
 ## How to add?
 
@@ -54,7 +53,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 6. Click the `Apply changes` button on top of the page.
 
 ### Brave
-1. Navigate to <a href="#" target="_blank" rel="noopener noreferrer">`brave://adblock/`</a>
+1. Navigate to <a href="brave://adblock/" target="_blank" rel="noopener noreferrer">`brave://adblock/`</a>
 2. Click `Add filter list via URL` at the bottom of the page under `Subscribe` to filter lists 
 3. Add the URL from below
 ```

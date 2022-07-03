@@ -6861,3 +6861,4 @@ $removeparam=afftrack
 ||tags.srv.stackadapt.com^
 ||stackadapt.com^
 ||getinsights.io^
+||friendlyanalytics.io^

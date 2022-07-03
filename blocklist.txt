@@ -6878,3 +6878,4 @@ wp.pl###AdArea
 ||assets.allegrostatic.com/sc-12453/opbox-0f65f562.es6.js^
 ^tracker.js^
 ^rexdot.js^
+^lsget.html^

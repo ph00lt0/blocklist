@@ -6888,3 +6888,4 @@ wp.pl###AdArea
 ||cdn.connectad.io^
 ||i.connectad.io^
 ||bidder.criteo.com^
+||prebid-eu.creativecdn.com^

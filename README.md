@@ -14,25 +14,10 @@ This blocklists aims at blocking:
 - Spyware
 <br>
 <br>
----
 
 ## How to add?
 
-<details>
-<summary>AdGuard Home</summary>
-<ol>
-<li>Go to `Filters`/`DNS blocklists`</li>
-<li>Go to `Filters`/`DNS blocklists`</li>
-<li>Press `Add blocklist`</li>
-<li>Select `Add a custom list`</li>
-<li>Chose name and paste the URL from below</li>
-<code>https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt</code>
-<li>Press `Save`</li>
-</ol>
-</details>
-
 ### AdGuard Home
-
 1. Go to `Filters`/`DNS blocklists`
 2. Press `Add blocklist`
 3. Select `Add a custom list`
@@ -59,7 +44,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ### uBlock Origin 
 1. ⚙ Open the uBO︎ Dashboard 
 2. Navigate to `Filter lists`
-3. Scroll down to `Custom`
+3. Scroll down to **+ Custom**
 4. Check `Import…`
 5. Paste the URL from below
 ```
@@ -75,7 +60,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
-4. press `Submit`
+4. Press `Submit`
 
 
 ### PiHole

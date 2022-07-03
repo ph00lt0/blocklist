@@ -6884,3 +6884,4 @@ wp.pl###AdArea
 ^pixel.gif^
 ||u.openx.net^
 ||wirtualn-d.openx.net^
+||connectad.io^

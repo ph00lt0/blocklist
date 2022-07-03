@@ -6872,3 +6872,4 @@ wp.pl##.ld04qn9
 ||fonts.wpcdn.pl^
 wp.pl##.fdy68g6
 wp.pl###AdArea
+||assets.allegrostatic.com/e09d28a6-external/dd-K89D9F7.js^

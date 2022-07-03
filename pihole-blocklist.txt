@@ -6798,3 +6798,4 @@
 0.0.0.0 herr.io
 0.0.0.0 static.herr.io
 0.0.0.0 t.visx.net
+0.0.0.0 visx.net

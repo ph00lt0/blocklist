@@ -6895,3 +6895,4 @@ wp.pl###AdArea
 ||herr.io^
 ||static.herr.io^
 ||t.visx.net^
+||visx.net^

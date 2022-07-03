@@ -6889,3 +6889,4 @@ wp.pl###AdArea
 ||i.connectad.io^
 ||bidder.criteo.com^
 ||prebid-eu.creativecdn.com^
+||staticbc.com^

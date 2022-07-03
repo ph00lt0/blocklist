@@ -6882,3 +6882,4 @@ wp.pl###AdArea
 ^fpdata.js^
 ^delete_pixel.gif^
 ^pixel.gif^
+||u.openx.net^

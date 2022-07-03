@@ -6914,3 +6914,4 @@ wp.pl###AdArea
 $removeparam=pid
 $removeparam=utm_v
 ||onet.pl^$removeparam=sid
+||tagger.opecloud.com^

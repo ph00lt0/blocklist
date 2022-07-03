@@ -6812,3 +6812,4 @@
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 dreamlab.pl
 0.0.0.0 cmp.ringpublishing.com
+0.0.0.0 tagger.opecloud.com

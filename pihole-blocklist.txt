@@ -6779,3 +6779,4 @@
 0.0.0.0 stackadapt.com
 0.0.0.0 getinsights.io
 0.0.0.0 friendlyanalytics.io
+0.0.0.0 friendly.ch

@@ -6881,3 +6881,4 @@ wp.pl###AdArea
 ^lsget.html^
 ^fpdata.js^
 ^delete_pixel.gif^
+^pixel.gif^

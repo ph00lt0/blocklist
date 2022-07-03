@@ -6802,3 +6802,4 @@
 0.0.0.0 third-party-cookie.raspcs.pl
 0.0.0.0 raspcs.pl
 0.0.0.0 ipsos.pl
+0.0.0.0 pulsembed.eu

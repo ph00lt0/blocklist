@@ -6901,3 +6901,4 @@ wp.pl###AdArea
 ||ipsos.pl^
 ^dl.clickmap.min.js^
 ^dl.cmp.min.js^
+||pulsembed.eu^

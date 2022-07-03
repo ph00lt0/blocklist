@@ -6807,3 +6807,4 @@
 0.0.0.0 fallback-onet.aureus.ringpublishing.com
 0.0.0.0 ipresso.pl
 0.0.0.0 tvn-media.ipresso.pl
+0.0.0.0 csr.onet.pl

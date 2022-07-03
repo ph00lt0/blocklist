@@ -6826,3 +6826,4 @@
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 st.linkfire.com
 0.0.0.0 linkfire.com
+0.0.0.0 fontify.nitroapps.co

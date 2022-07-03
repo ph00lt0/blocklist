@@ -6811,3 +6811,4 @@
 0.0.0.0 k266d5zsl.onet.pl
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 dreamlab.pl
+0.0.0.0 cmp.ringpublishing.com

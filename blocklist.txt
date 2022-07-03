@@ -6910,3 +6910,4 @@ wp.pl###AdArea
 ||k266d5zsl.onet.pl^
 ||cmp.dreamlab.pl^
 ||dreamlab.pl^
+||cmp.ringpublishing.com^

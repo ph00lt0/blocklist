@@ -6918,3 +6918,4 @@ $removeparam=utm_v
 ||cdn-eu.piano.io^
 ||5431800.fls.doubleclick.net^
 ||api.survicate.com^
+||user.com^

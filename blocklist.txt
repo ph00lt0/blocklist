@@ -6874,3 +6874,4 @@ wp.pl##.fdy68g6
 wp.pl###AdArea
 ||assets.allegrostatic.com/e09d28a6-external/dd-K89D9F7.js^
 ||assets.allegrostatic.com/sc-12453/engagement-observer-6dadce93.js^
+||assets.allegrostatic.com/e09d28a6-external/dd-K89D9F1.js^

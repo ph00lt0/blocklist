@@ -6936,3 +6936,4 @@ $removeparam=utm_v
 ||upsell-apps.com^
 ||size-guides.esc-apps-cdn.com^
 ||ping-dot-acp-magento.appspot.com^
+||cleverecommerce.com^

@@ -5749,7 +5749,7 @@
 0.0.0.0 projectagora.com
 0.0.0.0 adlane.info
 0.0.0.0 www.one-count.com
-0.0.0.0 allegro.pl
+! allow 0.0.0.0 allegro.pl reason: Not a tracker
 0.0.0.0 platform161.com
 0.0.0.0 viads.com
 0.0.0.0 www.plista.com
@@ -6097,7 +6097,7 @@
 0.0.0.0 verify.uxcam.com
 0.0.0.0 uxcam.com
 0.0.0.0 userexperior.com
-0.0.0.0 device-api.urbanairship.com,urbanairship.com
+! allow device-api.urbanairship.com,urbanairship.com reason: Mistake
 0.0.0.0 upsight.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 analytics.social.unity.com
@@ -6780,3 +6780,7 @@
 0.0.0.0 getinsights.io
 0.0.0.0 friendlyanalytics.io
 0.0.0.0 friendly.ch
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 edge.allegro.pl
+0.0.0.0 js-data.allegro.pl
+0.0.0.0 piwik.owncloud.com

@@ -5820,7 +5820,7 @@ $removeparam=afftrack
 ||projectagora.com^
 ||adlane.info^
 ||www.one-count.com^
-||allegro.pl^
+@@||allegro.pl^ Not a tracker
 ||platform161.com^
 ||viads.com^
 ||www.plista.com^
@@ -6168,7 +6168,6 @@ $removeparam=afftrack
 ||verify.uxcam.com^
 ||uxcam.com^
 ||userexperior.com^
-||device-api.urbanairship.com,urbanairship.com^
 ||upsight.com^
 ||adserver.unityads.unity3d.com^
 ||analytics.social.unity.com^
@@ -6863,4 +6862,10 @@ $removeparam=afftrack
 ||getinsights.io^
 ||friendlyanalytics.io^
 ||friendly.ch^
+allegro.pl###opbox-gdpr-consents-modal
+allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m389_6m.mpof_ki
+||device-api.urbanairship.com^
+||edge.allegro.pl^
+||js-data.allegro.pl^
+||piwik.owncloud.com^
 wp.pl##.ld04qn9

@@ -6935,3 +6935,4 @@ $removeparam=utm_v
 ||smarteucookiebanner.upsell-apps.com^
 ||upsell-apps.com^
 ||size-guides.esc-apps-cdn.com^
+||ping-dot-acp-magento.appspot.com^

@@ -6781,7 +6781,7 @@
 0.0.0.0 friendlyanalytics.io
 0.0.0.0 friendly.ch
 0.0.0.0 device-api.urbanairship.com
-0.0.0.0 edge.allegro.pl
+! allow edge.allegro.pl reason: Required for functionality
 0.0.0.0 js-data.allegro.pl
 0.0.0.0 piwik.owncloud.com
 0.0.0.0 fonts.wpcdn.pl

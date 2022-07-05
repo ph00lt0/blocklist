@@ -6848,3 +6848,4 @@
 0.0.0.0 track.sv.rkdms.com
 0.0.0.0 aeopprodvip.acxiom.com
 0.0.0.0 rkdms.com
+0.0.0.0 acxiom.com

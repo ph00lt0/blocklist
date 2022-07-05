@@ -6836,3 +6836,4 @@
 0.0.0.0 amaicdn.com
 0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 bubbleup.com
+0.0.0.0 cmp.ad.nl

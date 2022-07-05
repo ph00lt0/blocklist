@@ -6946,3 +6946,4 @@ $removeparam=utm_v
 ||cmp.ad.nl^
 ||aqueduct.revolutlabs.com^
 ||trackalyzer.com^
+||intel.morningstar.co.uk^

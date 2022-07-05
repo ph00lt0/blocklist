@@ -6839,3 +6839,4 @@
 0.0.0.0 cmp.ad.nl
 0.0.0.0 aqueduct.revolutlabs.com
 0.0.0.0 trackalyzer.com
+0.0.0.0 intel.morningstar.co.uk

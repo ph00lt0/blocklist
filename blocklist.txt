@@ -6944,3 +6944,4 @@ $removeparam=utm_v
 *.ffm.to##.privacy-notice-gdpr
 *.ffm.to##.bg-overlay
 ||cmp.ad.nl^
+||aqueduct.revolutlabs.com^

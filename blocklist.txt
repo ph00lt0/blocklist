@@ -6961,3 +6961,4 @@ $removeparam=utm_v
 ||admarkt.marktplaats.nl^
 ||analytics.apnewsregistry.com^
 ||myheritage-container.com^
+||stats.lineageos.org^

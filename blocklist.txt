@@ -6991,3 +6991,4 @@ $removeparam=utm_v
 ||amplience.net^
 ^criteo.min.js^
 ^cookie-message-AllBrands.min.js^
+^bazaarVoice.js^

@@ -24,7 +24,7 @@ Depending on where the list is used it will also block:
 - Newsletter scripts
 - Affliation scripts
 - Tracking parameters
-- Afflication parameters
+- Affiliation parameters
 
 <br>
 

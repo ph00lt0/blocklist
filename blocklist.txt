@@ -7017,3 +7017,4 @@ $removeparam=utm_v
 ||craftyclicks.co.uk^
 ||analitik.edevlet.gov.tr^
 ||js.arcgis.com^
+||logs1407.xiti.com^

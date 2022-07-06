@@ -7004,3 +7004,4 @@ $removeparam=utm_v
 ^google-analytics-universal.min.js^
 ^google-analytics-universal-cart.min.js^
 ^webBehaviorTracking.min.js^
+^google-tag-manager-cart.min.js^

@@ -6865,3 +6865,4 @@
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 cdn.loadbee.com
 0.0.0.0 loadbee.com
+0.0.0.0 shopdirect.com

@@ -7008,3 +7008,4 @@ $removeparam=utm_v
 ^report.min.js^
 ^signifyd-fingerprint.min.js^
 ^emailCapture.min.js^
+^logger.min.js^

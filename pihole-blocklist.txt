@@ -6878,3 +6878,4 @@
 0.0.0.0 digitalfirstretail.com
 0.0.0.0 blobstorage-cdn.digitalfirstretail.com
 0.0.0.0 commerce.adobedtm.com
+0.0.0.0 cdn-scripts.signifyd.com

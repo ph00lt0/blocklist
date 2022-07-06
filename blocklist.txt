@@ -7016,3 +7016,4 @@ $removeparam=utm_v
 ||api.craftyclicks.co.uk^
 ||craftyclicks.co.uk^
 ||analitik.edevlet.gov.tr^
+||js.arcgis.com^

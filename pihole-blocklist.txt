@@ -6902,3 +6902,4 @@
 0.0.0.0 insticator-review-products.s3.amazonaws.com
 0.0.0.0 vntsm.com
 0.0.0.0 hb.vntsm.com
+0.0.0.0 smartclip.com

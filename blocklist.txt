@@ -7050,3 +7050,4 @@ $removeparam=channable
 ||insticator-review-products.s3.amazonaws.com^
 ||vntsm.com^
 ||hb.vntsm.com^
+||smartclip.com^

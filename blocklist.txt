@@ -7052,3 +7052,7 @@ $removeparam=channable
 ||hb.vntsm.com^
 ||smartclip.com^
 ||smartclip.net^
+||ad.lgappstv.com^
+||ibis.lgappstv.com^
+||smartshare.lgtvsdp.com^
+||yumenetworks.com^

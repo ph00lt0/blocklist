@@ -6866,3 +6866,4 @@
 0.0.0.0 cdn.loadbee.com
 0.0.0.0 loadbee.com
 0.0.0.0 shopdirect.com
+0.0.0.0 prod-celebrusv9.shopdirect.com

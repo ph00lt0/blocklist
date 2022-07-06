@@ -6983,3 +6983,4 @@ $removeparam=utm_v
 ||cdn.loadbee.com^
 ||loadbee.com^
 ||shopdirect.com^
+||prod-celebrusv9.shopdirect.com^

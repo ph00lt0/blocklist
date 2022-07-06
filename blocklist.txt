@@ -7003,3 +7003,4 @@ $removeparam=utm_v
 ||commerce.adobedtm.com^
 ^google-analytics-universal.min.js^
 ^google-analytics-universal-cart.min.js^
+^webBehaviorTracking.min.js^

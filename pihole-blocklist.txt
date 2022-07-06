@@ -6861,3 +6861,4 @@
 0.0.0.0 socket.thescv.team
 0.0.0.0 thescv.team
 0.0.0.0 megaweb-media.ao.com
+0.0.0.0 lister-merch-media.ao.com

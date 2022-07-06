@@ -7023,3 +7023,4 @@ $removeparam=utm_v
 ^smarttag.js^
 ||www.linkedin.com^$removeparam=lici
 ||www.linkedin.com^$removeparam=licu
+||www.linkedin.com^$removeparam=lipi

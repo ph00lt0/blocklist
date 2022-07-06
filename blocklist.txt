@@ -7001,3 +7001,4 @@ $removeparam=utm_v
 ||digitalfirstretail.com^
 ||blobstorage-cdn.digitalfirstretail.com^
 ||commerce.adobedtm.com^
+^google-analytics-universal.min.js^

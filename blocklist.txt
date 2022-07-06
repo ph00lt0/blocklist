@@ -7046,3 +7046,4 @@ $removeparam=channable
 ||prod.adspsp.com^
 ||soapps.net^
 ||hunchme.com^
+||insticator-localhost-products.s3.amazonaws.com^

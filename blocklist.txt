@@ -7014,3 +7014,4 @@ $removeparam=utm_v
 ||ui.swogo.net^
 ||swogo.net^
 ||api.craftyclicks.co.uk^
+||craftyclicks.co.uk^

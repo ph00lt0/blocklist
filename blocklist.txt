@@ -6987,3 +6987,4 @@ $removeparam=utm_v
 ||content.very.co.uk^
 ||cdn.cnetcontent.com^
 ||cnetcontent.com^
+||cdn.media.amplience.net^

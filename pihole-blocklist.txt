@@ -6870,3 +6870,4 @@
 0.0.0.0 content.very.co.uk
 0.0.0.0 cdn.cnetcontent.com
 0.0.0.0 cnetcontent.com
+0.0.0.0 cdn.media.amplience.net

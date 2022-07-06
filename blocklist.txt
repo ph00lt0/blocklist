@@ -6964,3 +6964,4 @@ $removeparam=utm_v
 ||stats.lineageos.org^
 ||reevoo.com^
 ||widgets.reevoo.com^
+||isitetv.com^

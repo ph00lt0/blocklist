@@ -6856,3 +6856,4 @@
 0.0.0.0 stats.lineageos.org
 0.0.0.0 reevoo.com
 0.0.0.0 widgets.reevoo.com
+0.0.0.0 isitetv.com

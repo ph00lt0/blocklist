@@ -6989,3 +6989,4 @@ $removeparam=utm_v
 ||cnetcontent.com^
 ||cdn.media.amplience.net^
 ||amplience.net^
+^criteo.min.js^

@@ -6869,3 +6869,4 @@
 0.0.0.0 prod-celebrusv9.shopdirect.com
 0.0.0.0 content.very.co.uk
 0.0.0.0 cdn.cnetcontent.com
+0.0.0.0 cnetcontent.com

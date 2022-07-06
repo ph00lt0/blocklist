@@ -6986,3 +6986,4 @@ $removeparam=utm_v
 ||prod-celebrusv9.shopdirect.com^
 ||content.very.co.uk^
 ||cdn.cnetcontent.com^
+||cnetcontent.com^

@@ -7051,3 +7051,4 @@ $removeparam=channable
 ||vntsm.com^
 ||hb.vntsm.com^
 ||smartclip.com^
+||smartclip.net^

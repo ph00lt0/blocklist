@@ -7015,3 +7015,4 @@ $removeparam=utm_v
 ||swogo.net^
 ||api.craftyclicks.co.uk^
 ||craftyclicks.co.uk^
+||analitik.edevlet.gov.tr^

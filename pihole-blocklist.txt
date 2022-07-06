@@ -6883,3 +6883,4 @@
 0.0.0.0 swogo.net
 0.0.0.0 api.craftyclicks.co.uk
 0.0.0.0 craftyclicks.co.uk
+0.0.0.0 analitik.edevlet.gov.tr

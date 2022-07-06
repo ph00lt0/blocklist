@@ -6889,3 +6889,4 @@
 0.0.0.0 logs2.xiti.com
 0.0.0.0 tarteaucitron.io
 0.0.0.0 api.early-birds.fr
+0.0.0.0 early-birds.fr

@@ -6959,3 +6959,4 @@ $removeparam=utm_v
 ||eprivacy.americanexpress.com^
 ||cdn2.hubspot.net^$script,important
 ||admarkt.marktplaats.nl^
+||analytics.apnewsregistry.com^

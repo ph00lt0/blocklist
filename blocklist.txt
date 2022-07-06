@@ -7020,3 +7020,4 @@ $removeparam=utm_v
 ||logs1407.xiti.com^
 ||logs2.xiti.com^
 ||tarteaucitron.io^
+^smarttag.js^

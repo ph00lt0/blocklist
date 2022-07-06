@@ -7058,3 +7058,4 @@ $removeparam=channable
 ||yumenetworks.com^
 ||www.youtube.com/youtubei/v1/log_event^
 ||play.google.com/log^
+||www.youtube.com/api/stats/qoe^

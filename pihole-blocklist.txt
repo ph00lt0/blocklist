@@ -6876,3 +6876,4 @@
 0.0.0.0 cdn.mark.reevoo.com
 0.0.0.0 magento-recs-sdk.adobe.net
 0.0.0.0 digitalfirstretail.com
+0.0.0.0 blobstorage-cdn.digitalfirstretail.com

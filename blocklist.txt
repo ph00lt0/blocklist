@@ -6999,3 +6999,4 @@ $removeparam=utm_v
 ||cdn.mark.reevoo.com^
 ||magento-recs-sdk.adobe.net^
 ||digitalfirstretail.com^
+||blobstorage-cdn.digitalfirstretail.com^

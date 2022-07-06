@@ -6966,3 +6966,4 @@ $removeparam=utm_v
 ||widgets.reevoo.com^
 ||isitetv.com^
 ||injection.chat.ao.com^
+||socket.thescv.team^

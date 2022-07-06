@@ -6858,3 +6858,4 @@
 0.0.0.0 widgets.reevoo.com
 0.0.0.0 isitetv.com
 0.0.0.0 injection.chat.ao.com
+0.0.0.0 socket.thescv.team

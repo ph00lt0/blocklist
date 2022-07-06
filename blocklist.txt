@@ -6960,3 +6960,4 @@ $removeparam=utm_v
 ||cdn2.hubspot.net^$script,important
 ||admarkt.marktplaats.nl^
 ||analytics.apnewsregistry.com^
+||myheritage-container.com^

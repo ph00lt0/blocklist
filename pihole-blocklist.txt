@@ -6852,3 +6852,4 @@
 0.0.0.0 eprivacy.americanexpress.com
 0.0.0.0 admarkt.marktplaats.nl
 0.0.0.0 analytics.apnewsregistry.com
+0.0.0.0 myheritage-container.com

@@ -7056,3 +7056,4 @@ $removeparam=channable
 ||ibis.lgappstv.com^
 ||smartshare.lgtvsdp.com^
 ||yumenetworks.com^
+||www.youtube.com/youtubei/v1/log_event^

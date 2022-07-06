@@ -6968,5 +6968,5 @@ $removeparam=utm_v
 ||injection.chat.ao.com^
 ||socket.thescv.team^
 ||thescv.team^
-||megaweb-media.ao.com^
+@@||megaweb-media.ao.com^  # Required for loading content
 ||lister-merch-media.ao.com^

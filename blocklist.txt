@@ -7036,3 +7036,4 @@ $removeparam=nlclid
 ||early-birds.fr^
 $removeparam=bl3nlclid
 ||richcall.io^
+||app-eu.richcall.io^

@@ -6891,3 +6891,4 @@
 0.0.0.0 api.early-birds.fr
 0.0.0.0 early-birds.fr
 0.0.0.0 richcall.io
+0.0.0.0 app-eu.richcall.io

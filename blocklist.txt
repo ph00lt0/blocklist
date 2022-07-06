@@ -7006,3 +7006,4 @@ $removeparam=utm_v
 ^webBehaviorTracking.min.js^
 ^google-tag-manager-cart.min.js^
 ^report.min.js^
+^signifyd-fingerprint.min.js^

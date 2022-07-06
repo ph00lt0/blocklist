@@ -7057,3 +7057,4 @@ $removeparam=channable
 ||smartshare.lgtvsdp.com^
 ||yumenetworks.com^
 ||www.youtube.com/youtubei/v1/log_event^
+||play.google.com/log^

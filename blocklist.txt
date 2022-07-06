@@ -6976,3 +6976,4 @@ $removeparam=utm_v
 ^Master_AOL.js^
 ||megaweb-media.ao.com/ao.web.energycertificatemodal/6/main.js^
 ||megaweb-media.ao.com/ao.web.layouttemplate/1.0.17.0/Master_Head.js^
+^affiliateBanner.AOL.js^

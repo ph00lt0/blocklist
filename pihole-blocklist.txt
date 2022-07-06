@@ -6880,3 +6880,4 @@
 0.0.0.0 commerce.adobedtm.com
 0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 ui.swogo.net
+0.0.0.0 swogo.net

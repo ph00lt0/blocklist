@@ -7012,3 +7012,4 @@ $removeparam=utm_v
 ^optgroup.min.js^
 ||cdn-scripts.signifyd.com^
 ||ui.swogo.net^
+||swogo.net^

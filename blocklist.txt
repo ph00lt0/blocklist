@@ -6963,3 +6963,4 @@ $removeparam=utm_v
 ||myheritage-container.com^
 ||stats.lineageos.org^
 ||reevoo.com^
+||widgets.reevoo.com^

@@ -6900,3 +6900,4 @@
 0.0.0.0 hunchme.com
 0.0.0.0 insticator-localhost-products.s3.amazonaws.com
 0.0.0.0 insticator-review-products.s3.amazonaws.com
+0.0.0.0 vntsm.com

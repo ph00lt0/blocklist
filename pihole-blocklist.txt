@@ -2644,7 +2644,7 @@
 0.0.0.0 yellow.co-operativebank.co.uk
 0.0.0.0 light.co-operativebank.co.uk
 0.0.0.0 light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com
-0.0.0.0 cdn2.hubspot.net
+! allow cdn2.hubspot.net reason: Required CDN for certain websites to load css
 0.0.0.0 api.hubapi.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 mypurecloud.de

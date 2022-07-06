@@ -7047,3 +7047,4 @@ $removeparam=channable
 ||soapps.net^
 ||hunchme.com^
 ||insticator-localhost-products.s3.amazonaws.com^
+||insticator-review-products.s3.amazonaws.com^

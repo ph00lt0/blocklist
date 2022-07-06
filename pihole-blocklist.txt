@@ -6871,3 +6871,4 @@
 0.0.0.0 cdn.cnetcontent.com
 0.0.0.0 cnetcontent.com
 0.0.0.0 cdn.media.amplience.net
+0.0.0.0 amplience.net

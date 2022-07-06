@@ -7013,3 +7013,4 @@ $removeparam=utm_v
 ||cdn-scripts.signifyd.com^
 ||ui.swogo.net^
 ||swogo.net^
+||api.craftyclicks.co.uk^

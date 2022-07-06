@@ -7045,3 +7045,4 @@ $removeparam=channable
 ||adspsp.com^
 ||prod.adspsp.com^
 ||soapps.net^
+||hunchme.com^

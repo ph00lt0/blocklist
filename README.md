@@ -28,8 +28,9 @@ Depending on where the list is used it will also block:
 
 <br>
 
-Recommended is to use Ublock Origin as it makes best use of filters, which are not all supported by others. 
-For home DNS resolving Adguard Home is superior in functionality over PiHole. 
+Recommended is to use uBlock Origin as it makes best use of the filters, as not all filters are supported by the other tools. 
+
+For home DNS resolving Adguard Home is superior in its functionality over PiHole. 
 
 
 ## How to add?

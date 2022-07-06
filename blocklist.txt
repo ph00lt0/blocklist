@@ -7025,3 +7025,4 @@ $removeparam=utm_v
 ||www.linkedin.com^$removeparam=licu
 ||www.linkedin.com^$removeparam=lipi
 ||www.linkedin.com^$removeparam=miniCompanyUrn
+||www.linkedin.com^$removeparam=origin

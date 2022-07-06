@@ -7019,3 +7019,4 @@ $removeparam=utm_v
 ||js.arcgis.com^
 ||logs1407.xiti.com^
 ||logs2.xiti.com^
+||tarteaucitron.io^

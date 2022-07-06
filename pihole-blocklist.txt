@@ -6886,3 +6886,4 @@
 0.0.0.0 analitik.edevlet.gov.tr
 0.0.0.0 js.arcgis.com
 0.0.0.0 logs1407.xiti.com
+0.0.0.0 logs2.xiti.com

@@ -6957,4 +6957,4 @@ $removeparam=utm_v
 ||rkdms.com^
 ||acxiom.com^
 ||eprivacy.americanexpress.com^
-||cdn2.hubspot.net/hub/*/hub_generated/template_assets/*/js/main.min.js^
+||cdn2.hubspot.net^$script

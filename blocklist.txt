@@ -6971,3 +6971,4 @@ $removeparam=utm_v
 @@||megaweb-media.ao.com^  # Required for loading content
 ||lister-merch-media.ao.com^
 ^cookieBanner.AOL.js^
+||megaweb-media.ao.com/ao.web.comparebar/16/main.js^

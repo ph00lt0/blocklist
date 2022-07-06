@@ -6998,3 +6998,4 @@ $removeparam=utm_v
 ||mark.reevoo.com^
 ||cdn.mark.reevoo.com^
 ||magento-recs-sdk.adobe.net^
+||digitalfirstretail.com^

@@ -6993,3 +6993,4 @@ $removeparam=utm_v
 ^cookie-message-AllBrands.min.js^
 ^bazaarVoice.js^
 ^loadbee_integration.js^
+^banner-tagging.min.js^

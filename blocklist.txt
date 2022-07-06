@@ -7039,3 +7039,4 @@ $removeparam=bl3nlclid
 ||app-eu.richcall.io^
 $removeparam=channable
 ||aiden.cx^
+||app.aiden.cx^

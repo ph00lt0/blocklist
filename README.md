@@ -13,7 +13,24 @@ This blocklists aims at blocking:
 - Malware
 - Spyware
 <br>
+
+Depending on where the list is used it will also block:
+- Cookie banners
+- Overflow blocking css
+- Ad loading scripts
+- Fingerprinting scripts
+- Tracking scripts and pixels
+- Analytical scripts
+- Newsletter scripts
+- Affliation scripts
+- Tracking parameters
+- Afflication parameters
+
 <br>
+
+Recommended is to use Ublock Origin as it makes best use of filters, which are not all supported by others. 
+For home DNS resolving Adguard Home is superior in functionality over PiHole. 
+
 
 ## How to add?
 
@@ -30,7 +47,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ### AdGuard 
 1. Open the AdGuard `settings`
 2. Navigate to `Filters`
-3. Scroll down to `Custom`
+3. Scroll down to **Custom**
 4. Enable the `custom switch`
 5. Click on `Custom`
 6. Click `Add custom filter`

@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220705
+! Version: 20220706
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -6957,3 +6957,4 @@ $removeparam=utm_v
 ||rkdms.com^
 ||acxiom.com^
 ||eprivacy.americanexpress.com^
+||cdn2.hubspot.net/hub/*/hub_generated/template_assets/*/js/main.min.js^

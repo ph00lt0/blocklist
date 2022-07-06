@@ -7029,3 +7029,4 @@ $removeparam=utm_v
 ||www.linkedin.com^$removeparam=f_JT
 ||www.linkedin.com^$removeparam=f_TPR
 ||www.linkedin.com^$removeparam=f_WT
+||www.linkedin.com^$removeparam=miniProfileUrn

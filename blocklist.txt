@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220706
+! Version: 20220707
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -7059,3 +7059,4 @@ $removeparam=channable
 ||www.youtube.com/youtubei/v1/log_event^
 ||play.google.com/log^
 ||www.youtube.com/api/stats/qoe^
+||22.at.atwola.com^

@@ -6908,3 +6908,4 @@
 0.0.0.0 ibis.lgappstv.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 yumenetworks.com
+0.0.0.0 22.at.atwola.com

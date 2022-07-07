@@ -7061,3 +7061,4 @@ $removeparam=channable
 ||www.youtube.com/api/stats/qoe^
 ||22.at.atwola.com^
 $removeparam=adcid
+||analytics.natlawreview.com^

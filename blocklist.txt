@@ -7060,3 +7060,4 @@ $removeparam=channable
 ||play.google.com/log^
 ||www.youtube.com/api/stats/qoe^
 ||22.at.atwola.com^
+$removeparam=adcid

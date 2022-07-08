@@ -7075,3 +7075,4 @@ $removeparam=at_campaign
 ^*/js/tracking/*^
 ^sentry.js^
 ||player.vimeo.com^$removeparam=app_id
+^*/duracelltomi-google-tag-manager/*^

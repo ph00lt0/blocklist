@@ -7074,3 +7074,4 @@ $removeparam=at_campaign
 ^*/mnd-track-client-*.js^
 ^*/js/tracking/*^
 ^sentry.js^
+||player.vimeo.com^$removeparam=app_id

@@ -7076,3 +7076,4 @@ $removeparam=at_campaign
 ^sentry.js^
 ||player.vimeo.com^$removeparam=app_id
 ^*/duracelltomi-google-tag-manager/*^
+||fresnel-events.vimeocdn.com^

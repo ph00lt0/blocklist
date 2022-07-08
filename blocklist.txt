@@ -7066,3 +7066,4 @@ $removeparam=adcid
 $removeparam=at_medium
 $removeparam=at_campaign
 ||static.nos.nl/js/tracking/kantar.js^
+||ditisdesupercooleappapi.nhnieuws.nl^

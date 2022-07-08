@@ -7077,3 +7077,4 @@ $removeparam=at_campaign
 ||player.vimeo.com^$removeparam=app_id
 ^*/duracelltomi-google-tag-manager/*^
 ||fresnel-events.vimeocdn.com^
+||counterapi.com^

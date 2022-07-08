@@ -7078,3 +7078,4 @@ $removeparam=at_campaign
 ^*/duracelltomi-google-tag-manager/*^
 ||fresnel-events.vimeocdn.com^
 ||counterapi.com^
+||badge.dimensions.ai^

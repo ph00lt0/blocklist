@@ -7064,3 +7064,4 @@ $removeparam=adcid
 ||analytics.natlawreview.com^
 ||a.publir.com^
 $removeparam=at_medium
+$removeparam=at_campaign

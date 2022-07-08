@@ -7072,3 +7072,4 @@ $removeparam=at_campaign
 ||attachments-ldn.imiengage.io^
 ||mnd-track-backend.herokuapp.com^
 ^*/mnd-track-client-*.js^
+^*/js/tracking/*^

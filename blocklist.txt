@@ -7079,3 +7079,4 @@ $removeparam=at_campaign
 ||fresnel-events.vimeocdn.com^
 ||counterapi.com^
 ||badge.dimensions.ai^
+||statistics.library.dmu.ac.uk^

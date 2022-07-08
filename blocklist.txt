@@ -7073,3 +7073,4 @@ $removeparam=at_campaign
 ||mnd-track-backend.herokuapp.com^
 ^*/mnd-track-client-*.js^
 ^*/js/tracking/*^
+^sentry.js^

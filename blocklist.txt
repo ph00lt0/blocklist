@@ -7104,3 +7104,4 @@ $removeparam=at_campaign
 ||g9706132415.co^
 ||g990421675.co^
 ||g9904216750.co^
+||geotargetly.co^

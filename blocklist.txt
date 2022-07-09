@@ -7108,3 +7108,4 @@ $removeparam=at_campaign
 ||34.120.31.228^
 ||www.johnlewis.com^$removeparam=irclickid
 ||www.johnlewis.com^$removeparam=tmcampid
+||www.johnlewis.com^$removeparam=s_afcid

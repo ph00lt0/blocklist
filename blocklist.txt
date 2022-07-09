@@ -7115,3 +7115,4 @@ $removeparam=wtrint
 ||sec.levexis.com^
 ||levexis.com^
 ||d.impactradius-event.com^
+||richrelevance.com^

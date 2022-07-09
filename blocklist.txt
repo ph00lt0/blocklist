@@ -7122,3 +7122,4 @@ $removeparam=wtrint
 ||kissmetrics.com^
 ||smetrics.vonage.com^
 ||insights.jumper.ai^
+||piwik.ag-projects.com^

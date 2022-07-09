@@ -7119,3 +7119,4 @@ $removeparam=wtrint
 ||media.richrelevance.com^
 ||techlab-cdn.com^
 ||p11.techlab-cdn.com^
+||kissmetrics.com^

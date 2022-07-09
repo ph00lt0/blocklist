@@ -6921,3 +6921,4 @@
 0.0.0.0 statistics.library.dmu.ac.uk
 0.0.0.0 region1.google-analytics.com
 0.0.0.0 g9508048080.co
+0.0.0.0 geotargetly.com

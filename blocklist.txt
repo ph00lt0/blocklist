@@ -7113,3 +7113,4 @@ $removeparam=at_campaign
 $removeparam=wtrint
 ||edigitalsurvey.com^
 ||sec.levexis.com^
+||levexis.com^

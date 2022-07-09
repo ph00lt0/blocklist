@@ -7109,3 +7109,4 @@ $removeparam=at_campaign
 ||www.johnlewis.com^$removeparam=irclickid
 ||www.johnlewis.com^$removeparam=tmcampid
 ||www.johnlewis.com^$removeparam=s_afcid
+||www.johnlewis.com^$removeparam=Ptype

@@ -7120,3 +7120,4 @@ $removeparam=wtrint
 ||techlab-cdn.com^
 ||p11.techlab-cdn.com^
 ||kissmetrics.com^
+||smetrics.vonage.com^

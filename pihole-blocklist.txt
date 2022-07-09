@@ -6953,3 +6953,4 @@
 0.0.0.0 techlab-cdn.com
 0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 kissmetrics.com
+0.0.0.0 smetrics.vonage.com

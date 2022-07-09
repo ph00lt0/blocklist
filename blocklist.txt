@@ -7081,3 +7081,4 @@ $removeparam=at_campaign
 ||badge.dimensions.ai^
 ||statistics.library.dmu.ac.uk^
 ||payments.google.com/payments/jslogs^
+||region1.google-analytics.com^

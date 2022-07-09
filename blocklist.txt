@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220709
+! Version: 20220710
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -7121,3 +7121,4 @@ $removeparam=wtrint
 ||p11.techlab-cdn.com^
 ||kissmetrics.com^
 ||smetrics.vonage.com^
+||insights.jumper.ai^

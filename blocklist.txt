@@ -3067,7 +3067,7 @@
 ||cdn.embedly.com^
 ||api.rollbar.com^
 ||rollbar.com^
-||assets.digital.coop.co.uk^
+@@||assets.digital.coop.co.uk^  # CDN
 ||swisscomag.tt.omtrdc.net^
 ||tt.omtrdc.net^
 ||monetate.net^

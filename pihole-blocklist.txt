@@ -3064,7 +3064,7 @@
 0.0.0.0 cdn.embedly.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 rollbar.com
-0.0.0.0 assets.digital.coop.co.uk
+! allow assets.digital.coop.co.uk reason: CDN
 0.0.0.0 swisscomag.tt.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 monetate.net

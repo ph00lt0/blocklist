@@ -7153,3 +7153,14 @@ www.darktrace.com###cookie-notice-ct
 @@||socialize.eu1.gigya.com^$xhr,domain=www.videoland.com # unbreak videoland
 ||7f38abc20659e7ff606d724582137e0491115f54.cws.conviva.com^
 ||player.rtl.nl/static/bitmovin/ui/bitmovinplyer-ui-custom-advertising.css^
+||https://cdn.cookielaw.org/consent/*/OtAutoBlock.js^$script
+||https://cdn.cookielaw.org/vendorlist/iab2Data.json^
+||https://cdn.cookielaw.org/scripttemplates/otSDKStub.js^$script
+||https://static.videoland.com/static/152368/elastic/elastic-apm-rum.umd.min.js^$script
+||https://player.rtl.nl/static/conviva/conviva-core-sdk.js^$script
+||www.videoland.com/api/v3/recommended^
+@@||cdns.eu1.gigya.com/sdk.config.get$xhr,1p # unbreak videoland
+@@||cdns.eu1.gigya.com/gs/webSdk/*$subdocument,domain=videoland.com # unbreak videoland
+@@||cdns.eu1.gigya.com/gs/sso.htm$subdocument,domain=www.videoland.com # unbreak videoland
+@@||socialize.eu1.gigya.com/socialize.getIDs$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+@@||accounts.eu1.gigya.com/accounts.login$xhr,domain=cdns.eu1.gigya.com # unbreak videoland

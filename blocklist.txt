@@ -7125,3 +7125,4 @@ $removeparam=wtrint
 ||piwik.ag-projects.com^
 $removeparam=hsa_acc
 $removeparam=hsa_cam
+$removeparam=hsa_grp

@@ -7137,3 +7137,4 @@ $removeparam=hsa_tgt
 $removeparam=hsa_mt
 $removeparam=refid
 ||links.goodtime.io/wf/open^
+$removeparam=sc_cmp

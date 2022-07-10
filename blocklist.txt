@@ -7146,3 +7146,4 @@ $removeparam=icid
 www.darktrace.com###cookie-notice-ct
 ||www.videoland.com/fout^
 ||pm.freemium.cp-prdw.rtlwecloudservices.nl/intake/v2/rum/events^
+||www.videoland.com/api/v3/geo^

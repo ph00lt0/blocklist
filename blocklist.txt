@@ -7139,3 +7139,4 @@ $removeparam=refid
 ||links.goodtime.io/wf/open^
 $removeparam=sc_cmp
 $removeparam=icid
+||yottaa.net^

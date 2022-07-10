@@ -7124,3 +7124,4 @@ $removeparam=wtrint
 ||insights.jumper.ai^
 ||piwik.ag-projects.com^
 $removeparam=hsa_acc
+$removeparam=hsa_cam

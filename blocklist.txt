@@ -7167,3 +7167,4 @@ www.darktrace.com###cookie-notice-ct
 @@||accounts.eu1.gigya.com/accounts.getAccountInfo$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
 @@||accounts.eu1.gigya.com/accounts.webSdkBootstrap$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
 @@||accounts.eu1.gigya.com/accounts.logout$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+||tag.1rx.io^

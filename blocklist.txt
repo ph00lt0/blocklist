@@ -7130,3 +7130,4 @@ $removeparam=hsa_ad
 $removeparam=hsa_net
 $removeparam=hsa_src
 $removeparam=hsa_ver
+$removeparam=hsa_la

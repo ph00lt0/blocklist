@@ -6961,3 +6961,4 @@
 0.0.0.0 7f38abc20659e7ff606d724582137e0491115f54.cws.conviva.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 1rx.io
+0.0.0.0 ads.servenobid.com

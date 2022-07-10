@@ -7140,3 +7140,4 @@ $removeparam=refid
 $removeparam=sc_cmp
 $removeparam=icid
 ||yottaa.net^
+||qoe-1.yottaa.net^

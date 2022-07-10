@@ -7133,3 +7133,4 @@ $removeparam=hsa_ver
 $removeparam=hsa_la
 $removeparam=hsa_ol
 $removeparam=hsa_kw
+$removeparam=hsa_tgt

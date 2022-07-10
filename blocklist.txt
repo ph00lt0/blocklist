@@ -7142,3 +7142,4 @@ $removeparam=icid
 ||yottaa.net^
 ||qoe-1.yottaa.net^
 ||duckduckgo.com^$removeparam=ia
+||duckduckgo.com^$removeparam=t

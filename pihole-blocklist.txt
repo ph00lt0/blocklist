@@ -6964,3 +6964,4 @@
 0.0.0.0 ads.servenobid.com
 0.0.0.0 c2shb.pubgw.yahoo.com
 0.0.0.0 prebid.media.net
+0.0.0.0 ookla-d.openx.net

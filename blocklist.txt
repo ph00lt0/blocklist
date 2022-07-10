@@ -7172,3 +7172,4 @@ www.darktrace.com###cookie-notice-ct
 ||ads.servenobid.com^
 ||c2shb.pubgw.yahoo.com^
 ||prebid.media.net^
+||ookla-d.openx.net^

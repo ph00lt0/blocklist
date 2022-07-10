@@ -7151,3 +7151,4 @@ www.darktrace.com###cookie-notice-ct
 @@||cdns.gigya.com^$domain=videoland.com # unbreak videoland
 @@||cdns.eu1.gigya.com^$xhr,domain=www.videoland.com # unbreak videoland
 @@||socialize.eu1.gigya.com^$xhr,domain=www.videoland.com # unbreak videoland
+||7f38abc20659e7ff606d724582137e0491115f54.cws.conviva.com^

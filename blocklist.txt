@@ -7144,3 +7144,4 @@ $removeparam=icid
 ||duckduckgo.com^$removeparam=ia
 ||duckduckgo.com^$removeparam=t
 www.darktrace.com###cookie-notice-ct
+||www.videoland.com/fout^

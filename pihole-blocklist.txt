@@ -6962,3 +6962,4 @@
 0.0.0.0 tag.1rx.io
 0.0.0.0 1rx.io
 0.0.0.0 ads.servenobid.com
+0.0.0.0 c2shb.pubgw.yahoo.com

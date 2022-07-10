@@ -7170,3 +7170,4 @@ www.darktrace.com###cookie-notice-ct
 ||tag.1rx.io^
 ||1rx.io^
 ||ads.servenobid.com^
+||c2shb.pubgw.yahoo.com^

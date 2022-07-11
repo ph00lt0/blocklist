@@ -6975,3 +6975,4 @@
 0.0.0.0 rock5rice.com
 0.0.0.0 count.carrierzone.com
 0.0.0.0 chatbot.alturing.eu
+0.0.0.0 decision.flagship.io

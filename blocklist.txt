@@ -7184,3 +7184,4 @@ nos.nl##+js(cookie-remover, kantar_id)
 ||static.nos.nl/js/sts.js^
 nos.nl##+js(cookie-remover, atidvisitor)
 nos.nl##+js(cookie-remover, atuserid)
+nos.nl##+js(cookie-remover, _ain_uid)

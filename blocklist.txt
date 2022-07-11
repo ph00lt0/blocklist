@@ -7180,3 +7180,4 @@ nos.nl##+js(cookie-remover, kantar_id)
 ||nmonpoendpoint.2cnt.net^
 ||2cnt.net^
 ||static.nos.nl/smartocto/insights/v1.0.0/stf.js^
+||static.nos.nl/smartocto/tentacles/v*/tentacle.js^

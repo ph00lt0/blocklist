@@ -7177,3 +7177,4 @@ www.darktrace.com###cookie-notice-ct
 ||altrulabs.com^
 ||us-central1-report-uri-openathens.cloudfunctions.net^
 nos.nl##+js(cookie-remover, kantar_id)
+||nmonpoendpoint.2cnt.net^

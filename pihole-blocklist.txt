@@ -6968,3 +6968,4 @@
 0.0.0.0 widget.altrulabs.com
 0.0.0.0 altrulabs.com
 0.0.0.0 us-central1-report-uri-openathens.cloudfunctions.net
+0.0.0.0 nmonpoendpoint.2cnt.net

@@ -32,8 +32,8 @@ if [ "$domain" == "[A[A" ]; then
     exit
 fi
 
-if [ "$param" == "" ]; then
-    echo "No parameter provided"
+if [ "$ref_cookie" == "" ]; then
+    echo "No cookie reference name provided"
     exit
 fi
 

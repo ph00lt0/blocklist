@@ -6970,3 +6970,4 @@
 0.0.0.0 us-central1-report-uri-openathens.cloudfunctions.net
 0.0.0.0 nmonpoendpoint.2cnt.net
 0.0.0.0 2cnt.net
+0.0.0.0 metrics.nu.nl

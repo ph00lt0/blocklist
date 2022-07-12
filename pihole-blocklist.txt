@@ -6997,3 +6997,4 @@
 0.0.0.0 intg.snapchat.com
 0.0.0.0 surveysparrow.com
 0.0.0.0 gc.zgo.at
+0.0.0.0 jsv3.recruitics.com

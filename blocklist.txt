@@ -7204,3 +7204,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||cdn.plyr.io^
 ||plyr.io^
 ||cdn.curalate.com^
+||curalate.com^

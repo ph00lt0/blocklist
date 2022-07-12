@@ -6983,3 +6983,4 @@
 0.0.0.0 convertkit.com
 0.0.0.0 cdn.linkmink.com
 0.0.0.0 go.adyen.com
+0.0.0.0 cdn.plyr.io

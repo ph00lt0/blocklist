@@ -7201,3 +7201,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||convertkit.com^
 ||cdn.linkmink.com^
 ||go.adyen.com^
+||cdn.plyr.io^

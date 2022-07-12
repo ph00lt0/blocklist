@@ -7202,3 +7202,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||cdn.linkmink.com^
 ||go.adyen.com^
 ||cdn.plyr.io^
+||plyr.io^

@@ -7207,3 +7207,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||curalate.com^
 ^dwanalytics-*.js^
 ||listrakbi.com^
+||highstreetapp.com^

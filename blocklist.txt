@@ -7208,3 +7208,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ^dwanalytics-*.js^
 ||listrakbi.com^
 ||highstreetapp.com^
+||www.linkedin.com^$removeparam=trackingId

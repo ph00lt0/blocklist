@@ -6994,3 +6994,4 @@
 0.0.0.0 www.tp88trk.com
 0.0.0.0 affiliatepluginintegration.cj.com
 0.0.0.0 cj.com
+0.0.0.0 intg.snapchat.com

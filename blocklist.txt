@@ -7205,3 +7205,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||plyr.io^
 ||cdn.curalate.com^
 ||curalate.com^
+^dwanalytics-*.js^

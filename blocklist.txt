@@ -6987,7 +6987,7 @@ $removeparam=utm_v
 ||content.very.co.uk^
 ||cdn.cnetcontent.com^
 ||cnetcontent.com^
-||cdn.media.amplience.net^
+@@||cdn.media.amplience.net^  # Image CDN
 ||amplience.net^
 ^criteo.min.js^
 ^cookie-message-AllBrands.min.js^

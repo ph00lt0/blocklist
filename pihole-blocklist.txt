@@ -6870,7 +6870,7 @@
 0.0.0.0 content.very.co.uk
 0.0.0.0 cdn.cnetcontent.com
 0.0.0.0 cnetcontent.com
-0.0.0.0 cdn.media.amplience.net
+! allow cdn.media.amplience.net reason: Image CDN
 0.0.0.0 amplience.net
 0.0.0.0 mark.reevoo.com
 0.0.0.0 cdn.mark.reevoo.com

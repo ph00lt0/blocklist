@@ -6985,3 +6985,4 @@
 0.0.0.0 go.adyen.com
 0.0.0.0 cdn.plyr.io
 0.0.0.0 plyr.io
+0.0.0.0 cdn.curalate.com

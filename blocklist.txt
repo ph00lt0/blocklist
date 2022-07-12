@@ -7203,3 +7203,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||go.adyen.com^
 ||cdn.plyr.io^
 ||plyr.io^
+||cdn.curalate.com^

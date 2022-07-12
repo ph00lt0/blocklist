@@ -6981,3 +6981,4 @@
 0.0.0.0 favorable-harmonious.jonathandupre.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 convertkit.com
+0.0.0.0 cdn.linkmink.com

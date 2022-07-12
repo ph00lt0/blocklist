@@ -7210,3 +7210,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||highstreetapp.com^
 ||www.linkedin.com^$removeparam=trackingId
 ||www.linkedin.com^$removeparam=alternateChannel
+||www.linkedin.com^$removeparam=refId

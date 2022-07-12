@@ -6976,3 +6976,4 @@
 0.0.0.0 count.carrierzone.com
 0.0.0.0 chatbot.alturing.eu
 0.0.0.0 decision.flagship.io
+0.0.0.0 www.klaviyo.com

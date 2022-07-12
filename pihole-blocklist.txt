@@ -6995,3 +6995,4 @@
 0.0.0.0 affiliatepluginintegration.cj.com
 0.0.0.0 cj.com
 0.0.0.0 intg.snapchat.com
+0.0.0.0 surveysparrow.com

@@ -7229,3 +7229,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||comeet.co^
 ||www.euroclix.nl^
 ||www.euroclixmastercard.nl^
+||www.opiniepeilers.nl^

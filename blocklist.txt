@@ -7265,3 +7265,4 @@ armemberplugin.com##.social-share-icons-list
 ||acuityscheduling.com^
 ||new-consent-production-cloudfront.182260396177.eu-west-1.ext.cloud.onenet.nl^
 ||keymaker.synology.com^
+||checkipv6.synology.com^

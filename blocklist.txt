@@ -7302,3 +7302,4 @@ armemberplugin.com##.social-share-icons-list
 ||ichnaea-web.netflix.com^
 ||dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com^
 ||ichnaea-web.dradis.netflix.com^
+||ichnaea-web.us-east-1.internal.dradis.netflix.com^

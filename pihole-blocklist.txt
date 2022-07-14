@@ -7045,3 +7045,4 @@
 0.0.0.0 cloud.seekda.com
 0.0.0.0 invite.duolingo.com
 0.0.0.0 ureca.samsungapps.com
+0.0.0.0 www.bestappsale.com

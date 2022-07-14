@@ -7278,3 +7278,4 @@ armemberplugin.com##.social-share-icons-list
 ||cloud.seekda.com^
 ||invite.duolingo.com^
 ||ureca.samsungapps.com^
+||www.bestappsale.com^

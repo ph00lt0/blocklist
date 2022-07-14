@@ -7254,3 +7254,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||translate-pa.googleapis.com^$third-party
 
 armemberplugin.com##body:style(overflow: auto!important)
+armemberplugin.com##+js(rc, html, cp-custom-viewport, stay)

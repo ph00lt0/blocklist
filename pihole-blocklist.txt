@@ -7034,3 +7034,4 @@
 0.0.0.0 keymaker.synology.com
 0.0.0.0 checkipv6.synology.com
 0.0.0.0 license.synology.com
+0.0.0.0 content-autofill.googleapis.com

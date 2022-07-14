@@ -7267,3 +7267,4 @@ armemberplugin.com##.social-share-icons-list
 ||keymaker.synology.com^
 ||checkipv6.synology.com^
 ||license.synology.com^
+||content-autofill.googleapis.com^

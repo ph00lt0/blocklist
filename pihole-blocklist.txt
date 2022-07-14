@@ -7051,3 +7051,4 @@
 0.0.0.0 internaltestego.netlify.com
 0.0.0.0 email.cgroup.online
 0.0.0.0 autocomplete.willhaben.at
+0.0.0.0 assistent.tst.kpn.com

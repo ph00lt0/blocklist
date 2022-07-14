@@ -7284,3 +7284,4 @@ armemberplugin.com##.social-share-icons-list
 ||internaltestego.netlify.com^
 ||email.cgroup.online^
 ||autocomplete.willhaben.at^
+||assistent.tst.kpn.com^

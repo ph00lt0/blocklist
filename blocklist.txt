@@ -7258,3 +7258,4 @@ armemberplugin.com##+js(rc, cp-overflow-hidden, html, stay)
 armemberplugin.com##+js(rc, cp-exceed-viewport, html, stay)
 armemberplugin.com##.social-share-icons-list
 ||snsbank.demdex.net^
+||voledevice-pa.googleapis.com^

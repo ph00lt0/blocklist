@@ -7271,3 +7271,4 @@ armemberplugin.com##.social-share-icons-list
 ||cn-ms.galaxyappstore.com^
 ||brb.duolingo.com^
 ||frontendlogging.parknowportal.com^
+||quality.seekda.com^

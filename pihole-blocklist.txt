@@ -7059,3 +7059,4 @@
 0.0.0.0 ageverify.com
 0.0.0.0 tlo.com
 0.0.0.0 kompas.services
+0.0.0.0 bin.kompas.services

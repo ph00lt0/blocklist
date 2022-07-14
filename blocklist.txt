@@ -7275,3 +7275,4 @@ armemberplugin.com##.social-share-icons-list
 ||global.quickconnect.to^
 ||at.cylex.de^
 ||osm.cylex-international.com^
+||cloud.seekda.com^

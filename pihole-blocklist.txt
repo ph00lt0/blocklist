@@ -7042,3 +7042,4 @@
 0.0.0.0 global.quickconnect.to
 0.0.0.0 at.cylex.de
 0.0.0.0 osm.cylex-international.com
+0.0.0.0 cloud.seekda.com

@@ -622,7 +622,8 @@
 ||safebrowsing.clients.google.com^
 ||safebrowsing.googleapis.com^
 ||userlocation.googleapis.com^
-||*-pa.googleapis.com^
+@@||*-pa.googleapis.com^ # Required for functionality of Google Apps
+||*-pa.googleapis.com^$third-party
 ||googleadservices.com^
 @@||mtalk.google.com^  # Google Cloud Messaging
 ||smartlock.google.com^

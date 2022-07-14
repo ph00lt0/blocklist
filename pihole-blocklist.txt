@@ -621,7 +621,7 @@
 0.0.0.0 safebrowsing.clients.google.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 userlocation.googleapis.com
-0.0.0.0 *-pa.googleapis.com
+! allow *-pa.googleapis.com reason: Required for functionality of Google Apps
 0.0.0.0 googleadservices.com
 ! allow mtalk.google.com reason: Google Cloud Messaging
 0.0.0.0 smartlock.google.com

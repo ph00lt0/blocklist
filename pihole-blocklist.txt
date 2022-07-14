@@ -7058,3 +7058,4 @@
 0.0.0.0 ageverify.co
 0.0.0.0 ageverify.com
 0.0.0.0 tlo.com
+0.0.0.0 kompas.services

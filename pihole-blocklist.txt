@@ -7013,3 +7013,4 @@
 0.0.0.0 click.email.vimeo.com
 0.0.0.0 t.lenovo.com
 0.0.0.0 porjs.com
+0.0.0.0 cdn.pickystory.com

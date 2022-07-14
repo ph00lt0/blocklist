@@ -7022,3 +7022,4 @@
 0.0.0.0 vimeo-realtime-presence-prod-default-rtdb.firebaseio.com
 0.0.0.0 s-usc1f-nss-5520.firebaseio.com
 0.0.0.0 lighthouse.vimeocdn.com
+0.0.0.0 magisto.com

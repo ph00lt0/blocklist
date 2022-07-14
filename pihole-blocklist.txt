@@ -7027,3 +7027,4 @@
 0.0.0.0 snsbank.demdex.net
 0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 growth-pa.googleapis.com
+0.0.0.0 phonedeviceverification-pa.googleapis.com

@@ -7260,3 +7260,4 @@ armemberplugin.com##.social-share-icons-list
 ||snsbank.demdex.net^
 ||voledevice-pa.googleapis.com^
 ||growth-pa.googleapis.com^
+||phonedeviceverification-pa.googleapis.com^

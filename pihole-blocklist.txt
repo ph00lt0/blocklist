@@ -7060,3 +7060,4 @@
 0.0.0.0 tlo.com
 0.0.0.0 kompas.services
 0.0.0.0 bin.kompas.services
+0.0.0.0 region1.app-measurement.com

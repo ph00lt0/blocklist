@@ -7268,3 +7268,4 @@ armemberplugin.com##.social-share-icons-list
 ||checkipv6.synology.com^
 ||license.synology.com^
 ||content-autofill.googleapis.com^
+||cn-ms.galaxyappstore.com^

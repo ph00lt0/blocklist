@@ -7270,3 +7270,4 @@ armemberplugin.com##.social-share-icons-list
 ||content-autofill.googleapis.com^
 ||cn-ms.galaxyappstore.com^
 ||brb.duolingo.com^
+||frontendlogging.parknowportal.com^

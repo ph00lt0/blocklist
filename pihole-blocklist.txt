@@ -7037,3 +7037,4 @@
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 cn-ms.galaxyappstore.com
 0.0.0.0 brb.duolingo.com
+0.0.0.0 frontendlogging.parknowportal.com

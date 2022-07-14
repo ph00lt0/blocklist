@@ -7264,3 +7264,4 @@ armemberplugin.com##.social-share-icons-list
 ||bifrost-public-v4.gw.postman.com^
 ||acuityscheduling.com^
 ||new-consent-production-cloudfront.182260396177.eu-west-1.ext.cloud.onenet.nl^
+||keymaker.synology.com^

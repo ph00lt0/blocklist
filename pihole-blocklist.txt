@@ -7031,3 +7031,4 @@
 0.0.0.0 bifrost-public-v4.gw.postman.com
 0.0.0.0 acuityscheduling.com
 0.0.0.0 new-consent-production-cloudfront.182260396177.eu-west-1.ext.cloud.onenet.nl
+0.0.0.0 keymaker.synology.com

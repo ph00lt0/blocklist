@@ -7243,3 +7243,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||pickystory.com^
 ||www.webyze.com^
 ||acp-magento.appspot.com^
+||cdn.solvvy.com^

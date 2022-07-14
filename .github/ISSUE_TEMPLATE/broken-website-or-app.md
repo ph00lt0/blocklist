@@ -8,13 +8,15 @@ assignees: ''
 ---
 
 **Tool used (pick one)**:
-[ ] uBlock Origin
-[ ] Adguard for iOS
-[ ] Adguard for Android
-[ ] Adguard Browser add-on/extension
-[ ] Brave Ad Block
-[ ] PiHole
-[ ] Adguard Home
+ - [] uBlock Origin
+ - [] Adguard for iOS
+ - [] Adguard for Android
+ - [] Adguard Browser add-on/extension
+ - [] Brave Ad Block
+ - [] PiHole
+ - [] Adguard Home
+
+[comment]: Change one of the boxes to -[x] to "select" it.
 
 
 **What service are you trying to use?'**

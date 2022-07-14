@@ -7237,3 +7237,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||t.imgur.com^
 ||click.email.vimeo.com^
 ^tracking_pixel^
+||t.lenovo.com^

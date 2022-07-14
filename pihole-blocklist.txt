@@ -1506,7 +1506,7 @@
 0.0.0.0 grant.rewards.brave.com
 0.0.0.0 variations.brave.com
 0.0.0.0 ads-serve.brave.com
-0.0.0.0 sync-v2.brave.com
+! allow sync-v2.brave.com reason: Not a tracker
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 cdn.syndication.twimg.com
 0.0.0.0 pbs.twimg.com

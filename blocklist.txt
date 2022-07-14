@@ -1508,7 +1508,7 @@
 ||grant.rewards.brave.com^
 ||variations.brave.com^
 ||ads-serve.brave.com^
-||sync-v2.brave.com^
+@@||sync-v2.brave.com^  # Not a tracker
 ||firebase-settings.crashlytics.com^
 ||cdn.syndication.twimg.com^
 ||pbs.twimg.com^

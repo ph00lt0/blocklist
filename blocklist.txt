@@ -7286,3 +7286,4 @@ armemberplugin.com##.social-share-icons-list
 ||autocomplete.willhaben.at^
 ||assistent.tst.kpn.com^
 ||fast.wistia.net^
+||cnpmjs.org^

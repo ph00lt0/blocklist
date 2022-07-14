@@ -7261,3 +7261,4 @@ armemberplugin.com##.social-share-icons-list
 ||voledevice-pa.googleapis.com^
 ||growth-pa.googleapis.com^
 ||phonedeviceverification-pa.googleapis.com^
+||bifrost-public-v4.gw.postman.com^

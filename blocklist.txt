@@ -7297,3 +7297,4 @@ armemberplugin.com##.social-share-icons-list
 ||kompas.services^
 ||bin.kompas.services^
 ||region1.app-measurement.com^
+||cdn-settings.segment.com^

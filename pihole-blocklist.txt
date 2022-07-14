@@ -7056,3 +7056,4 @@
 0.0.0.0 cnpmjs.org
 0.0.0.0 ap01.net
 0.0.0.0 ageverify.co
+0.0.0.0 ageverify.com

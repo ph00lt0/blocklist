@@ -46,6 +46,8 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 5. Press `Save`
 
 ### AdGuard 
+Click [here](abp:subscribe?location=https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt) to add the list or follow steps below
+
 1. Open the AdGuard `settings`
 2. Navigate to `Filters`
 3. Scroll down to **Custom**

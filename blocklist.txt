@@ -7244,3 +7244,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||www.webyze.com^
 ||acp-magento.appspot.com^
 ||cdn.solvvy.com^
+||solvvy.com^

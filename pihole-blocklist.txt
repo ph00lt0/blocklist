@@ -7018,3 +7018,4 @@
 0.0.0.0 www.webyze.com
 0.0.0.0 acp-magento.appspot.com
 0.0.0.0 cdn.solvvy.com
+0.0.0.0 solvvy.com

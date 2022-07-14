@@ -16,7 +16,7 @@ assignees: ''
  - [ ] PiHole
  - [ ] Adguard Home
 
-[comment]: Change one of the boxes to - [x] to "select" it.
+[comment]: <> (Change one of the boxes to - [x] to "select" it.)
 
 
 **What service are you trying to use?'**

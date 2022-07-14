@@ -7291,3 +7291,4 @@ armemberplugin.com##.social-share-icons-list
 ||ap01.net^
 ||ageverify.co^
 ||www.wired.com/hotzones/src/pixelpropagate.js^
+||www.wired.com/user-context^

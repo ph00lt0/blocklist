@@ -7253,3 +7253,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 @@||translate-pa.googleapis.com^ # Required for Google Translate
 ||translate-pa.googleapis.com^$third-party
 
+armemberplugin.com##body:style(overflow: auto!important)

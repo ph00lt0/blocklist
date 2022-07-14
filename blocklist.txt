@@ -7277,3 +7277,4 @@ armemberplugin.com##.social-share-icons-list
 ||osm.cylex-international.com^
 ||cloud.seekda.com^
 ||invite.duolingo.com^
+||ureca.samsungapps.com^

@@ -7288,3 +7288,4 @@ armemberplugin.com##.social-share-icons-list
 ||fast.wistia.net^
 ||cnpmjs.org^
 ||ap01.net^
+||ageverify.co^

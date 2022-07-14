@@ -7300,3 +7300,4 @@ armemberplugin.com##.social-share-icons-list
 ||cdn-settings.segment.com^
 ||ichnaea.netflix.com^
 ||ichnaea-web.netflix.com^
+||dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com^

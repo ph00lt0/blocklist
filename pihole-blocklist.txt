@@ -7064,3 +7064,4 @@
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com

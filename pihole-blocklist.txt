@@ -7068,3 +7068,4 @@
 0.0.0.0 ichnaea-web.dradis.netflix.com
 0.0.0.0 ichnaea-web.us-east-1.internal.dradis.netflix.com
 0.0.0.0 dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
+0.0.0.0 dualstack.ichnaea-web-1229681634.us-west-2.elb.amazonaws.com

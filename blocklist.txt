@@ -7276,3 +7276,4 @@ armemberplugin.com##.social-share-icons-list
 ||at.cylex.de^
 ||osm.cylex-international.com^
 ||cloud.seekda.com^
+||invite.duolingo.com^

@@ -7287,3 +7287,4 @@ armemberplugin.com##.social-share-icons-list
 ||assistent.tst.kpn.com^
 ||fast.wistia.net^
 ||cnpmjs.org^
+||ap01.net^

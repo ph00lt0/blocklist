@@ -7054,3 +7054,4 @@
 0.0.0.0 assistent.tst.kpn.com
 0.0.0.0 fast.wistia.net
 0.0.0.0 cnpmjs.org
+0.0.0.0 ap01.net

@@ -7269,3 +7269,4 @@ armemberplugin.com##.social-share-icons-list
 ||license.synology.com^
 ||content-autofill.googleapis.com^
 ||cn-ms.galaxyappstore.com^
+||brb.duolingo.com^

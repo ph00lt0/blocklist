@@ -7029,3 +7029,4 @@
 0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 phonedeviceverification-pa.googleapis.com
 0.0.0.0 bifrost-public-v4.gw.postman.com
+0.0.0.0 acuityscheduling.com

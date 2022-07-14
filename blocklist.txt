@@ -7251,3 +7251,4 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||lighthouse.vimeocdn.com^
 ||magisto.com^
 ||vimeo-push-to-social.firebaseio.com^
+||translate-pa.googleapis.com^-party

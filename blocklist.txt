@@ -7298,3 +7298,4 @@ armemberplugin.com##.social-share-icons-list
 ||bin.kompas.services^
 ||region1.app-measurement.com^
 ||cdn-settings.segment.com^
+||ichnaea.netflix.com^

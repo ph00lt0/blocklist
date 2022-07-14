@@ -7062,3 +7062,4 @@
 0.0.0.0 bin.kompas.services
 0.0.0.0 region1.app-measurement.com
 0.0.0.0 cdn-settings.segment.com
+0.0.0.0 ichnaea.netflix.com

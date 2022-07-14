@@ -7257,3 +7257,4 @@ armemberplugin.com##+js(rc, cp-custom-viewport, html, stay)
 armemberplugin.com##+js(rc, cp-overflow-hidden, html, stay)
 armemberplugin.com##+js(rc, cp-exceed-viewport, html, stay)
 armemberplugin.com##.social-share-icons-list
+||snsbank.demdex.net^

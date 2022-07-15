@@ -7336,3 +7336,4 @@ armemberplugin.com##.social-share-icons-list
 ||*.triodos.*/ib-seam/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/*/PackedCompressed/packed/packed.js^
 ^AppMeasurement.min.js^
 ||direct.credit-suisse.com/dn/p/a/aep-analytics/*^
+||digitalid.santanderbank.com/fp/tags.js^

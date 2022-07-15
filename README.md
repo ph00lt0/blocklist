@@ -74,13 +74,14 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 ### Brave
 1. Open the hamburger menu `≡`
-2. Click on `Brave Ad Block`
-3. Click `Add filter list via URL` at the bottom of the page under `Subscribe` to filter lists 
-4. Add the URL from below
+2. Open `Settings`
+3. Open `Shields` in the menu on the left
+4. Open `Content filtering` at the bottom
+5. Under **Add custom filter lists** paste the URL from below
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
-4. Press `Submit`
+6. Click `Add`
 
 
 ### PiHole

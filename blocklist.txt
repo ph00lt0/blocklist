@@ -7342,3 +7342,4 @@ armemberplugin.com##.social-share-icons-list
 ||splash-screen.net^
 ^ruxitagentjs_*.js^
 ^*/akam/*^
+||www.askus.hsbc.co.uk^

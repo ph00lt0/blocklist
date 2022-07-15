@@ -7307,3 +7307,4 @@ armemberplugin.com##.social-share-icons-list
 ||dualstack.ichnaea-web-1229681634.us-west-2.elb.amazonaws.com^
 ||ichnaea-web.netflix.co^
 ||nmtracking.netflix.com^
+||presentationtracking.netflix.com^

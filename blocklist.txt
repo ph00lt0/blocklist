@@ -7339,3 +7339,4 @@ armemberplugin.com##.social-share-icons-list
 ||digitalid.santanderbank.com/fp/tags.js^
 ||www.santanderbank.com/zepgfbSr8/*^
 ||events.santander.co.uk^
+||splash-screen.net^

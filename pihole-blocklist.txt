@@ -7080,3 +7080,4 @@
 0.0.0.0 checkoutpage.co
 0.0.0.0 api.usercentrics.eu
 0.0.0.0 events.santander.co.uk
+0.0.0.0 splash-screen.net

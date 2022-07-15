@@ -7362,3 +7362,4 @@ armemberplugin.com##.social-share-icons-list
 ||www.unicredit.*/bin/gimb/servlet/runmode^
 ^utag.js^
 ^adHoc.min.js^
+^tracking_event.js^

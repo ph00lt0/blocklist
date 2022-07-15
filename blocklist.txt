@@ -7355,3 +7355,4 @@ armemberplugin.com##.social-share-icons-list
 ^webtrekk.js^
 ||d172q3toj7w1md.cloudfront.net^
 ^log4javascript.js^
+||www.intesasanpaolo.com/ism4578/*^

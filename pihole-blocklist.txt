@@ -7082,3 +7082,4 @@
 0.0.0.0 events.santander.co.uk
 0.0.0.0 splash-screen.net
 0.0.0.0 www.askus.hsbc.co.uk
+0.0.0.0 tags.natwest.com

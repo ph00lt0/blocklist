@@ -7345,3 +7345,4 @@ armemberplugin.com##.social-share-icons-list
 ||www.askus.hsbc.co.uk^
 ||www.hsbc.com/api/geolocation^
 ||tags.natwest.com^
+||h.online-metrix.net^

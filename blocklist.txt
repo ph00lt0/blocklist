@@ -7329,3 +7329,4 @@ armemberplugin.com##.social-share-icons-list
 ||api.*.ing.*/tpd^
 ||api.usercentrics.eu^
 ^*/usercentrics/*.js^
+^*/fingerprint*.js^

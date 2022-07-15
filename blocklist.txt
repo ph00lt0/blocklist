@@ -7360,3 +7360,4 @@ armemberplugin.com##.social-share-icons-list
 ^goals.*.min.js^
 ^utag.sync.js^
 ||www.unicredit.*/bin/gimb/servlet/runmode^
+^utag.js^

@@ -7338,3 +7338,4 @@ armemberplugin.com##.social-share-icons-list
 ||direct.credit-suisse.com/dn/p/a/aep-analytics/*^
 ||digitalid.santanderbank.com/fp/tags.js^
 ||www.santanderbank.com/zepgfbSr8/*^
+||events.santander.co.uk^

@@ -7349,3 +7349,4 @@ armemberplugin.com##.social-share-icons-list
 ||www.onlinebanking.natwest.com/Brands/jq_scripts/RealtimeLogin.js^
 ||www.natwest.com/SetConsentCookie.ashx^
 ||www.onlinebanking.natwest.com/Brands/mm.js^
+||www.onlinebanking.natwest.com/TSPD/*^

@@ -7309,3 +7309,4 @@ armemberplugin.com##.social-share-icons-list
 ||nmtracking.netflix.com^
 ||presentationtracking.netflix.com^
 ||netflix.com/msl/playapi/cadmium/logblob^
+||netflix.com/api/ftl/probe^

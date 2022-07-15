@@ -7325,5 +7325,5 @@ armemberplugin.com##.social-share-icons-list
 ||checkoutpage.co^
 ^*webtrekk_v*.js^
 ^adobe-analytics-loader.js^
-||*.ing.*/clientevent/measurement/*^
+||api.*.ing.*/clientevent/measurement/*^
 ||api.*.ing.*/tpd^

@@ -5828,7 +5828,7 @@ $removeparam=afftrack
 ||privacy.polar.me^
 ||recreativ.com^
 ||odeeo.io^
-||www.unicredit.it^
+@@||www.unicredit.it^  # not a tracker
 ||sqreemtech.com^
 ||www.primis.tech^
 ||www.quantcast.com^

@@ -104,5 +104,5 @@ However feel free to report a website you would like to see added under [Github 
 
 
 ## Broken sites
-Feel free to report a broken website under [Github issues](https://github.com/ph00lt0/blocklists/issues). We will not remove any website because it has 'ethical' tracking, ads or whatsoever. 
+Feel free to report a broken website under [Github issues](https://github.com/ph00lt0/blocklist/issues/new?&template=broken-website-or-app.md). We will not remove any website because it has 'ethical' tracking, ads or whatsoever. 
 

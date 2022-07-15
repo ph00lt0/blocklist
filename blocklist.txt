@@ -7353,3 +7353,4 @@ armemberplugin.com##.social-share-icons-list
 ||dam.bnpparibas.com^
 ||gif.barclaycardus.com^
 ^webtrekk.js^
+||d172q3toj7w1md.cloudfront.net^

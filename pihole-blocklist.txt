@@ -7084,3 +7084,4 @@
 0.0.0.0 www.askus.hsbc.co.uk
 0.0.0.0 tags.natwest.com
 0.0.0.0 h.online-metrix.net
+0.0.0.0 dam.bnpparibas.com

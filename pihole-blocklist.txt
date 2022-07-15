@@ -7072,3 +7072,4 @@
 0.0.0.0 ichnaea-web.netflix.co
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 beacon.netflix.com

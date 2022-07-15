@@ -7331,3 +7331,4 @@ armemberplugin.com##.social-share-icons-list
 ^*/usercentrics/*.js^
 ^*/fingerprint*.js^
 ||www.abnamro.nl/nl/retail/pr/static/aab-analytics-event-handler/*/aab-analytics-event-handler.js^
+||www.abnamro.nl/nl/retail/pr/static/aab-vendor/analytics/deq/aab-analytics-body.js^

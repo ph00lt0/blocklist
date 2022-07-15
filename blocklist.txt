@@ -7346,3 +7346,4 @@ armemberplugin.com##.social-share-icons-list
 ||www.hsbc.com/api/geolocation^
 ||tags.natwest.com^
 ||h.online-metrix.net^
+||www.onlinebanking.natwest.c/Brands/jq_scripts/RealtimeLogin.js^

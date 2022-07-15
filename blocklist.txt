@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220714
+! Version: 20220715
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -7305,3 +7305,4 @@ armemberplugin.com##.social-share-icons-list
 ||ichnaea-web.us-east-1.internal.dradis.netflix.com^
 ||dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com^
 ||dualstack.ichnaea-web-1229681634.us-west-2.elb.amazonaws.com^
+||ichnaea-web.netflix.co^

@@ -7317,3 +7317,4 @@ armemberplugin.com##.social-share-icons-list
 ||beacon.netflix.com^
 ||customerevents.netflix.com^
 ||www.netflix.com/com/personalization/cl2^
+||www.netflix.com/personalization/cl2/freeform/WebsiteDetect^

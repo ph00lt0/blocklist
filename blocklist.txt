@@ -7357,3 +7357,4 @@ armemberplugin.com##.social-share-icons-list
 ^log4javascript.js^
 ||www.intesasanpaolo.com/ism4578/*^
 ^utm.*.min.js^
+^goals.*.min.js^

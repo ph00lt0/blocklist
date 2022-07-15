@@ -7367,3 +7367,4 @@ armemberplugin.com##.social-share-icons-list
 ||www.creditmutuel.*/partage/*/CC/scripts/tests.js^
 ||analytics.onrecruit.net^
 ||dt51.net^
+||dt71.net^

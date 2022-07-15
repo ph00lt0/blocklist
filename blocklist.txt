@@ -7312,3 +7312,4 @@ armemberplugin.com##.social-share-icons-list
 ||netflix.com/api/ftl/probe^
 ||netflix.com/*/log^
 ||netflix.com/track^
+||netflix.com/uitracking^

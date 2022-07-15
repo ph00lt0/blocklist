@@ -7334,3 +7334,4 @@ armemberplugin.com##.social-share-icons-list
 ||www.abnamro.nl/nl/retail/pr/static/aab-vendor/analytics/deq/aab-analytics-body.js^
 ^piwik-*.js^
 ||*.triodos.*/ib-seam/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/*/PackedCompressed/packed/packed.js^
+^AppMeasurement.min.js^

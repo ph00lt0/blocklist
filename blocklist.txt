@@ -7380,3 +7380,4 @@ armemberplugin.com##.social-share-icons-list
 ||assets.cengage.com^
 ||callisto.ggsrv.com^
 ||ggsrv.com^
+||cengage.com^

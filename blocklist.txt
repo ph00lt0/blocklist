@@ -7383,3 +7383,4 @@ armemberplugin.com##.social-share-icons-list
 ||cengage.com^
 ||dimensions.ai^
 ^mixpanel.js^
+||pushpad.xyz^

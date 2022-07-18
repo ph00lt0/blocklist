@@ -7382,3 +7382,4 @@ armemberplugin.com##.social-share-icons-list
 ||ggsrv.com^
 ||cengage.com^
 ||dimensions.ai^
+^mixpanel.js^

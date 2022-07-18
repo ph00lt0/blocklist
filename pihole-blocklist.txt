@@ -7104,3 +7104,4 @@
 0.0.0.0 pushpad.xyz
 0.0.0.0 locize.app
 0.0.0.0 api.locize.app
+0.0.0.0 metrics.prismad.psi.uni-bamberg.de

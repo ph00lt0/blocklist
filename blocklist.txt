@@ -7390,3 +7390,4 @@ peerj.com###download-article-modal
 ^popup-cookie.js^
 ||locize.app^
 ||api.locize.app^
+||metrics.prismad.psi.uni-bamberg.de^

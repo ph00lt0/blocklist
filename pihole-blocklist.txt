@@ -7103,3 +7103,4 @@
 0.0.0.0 dimensions.ai
 0.0.0.0 pushpad.xyz
 0.0.0.0 locize.app
+0.0.0.0 api.locize.app

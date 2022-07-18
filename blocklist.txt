@@ -7373,3 +7373,4 @@ armemberplugin.com##.social-share-icons-list
 @@||codeberg.org/*/gdpr-consent-*^ # Whitelist repository names starting with this slugs blocked by easylist
 ||pixel.mintigo.com^
 ||trk.techtarget.com^
+||kdl.keywee.co^

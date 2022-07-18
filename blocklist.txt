@@ -7378,3 +7378,4 @@ armemberplugin.com##.social-share-icons-list
 ||sdk.iad-01.braze.com^
 ||cat.pexels.com^
 ||assets.cengage.com^
+||callisto.ggsrv.com^

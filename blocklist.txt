@@ -7385,3 +7385,4 @@ armemberplugin.com##.social-share-icons-list
 ^mixpanel.js^
 ||pushpad.xyz^
 peerj.com##.in.fade.modal-backdrop
+peerj.com###download-article-modal

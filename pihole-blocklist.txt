@@ -7096,3 +7096,4 @@
 0.0.0.0 agconnect.link
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 cat.pexels.com
+0.0.0.0 assets.cengage.com

@@ -7374,3 +7374,4 @@ armemberplugin.com##.social-share-icons-list
 ||pixel.mintigo.com^
 ||trk.techtarget.com^
 ||kdl.keywee.co^
+||agconnect.link^

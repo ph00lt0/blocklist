@@ -7093,3 +7093,4 @@
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 kdl.keywee.co
+0.0.0.0 agconnect.link

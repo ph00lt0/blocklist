@@ -7388,3 +7388,4 @@ peerj.com##.in.fade.modal-backdrop
 peerj.com###download-article-modal
 ||cdn.mrkhub.com/sks/js/sks_track.js^
 ^popup-cookie.js^
+||locize.app^

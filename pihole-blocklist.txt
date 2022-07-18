@@ -7090,3 +7090,4 @@
 0.0.0.0 analytics.onrecruit.net
 0.0.0.0 dt51.net
 0.0.0.0 dt71.net
+0.0.0.0 pixel.mintigo.com

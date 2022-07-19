@@ -10147,3 +10147,16 @@
 0.0.0.0 ad.idgtn.net
 0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 ad.jamba.net
+0.0.0.0 adbxb.com
+0.0.0.0 adcast.deviantart.com
+0.0.0.0 adcast.fblife.com
+0.0.0.0 adccoo.cn
+0.0.0.0 adcitrus.com
+0.0.0.0 ad-cloud.jp
+0.0.0.0 ad-cn.jovcloud.com
+0.0.0.0 adcore.lenovomm.com
+0.0.0.0 ad-count.adwo.com
+0.0.0.0 add.bugun.com.tr
+0.0.0.0 add.dz19.net
+0.0.0.0 add.freeimg8.com
+0.0.0.0 add.mmyuer.com

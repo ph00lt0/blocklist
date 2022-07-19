@@ -7132,3 +7132,4 @@
 0.0.0.0 js-eu1.hs-analytics.net
 0.0.0.0 api.segment.io
 0.0.0.0 mandrillapp.com
+0.0.0.0 api.cloudinary.com

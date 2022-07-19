@@ -243,7 +243,7 @@
 0.0.0.0 xp.apple.com
 ! allow help.apple.com reason: Not a tracker
 0.0.0.0 iphonesubmissions.apple.com
-0.0.0.0 icloud-content.com
+! allow icloud-content.com reason: Not a tracker
 ! allow me.com reason: Required for icloud
 0.0.0.0 apple-cloudkit.com
 0.0.0.0 valid.apple.com

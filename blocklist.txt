@@ -8980,3 +8980,4 @@ fd.nl##.fd-message
 ||nnmclub.to^
 ||nnmclub.me^
 ||clicklog.moviebox.baofeng.net^
+||bdtj.tagtic.cn^

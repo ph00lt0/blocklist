@@ -8693,3 +8693,4 @@
 0.0.0.0 nnmclub.to
 0.0.0.0 nnmclub.me
 0.0.0.0 clicklog.moviebox.baofeng.net
+0.0.0.0 bdtj.tagtic.cn

@@ -241,7 +241,7 @@
 0.0.0.0 apple.news
 0.0.0.0 apple-dns.net
 0.0.0.0 xp.apple.com
-0.0.0.0 help.apple.com
+! allow help.apple.com reason: Not a tracker
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 icloud-content.com
 ! allow me.com reason: Required for icloud

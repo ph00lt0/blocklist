@@ -242,7 +242,7 @@
 ||apple.news^
 ||apple-dns.net^
 ||xp.apple.com^
-||help.apple.com^
+@@||help.apple.com^  # Not a tracker
 ||iphonesubmissions.apple.com^
 ||icloud-content.com^
 @@||me.com^  # Required for icloud

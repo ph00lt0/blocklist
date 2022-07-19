@@ -236,7 +236,7 @@
 ||apple.co^
 ||aaplimg.com^'
 ||weather-analytics-events.apple.com^
-||apple.comscoreresear ch.com^
+||apple.comscoreresearch.com^
 ||news-edge.apple.com^
 ||news-events.apple.com^
 ||apple.news^

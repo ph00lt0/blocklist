@@ -9396,3 +9396,8 @@ fd.nl##.fd-message
 ||impservice2.youdao.com^
 ||impservicetest.dictapp.youdao.com^
 ||impservice-test.dictapp.youdao.com^
+||v.baidu.com^
+||t10.baidu.com^
+||t11.baidu.com^
+||t12.baidu.com^
+||tongji.baidu.com^

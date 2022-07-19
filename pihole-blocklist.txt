@@ -9109,3 +9109,8 @@
 0.0.0.0 impservice2.youdao.com
 0.0.0.0 impservicetest.dictapp.youdao.com
 0.0.0.0 impservice-test.dictapp.youdao.com
+0.0.0.0 v.baidu.com
+0.0.0.0 t10.baidu.com
+0.0.0.0 t11.baidu.com
+0.0.0.0 t12.baidu.com
+0.0.0.0 tongji.baidu.com

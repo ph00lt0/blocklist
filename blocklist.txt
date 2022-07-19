@@ -7441,3 +7441,4 @@ fd.nl##.fd-message
 ||csi.gstatic.com^
 ||googleadsserving.cn^
 ||googlecommerce.com^
+||mobileads.google.com^

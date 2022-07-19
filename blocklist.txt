@@ -7399,3 +7399,4 @@ peerj.com###download-article-modal
 fd.nl##.fd-message
 ||live0.zeit.de^
 ||dwcdn.net^
+||audev.zeit.de^

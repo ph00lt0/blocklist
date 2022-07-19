@@ -9847,3 +9847,10 @@
 0.0.0.0 hotchat-im.iqiyi.com
 0.0.0.0 msg.video.qiyi.com
 0.0.0.0 v2.log.hunantv.com
+0.0.0.0 das.api.youku.com
+0.0.0.0 das.mobile.youku.com
+0.0.0.0 huodong.pl.youku.com
+0.0.0.0 huodong.vip.youku.com
+0.0.0.0 api.game.letvstore.com
+0.0.0.0 msg.m.letv.com
+0.0.0.0 webp2p.letv.com

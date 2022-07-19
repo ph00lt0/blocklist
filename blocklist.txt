@@ -10134,3 +10134,10 @@ fd.nl##.fd-message
 ||hotchat-im.iqiyi.com^
 ||msg.video.qiyi.com^
 ||v2.log.hunantv.com^
+||das.api.youku.com^
+||das.mobile.youku.com^
+||huodong.pl.youku.com^
+||huodong.vip.youku.com^
+||api.game.letvstore.com^
+||msg.m.letv.com^
+||webp2p.letv.com^

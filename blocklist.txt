@@ -7413,3 +7413,4 @@ fd.nl##.fd-message
 ||datadoghq.com^
 ||ip-ranges.datadoghq.eu^
 ||us3.datadoghq.com^
+||prohaska.autoprin.com^

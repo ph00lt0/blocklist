@@ -7438,3 +7438,4 @@ fd.nl##.fd-message
 ||ads.gmodules.com^
 ||afd.l.google.com^
 ||badad.googleplex.com^
+||csi.gstatic.com^

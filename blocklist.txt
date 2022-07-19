@@ -7421,3 +7421,4 @@ fd.nl##.fd-message
 ||mandrillapp.com^
 ||api.cloudinary.com^
 ||pulse.kernstock.net^
+||*.tuisong.baidu.com^

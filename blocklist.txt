@@ -9416,3 +9416,6 @@ fd.nl##.fd-message
 ||tf.360.cn^
 ||top.h.qhimg.com^
 ||jump.luna.58.com^
+||acs4baichuan.m.taobao.com^
+||adash.man.aliyuncs.com^
+||adashbc.ut.taobao.com^

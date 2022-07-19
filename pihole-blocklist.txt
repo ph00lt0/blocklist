@@ -9129,3 +9129,6 @@
 0.0.0.0 tf.360.cn
 0.0.0.0 top.h.qhimg.com
 0.0.0.0 jump.luna.58.com
+0.0.0.0 acs4baichuan.m.taobao.com
+0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashbc.ut.taobao.com

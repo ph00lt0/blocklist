@@ -9953,3 +9953,10 @@
 0.0.0.0 feed.baidu.com
 0.0.0.0 idm.bce.baidu.com
 0.0.0.0 stat
+0.0.0.0 1uandun.com
+0.0.0.0 adm.easou.com
+0.0.0.0 assets.easou.com
+0.0.0.0 dcw.hdswgc.com
+0.0.0.0 tjlog.easou.com
+0.0.0.0 googletakes.com
+0.0.0.0 ads.bssdl.kugou.com

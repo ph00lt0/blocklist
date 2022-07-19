@@ -7442,3 +7442,4 @@ fd.nl##.fd-message
 ||googleadsserving.cn^
 ||googlecommerce.com^
 ||mobileads.google.com^
+||pagead-tpc.l.google.com^

@@ -7155,3 +7155,4 @@
 0.0.0.0 googleadsserving.cn
 0.0.0.0 googlecommerce.com
 0.0.0.0 mobileads.google.com
+0.0.0.0 pagead-tpc.l.google.com

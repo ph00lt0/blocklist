@@ -7120,3 +7120,4 @@
 0.0.0.0 da-services.ch
 0.0.0.0 tdn.da-services.ch
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
+0.0.0.0 datadoghq.eu

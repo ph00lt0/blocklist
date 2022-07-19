@@ -7407,3 +7407,4 @@ fd.nl##.fd-message
 ||da-services.ch^
 ||tdn.da-services.ch^
 ||browser-http-intake.logs.datadoghq.eu^
+||datadoghq.eu^

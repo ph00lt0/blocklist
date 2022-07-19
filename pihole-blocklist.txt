@@ -7133,3 +7133,4 @@
 0.0.0.0 api.segment.io
 0.0.0.0 mandrillapp.com
 0.0.0.0 api.cloudinary.com
+0.0.0.0 pulse.kernstock.net

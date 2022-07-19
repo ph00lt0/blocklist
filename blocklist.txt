@@ -7420,3 +7420,4 @@ fd.nl##.fd-message
 ||api.segment.io^
 ||mandrillapp.com^
 ||api.cloudinary.com^
+||pulse.kernstock.net^

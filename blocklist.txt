@@ -10236,3 +10236,6 @@ fd.nl##.fd-message
 ||cpro2.baidustatic.com^
 ||cpu.baidu.com^
 ||dd713.bj.bcebos.com^
+||entry.baidu.com^
+||feed.baidu.com^
+||idm.bce.baidu.com^

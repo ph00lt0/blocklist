@@ -9949,3 +9949,6 @@
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 cpu.baidu.com
 0.0.0.0 dd713.bj.bcebos.com
+0.0.0.0 entry.baidu.com
+0.0.0.0 feed.baidu.com
+0.0.0.0 idm.bce.baidu.com

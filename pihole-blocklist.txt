@@ -9794,3 +9794,15 @@
 0.0.0.0 pjtymy.cn
 0.0.0.0 pk840.com
 0.0.0.0 playad.xjmg.com
+0.0.0.0 houyi.baofeng.net
+0.0.0.0 iadctest.qwapi.com
+0.0.0.0 log.moviebox.baofeng.com
+0.0.0.0 ad.video.51togic.com
+0.0.0.0 cms.laifeng.com
+0.0.0.0 da.mmarket.com
+0.0.0.0 g.uusee.com
+0.0.0.0 game.pps.tv
+0.0.0.0 gcdn.2mdn.net
+0.0.0.0 hp.smiler-ad.com
+0.0.0.0 kooyum.com
+0.0.0.0 ld.kuaigames.com

@@ -10081,3 +10081,15 @@ fd.nl##.fd-message
 ||pjtymy.cn^
 ||pk840.com^
 ||playad.xjmg.com^
+||houyi.baofeng.net^
+||iadctest.qwapi.com^
+||log.moviebox.baofeng.com^
+||ad.video.51togic.com^
+||cms.laifeng.com^
+||da.mmarket.com^
+||g.uusee.com^
+||game.pps.tv^
+||gcdn.2mdn.net^
+||hp.smiler-ad.com^
+||kooyum.com^
+||ld.kuaigames.com^

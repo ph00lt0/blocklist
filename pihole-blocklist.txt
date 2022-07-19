@@ -8696,3 +8696,4 @@
 0.0.0.0 bdtj.tagtic.cn
 0.0.0.0 xivanalysis.com
 0.0.0.0 click.uve.mobile.sina.cn
+0.0.0.0 click.uve.weibo.com

@@ -8983,3 +8983,4 @@ fd.nl##.fd-message
 ||bdtj.tagtic.cn^
 ||xivanalysis.com^
 ||click.uve.mobile.sina.cn^
+||click.uve.weibo.com^

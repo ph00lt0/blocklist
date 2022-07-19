@@ -10130,3 +10130,7 @@ fd.nl##.fd-message
 ||staticadm.leju.sina.com.cn^
 ||tjs.sjs.sinajs.cn^
 ||wapwbclick.mobile.sina.cn^
+||a.ckm.iqiyi.com^
+||hotchat-im.iqiyi.com^
+||msg.video.qiyi.com^
+||v2.log.hunantv.com^

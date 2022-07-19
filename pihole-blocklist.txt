@@ -9843,3 +9843,7 @@
 0.0.0.0 staticadm.leju.sina.com.cn
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 wapwbclick.mobile.sina.cn
+0.0.0.0 a.ckm.iqiyi.com
+0.0.0.0 hotchat-im.iqiyi.com
+0.0.0.0 msg.video.qiyi.com
+0.0.0.0 v2.log.hunantv.com

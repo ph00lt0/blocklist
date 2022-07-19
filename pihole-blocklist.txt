@@ -9133,3 +9133,9 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 api-flow.flyme.cn
+0.0.0.0 setting.crashlytics.com
+0.0.0.0 sfloushi.com
+0.0.0.0 sgbfjs.info
+0.0.0.0 sgg.southcn.com
+0.0.0.0 shaft.jebe.renren.com
+0.0.0.0 shama5.com

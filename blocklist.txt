@@ -9420,3 +9420,9 @@ fd.nl##.fd-message
 ||adash.man.aliyuncs.com^
 ||adashbc.ut.taobao.com^
 ||api-flow.flyme.cn^
+||setting.crashlytics.com^
+||sfloushi.com^
+||sgbfjs.info^
+||sgg.southcn.com^
+||shaft.jebe.renren.com^
+||shama5.com^

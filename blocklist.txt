@@ -7394,3 +7394,4 @@ peerj.com###download-article-modal
 ||browser-intake-datadoghq.eu^
 ||rum.browser-intake-datadoghq.eu^
 ||logs.browser-intake-datadoghq.eu^
+||pantheonsite.io^

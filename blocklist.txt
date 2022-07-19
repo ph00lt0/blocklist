@@ -7447,3 +7447,4 @@ fd.nl##.fd-message
 ||pagead.l.google.com^
 ||service.urchin.com^
 ||09mk.cn^
+||100peng.com^

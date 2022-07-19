@@ -7150,3 +7150,4 @@
 0.0.0.0 admob.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 afd.l.google.com
+0.0.0.0 badad.googleplex.com

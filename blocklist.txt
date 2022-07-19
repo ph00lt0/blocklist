@@ -7437,3 +7437,4 @@ fd.nl##.fd-message
 ||admob.com^
 ||ads.gmodules.com^
 ||afd.l.google.com^
+||badad.googleplex.com^

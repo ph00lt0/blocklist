@@ -9990,3 +9990,17 @@
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 cre-dp.sina.cn
 0.0.0.0 d00.sina.com.cn
+0.0.0.0 widget.weibo.com
+0.0.0.0 woocall.sina.com.cn
+0.0.0.0 zc.biz.weibo.com
+0.0.0.0 adstream.123.sogoucdn.com
+0.0.0.0 bazinga.mse.sogou.com
+0.0.0.0 bsiet.husky.sogou.com
+0.0.0.0 config.push.sogou.com
+0.0.0.0 dl.wan.sogoucdn.com
+0.0.0.0 download.zhushou.sogou.com
+0.0.0.0 feed.theta.sogou.com
+0.0.0.0 ht.www.sogou.com
+0.0.0.0 image.p4p.sogou.com
+0.0.0.0 info.pinyin.sogou.com
+0.0.0.0 a.hl.mi.com

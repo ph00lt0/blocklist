@@ -10277,3 +10277,17 @@ fd.nl##.fd-message
 ||cre.mix.sina.com.cn^
 ||cre-dp.sina.cn^
 ||d00.sina.com.cn^
+||widget.weibo.com^
+||woocall.sina.com.cn^
+||zc.biz.weibo.com^
+||adstream.123.sogoucdn.com^
+||bazinga.mse.sogou.com^
+||bsiet.husky.sogou.com^
+||config.push.sogou.com^
+||dl.wan.sogoucdn.com^
+||download.zhushou.sogou.com^
+||feed.theta.sogou.com^
+||ht.www.sogou.com^
+||image.p4p.sogou.com^
+||info.pinyin.sogou.com^
+||a.hl.mi.com^

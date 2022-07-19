@@ -7444,3 +7444,4 @@ fd.nl##.fd-message
 ||mobileads.google.com^
 ||pagead-tpc.l.google.com^
 ||pagead.google.com^
+||pagead.l.google.com^

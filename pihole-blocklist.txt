@@ -7157,3 +7157,4 @@
 0.0.0.0 mobileads.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagead.google.com
+0.0.0.0 pagead.l.google.com

@@ -247,7 +247,7 @@
 ! allow me.com reason: Required for icloud
 0.0.0.0 apple-cloudkit.com
 0.0.0.0 valid.apple.com
-0.0.0.0 gateway.icloud.com
+! allow gateway.icloud.com reason: Not a tracker
 0.0.0.0 sonos-music.apple.com
 0.0.0.0 pancake.apple.com
 0.0.0.0 ess.apple.com

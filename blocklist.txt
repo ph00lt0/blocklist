@@ -10227,3 +10227,12 @@ fd.nl##.fd-message
 ||adm2.autoimg.cn^
 ||adm3.autoimg.cn^
 ||pv.alert.autohome.com.cn^
+||api.cpu.baidu.com^
+||api.tuisong.baidu.com^
+||b.bdstatic.com^
+||bce.baidu.com^
+||bj.bcebos.com^
+||cm.baichuan.baidu.com^
+||cpro2.baidustatic.com^
+||cpu.baidu.com^
+||dd713.bj.bcebos.com^

@@ -9940,3 +9940,12 @@
 0.0.0.0 adm2.autoimg.cn
 0.0.0.0 adm3.autoimg.cn
 0.0.0.0 pv.alert.autohome.com.cn
+0.0.0.0 api.cpu.baidu.com
+0.0.0.0 api.tuisong.baidu.com
+0.0.0.0 b.bdstatic.com
+0.0.0.0 bce.baidu.com
+0.0.0.0 bj.bcebos.com
+0.0.0.0 cm.baichuan.baidu.com
+0.0.0.0 cpro2.baidustatic.com
+0.0.0.0 cpu.baidu.com
+0.0.0.0 dd713.bj.bcebos.com

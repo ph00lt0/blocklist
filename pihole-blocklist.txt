@@ -9139,3 +9139,13 @@
 0.0.0.0 sgg.southcn.com
 0.0.0.0 shaft.jebe.renren.com
 0.0.0.0 shama5.com
+0.0.0.0 data.vod.itc.cn
+0.0.0.0 imp.optaim.com
+0.0.0.0 v2.reachmax.cn
+0.0.0.0 ads.aplus.pptv.com
+0.0.0.0 deliver.ifeng.com
+0.0.0.0 hxjs.tool.hexun.com
+0.0.0.0 hxsame.hexun.com
+0.0.0.0 itv.hexun.com
+0.0.0.0 atm.cp31.ott.cibntv.net
+0.0.0.0 aty.cp45.ott.cibntv.net

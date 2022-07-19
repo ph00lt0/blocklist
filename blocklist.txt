@@ -9426,3 +9426,13 @@ fd.nl##.fd-message
 ||sgg.southcn.com^
 ||shaft.jebe.renren.com^
 ||shama5.com^
+||data.vod.itc.cn^
+||imp.optaim.com^
+||v2.reachmax.cn^
+||ads.aplus.pptv.com^
+||deliver.ifeng.com^
+||hxjs.tool.hexun.com^
+||hxsame.hexun.com^
+||itv.hexun.com^
+||atm.cp31.ott.cibntv.net^
+||aty.cp45.ott.cibntv.net^

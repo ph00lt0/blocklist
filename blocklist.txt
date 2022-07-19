@@ -7418,3 +7418,4 @@ fd.nl##.fd-message
 ||d88f3ym7dkyv7.cloudfront.net^
 ||js-eu1.hs-analytics.net^
 ||api.segment.io^
+||mandrillapp.com^

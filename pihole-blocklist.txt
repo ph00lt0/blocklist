@@ -7122,3 +7122,4 @@
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
 0.0.0.0 datadoghq.eu
 0.0.0.0 app.datadoghq.eu
+0.0.0.0 app.datadoghq.com

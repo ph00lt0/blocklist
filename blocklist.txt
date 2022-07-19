@@ -7409,3 +7409,4 @@ fd.nl##.fd-message
 ||browser-http-intake.logs.datadoghq.eu^
 ||datadoghq.eu^
 ||app.datadoghq.eu^
+||app.datadoghq.com^

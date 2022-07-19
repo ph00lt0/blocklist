@@ -7392,3 +7392,4 @@ peerj.com###download-article-modal
 ||api.locize.app^
 ||metrics.prismad.psi.uni-bamberg.de^
 ||browser-intake-datadoghq.eu^
+||rum.browser-intake-datadoghq.eu^

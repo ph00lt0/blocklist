@@ -7411,3 +7411,4 @@ fd.nl##.fd-message
 ||app.datadoghq.eu^
 ||app.datadoghq.com^
 ||datadoghq.com^
+||ip-ranges.datadoghq.eu^

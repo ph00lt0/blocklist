@@ -7432,3 +7432,4 @@ fd.nl##.fd-message
 ||miwifi.com^
 ||hiwifi.com^
 ||analytics.strava.com^
+||l.qq.com^

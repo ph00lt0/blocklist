@@ -7415,3 +7415,4 @@ fd.nl##.fd-message
 ||us3.datadoghq.com^
 ||prohaska.autoprin.com^
 ||streaming-docs-collector.datadoghq.com^
+||d88f3ym7dkyv7.cloudfront.net^

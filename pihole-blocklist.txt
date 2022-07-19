@@ -7148,3 +7148,4 @@
 0.0.0.0 l.qq.com
 0.0.0.0 umengcloud.com
 0.0.0.0 admob.com
+0.0.0.0 ads.gmodules.com

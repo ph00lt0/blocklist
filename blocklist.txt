@@ -7435,3 +7435,4 @@ fd.nl##.fd-message
 ||l.qq.com^
 ||umengcloud.com^
 ||admob.com^
+||ads.gmodules.com^

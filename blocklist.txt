@@ -10484,3 +10484,14 @@ fd.nl##.fd-message
 ||adomv.com^
 ||adp.cnool.net^
 ||adplatform.vrtcal.com^
+||adplus.goo.mx^
+||adplxmd.com^
+||adpro.pro.cn^
+||adpub.yaolan.com^
+||adpublish.ydstatic.com^
+||adpubs.yaolan.com^
+||adres.myaora.net^
+||adrotator.se^
+||adrs.sdo.com^
+||ads.979799777.com^
+||ads.eu.msn.com^

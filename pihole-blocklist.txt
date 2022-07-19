@@ -10197,3 +10197,14 @@
 0.0.0.0 adomv.com
 0.0.0.0 adp.cnool.net
 0.0.0.0 adplatform.vrtcal.com
+0.0.0.0 adplus.goo.mx
+0.0.0.0 adplxmd.com
+0.0.0.0 adpro.pro.cn
+0.0.0.0 adpub.yaolan.com
+0.0.0.0 adpublish.ydstatic.com
+0.0.0.0 adpubs.yaolan.com
+0.0.0.0 adres.myaora.net
+0.0.0.0 adrotator.se
+0.0.0.0 adrs.sdo.com
+0.0.0.0 ads.979799777.com
+0.0.0.0 ads.eu.msn.com

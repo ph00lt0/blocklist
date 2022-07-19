@@ -7433,3 +7433,4 @@ fd.nl##.fd-message
 ||hiwifi.com^
 ||analytics.strava.com^
 ||l.qq.com^
+||umengcloud.com^

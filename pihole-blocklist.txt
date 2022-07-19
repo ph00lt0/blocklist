@@ -7125,3 +7125,4 @@
 0.0.0.0 app.datadoghq.com
 0.0.0.0 datadoghq.com
 0.0.0.0 ip-ranges.datadoghq.eu
+0.0.0.0 us3.datadoghq.com

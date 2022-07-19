@@ -10247,3 +10247,10 @@ fd.nl##.fd-message
 ||tjlog.easou.com^
 ||googletakes.com^
 ||ads.bssdl.kugou.com^
+||adsfile.bssdlbig.kugou.com^
+||channel.fanxing.kugou.com^
+||fanxing.kugou.com^
+||song.fanxing.kugou.com^
+||game.kuwo.cn^
+||mfan.iclick.com.cn^
+||com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com^

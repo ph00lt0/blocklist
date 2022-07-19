@@ -9960,3 +9960,10 @@
 0.0.0.0 tjlog.easou.com
 0.0.0.0 googletakes.com
 0.0.0.0 ads.bssdl.kugou.com
+0.0.0.0 adsfile.bssdlbig.kugou.com
+0.0.0.0 channel.fanxing.kugou.com
+0.0.0.0 fanxing.kugou.com
+0.0.0.0 song.fanxing.kugou.com
+0.0.0.0 game.kuwo.cn
+0.0.0.0 mfan.iclick.com.cn
+0.0.0.0 com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com

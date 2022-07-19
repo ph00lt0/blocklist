@@ -7110,3 +7110,4 @@
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 pantheonsite.io
 0.0.0.0 consent.fd.nl
+0.0.0.0 live0.zeit.de

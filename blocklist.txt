@@ -7393,3 +7393,4 @@ peerj.com###download-article-modal
 ||metrics.prismad.psi.uni-bamberg.de^
 ||browser-intake-datadoghq.eu^
 ||rum.browser-intake-datadoghq.eu^
+||logs.browser-intake-datadoghq.eu^

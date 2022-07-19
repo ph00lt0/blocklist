@@ -7416,3 +7416,4 @@ fd.nl##.fd-message
 ||prohaska.autoprin.com^
 ||streaming-docs-collector.datadoghq.com^
 ||d88f3ym7dkyv7.cloudfront.net^
+||js-eu1.hs-analytics.net^

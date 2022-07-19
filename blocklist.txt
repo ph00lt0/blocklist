@@ -7408,3 +7408,4 @@ fd.nl##.fd-message
 ||tdn.da-services.ch^
 ||browser-http-intake.logs.datadoghq.eu^
 ||datadoghq.eu^
+||app.datadoghq.eu^

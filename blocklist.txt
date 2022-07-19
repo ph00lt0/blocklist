@@ -7402,3 +7402,4 @@ fd.nl##.fd-message
 ||audev.zeit.de^
 ||nmrodam.com^
 ||cdn-gl.nmrodam.com^
+||beagle.prod.tda.link^

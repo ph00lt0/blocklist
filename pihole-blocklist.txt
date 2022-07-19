@@ -7143,3 +7143,4 @@
 0.0.0.0 p.to
 0.0.0.0 peiluyou.com
 0.0.0.0 miwifi.com
+0.0.0.0 hiwifi.com

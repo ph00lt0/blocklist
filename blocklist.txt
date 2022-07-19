@@ -7430,3 +7430,4 @@ fd.nl##.fd-message
 ||p.to^
 ||peiluyou.com^
 ||miwifi.com^
+||hiwifi.com^

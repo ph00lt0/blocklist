@@ -7426,3 +7426,4 @@ fd.nl##.fd-message
 ||dp1037.com^
 ||zte.home^
 ||ol.epicgames.com^
+||tendawifi.com^

@@ -8695,3 +8695,4 @@
 0.0.0.0 clicklog.moviebox.baofeng.net
 0.0.0.0 bdtj.tagtic.cn
 0.0.0.0 xivanalysis.com
+0.0.0.0 click.uve.mobile.sina.cn

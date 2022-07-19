@@ -8982,3 +8982,4 @@ fd.nl##.fd-message
 ||clicklog.moviebox.baofeng.net^
 ||bdtj.tagtic.cn^
 ||xivanalysis.com^
+||click.uve.mobile.sina.cn^

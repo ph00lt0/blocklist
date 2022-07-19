@@ -9096,3 +9096,16 @@
 0.0.0.0 sdk.open.talk.gepush.com
 0.0.0.0 sdkdm.com
 0.0.0.0 sdksitter.m.sjzhushou.com
+0.0.0.0 d.clkservice.youdao.com
+0.0.0.0 dsp-impr.youdao.com
+0.0.0.0 e-p4p.163.com
+0.0.0.0 fa.163.com
+0.0.0.0 g.163.com
+0.0.0.0 g1.163.com
+0.0.0.0 i.clkservice.youdao.com
+0.0.0.0 iad.g.163.com
+0.0.0.0 iadmat.nosdn.127.net
+0.0.0.0 impservice.youdao.com
+0.0.0.0 impservice2.youdao.com
+0.0.0.0 impservicetest.dictapp.youdao.com
+0.0.0.0 impservice-test.dictapp.youdao.com

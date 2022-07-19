@@ -9383,3 +9383,16 @@ fd.nl##.fd-message
 ||sdk.open.talk.gepush.com^
 ||sdkdm.com^
 ||sdksitter.m.sjzhushou.com^
+||d.clkservice.youdao.com^
+||dsp-impr.youdao.com^
+||e-p4p.163.com^
+||fa.163.com^
+||g.163.com^
+||g1.163.com^
+||i.clkservice.youdao.com^
+||iad.g.163.com^
+||iadmat.nosdn.127.net^
+||impservice.youdao.com^
+||impservice2.youdao.com^
+||impservicetest.dictapp.youdao.com^
+||impservice-test.dictapp.youdao.com^

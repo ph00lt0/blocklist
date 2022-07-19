@@ -7396,3 +7396,4 @@ peerj.com###download-article-modal
 ||logs.browser-intake-datadoghq.eu^
 ||pantheonsite.io^
 ||consent.fd.nl^
+fd.nl##.fd-message

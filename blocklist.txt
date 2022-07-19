@@ -10141,3 +10141,12 @@ fd.nl##.fd-message
 ||api.game.letvstore.com^
 ||msg.m.letv.com^
 ||webp2p.letv.com^
+||cpm.cm.kankan.com^
+||mixer.cupid.ptqy.gitv.tv^
+||msg.c002.ottcn.com^
+||msga.ptqy.gitv.tv^
+||njwxh.com^
+||nl.rcd.ptqy.gitv.tv^
+||pb.bi.gitv.tv^
+||rd.kuaigames.com^
+||shizen-no-megumi.com^

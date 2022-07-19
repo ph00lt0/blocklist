@@ -9854,3 +9854,12 @@
 0.0.0.0 api.game.letvstore.com
 0.0.0.0 msg.m.letv.com
 0.0.0.0 webp2p.letv.com
+0.0.0.0 cpm.cm.kankan.com
+0.0.0.0 mixer.cupid.ptqy.gitv.tv
+0.0.0.0 msg.c002.ottcn.com
+0.0.0.0 msga.ptqy.gitv.tv
+0.0.0.0 njwxh.com
+0.0.0.0 nl.rcd.ptqy.gitv.tv
+0.0.0.0 pb.bi.gitv.tv
+0.0.0.0 rd.kuaigames.com
+0.0.0.0 shizen-no-megumi.com

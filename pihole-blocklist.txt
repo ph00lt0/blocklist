@@ -9789,3 +9789,8 @@
 0.0.0.0 resource.baomihua.com
 0.0.0.0 rev.fapdu.com
 0.0.0.0 revealads.appspot.com
+0.0.0.0 pixel-a.sitescout.com
+0.0.0.0 pixfuture.net
+0.0.0.0 pjtymy.cn
+0.0.0.0 pk840.com
+0.0.0.0 playad.xjmg.com

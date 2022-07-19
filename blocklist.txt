@@ -10076,3 +10076,8 @@ fd.nl##.fd-message
 ||resource.baomihua.com^
 ||rev.fapdu.com^
 ||revealads.appspot.com^
+||pixel-a.sitescout.com^
+||pixfuture.net^
+||pjtymy.cn^
+||pk840.com^
+||playad.xjmg.com^

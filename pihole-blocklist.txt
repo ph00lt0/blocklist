@@ -7137,3 +7137,4 @@
 0.0.0.0 *.tuisong.baidu.com
 0.0.0.0 push.baidu.com
 0.0.0.0 dp1037.com
+0.0.0.0 zte.home

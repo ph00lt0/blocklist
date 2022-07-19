@@ -12105,3 +12105,14 @@ fd.nl##.fd-message
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
 ||eclkspbn.com^
+||dugbvb.com^
+||duiwai.baidu.com^
+||duoyidd.com^
+||dushimj.com^
+||duusuu.com^
+||duyihu.net^
+||dvr8.com^
+||dvs.china.com^
+||dvser.china.com^
+||dvx-android.0.0.0.0.cn^
+||f70123.com^

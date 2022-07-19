@@ -11818,3 +11818,14 @@
 0.0.0.0 eap.big5.enorth.com.cn
 0.0.0.0 eap.enorth.com.cn
 0.0.0.0 eclkspbn.com
+0.0.0.0 dugbvb.com
+0.0.0.0 duiwai.baidu.com
+0.0.0.0 duoyidd.com
+0.0.0.0 dushimj.com
+0.0.0.0 duusuu.com
+0.0.0.0 duyihu.net
+0.0.0.0 dvr8.com
+0.0.0.0 dvs.china.com
+0.0.0.0 dvser.china.com
+0.0.0.0 dvx-android.0.0.0.0.cn
+0.0.0.0 f70123.com

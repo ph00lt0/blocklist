@@ -8981,3 +8981,4 @@ fd.nl##.fd-message
 ||nnmclub.me^
 ||clicklog.moviebox.baofeng.net^
 ||bdtj.tagtic.cn^
+||xivanalysis.com^

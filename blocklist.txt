@@ -7431,3 +7431,4 @@ fd.nl##.fd-message
 ||peiluyou.com^
 ||miwifi.com^
 ||hiwifi.com^
+||analytics.strava.com^

@@ -8687,3 +8687,8 @@
 0.0.0.0 *.textnow.com
 0.0.0.0 *.1e100.net
 0.0.0.0 *.app-measurement.net
+0.0.0.0 rutracker.org
+0.0.0.0 rutor.info
+0.0.0.0 kinozal.tv
+0.0.0.0 nnmclub.to
+0.0.0.0 nnmclub.me

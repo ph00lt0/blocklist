@@ -8974,3 +8974,8 @@ fd.nl##.fd-message
 ||*.textnow.com^
 ||*.1e100.net^
 ||*.app-measurement.net^
+||rutracker.org^
+||rutor.info^
+||kinozal.tv^
+||nnmclub.to^
+||nnmclub.me^

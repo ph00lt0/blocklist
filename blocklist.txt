@@ -10239,3 +10239,4 @@ fd.nl##.fd-message
 ||entry.baidu.com^
 ||feed.baidu.com^
 ||idm.bce.baidu.com^
+||stat^

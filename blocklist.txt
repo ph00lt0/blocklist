@@ -7398,3 +7398,4 @@ peerj.com###download-article-modal
 ||consent.fd.nl^
 fd.nl##.fd-message
 ||live0.zeit.de^
+||dwcdn.net^

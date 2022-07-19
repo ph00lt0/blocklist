@@ -7410,3 +7410,4 @@ fd.nl##.fd-message
 ||datadoghq.eu^
 ||app.datadoghq.eu^
 ||app.datadoghq.com^
+||datadoghq.com^

@@ -7123,3 +7123,4 @@
 0.0.0.0 datadoghq.eu
 0.0.0.0 app.datadoghq.eu
 0.0.0.0 app.datadoghq.com
+0.0.0.0 datadoghq.com

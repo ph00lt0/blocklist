@@ -7439,3 +7439,4 @@ fd.nl##.fd-message
 ||afd.l.google.com^
 ||badad.googleplex.com^
 ||csi.gstatic.com^
+||googleadsserving.cn^

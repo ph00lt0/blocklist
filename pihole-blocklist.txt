@@ -7152,3 +7152,4 @@
 0.0.0.0 afd.l.google.com
 0.0.0.0 badad.googleplex.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 googleadsserving.cn

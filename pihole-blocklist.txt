@@ -7118,3 +7118,4 @@
 0.0.0.0 beagle.prod.tda.link
 0.0.0.0 tda.link
 0.0.0.0 da-services.ch
+0.0.0.0 tdn.da-services.ch

@@ -12437,3 +12437,7 @@ fd.nl##.fd-message
 ||ker.pic2pic.site^
 ||kermit.macnn.com^
 ||bigbos.top^
+||bh.contextweb.com^
+||dbam.dashbida.com^
+||bid.adview.cn^
+||bigboy.eurogamer.net^

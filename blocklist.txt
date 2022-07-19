@@ -12254,3 +12254,13 @@ fd.nl##.fd-message
 ||js.users.51.la^
 ||js.wo-x.cn^
 ||js1.2abc8.com^
+||pro.iweihai.cn^
+||shenleyuni.com^
+||shenyian.net^
+||shenyun.com^
+||shenyun.org^
+||shenyunperformingarts.org^
+||shibeiou.com^
+||shiftrro.com^
+||shili.downxia.com^
+||shili.wanyx.com^

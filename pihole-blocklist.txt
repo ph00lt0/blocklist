@@ -11967,3 +11967,13 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 js.wo-x.cn
 0.0.0.0 js1.2abc8.com
+0.0.0.0 pro.iweihai.cn
+0.0.0.0 shenleyuni.com
+0.0.0.0 shenyian.net
+0.0.0.0 shenyun.com
+0.0.0.0 shenyun.org
+0.0.0.0 shenyunperformingarts.org
+0.0.0.0 shibeiou.com
+0.0.0.0 shiftrro.com
+0.0.0.0 shili.downxia.com
+0.0.0.0 shili.wanyx.com

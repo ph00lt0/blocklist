@@ -8979,3 +8979,4 @@ fd.nl##.fd-message
 ||kinozal.tv^
 ||nnmclub.to^
 ||nnmclub.me^
+||clicklog.moviebox.baofeng.net^

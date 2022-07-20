@@ -12530,3 +12530,4 @@ fd.nl##.fd-message
 ||leadboxer.com^
 ||script.leadboxer.com^
 ||tfaforms.com^
+||sentry.voipgrid.nl^

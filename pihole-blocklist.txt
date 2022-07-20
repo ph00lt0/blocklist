@@ -12242,3 +12242,4 @@
 0.0.0.0 leadboxer.com
 0.0.0.0 script.leadboxer.com
 0.0.0.0 tfaforms.com
+0.0.0.0 sentry.voipgrid.nl

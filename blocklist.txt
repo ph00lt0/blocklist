@@ -12525,3 +12525,4 @@ fd.nl##.fd-message
 ||scripts.affiliatefuture.com^
 ||wsdk.rokt.com^
 ||www.zenaps.com^
+||test-app.link^

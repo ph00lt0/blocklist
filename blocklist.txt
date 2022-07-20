@@ -12520,3 +12520,4 @@ fd.nl##.fd-message
 ||jsb.qianzhan.com^
 ||jskrnekewe.mofans.net^
 ||*.zoom.us^$removeparam=track_id
+||widget.reviews.co.uk^

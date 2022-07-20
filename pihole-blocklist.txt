@@ -12236,3 +12236,4 @@
 0.0.0.0 assets.reviews.io
 0.0.0.0 scripts.affiliatefuture.com
 0.0.0.0 wsdk.rokt.com
+0.0.0.0 www.zenaps.com

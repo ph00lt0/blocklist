@@ -12524,3 +12524,4 @@ fd.nl##.fd-message
 ||assets.reviews.io^
 ||scripts.affiliatefuture.com^
 ||wsdk.rokt.com^
+||www.zenaps.com^

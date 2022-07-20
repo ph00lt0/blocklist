@@ -12521,3 +12521,4 @@ fd.nl##.fd-message
 ||jskrnekewe.mofans.net^
 ||*.zoom.us^$removeparam=track_id
 ||widget.reviews.co.uk^
+||assets.reviews.io^

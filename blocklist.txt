@@ -12528,3 +12528,4 @@ fd.nl##.fd-message
 ||test-app.link^
 ||cspreports.skiff.com^
 ||leadboxer.com^
+||script.leadboxer.com^

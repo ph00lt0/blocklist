@@ -12522,3 +12522,4 @@ fd.nl##.fd-message
 ||*.zoom.us^$removeparam=track_id
 ||widget.reviews.co.uk^
 ||assets.reviews.io^
+||scripts.affiliatefuture.com^

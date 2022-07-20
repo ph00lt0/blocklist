@@ -12234,3 +12234,4 @@
 0.0.0.0 jskrnekewe.mofans.net
 0.0.0.0 widget.reviews.co.uk
 0.0.0.0 assets.reviews.io
+0.0.0.0 scripts.affiliatefuture.com

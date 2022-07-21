@@ -12538,3 +12538,4 @@ fd.nl##.fd-message
 ||drive-thirdparty.googleapis.com^
 ||drive-thirdparty.googleusercontent.com^
 ||onpage.org^
+||freemius.com^

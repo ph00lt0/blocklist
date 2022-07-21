@@ -12246,3 +12246,4 @@
 0.0.0.0 sidekickai.com
 0.0.0.0 sidekick.la
 0.0.0.0 sidekickopen*.com
+0.0.0.0 t.sidekickopen*.com

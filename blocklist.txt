@@ -12534,3 +12534,4 @@ fd.nl##.fd-message
 ||sidekickai.com^
 ||sidekick.la^
 ||sidekickopen*.com^
+||t.sidekickopen*.com^

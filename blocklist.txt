@@ -12532,3 +12532,4 @@ fd.nl##.fd-message
 ||tfaforms.com^
 ||sentry.voipgrid.nl^
 ||sidekickai.com^
+||sidekick.la^

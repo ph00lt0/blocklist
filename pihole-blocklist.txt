@@ -12244,3 +12244,4 @@
 0.0.0.0 tfaforms.com
 0.0.0.0 sentry.voipgrid.nl
 0.0.0.0 sidekickai.com
+0.0.0.0 sidekick.la

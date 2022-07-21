@@ -231,7 +231,7 @@
 0.0.0.0 genuine.adobe.com
 ! allow itunes.com reason: Required for app store and apple music
 ! allow itunes.apple.com reason: Required for app store and apple music
-@@0.0.0.0 downloaddispatch.itunes.apple.com
+! allow 0.0.0.0 downloaddispatch.itunes.apple.com reason: Required for app store and apple music
 0.0.0.0 apple.co
 0.0.0.0 aaplimg.com'
 0.0.0.0 weather-analytics-events.apple.com

@@ -12250,3 +12250,4 @@
 0.0.0.0 drive-thirdparty.googleusercontent.com
 0.0.0.0 onpage.org
 0.0.0.0 freemius.com
+0.0.0.0 tr.iadsdk.apple.com

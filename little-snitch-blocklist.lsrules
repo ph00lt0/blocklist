@@ -12138,6 +12138,7 @@
         "drive-thirdparty.googleapis.com",
         "drive-thirdparty.googleusercontent.com",
         "onpage.org",
-        "freemius.com"
+        "freemius.com",
+        "tr.iadsdk.apple.com"
     ]
 }

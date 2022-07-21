@@ -12539,3 +12539,4 @@ fd.nl##.fd-message
 ||drive-thirdparty.googleusercontent.com^
 ||onpage.org^
 ||freemius.com^
+||tr.iadsdk.apple.com^

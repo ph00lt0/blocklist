@@ -55,7 +55,7 @@ if grep -q $blocklistRule "$blocklist"; then
             echo "$domain rule added before you"
         else    
             sed -i '' "s/$versionTag.*/$versionLine/g" $blocklist 
-            
+            python3 ./ls-insert.py $domain
             printf "$blocklistRule\n" >> "$blocklist"
             printf "$piholeBlocklistRule\n" >> "$piholeBlocklist" 
             git commit -am "added $domain to blocklist" && git push origin master && git push github master

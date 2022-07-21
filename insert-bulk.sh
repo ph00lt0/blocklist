@@ -39,6 +39,7 @@ for domain in ${domains//,/ }; do
     else
         printf "$blocklistRule\n" >> "$blocklist"
         printf "$piholeBlocklistRule\n" >> "$piholeBlocklist" 
+        python3 ./ls-insert.py $domain
     fi
 done
 

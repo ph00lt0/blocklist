@@ -1,0 +1,5 @@
+{
+    "name": "Social Media Block List",
+    "description": "Blocks access to popular social media sites.",
+    "denied-remote-domains": []
+}

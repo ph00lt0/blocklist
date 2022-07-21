@@ -81,8 +81,8 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 If the click and install doesn't work you can also add the list manually:
 1. Open `Little Snitch Rules...` from the Little Snitch icon in the **menu bar**
-2. In the sidebar look for **Rule Groups** when hovering on this a `➕` button appears
-3. Click the `➕` button
+2. In the sidebar look for **Rule Groups** when hovering on this a `+` button appears
+3. Click the `+` button
 4. Paste the URL from below:
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklist/master/little-snitch-blocklist.lsrules

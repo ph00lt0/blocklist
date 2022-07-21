@@ -1,4 +1,4 @@
-# Blocklists for AdGuard Home, AdGuard, uBlock Origin, Brave Adblock, and PiHole
+# Blocklists for AdGuard Home, AdGuard, Little Snitch, uBlock Origin, Brave Adblock, and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 
@@ -46,20 +46,44 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 5. Press `Save`
 
 ### AdGuard 
-[Click here](https://ihaveprivacy.com/blocklist/adguard-install.html) to add the list or follow steps below
+With the app it's possible to subscribe by link:
+1. [Click here](https://ihaveprivacy.com/blocklist/adguard-install.html) to add the list or follow steps below
+2. For the best impact enable the `trusted` checkbox
+3. Click `Subscribe`
 
+For extension/add-on or when the link does not work, follow manual steps:
 1. Open the AdGuard `settings`
 2. Navigate to `Filters`
 3. Scroll down to **Custom**
 4. Enable the `custom switch`
 5. Click on `Custom`
 6. Click `Add custom filter`
-7. Paste the URL from below
+7. Paste the URL from below:
 ```
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
 8. For the best impact enable the `trusted` checkbox
 9. Click `Subscribe`
+
+### Little Snitch
+1. [Click here](https://ihaveprivacy.com/blocklist/little-snitch-install.html) to add the list
+2. Change `update` to daily
+3. Check the `active` checkbox
+4. Press `Subscribe`
+
+If the click and install doesn't work you can also add the list manually:
+1. Open `Little Snitch Rules...` from the Little Snitch icon in the **menu bar**
+2. In the sidebar look for **Rule Groups** when hovering on this a `➕` button appears
+3. Click the `➕` button
+4. Paste the URL from below:
+```
+https://raw.githubusercontent.com/ph00lt0/blocklist/master/little-snitch-blocklist.lsrules
+```
+5. Press `Subscribe...`
+6. Change `update` to daily
+7. Check the `active` checkbox
+8. Press `Subscribe`
+
 
 ### uBlock Origin 
 1. ⚙ Open the uBO︎ Dashboard 

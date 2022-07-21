@@ -12533,3 +12533,4 @@ fd.nl##.fd-message
 ||sentry.voipgrid.nl^
 ||sidekickai.com^
 ||sidekick.la^
+||sidekickopen*.com^

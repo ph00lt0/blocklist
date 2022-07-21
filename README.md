@@ -1,4 +1,4 @@
-# Blocklists for AdGuard Home, AdGuard, Little Snitch, uBlock Origin, Brave Adblock, and PiHole
+# Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 
@@ -36,6 +36,7 @@ For home DNS resolving Adguard Home is superior in its functionality over PiHole
 - [AdGuard Home](#adguard-home)
 - [AdGuard](#adguard)
 - [Little Snitch](#little-snitch)
+- [Open Snitch](#open-snitch)
 - [uBlock Origin ](#ublock-origin)
 - [Brave](#brave)
 - [PiHole](#pihole)
@@ -52,6 +53,7 @@ For home DNS resolving Adguard Home is superior in its functionality over PiHole
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
 5. Press `Save`
+
 
 ### AdGuard 
 With the app it's possible to subscribe by link:
@@ -73,6 +75,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 8. For the best impact enable the `trusted` checkbox
 9. Click `Subscribe`
 
+
 ### Little Snitch
 1. [Click here](https://ihaveprivacy.com/blocklist/little-snitch-install.html) to add the list
 2. Change `update` to daily
@@ -93,6 +96,25 @@ https://raw.githubusercontent.com/ph00lt0/blocklist/master/little-snitch-blockli
 8. Press `Subscribe`
 
 
+### Open Snitch
+1. Create a folder for list, create update script, crontab, and download the blocklist
+```
+mkdir /media/ph00lt0-blocklist/
+echo "wget -O https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt -O /media/ph00lt0-blocklis/blocklist.txt" > updater.sh
+chmod +x ./updater.sh
+crontab -l | { cat; echo "00 11 * * * /media/ph00lt0-blocklis/updater.sh"; } | crontab -
+./updater.sh
+```
+2. Create a new rule with **000-block-domains** as name
+3. Check the boxes `Enable`, `Priority`
+4. Set the **Duration** to always
+5. Check `To this list of domains` and select the blocklist downloaded to your machine at:
+```
+/media/ph00lt0-blocklis/blocklist.txt
+```
+6. Press `Apply`
+
+
 ### uBlock Origin 
 1. ⚙ Open the uBO︎ Dashboard 
 2. Navigate to `Filter lists`
@@ -103,6 +125,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklist/master/little-snitch-blockli
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
 6. Click the `Apply changes` button on top of the page.
+
 
 ### Brave
 1. Open the hamburger menu `≡`
@@ -127,17 +150,21 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/pihole-blocklist.txt
 ```
 4. Press `Add`
 
-#### (OPTIONAL) To update your filters
+#### To update your filters
 5. Go to `Tools`/`Update Gravity`
 6. Click `Update`
+
+
 
 ## Contributing
 Contributing is limited to members, instructions are available in [CONTRIBUTING](CONTRIBUTING.md)
 However feel free to report a [broken website](#broken-sites).
 
 
+
 ## Broken sites
 Feel free to report a broken website under [Github issues](https://github.com/ph00lt0/blocklist/issues/new?&template=broken-website-or-app.md). We will not remove any website because it has 'ethical' tracking, ads or whatsoever.
+
 
 
 ## Can you make a list available for tool 'x'?

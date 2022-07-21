@@ -12536,3 +12536,4 @@ fd.nl##.fd-message
 ||sidekickopen*.com^
 ||t.sidekickopen*.com^
 ||drive-thirdparty.googleapis.com^
+||drive-thirdparty.googleusercontent.com^

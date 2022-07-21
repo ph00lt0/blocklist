@@ -12251,3 +12251,4 @@
 0.0.0.0 onpage.org
 0.0.0.0 freemius.com
 0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 embeddable-widgets-euw1.insided.com

@@ -12334,3 +12334,4 @@
 0.0.0.0 headwayapp.co
 0.0.0.0 cdn.headwayapp.co
 0.0.0.0 knowler.io
+0.0.0.0 app.knowler.io

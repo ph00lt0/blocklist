@@ -12585,3 +12585,4 @@ fd.nl##.fd-message
 ||onlinewebfonts.com^
 ||playuklottery.com^
 ||lottostat.dk^
+||theloyaltyco.app^

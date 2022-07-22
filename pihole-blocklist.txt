@@ -12296,3 +12296,4 @@
 0.0.0.0 onlinewebfonts.com
 0.0.0.0 playuklottery.com
 0.0.0.0 lottostat.dk
+0.0.0.0 theloyaltyco.app

@@ -12564,3 +12564,4 @@ fd.nl##.fd-message
 ||track24.net^
 ||a2z.com^
 ||agora.io^
+||bic-news.nl^

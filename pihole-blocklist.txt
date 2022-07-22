@@ -12275,3 +12275,4 @@
 0.0.0.0 track24.net
 0.0.0.0 a2z.com
 0.0.0.0 agora.io
+0.0.0.0 bic-news.nl

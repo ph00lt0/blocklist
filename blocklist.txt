@@ -12566,3 +12566,4 @@ fd.nl##.fd-message
 ||agora.io^
 ||bic-news.nl^
 ||burgernetcdn.nl^
+||chatbot.com^

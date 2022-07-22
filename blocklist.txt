@@ -12612,3 +12612,4 @@ fd.nl##.fd-message
 ||transcend.io^
 ||kickbooster.me^
 ||d1639lhkj5l89m.cloudfront.net^
+www.yeeuu.com##+js(rc, modal-open, body, stay)

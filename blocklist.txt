@@ -12600,3 +12600,4 @@ fd.nl##.fd-message
 ||freememorygame.com^
 ||hubspotqa.com^
 ||inbenta.com^
+||npm.red^

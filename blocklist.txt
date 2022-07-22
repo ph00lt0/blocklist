@@ -12575,3 +12575,4 @@ fd.nl##.fd-message
 ||datagrail.io^
 ||datastreams.io^
 ||github-wiki-see.page^
+||eurojackpot.org^

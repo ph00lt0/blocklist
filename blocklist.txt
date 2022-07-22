@@ -12597,3 +12597,4 @@ fd.nl##.fd-message
 ||quill.chat^
 ||bidsystem.com^
 ||bigcommerce.com^
+||freememorygame.com^

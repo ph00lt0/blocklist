@@ -12593,3 +12593,4 @@ fd.nl##.fd-message
 ||sidekickopen90.com^
 ||customeriomail.com^
 ||d1ctrvvfkbyl4b.cloudfront.net^
+||crisp.chat^

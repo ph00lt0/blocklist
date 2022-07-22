@@ -44,7 +44,7 @@ else
       if grep -q $blocklistRule "$blocklist"; then
           sed -i '' "s/$blocklistRule/@@$blocklistRule  # $reason/g" $blocklist
           sed -i '' "s/$piholeBlocklistRule/! allow $domain reason: $reason/g" $piholeBlocklist
-          python3 ./ls-delete.sh $domain
+          python3 ./ls-delete.py $domain
           git commit -am "delisted $domain in blocklist" && git push origin master && git push github master
       else
             echo "$domain rule delisted before you"

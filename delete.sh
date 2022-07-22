@@ -38,7 +38,7 @@ if grep -q $blocklistRule "$blocklist"; then
     if grep -q $blocklistRule "$blocklist"; then
         sed -i '' "/$blocklistRule/d" $blocklist
         sed -i '' "/$piholeBlocklistRule/d" $piholeBlocklist
-        python3 ./ls-delete.sh $domain
+        python3 ./ls-delete.py $domain
         git commit -am "Mea culpa, $author made a mistake: $mistake now removed from blocklist" && git push origin master && git push github master
     else
           echo "$domain rule corrected before you"

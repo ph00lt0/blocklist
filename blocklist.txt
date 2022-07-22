@@ -12570,3 +12570,4 @@ fd.nl##.fd-message
 ||circu.net^
 ||cmail20.com^
 ||contentstack.io^
+||coredump.cx^

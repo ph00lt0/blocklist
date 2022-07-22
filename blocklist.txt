@@ -12587,3 +12587,4 @@ fd.nl##.fd-message
 ||lottostat.dk^
 ||theloyaltyco.app^
 ||shop-links.co^
+||reportinghour.com^

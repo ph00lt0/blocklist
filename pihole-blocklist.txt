@@ -12293,3 +12293,4 @@
 0.0.0.0 pinata.cloud
 0.0.0.0 lottostar24.com
 0.0.0.0 multilotto.com
+0.0.0.0 onlinewebfonts.com

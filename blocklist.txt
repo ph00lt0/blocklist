@@ -12582,3 +12582,4 @@ fd.nl##.fd-message
 ||pinata.cloud^
 ||lottostar24.com^
 ||multilotto.com^
+||onlinewebfonts.com^

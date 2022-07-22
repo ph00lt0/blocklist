@@ -12616,3 +12616,4 @@ www.yeeuu.com##+js(rc, modal-open, body, stay)
 www.yeeuu.com##+js(rc, modal-open, html, stay)
 ^trekkie.storefront.*.min.js^
 ^tools/multipixel/sys.js^
+^event.gif^

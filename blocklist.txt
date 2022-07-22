@@ -12605,3 +12605,4 @@ fd.nl##.fd-message
 ||xiaolee.net^
 ||crisp.help^
 ||ip-tracker.org^
+||hubspotemail.net^

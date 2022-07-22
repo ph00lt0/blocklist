@@ -12613,3 +12613,4 @@ fd.nl##.fd-message
 ||kickbooster.me^
 ||d1639lhkj5l89m.cloudfront.net^
 www.yeeuu.com##+js(rc, modal-open, body, stay)
+www.yeeuu.com##+js(rc, modal-open, html, stay)

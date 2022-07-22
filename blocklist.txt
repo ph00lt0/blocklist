@@ -12603,3 +12603,4 @@ fd.nl##.fd-message
 ||npm.red^
 ||human-id.org^
 ||xiaolee.net^
+||crisp.help^

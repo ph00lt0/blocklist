@@ -12610,3 +12610,4 @@ fd.nl##.fd-message
 ||fw2.com^
 ||cdn.transcend.io^
 ||transcend.io^
+||kickbooster.me^

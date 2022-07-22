@@ -12578,3 +12578,4 @@ fd.nl##.fd-message
 ||eurojackpot.org^
 ||i3f2.net^
 ||infura.io^
+||sendgrid.net^

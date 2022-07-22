@@ -12565,3 +12565,4 @@ fd.nl##.fd-message
 ||a2z.com^
 ||agora.io^
 ||bic-news.nl^
+||burgernetcdn.nl^

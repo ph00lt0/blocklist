@@ -12276,3 +12276,4 @@
 0.0.0.0 a2z.com
 0.0.0.0 agora.io
 0.0.0.0 bic-news.nl
+0.0.0.0 burgernetcdn.nl

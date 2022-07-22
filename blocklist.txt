@@ -12626,3 +12626,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||play.sundaysky.com^
 ||wpengine.com^
 ||livechat-metrics.messagebird.com^
+||headwayapp.co^

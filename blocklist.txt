@@ -12581,3 +12581,4 @@ fd.nl##.fd-message
 ||sendgrid.net^
 ||pinata.cloud^
 ||lottostar24.com^
+||multilotto.com^

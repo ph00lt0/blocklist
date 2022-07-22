@@ -12594,3 +12594,4 @@ fd.nl##.fd-message
 ||customeriomail.com^
 ||d1ctrvvfkbyl4b.cloudfront.net^
 ||crisp.chat^
+||quill.chat^

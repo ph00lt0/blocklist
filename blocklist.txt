@@ -12586,3 +12586,4 @@ fd.nl##.fd-message
 ||playuklottery.com^
 ||lottostat.dk^
 ||theloyaltyco.app^
+||shop-links.co^

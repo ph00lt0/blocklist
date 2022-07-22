@@ -12580,3 +12580,4 @@ fd.nl##.fd-message
 ||infura.io^
 ||sendgrid.net^
 ||pinata.cloud^
+||lottostar24.com^

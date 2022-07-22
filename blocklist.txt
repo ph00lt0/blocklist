@@ -12595,3 +12595,4 @@ fd.nl##.fd-message
 ||d1ctrvvfkbyl4b.cloudfront.net^
 ||crisp.chat^
 ||quill.chat^
+||bidsystem.com^

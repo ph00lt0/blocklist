@@ -12306,3 +12306,4 @@
 0.0.0.0 d1ctrvvfkbyl4b.cloudfront.net
 0.0.0.0 crisp.chat
 0.0.0.0 quill.chat
+0.0.0.0 bidsystem.com

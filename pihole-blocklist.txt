@@ -12335,3 +12335,4 @@
 0.0.0.0 cdn.headwayapp.co
 0.0.0.0 knowler.io
 0.0.0.0 app.knowler.io
+0.0.0.0 ws.qualified.com

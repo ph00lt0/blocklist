@@ -12620,3 +12620,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cdn.shopify.com/shopifycloud/media-analytics/*^
 ||jill.fc.yahoo.com^
 ||consent.cmp.oath.com^
+||ensighten.postoffice.co.uk^

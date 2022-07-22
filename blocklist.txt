@@ -12617,3 +12617,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ^trekkie.storefront.*.min.js^
 ^tools/multipixel/sys.js^
 ^event.gif^
+||cdn.shopify.com/shopifycloud/media-analytics/*^

@@ -12267,3 +12267,4 @@
 0.0.0.0 webrate.org
 0.0.0.0 autobild.com.mx
 0.0.0.0 verifid.ac.uk
+0.0.0.0 verifid.com.au

@@ -12622,3 +12622,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||consent.cmp.oath.com^
 ||ensighten.postoffice.co.uk^
 ||tags.experian.co.uk^
+||sundaysky.com^

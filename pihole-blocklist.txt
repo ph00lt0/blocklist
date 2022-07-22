@@ -1527,7 +1527,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 g.whatsapp.net
 0.0.0.0 c1.iggcdn.com
-0.0.0.0 iggcdn.com
+! allow iggcdn.com reason: Not a tracker
 0.0.0.0 omnisnippet1.com
 0.0.0.0 cdn.refersion.com
 0.0.0.0 pxucdn.com

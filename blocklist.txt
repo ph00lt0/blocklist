@@ -1530,7 +1530,7 @@
 ||prg.smartadserver.com^
 ||g.whatsapp.net^
 ||c1.iggcdn.com^
-||iggcdn.com^
+@@||iggcdn.com^  # Not a tracker
 ||omnisnippet1.com^
 ||cdn.refersion.com^
 ||pxucdn.com^

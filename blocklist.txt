@@ -12628,3 +12628,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||livechat-metrics.messagebird.com^
 ||headwayapp.co^
 ||cdn.headwayapp.co^
+||knowler.io^

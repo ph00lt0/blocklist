@@ -12572,3 +12572,4 @@ fd.nl##.fd-message
 ||contentstack.io^
 ||coredump.cx^
 ||crownpeak.com^
+||datagrail.io^

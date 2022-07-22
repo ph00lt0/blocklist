@@ -12282,3 +12282,4 @@
 0.0.0.0 cmail20.com
 0.0.0.0 contentstack.io
 0.0.0.0 coredump.cx
+0.0.0.0 crownpeak.com

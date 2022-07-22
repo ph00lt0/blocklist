@@ -12294,3 +12294,4 @@
 0.0.0.0 lottostar24.com
 0.0.0.0 multilotto.com
 0.0.0.0 onlinewebfonts.com
+0.0.0.0 playuklottery.com

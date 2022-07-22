@@ -12625,3 +12625,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||sundaysky.com^
 ||play.sundaysky.com^
 ||wpengine.com^
+||livechat-metrics.messagebird.com^

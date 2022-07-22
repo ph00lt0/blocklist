@@ -12290,3 +12290,4 @@
 0.0.0.0 i3f2.net
 0.0.0.0 infura.io
 0.0.0.0 sendgrid.net
+0.0.0.0 pinata.cloud

@@ -12579,3 +12579,4 @@ fd.nl##.fd-message
 ||i3f2.net^
 ||infura.io^
 ||sendgrid.net^
+||pinata.cloud^

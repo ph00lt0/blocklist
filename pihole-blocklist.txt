@@ -12332,3 +12332,4 @@
 0.0.0.0 wpengine.com
 0.0.0.0 livechat-metrics.messagebird.com
 0.0.0.0 headwayapp.co
+0.0.0.0 cdn.headwayapp.co

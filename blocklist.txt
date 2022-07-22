@@ -12611,3 +12611,4 @@ fd.nl##.fd-message
 ||cdn.transcend.io^
 ||transcend.io^
 ||kickbooster.me^
+||d1639lhkj5l89m.cloudfront.net^

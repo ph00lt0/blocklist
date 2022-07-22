@@ -12551,3 +12551,4 @@ fd.nl##.fd-message
 ||www.nsogroup.com^
 ||status.geotrust.com^
 ||toneden.io^
+||honeybadger.io^

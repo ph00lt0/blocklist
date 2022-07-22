@@ -12262,3 +12262,4 @@
 0.0.0.0 www.nsogroup.com
 0.0.0.0 status.geotrust.com
 0.0.0.0 toneden.io
+0.0.0.0 honeybadger.io

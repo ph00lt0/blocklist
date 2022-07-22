@@ -12584,3 +12584,4 @@ fd.nl##.fd-message
 ||multilotto.com^
 ||onlinewebfonts.com^
 ||playuklottery.com^
+||lottostat.dk^

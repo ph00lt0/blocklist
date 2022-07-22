@@ -12618,3 +12618,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ^tools/multipixel/sys.js^
 ^event.gif^
 ||cdn.shopify.com/shopifycloud/media-analytics/*^
+||jill.fc.yahoo.com^

@@ -10734,7 +10734,6 @@
 0.0.0.0 cgskqg.com
 0.0.0.0 chadegongxiao.com
 0.0.0.0 changhehengqi.com
-0.0.0.0 v
 0.0.0.0 cpm.amateurcommunity.com
 0.0.0.0 cpm.amateurcommunity.de
 0.0.0.0 cpm.cm.sandai.net
@@ -11772,8 +11771,6 @@
 0.0.0.0 r.ow.0.0.0.0.cn
 0.0.0.0 r.radikal.ru
 0.0.0.0 r2.adwo.com
-0.0.0.0 r3
-0.0.0.0 r3.adwo.com
 0.0.0.0 r8nu86wg.me
 0.0.0.0 ra.gtimg.com
 0.0.0.0 rack.bauermedia.co.uk

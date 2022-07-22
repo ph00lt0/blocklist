@@ -11022,7 +11022,6 @@ fd.nl##.fd-message
 ||cgskqg.com^
 ||chadegongxiao.com^
 ||changhehengqi.com^
-||v^
 ||cpm.amateurcommunity.com^
 ||cpm.amateurcommunity.de^
 ||cpm.cm.sandai.net^
@@ -12060,7 +12059,6 @@ fd.nl##.fd-message
 ||r.ow.0.0.0.0.cn^
 ||r.radikal.ru^
 ||r2.adwo.com^
-||r3^
 ||r3.adwo.com^
 ||r8nu86wg.me^
 ||ra.gtimg.com^

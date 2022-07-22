@@ -12631,3 +12631,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||knowler.io^
 ||app.knowler.io^
 ||ws.qualified.com^
+||qualified.com^

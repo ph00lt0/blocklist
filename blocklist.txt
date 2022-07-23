@@ -12709,3 +12709,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||membrana.media^
 ||cdn.membrana.media^
 ||adncdnend.azureedge.net^
+||adserver.day.kyiv.ua^

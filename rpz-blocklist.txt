@@ -12305,3 +12305,4 @@ sinoptik.ua CNAME .
 membrana.media CNAME .
 cdn.membrana.media CNAME .
 adncdnend.azureedge.net CNAME .
+adserver.day.kyiv.ua CNAME .

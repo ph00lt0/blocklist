@@ -12501,3 +12501,4 @@
 0.0.0.0 shop-adtm-assets.shpp.ext.zooplus.io
 0.0.0.0 personalization-gdpr.samp.ext.zooplus.io
 0.0.0.0 leto-personal-prod.samp.ext.zooplus.io
+0.0.0.0 searchen-hopps-prod.samp.ext.zooplus.io

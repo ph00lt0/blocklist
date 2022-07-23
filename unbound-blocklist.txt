@@ -12394,3 +12394,4 @@ local-zone: "ads.mindfactory.de." always_null
 local-zone: "shop-adtm-assets.shpp.ext.zooplus.io." always_null
 local-zone: "personalization-gdpr.samp.ext.zooplus.io." always_null
 local-zone: "leto-personal-prod.samp.ext.zooplus.io." always_null
+local-zone: "searchen-hopps-prod.samp.ext.zooplus.io." always_null

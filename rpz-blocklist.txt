@@ -12393,3 +12393,4 @@ ads.mindfactory.de CNAME .
 shop-adtm-assets.shpp.ext.zooplus.io CNAME .
 personalization-gdpr.samp.ext.zooplus.io CNAME .
 leto-personal-prod.samp.ext.zooplus.io CNAME .
+searchen-hopps-prod.samp.ext.zooplus.io CNAME .

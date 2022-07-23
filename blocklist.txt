@@ -12787,3 +12787,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||civiccomputing.com^
 ||civicuk.com^
 ||stats.civiccomputing.com^
+||ublock.org^

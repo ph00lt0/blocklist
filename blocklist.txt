@@ -12885,3 +12885,4 @@ $removeparam=utm-source
 ||m.aboutyou.de^
 @@||api.aboutyou.com^  # required
 ||m.aboutyou.nl^
+||t.aboutyou.cz^

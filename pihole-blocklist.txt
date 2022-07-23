@@ -12574,3 +12574,4 @@
 0.0.0.0 m.aboutyou.de
 ! allow api.aboutyou.com reason: required
 0.0.0.0 m.aboutyou.nl
+0.0.0.0 t.aboutyou.cz

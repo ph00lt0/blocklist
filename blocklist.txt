@@ -12642,3 +12642,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||sp.mail.notion.so^
 ||viapplogs.net^
 ||exacttarget.com.edgekey.net^
+||metric.gstatic.com^

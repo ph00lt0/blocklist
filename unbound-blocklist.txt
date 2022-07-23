@@ -12240,3 +12240,4 @@ local-zone: "appfire.app." always_null
 local-zone: "sp.mail.notion.so." always_null
 local-zone: "viapplogs.net." always_null
 local-zone: "exacttarget.com.edgekey.net." always_null
+local-zone: "metric.gstatic.com." always_null

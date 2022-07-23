@@ -12347,3 +12347,4 @@
 0.0.0.0 sp.mail.notion.so
 0.0.0.0 viapplogs.net
 0.0.0.0 exacttarget.com.edgekey.net
+0.0.0.0 metric.gstatic.com

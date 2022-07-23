@@ -12368,3 +12368,4 @@ spark.cloud.funkedigital.de CNAME .
 data-c0c484e9be.werstreamt.es CNAME .
 agnes.werstreamt.es CNAME .
 widgets.twimg.com CNAME .
+syndication.nzherald.co.nz CNAME .

@@ -12266,6 +12266,7 @@
         "stat.tiara.daum.net",
         "tiara.daum.net",
         "onkakao.net",
-        "malibu-ingest.onkakao.net"
+        "malibu-ingest.onkakao.net",
+        "aem-ingest.onkakao.net"
     ]
 }

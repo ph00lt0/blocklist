@@ -12379,3 +12379,4 @@
 0.0.0.0 tiara.daum.net
 0.0.0.0 onkakao.net
 0.0.0.0 malibu-ingest.onkakao.net
+0.0.0.0 aem-ingest.onkakao.net

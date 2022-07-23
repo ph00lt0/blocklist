@@ -12271,3 +12271,4 @@ stat.tiara.daum.net CNAME .
 tiara.daum.net CNAME .
 onkakao.net CNAME .
 malibu-ingest.onkakao.net CNAME .
+aem-ingest.onkakao.net CNAME .

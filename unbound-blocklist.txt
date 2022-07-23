@@ -12272,3 +12272,4 @@ local-zone: "stat.tiara.daum.net." always_null
 local-zone: "tiara.daum.net." always_null
 local-zone: "onkakao.net." always_null
 local-zone: "malibu-ingest.onkakao.net." always_null
+local-zone: "aem-ingest.onkakao.net." always_null

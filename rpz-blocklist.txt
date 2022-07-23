@@ -12435,3 +12435,4 @@ js-error-tracer-api.cafe24.com CNAME .
 daumcdn.net CNAME .
 t1.daumcdn.net CNAME .
 megadata.co.kr CNAME .
+cdn.megadata.co.kr CNAME .

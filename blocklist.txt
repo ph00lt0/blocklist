@@ -12854,3 +12854,4 @@ $removeparam=utm-source
 ||daumcdn.net^
 ||t1.daumcdn.net^
 ||megadata.co.kr^
+||cdn.megadata.co.kr^

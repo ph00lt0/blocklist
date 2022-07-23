@@ -12436,3 +12436,4 @@ local-zone: "js-error-tracer-api.cafe24.com." always_null
 local-zone: "daumcdn.net." always_null
 local-zone: "t1.daumcdn.net." always_null
 local-zone: "megadata.co.kr." always_null
+local-zone: "cdn.megadata.co.kr." always_null

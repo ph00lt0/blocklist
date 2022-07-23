@@ -12543,3 +12543,4 @@
 0.0.0.0 daumcdn.net
 0.0.0.0 t1.daumcdn.net
 0.0.0.0 megadata.co.kr
+0.0.0.0 cdn.megadata.co.kr

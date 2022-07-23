@@ -12655,3 +12655,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||bdash-cloud.com^
 ||smart-bdash.com^
 ||yjtag.jp^
+||b.yjtag.jp^

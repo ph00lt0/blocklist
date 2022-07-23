@@ -12252,3 +12252,4 @@ cdn.activity.smart-bdash.com CNAME .
 bdash-cloud.com CNAME .
 smart-bdash.com CNAME .
 yjtag.jp CNAME .
+b.yjtag.jp CNAME .

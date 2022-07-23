@@ -12266,3 +12266,4 @@ local-zone: "siape.veta.naver.com." always_null
 local-zone: "l.www.naver.com." always_null
 local-zone: "banner.auction.co.kr." always_null
 local-zone: "adcr.shopping.naver.com." always_null
+local-zone: "ad.daum.net." always_null

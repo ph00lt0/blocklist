@@ -12668,3 +12668,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||l.www.naver.com^
 ||banner.auction.co.kr^
 ||adcr.shopping.naver.com^
+||ad.daum.net^

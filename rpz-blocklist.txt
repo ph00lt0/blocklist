@@ -12265,3 +12265,4 @@ siape.veta.naver.com CNAME .
 l.www.naver.com CNAME .
 banner.auction.co.kr CNAME .
 adcr.shopping.naver.com CNAME .
+ad.daum.net CNAME .

@@ -12880,3 +12880,4 @@ $removeparam=utm-source
 ||weekday.com^
 ||idservice.hm.com^
 ||t.aboutyou.nl^
+||t.aboutyou.de^

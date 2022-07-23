@@ -12686,3 +12686,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cyad1.nate.com^
 ||stat.nate.com^
 ||cyad.nate.com^
+||statetc.nate.com^

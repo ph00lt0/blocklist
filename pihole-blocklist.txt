@@ -12391,3 +12391,4 @@
 0.0.0.0 cyad1.nate.com
 0.0.0.0 stat.nate.com
 0.0.0.0 cyad.nate.com
+0.0.0.0 statetc.nate.com

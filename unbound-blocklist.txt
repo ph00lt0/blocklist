@@ -12453,3 +12453,4 @@ local-zone: "abc.esprit.se." always_null
 local-zone: "abc.espritshop.ch." always_null
 local-zone: "cpb.espritshop.ch." always_null
 local-zone: "im.cyberport.de." always_null
+local-zone: "api-tiger.zoovu.com." always_null

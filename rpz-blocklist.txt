@@ -5381,7 +5381,7 @@ www.rms.de CNAME .
 drbanner.com CNAME .
 viewpay.tv CNAME .
 www.cpex.cz CNAME .
-www.otto.de CNAME .
+; allow www.otto.de reason: Store website
 www.kairosfire.com CNAME .
 www.pg.com CNAME .
 adtelligent.com CNAME .

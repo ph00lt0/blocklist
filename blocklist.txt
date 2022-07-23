@@ -5541,7 +5541,7 @@ $removeparam=afftrack
 @@||www.adobe.com^  # Not just tracking company
 ||viewpay.tv^
 ||www.cpex.cz^
-||www.otto.de^
+@@||www.otto.de^  # Store website
 ||www.kairosfire.com^
 ||www.pg.com^
 ||adtelligent.com^

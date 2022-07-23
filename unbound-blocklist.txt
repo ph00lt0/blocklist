@@ -5382,7 +5382,7 @@ local-zone: "www.rms.de." always_null
 local-zone: "drbanner.com." always_null
 local-zone: "viewpay.tv." always_null
 local-zone: "www.cpex.cz." always_null
-local-zone: "www.otto.de." always_null
+# allow www.otto.de reason: Store website
 local-zone: "www.kairosfire.com." always_null
 local-zone: "www.pg.com." always_null
 local-zone: "adtelligent.com." always_null

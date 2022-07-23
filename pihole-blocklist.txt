@@ -5469,7 +5469,7 @@
 ! allow www.adobe.com reason: Not just tracking company
 0.0.0.0 viewpay.tv
 0.0.0.0 www.cpex.cz
-0.0.0.0 www.otto.de
+! allow www.otto.de reason: Store website
 0.0.0.0 www.kairosfire.com
 0.0.0.0 www.pg.com
 0.0.0.0 adtelligent.com

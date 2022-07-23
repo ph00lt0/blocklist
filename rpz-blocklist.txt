@@ -12444,3 +12444,4 @@ abc.esprit.sg CNAME .
 abc.esprit.es CNAME .
 cpb.esprit.es CNAME .
 abc.esprit.tw CNAME .
+abc.esprit.co.th CNAME .

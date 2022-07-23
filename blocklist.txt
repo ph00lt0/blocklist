@@ -12785,3 +12785,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||unbecominglamp.com^
 ||apikeys.civiccomputing.com^
 ||civiccomputing.com^
+||civicuk.com^

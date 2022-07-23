@@ -12369,3 +12369,4 @@
 0.0.0.0 lcs.naver.com
 0.0.0.0 tivan.naver.com
 0.0.0.0 gfp.veta.naver.com
+0.0.0.0 siape.veta.naver.com

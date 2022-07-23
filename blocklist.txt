@@ -12664,3 +12664,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||lcs.naver.com^
 ||tivan.naver.com^
 ||gfp.veta.naver.com^
+||siape.veta.naver.com^

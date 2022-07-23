@@ -12262,3 +12262,4 @@ local-zone: "cologger.shopping.naver.com." always_null
 local-zone: "lcs.naver.com." always_null
 local-zone: "tivan.naver.com." always_null
 local-zone: "gfp.veta.naver.com." always_null
+local-zone: "siape.veta.naver.com." always_null

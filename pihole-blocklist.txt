@@ -12357,3 +12357,4 @@
 0.0.0.0 recom.hypebeast.com
 0.0.0.0 cdn.activity.bdash-cloud.com
 0.0.0.0 cdn.activity.smart-bdash.com
+0.0.0.0 bdash-cloud.com

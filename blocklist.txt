@@ -12652,3 +12652,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||recom.hypebeast.com^
 ||cdn.activity.bdash-cloud.com^
 ||cdn.activity.smart-bdash.com^
+||bdash-cloud.com^

@@ -12671,3 +12671,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ad.daum.net^
 ||webid.ad.daum.net^
 ||stat.tiara.daum.net^
+||tiara.daum.net^

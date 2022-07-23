@@ -12268,3 +12268,4 @@ adcr.shopping.naver.com CNAME .
 ad.daum.net CNAME .
 webid.ad.daum.net CNAME .
 stat.tiara.daum.net CNAME .
+tiara.daum.net CNAME .

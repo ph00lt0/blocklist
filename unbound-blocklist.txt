@@ -12269,3 +12269,4 @@ local-zone: "adcr.shopping.naver.com." always_null
 local-zone: "ad.daum.net." always_null
 local-zone: "webid.ad.daum.net." always_null
 local-zone: "stat.tiara.daum.net." always_null
+local-zone: "tiara.daum.net." always_null

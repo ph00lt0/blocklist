@@ -12328,3 +12328,4 @@ ut76nb.sparkasse.at CNAME .
 moserholding.piwik.pro CNAME .
 assets.emarsys.net CNAME .
 emarsys.net CNAME .
+pv-apps.web.oebb.at CNAME .

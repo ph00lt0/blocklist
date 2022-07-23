@@ -12300,3 +12300,4 @@ local-zone: "aq.censor.net." always_null
 local-zone: "znctrack.net." always_null
 local-zone: "s.znctrack.net." always_null
 local-zone: "jsc.mgid.com." always_null
+local-zone: "counter.unian.net." always_null

@@ -12559,3 +12559,4 @@
 0.0.0.0 abc.esprit.se
 0.0.0.0 abc.espritshop.ch
 0.0.0.0 cpb.espritshop.ch
+0.0.0.0 im.cyberport.de

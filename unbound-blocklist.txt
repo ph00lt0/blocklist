@@ -12327,3 +12327,4 @@ local-zone: "px.staticfiles.at." always_null
 local-zone: "privacy.trustcommander.net." always_null
 local-zone: "ut76nb.sparkasse.at." always_null
 local-zone: "moserholding.piwik.pro." always_null
+local-zone: "assets.emarsys.net." always_null

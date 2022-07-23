@@ -21,7 +21,7 @@ declare blocklistRule="||$domain^"
 declare allowedRule="@@||$domain^"
 declare piholeBlocklistRule="0.0.0.0 $domain"
 declare rpzBlocklistRule="$domain CNAME ."
-declare unboundBlocklistRule="local-zone: \" $domain .\" always_null"
+declare unboundBlocklistRule="local-zone: \"$domain.\" always_null"
 
 if [ "$domain" == "" ]; then
     echo "No domain provided."

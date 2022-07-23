@@ -37,7 +37,7 @@ else
   declare blocklistRule="||$domain^"
   declare piholeBlocklistRule="0.0.0.0 $domain"
   declare rpzBlocklistRule="$domain CNAME ."
-  declare unboundBlocklistRule="local-zone: \" $domain .\" always_null"
+  declare unboundBlocklistRule="local-zone: \"$domain.\" always_null"
 
   # Only check for default blocklist as pihole list should contain same domains.
   if grep -q $blocklistRule "$blocklist"; then

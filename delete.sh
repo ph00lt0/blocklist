@@ -31,7 +31,7 @@ declare author=$(git config user.name)
 declare blocklistRule="||$mistake^"
 declare piholeBlocklistRule="0.0.0.0 $mistake"
 declare rpzBlocklistRule="$mistake CNAME ."
-declare unboundBlocklistRule="local-zone: \" $mistake .\" always_null"
+declare unboundBlocklistRule="local-zone: \"$mistake.\" always_null"
 
 
 # Only check for default blocklist as pihole list should contain same domains.

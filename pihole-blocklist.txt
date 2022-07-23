@@ -12339,5 +12339,4 @@
 0.0.0.0 qualified.com
 0.0.0.0 selfishsnake.com
 0.0.0.0 champagne.futurecdn.net
-0.0.0.0 test.com
 0.0.0.0 fabric.io

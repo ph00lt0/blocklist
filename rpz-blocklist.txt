@@ -12427,3 +12427,4 @@ abc.esprit.fr CNAME .
 abc.esprit.fi CNAME .
 cpb.esprit.fi CNAME .
 abc.esprit.hk CNAME .
+cpb.esprit.hk CNAME .

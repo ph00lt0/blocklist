@@ -12233,3 +12233,4 @@ selfishsnake.com CNAME .
 champagne.futurecdn.net CNAME .
 fabric.io CNAME .
 zohocampaigns.com CNAME .
+zdtc.app CNAME .

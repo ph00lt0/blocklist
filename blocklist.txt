@@ -12636,3 +12636,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||champagne.futurecdn.net^
 ||fabric.io^
 ||zohocampaigns.com^
+||zdtc.app^

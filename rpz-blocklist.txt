@@ -12290,3 +12290,4 @@ ats.gmarket.co.kr CNAME .
 ad-mapps.com CNAME .
 advimg.ad-mapps.com CNAME .
 log.sv.pandora.tv CNAME .
+vrixon.com CNAME .

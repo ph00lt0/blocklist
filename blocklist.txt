@@ -12693,3 +12693,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ad-mapps.com^
 ||advimg.ad-mapps.com^
 ||log.sv.pandora.tv^
+||vrixon.com^

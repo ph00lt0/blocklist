@@ -12877,3 +12877,4 @@ $removeparam=utm-source
 ||lp2.hm.com^
 ||e2712.b.akamaiedge.net^
 ||lp.weekday.com^
+||weekday.com^

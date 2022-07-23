@@ -12440,3 +12440,4 @@ cpb.esprit.at CNAME .
 abc.esprit.at CNAME .
 abc.espritshop.pl CNAME .
 cpb.espritshop.pl CNAME .
+abc.esprit.sg CNAME .

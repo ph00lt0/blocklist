@@ -155,10 +155,10 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 2. Click `Add`
 3. Paste the URL from below
 ```
-https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/unbound-blocklist.txt
 ```
 4. Click safe. 
-5. Make sure auto updates are on and you may force update to apply the list immediatly. 
+5. Make sure auto updates are on, and you may force update to apply the list immediately. 
 
 
 ### PiHole

@@ -12238,3 +12238,4 @@ local-zone: "zdtc.app." always_null
 local-zone: "securemetrics.experience.apple." always_null
 local-zone: "appfire.app." always_null
 local-zone: "sp.mail.notion.so." always_null
+local-zone: "viapplogs.net." always_null

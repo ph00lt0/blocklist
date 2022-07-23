@@ -12237,3 +12237,4 @@ zdtc.app CNAME .
 securemetrics.experience.apple CNAME .
 appfire.app CNAME .
 sp.mail.notion.so CNAME .
+viapplogs.net CNAME .

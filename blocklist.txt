@@ -12640,3 +12640,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||securemetrics.experience.apple^
 ||appfire.app^
 ||sp.mail.notion.so^
+||viapplogs.net^

@@ -12342,3 +12342,4 @@
 0.0.0.0 fabric.io
 0.0.0.0 zohocampaigns.com
 0.0.0.0 zdtc.app
+0.0.0.0 securemetrics.experience.apple

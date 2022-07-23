@@ -12637,3 +12637,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||fabric.io^
 ||zohocampaigns.com^
 ||zdtc.app^
+||securemetrics.experience.apple^

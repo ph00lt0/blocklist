@@ -12235,3 +12235,4 @@ local-zone: "champagne.futurecdn.net." always_null
 local-zone: "fabric.io." always_null
 local-zone: "zohocampaigns.com." always_null
 local-zone: "zdtc.app." always_null
+local-zone: "securemetrics.experience.apple." always_null

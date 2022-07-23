@@ -12368,3 +12368,4 @@
 0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 lcs.naver.com
 0.0.0.0 tivan.naver.com
+0.0.0.0 gfp.veta.naver.com

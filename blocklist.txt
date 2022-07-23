@@ -12663,3 +12663,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cologger.shopping.naver.com^
 ||lcs.naver.com^
 ||tivan.naver.com^
+||gfp.veta.naver.com^

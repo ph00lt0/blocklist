@@ -12301,3 +12301,4 @@ s.znctrack.net CNAME .
 jsc.mgid.com CNAME .
 counter.unian.net CNAME .
 content.admixer.net CNAME .
+sinoptik.ua CNAME .

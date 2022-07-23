@@ -12705,3 +12705,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||jsc.mgid.com^
 ||counter.unian.net^
 ||content.admixer.net^
+||sinoptik.ua^

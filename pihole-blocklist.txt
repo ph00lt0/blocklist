@@ -12536,3 +12536,4 @@
 0.0.0.0 cpb.esprit.fi
 0.0.0.0 abc.esprit.hk
 0.0.0.0 cpb.esprit.hk
+0.0.0.0 abc.espritshop.it

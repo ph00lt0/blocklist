@@ -12683,3 +12683,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ibuy.kr^
 ||ats.auction.co.kr^
 ||uts.auction.co.kr^
+||cyad1.nate.com^

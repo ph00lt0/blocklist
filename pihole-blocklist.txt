@@ -12388,3 +12388,4 @@
 0.0.0.0 ibuy.kr
 0.0.0.0 ats.auction.co.kr
 0.0.0.0 uts.auction.co.kr
+0.0.0.0 cyad1.nate.com

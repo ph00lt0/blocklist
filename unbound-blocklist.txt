@@ -12295,3 +12295,4 @@ local-zone: "vrixon.com." always_null
 local-zone: "gp.vrixon.com." always_null
 local-zone: "developers.kakao.com." always_null
 local-zone: "entertainapi.kbsmedia.co.kr." always_null
+local-zone: "pwwwapi.kbs.co.kr." always_null

@@ -12698,3 +12698,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ^kakao.min.js^
 ||developers.kakao.com^
 ||entertainapi.kbsmedia.co.kr^
+||pwwwapi.kbs.co.kr^

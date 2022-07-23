@@ -12294,3 +12294,4 @@ vrixon.com CNAME .
 gp.vrixon.com CNAME .
 developers.kakao.com CNAME .
 entertainapi.kbsmedia.co.kr CNAME .
+pwwwapi.kbs.co.kr CNAME .

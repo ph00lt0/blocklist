@@ -12579,3 +12579,4 @@
 0.0.0.0 t.aboutyou.bg
 0.0.0.0 t.aboutyou.fi
 0.0.0.0 t.aboutyou.hu
+0.0.0.0 t.aboutyou.sk

@@ -12554,3 +12554,4 @@
 0.0.0.0 abc.esprit.tw
 0.0.0.0 abc.esprit.co.th
 0.0.0.0 abc.esprit.cz
+0.0.0.0 cpb.esprit.cz

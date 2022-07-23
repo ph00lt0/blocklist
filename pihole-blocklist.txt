@@ -12572,4 +12572,4 @@
 0.0.0.0 t.aboutyou.de
 0.0.0.0 tadarida-web.aboutyou.com
 0.0.0.0 m.aboutyou.de
-0.0.0.0 api.aboutyou.com
+! allow api.aboutyou.com reason: required

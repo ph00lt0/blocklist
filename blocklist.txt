@@ -12650,3 +12650,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||experience-ap.piano.io^
 ||log.hypebeast.com^
 ||recom.hypebeast.com^
+||cdn.activity.bdash-cloud.com^

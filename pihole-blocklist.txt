@@ -12355,3 +12355,4 @@
 0.0.0.0 experience-ap.piano.io
 0.0.0.0 log.hypebeast.com
 0.0.0.0 recom.hypebeast.com
+0.0.0.0 cdn.activity.bdash-cloud.com

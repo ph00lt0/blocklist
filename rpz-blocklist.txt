@@ -12274,3 +12274,4 @@ malibu-ingest.onkakao.net CNAME .
 aem-ingest.onkakao.net CNAME .
 montelena.auction.co.kr CNAME .
 dadispapi.auction.co.kr CNAME .
+adcheck.about.co.kr CNAME .

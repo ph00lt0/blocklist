@@ -12275,3 +12275,4 @@ local-zone: "malibu-ingest.onkakao.net." always_null
 local-zone: "aem-ingest.onkakao.net." always_null
 local-zone: "montelena.auction.co.kr." always_null
 local-zone: "dadispapi.auction.co.kr." always_null
+local-zone: "adcheck.about.co.kr." always_null

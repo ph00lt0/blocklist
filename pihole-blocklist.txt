@@ -12382,3 +12382,4 @@
 0.0.0.0 aem-ingest.onkakao.net
 0.0.0.0 montelena.auction.co.kr
 0.0.0.0 dadispapi.auction.co.kr
+0.0.0.0 adcheck.about.co.kr

@@ -12808,3 +12808,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||www.saturn.de/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js^
 ||ads.mindfactory.de^
 ||shop-adtm-assets.shpp.ext.zooplus.io^
+||personalization-gdpr.samp.ext.zooplus.io^

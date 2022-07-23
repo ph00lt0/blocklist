@@ -12451,3 +12451,4 @@ local-zone: "cpb.esprit.cz." always_null
 local-zone: "cpb.esprit.se." always_null
 local-zone: "abc.esprit.se." always_null
 local-zone: "abc.espritshop.ch." always_null
+local-zone: "cpb.espritshop.ch." always_null

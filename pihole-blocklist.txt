@@ -12495,3 +12495,4 @@
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 e-mailit.com
 0.0.0.0 www.e-mailit.com
+0.0.0.0 cleantalk.org

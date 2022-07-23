@@ -12387,3 +12387,4 @@ bilder-a.akamaihd.net CNAME .
 metrics.n-tv.de CNAME .
 e-mailit.com CNAME .
 www.e-mailit.com CNAME .
+cleantalk.org CNAME .

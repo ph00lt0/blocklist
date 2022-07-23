@@ -12235,3 +12235,4 @@ fabric.io CNAME .
 zohocampaigns.com CNAME .
 zdtc.app CNAME .
 securemetrics.experience.apple CNAME .
+appfire.app CNAME .

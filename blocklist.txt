@@ -12638,3 +12638,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||zohocampaigns.com^
 ||zdtc.app^
 ||securemetrics.experience.apple^
+||appfire.app^

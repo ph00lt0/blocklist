@@ -12236,3 +12236,4 @@ local-zone: "fabric.io." always_null
 local-zone: "zohocampaigns.com." always_null
 local-zone: "zdtc.app." always_null
 local-zone: "securemetrics.experience.apple." always_null
+local-zone: "appfire.app." always_null

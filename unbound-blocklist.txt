@@ -12351,3 +12351,4 @@ local-zone: "ad*.adfarm*.adition.com." always_null
 local-zone: "ad11.adfarm1.adition.com." always_null
 local-zone: "hgc-cf-cache-1.svonm.com." always_null
 local-zone: "svonm.com." always_null
+local-zone: "[A." always_null

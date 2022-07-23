@@ -12752,3 +12752,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||tifbs.net^
 ||js.ui-portal.de/homepage/res/live/*gmx/js/piNctTracking.js^
 ||dl.gmx.net/uim/connector/live/v*/nonfriendlyiframe.html^
+||img.ui-portal.de/pos-cdn/tracklib/*/tracklib.min.js^

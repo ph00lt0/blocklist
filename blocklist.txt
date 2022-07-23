@@ -12678,3 +12678,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||montelena.auction.co.kr^
 ||dadispapi.auction.co.kr^
 ||adcheck.about.co.kr^
+||scripts.baikalize.com^

@@ -12745,3 +12745,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||partner.bergfex.at^
 @@||vod-at.mdn.ors.at^  # Required for video playback
 ||wa.gmx.net^
+||web.de^

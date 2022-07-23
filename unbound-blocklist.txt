@@ -12348,3 +12348,4 @@ local-zone: "wa.gmx.at." always_null
 local-zone: "einwilligungsspeicher.netid.de." always_null
 local-zone: "plus.gmx.at." always_null
 local-zone: "ad*.adfarm*.adition.com." always_null
+local-zone: "ad11.adfarm1.adition.com." always_null

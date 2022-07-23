@@ -12474,3 +12474,15 @@ local-zone: "t.aboutyou.fi." always_null
 local-zone: "t.aboutyou.hu." always_null
 local-zone: "t.aboutyou.sk." always_null
 local-zone: "t.aboutyou.es." always_null
+local-zone: "t.aboutyou.si." always_null
+local-zone: "t.aboutyou.be." always_null
+local-zone: "t.aboutyou.fr." always_null
+local-zone: "t.aboutyou.ch." always_null
+local-zone: "t.aboutyou.pl." always_null
+local-zone: "t.aboutyou.gr." always_null
+local-zone: "t.aboutyou.no." always_null
+local-zone: "t.aboutyou.com." always_null
+local-zone: "t.aboutyou.ie." always_null
+local-zone: "t.aboutyou.pt." always_null
+local-zone: "ayt-live.fra1.digitaloceanspaces.com." always_null
+local-zone: "t.aboutyou.ee." always_null

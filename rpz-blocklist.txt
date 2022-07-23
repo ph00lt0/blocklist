@@ -12473,3 +12473,15 @@ t.aboutyou.fi CNAME .
 t.aboutyou.hu CNAME .
 t.aboutyou.sk CNAME .
 t.aboutyou.es CNAME .
+t.aboutyou.si CNAME .
+t.aboutyou.be CNAME .
+t.aboutyou.fr CNAME .
+t.aboutyou.ch CNAME .
+t.aboutyou.pl CNAME .
+t.aboutyou.gr CNAME .
+t.aboutyou.no CNAME .
+t.aboutyou.com CNAME .
+t.aboutyou.ie CNAME .
+t.aboutyou.pt CNAME .
+ayt-live.fra1.digitaloceanspaces.com CNAME .
+t.aboutyou.ee CNAME .

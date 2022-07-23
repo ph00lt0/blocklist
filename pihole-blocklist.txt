@@ -12581,3 +12581,15 @@
 0.0.0.0 t.aboutyou.hu
 0.0.0.0 t.aboutyou.sk
 0.0.0.0 t.aboutyou.es
+0.0.0.0 t.aboutyou.si
+0.0.0.0 t.aboutyou.be
+0.0.0.0 t.aboutyou.fr
+0.0.0.0 t.aboutyou.ch
+0.0.0.0 t.aboutyou.pl
+0.0.0.0 t.aboutyou.gr
+0.0.0.0 t.aboutyou.no
+0.0.0.0 t.aboutyou.com
+0.0.0.0 t.aboutyou.ie
+0.0.0.0 t.aboutyou.pt
+0.0.0.0 ayt-live.fra1.digitaloceanspaces.com
+0.0.0.0 t.aboutyou.ee

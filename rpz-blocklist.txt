@@ -12287,3 +12287,4 @@ statetc.nate.com CNAME .
 utsgw.gmarket.co.kr CNAME .
 ad-img.ebaykorea.com CNAME .
 ats.gmarket.co.kr CNAME .
+ad-mapps.com CNAME .

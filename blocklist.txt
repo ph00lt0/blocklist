@@ -12690,3 +12690,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||utsgw.gmarket.co.kr^
 ||ad-img.ebaykorea.com^
 ||ats.gmarket.co.kr^
+||ad-mapps.com^

@@ -12395,3 +12395,4 @@
 0.0.0.0 utsgw.gmarket.co.kr
 0.0.0.0 ad-img.ebaykorea.com
 0.0.0.0 ats.gmarket.co.kr
+0.0.0.0 ad-mapps.com

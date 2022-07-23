@@ -12330,3 +12330,4 @@ assets.emarsys.net CNAME .
 emarsys.net CNAME .
 pv-apps.web.oebb.at CNAME .
 imagesrv.adition.com CNAME .
+kurier.activehosted.com CNAME .

@@ -12371,3 +12371,4 @@ local-zone: "agnes.werstreamt.es." always_null
 local-zone: "widgets.twimg.com." always_null
 local-zone: "syndication.nzherald.co.nz." always_null
 local-zone: "unbecominglamp.com." always_null
+local-zone: "apikeys.civiccomputing.com." always_null

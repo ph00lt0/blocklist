@@ -12783,3 +12783,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||widgets.twimg.com^
 ||syndication.nzherald.co.nz^
 ||unbecominglamp.com^
+||apikeys.civiccomputing.com^

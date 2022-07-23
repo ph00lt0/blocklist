@@ -12277,3 +12277,4 @@ dadispapi.auction.co.kr CNAME .
 adcheck.about.co.kr CNAME .
 scripts.baikalize.com CNAME .
 baikalize.com CNAME .
+ibuy.kr CNAME .

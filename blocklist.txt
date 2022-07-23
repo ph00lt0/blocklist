@@ -12680,3 +12680,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||adcheck.about.co.kr^
 ||scripts.baikalize.com^
 ||baikalize.com^
+||ibuy.kr^

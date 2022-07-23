@@ -12458,3 +12458,4 @@ local-zone: "click.alternate.de." always_null
 local-zone: "chat.alternate.nl." always_null
 local-zone: "lp2.hm.com." always_null
 local-zone: "e2712.b.akamaiedge.net." always_null
+local-zone: "lp.weekday.com." always_null

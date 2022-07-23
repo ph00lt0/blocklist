@@ -12565,3 +12565,4 @@
 0.0.0.0 chat.alternate.nl
 0.0.0.0 lp2.hm.com
 0.0.0.0 e2712.b.akamaiedge.net
+0.0.0.0 lp.weekday.com

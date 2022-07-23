@@ -12457,3 +12457,4 @@ click.alternate.de CNAME .
 chat.alternate.nl CNAME .
 lp2.hm.com CNAME .
 e2712.b.akamaiedge.net CNAME .
+lp.weekday.com CNAME .

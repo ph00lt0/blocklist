@@ -12876,3 +12876,4 @@ $removeparam=utm-source
 ||chat.alternate.nl^
 ||lp2.hm.com^
 ||e2712.b.akamaiedge.net^
+||lp.weekday.com^

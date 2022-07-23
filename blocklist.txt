@@ -12746,3 +12746,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 @@||vod-at.mdn.ors.at^  # Required for video playback
 ||wa.gmx.net^
 ||web.de^
+||dpa-tools.ui-portal.de^

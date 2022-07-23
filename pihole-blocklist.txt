@@ -12445,3 +12445,4 @@
 ! allow vod-at.mdn.ors.at reason: Required for video playback
 0.0.0.0 wa.gmx.net
 0.0.0.0 web.de
+0.0.0.0 dpa-tools.ui-portal.de

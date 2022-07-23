@@ -12337,3 +12337,4 @@ partner.bergfex.at CNAME .
 ; allow vod-at.mdn.ors.at reason: Required for video playback
 wa.gmx.net CNAME .
 web.de CNAME .
+dpa-tools.ui-portal.de CNAME .

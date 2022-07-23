@@ -12648,3 +12648,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||privacyportal-cdn.onetrust.com^
 ||code.piano.io^
 ||experience-ap.piano.io^
+||log.hypebeast.com^

@@ -12676,3 +12676,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||malibu-ingest.onkakao.net^
 ||aem-ingest.onkakao.net^
 ||montelena.auction.co.kr^
+||dadispapi.auction.co.kr^

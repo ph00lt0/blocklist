@@ -12561,3 +12561,4 @@
 0.0.0.0 cpb.espritshop.ch
 0.0.0.0 im.cyberport.de
 0.0.0.0 api-tiger.zoovu.com
+0.0.0.0 click.alternate.de

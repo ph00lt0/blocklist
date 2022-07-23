@@ -12453,3 +12453,4 @@ abc.espritshop.ch CNAME .
 cpb.espritshop.ch CNAME .
 im.cyberport.de CNAME .
 api-tiger.zoovu.com CNAME .
+click.alternate.de CNAME .

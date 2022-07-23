@@ -12371,3 +12371,4 @@ widgets.twimg.com CNAME .
 syndication.nzherald.co.nz CNAME .
 unbecominglamp.com CNAME .
 apikeys.civiccomputing.com CNAME .
+civiccomputing.com CNAME .

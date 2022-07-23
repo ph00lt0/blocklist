@@ -12479,3 +12479,4 @@
 0.0.0.0 syndication.nzherald.co.nz
 0.0.0.0 unbecominglamp.com
 0.0.0.0 apikeys.civiccomputing.com
+0.0.0.0 civiccomputing.com

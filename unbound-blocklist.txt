@@ -12466,3 +12466,4 @@ local-zone: "t.aboutyou.de." always_null
 local-zone: "tadarida-web.aboutyou.com." always_null
 local-zone: "m.aboutyou.de." always_null
 # allow api.aboutyou.com reason: required
+local-zone: "m.aboutyou.nl." always_null

@@ -12837,7 +12837,7 @@ $removeparam=utm-source
 ||abc.esprit.dk^
 ||abc.esprit.ph^
 ||cpb.esprit.ph^
-||e2486.dscg.akamaiedge.net^
+@@||e2486.dscg.akamaiedge.net^  # scene7 image cdn
 ||fibre.esprit.com^
 ||global-e.com^
 ||webservices.global-e.com^

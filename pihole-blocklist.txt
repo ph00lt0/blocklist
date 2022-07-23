@@ -12526,7 +12526,7 @@
 0.0.0.0 abc.esprit.dk
 0.0.0.0 abc.esprit.ph
 0.0.0.0 cpb.esprit.ph
-0.0.0.0 e2486.dscg.akamaiedge.net
+! allow e2486.dscg.akamaiedge.net reason: scene7 image cdn
 0.0.0.0 fibre.esprit.com
 0.0.0.0 global-e.com
 0.0.0.0 webservices.global-e.com

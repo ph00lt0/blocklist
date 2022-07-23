@@ -12418,7 +12418,7 @@ cpb.esprit.dk CNAME .
 abc.esprit.dk CNAME .
 abc.esprit.ph CNAME .
 cpb.esprit.ph CNAME .
-e2486.dscg.akamaiedge.net CNAME .
+; allow e2486.dscg.akamaiedge.net reason: scene7 image cdn
 fibre.esprit.com CNAME .
 global-e.com CNAME .
 webservices.global-e.com CNAME .

@@ -12874,3 +12874,4 @@ $removeparam=utm-source
 ||api-tiger.zoovu.com^
 ||click.alternate.de^
 ||chat.alternate.nl^
+||lp2.hm.com^

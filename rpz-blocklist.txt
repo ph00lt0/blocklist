@@ -12455,3 +12455,4 @@ im.cyberport.de CNAME .
 api-tiger.zoovu.com CNAME .
 click.alternate.de CNAME .
 chat.alternate.nl CNAME .
+lp2.hm.com CNAME .

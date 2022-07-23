@@ -12563,3 +12563,4 @@
 0.0.0.0 api-tiger.zoovu.com
 0.0.0.0 click.alternate.de
 0.0.0.0 chat.alternate.nl
+0.0.0.0 lp2.hm.com

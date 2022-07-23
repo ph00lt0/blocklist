@@ -12448,3 +12448,4 @@ abc.esprit.co.th CNAME .
 abc.esprit.cz CNAME .
 cpb.esprit.cz CNAME .
 cpb.esprit.se CNAME .
+abc.esprit.se CNAME .

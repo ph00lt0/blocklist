@@ -12728,3 +12728,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||iocnt.net^
 ||coral.heute.at^
 ||px.staticfiles.at^
+^piano-*.js^

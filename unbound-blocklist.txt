@@ -12439,3 +12439,4 @@ local-zone: "megadata.co.kr." always_null
 local-zone: "cdn.megadata.co.kr." always_null
 local-zone: "cpb.esprit.at." always_null
 local-zone: "abc.esprit.at." always_null
+local-zone: "abc.espritshop.pl." always_null

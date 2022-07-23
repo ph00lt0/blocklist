@@ -12546,3 +12546,4 @@
 0.0.0.0 cdn.megadata.co.kr
 0.0.0.0 cpb.esprit.at
 0.0.0.0 abc.esprit.at
+0.0.0.0 abc.espritshop.pl

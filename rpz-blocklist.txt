@@ -12438,3 +12438,4 @@ megadata.co.kr CNAME .
 cdn.megadata.co.kr CNAME .
 cpb.esprit.at CNAME .
 abc.esprit.at CNAME .
+abc.espritshop.pl CNAME .

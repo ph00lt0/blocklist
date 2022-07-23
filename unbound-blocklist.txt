@@ -12232,3 +12232,4 @@ local-zone: "ws.qualified.com." always_null
 local-zone: "qualified.com." always_null
 local-zone: "selfishsnake.com." always_null
 local-zone: "champagne.futurecdn.net." always_null
+local-zone: " test.com ." always_null

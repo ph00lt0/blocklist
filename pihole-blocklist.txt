@@ -12426,3 +12426,4 @@
 0.0.0.0 at-config.sensic.net
 0.0.0.0 sensic.net
 0.0.0.0 mpianalytics.com
+0.0.0.0 sdk.mpianalytics.com

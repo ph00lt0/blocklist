@@ -12318,3 +12318,4 @@ pipe.orf.at CNAME .
 at-config.sensic.net CNAME .
 sensic.net CNAME .
 mpianalytics.com CNAME .
+sdk.mpianalytics.com CNAME .

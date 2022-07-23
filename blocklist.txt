@@ -12722,3 +12722,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||at-config.sensic.net^
 ||sensic.net^
 ||mpianalytics.com^
+||sdk.mpianalytics.com^

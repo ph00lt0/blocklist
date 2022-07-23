@@ -12657,3 +12657,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||yjtag.jp^
 ||b.yjtag.jp^
 ||docodoco.jp^
+||api.docodoco.jp^

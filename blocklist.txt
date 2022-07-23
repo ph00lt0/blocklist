@@ -12777,3 +12777,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||stats.peer.biz^
 ||fcp.codes^
 ||data-c0c484e9be.tvdigital.de^
+||spark.cloud.funkedigital.de^

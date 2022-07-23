@@ -12365,3 +12365,4 @@ local-zone: "b9fox3.tyrol.com." always_null
 local-zone: "stats.peer.biz." always_null
 local-zone: "fcp.codes." always_null
 local-zone: "data-c0c484e9be.tvdigital.de." always_null
+local-zone: "spark.cloud.funkedigital.de." always_null

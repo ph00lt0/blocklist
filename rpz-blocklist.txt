@@ -12364,3 +12364,4 @@ b9fox3.tyrol.com CNAME .
 stats.peer.biz CNAME .
 fcp.codes CNAME .
 data-c0c484e9be.tvdigital.de CNAME .
+spark.cloud.funkedigital.de CNAME .

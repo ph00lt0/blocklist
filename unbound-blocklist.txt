@@ -582,7 +582,7 @@ local-zone: "electro.demdex.net." always_null
 local-zone: "digidip.net." always_null
 local-zone: "collector.githubapp.com." always_null
 local-zone: "ip-geolocation.netcraft.com." always_null
-local-zone: "facebook.net,
+local-zone: "facebook.net." always_null
 local-zone: "fbexternal-a.akamaihd.net." always_null
 local-zone: "fonts.gstatic.com." always_null
 local-zone: "myfonts.net." always_null

@@ -12336,3 +12336,4 @@ local-zone: "kurier.activehosted.com." always_null
 local-zone: "data-44a005f23c.bergfex.at." always_null
 local-zone: "partner.bergfex.at." always_null
 # allow vod-at.mdn.ors.at reason: Required for video playback
+local-zone: "wa.gmx.net." always_null

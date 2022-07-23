@@ -12335,3 +12335,4 @@ kurier.activehosted.com CNAME .
 data-44a005f23c.bergfex.at CNAME .
 partner.bergfex.at CNAME .
 ; allow vod-at.mdn.ors.at reason: Required for video playback
+wa.gmx.net CNAME .

@@ -12443,3 +12443,4 @@
 0.0.0.0 data-44a005f23c.bergfex.at
 0.0.0.0 partner.bergfex.at
 ! allow vod-at.mdn.ors.at reason: Required for video playback
+0.0.0.0 wa.gmx.net

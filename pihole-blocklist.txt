@@ -12459,3 +12459,4 @@
 0.0.0.0 hgc-cf-cache-1.svonm.com
 0.0.0.0 svonm.com
 0.0.0.0 [A
+0.0.0.0 getback.ch

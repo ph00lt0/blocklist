@@ -12351,3 +12351,4 @@ ad11.adfarm1.adition.com CNAME .
 hgc-cf-cache-1.svonm.com CNAME .
 svonm.com CNAME .
 [A CNAME .
+getback.ch CNAME .

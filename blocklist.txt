@@ -12635,3 +12635,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||selfishsnake.com^
 ||champagne.futurecdn.net^
 ||test.com^
+||fabric.io^

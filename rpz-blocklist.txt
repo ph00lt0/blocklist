@@ -12232,3 +12232,4 @@ qualified.com CNAME .
 selfishsnake.com CNAME .
 champagne.futurecdn.net CNAME .
 test.com CNAME .
+fabric.io CNAME .

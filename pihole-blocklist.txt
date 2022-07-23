@@ -12531,3 +12531,4 @@
 0.0.0.0 global-e.com
 0.0.0.0 webservices.global-e.com
 0.0.0.0 cpb.esprit.fr
+0.0.0.0 abc.esprit.fr

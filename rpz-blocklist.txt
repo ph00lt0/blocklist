@@ -12423,3 +12423,4 @@ fibre.esprit.com CNAME .
 global-e.com CNAME .
 webservices.global-e.com CNAME .
 cpb.esprit.fr CNAME .
+abc.esprit.fr CNAME .

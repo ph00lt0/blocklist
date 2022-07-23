@@ -39,7 +39,7 @@ For home DNS resolving Adguard Home is superior in its functionality over PiHole
 - [Open Snitch](#open-snitch)
 - [uBlock Origin ](#ublock-origin)
 - [Brave](#brave)
-- [pfBlockerNG](pfblockerng)
+- [pfBlockerNG](#pfblockerng)
 - [PiHole](#pihole)
 
 

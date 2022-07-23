@@ -1,4 +1,4 @@
-# Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, and PiHole
+# Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 
 Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). 
 
@@ -39,6 +39,7 @@ For home DNS resolving Adguard Home is superior in its functionality over PiHole
 - [Open Snitch](#open-snitch)
 - [uBlock Origin ](#ublock-origin)
 - [Brave](#brave)
+- [pfBlockerNG](pfblockerng)
 - [PiHole](#pihole)
 
 
@@ -137,6 +138,27 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 ```
 6. Click `Add`
+
+
+### pfBlockerNG
+#### Install pfBlockerNG in pfSense
+1. In your pfSense dashboard go to  `System > Package Manager`
+2. Click `Available packages` to open the tab
+3. Find **pfBlockerNG** and click `install`
+4. Click `confirm`
+5. In your pfSense dashboard go to  `Firewall > pfBlockerNG` 
+6. Follow the installation Wizard.
+7. Make sure **DNS resolver** and **DNSBL blocking** are enabled under the `DNSBL` tab.
+
+#### Add the blocklist to pfBlockerNG
+1. In your pfSense dashboard go to  `Firewall > pfBlockerNG > DNSBL > DNSBL Groups` 
+2. Click `Add`
+3. Paste the URL from below
+```
+https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
+```
+4. Click safe. 
+5. Make sure auto updates are on and you may force update to apply the list immediatly. 
 
 
 ### PiHole

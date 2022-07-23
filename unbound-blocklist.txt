@@ -12280,3 +12280,4 @@ local-zone: "scripts.baikalize.com." always_null
 local-zone: "baikalize.com." always_null
 local-zone: "ibuy.kr." always_null
 local-zone: "ats.auction.co.kr." always_null
+local-zone: "uts.auction.co.kr." always_null

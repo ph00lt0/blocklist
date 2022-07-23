@@ -12682,3 +12682,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||baikalize.com^
 ||ibuy.kr^
 ||ats.auction.co.kr^
+||uts.auction.co.kr^

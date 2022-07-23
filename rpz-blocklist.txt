@@ -12356,3 +12356,4 @@ php-infra.oe24.at CNAME .
 tracking.live.wetter.at CNAME .
 tag.md-nx.com CNAME .
 md-nx.com CNAME .
+partner.googleadservices.com CNAME .

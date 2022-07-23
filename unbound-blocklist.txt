@@ -12357,3 +12357,4 @@ local-zone: "php-infra.oe24.at." always_null
 local-zone: "tracking.live.wetter.at." always_null
 local-zone: "tag.md-nx.com." always_null
 local-zone: "md-nx.com." always_null
+local-zone: "partner.googleadservices.com." always_null

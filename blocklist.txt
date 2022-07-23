@@ -12853,3 +12853,4 @@ $removeparam=utm-source
 ||js-error-tracer-api.cafe24.com^
 ||daumcdn.net^
 ||t1.daumcdn.net^
+||megadata.co.kr^

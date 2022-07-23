@@ -12729,3 +12729,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||coral.heute.at^
 ||px.staticfiles.at^
 ^piano-*.js^
+^*/popupclick/*^

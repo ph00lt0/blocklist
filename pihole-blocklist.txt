@@ -12516,3 +12516,4 @@
 0.0.0.0 abc.esprit.com
 0.0.0.0 cpb.esprit.com
 0.0.0.0 cpb.esprit.de
+0.0.0.0 cpb.esprit.be

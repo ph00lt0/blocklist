@@ -12721,3 +12721,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||pipe.orf.at^
 ||at-config.sensic.net^
 ||sensic.net^
+||mpianalytics.com^

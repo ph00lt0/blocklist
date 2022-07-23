@@ -12323,3 +12323,4 @@ local-zone: "sdk.mpianalytics.com." always_null
 local-zone: "storyblok.com." always_null
 local-zone: "app.storyblok.com." always_null
 local-zone: "iocnt.net." always_null
+local-zone: "coral.heute.at." always_null

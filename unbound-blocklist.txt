@@ -12316,3 +12316,4 @@ local-zone: "similarweb.io." always_null
 local-zone: "cdn.adnz.co." always_null
 local-zone: "stm.orf.at." always_null
 local-zone: "pipe.orf.at." always_null
+local-zone: "at-config.sensic.net." always_null

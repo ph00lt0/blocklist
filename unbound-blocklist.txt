@@ -12289,3 +12289,4 @@ local-zone: "utsgw.gmarket.co.kr." always_null
 local-zone: "ad-img.ebaykorea.com." always_null
 local-zone: "ats.gmarket.co.kr." always_null
 local-zone: "ad-mapps.com." always_null
+local-zone: "advimg.ad-mapps.com." always_null

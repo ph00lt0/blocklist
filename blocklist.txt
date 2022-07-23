@@ -12691,3 +12691,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ad-img.ebaykorea.com^
 ||ats.gmarket.co.kr^
 ||ad-mapps.com^
+||advimg.ad-mapps.com^

@@ -12757,3 +12757,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cdn.amplitude.com^
 ||wa.gmx.at^
 ||einwilligungsspeicher.netid.de^
+||plus.gmx.at^

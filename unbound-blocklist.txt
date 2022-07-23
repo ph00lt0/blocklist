@@ -12455,3 +12455,4 @@ local-zone: "cpb.espritshop.ch." always_null
 local-zone: "im.cyberport.de." always_null
 local-zone: "api-tiger.zoovu.com." always_null
 local-zone: "click.alternate.de." always_null
+local-zone: "chat.alternate.nl." always_null

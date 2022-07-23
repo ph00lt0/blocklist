@@ -12873,3 +12873,4 @@ $removeparam=utm-source
 ||im.cyberport.de^
 ||api-tiger.zoovu.com^
 ||click.alternate.de^
+||chat.alternate.nl^

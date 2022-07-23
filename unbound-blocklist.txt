@@ -12304,3 +12304,4 @@ local-zone: "counter.unian.net." always_null
 local-zone: "content.admixer.net." always_null
 local-zone: "sinoptik.ua." always_null
 local-zone: "membrana.media." always_null
+local-zone: "cdn.membrana.media." always_null

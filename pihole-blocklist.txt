@@ -12367,3 +12367,4 @@
 0.0.0.0 a5.ogt.jp
 0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 lcs.naver.com
+0.0.0.0 tivan.naver.com

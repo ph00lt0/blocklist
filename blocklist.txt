@@ -12724,3 +12724,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||mpianalytics.com^
 ||sdk.mpianalytics.com^
 ||storyblok.com^
+||app.storyblok.com^

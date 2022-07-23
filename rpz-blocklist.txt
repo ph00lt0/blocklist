@@ -12462,3 +12462,4 @@ weekday.com CNAME .
 idservice.hm.com CNAME .
 t.aboutyou.nl CNAME .
 t.aboutyou.de CNAME .
+tadarida-web.aboutyou.com CNAME .

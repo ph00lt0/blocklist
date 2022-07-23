@@ -12881,3 +12881,4 @@ $removeparam=utm-source
 ||idservice.hm.com^
 ||t.aboutyou.nl^
 ||t.aboutyou.de^
+||tadarida-web.aboutyou.com^

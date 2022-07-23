@@ -12463,3 +12463,4 @@ local-zone: "weekday.com." always_null
 local-zone: "idservice.hm.com." always_null
 local-zone: "t.aboutyou.nl." always_null
 local-zone: "t.aboutyou.de." always_null
+local-zone: "tadarida-web.aboutyou.com." always_null

@@ -12360,4 +12360,4 @@ tracking.krone.at CNAME .
 talk-cdn.krone.at CNAME .
 talk.krone.at CNAME .
 b9fox3.tyrol.com CNAME .
-staticlp.com CNAME .
+; allow staticlp.com reason: Staticfiles of lonelyplanet.com

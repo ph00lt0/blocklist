@@ -12468,4 +12468,4 @@
 0.0.0.0 talk-cdn.krone.at
 0.0.0.0 talk.krone.at
 0.0.0.0 b9fox3.tyrol.com
-0.0.0.0 staticlp.com
+! allow staticlp.com reason: Staticfiles of lonelyplanet.com

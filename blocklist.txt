@@ -12818,3 +12818,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||recommendation-api.prod.zooplus.net^
 $removeparam=analytics-id
 $removeparam=utm-source
+||vam-cdn-prod.mediazs.com^

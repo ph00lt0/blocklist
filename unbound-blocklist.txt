@@ -12400,3 +12400,4 @@ local-zone: "omt-services.com." always_null
 local-zone: "mkt-tech.omt-services.com." always_null
 local-zone: "geo-ip-lookup-api.prod.zooplus.net." always_null
 local-zone: "recommendation-api.prod.zooplus.net." always_null
+local-zone: "vam-cdn-prod.mediazs.com." always_null

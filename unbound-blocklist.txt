@@ -12487,3 +12487,4 @@ local-zone: "t.aboutyou.pt." always_null
 local-zone: "ayt-live.fra1.digitaloceanspaces.com." always_null
 local-zone: "t.aboutyou.ee." always_null
 local-zone: "data.qvc.de." always_null
+local-zone: "assets.adobetm.com." always_null

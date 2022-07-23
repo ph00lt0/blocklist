@@ -12791,3 +12791,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||de-config.sensic.net^
 ||logs1413.xiti.com^
 ||bunchbox.co^
+||cdn.bunchbox.co^

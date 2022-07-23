@@ -12460,3 +12460,4 @@
 0.0.0.0 svonm.com
 0.0.0.0 [A
 0.0.0.0 getback.ch
+0.0.0.0 php-infra.oe24.at

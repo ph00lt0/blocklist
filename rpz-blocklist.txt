@@ -12352,3 +12352,4 @@ hgc-cf-cache-1.svonm.com CNAME .
 svonm.com CNAME .
 [A CNAME .
 getback.ch CNAME .
+php-infra.oe24.at CNAME .

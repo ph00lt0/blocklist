@@ -12430,3 +12430,4 @@ abc.esprit.hk CNAME .
 cpb.esprit.hk CNAME .
 abc.espritshop.it CNAME .
 cpb.espritshop.it CNAME .
+wcs.naver.net CNAME .

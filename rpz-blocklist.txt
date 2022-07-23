@@ -12417,3 +12417,4 @@ abc.esprit.eu CNAME .
 cpb.esprit.dk CNAME .
 abc.esprit.dk CNAME .
 abc.esprit.ph CNAME .
+cpb.esprit.ph CNAME .

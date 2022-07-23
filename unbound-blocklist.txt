@@ -12277,3 +12277,4 @@ local-zone: "montelena.auction.co.kr." always_null
 local-zone: "dadispapi.auction.co.kr." always_null
 local-zone: "adcheck.about.co.kr." always_null
 local-zone: "scripts.baikalize.com." always_null
+local-zone: "baikalize.com." always_null

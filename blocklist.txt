@@ -12679,3 +12679,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||dadispapi.auction.co.kr^
 ||adcheck.about.co.kr^
 ||scripts.baikalize.com^
+||baikalize.com^

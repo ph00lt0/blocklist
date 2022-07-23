@@ -12384,3 +12384,4 @@
 0.0.0.0 dadispapi.auction.co.kr
 0.0.0.0 adcheck.about.co.kr
 0.0.0.0 scripts.baikalize.com
+0.0.0.0 baikalize.com

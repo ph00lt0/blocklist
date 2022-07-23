@@ -12471,3 +12471,4 @@
 ! allow staticlp.com reason: Staticfiles of lonelyplanet.com
 0.0.0.0 stats.peer.biz
 0.0.0.0 fcp.codes
+0.0.0.0 data-c0c484e9be.tvdigital.de

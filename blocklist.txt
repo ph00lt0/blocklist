@@ -12776,3 +12776,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 @@||staticlp.com^  # Staticfiles of lonelyplanet.com
 ||stats.peer.biz^
 ||fcp.codes^
+||data-c0c484e9be.tvdigital.de^

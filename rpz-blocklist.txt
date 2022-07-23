@@ -12363,3 +12363,4 @@ b9fox3.tyrol.com CNAME .
 ; allow staticlp.com reason: Staticfiles of lonelyplanet.com
 stats.peer.biz CNAME .
 fcp.codes CNAME .
+data-c0c484e9be.tvdigital.de CNAME .

@@ -12790,3 +12790,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ublock.org^
 ||de-config.sensic.net^
 ||logs1413.xiti.com^
+||bunchbox.co^

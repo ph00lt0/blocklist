@@ -12379,3 +12379,4 @@ de-config.sensic.net CNAME .
 logs1413.xiti.com CNAME .
 bunchbox.co CNAME .
 cdn.bunchbox.co CNAME .
+data-e3d4300b49.n-tv.de CNAME .

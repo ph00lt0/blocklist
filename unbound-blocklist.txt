@@ -12380,3 +12380,4 @@ local-zone: "de-config.sensic.net." always_null
 local-zone: "logs1413.xiti.com." always_null
 local-zone: "bunchbox.co." always_null
 local-zone: "cdn.bunchbox.co." always_null
+local-zone: "data-e3d4300b49.n-tv.de." always_null

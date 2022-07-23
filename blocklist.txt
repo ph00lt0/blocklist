@@ -12739,3 +12739,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||pv-apps.web.oebb.at^
 ||imagesrv.adition.com^
 ||kurier.activehosted.com^
+||efs.kurier.at^

@@ -12401,3 +12401,4 @@
 0.0.0.0 vrixon.com
 0.0.0.0 gp.vrixon.com
 0.0.0.0 developers.kakao.com
+0.0.0.0 entertainapi.kbsmedia.co.kr

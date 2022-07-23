@@ -12697,3 +12697,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||gp.vrixon.com^
 ^kakao.min.js^
 ||developers.kakao.com^
+||entertainapi.kbsmedia.co.kr^

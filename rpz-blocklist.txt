@@ -12323,3 +12323,4 @@ storyblok.com CNAME .
 app.storyblok.com CNAME .
 iocnt.net CNAME .
 coral.heute.at CNAME .
+px.staticfiles.at CNAME .

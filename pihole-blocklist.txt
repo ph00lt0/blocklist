@@ -12431,3 +12431,4 @@
 0.0.0.0 app.storyblok.com
 0.0.0.0 iocnt.net
 0.0.0.0 coral.heute.at
+0.0.0.0 px.staticfiles.at

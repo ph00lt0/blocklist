@@ -12727,3 +12727,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||app.storyblok.com^
 ||iocnt.net^
 ||coral.heute.at^
+||px.staticfiles.at^

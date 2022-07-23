@@ -12811,3 +12811,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||personalization-gdpr.samp.ext.zooplus.io^
 ||leto-personal-prod.samp.ext.zooplus.io^
 ||searchen-hopps-prod.samp.ext.zooplus.io^
+||explore-bff-api.shpp.ext.zooplus.io^

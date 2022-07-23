@@ -12409,3 +12409,4 @@ abc.esprit.com CNAME .
 cpb.esprit.com CNAME .
 cpb.esprit.de CNAME .
 cpb.esprit.be CNAME .
+abc.esprit.be CNAME .

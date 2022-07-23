@@ -12685,3 +12685,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||uts.auction.co.kr^
 ||cyad1.nate.com^
 ||stat.nate.com^
+||cyad.nate.com^

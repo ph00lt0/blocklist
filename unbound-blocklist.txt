@@ -12341,3 +12341,4 @@ local-zone: "web.de." always_null
 local-zone: "dpa-tools.ui-portal.de." always_null
 local-zone: "nct.ui-portal.de." always_null
 local-zone: "uim.tifbs.net." always_null
+local-zone: "tifbs.net." always_null

@@ -12498,3 +12498,4 @@
 0.0.0.0 cleantalk.org
 0.0.0.0 pass.otto.de
 0.0.0.0 ads.mindfactory.de
+0.0.0.0 shop-adtm-assets.shpp.ext.zooplus.io

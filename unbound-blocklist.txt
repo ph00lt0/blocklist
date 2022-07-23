@@ -12391,3 +12391,4 @@ local-zone: "www.e-mailit.com." always_null
 local-zone: "cleantalk.org." always_null
 local-zone: "pass.otto.de." always_null
 local-zone: "ads.mindfactory.de." always_null
+local-zone: "shop-adtm-assets.shpp.ext.zooplus.io." always_null

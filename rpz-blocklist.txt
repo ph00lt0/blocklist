@@ -12390,3 +12390,4 @@ www.e-mailit.com CNAME .
 cleantalk.org CNAME .
 pass.otto.de CNAME .
 ads.mindfactory.de CNAME .
+shop-adtm-assets.shpp.ext.zooplus.io CNAME .

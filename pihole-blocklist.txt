@@ -12470,3 +12470,4 @@
 0.0.0.0 b9fox3.tyrol.com
 ! allow staticlp.com reason: Staticfiles of lonelyplanet.com
 0.0.0.0 stats.peer.biz
+0.0.0.0 fcp.codes

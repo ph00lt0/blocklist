@@ -12362,3 +12362,4 @@ talk.krone.at CNAME .
 b9fox3.tyrol.com CNAME .
 ; allow staticlp.com reason: Staticfiles of lonelyplanet.com
 stats.peer.biz CNAME .
+fcp.codes CNAME .

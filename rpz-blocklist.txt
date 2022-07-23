@@ -12270,3 +12270,4 @@ webid.ad.daum.net CNAME .
 stat.tiara.daum.net CNAME .
 tiara.daum.net CNAME .
 onkakao.net CNAME .
+malibu-ingest.onkakao.net CNAME .

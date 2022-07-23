@@ -12673,3 +12673,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||stat.tiara.daum.net^
 ||tiara.daum.net^
 ||onkakao.net^
+||malibu-ingest.onkakao.net^

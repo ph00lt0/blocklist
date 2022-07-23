@@ -12292,3 +12292,4 @@ local-zone: "ad-mapps.com." always_null
 local-zone: "advimg.ad-mapps.com." always_null
 local-zone: "log.sv.pandora.tv." always_null
 local-zone: "vrixon.com." always_null
+local-zone: "gp.vrixon.com." always_null

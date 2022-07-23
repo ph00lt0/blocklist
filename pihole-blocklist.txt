@@ -12399,3 +12399,4 @@
 0.0.0.0 advimg.ad-mapps.com
 0.0.0.0 log.sv.pandora.tv
 0.0.0.0 vrixon.com
+0.0.0.0 gp.vrixon.com

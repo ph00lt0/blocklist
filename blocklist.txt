@@ -12730,3 +12730,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||px.staticfiles.at^
 ^piano-*.js^
 ^*/popupclick/*^
+^adrum.js^

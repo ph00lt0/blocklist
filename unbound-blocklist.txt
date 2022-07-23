@@ -12411,3 +12411,4 @@ local-zone: "cpb.esprit.com." always_null
 local-zone: "cpb.esprit.de." always_null
 local-zone: "cpb.esprit.be." always_null
 local-zone: "abc.esprit.be." always_null
+local-zone: "asip.cloud." always_null

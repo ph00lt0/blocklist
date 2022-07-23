@@ -12332,4 +12332,4 @@ local-zone: "emarsys.net." always_null
 local-zone: "pv-apps.web.oebb.at." always_null
 local-zone: "imagesrv.adition.com." always_null
 local-zone: "kurier.activehosted.com." always_null
-local-zone: "efs.kurier.at." always_null
+# allow efs.kurier.at reason: Website router

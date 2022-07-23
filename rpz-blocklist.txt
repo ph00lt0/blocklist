@@ -12266,3 +12266,4 @@ l.www.naver.com CNAME .
 banner.auction.co.kr CNAME .
 adcr.shopping.naver.com CNAME .
 ad.daum.net CNAME .
+webid.ad.daum.net CNAME .

@@ -12374,3 +12374,4 @@
 0.0.0.0 banner.auction.co.kr
 0.0.0.0 adcr.shopping.naver.com
 0.0.0.0 ad.daum.net
+0.0.0.0 webid.ad.daum.net

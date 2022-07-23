@@ -12375,3 +12375,4 @@ civiccomputing.com CNAME .
 civicuk.com CNAME .
 stats.civiccomputing.com CNAME .
 ublock.org CNAME .
+de-config.sensic.net CNAME .

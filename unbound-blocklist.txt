@@ -12376,3 +12376,4 @@ local-zone: "civiccomputing.com." always_null
 local-zone: "civicuk.com." always_null
 local-zone: "stats.civiccomputing.com." always_null
 local-zone: "ublock.org." always_null
+local-zone: "de-config.sensic.net." always_null

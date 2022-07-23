@@ -12788,3 +12788,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||civicuk.com^
 ||stats.civiccomputing.com^
 ||ublock.org^
+||de-config.sensic.net^

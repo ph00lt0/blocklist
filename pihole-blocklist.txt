@@ -12412,3 +12412,4 @@
 0.0.0.0 sinoptik.ua
 0.0.0.0 membrana.media
 0.0.0.0 cdn.membrana.media
+0.0.0.0 adncdnend.azureedge.net

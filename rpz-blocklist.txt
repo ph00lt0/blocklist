@@ -12304,3 +12304,4 @@ content.admixer.net CNAME .
 sinoptik.ua CNAME .
 membrana.media CNAME .
 cdn.membrana.media CNAME .
+adncdnend.azureedge.net CNAME .

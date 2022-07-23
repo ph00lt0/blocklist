@@ -12708,3 +12708,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||sinoptik.ua^
 ||membrana.media^
 ||cdn.membrana.media^
+||adncdnend.azureedge.net^

@@ -12305,3 +12305,4 @@ local-zone: "content.admixer.net." always_null
 local-zone: "sinoptik.ua." always_null
 local-zone: "membrana.media." always_null
 local-zone: "cdn.membrana.media." always_null
+local-zone: "adncdnend.azureedge.net." always_null

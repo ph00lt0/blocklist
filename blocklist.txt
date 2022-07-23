@@ -3,7 +3,7 @@
 ! Issue tracker: https://github.com/ph00lt0/blocklists
 ! Homepage: https://github.com/ph00lt0/blocklists
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Version: 20220722
+! Version: 20220723
 
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
@@ -12632,3 +12632,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||app.knowler.io^
 ||ws.qualified.com^
 ||qualified.com^
+||selfishsnake.com^

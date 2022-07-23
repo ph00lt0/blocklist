@@ -12337,3 +12337,4 @@
 0.0.0.0 app.knowler.io
 0.0.0.0 ws.qualified.com
 0.0.0.0 qualified.com
+0.0.0.0 selfishsnake.com

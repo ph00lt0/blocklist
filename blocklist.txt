@@ -12696,4 +12696,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||vrixon.com^
 ||gp.vrixon.com^
 ^kakao.min.js^
-^developers.kakao.com^
+||developers.kakao.com^

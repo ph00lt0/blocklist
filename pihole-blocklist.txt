@@ -12529,3 +12529,4 @@
 0.0.0.0 e2486.dscg.akamaiedge.net
 0.0.0.0 fibre.esprit.com
 0.0.0.0 global-e.com
+0.0.0.0 webservices.global-e.com

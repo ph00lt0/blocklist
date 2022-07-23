@@ -12712,3 +12712,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||adserver.day.kyiv.ua^
 ||analytics.similarweb.com^
 ||bomb5mild.com^
+||secure.bomb5mild.com^

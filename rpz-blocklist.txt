@@ -12400,3 +12400,4 @@ mkt-tech.omt-services.com CNAME .
 geo-ip-lookup-api.prod.zooplus.net CNAME .
 recommendation-api.prod.zooplus.net CNAME .
 vam-cdn-prod.mediazs.com CNAME .
+abc.esprit.nl CNAME .

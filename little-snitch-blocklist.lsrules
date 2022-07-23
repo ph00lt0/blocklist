@@ -12392,6 +12392,7 @@
         "mkt-tech.omt-services.com",
         "geo-ip-lookup-api.prod.zooplus.net",
         "recommendation-api.prod.zooplus.net",
-        "vam-cdn-prod.mediazs.com"
+        "vam-cdn-prod.mediazs.com",
+        "abc.esprit.nl"
     ]
 }

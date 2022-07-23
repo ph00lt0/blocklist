@@ -12860,3 +12860,4 @@ $removeparam=utm-source
 ||abc.espritshop.pl^
 ||cpb.espritshop.pl^
 ||abc.esprit.sg^
+||abc.esprit.es^

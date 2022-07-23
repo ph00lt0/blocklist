@@ -12238,3 +12238,4 @@ securemetrics.experience.apple CNAME .
 appfire.app CNAME .
 sp.mail.notion.so CNAME .
 viapplogs.net CNAME .
+exacttarget.com.edgekey.net CNAME .

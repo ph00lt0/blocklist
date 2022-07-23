@@ -12661,3 +12661,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ogt.jp^
 ||a5.ogt.jp^
 ||cologger.shopping.naver.com^
+||lcs.naver.com^

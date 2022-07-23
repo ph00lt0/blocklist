@@ -12258,3 +12258,4 @@ api.docodoco.jp CNAME .
 ogt.jp CNAME .
 a5.ogt.jp CNAME .
 cologger.shopping.naver.com CNAME .
+lcs.naver.com CNAME .

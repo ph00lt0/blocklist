@@ -12375,3 +12375,4 @@
 0.0.0.0 adcr.shopping.naver.com
 0.0.0.0 ad.daum.net
 0.0.0.0 webid.ad.daum.net
+0.0.0.0 stat.tiara.daum.net

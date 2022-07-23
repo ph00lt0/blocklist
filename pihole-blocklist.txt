@@ -12441,3 +12441,4 @@
 0.0.0.0 kurier.activehosted.com
 ! allow efs.kurier.at reason: Website router
 0.0.0.0 data-44a005f23c.bergfex.at
+0.0.0.0 partner.bergfex.at

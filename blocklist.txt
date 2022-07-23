@@ -12742,3 +12742,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 @@||efs.kurier.at^  # Website router
 ||data-44a005f23c.bergfex.at^
 ^metaTag.min.js^
+||partner.bergfex.at^

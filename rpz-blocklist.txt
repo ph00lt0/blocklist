@@ -12472,3 +12472,4 @@ t.aboutyou.bg CNAME .
 t.aboutyou.fi CNAME .
 t.aboutyou.hu CNAME .
 t.aboutyou.sk CNAME .
+t.aboutyou.es CNAME .

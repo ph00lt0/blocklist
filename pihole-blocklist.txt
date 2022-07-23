@@ -12386,3 +12386,4 @@
 0.0.0.0 scripts.baikalize.com
 0.0.0.0 baikalize.com
 0.0.0.0 ibuy.kr
+0.0.0.0 ats.auction.co.kr

@@ -12278,3 +12278,4 @@ adcheck.about.co.kr CNAME .
 scripts.baikalize.com CNAME .
 baikalize.com CNAME .
 ibuy.kr CNAME .
+ats.auction.co.kr CNAME .

@@ -12773,3 +12773,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||talk-cdn.krone.at^
 ||talk.krone.at^
 ||b9fox3.tyrol.com^
+||staticlp.com^

@@ -12361,3 +12361,4 @@ local-zone: "tracking.krone.at." always_null
 local-zone: "talk-cdn.krone.at." always_null
 local-zone: "talk.krone.at." always_null
 local-zone: "b9fox3.tyrol.com." always_null
+local-zone: "staticlp.com." always_null

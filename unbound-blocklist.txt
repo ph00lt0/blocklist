@@ -12427,3 +12427,4 @@ local-zone: "cpb.esprit.fr." always_null
 local-zone: "abc.esprit.fr." always_null
 local-zone: "abc.esprit.fi." always_null
 local-zone: "cpb.esprit.fi." always_null
+local-zone: "abc.esprit.hk." always_null

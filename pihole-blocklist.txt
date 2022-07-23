@@ -12534,3 +12534,4 @@
 0.0.0.0 abc.esprit.fr
 0.0.0.0 abc.esprit.fi
 0.0.0.0 cpb.esprit.fi
+0.0.0.0 abc.esprit.hk

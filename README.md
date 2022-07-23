@@ -42,6 +42,16 @@ For home DNS resolving Adguard Home is superior in its functionality over PiHole
 - [pfBlockerNG](#pfblockerng)
 - [PiHole](#pihole)
 
+Also known to be working with:
+- Dnsmasq
+- Adblock Plus
+- Blokada
+- Rethink DNS
+- DNSCloak
+- InviZible
+- Unbound
+- OPNsense
+
 
 ## How to add?
 

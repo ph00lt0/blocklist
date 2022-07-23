@@ -12809,3 +12809,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ads.mindfactory.de^
 ||shop-adtm-assets.shpp.ext.zooplus.io^
 ||personalization-gdpr.samp.ext.zooplus.io^
+||leto-personal-prod.samp.ext.zooplus.io^

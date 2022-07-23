@@ -12418,3 +12418,4 @@ cpb.esprit.dk CNAME .
 abc.esprit.dk CNAME .
 abc.esprit.ph CNAME .
 cpb.esprit.ph CNAME .
+e2486.dscg.akamaiedge.net CNAME .

@@ -12298,3 +12298,4 @@ pwwwapi.kbs.co.kr CNAME .
 aq.censor.net CNAME .
 znctrack.net CNAME .
 s.znctrack.net CNAME .
+jsc.mgid.com CNAME .

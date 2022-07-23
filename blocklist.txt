@@ -12702,3 +12702,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||aq.censor.net^
 ||znctrack.net^
 ||s.znctrack.net^
+||jsc.mgid.com^

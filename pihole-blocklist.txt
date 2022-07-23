@@ -12406,3 +12406,4 @@
 0.0.0.0 aq.censor.net
 0.0.0.0 znctrack.net
 0.0.0.0 s.znctrack.net
+0.0.0.0 jsc.mgid.com

@@ -12406,3 +12406,4 @@ abc.esprit.co.uk CNAME .
 cpb.esprit.nl CNAME .
 cpb.esprit..de CNAME .
 cpb.esprit.co.uk CNAME .
+abc.esprit.com CNAME .

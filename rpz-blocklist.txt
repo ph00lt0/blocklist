@@ -12256,3 +12256,4 @@ b.yjtag.jp CNAME .
 docodoco.jp CNAME .
 api.docodoco.jp CNAME .
 ogt.jp CNAME .
+a5.ogt.jp CNAME .

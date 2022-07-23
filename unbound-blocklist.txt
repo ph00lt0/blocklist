@@ -12405,7 +12405,6 @@ local-zone: "abc.esprit.nl." always_null
 local-zone: "abc.esprit.de." always_null
 local-zone: "abc.esprit.co.uk." always_null
 local-zone: "cpb.esprit.nl." always_null
-local-zone: "cpb.esprit..de." always_null
 local-zone: "cpb.esprit.co.uk." always_null
 local-zone: "abc.esprit.com." always_null
 local-zone: "cpb.esprit.com." always_null

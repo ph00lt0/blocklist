@@ -12823,7 +12823,6 @@ $removeparam=utm-source
 ||abc.esprit.de^
 ||abc.esprit.co.uk^
 ||cpb.esprit.nl^
-||cpb.esprit..de^
 ||cpb.esprit.co.uk^
 ||abc.esprit.com^
 ||cpb.esprit.com^

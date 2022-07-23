@@ -12402,3 +12402,4 @@ recommendation-api.prod.zooplus.net CNAME .
 vam-cdn-prod.mediazs.com CNAME .
 abc.esprit.nl CNAME .
 abc.esprit.de CNAME .
+abc.esprit.co.uk CNAME .

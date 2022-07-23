@@ -12510,3 +12510,4 @@
 0.0.0.0 vam-cdn-prod.mediazs.com
 0.0.0.0 abc.esprit.nl
 0.0.0.0 abc.esprit.de
+0.0.0.0 abc.esprit.co.uk

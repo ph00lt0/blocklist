@@ -12359,3 +12359,4 @@ local-zone: "md-nx.com." always_null
 local-zone: "partner.googleadservices.com." always_null
 local-zone: "tracking.krone.at." always_null
 local-zone: "talk-cdn.krone.at." always_null
+local-zone: "talk.krone.at." always_null

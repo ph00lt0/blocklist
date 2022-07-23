@@ -12466,3 +12466,4 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 tracking.krone.at
 0.0.0.0 talk-cdn.krone.at
+0.0.0.0 talk.krone.at

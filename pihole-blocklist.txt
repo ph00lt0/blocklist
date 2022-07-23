@@ -12454,3 +12454,4 @@
 0.0.0.0 wa.gmx.at
 0.0.0.0 einwilligungsspeicher.netid.de
 0.0.0.0 plus.gmx.at
+0.0.0.0 ad*.adfarm*.adition.com

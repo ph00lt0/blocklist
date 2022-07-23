@@ -12404,3 +12404,4 @@
 0.0.0.0 entertainapi.kbsmedia.co.kr
 0.0.0.0 pwwwapi.kbs.co.kr
 0.0.0.0 aq.censor.net
+0.0.0.0 znctrack.net

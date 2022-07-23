@@ -12420,3 +12420,4 @@ abc.esprit.ph CNAME .
 cpb.esprit.ph CNAME .
 e2486.dscg.akamaiedge.net CNAME .
 fibre.esprit.com CNAME .
+global-e.com CNAME .

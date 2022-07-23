@@ -12687,3 +12687,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||stat.nate.com^
 ||cyad.nate.com^
 ||statetc.nate.com^
+||utsgw.gmarket.co.kr^

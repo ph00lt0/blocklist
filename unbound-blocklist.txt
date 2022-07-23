@@ -12285,3 +12285,4 @@ local-zone: "cyad1.nate.com." always_null
 local-zone: "stat.nate.com." always_null
 local-zone: "cyad.nate.com." always_null
 local-zone: "statetc.nate.com." always_null
+local-zone: "utsgw.gmarket.co.kr." always_null

@@ -12253,3 +12253,4 @@ bdash-cloud.com CNAME .
 smart-bdash.com CNAME .
 yjtag.jp CNAME .
 b.yjtag.jp CNAME .
+docodoco.jp CNAME .

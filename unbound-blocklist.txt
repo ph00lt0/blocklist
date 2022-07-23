@@ -12254,3 +12254,4 @@ local-zone: "bdash-cloud.com." always_null
 local-zone: "smart-bdash.com." always_null
 local-zone: "yjtag.jp." always_null
 local-zone: "b.yjtag.jp." always_null
+local-zone: "docodoco.jp." always_null

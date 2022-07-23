@@ -12656,3 +12656,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||smart-bdash.com^
 ||yjtag.jp^
 ||b.yjtag.jp^
+||docodoco.jp^

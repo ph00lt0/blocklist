@@ -12361,3 +12361,4 @@
 0.0.0.0 smart-bdash.com
 0.0.0.0 yjtag.jp
 0.0.0.0 b.yjtag.jp
+0.0.0.0 docodoco.jp

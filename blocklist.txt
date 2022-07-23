@@ -12804,3 +12804,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cleantalk.org^
 ||otto.de^$third-party
 ||bilder-a.akamaihd.net^
+||pass.otto.de^

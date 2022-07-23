@@ -12370,3 +12370,4 @@
 0.0.0.0 tivan.naver.com
 0.0.0.0 gfp.veta.naver.com
 0.0.0.0 siape.veta.naver.com
+0.0.0.0 l.www.naver.com

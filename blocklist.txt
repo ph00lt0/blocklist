@@ -12866,3 +12866,4 @@ $removeparam=utm-source
 ||abc.esprit.co.th^
 ||abc.esprit.cz^
 ||cpb.esprit.cz^
+||cpb.esprit.se^

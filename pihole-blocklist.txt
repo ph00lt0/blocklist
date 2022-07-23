@@ -12503,3 +12503,4 @@
 0.0.0.0 leto-personal-prod.samp.ext.zooplus.io
 0.0.0.0 searchen-hopps-prod.samp.ext.zooplus.io
 0.0.0.0 explore-bff-api.shpp.ext.zooplus.io
+0.0.0.0 omt-services.com

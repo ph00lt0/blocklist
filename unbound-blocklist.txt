@@ -12384,3 +12384,4 @@ local-zone: "data-e3d4300b49.n-tv.de." always_null
 local-zone: "sourcepoint.n-tv.de." always_null
 local-zone: "cdn-1239.privacy-mgmt.com." always_null
 local-zone: "d1733r3id7jrw5.cloudfront.net." always_null
+local-zone: "bilder-a.akamaihd.net." always_null

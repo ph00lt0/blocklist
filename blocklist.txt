@@ -12796,3 +12796,5 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||sourcepoint.n-tv.de^
 ||cdn-1239.privacy-mgmt.com^
 ||d1733r3id7jrw5.cloudfront.net^
+||sparwelt.de^$third-party
+||bilder-a.akamaihd.net^

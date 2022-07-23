@@ -12425,3 +12425,4 @@ webservices.global-e.com CNAME .
 cpb.esprit.fr CNAME .
 abc.esprit.fr CNAME .
 abc.esprit.fi CNAME .
+cpb.esprit.fi CNAME .

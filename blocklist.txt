@@ -12666,3 +12666,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||gfp.veta.naver.com^
 ||siape.veta.naver.com^
 ||l.www.naver.com^
+||banner.auction.co.kr^

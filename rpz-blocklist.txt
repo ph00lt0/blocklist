@@ -12263,3 +12263,4 @@ tivan.naver.com CNAME .
 gfp.veta.naver.com CNAME .
 siape.veta.naver.com CNAME .
 l.www.naver.com CNAME .
+banner.auction.co.kr CNAME .

@@ -12344,3 +12344,4 @@ local-zone: "uim.tifbs.net." always_null
 local-zone: "tifbs.net." always_null
 local-zone: "main.exoclick.com." always_null
 local-zone: "cdn.amplitude.com." always_null
+local-zone: "wa.gmx.at." always_null

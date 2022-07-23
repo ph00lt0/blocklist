@@ -12415,3 +12415,4 @@
 0.0.0.0 adncdnend.azureedge.net
 0.0.0.0 adserver.day.kyiv.ua
 0.0.0.0 analytics.similarweb.com
+0.0.0.0 bomb5mild.com

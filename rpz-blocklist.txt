@@ -12285,3 +12285,4 @@ stat.nate.com CNAME .
 cyad.nate.com CNAME .
 statetc.nate.com CNAME .
 utsgw.gmarket.co.kr CNAME .
+ad-img.ebaykorea.com CNAME .

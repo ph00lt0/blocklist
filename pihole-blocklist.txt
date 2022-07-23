@@ -12393,3 +12393,4 @@
 0.0.0.0 cyad.nate.com
 0.0.0.0 statetc.nate.com
 0.0.0.0 utsgw.gmarket.co.kr
+0.0.0.0 ad-img.ebaykorea.com

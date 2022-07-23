@@ -12688,3 +12688,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cyad.nate.com^
 ||statetc.nate.com^
 ||utsgw.gmarket.co.kr^
+||ad-img.ebaykorea.com^

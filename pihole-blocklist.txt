@@ -12433,3 +12433,4 @@
 0.0.0.0 coral.heute.at
 0.0.0.0 px.staticfiles.at
 0.0.0.0 privacy.trustcommander.net
+0.0.0.0 ut76nb.sparkasse.at

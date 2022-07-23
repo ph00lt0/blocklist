@@ -12852,3 +12852,4 @@ $removeparam=utm-source
 ||wcs.naver.net^
 ||js-error-tracer-api.cafe24.com^
 ||daumcdn.net^
+||t1.daumcdn.net^

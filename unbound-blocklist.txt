@@ -12314,3 +12314,4 @@ local-zone: "matomo-poc.similarweb.io." always_null
 local-zone: "similartech.com." always_null
 local-zone: "similarweb.io." always_null
 local-zone: "cdn.adnz.co." always_null
+local-zone: "stm.orf.at." always_null

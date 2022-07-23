@@ -12469,3 +12469,4 @@ m.aboutyou.nl CNAME .
 t.aboutyou.cz CNAME .
 t.aboutyou.lt CNAME .
 t.aboutyou.bg CNAME .
+t.aboutyou.fi CNAME .

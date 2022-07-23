@@ -12888,3 +12888,4 @@ $removeparam=utm-source
 ||t.aboutyou.cz^
 ||t.aboutyou.lt^
 ||t.aboutyou.bg^
+||t.aboutyou.fi^

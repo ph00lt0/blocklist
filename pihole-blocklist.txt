@@ -12577,3 +12577,4 @@
 0.0.0.0 t.aboutyou.cz
 0.0.0.0 t.aboutyou.lt
 0.0.0.0 t.aboutyou.bg
+0.0.0.0 t.aboutyou.fi

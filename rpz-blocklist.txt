@@ -8555,7 +8555,6 @@ dfp6rglgjqszk.cloudfront.net CNAME .
 *.a248.e.akamai.net CNAME .
 *.aolcdn.com CNAME .
 *.awsstatic.com CNAME .
-*.azureedge.net CNAME .
 *.bandwagonhost.com CNAME .
 *.cachefly.net CNAME .
 *.cdnst.net CNAME .

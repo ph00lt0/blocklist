@@ -8951,7 +8951,6 @@ fd.nl##.fd-message
 ||*.a248.e.akamai.net^
 ||*.aolcdn.com^
 ||*.awsstatic.com^
-||*.azureedge.net^
 ||*.bandwagonhost.com^
 ||*.cachefly.net^
 ||*.cdnst.net^

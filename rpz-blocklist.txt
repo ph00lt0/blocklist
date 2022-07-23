@@ -12449,3 +12449,4 @@ abc.esprit.cz CNAME .
 cpb.esprit.cz CNAME .
 cpb.esprit.se CNAME .
 abc.esprit.se CNAME .
+abc.espritshop.ch CNAME .

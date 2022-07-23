@@ -12393,6 +12393,7 @@
         "geo-ip-lookup-api.prod.zooplus.net",
         "recommendation-api.prod.zooplus.net",
         "vam-cdn-prod.mediazs.com",
-        "abc.esprit.nl"
+        "abc.esprit.nl",
+        "abc.esprit.de"
     ]
 }

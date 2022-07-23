@@ -12372,3 +12372,4 @@
 0.0.0.0 siape.veta.naver.com
 0.0.0.0 l.www.naver.com
 0.0.0.0 banner.auction.co.kr
+0.0.0.0 adcr.shopping.naver.com

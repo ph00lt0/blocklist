@@ -12249,3 +12249,4 @@ local-zone: "experience-ap.piano.io." always_null
 local-zone: "log.hypebeast.com." always_null
 local-zone: "recom.hypebeast.com." always_null
 local-zone: "cdn.activity.bdash-cloud.com." always_null
+local-zone: "cdn.activity.smart-bdash.com." always_null

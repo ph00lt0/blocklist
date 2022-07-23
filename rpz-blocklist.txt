@@ -12248,3 +12248,4 @@ experience-ap.piano.io CNAME .
 log.hypebeast.com CNAME .
 recom.hypebeast.com CNAME .
 cdn.activity.bdash-cloud.com CNAME .
+cdn.activity.smart-bdash.com CNAME .

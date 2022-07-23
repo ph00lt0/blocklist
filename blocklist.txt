@@ -12762,7 +12762,7 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ad11.adfarm1.adition.com^
 ||hgc-cf-cache-1.svonm.com^
 ||svonm.com^
-||[A^
+||cdn.vergleich.org^$thirdparty
 ||getback.ch^
 ||php-infra.oe24.at^
 ||tracking.live.wetter.at^

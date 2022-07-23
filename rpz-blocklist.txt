@@ -12281,3 +12281,4 @@ ibuy.kr CNAME .
 ats.auction.co.kr CNAME .
 uts.auction.co.kr CNAME .
 cyad1.nate.com CNAME .
+stat.nate.com CNAME .

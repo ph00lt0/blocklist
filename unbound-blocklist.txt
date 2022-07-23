@@ -12282,3 +12282,4 @@ local-zone: "ibuy.kr." always_null
 local-zone: "ats.auction.co.kr." always_null
 local-zone: "uts.auction.co.kr." always_null
 local-zone: "cyad1.nate.com." always_null
+local-zone: "stat.nate.com." always_null

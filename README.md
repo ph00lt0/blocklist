@@ -127,6 +127,8 @@ crontab -l | { cat; echo "00 11 * * * /media/ph00lt0-blocklis/updater.sh"; } | c
 
 
 ### uBlock Origin 
+[One click install](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fph00lt0%2Fblocklist%2Fmaster%2Fblocklist.txt&title=ph00lt0%20-%20blocklist)
+
 1. ⚙ Open the uBO︎ Dashboard 
 2. Navigate to `Filter lists`
 3. Scroll down to **+ Custom**

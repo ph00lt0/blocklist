@@ -12550,3 +12550,4 @@
 0.0.0.0 cpb.espritshop.pl
 0.0.0.0 abc.esprit.sg
 0.0.0.0 abc.esprit.es
+0.0.0.0 cpb.esprit.es

@@ -12672,3 +12672,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||webid.ad.daum.net^
 ||stat.tiara.daum.net^
 ||tiara.daum.net^
+||onkakao.net^

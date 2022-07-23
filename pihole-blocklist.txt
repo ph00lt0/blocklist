@@ -12377,3 +12377,4 @@
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 stat.tiara.daum.net
 0.0.0.0 tiara.daum.net
+0.0.0.0 onkakao.net

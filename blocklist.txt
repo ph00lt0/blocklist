@@ -12639,3 +12639,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||zdtc.app^
 ||securemetrics.experience.apple^
 ||appfire.app^
+||sp.mail.notion.so^

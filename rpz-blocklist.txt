@@ -12467,3 +12467,4 @@ m.aboutyou.de CNAME .
 ; allow api.aboutyou.com reason: required
 m.aboutyou.nl CNAME .
 t.aboutyou.cz CNAME .
+t.aboutyou.lt CNAME .

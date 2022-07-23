@@ -12886,3 +12886,4 @@ $removeparam=utm-source
 @@||api.aboutyou.com^  # required
 ||m.aboutyou.nl^
 ||t.aboutyou.cz^
+||t.aboutyou.lt^

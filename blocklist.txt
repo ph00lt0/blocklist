@@ -12887,3 +12887,4 @@ $removeparam=utm-source
 ||m.aboutyou.nl^
 ||t.aboutyou.cz^
 ||t.aboutyou.lt^
+||t.aboutyou.bg^

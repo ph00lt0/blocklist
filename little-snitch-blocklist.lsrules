@@ -12238,6 +12238,7 @@
         "metric.gstatic.com",
         "document360.io",
         "cdn.document360.io",
-        "privacyportal-cdn.onetrust.com"
+        "privacyportal-cdn.onetrust.com",
+        "code.piano.io"
     ]
 }

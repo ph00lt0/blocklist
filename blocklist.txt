@@ -12817,3 +12817,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||geo-ip-lookup-api.prod.zooplus.net^
 ||recommendation-api.prod.zooplus.net^
 $removeparam=analytics-id
+$removeparam=utm-source

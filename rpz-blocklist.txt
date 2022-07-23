@@ -12412,3 +12412,4 @@ cpb.esprit.be CNAME .
 abc.esprit.be CNAME .
 asip.cloud CNAME .
 atebd5.asip.cloud CNAME .
+cpb.esprit.eu CNAME .

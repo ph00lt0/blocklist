@@ -11,10 +11,6 @@ read -p "Enter the class that you want to remove: " class
 
 read -p "Enter the element the class should be removed from: " elm
 
-declare version=$(date +"%Y%m%d")
-declare versionTag="! Version: "
-declare versionLine="! Version: $version"
-
 declare blocklistRule="${domain}##+js(rc, ${class}, ${elm}, stay)"
 
 if [ "$domain" == "" ]; then
@@ -43,17 +39,15 @@ if [ "$elm" == "" ]; then
 fi
 
 # Only check for default blocklist as pihole list should contain same domains.
-if grep -q "$blocklistRule" "$blocklist"; then 
+if grep -q "$blocklistRule" "$blocklist"; then
         echo "Rule already present"
     else
         echo "checking for updates..."
         git pull origin master && git pull github master
-        
+
         if grep -q "$blocklistRule" "$blocklist"; then
             echo "This rule has already been added before you"
-        else    
-            sed -i '' "s/$versionTag.*/$versionLine/g" $blocklist 
-            
+        else
             printf "$blocklistRule\n" >> "$blocklist"
             git commit -am "block class ${class} on ${elm} for $domain" && git push origin master && git push github master
         fi

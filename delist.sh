@@ -28,13 +28,16 @@ else
 
   declare blocklist="./blocklist.txt"
   declare piholeBlocklist="./pihole-blocklist.txt"
+  declare rpzBlocklist="./rpz-blocklist.txt"
+  declare unboundBlocklist="./unbound-blocklist.txt"
 
   declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
   declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 
   declare blocklistRule="||$domain^"
   declare piholeBlocklistRule="0.0.0.0 $domain"
-
+  declare rpzBlocklistRule="$domain CNAME ."
+  declare unboundBlocklistRule="local-zone: \" $domain .\" always_null"
 
   # Only check for default blocklist as pihole list should contain same domains.
   if grep -q $blocklistRule "$blocklist"; then
@@ -44,6 +47,8 @@ else
       if grep -q $blocklistRule "$blocklist"; then
           sed -i '' "s/$blocklistRule/@@$blocklistRule  # $reason/g" $blocklist
           sed -i '' "s/$piholeBlocklistRule/! allow $domain reason: $reason/g" $piholeBlocklist
+          sed -i '' "s/$rpzBlocklistRule/; allow $domain reason: $reason/g" $rpzBlocklist
+          sed -i '' "s/$unboundBlocklistRule/# allow $domain reason: $reason/g" $unboundBlocklist
           python3 ./ls-delete.py $domain
           git commit -am "delisted $domain in blocklist" && git push origin master && git push github master
       else

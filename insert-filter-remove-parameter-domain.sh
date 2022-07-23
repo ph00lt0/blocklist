@@ -9,10 +9,6 @@ declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 
 read -p "Enter the parameter that you want to remove: " param
 
-declare version=$(date +"%Y%m%d")
-declare versionTag="! Version: "
-declare versionLine="! Version: $version"
-
 declare blocklistRule="||${domain}^\$removeparam=${param}"
 
 echo $blocklistRule
@@ -38,17 +34,15 @@ if [ "$param" == "" ]; then
 fi
 
 # Only check for default blocklist as pihole list should contain same domains.
-if grep -q "$blocklistRule" "$blocklist"; then 
+if grep -q "$blocklistRule" "$blocklist"; then
         echo "Rule already present"
     else
         echo "checking for updates..."
         git pull origin master && git pull github master
-        
+
         if grep -q "$blocklistRule" "$blocklist"; then
             echo "This rule has already been added before you"
-        else    
-            sed -i '' "s/$versionTag.*/$versionLine/g" $blocklist 
-            
+        else
             printf "$blocklistRule\n" >> "$blocklist"
             git commit -am "remove parameter ${param} for $domain" && git push origin master && git push github master
         fi

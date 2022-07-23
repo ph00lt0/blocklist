@@ -4,10 +4,6 @@ declare blocklist="./blocklist.txt"
 
 read -p "Enter the path (full url) of the file: " path
 
-declare version=$(date +"%Y%m%d")
-declare versionTag="! Version: "
-declare versionLine="! Version: $version"
-
 declare path=$(echo $path | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
 declare path=$(echo $path | sed 's:/*$::') # remove any trailing slash.
 
@@ -38,8 +34,6 @@ if grep -q "$blocklistRule" "$blocklist"; then
         if grep -q "$blocklistRule" "$blocklist"; then
             echo "This rule has already been added before you"
         else
-            sed -i '' "s/$versionTag.*/$versionLine/g" $blocklist
-
             printf "$blocklistRule\n" >> "$blocklist"
             git commit -am "block ${path}" && git push origin master && git push github master
         fi

@@ -12539,3 +12539,4 @@
 0.0.0.0 abc.espritshop.it
 0.0.0.0 cpb.espritshop.it
 0.0.0.0 wcs.naver.net
+0.0.0.0 js-error-tracer-api.cafe24.com

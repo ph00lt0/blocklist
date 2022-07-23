@@ -12471,3 +12471,4 @@ local-zone: "t.aboutyou.cz." always_null
 local-zone: "t.aboutyou.lt." always_null
 local-zone: "t.aboutyou.bg." always_null
 local-zone: "t.aboutyou.fi." always_null
+local-zone: "t.aboutyou.hu." always_null

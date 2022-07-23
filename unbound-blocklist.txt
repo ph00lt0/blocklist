@@ -12404,3 +12404,4 @@ local-zone: "vam-cdn-prod.mediazs.com." always_null
 local-zone: "abc.esprit.nl." always_null
 local-zone: "abc.esprit.de." always_null
 local-zone: "abc.esprit.co.uk." always_null
+local-zone: "cpb.esprit.nl." always_null

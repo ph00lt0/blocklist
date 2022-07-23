@@ -12511,3 +12511,4 @@
 0.0.0.0 abc.esprit.nl
 0.0.0.0 abc.esprit.de
 0.0.0.0 abc.esprit.co.uk
+0.0.0.0 cpb.esprit.nl

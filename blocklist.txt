@@ -12716,3 +12716,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||matomo-poc.similarweb.io^
 ||similartech.com^
 ||similarweb.io^
+||cdn.adnz.co^

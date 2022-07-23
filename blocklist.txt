@@ -12633,3 +12633,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||ws.qualified.com^
 ||qualified.com^
 ||selfishsnake.com^
+||champagne.futurecdn.net^

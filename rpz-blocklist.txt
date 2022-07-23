@@ -12357,3 +12357,4 @@ tag.md-nx.com CNAME .
 md-nx.com CNAME .
 partner.googleadservices.com CNAME .
 tracking.krone.at CNAME .
+talk-cdn.krone.at CNAME .

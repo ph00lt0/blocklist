@@ -12770,3 +12770,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||md-nx.com^
 ||partner.googleadservices.com^
 ||tracking.krone.at^
+||talk-cdn.krone.at^

@@ -12460,3 +12460,4 @@ local-zone: "lp2.hm.com." always_null
 local-zone: "e2712.b.akamaiedge.net." always_null
 local-zone: "lp.weekday.com." always_null
 local-zone: "weekday.com." always_null
+local-zone: "idservice.hm.com." always_null

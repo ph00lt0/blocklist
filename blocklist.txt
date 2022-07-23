@@ -12715,3 +12715,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||secure.bomb5mild.com^
 ||matomo-poc.similarweb.io^
 ||similartech.com^
+||similarweb.io^

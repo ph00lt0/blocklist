@@ -12312,3 +12312,4 @@ local-zone: "bomb5mild.com." always_null
 local-zone: "secure.bomb5mild.com." always_null
 local-zone: "matomo-poc.similarweb.io." always_null
 local-zone: "similartech.com." always_null
+local-zone: "similarweb.io." always_null

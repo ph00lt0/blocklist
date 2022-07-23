@@ -12419,3 +12419,4 @@
 0.0.0.0 secure.bomb5mild.com
 0.0.0.0 matomo-poc.similarweb.io
 0.0.0.0 similartech.com
+0.0.0.0 similarweb.io

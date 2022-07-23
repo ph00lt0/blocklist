@@ -62,11 +62,11 @@ if grep -q $blocklistRule "$blocklist"; then
 
             declare unboundVersionTag="# Version: "
             declare unboundVersionLine="# Version: $version"
-            sed -i '' "s/unboundVersionTag.*/unboundVersionLine/g" unboundBlocklist
+            sed -i '' "s/unboundVersionTag.*/unboundVersionLine/g" $unboundBlocklist
 
             declare rpzVersionTag="; Version: "
             declare rpzVersionLine="; Version: $version"
-            sed -i '' "s/rpzVersionTag.*/rpzVersionLine/g" rpzBlocklist
+            sed -i '' "s/rpzVersionTag.*/rpzVersionLine/g" $rpzBlocklist
 
             python3 ./ls-insert.py $domain
             printf "$blocklistRule\n" >> "$blocklist"

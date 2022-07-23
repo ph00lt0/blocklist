@@ -12365,3 +12365,4 @@
 0.0.0.0 api.docodoco.jp
 0.0.0.0 ogt.jp
 0.0.0.0 a5.ogt.jp
+0.0.0.0 cologger.shopping.naver.com

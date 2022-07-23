@@ -12660,3 +12660,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||api.docodoco.jp^
 ||ogt.jp^
 ||a5.ogt.jp^
+||cologger.shopping.naver.com^

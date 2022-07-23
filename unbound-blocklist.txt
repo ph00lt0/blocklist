@@ -12258,3 +12258,4 @@ local-zone: "docodoco.jp." always_null
 local-zone: "api.docodoco.jp." always_null
 local-zone: "ogt.jp." always_null
 local-zone: "a5.ogt.jp." always_null
+local-zone: "cologger.shopping.naver.com." always_null

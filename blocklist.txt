@@ -12806,3 +12806,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||bilder-a.akamaihd.net^
 ||pass.otto.de^
 ||www.saturn.de/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js^
+||ads.mindfactory.de^

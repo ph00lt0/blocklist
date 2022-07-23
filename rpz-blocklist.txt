@@ -12389,3 +12389,4 @@ e-mailit.com CNAME .
 www.e-mailit.com CNAME .
 cleantalk.org CNAME .
 pass.otto.de CNAME .
+ads.mindfactory.de CNAME .

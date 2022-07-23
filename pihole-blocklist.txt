@@ -12530,3 +12530,4 @@
 0.0.0.0 fibre.esprit.com
 0.0.0.0 global-e.com
 0.0.0.0 webservices.global-e.com
+0.0.0.0 cpb.esprit.fr

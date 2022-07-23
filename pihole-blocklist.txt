@@ -12527,3 +12527,4 @@
 0.0.0.0 abc.esprit.ph
 0.0.0.0 cpb.esprit.ph
 0.0.0.0 e2486.dscg.akamaiedge.net
+0.0.0.0 fibre.esprit.com

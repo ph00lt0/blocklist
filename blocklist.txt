@@ -12838,3 +12838,4 @@ $removeparam=utm-source
 ||abc.esprit.ph^
 ||cpb.esprit.ph^
 ||e2486.dscg.akamaiedge.net^
+||fibre.esprit.com^

@@ -12420,3 +12420,4 @@ local-zone: "abc.esprit.dk." always_null
 local-zone: "abc.esprit.ph." always_null
 local-zone: "cpb.esprit.ph." always_null
 local-zone: "e2486.dscg.akamaiedge.net." always_null
+local-zone: "fibre.esprit.com." always_null

@@ -12338,3 +12338,4 @@ partner.bergfex.at CNAME .
 wa.gmx.net CNAME .
 web.de CNAME .
 dpa-tools.ui-portal.de CNAME .
+nct.ui-portal.de CNAME .

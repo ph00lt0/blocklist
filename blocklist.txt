@@ -12802,3 +12802,5 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||e-mailit.com^
 ||www.e-mailit.com^
 ||cleantalk.org^
+||otto.de^$third-party
+||bilder-a.akamaihd.net^

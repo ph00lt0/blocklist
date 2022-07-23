@@ -12798,3 +12798,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||d1733r3id7jrw5.cloudfront.net^
 ||sparwelt.de^$third-party
 ||bilder-a.akamaihd.net^
+||metrics.n-tv.de^

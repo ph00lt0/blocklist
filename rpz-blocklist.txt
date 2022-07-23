@@ -12384,3 +12384,4 @@ sourcepoint.n-tv.de CNAME .
 cdn-1239.privacy-mgmt.com CNAME .
 d1733r3id7jrw5.cloudfront.net CNAME .
 bilder-a.akamaihd.net CNAME .
+metrics.n-tv.de CNAME .

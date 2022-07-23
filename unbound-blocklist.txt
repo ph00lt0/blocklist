@@ -12330,3 +12330,4 @@ local-zone: "moserholding.piwik.pro." always_null
 local-zone: "assets.emarsys.net." always_null
 local-zone: "emarsys.net." always_null
 local-zone: "pv-apps.web.oebb.at." always_null
+local-zone: "imagesrv.adition.com." always_null

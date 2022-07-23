@@ -12720,3 +12720,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||stm.orf.at^
 ||pipe.orf.at^
 ||at-config.sensic.net^
+||sensic.net^

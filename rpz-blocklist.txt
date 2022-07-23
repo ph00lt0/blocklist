@@ -12316,3 +12316,4 @@ cdn.adnz.co CNAME .
 stm.orf.at CNAME .
 pipe.orf.at CNAME .
 at-config.sensic.net CNAME .
+sensic.net CNAME .

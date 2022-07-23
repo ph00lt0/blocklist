@@ -12243,3 +12243,4 @@ local-zone: "exacttarget.com.edgekey.net." always_null
 local-zone: "metric.gstatic.com." always_null
 local-zone: "document360.io." always_null
 local-zone: "cdn.document360.io." always_null
+local-zone: "privacyportal-cdn.onetrust.com." always_null

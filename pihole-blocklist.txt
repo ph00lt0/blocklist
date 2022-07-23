@@ -12350,3 +12350,4 @@
 0.0.0.0 metric.gstatic.com
 0.0.0.0 document360.io
 0.0.0.0 cdn.document360.io
+0.0.0.0 privacyportal-cdn.onetrust.com

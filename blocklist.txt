@@ -12786,3 +12786,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||apikeys.civiccomputing.com^
 ||civiccomputing.com^
 ||civicuk.com^
+||stats.civiccomputing.com^

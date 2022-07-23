@@ -12373,3 +12373,4 @@ unbecominglamp.com CNAME .
 apikeys.civiccomputing.com CNAME .
 civiccomputing.com CNAME .
 civicuk.com CNAME .
+stats.civiccomputing.com CNAME .

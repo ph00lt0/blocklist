@@ -12374,3 +12374,4 @@ local-zone: "unbecominglamp.com." always_null
 local-zone: "apikeys.civiccomputing.com." always_null
 local-zone: "civiccomputing.com." always_null
 local-zone: "civicuk.com." always_null
+local-zone: "stats.civiccomputing.com." always_null

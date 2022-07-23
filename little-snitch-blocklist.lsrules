@@ -12390,6 +12390,7 @@
         "explore-bff-api.shpp.ext.zooplus.io",
         "omt-services.com",
         "mkt-tech.omt-services.com",
-        "geo-ip-lookup-api.prod.zooplus.net"
+        "geo-ip-lookup-api.prod.zooplus.net",
+        "recommendation-api.prod.zooplus.net"
     ]
 }

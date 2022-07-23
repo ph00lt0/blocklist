@@ -12815,3 +12815,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||omt-services.com^
 ||mkt-tech.omt-services.com^
 ||geo-ip-lookup-api.prod.zooplus.net^
+||recommendation-api.prod.zooplus.net^

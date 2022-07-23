@@ -12506,3 +12506,4 @@
 0.0.0.0 omt-services.com
 0.0.0.0 mkt-tech.omt-services.com
 0.0.0.0 geo-ip-lookup-api.prod.zooplus.net
+0.0.0.0 recommendation-api.prod.zooplus.net

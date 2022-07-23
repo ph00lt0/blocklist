@@ -12731,3 +12731,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ^piano-*.js^
 ^*/popupclick/*^
 ^adrum.js^
+^adrum-config.js^

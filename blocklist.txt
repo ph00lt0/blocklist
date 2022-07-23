@@ -12780,3 +12780,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||spark.cloud.funkedigital.de^
 ||data-c0c484e9be.werstreamt.es^
 ||agnes.werstreamt.es^
+||widgets.twimg.com^

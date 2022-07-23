@@ -12354,3 +12354,4 @@ local-zone: "svonm.com." always_null
 local-zone: "[A." always_null
 local-zone: "getback.ch." always_null
 local-zone: "php-infra.oe24.at." always_null
+local-zone: "tracking.live.wetter.at." always_null

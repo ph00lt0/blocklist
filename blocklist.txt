@@ -12695,3 +12695,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||log.sv.pandora.tv^
 ||vrixon.com^
 ||gp.vrixon.com^
+^kakao.min.js^

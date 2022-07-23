@@ -12467,3 +12467,4 @@
 0.0.0.0 tracking.krone.at
 0.0.0.0 talk-cdn.krone.at
 0.0.0.0 talk.krone.at
+0.0.0.0 b9fox3.tyrol.com

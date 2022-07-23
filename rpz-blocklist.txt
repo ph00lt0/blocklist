@@ -12342,3 +12342,4 @@ nct.ui-portal.de CNAME .
 uim.tifbs.net CNAME .
 tifbs.net CNAME .
 main.exoclick.com CNAME .
+cdn.amplitude.com CNAME .

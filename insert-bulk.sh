@@ -37,5 +37,4 @@ for domain in ${domains//,/ }; do
         python3 ./ls-insert.py $domain
     fi
 done
-./new-xversion.sh
 git commit -am "added domains in bulk to blocklist" && git push origin master && git push github master

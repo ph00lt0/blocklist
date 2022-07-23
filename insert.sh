@@ -54,7 +54,20 @@ if grep -q $blocklistRule "$blocklist"; then
         if grep -q $blocklistRule "$blocklist"; then
             echo "$domain rule added before you"
         else
-            ./new-version.sh
+            declare version=$(date +"%Y%m%d")
+
+            declare blocklistVersionTag="! Version: "
+            declare blocklistVersionLine="! Version: $version"
+            sed -i '' "s/blocklistVersionTag.*/blocklistVersionLine/g" $blocklist
+
+            declare unboundVersionTag="# Version: "
+            declare unboundVersionLine="# Version: $version"
+            sed -i '' "s/unboundVersionTag.*/unboundVersionLine/g" unboundBlocklist
+
+            declare rpzVersionTag="; Version: "
+            declare rpzVersionLine="; Version: $version"
+            sed -i '' "s/rpzVersionTag.*/rpzVersionLine/g" rpzBlocklist
+
             python3 ./ls-insert.py $domain
             printf "$blocklistRule\n" >> "$blocklist"
             printf "$piholeBlocklistRule\n" >> "$piholeBlocklist"

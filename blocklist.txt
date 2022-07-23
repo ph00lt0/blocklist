@@ -12774,3 +12774,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||talk.krone.at^
 ||b9fox3.tyrol.com^
 @@||staticlp.com^  # Staticfiles of lonelyplanet.com
+||stats.peer.biz^

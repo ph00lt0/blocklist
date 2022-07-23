@@ -12362,3 +12362,4 @@ local-zone: "talk-cdn.krone.at." always_null
 local-zone: "talk.krone.at." always_null
 local-zone: "b9fox3.tyrol.com." always_null
 # allow staticlp.com reason: Staticfiles of lonelyplanet.com
+local-zone: "stats.peer.biz." always_null

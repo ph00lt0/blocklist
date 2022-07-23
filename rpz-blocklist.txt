@@ -12485,3 +12485,4 @@ t.aboutyou.ie CNAME .
 t.aboutyou.pt CNAME .
 ayt-live.fra1.digitaloceanspaces.com CNAME .
 t.aboutyou.ee CNAME .
+data.qvc.de CNAME .

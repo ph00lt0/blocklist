@@ -12593,3 +12593,4 @@
 0.0.0.0 t.aboutyou.pt
 0.0.0.0 ayt-live.fra1.digitaloceanspaces.com
 0.0.0.0 t.aboutyou.ee
+0.0.0.0 data.qvc.de

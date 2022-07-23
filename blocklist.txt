@@ -12905,3 +12905,4 @@ $removeparam=subid1
 ||t.aboutyou.pt^
 ||ayt-live.fra1.digitaloceanspaces.com^
 ||t.aboutyou.ee^
+||data.qvc.de^

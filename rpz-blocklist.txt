@@ -12250,3 +12250,4 @@ recom.hypebeast.com CNAME .
 cdn.activity.bdash-cloud.com CNAME .
 cdn.activity.smart-bdash.com CNAME .
 bdash-cloud.com CNAME .
+smart-bdash.com CNAME .

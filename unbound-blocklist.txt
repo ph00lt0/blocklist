@@ -12251,3 +12251,4 @@ local-zone: "recom.hypebeast.com." always_null
 local-zone: "cdn.activity.bdash-cloud.com." always_null
 local-zone: "cdn.activity.smart-bdash.com." always_null
 local-zone: "bdash-cloud.com." always_null
+local-zone: "smart-bdash.com." always_null

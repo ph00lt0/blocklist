@@ -12653,3 +12653,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||cdn.activity.bdash-cloud.com^
 ||cdn.activity.smart-bdash.com^
 ||bdash-cloud.com^
+||smart-bdash.com^

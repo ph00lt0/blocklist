@@ -12658,3 +12658,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||b.yjtag.jp^
 ||docodoco.jp^
 ||api.docodoco.jp^
+||ogt.jp^

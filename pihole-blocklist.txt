@@ -12363,3 +12363,4 @@
 0.0.0.0 b.yjtag.jp
 0.0.0.0 docodoco.jp
 0.0.0.0 api.docodoco.jp
+0.0.0.0 ogt.jp

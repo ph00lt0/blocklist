@@ -12332,3 +12332,4 @@ pv-apps.web.oebb.at CNAME .
 imagesrv.adition.com CNAME .
 kurier.activehosted.com CNAME .
 ; allow efs.kurier.at reason: Website router
+data-44a005f23c.bergfex.at CNAME .

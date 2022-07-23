@@ -12740,3 +12740,4 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||imagesrv.adition.com^
 ||kurier.activehosted.com^
 @@||efs.kurier.at^  # Website router
+||data-44a005f23c.bergfex.at^

@@ -12440,3 +12440,4 @@
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 kurier.activehosted.com
 ! allow efs.kurier.at reason: Website router
+0.0.0.0 data-44a005f23c.bergfex.at

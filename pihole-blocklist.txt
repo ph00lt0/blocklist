@@ -12522,3 +12522,4 @@
 0.0.0.0 atebd5.asip.cloud
 0.0.0.0 cpb.esprit.eu
 0.0.0.0 abc.esprit.eu
+0.0.0.0 cpb.esprit.dk

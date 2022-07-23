@@ -12414,3 +12414,4 @@ asip.cloud CNAME .
 atebd5.asip.cloud CNAME .
 cpb.esprit.eu CNAME .
 abc.esprit.eu CNAME .
+cpb.esprit.dk CNAME .

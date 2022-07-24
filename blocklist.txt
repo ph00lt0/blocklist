@@ -15782,3 +15782,4 @@ $removeparam=engagement_type
 @@||lasso.blob.core.windows.net^  # image cdn
 ||www.paqle.dk^
 ||paqle.dk^
+||tredir.go.com^

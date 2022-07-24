@@ -15360,3 +15360,4 @@ tags.adnuntius.com CNAME .
 ; allow lasso.blob.core.windows.net reason: image cdn
 www.paqle.dk CNAME .
 paqle.dk CNAME .
+tredir.go.com CNAME .

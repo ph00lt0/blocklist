@@ -15023,7 +15023,7 @@ $removeparam=engagement_type
 ||disco-api.com^
 @@||discord.com^  # not a tracker
 @@||disqus.com^  # disqus platform
-||disquscdn.com^
+@@||disquscdn.com^  # disqus platform
 ||distance.to^
 ||divibib.com^
 ||djiops.com^

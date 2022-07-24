@@ -14597,7 +14597,7 @@ directferries.com CNAME .
 disco-api.com CNAME .
 ; allow discord.com reason: not a tracker
 ; allow disqus.com reason: disqus platform
-disquscdn.com CNAME .
+; allow disquscdn.com reason: disqus platform
 distance.to CNAME .
 divibib.com CNAME .
 djiops.com CNAME .

@@ -12712,7 +12712,7 @@
 ! allow 133vod-adaptive.akamaized.net reason: not a tracker
 ! allow 134vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1355612476.rsc.cdn77.org
-0.0.0.0 136vod-adaptive.akamaized.net
+! allow 136vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 137vod-adaptive.akamaized.net
 0.0.0.0 1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com
 0.0.0.0 138vod-adaptive.akamaized.net

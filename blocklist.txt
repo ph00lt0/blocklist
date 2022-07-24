@@ -14447,7 +14447,7 @@ $removeparam=engagement_type
 ||cathaypacific.com.edgekey.net^
 ||catsnbootsncats2020.com^
 ||cauly.co.kr^
-||cbc.ca^
+@@||cbc.ca^  # not a tracker
 ||cbsi.com^
 ||cbsi.map.fastly.net^
 ||cbsivideo.com^

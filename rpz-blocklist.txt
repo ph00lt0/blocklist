@@ -14021,7 +14021,7 @@ cassiecloud.com CNAME .
 cathaypacific.com.edgekey.net CNAME .
 catsnbootsncats2020.com CNAME .
 cauly.co.kr CNAME .
-cbc.ca CNAME .
+; allow cbc.ca reason: not a tracker
 cbsi.com CNAME .
 cbsi.map.fastly.net CNAME .
 cbsivideo.com CNAME .

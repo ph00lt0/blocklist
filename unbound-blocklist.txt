@@ -13565,7 +13565,7 @@ local-zone: "alapage.ru." always_null
 local-zone: "alas4kanmfa6a4mubte.com." always_null
 local-zone: "aldi-prod.s3.eu-central-1.amazonaws.com." always_null
 local-zone: "alexa.com." always_null
-local-zone: "algolia.net." always_null
+# allow algolia.net reason: search cdn
 local-zone: "algolianet.com." always_null
 local-zone: "alicdn.com.edgekey.net." always_null
 local-zone: "alicloudapi.com." always_null

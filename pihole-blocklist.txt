@@ -13672,7 +13672,7 @@
 0.0.0.0 alas4kanmfa6a4mubte.com
 0.0.0.0 aldi-prod.s3.eu-central-1.amazonaws.com
 0.0.0.0 alexa.com
-0.0.0.0 algolia.net
+! allow algolia.net reason: search cdn
 0.0.0.0 algolianet.com
 0.0.0.0 alicdn.com.edgekey.net
 0.0.0.0 alicloudapi.com

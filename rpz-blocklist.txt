@@ -13564,7 +13564,7 @@ alapage.ru CNAME .
 alas4kanmfa6a4mubte.com CNAME .
 aldi-prod.s3.eu-central-1.amazonaws.com CNAME .
 alexa.com CNAME .
-algolia.net CNAME .
+; allow algolia.net reason: search cdn
 algolianet.com CNAME .
 alicdn.com.edgekey.net CNAME .
 alicloudapi.com CNAME .

@@ -13989,7 +13989,7 @@ $removeparam=engagement_type
 ||alas4kanmfa6a4mubte.com^
 ||aldi-prod.s3.eu-central-1.amazonaws.com^
 ||alexa.com^
-||algolia.net^
+@@||algolia.net^  # search cdn
 ||algolianet.com^
 ||alicdn.com.edgekey.net^
 ||alicloudapi.com^

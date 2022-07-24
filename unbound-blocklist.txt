@@ -12948,7 +12948,7 @@ local-zone: "36de823d83a303480b9a070fc5edd2d4.edgekey.net." always_null
 local-zone: "36wi5hm.x.incapdns.net." always_null
 local-zone: "380kyt9r67o2n57k2r9rrr8x-wpengine.netdna-ssl.com." always_null
 local-zone: "390109.smushcdn.com." always_null
-local-zone: "39vod-adaptive.akamaized.net." always_null
+# allow 39vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "3ahs13ezpx115i34i3vbbopw-wpengine.netdna-ssl.com." always_null
 local-zone: "3anx.net." always_null
 local-zone: "3apps.ie." always_null

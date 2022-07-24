@@ -12947,7 +12947,7 @@ jnn-pa.googleapis.com CNAME .
 36wi5hm.x.incapdns.net CNAME .
 380kyt9r67o2n57k2r9rrr8x-wpengine.netdna-ssl.com CNAME .
 390109.smushcdn.com CNAME .
-39vod-adaptive.akamaized.net CNAME .
+; allow 39vod-adaptive.akamaized.net reason: not a tracker
 3ahs13ezpx115i34i3vbbopw-wpengine.netdna-ssl.com CNAME .
 3anx.net CNAME .
 3apps.ie CNAME .

@@ -12913,3 +12913,4 @@ $removeparam=subid1
 ||sockjs-eu.pusher.com^
 ||ws-eu.pusher.com^
 ||badge.facebook.com^
+||piwik.betaalvereniging.nl^

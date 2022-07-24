@@ -12493,3 +12493,4 @@ ads.viralize.tv CNAME .
 sockjs-eu.pusher.com CNAME .
 ws-eu.pusher.com CNAME .
 badge.facebook.com CNAME .
+piwik.betaalvereniging.nl CNAME .

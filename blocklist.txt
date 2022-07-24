@@ -15445,7 +15445,7 @@ $removeparam=engagement_type
 ||buttons.github.io^
 ||buymeacoffee.com^
 ||bx-cloud.com^
-||canalplus.com.edgekey.net^
+@@||canalplus.com.edgekey.net^  # not a tracker
 ||cartsguru.io^
 ||carusseldwt.com^
 ||casualnetworksbv.com^

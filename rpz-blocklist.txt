@@ -15019,7 +15019,7 @@ businessclick.ch CNAME .
 buttons.github.io CNAME .
 buymeacoffee.com CNAME .
 bx-cloud.com CNAME .
-canalplus.com.edgekey.net CNAME .
+; allow canalplus.com.edgekey.net reason: not a tracker
 cartsguru.io CNAME .
 carusseldwt.com CNAME .
 casualnetworksbv.com CNAME .

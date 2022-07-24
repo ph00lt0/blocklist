@@ -15141,7 +15141,7 @@
 0.0.0.0 cdnwebcloud.com
 ! allow ch.ch reason: swiss gov
 ! allow ch.edgekey.net reason: swiss gov
-0.0.0.0 chart.googleapis.com
+! allow chart.googleapis.com reason: required library
 0.0.0.0 checkfront.com
 0.0.0.0 chessabc.com
 0.0.0.0 1000otzyvov.com

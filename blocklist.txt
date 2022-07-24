@@ -15459,7 +15459,7 @@ $removeparam=engagement_type
 ||cdnwebcloud.com^
 @@||ch.ch^  # swiss gov
 @@||ch.edgekey.net^  # swiss gov
-||chart.googleapis.com^
+@@||chart.googleapis.com^  # required library
 ||checkfront.com^
 ||chessabc.com^
 ||1000otzyvov.com^

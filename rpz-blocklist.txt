@@ -15033,7 +15033,7 @@ cdntwrk.com CNAME .
 cdnwebcloud.com CNAME .
 ; allow ch.ch reason: swiss gov
 ; allow ch.edgekey.net reason: swiss gov
-chart.googleapis.com CNAME .
+; allow chart.googleapis.com reason: required library
 checkfront.com CNAME .
 chessabc.com CNAME .
 1000otzyvov.com CNAME .

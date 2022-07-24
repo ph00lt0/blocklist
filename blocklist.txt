@@ -15779,3 +15779,4 @@ $removeparam=engagement_type
 ||statmap.eniro.com^
 ||sentry.bazo.dk^
 ||tags.adnuntius.com^
+||lasso.blob.core.windows.net^

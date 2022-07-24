@@ -13672,7 +13672,7 @@ local-zone: "babbel.io." always_null
 local-zone: "babiel.com." always_null
 local-zone: "backmarket.io." always_null
 local-zone: "bahn-x.de." always_null
-local-zone: "bahn.de." always_null
+# allow bahn.de reason: not a tracker, german railway
 local-zone: "baidu.com." always_null
 local-zone: "baimgfroggd.site." always_null
 local-zone: "banggood.com.edgekey.net." always_null

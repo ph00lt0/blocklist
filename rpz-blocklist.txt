@@ -13671,7 +13671,7 @@ babbel.io CNAME .
 babiel.com CNAME .
 backmarket.io CNAME .
 bahn-x.de CNAME .
-bahn.de CNAME .
+; allow bahn.de reason: not a tracker, german railway
 baidu.com CNAME .
 baimgfroggd.site CNAME .
 banggood.com.edgekey.net CNAME .

@@ -13779,7 +13779,7 @@
 0.0.0.0 babiel.com
 0.0.0.0 backmarket.io
 0.0.0.0 bahn-x.de
-0.0.0.0 bahn.de
+! allow bahn.de reason: not a tracker, german railway
 0.0.0.0 baidu.com
 0.0.0.0 baimgfroggd.site
 0.0.0.0 banggood.com.edgekey.net

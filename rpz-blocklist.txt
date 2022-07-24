@@ -15139,7 +15139,7 @@ caissedesdepots.fr CNAME .
 calameo.com CNAME .
 cambium-media.com CNAME .
 camchickscaps.com CNAME .
-canal-plus.com CNAME .
+; allow canal-plus.com reason: not a tracker
 ; allow canalplus.com reason: not a tracker
 canalplus.pro CNAME .
 cannaclicks.com CNAME .

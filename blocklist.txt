@@ -15565,7 +15565,7 @@ $removeparam=engagement_type
 ||calameo.com^
 ||cambium-media.com^
 ||camchickscaps.com^
-||canal-plus.com^
+@@||canal-plus.com^  # not a tracker
 @@||canalplus.com^  # not a tracker
 ||canalplus.pro^
 ||cannaclicks.com^

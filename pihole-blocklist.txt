@@ -15247,7 +15247,7 @@
 0.0.0.0 calameo.com
 0.0.0.0 cambium-media.com
 0.0.0.0 camchickscaps.com
-0.0.0.0 canal-plus.com
+! allow canal-plus.com reason: not a tracker
 ! allow canalplus.com reason: not a tracker
 0.0.0.0 canalplus.pro
 0.0.0.0 cannaclicks.com

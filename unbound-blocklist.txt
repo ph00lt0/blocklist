@@ -15342,3 +15342,4 @@ local-zone: "www.digitalworld.earth." always_null
 local-zone: "www.clearfoundation.com." always_null
 local-zone: "www.clearcenter.com." always_null
 local-zone: "www.clearcellular.org." always_null
+local-zone: "www.clearunited.com." always_null

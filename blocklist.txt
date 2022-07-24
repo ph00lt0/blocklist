@@ -15271,7 +15271,7 @@ $removeparam=engagement_type
 
 ||dev-era-184513.ew.r.appspot.com^
 ||dh0i9ryzlewh.cloudfront.net^
-||dhlparcel.nl^
+@@||dhlparcel.nl^  # not a tracker
 ||dhqbrvplips7x.cloudfront.net^
 ||di-dtaectolog-us-prod-1.appspot.com^
 ||dideo.ir^

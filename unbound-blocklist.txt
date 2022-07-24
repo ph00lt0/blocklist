@@ -14846,7 +14846,7 @@ local-zone: "delonghigroup.com." always_null
 local-zone: "depositphotos.com.edgekey.net." always_null
 local-zone: "dev-era-184513.ew.r.appspot.com." always_null
 local-zone: "dh0i9ryzlewh.cloudfront.net." always_null
-local-zone: "dhlparcel.nl." always_null
+# allow dhlparcel.nl reason: not a tracker
 local-zone: "dhqbrvplips7x.cloudfront.net." always_null
 local-zone: "di-dtaectolog-us-prod-1.appspot.com." always_null
 local-zone: "dideo.ir." always_null

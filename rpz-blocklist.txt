@@ -14845,7 +14845,7 @@ delonghigroup.com CNAME .
 
 dev-era-184513.ew.r.appspot.com CNAME .
 dh0i9ryzlewh.cloudfront.net CNAME .
-dhlparcel.nl CNAME .
+; allow dhlparcel.nl reason: not a tracker
 dhqbrvplips7x.cloudfront.net CNAME .
 di-dtaectolog-us-prod-1.appspot.com CNAME .
 dideo.ir CNAME .

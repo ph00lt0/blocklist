@@ -15111,7 +15111,7 @@ $removeparam=engagement_type
 ||conative.network^
 ||confiant-integrations.freetls.fastly.net^
 ||congstar-media.de^
-||conrad.de^
+@@||conrad.de^  # not a trackeer
 ||consentconverter.com^
 ||108vod-adaptive.akamaized.net^
 ||119vod-adaptive.akamaized.net^

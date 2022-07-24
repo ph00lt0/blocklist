@@ -14685,7 +14685,7 @@ computer-bild.de CNAME .
 conative.network CNAME .
 confiant-integrations.freetls.fastly.net CNAME .
 congstar-media.de CNAME .
-conrad.de CNAME .
+; allow conrad.de reason: not a trackeer
 consentconverter.com CNAME .
 108vod-adaptive.akamaized.net CNAME .
 119vod-adaptive.akamaized.net CNAME .

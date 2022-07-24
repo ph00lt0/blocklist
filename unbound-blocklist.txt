@@ -14686,7 +14686,7 @@ local-zone: "computer-bild.de." always_null
 local-zone: "conative.network." always_null
 local-zone: "confiant-integrations.freetls.fastly.net." always_null
 local-zone: "congstar-media.de." always_null
-local-zone: "conrad.de." always_null
+# allow conrad.de reason: not a trackeer
 local-zone: "consentconverter.com." always_null
 local-zone: "108vod-adaptive.akamaized.net." always_null
 local-zone: "119vod-adaptive.akamaized.net." always_null

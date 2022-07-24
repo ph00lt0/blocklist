@@ -14793,7 +14793,7 @@
 0.0.0.0 conative.network
 0.0.0.0 confiant-integrations.freetls.fastly.net
 0.0.0.0 congstar-media.de
-0.0.0.0 conrad.de
+! allow conrad.de reason: not a trackeer
 0.0.0.0 consentconverter.com
 0.0.0.0 108vod-adaptive.akamaized.net
 0.0.0.0 119vod-adaptive.akamaized.net

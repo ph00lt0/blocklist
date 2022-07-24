@@ -14303,7 +14303,7 @@ ca.akadns.net CNAME .
 ca.edgesuite.net CNAME .
 cachefly.net CNAME .
 calgary.ca CNAME .
-callofduty.com.edgekey.net CNAME .
+; allow callofduty.com.edgekey.net reason: not a tracker
 calmcactus.com CNAME .
 camschat.net CNAME .
 ; allow canada.ca reason: not a tracker

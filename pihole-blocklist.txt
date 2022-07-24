@@ -14411,7 +14411,7 @@
 0.0.0.0 ca.edgesuite.net
 0.0.0.0 cachefly.net
 0.0.0.0 calgary.ca
-0.0.0.0 callofduty.com.edgekey.net
+! allow callofduty.com.edgekey.net reason: not a tracker
 0.0.0.0 calmcactus.com
 0.0.0.0 camschat.net
 ! allow canada.ca reason: not a tracker

@@ -12581,7 +12581,7 @@ jnn-pa.googleapis.com CNAME .
 126.net CNAME .
 127.0.0.1 CNAME .
 127.net CNAME .
-127vod-adaptive.akamaized.net CNAME .
+; allow 127vod-adaptive.akamaized.net reason: not a tracker
 1287719000.rsc.cdn77.org CNAME .
 128b9c11de6e7f015c4b9e1f9271a873.edgekey.net CNAME .
 128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com CNAME .

@@ -12713,7 +12713,7 @@ jnn-pa.googleapis.com CNAME .
 1887dt387czs25eqxs3c1ipg-wpengine.netdna-ssl.com CNAME .
 1891408184.rsc.cdn77.org CNAME .
 1894269931.rsc.cdn77.org CNAME .
-189vod-adaptive.akamaized.net CNAME .
+; allow 189vod-adaptive.akamaized.net reason: ot a tracker
 18f-cloud.com CNAME .
 18vod-adaptive.akamaized.net CNAME .
 1900780057.rsc.cdn77.org CNAME .

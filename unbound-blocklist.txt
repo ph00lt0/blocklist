@@ -13538,7 +13538,7 @@ local-zone: "advertserve.com." always_null
 local-zone: "adxadserv.com." always_null
 local-zone: "adxcel-ec2.com." always_null
 local-zone: "adxpremium.services." always_null
-local-zone: "adyen.com." always_null
+# allow adyen.com reason: not a tracker
 local-zone: "afcdn.com." always_null
 local-zone: "affec.tv." always_null
 local-zone: "affiliatable.io." always_null

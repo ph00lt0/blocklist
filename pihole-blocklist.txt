@@ -13645,7 +13645,7 @@
 0.0.0.0 adxadserv.com
 0.0.0.0 adxcel-ec2.com
 0.0.0.0 adxpremium.services
-0.0.0.0 adyen.com
+! allow adyen.com reason: not a tracker
 0.0.0.0 afcdn.com
 0.0.0.0 affec.tv
 0.0.0.0 affiliatable.io

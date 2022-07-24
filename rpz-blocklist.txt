@@ -6874,7 +6874,7 @@ favorable-harmonious.jonathandupre.com CNAME .
 f.convertkit.com CNAME .
 convertkit.com CNAME .
 cdn.linkmink.com CNAME .
-go.adyen.com CNAME .
+go.; allow adyen.com reason: not a tracker
 cdn.plyr.io CNAME .
 plyr.io CNAME .
 cdn.curalate.com CNAME .
@@ -13537,7 +13537,7 @@ advertserve.com CNAME .
 adxadserv.com CNAME .
 adxcel-ec2.com CNAME .
 adxpremium.services CNAME .
-adyen.com CNAME .
+; allow adyen.com reason: not a tracker
 afcdn.com CNAME .
 affec.tv CNAME .
 affiliatable.io CNAME .

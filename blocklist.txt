@@ -13962,7 +13962,7 @@ $removeparam=engagement_type
 ||adxadserv.com^
 ||adxcel-ec2.com^
 ||adxpremium.services^
-||adyen.com^
+@@||adyen.com^  # not a tracker
 ||afcdn.com^
 ||affec.tv^
 ||affiliatable.io^

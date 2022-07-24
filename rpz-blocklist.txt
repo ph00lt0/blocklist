@@ -15330,3 +15330,4 @@ d3ithgl79uu5su.cloudfront.net CNAME .
 a.apkpure.com CNAME .
 click.em.nike.com CNAME .
 target.microsoft.com CNAME .
+beacon.klm.com CNAME .

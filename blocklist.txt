@@ -15752,3 +15752,4 @@ $removeparam=engagement_type
 ||a.apkpure.com^
 ||click.em.nike.com^
 ||target.microsoft.com^
+||beacon.klm.com^

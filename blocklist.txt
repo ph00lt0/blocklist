@@ -13245,7 +13245,7 @@ $removeparam=engagement_type
 ||234doo.com^
 ||23aaae73f8c1ea29857e029f952ce37f.edgekey.net^
 ||23rdbromleyscouts.org^
-||23vod-adaptive.akamaized.net^
+@@||23vod-adaptive.akamaized.net^  # not a trackeer
 ||23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com^
 ||24.co.za^
 ||24.com^

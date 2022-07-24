@@ -12821,7 +12821,7 @@ local-zone: "23.92.69.100." always_null
 local-zone: "234doo.com." always_null
 local-zone: "23aaae73f8c1ea29857e029f952ce37f.edgekey.net." always_null
 local-zone: "23rdbromleyscouts.org." always_null
-local-zone: "23vod-adaptive.akamaized.net." always_null
+# allow 23vod-adaptive.akamaized.net reason: not a trackeer
 local-zone: "23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com." always_null
 local-zone: "24.co.za." always_null
 local-zone: "24.com." always_null

@@ -12820,7 +12820,7 @@ jnn-pa.googleapis.com CNAME .
 234doo.com CNAME .
 23aaae73f8c1ea29857e029f952ce37f.edgekey.net CNAME .
 23rdbromleyscouts.org CNAME .
-23vod-adaptive.akamaized.net CNAME .
+; allow 23vod-adaptive.akamaized.net reason: not a trackeer
 23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com CNAME .
 24.co.za CNAME .
 24.com CNAME .

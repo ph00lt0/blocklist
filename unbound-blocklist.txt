@@ -14636,7 +14636,7 @@ local-zone: "bosch-so.com." always_null
 local-zone: "bounce-commerce.de." always_null
 local-zone: "br.de." always_null
 local-zone: "brainsland.com." always_null
-local-zone: "brother.eu." always_null
+# allow brother.eu reason: not a tracker
 local-zone: "brytes.de." always_null
 local-zone: "bsmartdata.com." always_null
 local-zone: "btmboschcom.azureedge.net." always_null

@@ -14743,7 +14743,7 @@
 0.0.0.0 bounce-commerce.de
 0.0.0.0 br.de
 0.0.0.0 brainsland.com
-0.0.0.0 brother.eu
+! allow brother.eu reason: not a tracker
 0.0.0.0 brytes.de
 0.0.0.0 bsmartdata.com
 0.0.0.0 btmboschcom.azureedge.net

@@ -14635,7 +14635,7 @@ bosch-so.com CNAME .
 bounce-commerce.de CNAME .
 br.de CNAME .
 brainsland.com CNAME .
-brother.eu CNAME .
+; allow brother.eu reason: not a tracker
 brytes.de CNAME .
 bsmartdata.com CNAME .
 btmboschcom.azureedge.net CNAME .

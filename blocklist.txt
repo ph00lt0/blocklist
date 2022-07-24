@@ -15061,7 +15061,7 @@ $removeparam=engagement_type
 ||bounce-commerce.de^
 ||br.de^
 ||brainsland.com^
-||brother.eu^
+@@||brother.eu^  # not a tracker
 ||brytes.de^
 ||bsmartdata.com^
 ||btmboschcom.azureedge.net^

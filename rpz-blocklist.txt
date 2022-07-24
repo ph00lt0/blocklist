@@ -12504,3 +12504,4 @@ adflake.com CNAME .
 adotsolution.com CNAME .
 generalmobi.com CNAME .
 evrythng.com CNAME .
+jnn-pa.googleapis.com CNAME .

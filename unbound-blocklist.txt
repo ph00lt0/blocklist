@@ -12505,3 +12505,4 @@ local-zone: "adflake.com." always_null
 local-zone: "adotsolution.com." always_null
 local-zone: "generalmobi.com." always_null
 local-zone: "evrythng.com." always_null
+local-zone: "jnn-pa.googleapis.com." always_null

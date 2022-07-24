@@ -12929,3 +12929,4 @@ $removeparam=engagement_type
 ||adotsolution.com^
 ||generalmobi.com^
 ||evrythng.com^
+||jnn-pa.googleapis.com^

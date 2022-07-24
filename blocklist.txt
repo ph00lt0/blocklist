@@ -15750,3 +15750,4 @@ $removeparam=engagement_type
 ||d3hw6dc1ow8pp2.cloudfront.net^
 ||d3ithgl79uu5su.cloudfront.net^
 ||a.apkpure.com^
+||click.em.nike.com^

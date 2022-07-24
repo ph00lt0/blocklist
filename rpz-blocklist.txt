@@ -12462,7 +12462,7 @@ weekday.com CNAME .
 idservice.hm.com CNAME .
 t.aboutyou.nl CNAME .
 t.aboutyou.de CNAME .
-tadarida-web.aboutyou.com CNAME .
+tadarida-web.; allow aboutyou.com reason: not a tracker
 m.aboutyou.de CNAME .
 ; allow api.aboutyou.com reason: required
 m.aboutyou.nl CNAME .
@@ -12480,7 +12480,7 @@ t.aboutyou.ch CNAME .
 t.aboutyou.pl CNAME .
 t.aboutyou.gr CNAME .
 t.aboutyou.no CNAME .
-t.aboutyou.com CNAME .
+t.; allow aboutyou.com reason: not a tracker
 t.aboutyou.ie CNAME .
 t.aboutyou.pt CNAME .
 ayt-live.fra1.digitaloceanspaces.com CNAME .
@@ -13348,7 +13348,7 @@ aboardamusement.com CNAME .
 about.co.kr CNAME .
 aboutstatic.com CNAME .
 aboutyou.cloud CNAME .
-aboutyou.com CNAME .
+; allow aboutyou.com reason: not a tracker
 aboutyou.de CNAME .
 abp-static.s3.ap-south-1.amazonaws.com CNAME .
 abplive.com.edgesuite.net CNAME .

@@ -15786,3 +15786,4 @@ $removeparam=engagement_type
 ||cdn.registerdisney.go.com^
 ||dcf.espn.com^
 ||a.dilcdn.com^
+||sanalytics.disneyplus.com^

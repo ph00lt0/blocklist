@@ -15365,3 +15365,4 @@ local-zone: "tredir.go.com." always_null
 local-zone: "cdn.registerdisney.go.com." always_null
 local-zone: "dcf.espn.com." always_null
 local-zone: "a.dilcdn.com." always_null
+local-zone: "sanalytics.disneyplus.com." always_null

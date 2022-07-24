@@ -4933,7 +4933,7 @@ adservice.google.ws CNAME .
 adservice.google.co.za CNAME .
 adservice.google.co.zm CNAME .
 adservice.google.co.zw CNAME .
-s.deepl.com CNAME .
+s.; allow deepl.com reason: not a tracker
 frshplkng.nl CNAME .
 b2c-contenthub.com CNAME .
 c.aaxads.com CNAME .
@@ -14559,7 +14559,7 @@ de17a.com CNAME .
 de2pmm85odupd.cloudfront.net CNAME .
 dealtale.com CNAME .
 decenthat.com CNAME .
-deepl.com CNAME .
+; allow deepl.com reason: not a tracker
 deinchatbot-speech.azurewebsites.net CNAME .
 deinneueszuhause.de CNAME .
 delight-vr.com CNAME .

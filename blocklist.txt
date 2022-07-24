@@ -14985,7 +14985,7 @@ $removeparam=engagement_type
 ||de2pmm85odupd.cloudfront.net^
 ||dealtale.com^
 ||decenthat.com^
-||deepl.com^
+@@||deepl.com^  # not a tracker
 ||deinchatbot-speech.azurewebsites.net^
 ||deinneueszuhause.de^
 ||delight-vr.com^

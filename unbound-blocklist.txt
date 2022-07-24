@@ -14560,7 +14560,7 @@ local-zone: "de17a.com." always_null
 local-zone: "de2pmm85odupd.cloudfront.net." always_null
 local-zone: "dealtale.com." always_null
 local-zone: "decenthat.com." always_null
-local-zone: "deepl.com." always_null
+# allow deepl.com reason: not a tracker
 local-zone: "deinchatbot-speech.azurewebsites.net." always_null
 local-zone: "deinneueszuhause.de." always_null
 local-zone: "delight-vr.com." always_null

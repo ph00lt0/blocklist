@@ -14667,7 +14667,7 @@
 0.0.0.0 de2pmm85odupd.cloudfront.net
 0.0.0.0 dealtale.com
 0.0.0.0 decenthat.com
-0.0.0.0 deepl.com
+! allow deepl.com reason: not a tracker
 0.0.0.0 deinchatbot-speech.azurewebsites.net
 0.0.0.0 deinneueszuhause.de
 0.0.0.0 delight-vr.com

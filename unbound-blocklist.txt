@@ -14024,7 +14024,7 @@ local-zone: "catsnbootsncats2020.com." always_null
 local-zone: "cauly.co.kr." always_null
 # allow cbc.ca reason: not a tracker
 # allow cbsi.com reason: not a tracker
-local-zone: "cbsi.map.fastly.net." always_null
+# allow cbsi.map.fastly.net reason: not not a tracker
 local-zone: "cbsivideo.com." always_null
 local-zone: "ccmiocw.com." always_null
 local-zone: "cdn-apple.com.akadns.net." always_null

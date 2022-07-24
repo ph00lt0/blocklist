@@ -14023,7 +14023,7 @@ catsnbootsncats2020.com CNAME .
 cauly.co.kr CNAME .
 ; allow cbc.ca reason: not a tracker
 ; allow cbsi.com reason: not a tracker
-cbsi.map.fastly.net CNAME .
+; allow cbsi.map.fastly.net reason: not not a tracker
 cbsivideo.com CNAME .
 ccmiocw.com CNAME .
 cdn-; allow apple.com.akadns.net reason: not a tracker

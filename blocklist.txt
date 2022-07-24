@@ -14449,7 +14449,7 @@ $removeparam=engagement_type
 ||cauly.co.kr^
 @@||cbc.ca^  # not a tracker
 @@||cbsi.com^  # not a tracker
-||cbsi.map.fastly.net^
+@@||cbsi.map.fastly.net^  # not not a tracker
 ||cbsivideo.com^
 ||ccmiocw.com^
 ||cdn-apple.com.akadns.net^

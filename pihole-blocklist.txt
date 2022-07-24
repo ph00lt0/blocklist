@@ -14131,7 +14131,7 @@
 0.0.0.0 cauly.co.kr
 ! allow cbc.ca reason: not a tracker
 ! allow cbsi.com reason: not a tracker
-0.0.0.0 cbsi.map.fastly.net
+! allow cbsi.map.fastly.net reason: not not a tracker
 0.0.0.0 cbsivideo.com
 0.0.0.0 ccmiocw.com
 0.0.0.0 cdn-apple.com.akadns.net

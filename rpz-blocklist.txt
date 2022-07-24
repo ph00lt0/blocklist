@@ -12461,9 +12461,9 @@ lp.weekday.com CNAME .
 weekday.com CNAME .
 idservice.hm.com CNAME .
 t.aboutyou.nl CNAME .
-t.aboutyou.de CNAME .
+t.; allow aboutyou.de reason: not a tracker
 tadarida-web.; allow aboutyou.com reason: not a tracker
-m.aboutyou.de CNAME .
+m.; allow aboutyou.de reason: not a tracker
 ; allow api.aboutyou.com reason: required
 m.aboutyou.nl CNAME .
 t.aboutyou.cz CNAME .
@@ -13349,7 +13349,7 @@ about.co.kr CNAME .
 aboutstatic.com CNAME .
 aboutyou.cloud CNAME .
 ; allow aboutyou.com reason: not a tracker
-aboutyou.de CNAME .
+; allow aboutyou.de reason: not a tracker
 abp-static.s3.ap-south-1.amazonaws.com CNAME .
 abplive.com.edgesuite.net CNAME .
 abrankings.com CNAME .

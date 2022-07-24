@@ -13457,7 +13457,7 @@
 0.0.0.0 aboutstatic.com
 0.0.0.0 aboutyou.cloud
 ! allow aboutyou.com reason: not a tracker
-0.0.0.0 aboutyou.de
+! allow aboutyou.de reason: not a tracker
 0.0.0.0 abp-static.s3.ap-south-1.amazonaws.com
 0.0.0.0 abplive.com.edgesuite.net
 0.0.0.0 abrankings.com

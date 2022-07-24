@@ -13350,7 +13350,7 @@ local-zone: "about.co.kr." always_null
 local-zone: "aboutstatic.com." always_null
 local-zone: "aboutyou.cloud." always_null
 # allow aboutyou.com reason: not a tracker
-local-zone: "aboutyou.de." always_null
+# allow aboutyou.de reason: not a tracker
 local-zone: "abp-static.s3.ap-south-1.amazonaws.com." always_null
 local-zone: "abplive.com.edgesuite.net." always_null
 local-zone: "abrankings.com." always_null

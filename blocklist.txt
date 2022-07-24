@@ -13774,7 +13774,7 @@ $removeparam=engagement_type
 ||aboutstatic.com^
 ||aboutyou.cloud^
 @@||aboutyou.com^  # not a tracker
-||aboutyou.de^
+@@||aboutyou.de^  # not a tracker
 ||abp-static.s3.ap-south-1.amazonaws.com^
 ||abplive.com.edgesuite.net^
 ||abrankings.com^

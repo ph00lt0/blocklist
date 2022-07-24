@@ -12860,7 +12860,7 @@ local-zone: "26045.edgekey.net." always_null
 local-zone: "266a96cdf18f311449fa309f2709f16e.edgekey.net." always_null
 local-zone: "266d89f269934797a6865d354f8b515a.edgekey.net." always_null
 local-zone: "26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com." always_null
-local-zone: "26vod-adaptive.akamaized.net." always_null
+# allow 26vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "27643.edgekey.net." always_null
 local-zone: "27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com." always_null
 local-zone: "27qfj.x.incapdns.net." always_null

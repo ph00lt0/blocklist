@@ -14031,7 +14031,7 @@ $removeparam=engagement_type
 ||apa.at^
 ||apkpure.net^
 ||appcues.net^
-||apple.com.akadns.net^
+@@||apple.com.akadns.net^  # not a tracker
 @@||apple.com^  # not a tnot a tracker
 ||aquaplatform.com^
 ||arcpublishing.com^

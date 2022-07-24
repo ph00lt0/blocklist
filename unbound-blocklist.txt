@@ -13607,7 +13607,7 @@ local-zone: "ap-southeast-1.amazonaws.com." always_null
 local-zone: "apa.at." always_null
 local-zone: "apkpure.net." always_null
 local-zone: "appcues.net." always_null
-local-zone: "apple.com.akadns.net." always_null
+# allow apple.com.akadns.net reason: not a tracker
 # allow apple.com reason: not a tnot a tracker
 local-zone: "aquaplatform.com." always_null
 local-zone: "arcpublishing.com." always_null

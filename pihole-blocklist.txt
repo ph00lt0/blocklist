@@ -14069,7 +14069,7 @@
 0.0.0.0 brid.tv
 ! allow brightcove.com reason: video platform
 ! allow brightcove.net reason: video platform
-0.0.0.0 brightcovecdn.com
+! allow brightcovecdn.com reason: video platform
 0.0.0.0 brightedge.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 brightspace.com

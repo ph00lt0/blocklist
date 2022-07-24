@@ -13962,7 +13962,7 @@ local-zone: "brick.global.ssl.fastly.net." always_null
 local-zone: "brid.tv." always_null
 # allow brightcove.com reason: video platform
 # allow brightcove.net reason: video platform
-local-zone: "brightcovecdn.com." always_null
+# allow brightcovecdn.com reason: video platform
 local-zone: "brightedge.com." always_null
 local-zone: "brightfunnel.com." always_null
 local-zone: "brightspace.com." always_null

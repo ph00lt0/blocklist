@@ -13961,7 +13961,7 @@ brick.global.ssl.fastly.net CNAME .
 brid.tv CNAME .
 ; allow brightcove.com reason: video platform
 ; allow brightcove.net reason: video platform
-brightcovecdn.com CNAME .
+; allow brightcovecdn.com reason: video platform
 brightedge.com CNAME .
 brightfunnel.com CNAME .
 brightspace.com CNAME .

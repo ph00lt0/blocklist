@@ -14387,7 +14387,7 @@ $removeparam=engagement_type
 ||brid.tv^
 @@||brightcove.com^  # video platform
 @@||brightcove.net^  # video platform
-||brightcovecdn.com^
+@@||brightcovecdn.com^  # video platform
 ||brightedge.com^
 ||brightfunnel.com^
 ||brightspace.com^

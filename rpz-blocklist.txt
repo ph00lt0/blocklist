@@ -14969,7 +14969,7 @@ aleno.me CNAME .
 aliexpress.ru CNAME .
 almamedia.net CNAME .
 ame.edgekey.net CNAME .
-americanairlines.ch CNAME .
+; allow americanairlines.ch reason: not a tracker
 ; allow americanexpress.com.edgekey.net reason: not a tracker
 anbieter-vergleich.ch CNAME .
 ancensored.com CNAME .

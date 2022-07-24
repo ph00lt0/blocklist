@@ -15077,7 +15077,7 @@
 0.0.0.0 aliexpress.ru
 0.0.0.0 almamedia.net
 0.0.0.0 ame.edgekey.net
-0.0.0.0 americanairlines.ch
+! allow americanairlines.ch reason: not a tracker
 ! allow americanexpress.com.edgekey.net reason: not a tracker
 0.0.0.0 anbieter-vergleich.ch
 0.0.0.0 ancensored.com

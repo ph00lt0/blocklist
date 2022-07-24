@@ -14970,7 +14970,7 @@ local-zone: "aleno.me." always_null
 local-zone: "aliexpress.ru." always_null
 local-zone: "almamedia.net." always_null
 local-zone: "ame.edgekey.net." always_null
-local-zone: "americanairlines.ch." always_null
+# allow americanairlines.ch reason: not a tracker
 # allow americanexpress.com.edgekey.net reason: not a tracker
 local-zone: "anbieter-vergleich.ch." always_null
 local-zone: "ancensored.com." always_null

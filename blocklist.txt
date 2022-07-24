@@ -15395,7 +15395,7 @@ $removeparam=engagement_type
 ||aliexpress.ru^
 ||almamedia.net^
 ||ame.edgekey.net^
-||americanairlines.ch^
+@@||americanairlines.ch^  # not a tracker
 @@||americanexpress.com.edgekey.net^  # not a tracker
 ||anbieter-vergleich.ch^
 ||ancensored.com^

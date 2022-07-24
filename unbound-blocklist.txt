@@ -15336,3 +15336,4 @@ local-zone: "viral-loops.com." always_null
 local-zone: "app.viral-loops.com." always_null
 local-zone: "ro.boldapps.net." always_null
 local-zone: "assets1.adroll.com." always_null
+local-zone: "getbread.com." always_null

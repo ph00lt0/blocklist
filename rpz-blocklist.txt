@@ -14103,7 +14103,7 @@ cloudiq.com CNAME .
 cloudlogobox.com CNAME .
 clrstm.com CNAME .
 cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com CNAME .
-cnbc.com.edgekey.net CNAME .
+; allow cnbc.com.edgekey.net reason: not a tracker
 ; allow cnbc.com reason: not a tracker
 cnbcfm.com.edgekey.net CNAME .
 cnevids.com CNAME .

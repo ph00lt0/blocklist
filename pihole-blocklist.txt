@@ -12609,3 +12609,4 @@
 0.0.0.0 cloudaudit.googleapis.com
 0.0.0.0 avazutracking.net
 0.0.0.0 adflake.com
+0.0.0.0 adotsolution.com

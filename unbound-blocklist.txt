@@ -12502,3 +12502,4 @@ local-zone: "betrad.com." always_null
 local-zone: "cloudaudit.googleapis.com." always_null
 local-zone: "avazutracking.net." always_null
 local-zone: "adflake.com." always_null
+local-zone: "adotsolution.com." always_null

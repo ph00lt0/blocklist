@@ -13571,7 +13571,7 @@ local-zone: "alicdn.com.edgekey.net." always_null
 local-zone: "alicloudapi.com." always_null
 local-zone: "aliveachiever.com." always_null
 local-zone: "all4phones.de." always_null
-local-zone: "allesregional.de." always_null
+# allow allesregional.de reason: not a tracker
 local-zone: "allgaeuer-zeitung.de." always_null
 local-zone: "allianz.io." always_null
 local-zone: "allmvs.com." always_null

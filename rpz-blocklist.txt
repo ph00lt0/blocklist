@@ -13570,7 +13570,7 @@ alexa.com CNAME .
 alicloudapi.com CNAME .
 aliveachiever.com CNAME .
 all4phones.de CNAME .
-allesregional.de CNAME .
+; allow allesregional.de reason: not a tracker
 allgaeuer-zeitung.de CNAME .
 allianz.io CNAME .
 allmvs.com CNAME .

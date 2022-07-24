@@ -13678,7 +13678,7 @@
 0.0.0.0 alicloudapi.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 all4phones.de
-0.0.0.0 allesregional.de
+! allow allesregional.de reason: not a tracker
 0.0.0.0 allgaeuer-zeitung.de
 0.0.0.0 allianz.io
 0.0.0.0 allmvs.com

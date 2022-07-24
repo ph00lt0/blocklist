@@ -14340,7 +14340,7 @@ $removeparam=engagement_type
 ||blackbaudhosting.com^
 ||blackcrow.ai^
 ||bleepstatic.com^
-@@||blogger.com^  # not a tracker
+@@@@||blogger.com^  # not a tracker  # not a tracker
 ||bloglines.com^
 ||bloomberga.com^
 ||blubrry.com^

@@ -13048,7 +13048,7 @@ local-zone: "480app.com." always_null
 local-zone: "4840988537.com." always_null
 local-zone: "48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com." always_null
 local-zone: "48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com." always_null
-local-zone: "49vod-adaptive.akamaized.net." always_null
+# allow 49vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net." always_null
 local-zone: "4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com." always_null
 local-zone: "4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com." always_null

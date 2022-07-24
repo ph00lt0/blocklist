@@ -13047,7 +13047,7 @@ jnn-pa.googleapis.com CNAME .
 4840988537.com CNAME .
 48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com CNAME .
 48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com CNAME .
-49vod-adaptive.akamaized.net CNAME .
+; allow 49vod-adaptive.akamaized.net reason: not a tracker
 4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net CNAME .
 4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com CNAME .
 4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com CNAME .

@@ -13155,7 +13155,7 @@
 0.0.0.0 4840988537.com
 0.0.0.0 48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com
 0.0.0.0 48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com
-0.0.0.0 49vod-adaptive.akamaized.net
+! allow 49vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net
 0.0.0.0 4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com
 0.0.0.0 4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com

@@ -12895,7 +12895,7 @@
 0.0.0.0 1und1.eu
 0.0.0.0 1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com
 0.0.0.0 1vag.com
-0.0.0.0 1vod-adaptive.akamaized.net
+! allow 1vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1w7w6z2gxfxq1imt5129fesh-wpengine.netdna-ssl.com
 0.0.0.0 1worldonline.com
 0.0.0.0 1worldsync.com

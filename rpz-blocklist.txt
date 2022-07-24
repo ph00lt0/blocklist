@@ -12696,7 +12696,7 @@ jnn-pa.googleapis.com CNAME .
 1800flowers.map.fastly.net CNAME .
 1800petmeds.com CNAME .
 1817141586.rsc.cdn77.org CNAME .
-181vod-adaptive.akamaized.net CNAME .
+18; allow 1vod-adaptive.akamaized.net reason: not a tracker
 1824867661.rsc.cdn77.org CNAME .
 ; allow 182vod-adaptive.akamaized.net reason: not a tracker
 ; allow 184vod-adaptive.akamaized.net reason: not a tracker
@@ -12787,7 +12787,7 @@ jnn-pa.googleapis.com CNAME .
 1und1.eu CNAME .
 1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com CNAME .
 1vag.com CNAME .
-1vod-adaptive.akamaized.net CNAME .
+; allow 1vod-adaptive.akamaized.net reason: not a tracker
 1w7w6z2gxfxq1imt5129fesh-wpengine.netdna-ssl.com CNAME .
 1worldonline.com CNAME .
 1worldsync.com CNAME .
@@ -12813,7 +12813,7 @@ jnn-pa.googleapis.com CNAME .
 20mn.fr CNAME .
 20mn.io CNAME .
 21pron.com CNAME .
-21vod-adaptive.akamaized.net CNAME .
+2; allow 1vod-adaptive.akamaized.net reason: not a tracker
 220images.net CNAME .
 2222.ro CNAME .
 23.92.69.100 CNAME .
@@ -12923,7 +12923,7 @@ jnn-pa.googleapis.com CNAME .
 30583c188ff305e13a00dcb558976baa.edgekey.net CNAME .
 31.204.145.96 CNAME .
 316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com CNAME .
-31vod-adaptive.akamaized.net CNAME .
+3; allow 1vod-adaptive.akamaized.net reason: not a tracker
 32.134.125.107 CNAME .
 329zviwchun16hc302ozrz41-wpengine.netdna-ssl.com CNAME .
 32c80191e78132fa00deeda9fd0c6fe8.edgekey.net CNAME .
@@ -13095,7 +13095,7 @@ jnn-pa.googleapis.com CNAME .
 5199d216aaea838c0cc6a11da1d68eed.edgekey.net CNAME .
 51degrees.com CNAME .
 51tracking.com CNAME .
-51vod-adaptive.akamaized.net CNAME .
+5; allow 1vod-adaptive.akamaized.net reason: not a tracker
 52gg.net CNAME .
 52vod-adaptive.akamaized.net CNAME .
 53.com.edgekey.net CNAME .
@@ -13153,7 +13153,7 @@ jnn-pa.googleapis.com CNAME .
 6wo3n64.x.incapdns.net CNAME .
 709f33446b5954ed2c59629d6b204a5b.edgekey.net CNAME .
 71i.de CNAME .
-71vod-adaptive.akamaized.net CNAME .
+7; allow 1vod-adaptive.akamaized.net reason: not a tracker
 72c3dd5b90274d568f6fd5db39a3995f.edgekey.net CNAME .
 72vod-adaptive.akamaized.net CNAME .
 739952.smushcdn.com CNAME .
@@ -13188,7 +13188,7 @@ jnn-pa.googleapis.com CNAME .
 805019.smushcdn.com CNAME .
 809aafde5c6fe99a53d65fcf63b4246c.edgekey.net CNAME .
 81dix1oo56s3h5et73pjxme1-wpengine.netdna-ssl.com CNAME .
-81vod-adaptive.akamaized.net CNAME .
+8; allow 1vod-adaptive.akamaized.net reason: not a tracker
 825872ac0c77af8785ed7aea4a8be803.edgekey.net CNAME .
 829395.smushcdn.com CNAME .
 82rc.net CNAME .

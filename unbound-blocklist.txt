@@ -12788,7 +12788,7 @@ local-zone: "1tuyvq3ivrlq1h927b2gtsql-wpengine.netdna-ssl.com." always_null
 local-zone: "1und1.eu." always_null
 local-zone: "1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com." always_null
 local-zone: "1vag.com." always_null
-local-zone: "1vod-adaptive.akamaized.net." always_null
+# allow 1vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "1w7w6z2gxfxq1imt5129fesh-wpengine.netdna-ssl.com." always_null
 local-zone: "1worldonline.com." always_null
 local-zone: "1worldsync.com." always_null

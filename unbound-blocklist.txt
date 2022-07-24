@@ -14340,7 +14340,7 @@ local-zone: "certona.net." always_null
 local-zone: "cewexseksi.com." always_null
 local-zone: "cfmediaview.com." always_null
 local-zone: "channelexco.com." always_null
-local-zone: "chasepaymentech.com." always_null
+# allow chasepaymentech.com reason: not a tracker required for payment
 local-zone: "chatango.com." always_null
 local-zone: "cheapflights.ca." always_null
 # allow cheaptickets.com reason: not a tracker

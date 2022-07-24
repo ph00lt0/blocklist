@@ -14765,7 +14765,7 @@ $removeparam=engagement_type
 ||cewexseksi.com^
 ||cfmediaview.com^
 ||channelexco.com^
-||chasepaymentech.com^
+@@||chasepaymentech.com^  # not a tracker required for payment
 ||chatango.com^
 ||cheapflights.ca^
 @@||cheaptickets.com^  # not a tracker

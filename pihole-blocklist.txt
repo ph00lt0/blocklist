@@ -14447,7 +14447,7 @@
 0.0.0.0 cewexseksi.com
 0.0.0.0 cfmediaview.com
 0.0.0.0 channelexco.com
-0.0.0.0 chasepaymentech.com
+! allow chasepaymentech.com reason: not a tracker required for payment
 0.0.0.0 chatango.com
 0.0.0.0 cheapflights.ca
 ! allow cheaptickets.com reason: not a tracker

@@ -14841,7 +14841,7 @@ $removeparam=engagement_type
 ||contentpass.net^
 ||contentspread.net^
 ||cookiebot.eu^
-||coolblue.eu^
+@@||coolblue.eu^  # not a tracker
 ||cormes.de^
 ||cosstores.com^
 ||cosystatic-prod.edgekey.net^

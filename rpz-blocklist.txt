@@ -14416,7 +14416,7 @@ content-garden.com CNAME .
 contentpass.net CNAME .
 contentspread.net CNAME .
 cookiebot.eu CNAME .
-coolblue.eu CNAME .
+; allow coolblue.eu reason: not a tracker
 cormes.de CNAME .
 cosstores.com CNAME .
 cosystatic-prod.edgekey.net CNAME .

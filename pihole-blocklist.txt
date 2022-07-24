@@ -14524,7 +14524,7 @@
 0.0.0.0 contentpass.net
 0.0.0.0 contentspread.net
 0.0.0.0 cookiebot.eu
-0.0.0.0 coolblue.eu
+! allow coolblue.eu reason: not a tracker
 0.0.0.0 cormes.de
 0.0.0.0 cosstores.com
 0.0.0.0 cosystatic-prod.edgekey.net

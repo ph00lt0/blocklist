@@ -14417,7 +14417,7 @@ local-zone: "content-garden.com." always_null
 local-zone: "contentpass.net." always_null
 local-zone: "contentspread.net." always_null
 local-zone: "cookiebot.eu." always_null
-local-zone: "coolblue.eu." always_null
+# allow coolblue.eu reason: not a tracker
 local-zone: "cormes.de." always_null
 local-zone: "cosstores.com." always_null
 local-zone: "cosystatic-prod.edgekey.net." always_null

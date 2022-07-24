@@ -15357,3 +15357,4 @@ local-zone: "relevant-digital.com." always_null
 local-zone: "eniro-cdn.relevant-digital.com." always_null
 local-zone: "statmap.eniro.com." always_null
 local-zone: "sentry.bazo.dk." always_null
+local-zone: "tags.adnuntius.com." always_null

@@ -15778,3 +15778,4 @@ $removeparam=engagement_type
 ||eniro-cdn.relevant-digital.com^
 ||statmap.eniro.com^
 ||sentry.bazo.dk^
+||tags.adnuntius.com^

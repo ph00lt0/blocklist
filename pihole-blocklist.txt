@@ -15464,3 +15464,4 @@
 0.0.0.0 eniro-cdn.relevant-digital.com
 0.0.0.0 statmap.eniro.com
 0.0.0.0 sentry.bazo.dk
+0.0.0.0 tags.adnuntius.com

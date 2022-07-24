@@ -12611,7 +12611,7 @@ local-zone: "1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com." always_null
 # allow 138vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "139.99.130.166." always_null
 local-zone: "139.99.55.81." always_null
-local-zone: "139vod-adaptive.akamaized.net." always_null
+# allow 139vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "13newsnow.com.edgekey.net." always_null
 local-zone: "13wmaz.com.edgekey.net." always_null
 local-zone: "1404752763.rsc.cdn77.org." always_null

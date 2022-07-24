@@ -13035,7 +13035,7 @@ $removeparam=engagement_type
 @@||138vod-adaptive.akamaized.net^  # not a tracker
 ||139.99.130.166^
 ||139.99.55.81^
-||139vod-adaptive.akamaized.net^
+@@||139vod-adaptive.akamaized.net^  # not a tracker
 ||13newsnow.com.edgekey.net^
 ||13wmaz.com.edgekey.net^
 ||1404752763.rsc.cdn77.org^

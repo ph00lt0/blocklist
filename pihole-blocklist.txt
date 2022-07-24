@@ -12718,7 +12718,7 @@
 ! allow 138vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 139.99.130.166
 0.0.0.0 139.99.55.81
-0.0.0.0 139vod-adaptive.akamaized.net
+! allow 139vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 13newsnow.com.edgekey.net
 0.0.0.0 13wmaz.com.edgekey.net
 0.0.0.0 1404752763.rsc.cdn77.org

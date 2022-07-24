@@ -12815,7 +12815,7 @@
 0.0.0.0 1855684048.rsc.cdn77.org
 0.0.0.0 1871350125.rsc.cdn77.org
 0.0.0.0 1874201666.rsc.cdn77.org
-0.0.0.0 187vod-adaptive.akamaized.net
+! allow 187vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1884403144.rsc.cdn77.org
 0.0.0.0 1884695191.rsc.cdn77.org
 0.0.0.0 1887dt387czs25eqxs3c1ipg-wpengine.netdna-ssl.com

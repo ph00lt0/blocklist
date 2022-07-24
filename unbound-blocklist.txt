@@ -14724,7 +14724,7 @@ local-zone: "agrvt.com." always_null
 local-zone: "aicdn.com." always_null
 local-zone: "aimbase.com." always_null
 local-zone: "aircanada.com.edgekey.net." always_null
-local-zone: "aircanada.com." always_null
+# allow aircanada.com reason: not a tracker
 local-zone: "alaskaair.net." always_null
 local-zone: "alcmpn.com." always_null
 local-zone: "algbid.app." always_null

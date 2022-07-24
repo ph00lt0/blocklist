@@ -14723,7 +14723,7 @@ agrvt.com CNAME .
 aicdn.com CNAME .
 aimbase.com CNAME .
 aircanada.com.edgekey.net CNAME .
-aircanada.com CNAME .
+; allow aircanada.com reason: not a tracker
 alaskaair.net CNAME .
 alcmpn.com CNAME .
 algbid.app CNAME .

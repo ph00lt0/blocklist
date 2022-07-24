@@ -14830,8 +14830,8 @@
 0.0.0.0 agrvt.com
 0.0.0.0 aicdn.com
 0.0.0.0 aimbase.com
-0.0.0.0 aircanada.com.edgekey.net
-0.0.0.0 aircanada.com
+! allow aircanada.com reason: not a tracker.edgekey.net
+! allow aircanada.com reason: not a tracker
 0.0.0.0 alaskaair.net
 0.0.0.0 alcmpn.com
 0.0.0.0 algbid.app

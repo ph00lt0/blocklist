@@ -12693,7 +12693,7 @@
 0.0.0.0 1287719000.rsc.cdn77.org
 0.0.0.0 128b9c11de6e7f015c4b9e1f9271a873.edgekey.net
 0.0.0.0 128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com
-0.0.0.0 128vod-adaptive.akamaized.net
+! allow 128vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 12f38d1ecd77b6d70911ce2c57937a6d.edgekey.net
 0.0.0.0 12flirt.com
 0.0.0.0 12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com

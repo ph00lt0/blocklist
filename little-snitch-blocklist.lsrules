@@ -12485,6 +12485,7 @@
         "sockjs-eu.pusher.com",
         "ws-eu.pusher.com",
         "badge.facebook.com",
-        "piwik.betaalvereniging.nl"
+        "piwik.betaalvereniging.nl",
+        "ec.sds.getpenta.com"
     ]
 }

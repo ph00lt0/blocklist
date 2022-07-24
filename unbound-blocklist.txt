@@ -12849,7 +12849,7 @@ local-zone: "24support.cc." always_null
 local-zone: "24ur.si." always_null
 local-zone: "24video.ws." always_null
 local-zone: "24vita.de." always_null
-local-zone: "24vod-adaptive.akamaized.net." always_null
+# allow 24vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "25210fdc35bf5ca52cf6a491570dade7.edgekey.net." always_null
 local-zone: "253772694779d1bab5ca0e9b203d4b44.edgekey.net." always_null
 local-zone: "253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com." always_null

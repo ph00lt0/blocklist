@@ -13734,7 +13734,7 @@ local-zone: "5vod-adaptive.akamaized.net." always_null
 local-zone: "60vod-adaptive.akamaized.net." always_null
 local-zone: "7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com." always_null
 local-zone: "78vod-adaptive.akamaized.net." always_null
-local-zone: "abcnews.com." always_null
+# allow abcnews.com reason: not a tracker
 local-zone: "acmi-website-media-prod.s3.amazonaws.com." always_null
 local-zone: "adaraanalytics.com." always_null
 local-zone: "adblade.com." always_null

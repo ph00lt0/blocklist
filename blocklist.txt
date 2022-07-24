@@ -14158,7 +14158,7 @@ $removeparam=engagement_type
 ||60vod-adaptive.akamaized.net^
 ||7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com^
 ||78vod-adaptive.akamaized.net^
-||abcnews.com^
+@@||abcnews.com^  # not a tracker
 ||acmi-website-media-prod.s3.amazonaws.com^
 ||adaraanalytics.com^
 ||adblade.com^

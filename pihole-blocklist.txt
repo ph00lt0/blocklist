@@ -13841,7 +13841,7 @@
 0.0.0.0 60vod-adaptive.akamaized.net
 0.0.0.0 7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com
 0.0.0.0 78vod-adaptive.akamaized.net
-0.0.0.0 abcnews.com
+! allow abcnews.com reason: not a tracker
 0.0.0.0 acmi-website-media-prod.s3.amazonaws.com
 0.0.0.0 adaraanalytics.com
 0.0.0.0 adblade.com

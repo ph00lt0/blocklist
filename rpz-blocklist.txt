@@ -13733,7 +13733,7 @@ bikenetzwerk.de CNAME .
 60vod-adaptive.akamaized.net CNAME .
 7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com CNAME .
 78vod-adaptive.akamaized.net CNAME .
-abcnews.com CNAME .
+; allow abcnews.com reason: not a tracker
 acmi-website-media-prod.s3.amazonaws.com CNAME .
 adaraanalytics.com CNAME .
 adblade.com CNAME .

@@ -13496,7 +13496,7 @@ adfox.ru CNAME .
 adglare.net CNAME .
 adgrx.com CNAME .
 adhaven.com CNAME .
-adidas.com.edgekey.net CNAME .
+; allow adidas.com.edgekey.net reason: not a tracker
 adingo.jp CNAME .
 adinplay.com CNAME .
 adinplay.workers.dev CNAME .

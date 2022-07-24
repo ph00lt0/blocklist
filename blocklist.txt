@@ -13921,7 +13921,7 @@ $removeparam=engagement_type
 ||adglare.net^
 ||adgrx.com^
 ||adhaven.com^
-||adidas.com.edgekey.net^
+@@||adidas.com.edgekey.net^  # not a tracker
 ||adingo.jp^
 ||adinplay.com^
 ||adinplay.workers.dev^

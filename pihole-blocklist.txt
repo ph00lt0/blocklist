@@ -13604,7 +13604,7 @@
 0.0.0.0 adglare.net
 0.0.0.0 adgrx.com
 0.0.0.0 adhaven.com
-0.0.0.0 adidas.com.edgekey.net
+! allow adidas.com.edgekey.net reason: not a tracker
 0.0.0.0 adingo.jp
 0.0.0.0 adinplay.com
 0.0.0.0 adinplay.workers.dev

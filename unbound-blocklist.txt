@@ -14947,7 +14947,7 @@ local-zone: "adextrem.com." always_null
 local-zone: "adidas.ch." always_null
 local-zone: "adikteev.com." always_null
 local-zone: "admatic.com.tr." always_null
-local-zone: "admin.ch." always_null
+# allow admin.ch reason: swiss gov not a tracker
 local-zone: "adnuntius.delivery." always_null
 local-zone: "adpaths.com." always_null
 local-zone: "adpmbtj.com." always_null

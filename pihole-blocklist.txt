@@ -15054,7 +15054,7 @@
 0.0.0.0 adidas.ch
 0.0.0.0 adikteev.com
 0.0.0.0 admatic.com.tr
-0.0.0.0 admin.ch
+! allow admin.ch reason: swiss gov not a tracker
 0.0.0.0 adnuntius.delivery
 0.0.0.0 adpaths.com
 0.0.0.0 adpmbtj.com

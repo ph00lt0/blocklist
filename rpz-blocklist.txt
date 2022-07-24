@@ -3677,7 +3677,7 @@ supchat.skat.supwizapp.com CNAME .
 supwizapp.com CNAME .
 play2.qbrick.com CNAME .
 qbrick.com CNAME .
-analytics.bit.admin.ch CNAME .
+analytics.bit.; allow admin.ch reason: swiss gov not a tracker
 webstats.ch.ch CNAME .
 analytics.init.de CNAME .
 5f3c395.ccm19.de CNAME .
@@ -12881,7 +12881,7 @@ jnn-pa.googleapis.com CNAME .
 2dcefc84-pilotghin-pilotfr-ee09-1269837360.us-east-1.elb.amazonaws.com CNAME .
 2e3g2xw7kai1i43hs1iwkzzc-wpengine.netdna-ssl.com CNAME .
 2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com CNAME .
-2edaadmin.ch CNAME .
+2eda; allow admin.ch reason: swiss gov not a tracker
 2f13yq12csmv2yraq925m73i-wpengine.netdna-ssl.com CNAME .
 2f2512441cf28f6eda14525678a5a896.edgekey.net CNAME .
 2f9e5fde9dd7208a433a14913437fd7b.edgekey.net CNAME .
@@ -14946,7 +14946,7 @@ adextrem.com CNAME .
 adidas.ch CNAME .
 adikteev.com CNAME .
 admatic.com.tr CNAME .
-admin.ch CNAME .
+; allow admin.ch reason: swiss gov not a tracker
 adnuntius.delivery CNAME .
 adpaths.com CNAME .
 adpmbtj.com CNAME .

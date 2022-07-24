@@ -15000,7 +15000,7 @@
 0.0.0.0 b92s.net
 0.0.0.0 bac.com
 0.0.0.0 bambora.com
-0.0.0.0 bamgrid.com
+! allow bamgrid.com reason: Required for disney plus
 0.0.0.0 bangbrosonline.com
 0.0.0.0 barbmerchant.com
 0.0.0.0 barnebys.com

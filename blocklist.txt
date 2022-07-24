@@ -15318,7 +15318,7 @@ $removeparam=engagement_type
 ||b92s.net^
 ||bac.com^
 ||bambora.com^
-||bamgrid.com^
+@@||bamgrid.com^  # Required for disney plus
 ||bangbrosonline.com^
 ||barbmerchant.com^
 ||barnebys.com^

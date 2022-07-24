@@ -14893,7 +14893,7 @@ local-zone: "b1js.com." always_null
 local-zone: "b92s.net." always_null
 local-zone: "bac.com." always_null
 local-zone: "bambora.com." always_null
-local-zone: "bamgrid.com." always_null
+# allow bamgrid.com reason: Required for disney plus
 local-zone: "bangbrosonline.com." always_null
 local-zone: "barbmerchant.com." always_null
 local-zone: "barnebys.com." always_null

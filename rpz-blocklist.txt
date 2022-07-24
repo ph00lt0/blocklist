@@ -8506,7 +8506,7 @@ d151l6v8er5bdm.cloudfront.net CNAME .
 *.dzcdn.net CNAME .
 cdn.unid.go.com CNAME .
 disney.my.sentry.io CNAME .
-global.edge.bamgrid.com CNAME .
+global.edge.; allow bamgrid.com reason: Required for disney plus
 *.disney.demdex.net CNAME .
 d3c7rimkq79yfu.cloudfront.net CNAME .
 d349g9zuie06uo.cloudfront.net CNAME .
@@ -14892,7 +14892,7 @@ b1js.com CNAME .
 b92s.net CNAME .
 bac.com CNAME .
 bambora.com CNAME .
-bamgrid.com CNAME .
+; allow bamgrid.com reason: Required for disney plus
 bangbrosonline.com CNAME .
 barbmerchant.com CNAME .
 barnebys.com CNAME .

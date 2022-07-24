@@ -14224,7 +14224,7 @@
 0.0.0.0 co.akadns.net
 0.0.0.0 codeblackbelt.com
 0.0.0.0 codeby.net
-0.0.0.0 codepen.io
+! allow codepen.io reason: not a trackernot a tracker
 0.0.0.0 codomaza.com
 0.0.0.0 cognitivlabs.com
 0.0.0.0 coincap.io

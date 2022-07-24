@@ -14116,7 +14116,7 @@ co-in.io CNAME .
 co.akadns.net CNAME .
 codeblackbelt.com CNAME .
 codeby.net CNAME .
-codepen.io CNAME .
+; allow codepen.io reason: not a trackernot a tracker
 codomaza.com CNAME .
 cognitivlabs.com CNAME .
 coincap.io CNAME .

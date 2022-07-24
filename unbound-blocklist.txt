@@ -14117,7 +14117,7 @@ local-zone: "co-in.io." always_null
 local-zone: "co.akadns.net." always_null
 local-zone: "codeblackbelt.com." always_null
 local-zone: "codeby.net." always_null
-local-zone: "codepen.io." always_null
+# allow codepen.io reason: not a trackernot a tracker
 local-zone: "codomaza.com." always_null
 local-zone: "cognitivlabs.com." always_null
 local-zone: "coincap.io." always_null

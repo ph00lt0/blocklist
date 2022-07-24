@@ -14542,7 +14542,7 @@ $removeparam=engagement_type
 ||co.akadns.net^
 ||codeblackbelt.com^
 ||codeby.net^
-||codepen.io^
+@@||codepen.io^  # not a trackernot a tracker
 ||codomaza.com^
 ||cognitivlabs.com^
 ||coincap.io^

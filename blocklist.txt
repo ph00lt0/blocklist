@@ -15769,3 +15769,4 @@ $removeparam=engagement_type
 ||www.kickmobiles.com^
 ||www.freedomphone.com^
 ||www.blackphone.info^
+||swebanalytics.krak.dk^

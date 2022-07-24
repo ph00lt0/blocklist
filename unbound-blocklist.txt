@@ -15348,3 +15348,4 @@ local-zone: "blackphone.co.uk." always_null
 local-zone: "www.kickmobiles.com." always_null
 local-zone: "www.freedomphone.com." always_null
 local-zone: "www.blackphone.info." always_null
+local-zone: "swebanalytics.krak.dk." always_null

@@ -15347,3 +15347,4 @@ blackphone.co.uk CNAME .
 www.kickmobiles.com CNAME .
 www.freedomphone.com CNAME .
 www.blackphone.info CNAME .
+swebanalytics.krak.dk CNAME .

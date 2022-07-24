@@ -15755,3 +15755,4 @@ $removeparam=engagement_type
 ||beacon.klm.com^
 ||viral-loops.com^
 ||app.viral-loops.com^
+||ro.boldapps.net^

@@ -13687,7 +13687,7 @@
 0.0.0.0 altmetric.com
 0.0.0.0 am-static.com
 0.0.0.0 amavalet.com
-0.0.0.0 amazon.co.uk
+! allow amazon.co.uk reason: not a tracker
 ! allow amazon.com reason: not a tracker
 0.0.0.0 amazon.de
 0.0.0.0 amp.akamaized.net

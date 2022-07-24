@@ -13580,7 +13580,7 @@ local-zone: "allthefallen.moe." always_null
 local-zone: "altmetric.com." always_null
 local-zone: "am-static.com." always_null
 local-zone: "amavalet.com." always_null
-local-zone: "amazon.co.uk." always_null
+# allow amazon.co.uk reason: not a tracker
 # allow amazon.com reason: not a tracker
 local-zone: "amazon.de." always_null
 local-zone: "amp.akamaized.net." always_null

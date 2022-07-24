@@ -13579,7 +13579,7 @@ allthefallen.moe CNAME .
 altmetric.com CNAME .
 am-static.com CNAME .
 amavalet.com CNAME .
-amazon.co.uk CNAME .
+; allow amazon.co.uk reason: not a tracker
 ; allow amazon.com reason: not a tracker
 amazon.de CNAME .
 amp.akamaized.net CNAME .

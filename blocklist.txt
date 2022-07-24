@@ -14004,7 +14004,7 @@ $removeparam=engagement_type
 ||altmetric.com^
 ||am-static.com^
 ||amavalet.com^
-||amazon.co.uk^
+@@||amazon.co.uk^  # not a tracker
 @@||amazon.com^  # not a tracker
 ||amazon.de^
 ||amp.akamaized.net^

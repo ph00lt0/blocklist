@@ -15346,3 +15346,4 @@ www.directpointe.com CNAME .
 blackphone.co.uk CNAME .
 www.kickmobiles.com CNAME .
 www.freedomphone.com CNAME .
+www.blackphone.info CNAME .

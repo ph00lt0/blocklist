@@ -12595,3 +12595,4 @@
 0.0.0.0 t.aboutyou.ee
 0.0.0.0 data.qvc.de
 0.0.0.0 assets.adobetm.com
+0.0.0.0 api.branch.io

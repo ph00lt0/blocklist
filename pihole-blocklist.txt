@@ -14203,7 +14203,7 @@
 0.0.0.0 cloud-iq.com.au
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com
-0.0.0.0 cloudflare.com
+! allow cloudflare.com reason: not a tracker
 0.0.0.0 cloudflare.net
 0.0.0.0 cloudimg.io
 0.0.0.0 cloudinary.net

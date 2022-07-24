@@ -2651,7 +2651,7 @@ izooto.com CNAME .
 cdn.izooto.com CNAME .
 embedmaker.com CNAME .
 widget.cloudpayments.ru CNAME .
-feedback.developers.cloudflare.com CNAME .
+feedback.developers.; allow cloudflare.com reason: not a tracker
 spn-v1.revampcdn.com CNAME .
 revampcdn.comrevampcdn.com CNAME .
 revampcdn.com CNAME .
@@ -2740,7 +2740,7 @@ site24x7rum.com CNAME .
 static.site24x7rum.com CNAME .
 acquia.com CNAME .
 builder.lift.acquia.com CNAME .
-csp-reporting.cloudflare.com CNAME .
+csp-reporting.; allow cloudflare.com reason: not a tracker
 dynatrace.com CNAME .
 js-cdn.dynatrace.com CNAME .
 jscrambler.com CNAME .
@@ -14095,7 +14095,7 @@ cloud-cdn.co CNAME .
 cloud-iq.com.au CNAME .
 cloud-iq.com CNAME .
 cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com CNAME .
-cloudflare.com CNAME .
+; allow cloudflare.com reason: not a tracker
 cloudflare.net CNAME .
 cloudimg.io CNAME .
 cloudinary.net CNAME .

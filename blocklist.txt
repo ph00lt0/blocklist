@@ -14521,7 +14521,7 @@ $removeparam=engagement_type
 ||cloud-iq.com.au^
 ||cloud-iq.com^
 ||cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com^
-||cloudflare.com^
+@@||cloudflare.com^  # not a tracker
 ||cloudflare.net^
 ||cloudimg.io^
 ||cloudinary.net^

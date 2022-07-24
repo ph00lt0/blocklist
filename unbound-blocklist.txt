@@ -14096,7 +14096,7 @@ local-zone: "cloud-cdn.co." always_null
 local-zone: "cloud-iq.com.au." always_null
 local-zone: "cloud-iq.com." always_null
 local-zone: "cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com." always_null
-local-zone: "cloudflare.com." always_null
+# allow cloudflare.com reason: not a tracker
 local-zone: "cloudflare.net." always_null
 local-zone: "cloudimg.io." always_null
 local-zone: "cloudinary.net." always_null

@@ -14256,7 +14256,7 @@ $removeparam=engagement_type
 ||arrivalist.com^
 ||art-gallery-of-sa-store.myshopify.com^
 ||assets-queue-it.net^
-||assetsadobe.com^
+@@||assetsadobe.com^  # not a tracker
 ||assetsadobe2.com^
 ||asteriresearch.com^
 ||astutebot.com^

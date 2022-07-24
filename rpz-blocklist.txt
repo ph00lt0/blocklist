@@ -13864,7 +13864,7 @@ awsglobalaccelerator.com CNAME .
 awwmemes.com CNAME .
 awxcdn.com CNAME .
 axiom.co CNAME .
-azure.net CNAME .
+; allow azure.net reason: not a tracker
 babyniceshark.com CNAME .
 bam-x.com CNAME .
 bambuser.com CNAME .

@@ -13865,7 +13865,7 @@ local-zone: "awsglobalaccelerator.com." always_null
 local-zone: "awwmemes.com." always_null
 local-zone: "awxcdn.com." always_null
 local-zone: "axiom.co." always_null
-local-zone: "azure.net." always_null
+# allow azure.net reason: not a tracker
 local-zone: "babyniceshark.com." always_null
 local-zone: "bam-x.com." always_null
 local-zone: "bambuser.com." always_null

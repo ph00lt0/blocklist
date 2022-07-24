@@ -13972,7 +13972,7 @@
 0.0.0.0 awwmemes.com
 0.0.0.0 awxcdn.com
 0.0.0.0 axiom.co
-0.0.0.0 azure.net
+! allow azure.net reason: not a tracker
 0.0.0.0 babyniceshark.com
 0.0.0.0 bam-x.com
 0.0.0.0 bambuser.com

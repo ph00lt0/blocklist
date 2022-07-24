@@ -14289,7 +14289,7 @@ $removeparam=engagement_type
 ||awwmemes.com^
 ||awxcdn.com^
 ||axiom.co^
-||azure.net^
+@@||azure.net^  # not a tracker
 ||babyniceshark.com^
 ||bam-x.com^
 ||bambuser.com^

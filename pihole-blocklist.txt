@@ -14803,7 +14803,7 @@
 0.0.0.0 addresseepaper.com
 0.0.0.0 adept-shop-ui.s3.us-east-2.amazonaws.com
 0.0.0.0 adgrid.io
-0.0.0.0 adidas.ca
+! allow adidas.ca reason: not a tracker
 0.0.0.0 adiktive.b-cdn.net
 0.0.0.0 admind-cloud-storage.firebaseapp.com
 0.0.0.0 adminnobar21.xyz

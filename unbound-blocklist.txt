@@ -14696,7 +14696,7 @@ local-zone: "aa2xx.xyz." always_null
 local-zone: "addresseepaper.com." always_null
 local-zone: "adept-shop-ui.s3.us-east-2.amazonaws.com." always_null
 local-zone: "adgrid.io." always_null
-local-zone: "adidas.ca." always_null
+# allow adidas.ca reason: not a tracker
 local-zone: "adiktive.b-cdn.net." always_null
 local-zone: "admind-cloud-storage.firebaseapp.com." always_null
 local-zone: "adminnobar21.xyz." always_null

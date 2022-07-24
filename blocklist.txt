@@ -15121,7 +15121,7 @@ $removeparam=engagement_type
 ||addresseepaper.com^
 ||adept-shop-ui.s3.us-east-2.amazonaws.com^
 ||adgrid.io^
-||adidas.ca^
+@@||adidas.ca^  # not a tracker
 ||adiktive.b-cdn.net^
 ||admind-cloud-storage.firebaseapp.com^
 ||adminnobar21.xyz^

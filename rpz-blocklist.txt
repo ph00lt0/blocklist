@@ -14695,7 +14695,7 @@ aa2xx.xyz CNAME .
 addresseepaper.com CNAME .
 adept-shop-ui.s3.us-east-2.amazonaws.com CNAME .
 adgrid.io CNAME .
-adidas.ca CNAME .
+; allow adidas.ca reason: not a tracker
 adiktive.b-cdn.net CNAME .
 admind-cloud-storage.firebaseapp.com CNAME .
 adminnobar21.xyz CNAME .

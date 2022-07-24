@@ -12499,3 +12499,4 @@ local-zone: "ec.sds.getpenta.com." always_null
 local-zone: "go.link." always_null
 local-zone: "trillbit.com." always_null
 local-zone: "betrad.com." always_null
+local-zone: "cloudaudit.googleapis.com." always_null

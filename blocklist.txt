@@ -12923,3 +12923,4 @@ $removeparam=adj_adgroup
 $removeparam=engagement_type
 ||trillbit.com^
 ||betrad.com^
+||cloudaudit.googleapis.com^

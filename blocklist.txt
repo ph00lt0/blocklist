@@ -15759,3 +15759,4 @@ $removeparam=engagement_type
 ||assets1.adroll.com^
 ||getbread.com^
 ||printful.com^
+||www.digitalworld.earth^

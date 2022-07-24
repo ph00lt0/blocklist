@@ -12910,3 +12910,4 @@ $removeparam=subid1
 ||api.branch.io^
 ||nmg-ads.com^
 ||ads.viralize.tv^
+||sockjs-eu.pusher.com^

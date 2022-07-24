@@ -14342,7 +14342,7 @@ local-zone: "cfmediaview.com." always_null
 local-zone: "channelexco.com." always_null
 # allow chasepaymentech.com reason: not a tracker required for payment
 local-zone: "chatango.com." always_null
-local-zone: "cheapflights.ca." always_null
+# allow cheapflights.ca reason: not a tracker
 # allow cheaptickets.com reason: not a tracker
 local-zone: "chicdn.net." always_null
 local-zone: "chioneflake.com." always_null

@@ -14341,7 +14341,7 @@ cfmediaview.com CNAME .
 channelexco.com CNAME .
 ; allow chasepaymentech.com reason: not a tracker required for payment
 chatango.com CNAME .
-cheapflights.ca CNAME .
+; allow cheapflights.ca reason: not a tracker
 ; allow cheaptickets.com reason: not a tracker
 chicdn.net CNAME .
 chioneflake.com CNAME .

@@ -12616,7 +12616,7 @@ local-zone: "13newsnow.com.edgekey.net." always_null
 local-zone: "13wmaz.com.edgekey.net." always_null
 local-zone: "1404752763.rsc.cdn77.org." always_null
 local-zone: "1409791524.rsc.cdn77.org." always_null
-local-zone: "140vod-adaptive.akamaized.net." always_null
+# allow 140vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "141.98.8.106." always_null
 local-zone: "1410770579.rsc.cdn77.org." always_null
 local-zone: "141tube.com." always_null

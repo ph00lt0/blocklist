@@ -12615,7 +12615,7 @@ jnn-pa.googleapis.com CNAME .
 13wmaz.com.edgekey.net CNAME .
 1404752763.rsc.cdn77.org CNAME .
 1409791524.rsc.cdn77.org CNAME .
-140vod-adaptive.akamaized.net CNAME .
+; allow 140vod-adaptive.akamaized.net reason: not a tracker
 141.98.8.106 CNAME .
 1410770579.rsc.cdn77.org CNAME .
 141tube.com CNAME .

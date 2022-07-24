@@ -13238,7 +13238,7 @@ $removeparam=engagement_type
 ||20mn.fr^
 ||20mn.io^
 ||21pron.com^
-||21vod-adaptive.akamaized.net^
+@@||21vod-adaptive.akamaized.net^  # not a tracker
 ||220images.net^
 ||2222.ro^
 ||23.92.69.100^

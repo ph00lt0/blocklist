@@ -12921,7 +12921,7 @@
 0.0.0.0 20mn.fr
 0.0.0.0 20mn.io
 0.0.0.0 21pron.com
-0.0.0.0 21vod-adaptive.akamaized.net
+! allow 21vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 220images.net
 0.0.0.0 2222.ro
 0.0.0.0 23.92.69.100

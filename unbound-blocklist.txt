@@ -12814,7 +12814,7 @@ local-zone: "20m.es." always_null
 local-zone: "20mn.fr." always_null
 local-zone: "20mn.io." always_null
 local-zone: "21pron.com." always_null
-local-zone: "21vod-adaptive.akamaized.net." always_null
+# allow 21vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "220images.net." always_null
 local-zone: "2222.ro." always_null
 local-zone: "23.92.69.100." always_null

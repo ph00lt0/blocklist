@@ -12806,7 +12806,7 @@
 0.0.0.0 1817141586.rsc.cdn77.org
 0.0.0.0 181vod-adaptive.akamaized.net
 0.0.0.0 1824867661.rsc.cdn77.org
-0.0.0.0 182vod-adaptive.akamaized.net
+! allow 182vod-adaptive.akamaized.net reason: not a tracker
 ! allow 184vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 185.250.149.60
 0.0.0.0 1851774772.rsc.cdn77.org

@@ -15148,7 +15148,7 @@
 0.0.0.0 123roulement.be
 0.0.0.0 123vod-adaptive.akamaized.net
 0.0.0.0 132vod-adaptive.akamaized.net
-0.0.0.0 145vod-adaptive.akamaized.net
+! allow 145vod-adaptive.akamaized.net reason: required
 0.0.0.0 1997media.com
 0.0.0.0 1lib.fr
 0.0.0.0 321lenet.com

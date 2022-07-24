@@ -15040,7 +15040,7 @@ chessabc.com CNAME .
 123roulement.be CNAME .
 123vod-adaptive.akamaized.net CNAME .
 132vod-adaptive.akamaized.net CNAME .
-145vod-adaptive.akamaized.net CNAME .
+; allow 145vod-adaptive.akamaized.net reason: required
 1997media.com CNAME .
 1lib.fr CNAME .
 321lenet.com CNAME .

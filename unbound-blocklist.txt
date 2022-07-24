@@ -15041,7 +15041,7 @@ local-zone: "1000otzyvov.com." always_null
 local-zone: "123roulement.be." always_null
 local-zone: "123vod-adaptive.akamaized.net." always_null
 local-zone: "132vod-adaptive.akamaized.net." always_null
-local-zone: "145vod-adaptive.akamaized.net." always_null
+# allow 145vod-adaptive.akamaized.net reason: required
 local-zone: "1997media.com." always_null
 local-zone: "1lib.fr." always_null
 local-zone: "321lenet.com." always_null

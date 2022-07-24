@@ -12823,7 +12823,7 @@
 0.0.0.0 1894269931.rsc.cdn77.org
 ! allow 189vod-adaptive.akamaized.net reason: ot a tracker
 0.0.0.0 18f-cloud.com
-0.0.0.0 18vod-adaptive.akamaized.net
+! allow 18vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1900780057.rsc.cdn77.org
 0.0.0.0 1907362850.rsc.cdn77.org
 0.0.0.0 1908021515.rsc.cdn77.org

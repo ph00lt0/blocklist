@@ -13644,7 +13644,7 @@ ausgezeichnet.org CNAME .
 authorized.by CNAME .
 ; allow autodesk.com.edgekey.net reason: not a tracker
 ; allow autodesk.com reason: not a tracker
-autoscout24.com CNAME .
+; allow autoscout24.com reason: not a tracker
 avada.io CNAME .
 avads.net CNAME .
 avantisvideo.com CNAME .

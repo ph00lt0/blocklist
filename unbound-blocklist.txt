@@ -13645,7 +13645,7 @@ local-zone: "ausgezeichnet.org." always_null
 local-zone: "authorized.by." always_null
 # allow autodesk.com.edgekey.net reason: not a tracker
 # allow autodesk.com reason: not a tracker
-local-zone: "autoscout24.com." always_null
+# allow autoscout24.com reason: not a tracker
 local-zone: "avada.io." always_null
 local-zone: "avads.net." always_null
 local-zone: "avantisvideo.com." always_null

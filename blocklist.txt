@@ -15010,7 +15010,7 @@ $removeparam=engagement_type
 ||diepresse.com.edgekey.net^
 ||digiaccess.org^
 @@||digicert.com^  # not just a tracker
-||digital.edgekey.net^
+@@||digital.edgekey.net^  # not a tracker
 ||digitalgov.gov^
 ||digitalpfizer.com^
 ||digitalriver.com^

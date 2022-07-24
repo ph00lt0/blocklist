@@ -14692,7 +14692,7 @@
 0.0.0.0 diepresse.com.edgekey.net
 0.0.0.0 digiaccess.org
 ! allow digicert.com reason: not just a tracker
-0.0.0.0 digital.edgekey.net
+! allow digital.edgekey.net reason: not a tracker
 0.0.0.0 digitalgov.gov
 0.0.0.0 digitalpfizer.com
 0.0.0.0 digitalriver.com

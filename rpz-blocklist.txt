@@ -14584,7 +14584,7 @@ dialogtech.com CNAME .
 diepresse.com.edgekey.net CNAME .
 digiaccess.org CNAME .
 ; allow digicert.com reason: not just a tracker
-digital.edgekey.net CNAME .
+; allow digital.edgekey.net reason: not a tracker
 digitalgov.gov CNAME .
 digitalpfizer.com CNAME .
 digitalriver.com CNAME .

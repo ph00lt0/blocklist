@@ -15326,7 +15326,7 @@
 0.0.0.0 awsnre.co.uk
 0.0.0.0 azrcdnprd01.azureedge.net
 0.0.0.0 bannerflow.com
-0.0.0.0 basecamp-pwa-prod.com
+! allow basecamp-pwa-prod.com reason: not a tracker
 0.0.0.0 bauersecure.com
 0.0.0.0 bedful.com
 0.0.0.0 betfred.com

@@ -15644,7 +15644,7 @@ $removeparam=engagement_type
 ||awsnre.co.uk^
 ||azrcdnprd01.azureedge.net^
 ||bannerflow.com^
-||basecamp-pwa-prod.com^
+@@||basecamp-pwa-prod.com^  # not a tracker
 ||bauersecure.com^
 ||bedful.com^
 ||betfred.com^

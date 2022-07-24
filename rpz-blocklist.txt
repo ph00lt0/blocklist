@@ -15218,7 +15218,7 @@ awembd.com CNAME .
 awsnre.co.uk CNAME .
 azrcdnprd01.azureedge.net CNAME .
 bannerflow.com CNAME .
-basecamp-pwa-prod.com CNAME .
+; allow basecamp-pwa-prod.com reason: not a tracker
 bauersecure.com CNAME .
 bedful.com CNAME .
 betfred.com CNAME .

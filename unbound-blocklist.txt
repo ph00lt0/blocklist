@@ -230,7 +230,7 @@ local-zone: "pndsn.com." always_null
 local-zone: "files.acrobat.com." always_null
 local-zone: "createpdf.acrobat.com." always_null
 local-zone: "genuine.adobe.com." always_null
-local-zone: "apple.co." always_null
+# allow apple.co reason: not a tracker
 local-zone: "aaplimg.com'." always_null
 local-zone: "weather-analytics-events.apple.com." always_null
 local-zone: "apple.comscoreresearch.com." always_null

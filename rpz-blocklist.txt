@@ -229,7 +229,7 @@ pndsn.com CNAME .
 files.acrobat.com CNAME .
 createpdf.acrobat.com CNAME .
 genuine.; allow adobe.com reason: not a tracker
-apple.co CNAME .
+; allow apple.co reason: not a tracker
 aaplimg.com' CNAME .
 weather-analytics-events.; allow apple.com reason: not a tnot a tracker
 apple.comscoreresearch.com CNAME .

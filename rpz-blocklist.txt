@@ -14854,7 +14854,7 @@ diffuse.nl CNAME .
 ; allow digitaaldagblad.nl reason: not just a tracker
 digitaloceanspaces.com CNAME .
 directferries.co.uk CNAME .
-discordapp.com CNAME .
+; allow discordapp.com reason: not a tracker
 dismantlepenantiterrorist.com CNAME .
 disney.com.edgekey.net CNAME .
 disney.com.edgesuite.net CNAME .

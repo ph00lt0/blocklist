@@ -15127,7 +15127,7 @@
 0.0.0.0 buttons.github.io
 0.0.0.0 buymeacoffee.com
 0.0.0.0 bx-cloud.com
-0.0.0.0 canalplus.com.edgekey.net
+! allow canalplus.com reason: not a tracker.edgekey.net
 0.0.0.0 cartsguru.io
 0.0.0.0 carusseldwt.com
 0.0.0.0 casualnetworksbv.com
@@ -15248,7 +15248,7 @@
 0.0.0.0 cambium-media.com
 0.0.0.0 camchickscaps.com
 0.0.0.0 canal-plus.com
-0.0.0.0 canalplus.com
+! allow canalplus.com reason: not a tracker
 0.0.0.0 canalplus.pro
 0.0.0.0 cannaclicks.com
 0.0.0.0 canstockphoto.com

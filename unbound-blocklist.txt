@@ -15141,7 +15141,7 @@ local-zone: "calameo.com." always_null
 local-zone: "cambium-media.com." always_null
 local-zone: "camchickscaps.com." always_null
 local-zone: "canal-plus.com." always_null
-local-zone: "canalplus.com." always_null
+# allow canalplus.com reason: not a tracker
 local-zone: "canalplus.pro." always_null
 local-zone: "cannaclicks.com." always_null
 local-zone: "canstockphoto.com." always_null

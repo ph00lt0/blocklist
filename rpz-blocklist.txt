@@ -15140,7 +15140,7 @@ calameo.com CNAME .
 cambium-media.com CNAME .
 camchickscaps.com CNAME .
 canal-plus.com CNAME .
-canalplus.com CNAME .
+; allow canalplus.com reason: not a tracker
 canalplus.pro CNAME .
 cannaclicks.com CNAME .
 canstockphoto.com CNAME .

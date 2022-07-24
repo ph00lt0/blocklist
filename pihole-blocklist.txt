@@ -12838,7 +12838,7 @@
 0.0.0.0 194.233.91.97
 0.0.0.0 1948868209.rsc.cdn77.org
 0.0.0.0 195.43.95.234
-0.0.0.0 195vod-adaptive.akamaized.net
+! allow 195vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1964890999.rsc.cdn77.org
 0.0.0.0 1978974432.rsc.cdn77.org
 0.0.0.0 197vod-adaptive.akamaized.net

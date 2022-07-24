@@ -13825,7 +13825,7 @@ $removeparam=engagement_type
 ||accurateshooter.net^
 ||accusationcollegeload.com^
 ||accutics.net^
-||accuweather.com^
+@@||accuweather.com^  # not a tracker
 ||acdcdn.com^
 ||acdcf56e4287e4f98a82d4027959c35b-665633184.us-east-1.elb.amazonaws.com^
 ||acdn-prod-bsdce-ngcx-va.azureedge.net^

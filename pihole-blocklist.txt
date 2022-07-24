@@ -13508,7 +13508,7 @@
 0.0.0.0 accurateshooter.net
 0.0.0.0 accusationcollegeload.com
 0.0.0.0 accutics.net
-0.0.0.0 accuweather.com
+! allow accuweather.com reason: not a tracker
 0.0.0.0 acdcdn.com
 0.0.0.0 acdcf56e4287e4f98a82d4027959c35b-665633184.us-east-1.elb.amazonaws.com
 0.0.0.0 acdn-prod-bsdce-ngcx-va.azureedge.net

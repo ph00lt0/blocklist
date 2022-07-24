@@ -13401,7 +13401,7 @@ local-zone: "accountinsight.cloud." always_null
 local-zone: "accurateshooter.net." always_null
 local-zone: "accusationcollegeload.com." always_null
 local-zone: "accutics.net." always_null
-local-zone: "accuweather.com." always_null
+# allow accuweather.com reason: not a tracker
 local-zone: "acdcdn.com." always_null
 local-zone: "acdcf56e4287e4f98a82d4027959c35b-665633184.us-east-1.elb.amazonaws.com." always_null
 local-zone: "acdn-prod-bsdce-ngcx-va.azureedge.net." always_null

@@ -13400,7 +13400,7 @@ accountinsight.cloud CNAME .
 accurateshooter.net CNAME .
 accusationcollegeload.com CNAME .
 accutics.net CNAME .
-accuweather.com CNAME .
+; allow accuweather.com reason: not a tracker
 acdcdn.com CNAME .
 acdcf56e4287e4f98a82d4027959c35b-665633184.us-east-1.elb.amazonaws.com CNAME .
 acdn-prod-bsdce-ngcx-va.azureedge.net CNAME .

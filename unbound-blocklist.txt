@@ -15354,3 +15354,4 @@ local-zone: "attributionservice.enirocdn.com." always_null
 local-zone: "julio-cdn.eniro.com." always_null
 local-zone: "stats.proff.no." always_null
 local-zone: "relevant-digital.com." always_null
+local-zone: "eniro-cdn.relevant-digital.com." always_null

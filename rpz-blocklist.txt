@@ -15353,3 +15353,4 @@ attributionservice.enirocdn.com CNAME .
 julio-cdn.eniro.com CNAME .
 stats.proff.no CNAME .
 relevant-digital.com CNAME .
+eniro-cdn.relevant-digital.com CNAME .

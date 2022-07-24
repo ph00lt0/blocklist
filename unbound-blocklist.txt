@@ -12555,7 +12555,7 @@ local-zone: "10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com." always_null
 local-zone: "110.93.143.144." always_null
 local-zone: "1111210941.rsc.cdn77.org." always_null
 local-zone: "1118660075.rsc.cdn77.org." always_null
-local-zone: "112vod-adaptive.akamaized.net." always_null
+# allow 112vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "113vod-adaptive.akamaized.net." always_null
 local-zone: "1140978756.rsc.cdn77.org." always_null
 local-zone: "1179033234.rsc.cdn77.org." always_null

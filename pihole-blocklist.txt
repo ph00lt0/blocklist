@@ -12662,7 +12662,7 @@
 0.0.0.0 110.93.143.144
 0.0.0.0 1111210941.rsc.cdn77.org
 0.0.0.0 1118660075.rsc.cdn77.org
-0.0.0.0 112vod-adaptive.akamaized.net
+! allow 112vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 113vod-adaptive.akamaized.net
 0.0.0.0 1140978756.rsc.cdn77.org
 0.0.0.0 1179033234.rsc.cdn77.org

@@ -13673,7 +13673,7 @@
 0.0.0.0 aldi-prod.s3.eu-central-1.amazonaws.com
 0.0.0.0 alexa.com
 ! allow algolia.net reason: search cdn
-0.0.0.0 algolianet.com
+! allow algolianet.com reason: search cdn
 0.0.0.0 alicdn.com.edgekey.net
 0.0.0.0 alicloudapi.com
 0.0.0.0 aliveachiever.com

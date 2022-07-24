@@ -13565,7 +13565,7 @@ alas4kanmfa6a4mubte.com CNAME .
 aldi-prod.s3.eu-central-1.amazonaws.com CNAME .
 alexa.com CNAME .
 ; allow algolia.net reason: search cdn
-algolianet.com CNAME .
+; allow algolianet.com reason: search cdn
 alicdn.com.edgekey.net CNAME .
 alicloudapi.com CNAME .
 aliveachiever.com CNAME .

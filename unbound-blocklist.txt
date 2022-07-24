@@ -12620,7 +12620,7 @@ local-zone: "1409791524.rsc.cdn77.org." always_null
 local-zone: "141.98.8.106." always_null
 local-zone: "1410770579.rsc.cdn77.org." always_null
 local-zone: "141tube.com." always_null
-local-zone: "141vod-adaptive.akamaized.net." always_null
+# allow 141vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "1429384804.rsc.cdn77.org." always_null
 local-zone: "144.126.138.140." always_null
 local-zone: "144.91.116.224." always_null

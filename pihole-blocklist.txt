@@ -12727,7 +12727,7 @@
 0.0.0.0 141.98.8.106
 0.0.0.0 1410770579.rsc.cdn77.org
 0.0.0.0 141tube.com
-0.0.0.0 141vod-adaptive.akamaized.net
+! allow 141vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1429384804.rsc.cdn77.org
 0.0.0.0 144.126.138.140
 0.0.0.0 144.91.116.224

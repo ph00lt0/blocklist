@@ -12570,7 +12570,7 @@ fd.nl##.fd-message
 ||crownpeak.com^
 ||datagrail.io^
 ||datastreams.io^
-||github-wiki-see.page^
+@@||github-wiki-see.page^  # Github Wiki Index Service not a github clone
 ||eurojackpot.org^
 ||i3f2.net^
 ||infura.io^

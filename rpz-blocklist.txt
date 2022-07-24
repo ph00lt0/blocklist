@@ -12173,7 +12173,7 @@ coredump.cx CNAME .
 crownpeak.com CNAME .
 datagrail.io CNAME .
 datastreams.io CNAME .
-github-wiki-see.page CNAME .
+; allow github-wiki-see.page reason: Github Wiki Index Service not a github clone
 eurojackpot.org CNAME .
 i3f2.net CNAME .
 infura.io CNAME .

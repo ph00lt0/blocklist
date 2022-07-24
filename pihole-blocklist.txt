@@ -12280,7 +12280,7 @@
 0.0.0.0 crownpeak.com
 0.0.0.0 datagrail.io
 0.0.0.0 datastreams.io
-0.0.0.0 github-wiki-see.page
+! allow github-wiki-see.page reason: Github Wiki Index Service not a github clone
 0.0.0.0 eurojackpot.org
 0.0.0.0 i3f2.net
 0.0.0.0 infura.io

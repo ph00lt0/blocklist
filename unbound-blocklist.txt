@@ -12174,7 +12174,7 @@ local-zone: "coredump.cx." always_null
 local-zone: "crownpeak.com." always_null
 local-zone: "datagrail.io." always_null
 local-zone: "datastreams.io." always_null
-local-zone: "github-wiki-see.page." always_null
+# allow github-wiki-see.page reason: Github Wiki Index Service not a github clone
 local-zone: "eurojackpot.org." always_null
 local-zone: "i3f2.net." always_null
 local-zone: "infura.io." always_null

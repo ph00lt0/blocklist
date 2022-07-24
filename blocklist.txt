@@ -14733,7 +14733,7 @@ $removeparam=engagement_type
 ||calmcactus.com^
 ||camschat.net^
 ||canada.ca^
-||canada.com^
+@@||canada.com^  # not a tracker
 ||canadaammo.com^
 ||canadapost-postescanada.ca^
 ||canadianevergreen.com^

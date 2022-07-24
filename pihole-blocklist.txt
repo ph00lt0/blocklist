@@ -14415,7 +14415,7 @@
 0.0.0.0 calmcactus.com
 0.0.0.0 camschat.net
 0.0.0.0 canada.ca
-0.0.0.0 canada.com
+! allow canada.com reason: not a tracker
 0.0.0.0 canadaammo.com
 0.0.0.0 canadapost-postescanada.ca
 0.0.0.0 canadianevergreen.com

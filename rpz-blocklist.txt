@@ -14307,7 +14307,7 @@ callofduty.com.edgekey.net CNAME .
 calmcactus.com CNAME .
 camschat.net CNAME .
 canada.ca CNAME .
-canada.com CNAME .
+; allow canada.com reason: not a tracker
 canadaammo.com CNAME .
 canadapost-postescanada.ca CNAME .
 canadianevergreen.com CNAME .

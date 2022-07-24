@@ -14307,7 +14307,7 @@ local-zone: "calgary.ca." always_null
 local-zone: "callofduty.com.edgekey.net." always_null
 local-zone: "calmcactus.com." always_null
 local-zone: "camschat.net." always_null
-local-zone: "canada.ca." always_null
+# allow canada.ca reason: not a tracker
 # allow canada.com reason: not a tracker
 local-zone: "canadaammo.com." always_null
 local-zone: "canadapost-postescanada.ca." always_null

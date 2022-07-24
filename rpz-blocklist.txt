@@ -14306,10 +14306,10 @@ calgary.ca CNAME .
 callofduty.com.edgekey.net CNAME .
 calmcactus.com CNAME .
 camschat.net CNAME .
-canada.ca CNAME .
+; allow canada.ca reason: not a tracker
 ; allow canada.com reason: not a tracker
 canadaammo.com CNAME .
-canadapost-postescanada.ca CNAME .
+canadapost-postes; allow canada.ca reason: not a tracker
 canadianevergreen.com CNAME .
 canadiantire.ca CNAME .
 canon.com.edgekey.net CNAME .

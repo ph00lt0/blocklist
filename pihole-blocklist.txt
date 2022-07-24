@@ -14414,7 +14414,7 @@
 0.0.0.0 callofduty.com.edgekey.net
 0.0.0.0 calmcactus.com
 0.0.0.0 camschat.net
-0.0.0.0 canada.ca
+! allow canada.ca reason: not a tracker
 ! allow canada.com reason: not a tracker
 0.0.0.0 canadaammo.com
 0.0.0.0 canadapost-postescanada.ca

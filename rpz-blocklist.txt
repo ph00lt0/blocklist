@@ -12666,7 +12666,7 @@ jnn-pa.googleapis.com CNAME .
 168logger.com CNAME .
 ; allow 168vod-adaptive.akamaized.net reason: not a tracker
 16iwyl195vvfgoqu3136p2ly-wpengine.netdna-ssl.com CNAME .
-16vod-adaptive.akamaized.net CNAME .
+; allow 16vod-adaptive.akamaized.net reason: not a tracker
 1704183692.rsc.cdn77.org CNAME .
 1704743398.rsc.cdn77.org CNAME .
 ; allow 170vod-adaptive.akamaized.net reason: not a tracker

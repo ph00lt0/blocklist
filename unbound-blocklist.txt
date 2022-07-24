@@ -12642,7 +12642,7 @@ local-zone: "1585089255.rsc.cdn77.org." always_null
 local-zone: "1587701074.rsc.cdn77.org." always_null
 local-zone: "159.223.34.146." always_null
 local-zone: "159.89.202.208." always_null
-local-zone: "159vod-adaptive.akamaized.net." always_null
+# allow 159vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "15e8517430680b40650248672997e736.edgekey.net." always_null
 local-zone: "15vod-adaptive.akamaized.net." always_null
 local-zone: "1601957106.rsc.cdn77.org." always_null

@@ -14368,7 +14368,7 @@ $removeparam=engagement_type
 ||bootstrapcdn.com^
 ||borirait.site^
 @@||bosch.com^  # not a tracker
-||bose.com^
+@@||bose.com^  # not a tracker
 ||bot-dot-envolvetech-001.appspot.com^
 ||bouncex.net^
 ||boxcast.com^

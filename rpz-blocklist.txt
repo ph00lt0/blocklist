@@ -13942,7 +13942,7 @@ boomtrain.com CNAME .
 bootstrapcdn.com CNAME .
 borirait.site CNAME .
 ; allow bosch.com reason: not a tracker
-bose.com CNAME .
+; allow bose.com reason: not a tracker
 bot-dot-envolvetech-001.appspot.com CNAME .
 bouncex.net CNAME .
 boxcast.com CNAME .

@@ -14050,7 +14050,7 @@
 0.0.0.0 bootstrapcdn.com
 0.0.0.0 borirait.site
 ! allow bosch.com reason: not a tracker
-0.0.0.0 bose.com
+! allow bose.com reason: not a tracker
 0.0.0.0 bot-dot-envolvetech-001.appspot.com
 0.0.0.0 bouncex.net
 0.0.0.0 boxcast.com

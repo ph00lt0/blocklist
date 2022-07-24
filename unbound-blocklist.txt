@@ -13943,7 +13943,7 @@ local-zone: "boomtrain.com." always_null
 local-zone: "bootstrapcdn.com." always_null
 local-zone: "borirait.site." always_null
 # allow bosch.com reason: not a tracker
-local-zone: "bose.com." always_null
+# allow bose.com reason: not a tracker
 local-zone: "bot-dot-envolvetech-001.appspot.com." always_null
 local-zone: "bouncex.net." always_null
 local-zone: "boxcast.com." always_null

@@ -15147,7 +15147,7 @@ $removeparam=engagement_type
 ||agrvt.com^
 ||aicdn.com^
 ||aimbase.com^
-||aircanada.com.edgekey.net^
+@@||aircanada.com.edgekey.net^  # not a tracker
 @@||aircanada.com^  # not a tracker
 ||alaskaair.net^
 ||alcmpn.com^

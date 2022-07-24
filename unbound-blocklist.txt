@@ -15339,3 +15339,4 @@ local-zone: "assets1.adroll.com." always_null
 local-zone: "getbread.com." always_null
 local-zone: "printful.com." always_null
 local-zone: "www.digitalworld.earth." always_null
+local-zone: "www.clearfoundation.com." always_null

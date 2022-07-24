@@ -15760,3 +15760,4 @@ $removeparam=engagement_type
 ||getbread.com^
 ||printful.com^
 ||www.digitalworld.earth^
+||www.clearfoundation.com^

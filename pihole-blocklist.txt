@@ -15446,3 +15446,4 @@
 0.0.0.0 getbread.com
 0.0.0.0 printful.com
 0.0.0.0 www.digitalworld.earth
+0.0.0.0 www.clearfoundation.com

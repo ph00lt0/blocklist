@@ -13402,11 +13402,11 @@
 0.0.0.0 a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com
 0.0.0.0 a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com
 0.0.0.0 a9yw.net
-0.0.0.0 aa.com.edgekey.net
-0.0.0.0 aa.com
+! allow aa.com reason: not a tracker.edgekey.net
+! allow aa.com reason: not a tracker
 0.0.0.0 aaa.com.edgekey.net
 0.0.0.0 aaa200.rocks
-0.0.0.0 aaacompany.net
+! allow aa.com reason: not a trackerpany.net
 0.0.0.0 aaamidatlantic.com.edgekey.net
 0.0.0.0 aaas.org
 0.0.0.0 aaasouth.com

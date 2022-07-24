@@ -9508,7 +9508,7 @@ sec-cdn.static.xiaomi.net CNAME .
 91zgm.com CNAME .
 930.dragonparking.com CNAME .
 937744.com CNAME .
-9377aa.com CNAME .
+9377; allow aa.com reason: not a tracker
 9377bh.com CNAME .
 9377co.com CNAME .
 9377hi.com CNAME .
@@ -13295,7 +13295,7 @@ a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com CNAME .
 a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com CNAME .
 a9yw.net CNAME .
 aa.com.edgekey.net CNAME .
-aa.com CNAME .
+; allow aa.com reason: not a tracker
 aaa.com.edgekey.net CNAME .
 aaa200.rocks CNAME .
 aaacompany.net CNAME .

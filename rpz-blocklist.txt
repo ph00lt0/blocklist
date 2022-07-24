@@ -12541,7 +12541,7 @@ jnn-pa.googleapis.com CNAME .
 1075202878.rsc.cdn77.org CNAME .
 1075914428.rsc.cdn77.org CNAME .
 1077603801.rsc.cdn77.org CNAME .
-107vod-adaptive.akamaized.net CNAME .
+; allow 107vod-adaptive.akamaized.net reason: not a tracker
 1081894472.rsc.cdn77.org CNAME .
 1083328646.rsc.cdn77.org CNAME .
 1085610534.rsc.cdn77.org CNAME .

@@ -12966,7 +12966,7 @@ $removeparam=engagement_type
 ||1075202878.rsc.cdn77.org^
 ||1075914428.rsc.cdn77.org^
 ||1077603801.rsc.cdn77.org^
-||107vod-adaptive.akamaized.net^
+@@||107vod-adaptive.akamaized.net^  # not a tracker
 ||1081894472.rsc.cdn77.org^
 ||1083328646.rsc.cdn77.org^
 ||1085610534.rsc.cdn77.org^

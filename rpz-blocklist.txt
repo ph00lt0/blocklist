@@ -12237,7 +12237,7 @@ securemetrics.experience.apple CNAME .
 appfire.app CNAME .
 sp.mail.notion.so CNAME .
 viapplogs.net CNAME .
-exacttarget.com.edgekey.net CNAME .
+
 metric.gstatic.com CNAME .
 document360.io CNAME .
 cdn.document360.io CNAME .
@@ -12506,20 +12506,20 @@ generalmobi.com CNAME .
 evrythng.com CNAME .
 jnn-pa.googleapis.com CNAME .
 0.0.0.1 CNAME .
-000e9e326af6128d2c15fdcc27ef31b2.edgekey.net CNAME .
+
 0033000.com CNAME .
-02acc3b435a5a834190ba2a5ddfc7390.edgekey.net CNAME .
+
 0318media.nl CNAME .
-0360766d4afc1b8101396d28eb2c22f4.edgekey.net CNAME .
+
 083950260099-attachments.s3.us-east-2.amazonaws.com CNAME .
-08bca1adcd937acee5c029a1cec0e4b9.edgekey.net CNAME .
+
 0914.global.ssl.fastly.net CNAME .
 0972cce1bc.com CNAME .
-0a443934038b4d79c2d638bb99788c36.edgekey.net CNAME .
-0be0274d4618ced9a7633f5cf8d206eb.edgekey.net CNAME .
+
+
 0cf.io CNAME .
-0d2aa2d5db16270946d663b492be0815.edgekey.net CNAME .
-0e51bbd9b74489047dd0f9f2c93e044f.edgekey.net CNAME .
+
+
 0i0i0i0.com CNAME .
 0ps.us CNAME .
 10.240.0.27 CNAME .
@@ -12546,7 +12546,7 @@ jnn-pa.googleapis.com CNAME .
 1083328646.rsc.cdn77.org CNAME .
 1085610534.rsc.cdn77.org CNAME .
 1087935514.rsc.cdn77.org CNAME .
-1087c8879deade6339e4462ced839163.edgekey.net CNAME .
+
 1088045785.rsc.cdn77.org CNAME .
 1094578850.rsc.cdn77.org CNAME .
 10upmanaged.com CNAME .
@@ -12562,7 +12562,7 @@ jnn-pa.googleapis.com CNAME .
 1184954541.rsc.cdn77.org CNAME .
 11880.com CNAME .
 1197833925.rsc.cdn77.org CNAME .
-11alive.com.edgekey.net CNAME .
+
 11pt5z46nuudt9qxx2knwgff-wpengine.netdna-ssl.com CNAME .
 11tcma2eyqgmz6zyt1x6na8n-wpengine.netdna-ssl.com CNAME .
 120askimages.com CNAME .
@@ -12583,15 +12583,15 @@ jnn-pa.googleapis.com CNAME .
 127.net CNAME .
 
 1287719000.rsc.cdn77.org CNAME .
-128b9c11de6e7f015c4b9e1f9271a873.edgekey.net CNAME .
+
 128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com CNAME .
 
-12f38d1ecd77b6d70911ce2c57937a6d.edgekey.net CNAME .
+
 12flirt.com CNAME .
 12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com CNAME .
 12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com CNAME .
-; allow 12news.com.edgekey.net reason: not a traccker
-; allow 12newsnow.com.edgekey.net reason: not a tracker
+
+
 
 13.cl CNAME .
 1320288971.rsc.cdn77.org CNAME .
@@ -12611,8 +12611,8 @@ jnn-pa.googleapis.com CNAME .
 139.99.130.166 CNAME .
 139.99.55.81 CNAME .
 
-13newsnow.com.edgekey.net CNAME .
-13wmaz.com.edgekey.net CNAME .
+
+
 1404752763.rsc.cdn77.org CNAME .
 1409791524.rsc.cdn77.org CNAME .
 
@@ -12642,7 +12642,7 @@ jnn-pa.googleapis.com CNAME .
 159.223.34.146 CNAME .
 159.89.202.208 CNAME .
 
-15e8517430680b40650248672997e736.edgekey.net CNAME .
+
 
 1601957106.rsc.cdn77.org CNAME .
 
@@ -12687,7 +12687,7 @@ jnn-pa.googleapis.com CNAME .
 
 1792469337.rsc.cdn77.org CNAME .
 1794199541.rsc.cdn77.org CNAME .
-179bce0add44add0b26bf3512ab168c7.edgekey.net CNAME .
+
 
 17app.co CNAME .
 17iy0p49ts4537ovpn2g0scc-wpengine.netdna-ssl.com CNAME .
@@ -12745,17 +12745,17 @@ jnn-pa.googleapis.com CNAME .
 1ashemaletube.com CNAME .
 1bis.com CNAME .
 1boyz.com CNAME .
-1cd27652de543473a8fd0ad1facd177b.edgekey.net CNAME .
+
 1cros.net CNAME .
-1d0e146b37dcc0ad50a0952b83b713a3.edgekey.net CNAME .
-1d94e60a06614d89290f626c12e5dc90.edgekey.net CNAME .
-1dbbcb6c4ae29c71c11dd288c87d9037.edgekey.net CNAME .
+
+
+
 1dmp.io CNAME .
 1drlj71280m23ofmk22n7tbp-wpengine.netdna-ssl.com CNAME .
 1dx1ha2o9633412a0g3rw4xf-wpengine.netdna-ssl.com CNAME .
 1e100cdn.net CNAME .
-1efe7a744a9a35e584173300da7e189f.edgekey.net CNAME .
-1f59d6a31a60cc76f8cf2d302070886a.edgekey.net CNAME .
+
+
 1f6yb11rynqr131j50326o9c-wpengine.netdna-ssl.com CNAME .
 1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com CNAME .
 1gr.cz CNAME .
@@ -12806,7 +12806,7 @@ jnn-pa.googleapis.com CNAME .
 209.58.183.133 CNAME .
 209.95.51.190 CNAME .
 209.97.174.112 CNAME .
-20ce3870d3b2d094e28117ad9fd5a76e.edgekey.net CNAME .
+
 20fd661yccar325znz1e9bdl-wpengine.netdna-ssl.com CNAME .
 20lisa1ukask2skqr737a50o-wpengine.netdna-ssl.com CNAME .
 20m.es CNAME .
@@ -12818,7 +12818,7 @@ jnn-pa.googleapis.com CNAME .
 2222.ro CNAME .
 23.92.69.100 CNAME .
 234doo.com CNAME .
-23aaae73f8c1ea29857e029f952ce37f.edgekey.net CNAME .
+
 23rdbromleyscouts.org CNAME .
 
 23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com CNAME .
@@ -12849,18 +12849,18 @@ jnn-pa.googleapis.com CNAME .
 24video.ws CNAME .
 24vita.de CNAME .
 
-25210fdc35bf5ca52cf6a491570dade7.edgekey.net CNAME .
-253772694779d1bab5ca0e9b203d4b44.edgekey.net CNAME .
+
+
 253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com CNAME .
 25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com CNAME .
 25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com CNAME .
 
-26045.edgekey.net CNAME .
-266a96cdf18f311449fa309f2709f16e.edgekey.net CNAME .
-266d89f269934797a6865d354f8b515a.edgekey.net CNAME .
+
+
+
 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com CNAME .
 
-27643.edgekey.net CNAME .
+
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com CNAME .
 27qfj.x.incapdns.net CNAME .
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com CNAME .
@@ -12883,8 +12883,8 @@ jnn-pa.googleapis.com CNAME .
 2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com CNAME .
 2eda; allow admin.ch reason: swiss gov not a tracker
 2f13yq12csmv2yraq925m73i-wpengine.netdna-ssl.com CNAME .
-2f2512441cf28f6eda14525678a5a896.edgekey.net CNAME .
-2f9e5fde9dd7208a433a14913437fd7b.edgekey.net CNAME .
+
+
 2fdltvvn8wp2rn64ywgk8o17-wpengine.netdna-ssl.com CNAME .
 2fgtku2x783y1ywhc01gmd67-wpengine.netdna-ssl.com CNAME .
 2gic212zgjlm2bcqpo21qnpk-wpengine.netdna-ssl.com CNAME .
@@ -12920,16 +12920,16 @@ jnn-pa.googleapis.com CNAME .
 300624.com CNAME .
 300daytravel.com CNAME .
 304a46cc9a.com CNAME .
-30583c188ff305e13a00dcb558976baa.edgekey.net CNAME .
+
 31.204.145.96 CNAME .
 316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com CNAME .
 
 32.134.125.107 CNAME .
 329zviwchun16hc302ozrz41-wpengine.netdna-ssl.com CNAME .
-32c80191e78132fa00deeda9fd0c6fe8.edgekey.net CNAME .
+
 33.49.50.126 CNAME .
 
-346fe4d0bf7a01e9822d6d43b1b1b9c2.edgekey.net CNAME .
+
 34a1ju2gva4u3yrm051vedfb-wpengine.netdna-ssl.com CNAME .
 34pavouhj7.com CNAME .
 
@@ -12943,7 +12943,7 @@ jnn-pa.googleapis.com CNAME .
 365lpodds.com CNAME .
 366.fr CNAME .
 366676952.r.cdn77.net CNAME .
-36de823d83a303480b9a070fc5edd2d4.edgekey.net CNAME .
+
 36wi5hm.x.incapdns.net CNAME .
 380kyt9r67o2n57k2r9rrr8x-wpengine.netdna-ssl.com CNAME .
 390109.smushcdn.com CNAME .
@@ -12954,21 +12954,21 @@ jnn-pa.googleapis.com CNAME .
 3asyr.com CNAME .
 3bmeteo.com CNAME .
 3c9sm1yzqy518hwx3f6o4c64-wpengine.netdna-ssl.com CNAME .
-3ce9978b3da19ffd8bb6454821713d6e.edgekey.net CNAME .
+
 3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com CNAME .
 3cx.com CNAME .
 3cx.us CNAME .
-3da675411e6ca3321a189752d5185664.edgekey.net CNAME .
+
 3djuegos.com CNAME .
 3dlancer.net CNAME .
-3ds.com.edgekey.net CNAME .
+
 3ds.com CNAME .
 3dstats.com CNAME .
 3dtuman.com CNAME .
 3dtxp19t9eb3fmumt31248pw-wpengine.netdna-ssl.com CNAME .
-3e6b77606a560728bfcd9f3e4a1628b1.edgekey.net CNAME .
+
 3exvfbh.x.incapdns.net CNAME .
-3f1619f3719358a3b2517e196909950b.edgekey.net CNAME .
+
 3fa44b2156.com CNAME .
 3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com CNAME .
 3gateway.net CNAME .
@@ -12979,7 +12979,7 @@ jnn-pa.googleapis.com CNAME .
 3jzi0q2zthm01oqpx2h96lz1-wpengine.netdna-ssl.com CNAME .
 3kqo2r1c2kzy3oyiqn2r1gjb-wpengine.netdna-ssl.com CNAME .
 3lib.net CNAME .
-3m.com.edgekey.net CNAME .
+
 3m.com CNAME .
 3m7ajlsrzj92lfd1hu16hu7vc-wpengine.netdna-ssl.com CNAME .
 3naked.com CNAME .
@@ -13034,8 +13034,8 @@ jnn-pa.googleapis.com CNAME .
 434h9n4821mi1mka7c2h72ig-wpengine.netdna-ssl.com CNAME .
 43d897265kne3ed0qv2ecjw2-wpengine.netdna-ssl.com CNAME .
 43nnuk1fz4a72826eo14gwfb-wpengine.netdna-ssl.com CNAME .
-443ce9526ed91a599e17799f01fccc11.edgekey.net CNAME .
-44aa8e6e8cc8c6ce16cc5e722f98f43f.edgekey.net CNAME .
+
+
 44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com CNAME .
 
 45.89.67.165 CNAME .
@@ -13048,12 +13048,12 @@ jnn-pa.googleapis.com CNAME .
 48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com CNAME .
 48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com CNAME .
 
-4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net CNAME .
+
 4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com CNAME .
 4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com CNAME .
-4b82d88326eb116b8b4ce45cb8f4f460.edgekey.net CNAME .
-4ba5016496cb7b08ec431e5ef4b16b48.edgekey.net CNAME .
-4c2bccf248df6519cc4baeb4a7733a0e.edgekey.net CNAME .
+
+
+
 4c6dss208iw81m6h4re71q8o-wpengine.netdna-ssl.com CNAME .
 4cdn.org CNAME .
 4chan.org CNAME .
@@ -13063,7 +13063,7 @@ jnn-pa.googleapis.com CNAME .
 4dp.top CNAME .
 4dsbanner.net CNAME .
 4dsply.com CNAME .
-4f132fdc668407e26c3a76b04bbba8fe.edgekey.net CNAME .
+
 4fpnph3j8bls2w9fqo3k4xd5-wpengine.netdna-ssl.com CNAME .
 4fsl4b2ha2841x0gnm21onox40a-wpengine.netdna-ssl.com CNAME .
 4hfchest5kdnfnut.com CNAME .
@@ -13085,27 +13085,27 @@ jnn-pa.googleapis.com CNAME .
 4xc4ep.net CNAME .
 4zobnzc.x.incapdns.net CNAME .
 506.io CNAME .
-50992.edgekey.net CNAME .
-509a04ac4921769c797e12d6da7c5efc.edgekey.net CNAME .
+
+
 51.222.2.14 CNAME .
 51.254.84.63 CNAME .
 51.79.224.26 CNAME .
 512-015.net CNAME .
 517459.smushcdn.com CNAME .
-5199d216aaea838c0cc6a11da1d68eed.edgekey.net CNAME .
+
 51degrees.com CNAME .
 51tracking.com CNAME .
 
 52gg.net CNAME .
 
-53.com.edgekey.net CNAME .
+
 535485.smushcdn.com CNAME .
 5378.org CNAME .
 53kf.com CNAME .
 54proxy.com CNAME .
 
-55301.edgekey.net CNAME .
-554893c054c372474bb828e4ff954a52.edgekey.net CNAME .
+
+
 55f9d6e755.com CNAME .
 55labs.com CNAME .
 57jobs.de CNAME .
@@ -13113,8 +13113,8 @@ jnn-pa.googleapis.com CNAME .
 58dp.net CNAME .
 5cacard.ru CNAME .
 5d3x.net CNAME .
-5e6389e6afe18408b93cd87d50f8997c.edgekey.net CNAME .
-5ff3d86e3095f2478cb56def25623225.edgekey.net CNAME .
+
+
 5gcdn.net CNAME .
 5h76kih.x.incapdns.net CNAME .
 5hd.co CNAME .
@@ -13129,47 +13129,47 @@ jnn-pa.googleapis.com CNAME .
 5toft8or7on8tt.com CNAME .
 5vju.net CNAME .
 62ac0a5777dcfd000863a23b--pat-splash.netlify.app CNAME .
-62cecd36653ca25b06a8c2a58a23d2e0.edgekey.net CNAME .
+
 
 65twenty.com CNAME .
 
 66.165.229.106 CNAME .
 67.222.134.173 CNAME .
-673daad6ff152405792e3ae951dc93c8.edgekey.net CNAME .
-67d6e36b5851d5201324a1dc480e0104.edgekey.net CNAME .
-67e27d2bf5a429bde7067760d50048ad.edgekey.net CNAME .
-67e586de39d1ad8cb64e0683fce6e2a3.edgekey.net CNAME .
+
+
+
+
 69v.club CNAME .
 
-6d284ebb5b57430072a757679e4c27f2.edgekey.net CNAME .
-6dbf0e29d15abb511441d743a2bcf4ba.edgekey.net CNAME .
+
+
 6ez2eqk.x.incapdns.net CNAME .
-6f82b886f3e1c65595836dad98b1d506.edgekey.net CNAME .
+
 6q33.net CNAME .
 6q76vgh.x.incapdns.net CNAME .
 6sxm959.x.incapdns.net CNAME .
 6tm.eu CNAME .
 
 6wo3n64.x.incapdns.net CNAME .
-709f33446b5954ed2c59629d6b204a5b.edgekey.net CNAME .
+
 71i.de CNAME .
 
-72c3dd5b90274d568f6fd5db39a3995f.edgekey.net CNAME .
+
 
 739952.smushcdn.com CNAME .
 
-749353db9e9bbb160fc741fdd57cf492.edgekey.net CNAME .
-75000f2ce1e329aa4bc18982b7419f15.edgekey.net CNAME .
-7570f09e92ccec9039328fda556f725e.edgekey.net CNAME .
-7860e9127f045347651b3a1a177054ab.edgekey.net CNAME .
+
+
+
+
 79ic8e.net CNAME .
 
-7b822044e4a6c34ec24ce352a8c79526.edgekey.net CNAME .
-7c4bb480e4bc502ae30d53f42f89d39c.edgekey.net CNAME .
+
+
 7ca78m3csgbrid7ge.com CNAME .
-7cbbecb9024549c0489527e014b97fda.edgekey.net CNAME .
+
 7eb5opl.x.incapdns.net CNAME .
-7ff4bcb905061f75ef330b01000999fe.edgekey.net CNAME .
+
 7gra.us CNAME .
 7graus.com CNAME .
 7kkxxzr.x.incapdns.net CNAME .
@@ -13186,30 +13186,30 @@ jnn-pa.googleapis.com CNAME .
 7xjpy4d.x.incapdns.net CNAME .
 80.77.89.177 CNAME .
 805019.smushcdn.com CNAME .
-809aafde5c6fe99a53d65fcf63b4246c.edgekey.net CNAME .
+
 81dix1oo56s3h5et73pjxme1-wpengine.netdna-ssl.com CNAME .
 
-825872ac0c77af8785ed7aea4a8be803.edgekey.net CNAME .
+
 829395.smushcdn.com CNAME .
 82rc.net CNAME .
 
 832212.smushcdn.com CNAME .
-838c8097a14df4395efd566848938186.edgekey.net CNAME .
-83a5d747b838237ca4ebac8b3c71c266.edgekey.net CNAME .
+
+
 
 840027.smushcdn.com CNAME .
 
 87.98.156.59 CNAME .
 
-883e1d1d28ebacb6ce2ab2e1a84d2e89.edgekey.net CNAME .
+
 888asian.com CNAME .
 888sport.se CNAME .
-8944f7da7c71eeb32ebebf80faee1333.edgekey.net CNAME .
-8ce956cd75661e565cb148f7fcc35a02.edgekey.net CNAME .
-8e03ebeafcc5826e37c8b7cf2da3ba43.edgekey.net CNAME .
-8e074e89ef0bdfd5815bb8fbc0a847fd.edgekey.net CNAME .
-8e5462497b771c75663716f2db9d50ea.edgekey.net CNAME .
-8f55085b59185596e8a6b7ff16174199.edgekey.net CNAME .
+
+
+
+
+
+
 8f6i.net CNAME .
 8h01.com CNAME .
 8ne3.net CNAME .
@@ -13220,9 +13220,9 @@ jnn-pa.googleapis.com CNAME .
 91-img.com CNAME .
 9111s.ru CNAME .
 9165619.com CNAME .
-927bc08bc3bfb643b5d311bdb98b9c5f.edgekey.net CNAME .
+
 93.115.31.155 CNAME .
-93c2daf357a41c65c46fd5c3450630c3.edgekey.net CNAME .
+
 
 940388.smushcdn.com CNAME .
 
@@ -13230,19 +13230,19 @@ jnn-pa.googleapis.com CNAME .
 951199.smushcdn.com CNAME .
 952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com CNAME .
 
-961e1acc4cbca20174d2d36ecfd5ad4b.edgekey.net CNAME .
 
 
-9949ae8c2454a4e57dc2593d041e3569.edgekey.net CNAME .
+
+
 9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net CNAME .
-9b47f0dc56015d8035ef75137f664eab.edgekey.net CNAME .
-9ba479d5dbef96e8b2585ceef3418b8c.edgekey.net CNAME .
+
+
 9c9media.com.edgesuite.net CNAME .
-9c9media.edgekey.net CNAME .
+
 9cache.com CNAME .
 9cdn.net CNAME .
 9eriz.x.incapdns.net CNAME .
-9news.com.edgekey.net CNAME .
+
 9now.com.au CNAME .
 9pctbx.net CNAME .
 9poxrsw.x.incapdns.net CNAME .
@@ -13261,14 +13261,14 @@ a-mx.com CNAME .
 a07ab9344ba664701878fcbc535973ec-983232249.eu-central-1.elb.amazonaws.com CNAME .
 a0e50ef73607b11e79ba902bfc1c6ba7-25949453.ap-southeast-2.elb.amazonaws.com CNAME .
 a0s.net CNAME .
-a12d67c680e009de02b35d6bc2e108aa.edgekey.net CNAME .
+
 a16z.com CNAME .
 a1d3fec-a.akamaihd.net CNAME .
 a1tb.com CNAME .
 a2.shared.global.fastly.net CNAME .
-a24365-c042.edgekey.net CNAME .
-a24365-c048.edgekey.net CNAME .
-a24bb26255e9dd168fc0f5a04211ae46.edgekey.net CNAME .
+
+
+
 a24help.ru CNAME .
 a2d.tv CNAME .
 a2hosted.com CNAME .
@@ -13294,12 +13294,12 @@ a8live-uswest.s3-us-west-1.amazonaws.com CNAME .
 a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com CNAME .
 a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com CNAME .
 a9yw.net CNAME .
-; allow aa.com.edgekey.net reason: not a tracker
+
 ; allow aa.com reason: not a tracker
-a; allow aa.com.edgekey.net reason: not a tracker
+
 aaa200.rocks CNAME .
 aaacompany.net CNAME .
-aaamidatlantic.com.edgekey.net CNAME .
+
 aaas.org CNAME .
 aaasouth.com CNAME .
 aaawebstore.com CNAME .
@@ -13326,7 +13326,7 @@ abbottnutrition.com CNAME .
 abc-cdn.net.au CNAME .
 abc-host.net.au CNAME .
 abc.net.au CNAME .
-abc10.com.edgekey.net CNAME .
+
 abc17news.b-cdn.net CNAME .
 abcimg.es CNAME .
 abcmedia.no CNAME .
@@ -13334,7 +13334,7 @@ abcnewsplayer-a.akamaihd.net CNAME .
 abcotvssb.net CNAME .
 abczdrowie.pl CNAME .
 abebookscdn.com CNAME .
-abercrombie.com.edgekey.net CNAME .
+
 abgemea.com CNAME .
 abjectionremarksdisarm.com CNAME .
 ablestar.app CNAME .
@@ -13357,7 +13357,7 @@ abrfestival.com CNAME .
 abrye.com CNAME .
 abschied.b-cdn.net CNAME .
 abservinean.com CNAME .
-absolutdrinks-images.edgekey.net CNAME .
+
 absoluteroute.com CNAME .
 absorbingband.com CNAME .
 abstractapi.com CNAME .
@@ -13409,7 +13409,7 @@ acdn12354732.com CNAME .
 acdn5165543.com CNAME .
 acdn923132475.com CNAME .
 acecounter.com CNAME .
-acer.com.edgekey.net CNAME .
+
 acewebcontent.azureedge.net CNAME .
 acewebstatic.azureedge.net CNAME .
 acexedge.com CNAME .
@@ -13455,7 +13455,7 @@ activemetering.com CNAME .
 activengage.com CNAME .
 activeskill.com CNAME .
 activetrail.com CNAME .
-activision.com.edgekey.net CNAME .
+
 activityboard.jp CNAME .
 actlz.github.io CNAME .
 actonservice.com CNAME .
@@ -13496,7 +13496,7 @@ adfox.ru CNAME .
 adglare.net CNAME .
 adgrx.com CNAME .
 adhaven.com CNAME .
-; allow adidas.com.edgekey.net reason: not a tracker
+
 adingo.jp CNAME .
 adinplay.com CNAME .
 adinplay.workers.dev CNAME .
@@ -13508,11 +13508,11 @@ adlooxtracking.com CNAME .
 adme-net.com CNAME .
 admeira.ch CNAME .
 adnet.de CNAME .
-; allow adobe.com.edgekey.net reason: not a tracker
+
 adobe.com.edgesuite.net CNAME .
 ; allow adobe.com reason: not a tracker
 adobedc.net CNAME .
-adobedtm.com.edgekey.net CNAME .
+
 adobetarget.com CNAME .
 adpartner.pro CNAME .
 adpone.com CNAME .
@@ -13550,13 +13550,13 @@ ahacdn.me CNAME .
 aidata.io CNAME .
 aimtell.com CNAME .
 air.tv CNAME .
-; allow airbnb.com.edgekey.net reason: not a tracker
+
 airpr.com CNAME .
 aisvip-a.akamaihd.net CNAME .
 aixport.de CNAME .
 ajax.googleapis.com CNAME .
 akacdn.co CNAME .
-akamai-111035.edgekey.net CNAME .
+
 ; allow akamai.com reason: not a tracker
 akmxts.com CNAME .
 alamy.com CNAME .
@@ -13566,7 +13566,7 @@ aldi-prod.s3.eu-central-1.amazonaws.com CNAME .
 alexa.com CNAME .
 ; allow algolia.net reason: search cdn
 ; allow algolianet.com reason: search cdn
-alicdn.com.edgekey.net CNAME .
+
 alicloudapi.com CNAME .
 aliveachiever.com CNAME .
 all4phones.de CNAME .
@@ -13588,13 +13588,13 @@ ams-pageview-public.s3.amazonaws.com CNAME .
 ams.to CNAME .
 amung.us CNAME .
 amunx.de CNAME .
-analog.com.edgekey.net CNAME .
+
 analyser.de CNAME .
 analysis.fi CNAME .
-analytics.edgekey.net CNAME .
+
 analyze.ly CNAME .
 ancensoredcloud2.xyz CNAME .
-ancestrycdn.com.edgekey.net CNAME .
+
 andromedae-b.com CNAME .
 aninter.net CNAME .
 anivi.xyz CNAME .
@@ -13624,17 +13624,17 @@ assertcom.de CNAME .
 assertive.workers.dev CNAME .
 assoc-amazon.de CNAME .
 at-o.net CNAME .
-at-v1.edgekey.net CNAME .
-at.edgekey.net CNAME .
+
+
 atf-tagmanager.de CNAME .
-ati.com.edgekey.net CNAME .
+
 atomik.vip CNAME .
 atsptp.com CNAME .
 att.com CNAME .
 attentivemobile.com CNAME .
 attn.tv CNAME .
 attraqt.com CNAME .
-au.edgekey.net CNAME .
+
 ; allow audi.com reason: not a tracker
 audiencemanager.de CNAME .
 audionow.de CNAME .
@@ -13642,13 +13642,13 @@ audrte.com CNAME .
 ausgezeichnet.org CNAME .
 ; allow auth0.com reason: not a tracker
 authorized.by CNAME .
-; allow autodesk.com.edgekey.net reason: not a tracker
+
 ; allow autodesk.com reason: not a tracker
 ; allow autoscout24.com reason: not a tracker
 avada.io CNAME .
 avads.net CNAME .
 avantisvideo.com CNAME .
-avast.com.edgekey.net CNAME .
+
 avct.cloud CNAME .
 avenga.cloud CNAME .
 avplayer.com CNAME .
@@ -13674,7 +13674,7 @@ bahn-x.de CNAME .
 ; allow bahn.de reason: not a tracker, german railway
 baidu.com CNAME .
 baimgfroggd.site CNAME .
-banggood.com.edgekey.net CNAME .
+
 bannerflow.net CNAME .
 bannersnack.com CNAME .
 bantgoau.com CNAME .
@@ -13777,7 +13777,7 @@ airport.ai CNAME .
 airrobe.com CNAME .
 airtrfx.com CNAME .
 ak21727.com CNAME .
-akamai-130534.edgekey.net CNAME .
+
 ako.ai CNAME .
 alb-logs-http-rum-pub-s0-1171131448.us-east-1.elb.amazonaws.com CNAME .
 aliyuncs.com CNAME .
@@ -13910,7 +13910,7 @@ bitchute.com CNAME .
 bitcoinbazis.hu CNAME .
 bitgravity.com CNAME .
 bizibly.com CNAME .
-bkrtx.com.edgekey.net CNAME .
+
 blackbaudhosting.com CNAME .
 blackcrow.ai CNAME .
 bleepstatic.com CNAME .
@@ -13920,7 +13920,7 @@ bloomberga.com CNAME .
 blubrry.com CNAME .
 blueberry.map.fastly.net CNAME .
 bluecore.com CNAME .
-bluekai.com.edgekey.net CNAME .
+
 bluemix.net CNAME .
 blueplanetcertificate.com CNAME .
 bnbstatic.com CNAME .
@@ -13930,7 +13930,7 @@ bngpt.com CNAME .
 bnmla.com CNAME .
 bnt-cdn.b-cdn.net CNAME .
 bodiscdn.com CNAME .
-bodybuilding.com.edgekey.net CNAME .
+
 bold360.com CNAME .
 boltdns.net CNAME .
 bongacams.com CNAME .
@@ -13981,7 +13981,7 @@ bunnings.com.au CNAME .
 bustle.com CNAME .
 buzzfeed.com CNAME .
 buzzsprout.com CNAME .
-bybit.com.edgekey.net CNAME .
+
 bycsi.com CNAME .
 bydata.com CNAME .
 byteoversea.com.edgesuite.net CNAME .
@@ -13989,11 +13989,11 @@ bytepluscdn.com CNAME .
 c-ovn.jp CNAME .
 c212.net CNAME .
 c3tag.com CNAME .
-c6f6073da6ac6a8af34cee7812840042.edgekey.net CNAME .
+
 ca-central-1.amazonaws.com CNAME .
 ca-richimage.com CNAME .
-ca-v1.edgekey.net CNAME .
-ca.edgekey.net CNAME .
+
+
 cabnnr.com CNAME .
 calculatorsonline.com.au CNAME .
 calendly.com CNAME .
@@ -14011,14 +14011,14 @@ capterra-static.com CNAME .
 capterra.com CNAME .
 captifymedia.com CNAME .
 carambo.la CNAME .
-care.com.edgekey.net CNAME .
+
 carecart.io CNAME .
 cartkit-public.s3.amazonaws.com CNAME .
 cartkitcdn.com CNAME .
 cartstack.com CNAME .
 cashewsforlife208.com CNAME .
 cassiecloud.com CNAME .
-cathaypacific.com.edgekey.net CNAME .
+
 catsnbootsncats2020.com CNAME .
 cauly.co.kr CNAME .
 ; allow cbc.ca reason: not a tracker
@@ -14064,7 +14064,7 @@ chegg.com CNAME .
 chemistwarehouse.com.au CNAME .
 cheqzone.com CNAME .
 childlikeform.com CNAME .
-china.com.edgekey.net CNAME .
+
 chipmanksmochus.com CNAME .
 chl7rysobc3ol6xla.com CNAME .
 chmod777.ltd CNAME .
@@ -14103,9 +14103,9 @@ cloudiq.com CNAME .
 cloudlogobox.com CNAME .
 clrstm.com CNAME .
 cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com CNAME .
-; allow cnbc.com.edgekey.net reason: not a tracker
+
 ; allow cnbc.com reason: not a tracker
-; allow cnbcfm.com.edgekey.net reason: not a tracker
+
 cnevids.com CNAME .
 cnews.cz CNAME .
 cnnx.link CNAME .
@@ -14126,10 +14126,10 @@ coinside.ru CNAME .
 coinzilla.com CNAME .
 coles.com.au CNAME .
 colossusssp.com CNAME .
-com-c.edgekey.net CNAME .
-com-v1.edgekey.net CNAME .
-com-v2.edgekey.net CNAME .
-com-v3.edgekey.net CNAME .
+
+
+
+
 comicbook.map.fastly.net CNAME .
 comm100.io CNAME .
 comodo.com CNAME .
@@ -14164,7 +14164,7 @@ cordial.io CNAME .
 corel.com CNAME .
 costco-adbutler.com CNAME .
 costco-static.com CNAME .
-costco.com.edgekey.net CNAME .
+
 covet.pics CNAME .
 cpmstar.com CNAME .
 cpx.to CNAME .
@@ -14303,7 +14303,7 @@ ca.akadns.net CNAME .
 ca.edgesuite.net CNAME .
 cachefly.net CNAME .
 calgary.ca CNAME .
-; allow callofduty.com.edgekey.net reason: not a tracker
+
 calmcactus.com CNAME .
 camschat.net CNAME .
 ; allow canada.ca reason: not a tracker
@@ -14312,7 +14312,7 @@ canadaammo.com CNAME .
 canadapost-postes; allow canada.ca reason: not a tracker
 canadianevergreen.com CNAME .
 canadiantire.ca CNAME .
-; allow canon.com.edgekey.net reason: not a tracker
+
 capig-appli-1cb8h7tn7ozej-1283435480.us-east-1.elb.amazonaws.com CNAME .
 capitalone.com CNAME .
 capitalonegslbex.com CNAME .
@@ -14322,7 +14322,7 @@ carid.com CNAME .
 carrierzone.com CNAME .
 cartfulsolutions.com CNAME .
 ccg-analytics-server-prod.herokuapp.com CNAME .
-ccmbg.com.edgekey.net CNAME .
+
 cconnect.s3.amazonaws.com CNAME .
 ccscserver.com CNAME .
 cdic.ca CNAME .
@@ -14332,7 +14332,7 @@ cdnaz.win CNAME .
 cdnbay.com CNAME .
 cdnpark.com CNAME .
 cdnvideo.ru CNAME .
-cdw.com.edgekey.net CNAME .
+
 celtraidentity.com CNAME .
 central1.cc CNAME .
 certona.net CNAME .
@@ -14367,10 +14367,10 @@ clipxn.com CNAME .
 clknrtrg.pro CNAME .
 cloudflareresearch.com CNAME .
 cntxtfl.com CNAME .
-co.edgekey.net CNAME .
-coboc.com.edgekey.net CNAME .
-com-dsd.edgekey.net CNAME .
-comv2.edgekey.net CNAME .
+
+
+
+
 conectys.com CNAME .
 connextra.com CNAME .
 contactatonce.com CNAME .
@@ -14389,7 +14389,7 @@ coremedia.cloud CNAME .
 corus.ca CNAME .
 corusappservices.com CNAME .
 corusdigitaldev.com CNAME .
-costcobusinessdelivery.com.edgekey.net CNAME .
+
 countryflags.io CNAME .
 cpap.map.fastly.net CNAME .
 cpxstoreimages.com CNAME .
@@ -14418,7 +14418,7 @@ cookiebot.eu CNAME .
 ; allow coolblue.eu reason: not a tracker
 cormes.de CNAME .
 cosstores.com CNAME .
-cosystatic-prod.edgekey.net CNAME .
+
 cptrack.de CNAME .
 creditreform.de CNAME .
 crobox.com CNAME .
@@ -14551,9 +14551,9 @@ dditsadn.com CNAME .
 dditscdn.com CNAME .
 ddl88dmz00fwt.cloudfront.net CNAME .
 ddrvjrfwnij7n.cloudfront.net CNAME .
-de-v1.edgekey.net CNAME .
+
 de.akamaized.net CNAME .
-de.edgekey.net CNAME .
+
 de.edgesuite.net CNAME .
 de17a.com CNAME .
 de2pmm85odupd.cloudfront.net CNAME .
@@ -14567,7 +14567,7 @@ delius-klasing.de CNAME .
 deliverimp.com CNAME .
 dell-cidr.akadns.net CNAME .
 delmovip.com CNAME .
-delta.com.edgekey.net CNAME .
+
 demandware.net CNAME .
 dentsu.de CNAME .
 deskline.net CNAME .
@@ -14581,10 +14581,10 @@ dgtcdn.net CNAME .
 di5.biz CNAME .
 diablo3.com CNAME .
 dialogtech.com CNAME .
-diepresse.com.edgekey.net CNAME .
+
 digiaccess.org CNAME .
 ; allow digicert.com reason: not just a tracker
-; allow digital.edgekey.net reason: not a tracker
+
 ; allow digitalgov.gov reason: not a tracker only dap subdomain is
 digitalpfizer.com CNAME .
 digitalriver.com CNAME .
@@ -14710,7 +14710,7 @@ adstk.io CNAME .
 adsupplyssl.com CNAME .
 adtector.com CNAME .
 adultvideotop.com CNAME .
-advance.edgekey.net CNAME .
+
 advancelocal.map.fastly.net CNAME .
 adverline.com CNAME .
 ae-media.ca CNAME .
@@ -14721,7 +14721,7 @@ agilone.com CNAME .
 agrvt.com CNAME .
 aicdn.com CNAME .
 aimbase.com CNAME .
-; allow aircanada.com.edgekey.net reason: not a tracker
+
 ; allow aircanada.com reason: not a tracker
 alaskaair.net CNAME .
 alcmpn.com CNAME .
@@ -14842,7 +14842,7 @@ dealerinspire.com CNAME .
 deernes.com CNAME .
 defybrick.com CNAME .
 delonghigroup.com CNAME .
-depositphotos.com.edgekey.net CNAME .
+
 dev-era-184513.ew.r.appspot.com CNAME .
 dh0i9ryzlewh.cloudfront.net CNAME .
 dhlparcel.nl CNAME .
@@ -14855,7 +14855,7 @@ digitaloceanspaces.com CNAME .
 directferries.co.uk CNAME .
 ; allow discordapp.com reason: not a tracker
 dismantlepenantiterrorist.com CNAME .
-disney.com.edgekey.net CNAME .
+
 disney.com.edgesuite.net CNAME .
 distribusion.com CNAME .
 dl906josmvu2y.cloudfront.net CNAME .
@@ -14896,7 +14896,7 @@ bamgrid.com CNAME .
 bangbrosonline.com CNAME .
 barbmerchant.com CNAME .
 barnebys.com CNAME .
-barrons.com.edgekey.net CNAME .
+
 basis.net CNAME .
 bcdn9854324.com CNAME .
 bclaws.ca CNAME .
@@ -14968,9 +14968,9 @@ alcodacovers.info CNAME .
 aleno.me CNAME .
 aliexpress.ru CNAME .
 almamedia.net CNAME .
-ame.edgekey.net CNAME .
+
 ; allow americanairlines.ch reason: not a tracker
-; allow americanexpress.com.edgekey.net reason: not a tracker
+
 anbieter-verglei; allow ch.ch reason: swiss gov
 ancensored.com CNAME .
 anrdoezrs.net CNAME .
@@ -14983,8 +14983,8 @@ api-consent-prod-dot-staticfilesserver.ey.r.appspot.com CNAME .
 appmobile-bridge-js.s3-eu-west-1.amazonaws.com CNAME .
 aral.github.io CNAME .
 arcantel.ch CNAME .
-asos-media.com.edgekey.net CNAME .
-asosservices.com.edgekey.net CNAME .
+
+
 atype.jp CNAME .
 aura-dsp.com CNAME .
 autoscout24.ch CNAME .
@@ -15019,7 +15019,7 @@ businessclick.ch CNAME .
 buttons.github.io CNAME .
 buymeacoffee.com CNAME .
 bx-cloud.com CNAME .
-; allow canalplus.com.edgekey.net reason: not a tracker
+
 cartsguru.io CNAME .
 carusseldwt.com CNAME .
 casualnetworksbv.com CNAME .
@@ -15032,7 +15032,7 @@ cdnma.com CNAME .
 cdntwrk.com CNAME .
 cdnwebcloud.com CNAME .
 ; allow ch.ch reason: swiss gov
-; allow ch.edgekey.net reason: swiss gov
+
 ; allow chart.googleapis.com reason: required library
 checkfront.com CNAME .
 chessabc.com CNAME .
@@ -15205,7 +15205,7 @@ arrowprivatehire.co.uk CNAME .
 asda.com.akadns.net CNAME .
 askanxiety.com CNAME .
 asksid.ai CNAME .
-assets-asda.com.edgekey.net CNAME .
+
 assets.nhs.uk CNAME .
 atreemo.com CNAME .
 audioboom.com CNAME .
@@ -15230,7 +15230,7 @@ bigrourg.net CNAME .
 birdguides-cdn.com CNAME .
 birdingtop500.com CNAME .
 blackbird.b-cdn.net CNAME .
-blackrock.com.edgekey.net CNAME .
+
 bm23.com CNAME .
 bonne-terre-data-layer.com CNAME .
 boost-next.co.jp CNAME .
@@ -15256,7 +15256,7 @@ cm-cms-resources.s3.eu-west-2.amazonaws.com CNAME .
 cni-digital.map.fastly.net CNAME .
 cnnx.io CNAME .
 co-buying.com CNAME .
-com-secure.edgekey.net CNAME .
+
 commbox.io CNAME .
 contentstack.com CNAME .
 controq.com CNAME .

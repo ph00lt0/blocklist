@@ -12345,7 +12345,7 @@
 0.0.0.0 appfire.app
 0.0.0.0 sp.mail.notion.so
 0.0.0.0 viapplogs.net
-0.0.0.0 exacttarget.com.edgekey.net
+
 0.0.0.0 metric.gstatic.com
 0.0.0.0 document360.io
 0.0.0.0 cdn.document360.io
@@ -12614,20 +12614,20 @@
 0.0.0.0 evrythng.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 0.0.0.1
-0.0.0.0 000e9e326af6128d2c15fdcc27ef31b2.edgekey.net
+
 0.0.0.0 0033000.com
-0.0.0.0 02acc3b435a5a834190ba2a5ddfc7390.edgekey.net
+
 0.0.0.0 0318media.nl
-0.0.0.0 0360766d4afc1b8101396d28eb2c22f4.edgekey.net
+
 0.0.0.0 083950260099-attachments.s3.us-east-2.amazonaws.com
-0.0.0.0 08bca1adcd937acee5c029a1cec0e4b9.edgekey.net
+
 0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 0972cce1bc.com
-0.0.0.0 0a443934038b4d79c2d638bb99788c36.edgekey.net
-0.0.0.0 0be0274d4618ced9a7633f5cf8d206eb.edgekey.net
+
+
 0.0.0.0 0cf.io
-0.0.0.0 0d2aa2d5db16270946d663b492be0815.edgekey.net
-0.0.0.0 0e51bbd9b74489047dd0f9f2c93e044f.edgekey.net
+
+
 0.0.0.0 0i0i0i0.com
 0.0.0.0 0ps.us
 0.0.0.0 10.240.0.27
@@ -12638,10 +12638,10 @@
 0.0.0.0 1003219085.rsc.cdn77.org
 0.0.0.0 1009550802.rsc.cdn77.org
 0.0.0.0 100percentfedup.com
-! allow 100vod-adaptive.akamaized.net reason: not a trackerr
+
 0.0.0.0 100widgets.com
-! allow 101vod-adaptive.akamaized.net reason: not a tracker
-! allow 102vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 1039875894.rsc.cdn77.org
 0.0.0.0 1050947521.rsc.cdn77.org
 0.0.0.0 1061392081.rsc.cdn77.org
@@ -12649,12 +12649,12 @@
 0.0.0.0 1075202878.rsc.cdn77.org
 0.0.0.0 1075914428.rsc.cdn77.org
 0.0.0.0 1077603801.rsc.cdn77.org
-! allow 107vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1081894472.rsc.cdn77.org
 0.0.0.0 1083328646.rsc.cdn77.org
 0.0.0.0 1085610534.rsc.cdn77.org
 0.0.0.0 1087935514.rsc.cdn77.org
-0.0.0.0 1087c8879deade6339e4462ced839163.edgekey.net
+
 0.0.0.0 1088045785.rsc.cdn77.org
 0.0.0.0 1094578850.rsc.cdn77.org
 0.0.0.0 10upmanaged.com
@@ -12662,15 +12662,15 @@
 0.0.0.0 110.93.143.144
 0.0.0.0 1111210941.rsc.cdn77.org
 0.0.0.0 1118660075.rsc.cdn77.org
-! allow 112vod-adaptive.akamaized.net reason: not a tracker
-! allow 113vod-adaptive.akamaized.net reason: not a trackerr
+
+
 0.0.0.0 1140978756.rsc.cdn77.org
 0.0.0.0 1179033234.rsc.cdn77.org
 0.0.0.0 118.89.204.198
 0.0.0.0 1184954541.rsc.cdn77.org
 0.0.0.0 11880.com
 0.0.0.0 1197833925.rsc.cdn77.org
-0.0.0.0 11alive.com.edgekey.net
+
 0.0.0.0 11pt5z46nuudt9qxx2knwgff-wpengine.netdna-ssl.com
 0.0.0.0 11tcma2eyqgmz6zyt1x6na8n-wpengine.netdna-ssl.com
 0.0.0.0 120askimages.com
@@ -12685,22 +12685,22 @@
 0.0.0.0 123rf.s3.amazonaws.com
 0.0.0.0 123stat.com
 0.0.0.0 1240611520.rsc.cdn77.org
-! allow 125vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 126.net
 0.0.0.0 127.0.0.1
 0.0.0.0 127.net
-! allow 127vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1287719000.rsc.cdn77.org
-0.0.0.0 128b9c11de6e7f015c4b9e1f9271a873.edgekey.net
+
 0.0.0.0 128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com
-! allow 128vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 12f38d1ecd77b6d70911ce2c57937a6d.edgekey.net
+
+
 0.0.0.0 12flirt.com
 0.0.0.0 12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com
 0.0.0.0 12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com
-! allow 12news.com.edgekey.net reason: not a traccker
-! allow 12newsnow.com.edgekey.net reason: not a tracker
-! allow 12vod-adaptive.akamaized.net reason: not a tracker
+
+
+
 0.0.0.0 13.cl
 0.0.0.0 1320288971.rsc.cdn77.org
 0.0.0.0 1324547246.rsc.cdn77.org
@@ -12709,25 +12709,25 @@
 0.0.0.0 133.130.89.16
 0.0.0.0 1337x2.xyz
 0.0.0.0 1338794416.rsc.cdn77.org
-! allow 133vod-adaptive.akamaized.net reason: not a tracker
-! allow 134vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 1355612476.rsc.cdn77.org
-! allow 136vod-adaptive.akamaized.net reason: not a tracker
-! allow 137vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com
-! allow 138vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 139.99.130.166
 0.0.0.0 139.99.55.81
-! allow 139vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 13newsnow.com.edgekey.net
-0.0.0.0 13wmaz.com.edgekey.net
+
+
+
 0.0.0.0 1404752763.rsc.cdn77.org
 0.0.0.0 1409791524.rsc.cdn77.org
-! allow 140vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 141.98.8.106
 0.0.0.0 1410770579.rsc.cdn77.org
 0.0.0.0 141tube.com
-! allow 141vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1429384804.rsc.cdn77.org
 0.0.0.0 144.126.138.140
 0.0.0.0 144.91.116.224
@@ -12743,17 +12743,17 @@
 0.0.0.0 1509774155.rsc.cdn77.org
 0.0.0.0 1527bf2da3.com
 0.0.0.0 1555957453.rsc.cdn77.org
-! allow 155vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1575730577.rsc.cdn77.org
 0.0.0.0 1585089255.rsc.cdn77.org
 0.0.0.0 1587701074.rsc.cdn77.org
 0.0.0.0 159.223.34.146
 0.0.0.0 159.89.202.208
-! allow 159vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 15e8517430680b40650248672997e736.edgekey.net
-! allow 15vod-adaptive.akamaized.net reason: not a tracker
+
+
+
 0.0.0.0 1601957106.rsc.cdn77.org
-! allow 160vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 161.97.125.183
 0.0.0.0 1618173684.rsc.cdn77.org
 0.0.0.0 162.0.220.138
@@ -12765,22 +12765,22 @@
 0.0.0.0 1641310072.rsc.cdn77.org
 0.0.0.0 1641998492.rsc.cdn77.org
 0.0.0.0 1646039872.rsc.cdn77.org
-! allow 164vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1654771672.rsc.cdn77.org
 0.0.0.0 1658444117.rsc.cdn77.org
 0.0.0.0 1666210260.rsc.cdn77.org
 0.0.0.0 167.99.77.72
-! allow 167vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 168logger.com
-! allow 168vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 16iwyl195vvfgoqu3136p2ly-wpengine.netdna-ssl.com
-! allow 16vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1704183692.rsc.cdn77.org
 0.0.0.0 1704743398.rsc.cdn77.org
-! allow 170vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 171745.com
 0.0.0.0 171dxwjpaqv2danpq11ixf2j-wpengine.netdna-ssl.com
-! allow 171vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1720289623.rsc.cdn77.org
 0.0.0.0 1727357668.rsc.cdn77.org
 0.0.0.0 173.208.216.250
@@ -12788,15 +12788,15 @@
 0.0.0.0 1739712465.rsc.cdn77.org
 0.0.0.0 1751350540.rsc.cdn77.org
 0.0.0.0 1751390105.rsc.cdn77.org
-! allow 175vod-adaptive.akamaized.net reason: not a tracker
-! allow 176vod-adaptive.akamaized.net reason: not a tracker
-! allow 177vod-adaptive.akamaized.net reason: not a tracker
+
+
+
 0.0.0.0 1789235708.rsc.cdn77.org
-! allow 178vod-adaptive.akamaized.net reason: not a trackeer
+
 0.0.0.0 1792469337.rsc.cdn77.org
 0.0.0.0 1794199541.rsc.cdn77.org
-0.0.0.0 179bce0add44add0b26bf3512ab168c7.edgekey.net
-! allow 179vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 17app.co
 0.0.0.0 17iy0p49ts4537ovpn2g0scc-wpengine.netdna-ssl.com
 0.0.0.0 17uh3i2b989t1jf7qqepkxez-wpengine.netdna-ssl.com
@@ -12804,10 +12804,10 @@
 0.0.0.0 1800flowers.map.fastly.net
 0.0.0.0 1800petmeds.com
 0.0.0.0 1817141586.rsc.cdn77.org
-! allow 181vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1824867661.rsc.cdn77.org
-! allow 182vod-adaptive.akamaized.net reason: not a tracker
-! allow 184vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 185.250.149.60
 0.0.0.0 1851774772.rsc.cdn77.org
 ! allow 1853586421.rsc.cdn77.org reason: not a tracker
@@ -12815,21 +12815,21 @@
 0.0.0.0 1855684048.rsc.cdn77.org
 0.0.0.0 1871350125.rsc.cdn77.org
 0.0.0.0 1874201666.rsc.cdn77.org
-! allow 187vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1884403144.rsc.cdn77.org
 0.0.0.0 1884695191.rsc.cdn77.org
 0.0.0.0 1887dt387czs25eqxs3c1ipg-wpengine.netdna-ssl.com
 0.0.0.0 1891408184.rsc.cdn77.org
 0.0.0.0 1894269931.rsc.cdn77.org
-! allow 189vod-adaptive.akamaized.net reason: ot a tracker
+
 0.0.0.0 18f-cloud.com
-! allow 18vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1900780057.rsc.cdn77.org
 0.0.0.0 1907362850.rsc.cdn77.org
 0.0.0.0 1908021515.rsc.cdn77.org
 0.0.0.0 1908926391.rsc.cdn77.org
-! allow 190vod-adaptive.akamaized.net reason: not a tracker
-! allow 191vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 1925807164.rsc.cdn77.org
 0.0.0.0 194.187.99.221
 0.0.0.0 194.187.99.222
@@ -12838,32 +12838,32 @@
 0.0.0.0 194.233.91.97
 0.0.0.0 1948868209.rsc.cdn77.org
 0.0.0.0 195.43.95.234
-! allow 195vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1964890999.rsc.cdn77.org
 0.0.0.0 1978974432.rsc.cdn77.org
-! allow 197vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1989903441.rsc.cdn77.org
-! allow 198vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1992299737.rsc.cdn77.org
 0.0.0.0 1997245118.rsc.cdn77.org
 0.0.0.0 1998191364.rsc.cdn77.org
-! allow 199vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1a-infosysteme.de
 0.0.0.0 1aautoimages.com
 0.0.0.0 1ashemaletube.com
 0.0.0.0 1bis.com
 0.0.0.0 1boyz.com
-0.0.0.0 1cd27652de543473a8fd0ad1facd177b.edgekey.net
+
 0.0.0.0 1cros.net
-0.0.0.0 1d0e146b37dcc0ad50a0952b83b713a3.edgekey.net
-0.0.0.0 1d94e60a06614d89290f626c12e5dc90.edgekey.net
-0.0.0.0 1dbbcb6c4ae29c71c11dd288c87d9037.edgekey.net
+
+
+
 0.0.0.0 1dmp.io
 0.0.0.0 1drlj71280m23ofmk22n7tbp-wpengine.netdna-ssl.com
 0.0.0.0 1dx1ha2o9633412a0g3rw4xf-wpengine.netdna-ssl.com
 0.0.0.0 1e100cdn.net
-0.0.0.0 1efe7a744a9a35e584173300da7e189f.edgekey.net
-0.0.0.0 1f59d6a31a60cc76f8cf2d302070886a.edgekey.net
+
+
 0.0.0.0 1f6yb11rynqr131j50326o9c-wpengine.netdna-ssl.com
 0.0.0.0 1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com
 0.0.0.0 1gr.cz
@@ -12895,7 +12895,7 @@
 0.0.0.0 1und1.eu
 0.0.0.0 1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com
 0.0.0.0 1vag.com
-! allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 1w7w6z2gxfxq1imt5129fesh-wpengine.netdna-ssl.com
 0.0.0.0 1worldonline.com
 0.0.0.0 1worldsync.com
@@ -12914,21 +12914,21 @@
 0.0.0.0 209.58.183.133
 0.0.0.0 209.95.51.190
 0.0.0.0 209.97.174.112
-0.0.0.0 20ce3870d3b2d094e28117ad9fd5a76e.edgekey.net
+
 0.0.0.0 20fd661yccar325znz1e9bdl-wpengine.netdna-ssl.com
 0.0.0.0 20lisa1ukask2skqr737a50o-wpengine.netdna-ssl.com
 0.0.0.0 20m.es
 0.0.0.0 20mn.fr
 0.0.0.0 20mn.io
 0.0.0.0 21pron.com
-! allow 21vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 220images.net
 0.0.0.0 2222.ro
 0.0.0.0 23.92.69.100
 0.0.0.0 234doo.com
-0.0.0.0 23aaae73f8c1ea29857e029f952ce37f.edgekey.net
+
 0.0.0.0 23rdbromleyscouts.org
-! allow 23vod-adaptive.akamaized.net reason: not a trackeer
+
 0.0.0.0 23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com
 0.0.0.0 24.co.za
 0.0.0.0 24.com
@@ -12956,24 +12956,24 @@
 0.0.0.0 24ur.si
 0.0.0.0 24video.ws
 0.0.0.0 24vita.de
-! allow 24vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 25210fdc35bf5ca52cf6a491570dade7.edgekey.net
-0.0.0.0 253772694779d1bab5ca0e9b203d4b44.edgekey.net
+
+
+
 0.0.0.0 253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com
 0.0.0.0 25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com
 0.0.0.0 25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com
-! allow 25vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 26045.edgekey.net
-0.0.0.0 266a96cdf18f311449fa309f2709f16e.edgekey.net
-0.0.0.0 266d89f269934797a6865d354f8b515a.edgekey.net
+
+
+
+
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-! allow 26vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 27643.edgekey.net
+
+
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
-! allow 28vod-adaptive.akamaized.net reason: not a tracker
-! allow 29vod-adaptive.akamaized.net reason: not a tracker
+
+
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
 0.0.0.0 2a.media
 0.0.0.0 2adpro.com
@@ -12991,8 +12991,8 @@
 0.0.0.0 2e8ram2s1li74atce18qz5y1-wpengine.netdna-ssl.com
 0.0.0.0 2edaadmin.ch
 0.0.0.0 2f13yq12csmv2yraq925m73i-wpengine.netdna-ssl.com
-0.0.0.0 2f2512441cf28f6eda14525678a5a896.edgekey.net
-0.0.0.0 2f9e5fde9dd7208a433a14913437fd7b.edgekey.net
+
+
 0.0.0.0 2fdltvvn8wp2rn64ywgk8o17-wpengine.netdna-ssl.com
 0.0.0.0 2fgtku2x783y1ywhc01gmd67-wpengine.netdna-ssl.com
 0.0.0.0 2gic212zgjlm2bcqpo21qnpk-wpengine.netdna-ssl.com
@@ -13028,21 +13028,21 @@
 0.0.0.0 300624.com
 0.0.0.0 300daytravel.com
 0.0.0.0 304a46cc9a.com
-0.0.0.0 30583c188ff305e13a00dcb558976baa.edgekey.net
+
 0.0.0.0 31.204.145.96
 0.0.0.0 316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com
-! allow 31vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 32.134.125.107
 0.0.0.0 329zviwchun16hc302ozrz41-wpengine.netdna-ssl.com
-0.0.0.0 32c80191e78132fa00deeda9fd0c6fe8.edgekey.net
+
 0.0.0.0 33.49.50.126
-! allow 33vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 346fe4d0bf7a01e9822d6d43b1b1b9c2.edgekey.net
+
+
 0.0.0.0 34a1ju2gva4u3yrm051vedfb-wpengine.netdna-ssl.com
 0.0.0.0 34pavouhj7.com
-! allow 34vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com
-! allow 35vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 360.cn
 0.0.0.0 360and1.com
 0.0.0.0 362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com
@@ -13051,32 +13051,32 @@
 0.0.0.0 365lpodds.com
 0.0.0.0 366.fr
 0.0.0.0 366676952.r.cdn77.net
-0.0.0.0 36de823d83a303480b9a070fc5edd2d4.edgekey.net
+
 0.0.0.0 36wi5hm.x.incapdns.net
 0.0.0.0 380kyt9r67o2n57k2r9rrr8x-wpengine.netdna-ssl.com
 0.0.0.0 390109.smushcdn.com
-! allow 39vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 3ahs13ezpx115i34i3vbbopw-wpengine.netdna-ssl.com
 0.0.0.0 3anx.net
 0.0.0.0 3apps.ie
 0.0.0.0 3asyr.com
 0.0.0.0 3bmeteo.com
 0.0.0.0 3c9sm1yzqy518hwx3f6o4c64-wpengine.netdna-ssl.com
-0.0.0.0 3ce9978b3da19ffd8bb6454821713d6e.edgekey.net
+
 0.0.0.0 3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com
 0.0.0.0 3cx.com
 0.0.0.0 3cx.us
-0.0.0.0 3da675411e6ca3321a189752d5185664.edgekey.net
+
 0.0.0.0 3djuegos.com
 0.0.0.0 3dlancer.net
-0.0.0.0 3ds.com.edgekey.net
+
 0.0.0.0 3ds.com
 0.0.0.0 3dstats.com
 0.0.0.0 3dtuman.com
 0.0.0.0 3dtxp19t9eb3fmumt31248pw-wpengine.netdna-ssl.com
-0.0.0.0 3e6b77606a560728bfcd9f3e4a1628b1.edgekey.net
+
 0.0.0.0 3exvfbh.x.incapdns.net
-0.0.0.0 3f1619f3719358a3b2517e196909950b.edgekey.net
+
 0.0.0.0 3fa44b2156.com
 0.0.0.0 3fxtqy18kygf3on3bu39kh93-wpengine.netdna-ssl.com
 0.0.0.0 3gateway.net
@@ -13087,7 +13087,7 @@
 0.0.0.0 3jzi0q2zthm01oqpx2h96lz1-wpengine.netdna-ssl.com
 0.0.0.0 3kqo2r1c2kzy3oyiqn2r1gjb-wpengine.netdna-ssl.com
 0.0.0.0 3lib.net
-0.0.0.0 3m.com.edgekey.net
+
 0.0.0.0 3m.com
 0.0.0.0 3m7ajlsrzj92lfd1hu16hu7vc-wpengine.netdna-ssl.com
 0.0.0.0 3naked.com
@@ -13099,7 +13099,7 @@
 0.0.0.0 3r19eb4fqlos1irh8c1q6941-wpengine.netdna-ssl.com
 0.0.0.0 3u28iz2ujc8a178j1f2ql9ic-wpengine.netdna-ssl.com
 0.0.0.0 3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com
-! allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com
 0.0.0.0 3xpl.stream
 0.0.0.0 3xplanet.com
@@ -13132,7 +13132,7 @@
 0.0.0.0 40n23zgkic3y-a.akamaihd.net
 0.0.0.0 40nuggets.com
 0.0.0.0 40pg2e2187urs70xz2sj2xo6-wpengine.netdna-ssl.com
-! allow 40vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 41jmzr10f8zc229tzr2xml7e-wpengine.netdna-ssl.com
 0.0.0.0 41k4p01v6nzq13r4y42jb9xv-wpengine.netdna-ssl.com
 0.0.0.0 42e7xc172a051i7v1iyv99nn-wpengine.netdna-ssl.com
@@ -13142,26 +13142,26 @@
 0.0.0.0 434h9n4821mi1mka7c2h72ig-wpengine.netdna-ssl.com
 0.0.0.0 43d897265kne3ed0qv2ecjw2-wpengine.netdna-ssl.com
 0.0.0.0 43nnuk1fz4a72826eo14gwfb-wpengine.netdna-ssl.com
-0.0.0.0 443ce9526ed91a599e17799f01fccc11.edgekey.net
-0.0.0.0 44aa8e6e8cc8c6ce16cc5e722f98f43f.edgekey.net
+
+
 0.0.0.0 44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com
-0.0.0.0 44vod-adaptive.akamaized.net
+
 0.0.0.0 45.89.67.165
 0.0.0.0 451.io
-! allow 45vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 477612.smushcdn.com
 0.0.0.0 47nbvyrwh9j46nc9y2yx7ac1-wpengine.netdna-ssl.com
 0.0.0.0 480app.com
 0.0.0.0 4840988537.com
 0.0.0.0 48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com
 0.0.0.0 48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com
-! allow 49vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net
+
+
 0.0.0.0 4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com
 0.0.0.0 4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com
-0.0.0.0 4b82d88326eb116b8b4ce45cb8f4f460.edgekey.net
-0.0.0.0 4ba5016496cb7b08ec431e5ef4b16b48.edgekey.net
-0.0.0.0 4c2bccf248df6519cc4baeb4a7733a0e.edgekey.net
+
+
+
 0.0.0.0 4c6dss208iw81m6h4re71q8o-wpengine.netdna-ssl.com
 0.0.0.0 4cdn.org
 0.0.0.0 4chan.org
@@ -13171,7 +13171,7 @@
 0.0.0.0 4dp.top
 0.0.0.0 4dsbanner.net
 0.0.0.0 4dsply.com
-0.0.0.0 4f132fdc668407e26c3a76b04bbba8fe.edgekey.net
+
 0.0.0.0 4fpnph3j8bls2w9fqo3k4xd5-wpengine.netdna-ssl.com
 0.0.0.0 4fsl4b2ha2841x0gnm21onox40a-wpengine.netdna-ssl.com
 0.0.0.0 4hfchest5kdnfnut.com
@@ -13185,7 +13185,7 @@
 0.0.0.0 4teachers.de
 0.0.0.0 4tellcdn.azureedge.net
 0.0.0.0 4uc.org
-! allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+
 0.0.0.0 4wdsc.com
 0.0.0.0 4wmarketplace.com
 0.0.0.0 4wnetwork.com
@@ -13193,36 +13193,36 @@
 0.0.0.0 4xc4ep.net
 0.0.0.0 4zobnzc.x.incapdns.net
 0.0.0.0 506.io
-0.0.0.0 50992.edgekey.net
-0.0.0.0 509a04ac4921769c797e12d6da7c5efc.edgekey.net
+
+
 0.0.0.0 51.222.2.14
 0.0.0.0 51.254.84.63
 0.0.0.0 51.79.224.26
 0.0.0.0 512-015.net
 0.0.0.0 517459.smushcdn.com
-0.0.0.0 5199d216aaea838c0cc6a11da1d68eed.edgekey.net
+
 0.0.0.0 51degrees.com
 0.0.0.0 51tracking.com
-0.0.0.0 51vod-adaptive.akamaized.net
+
 0.0.0.0 52gg.net
-0.0.0.0 52vod-adaptive.akamaized.net
-0.0.0.0 53.com.edgekey.net
+
+
 0.0.0.0 535485.smushcdn.com
 0.0.0.0 5378.org
 0.0.0.0 53kf.com
 0.0.0.0 54proxy.com
-0.0.0.0 54vod-adaptive.akamaized.net
-0.0.0.0 55301.edgekey.net
-0.0.0.0 554893c054c372474bb828e4ff954a52.edgekey.net
+
+
+
 0.0.0.0 55f9d6e755.com
 0.0.0.0 55labs.com
 0.0.0.0 57jobs.de
-0.0.0.0 57vod-adaptive.akamaized.net
+
 0.0.0.0 58dp.net
 0.0.0.0 5cacard.ru
 0.0.0.0 5d3x.net
-0.0.0.0 5e6389e6afe18408b93cd87d50f8997c.edgekey.net
-0.0.0.0 5ff3d86e3095f2478cb56def25623225.edgekey.net
+
+
 0.0.0.0 5gcdn.net
 0.0.0.0 5h76kih.x.incapdns.net
 0.0.0.0 5hd.co
@@ -13237,47 +13237,47 @@
 0.0.0.0 5toft8or7on8tt.com
 0.0.0.0 5vju.net
 0.0.0.0 62ac0a5777dcfd000863a23b--pat-splash.netlify.app
-0.0.0.0 62cecd36653ca25b06a8c2a58a23d2e0.edgekey.net
-0.0.0.0 63vod-adaptive.akamaized.net
+
+
 0.0.0.0 65twenty.com
-0.0.0.0 65vod-adaptive.akamaized.net
+
 0.0.0.0 66.165.229.106
 0.0.0.0 67.222.134.173
-0.0.0.0 673daad6ff152405792e3ae951dc93c8.edgekey.net
-0.0.0.0 67d6e36b5851d5201324a1dc480e0104.edgekey.net
-0.0.0.0 67e27d2bf5a429bde7067760d50048ad.edgekey.net
-0.0.0.0 67e586de39d1ad8cb64e0683fce6e2a3.edgekey.net
+
+
+
+
 0.0.0.0 69v.club
-0.0.0.0 69vod-adaptive.akamaized.net
-0.0.0.0 6d284ebb5b57430072a757679e4c27f2.edgekey.net
-0.0.0.0 6dbf0e29d15abb511441d743a2bcf4ba.edgekey.net
+
+
+
 0.0.0.0 6ez2eqk.x.incapdns.net
-0.0.0.0 6f82b886f3e1c65595836dad98b1d506.edgekey.net
+
 0.0.0.0 6q33.net
 0.0.0.0 6q76vgh.x.incapdns.net
 0.0.0.0 6sxm959.x.incapdns.net
 0.0.0.0 6tm.eu
-0.0.0.0 6vod-adaptive.akamaized.net
+
 0.0.0.0 6wo3n64.x.incapdns.net
-0.0.0.0 709f33446b5954ed2c59629d6b204a5b.edgekey.net
+
 0.0.0.0 71i.de
-0.0.0.0 71vod-adaptive.akamaized.net
-0.0.0.0 72c3dd5b90274d568f6fd5db39a3995f.edgekey.net
-0.0.0.0 72vod-adaptive.akamaized.net
+
+
+
 0.0.0.0 739952.smushcdn.com
-0.0.0.0 73vod-adaptive.akamaized.net
-0.0.0.0 749353db9e9bbb160fc741fdd57cf492.edgekey.net
-0.0.0.0 75000f2ce1e329aa4bc18982b7419f15.edgekey.net
-0.0.0.0 7570f09e92ccec9039328fda556f725e.edgekey.net
-0.0.0.0 7860e9127f045347651b3a1a177054ab.edgekey.net
+
+
+
+
+
 0.0.0.0 79ic8e.net
-0.0.0.0 79vod-adaptive.akamaized.net
-0.0.0.0 7b822044e4a6c34ec24ce352a8c79526.edgekey.net
-0.0.0.0 7c4bb480e4bc502ae30d53f42f89d39c.edgekey.net
+
+
+
 0.0.0.0 7ca78m3csgbrid7ge.com
-0.0.0.0 7cbbecb9024549c0489527e014b97fda.edgekey.net
+
 0.0.0.0 7eb5opl.x.incapdns.net
-0.0.0.0 7ff4bcb905061f75ef330b01000999fe.edgekey.net
+
 0.0.0.0 7gra.us
 0.0.0.0 7graus.com
 0.0.0.0 7kkxxzr.x.incapdns.net
@@ -13288,36 +13288,36 @@
 0.0.0.0 7u6hr3e68iv1jahzo11ixwd5-wpengine.netdna-ssl.com
 0.0.0.0 7v2agdo.x.incapdns.net
 0.0.0.0 7vid.net
-0.0.0.0 7vod-adaptive.akamaized.net
+
 0.0.0.0 7xbid.com
 0.0.0.0 7xde.net
 0.0.0.0 7xjpy4d.x.incapdns.net
 0.0.0.0 80.77.89.177
 0.0.0.0 805019.smushcdn.com
-0.0.0.0 809aafde5c6fe99a53d65fcf63b4246c.edgekey.net
+
 0.0.0.0 81dix1oo56s3h5et73pjxme1-wpengine.netdna-ssl.com
-0.0.0.0 81vod-adaptive.akamaized.net
-0.0.0.0 825872ac0c77af8785ed7aea4a8be803.edgekey.net
+
+
 0.0.0.0 829395.smushcdn.com
 0.0.0.0 82rc.net
-0.0.0.0 82vod-adaptive.akamaized.net
+
 0.0.0.0 832212.smushcdn.com
-0.0.0.0 838c8097a14df4395efd566848938186.edgekey.net
-0.0.0.0 83a5d747b838237ca4ebac8b3c71c266.edgekey.net
-0.0.0.0 83vod-adaptive.akamaized.net
+
+
+
 0.0.0.0 840027.smushcdn.com
-0.0.0.0 85vod-adaptive.akamaized.net
+
 0.0.0.0 87.98.156.59
-0.0.0.0 87vod-adaptive.akamaized.net
-0.0.0.0 883e1d1d28ebacb6ce2ab2e1a84d2e89.edgekey.net
+
+
 0.0.0.0 888asian.com
 0.0.0.0 888sport.se
-0.0.0.0 8944f7da7c71eeb32ebebf80faee1333.edgekey.net
-0.0.0.0 8ce956cd75661e565cb148f7fcc35a02.edgekey.net
-0.0.0.0 8e03ebeafcc5826e37c8b7cf2da3ba43.edgekey.net
-0.0.0.0 8e074e89ef0bdfd5815bb8fbc0a847fd.edgekey.net
-0.0.0.0 8e5462497b771c75663716f2db9d50ea.edgekey.net
-0.0.0.0 8f55085b59185596e8a6b7ff16174199.edgekey.net
+
+
+
+
+
+
 0.0.0.0 8f6i.net
 0.0.0.0 8h01.com
 0.0.0.0 8ne3.net
@@ -13328,29 +13328,29 @@
 0.0.0.0 91-img.com
 0.0.0.0 9111s.ru
 0.0.0.0 9165619.com
-0.0.0.0 927bc08bc3bfb643b5d311bdb98b9c5f.edgekey.net
+
 0.0.0.0 93.115.31.155
-0.0.0.0 93c2daf357a41c65c46fd5c3450630c3.edgekey.net
-0.0.0.0 93vod-adaptive.akamaized.net
+
+
 0.0.0.0 940388.smushcdn.com
-0.0.0.0 94vod-adaptive.akamaized.net
+
 0.0.0.0 95.214.54.201
 0.0.0.0 951199.smushcdn.com
 0.0.0.0 952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com
-0.0.0.0 95vod-adaptive.akamaized.net
-0.0.0.0 961e1acc4cbca20174d2d36ecfd5ad4b.edgekey.net
-0.0.0.0 97vod-adaptive.akamaized.net
-0.0.0.0 98vod-adaptive.akamaized.net
-0.0.0.0 9949ae8c2454a4e57dc2593d041e3569.edgekey.net
+
+
+
+
+
 0.0.0.0 9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net
-0.0.0.0 9b47f0dc56015d8035ef75137f664eab.edgekey.net
-0.0.0.0 9ba479d5dbef96e8b2585ceef3418b8c.edgekey.net
+
+
 0.0.0.0 9c9media.com.edgesuite.net
-0.0.0.0 9c9media.edgekey.net
+
 0.0.0.0 9cache.com
 0.0.0.0 9cdn.net
 0.0.0.0 9eriz.x.incapdns.net
-0.0.0.0 9news.com.edgekey.net
+
 0.0.0.0 9now.com.au
 0.0.0.0 9pctbx.net
 0.0.0.0 9poxrsw.x.incapdns.net
@@ -13369,14 +13369,14 @@
 0.0.0.0 a07ab9344ba664701878fcbc535973ec-983232249.eu-central-1.elb.amazonaws.com
 0.0.0.0 a0e50ef73607b11e79ba902bfc1c6ba7-25949453.ap-southeast-2.elb.amazonaws.com
 0.0.0.0 a0s.net
-0.0.0.0 a12d67c680e009de02b35d6bc2e108aa.edgekey.net
+
 0.0.0.0 a16z.com
 0.0.0.0 a1d3fec-a.akamaihd.net
 0.0.0.0 a1tb.com
 0.0.0.0 a2.shared.global.fastly.net
-0.0.0.0 a24365-c042.edgekey.net
-0.0.0.0 a24365-c048.edgekey.net
-0.0.0.0 a24bb26255e9dd168fc0f5a04211ae46.edgekey.net
+
+
+
 0.0.0.0 a24help.ru
 0.0.0.0 a2d.tv
 0.0.0.0 a2hosted.com
@@ -13402,12 +13402,12 @@
 0.0.0.0 a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com
 0.0.0.0 a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com
 0.0.0.0 a9yw.net
-! allow aa.com reason: not a tracker.edgekey.net
+
 ! allow aa.com reason: not a tracker
-0.0.0.0 aaa.com.edgekey.net
+
 0.0.0.0 aaa200.rocks
 ! allow aa.com reason: not a trackerpany.net
-0.0.0.0 aaamidatlantic.com.edgekey.net
+
 0.0.0.0 aaas.org
 0.0.0.0 aaasouth.com
 0.0.0.0 aaawebstore.com
@@ -13434,7 +13434,7 @@
 0.0.0.0 abc-cdn.net.au
 0.0.0.0 abc-host.net.au
 0.0.0.0 abc.net.au
-0.0.0.0 abc10.com.edgekey.net
+
 0.0.0.0 abc17news.b-cdn.net
 0.0.0.0 abcimg.es
 0.0.0.0 abcmedia.no
@@ -13442,7 +13442,7 @@
 0.0.0.0 abcotvssb.net
 0.0.0.0 abczdrowie.pl
 0.0.0.0 abebookscdn.com
-0.0.0.0 abercrombie.com.edgekey.net
+
 0.0.0.0 abgemea.com
 0.0.0.0 abjectionremarksdisarm.com
 0.0.0.0 ablestar.app
@@ -13465,7 +13465,7 @@
 0.0.0.0 abrye.com
 0.0.0.0 abschied.b-cdn.net
 0.0.0.0 abservinean.com
-0.0.0.0 absolutdrinks-images.edgekey.net
+
 0.0.0.0 absoluteroute.com
 0.0.0.0 absorbingband.com
 0.0.0.0 abstractapi.com
@@ -13517,7 +13517,7 @@
 0.0.0.0 acdn5165543.com
 0.0.0.0 acdn923132475.com
 0.0.0.0 acecounter.com
-0.0.0.0 acer.com.edgekey.net
+
 0.0.0.0 acewebcontent.azureedge.net
 0.0.0.0 acewebstatic.azureedge.net
 0.0.0.0 acexedge.com
@@ -13563,7 +13563,7 @@
 0.0.0.0 activengage.com
 0.0.0.0 activeskill.com
 0.0.0.0 activetrail.com
-0.0.0.0 activision.com.edgekey.net
+
 0.0.0.0 activityboard.jp
 0.0.0.0 actlz.github.io
 0.0.0.0 actonservice.com
@@ -13581,7 +13581,7 @@
 0.0.0.0 31173.se
 0.0.0.0 45.89.66.142
 0.0.0.0 51-116-131-221_s-92-123-194-148_ts-1655798738-clienttons-s.akamaihd.net
-0.0.0.0 59vod-adaptive.akamaized.net
+
 0.0.0.0 91bjav.com
 0.0.0.0 acfc8b5ca7.com
 0.0.0.0 acfrg.com
@@ -13604,7 +13604,7 @@
 0.0.0.0 adglare.net
 0.0.0.0 adgrx.com
 0.0.0.0 adhaven.com
-! allow adidas.com.edgekey.net reason: not a tracker
+
 0.0.0.0 adingo.jp
 0.0.0.0 adinplay.com
 0.0.0.0 adinplay.workers.dev
@@ -13616,11 +13616,11 @@
 0.0.0.0 adme-net.com
 0.0.0.0 admeira.ch
 0.0.0.0 adnet.de
-! allow adobe.com reason: not a tracker.edgekey.net
+
 ! allow adobe.com reason: not a tracker.edgesuite.net
 ! allow adobe.com reason: not a tracker
 0.0.0.0 adobedc.net
-0.0.0.0 adobedtm.com.edgekey.net
+
 0.0.0.0 adobetarget.com
 0.0.0.0 adpartner.pro
 0.0.0.0 adpone.com
@@ -13658,13 +13658,13 @@
 0.0.0.0 aidata.io
 0.0.0.0 aimtell.com
 0.0.0.0 air.tv
-! allow airbnb.com.edgekey.net reason: not a tracker
+
 0.0.0.0 airpr.com
 0.0.0.0 aisvip-a.akamaihd.net
 0.0.0.0 aixport.de
 0.0.0.0 ajax.googleapis.com
 0.0.0.0 akacdn.co
-0.0.0.0 akamai-111035.edgekey.net
+
 ! allow akamai.com reason: not a tracker
 0.0.0.0 akmxts.com
 0.0.0.0 alamy.com
@@ -13674,7 +13674,7 @@
 0.0.0.0 alexa.com
 ! allow algolia.net reason: search cdn
 ! allow algolianet.com reason: search cdn
-0.0.0.0 alicdn.com.edgekey.net
+
 0.0.0.0 alicloudapi.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 all4phones.de
@@ -13696,13 +13696,13 @@
 0.0.0.0 ams.to
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
-0.0.0.0 analog.com.edgekey.net
+
 0.0.0.0 analyser.de
 0.0.0.0 analysis.fi
-0.0.0.0 analytics.edgekey.net
+
 0.0.0.0 analyze.ly
 0.0.0.0 ancensoredcloud2.xyz
-0.0.0.0 ancestrycdn.com.edgekey.net
+
 0.0.0.0 andromedae-b.com
 0.0.0.0 aninter.net
 0.0.0.0 anivi.xyz
@@ -13732,17 +13732,17 @@
 0.0.0.0 assertive.workers.dev
 0.0.0.0 assoc-amazon.de
 0.0.0.0 at-o.net
-0.0.0.0 at-v1.edgekey.net
-0.0.0.0 at.edgekey.net
+
+
 0.0.0.0 atf-tagmanager.de
-0.0.0.0 ati.com.edgekey.net
+
 0.0.0.0 atomik.vip
 0.0.0.0 atsptp.com
 0.0.0.0 att.com
 0.0.0.0 attentivemobile.com
 0.0.0.0 attn.tv
 0.0.0.0 attraqt.com
-0.0.0.0 au.edgekey.net
+
 ! allow audi.com reason: not a tracker
 0.0.0.0 audiencemanager.de
 0.0.0.0 audionow.de
@@ -13750,13 +13750,13 @@
 0.0.0.0 ausgezeichnet.org
 ! allow auth0.com reason: not a tracker
 0.0.0.0 authorized.by
-! allow autodesk.com reason: not a tracker.edgekey.net
+
 ! allow autodesk.com reason: not a tracker
 ! allow autoscout24.com reason: not a tracker
 0.0.0.0 avada.io
 0.0.0.0 avads.net
 0.0.0.0 avantisvideo.com
-0.0.0.0 avast.com.edgekey.net
+
 0.0.0.0 avct.cloud
 0.0.0.0 avenga.cloud
 0.0.0.0 avplayer.com
@@ -13782,7 +13782,7 @@
 ! allow bahn.de reason: not a tracker, german railway
 0.0.0.0 baidu.com
 0.0.0.0 baimgfroggd.site
-0.0.0.0 banggood.com.edgekey.net
+
 0.0.0.0 bannerflow.net
 0.0.0.0 bannersnack.com
 0.0.0.0 bantgoau.com
@@ -13829,18 +13829,18 @@
 0.0.0.0 biguz.net
 0.0.0.0 bikenetzwerk.de
 0.0.0.0 123rf.com
-! allow 129vod-adaptive.akamaized.net reason: not a tracker
-0.0.0.0 163vod-adaptive.akamaized.net
-0.0.0.0 192vod-adaptive.akamaized.net
+
+
+
 0.0.0.0 1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com
 0.0.0.0 20-193-45-113_s-23-48-96-104_ts-1655832865-clienttons-s.akamaihd.net
 0.0.0.0 20-193-45-113_s-23-55-38-58_ts-1655835492-clienttons-s.akamaihd.net
 0.0.0.0 3plearning.net
-0.0.0.0 55vod-adaptive.akamaized.net
-0.0.0.0 5vod-adaptive.akamaized.net
-0.0.0.0 60vod-adaptive.akamaized.net
+
+
+
 0.0.0.0 7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com
-0.0.0.0 78vod-adaptive.akamaized.net
+
 ! allow abcnews.com reason: not a tracker
 0.0.0.0 acmi-website-media-prod.s3.amazonaws.com
 0.0.0.0 adaraanalytics.com
@@ -13885,7 +13885,7 @@
 0.0.0.0 airrobe.com
 0.0.0.0 airtrfx.com
 0.0.0.0 ak21727.com
-0.0.0.0 akamai-130534.edgekey.net
+
 0.0.0.0 ako.ai
 0.0.0.0 alb-logs-http-rum-pub-s0-1171131448.us-east-1.elb.amazonaws.com
 0.0.0.0 aliyuncs.com
@@ -14018,7 +14018,7 @@
 0.0.0.0 bitcoinbazis.hu
 0.0.0.0 bitgravity.com
 0.0.0.0 bizibly.com
-0.0.0.0 bkrtx.com.edgekey.net
+
 0.0.0.0 blackbaudhosting.com
 0.0.0.0 blackcrow.ai
 0.0.0.0 bleepstatic.com
@@ -14028,7 +14028,7 @@
 0.0.0.0 blubrry.com
 0.0.0.0 blueberry.map.fastly.net
 0.0.0.0 bluecore.com
-0.0.0.0 bluekai.com.edgekey.net
+
 0.0.0.0 bluemix.net
 0.0.0.0 blueplanetcertificate.com
 0.0.0.0 bnbstatic.com
@@ -14038,7 +14038,7 @@
 0.0.0.0 bnmla.com
 0.0.0.0 bnt-cdn.b-cdn.net
 0.0.0.0 bodiscdn.com
-0.0.0.0 bodybuilding.com.edgekey.net
+
 0.0.0.0 bold360.com
 0.0.0.0 boltdns.net
 0.0.0.0 bongacams.com
@@ -14089,7 +14089,7 @@
 0.0.0.0 bustle.com
 0.0.0.0 buzzfeed.com
 0.0.0.0 buzzsprout.com
-0.0.0.0 bybit.com.edgekey.net
+
 0.0.0.0 bycsi.com
 0.0.0.0 bydata.com
 0.0.0.0 byteoversea.com.edgesuite.net
@@ -14097,11 +14097,11 @@
 0.0.0.0 c-ovn.jp
 0.0.0.0 c212.net
 0.0.0.0 c3tag.com
-0.0.0.0 c6f6073da6ac6a8af34cee7812840042.edgekey.net
+
 0.0.0.0 ca-central-1.amazonaws.com
 0.0.0.0 ca-richimage.com
-0.0.0.0 ca-v1.edgekey.net
-0.0.0.0 ca.edgekey.net
+
+
 0.0.0.0 cabnnr.com
 0.0.0.0 calculatorsonline.com.au
 0.0.0.0 calendly.com
@@ -14119,14 +14119,14 @@
 0.0.0.0 capterra.com
 0.0.0.0 captifymedia.com
 0.0.0.0 carambo.la
-0.0.0.0 care.com.edgekey.net
+
 0.0.0.0 carecart.io
 0.0.0.0 cartkit-public.s3.amazonaws.com
 0.0.0.0 cartkitcdn.com
 0.0.0.0 cartstack.com
 0.0.0.0 cashewsforlife208.com
 0.0.0.0 cassiecloud.com
-0.0.0.0 cathaypacific.com.edgekey.net
+
 0.0.0.0 catsnbootsncats2020.com
 0.0.0.0 cauly.co.kr
 ! allow cbc.ca reason: not a tracker
@@ -14172,7 +14172,7 @@
 0.0.0.0 chemistwarehouse.com.au
 0.0.0.0 cheqzone.com
 0.0.0.0 childlikeform.com
-0.0.0.0 china.com.edgekey.net
+
 0.0.0.0 chipmanksmochus.com
 0.0.0.0 chl7rysobc3ol6xla.com
 0.0.0.0 chmod777.ltd
@@ -14211,9 +14211,9 @@
 0.0.0.0 cloudlogobox.com
 0.0.0.0 clrstm.com
 0.0.0.0 cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com
-! allow cnbc.com reason: not a tracker.edgekey.net
+
 ! allow cnbc.com reason: not a tracker
-! allow cnbcfm.com.edgekey.net reason: not a tracker
+
 0.0.0.0 cnevids.com
 0.0.0.0 cnews.cz
 0.0.0.0 cnnx.link
@@ -14234,10 +14234,10 @@
 0.0.0.0 coinzilla.com
 0.0.0.0 coles.com.au
 0.0.0.0 colossusssp.com
-0.0.0.0 com-c.edgekey.net
-0.0.0.0 com-v1.edgekey.net
-0.0.0.0 com-v2.edgekey.net
-0.0.0.0 com-v3.edgekey.net
+
+
+
+
 0.0.0.0 comicbook.map.fastly.net
 0.0.0.0 comm100.io
 0.0.0.0 comodo.com
@@ -14272,7 +14272,7 @@
 0.0.0.0 corel.com
 0.0.0.0 costco-adbutler.com
 0.0.0.0 costco-static.com
-0.0.0.0 costco.com.edgekey.net
+
 0.0.0.0 covet.pics
 0.0.0.0 cpmstar.com
 0.0.0.0 cpx.to
@@ -14411,7 +14411,7 @@
 0.0.0.0 ca.edgesuite.net
 0.0.0.0 cachefly.net
 0.0.0.0 calgary.ca
-! allow callofduty.com.edgekey.net reason: not a tracker
+
 0.0.0.0 calmcactus.com
 0.0.0.0 camschat.net
 ! allow canada.ca reason: not a tracker
@@ -14420,7 +14420,7 @@
 0.0.0.0 canadapost-postescanada.ca
 0.0.0.0 canadianevergreen.com
 0.0.0.0 canadiantire.ca
-! allow canon.com.edgekey.net reason: not a tracker
+
 0.0.0.0 capig-appli-1cb8h7tn7ozej-1283435480.us-east-1.elb.amazonaws.com
 0.0.0.0 capitalone.com
 0.0.0.0 capitalonegslbex.com
@@ -14430,7 +14430,7 @@
 0.0.0.0 carrierzone.com
 0.0.0.0 cartfulsolutions.com
 0.0.0.0 ccg-analytics-server-prod.herokuapp.com
-0.0.0.0 ccmbg.com.edgekey.net
+
 0.0.0.0 cconnect.s3.amazonaws.com
 0.0.0.0 ccscserver.com
 0.0.0.0 cdic.ca
@@ -14440,7 +14440,7 @@
 0.0.0.0 cdnbay.com
 0.0.0.0 cdnpark.com
 0.0.0.0 cdnvideo.ru
-0.0.0.0 cdw.com.edgekey.net
+
 0.0.0.0 celtraidentity.com
 0.0.0.0 central1.cc
 0.0.0.0 certona.net
@@ -14475,10 +14475,10 @@
 0.0.0.0 clknrtrg.pro
 0.0.0.0 cloudflareresearch.com
 0.0.0.0 cntxtfl.com
-0.0.0.0 co.edgekey.net
-0.0.0.0 coboc.com.edgekey.net
-0.0.0.0 com-dsd.edgekey.net
-0.0.0.0 comv2.edgekey.net
+
+
+
+
 0.0.0.0 conectys.com
 0.0.0.0 connextra.com
 0.0.0.0 contactatonce.com
@@ -14497,7 +14497,7 @@
 0.0.0.0 corus.ca
 0.0.0.0 corusappservices.com
 0.0.0.0 corusdigitaldev.com
-0.0.0.0 costcobusinessdelivery.com.edgekey.net
+
 0.0.0.0 countryflags.io
 0.0.0.0 cpap.map.fastly.net
 0.0.0.0 cpxstoreimages.com
@@ -14526,7 +14526,7 @@
 ! allow coolblue.eu reason: not a tracker
 0.0.0.0 cormes.de
 0.0.0.0 cosstores.com
-0.0.0.0 cosystatic-prod.edgekey.net
+
 0.0.0.0 cptrack.de
 0.0.0.0 creditreform.de
 0.0.0.0 crobox.com
@@ -14659,9 +14659,9 @@
 0.0.0.0 dditscdn.com
 0.0.0.0 ddl88dmz00fwt.cloudfront.net
 0.0.0.0 ddrvjrfwnij7n.cloudfront.net
-0.0.0.0 de-v1.edgekey.net
+
 0.0.0.0 de.akamaized.net
-0.0.0.0 de.edgekey.net
+
 0.0.0.0 de.edgesuite.net
 0.0.0.0 de17a.com
 0.0.0.0 de2pmm85odupd.cloudfront.net
@@ -14675,7 +14675,7 @@
 0.0.0.0 deliverimp.com
 0.0.0.0 dell-cidr.akadns.net
 0.0.0.0 delmovip.com
-0.0.0.0 delta.com.edgekey.net
+
 0.0.0.0 demandware.net
 0.0.0.0 dentsu.de
 0.0.0.0 deskline.net
@@ -14689,10 +14689,10 @@
 0.0.0.0 di5.biz
 0.0.0.0 diablo3.com
 0.0.0.0 dialogtech.com
-0.0.0.0 diepresse.com.edgekey.net
+
 0.0.0.0 digiaccess.org
 ! allow digicert.com reason: not just a tracker
-! allow digital.edgekey.net reason: not a tracker
+
 ! allow digitalgov.gov reason: not a tracker only dap subdomain is
 0.0.0.0 digitalpfizer.com
 0.0.0.0 digitalriver.com
@@ -14795,10 +14795,10 @@
 0.0.0.0 congstar-media.de
 ! allow conrad.de reason: not a trackeer
 0.0.0.0 consentconverter.com
-0.0.0.0 108vod-adaptive.akamaized.net
-0.0.0.0 119vod-adaptive.akamaized.net
+
+
 0.0.0.0 24log.es
-0.0.0.0 58vod-adaptive.akamaized.net
+
 0.0.0.0 aa2xx.xyz
 0.0.0.0 addresseepaper.com
 0.0.0.0 adept-shop-ui.s3.us-east-2.amazonaws.com
@@ -14818,7 +14818,7 @@
 0.0.0.0 adsupplyssl.com
 0.0.0.0 adtector.com
 0.0.0.0 adultvideotop.com
-0.0.0.0 advance.edgekey.net
+
 0.0.0.0 advancelocal.map.fastly.net
 0.0.0.0 adverline.com
 0.0.0.0 ae-media.ca
@@ -14829,7 +14829,7 @@
 0.0.0.0 agrvt.com
 0.0.0.0 aicdn.com
 0.0.0.0 aimbase.com
-! allow aircanada.com reason: not a tracker.edgekey.net
+
 ! allow aircanada.com reason: not a tracker
 0.0.0.0 alaskaair.net
 0.0.0.0 alcmpn.com
@@ -14950,7 +14950,7 @@
 0.0.0.0 deernes.com
 0.0.0.0 defybrick.com
 0.0.0.0 delonghigroup.com
-0.0.0.0 depositphotos.com.edgekey.net
+
 0.0.0.0 dev-era-184513.ew.r.appspot.com
 0.0.0.0 dh0i9ryzlewh.cloudfront.net
 0.0.0.0 dhlparcel.nl
@@ -14963,7 +14963,7 @@
 0.0.0.0 directferries.co.uk
 ! allow discordapp.com reason: not a tracker
 0.0.0.0 dismantlepenantiterrorist.com
-0.0.0.0 disney.com.edgekey.net
+
 0.0.0.0 disney.com.edgesuite.net
 0.0.0.0 distribusion.com
 0.0.0.0 dl906josmvu2y.cloudfront.net
@@ -15004,7 +15004,7 @@
 0.0.0.0 bangbrosonline.com
 0.0.0.0 barbmerchant.com
 0.0.0.0 barnebys.com
-0.0.0.0 barrons.com.edgekey.net
+
 0.0.0.0 basis.net
 0.0.0.0 bcdn9854324.com
 0.0.0.0 bclaws.ca
@@ -15034,13 +15034,13 @@
 0.0.0.0 bookmark.xxx
 0.0.0.0 bootstraplugin.com
 0.0.0.0 borderfree.com
-0.0.0.0 126vod-adaptive.akamaized.net
-0.0.0.0 144vod-adaptive.akamaized.net
-0.0.0.0 14vod-adaptive.akamaized.net
-0.0.0.0 150vod-adaptive.akamaized.net
+
+
+
+
 0.0.0.0 360perspektiven.com
-0.0.0.0 48vod-adaptive.akamaized.net
-0.0.0.0 92vod-adaptive.akamaized.net
+
+
 0.0.0.0 aboutyou.ch
 0.0.0.0 abraxas-apis.ch
 0.0.0.0 abraxas-apps.ch
@@ -15076,9 +15076,9 @@
 0.0.0.0 aleno.me
 0.0.0.0 aliexpress.ru
 0.0.0.0 almamedia.net
-0.0.0.0 ame.edgekey.net
+
 ! allow americanairlines.ch reason: not a tracker
-! allow americanexpress.com.edgekey.net reason: not a tracker
+
 0.0.0.0 anbieter-vergleich.ch
 0.0.0.0 ancensored.com
 0.0.0.0 anrdoezrs.net
@@ -15091,8 +15091,8 @@
 0.0.0.0 appmobile-bridge-js.s3-eu-west-1.amazonaws.com
 0.0.0.0 aral.github.io
 0.0.0.0 arcantel.ch
-0.0.0.0 asos-media.com.edgekey.net
-0.0.0.0 asosservices.com.edgekey.net
+
+
 0.0.0.0 atype.jp
 0.0.0.0 aura-dsp.com
 0.0.0.0 autoscout24.ch
@@ -15127,7 +15127,7 @@
 0.0.0.0 buttons.github.io
 0.0.0.0 buymeacoffee.com
 0.0.0.0 bx-cloud.com
-! allow canalplus.com reason: not a tracker.edgekey.net
+
 0.0.0.0 cartsguru.io
 0.0.0.0 carusseldwt.com
 0.0.0.0 casualnetworksbv.com
@@ -15140,19 +15140,19 @@
 0.0.0.0 cdntwrk.com
 0.0.0.0 cdnwebcloud.com
 ! allow ch.ch reason: swiss gov
-! allow ch.edgekey.net reason: swiss gov
+
 ! allow chart.googleapis.com reason: required library
 0.0.0.0 checkfront.com
 0.0.0.0 chessabc.com
 0.0.0.0 1000otzyvov.com
 0.0.0.0 123roulement.be
-! allow 123vod-adaptive.akamaized.net reason: required
-! allow 132vod-adaptive.akamaized.net reason: required
-! allow 145vod-adaptive.akamaized.net reason: required
+
+
+
 0.0.0.0 1997media.com
 0.0.0.0 1lib.fr
 0.0.0.0 321lenet.com
-! allow 76vod-adaptive.akamaized.net reason: not a tracker
+
 0.0.0.0 abeille-assurances.fr
 0.0.0.0 abla.io
 0.0.0.0 acotedemoi.com
@@ -15313,7 +15313,7 @@
 0.0.0.0 asda.com.akadns.net
 0.0.0.0 askanxiety.com
 0.0.0.0 asksid.ai
-0.0.0.0 assets-asda.com.edgekey.net
+
 0.0.0.0 assets.nhs.uk
 0.0.0.0 atreemo.com
 0.0.0.0 audioboom.com
@@ -15338,7 +15338,7 @@
 0.0.0.0 birdguides-cdn.com
 0.0.0.0 birdingtop500.com
 0.0.0.0 blackbird.b-cdn.net
-0.0.0.0 blackrock.com.edgekey.net
+
 0.0.0.0 bm23.com
 0.0.0.0 bonne-terre-data-layer.com
 0.0.0.0 boost-next.co.jp
@@ -15364,7 +15364,7 @@
 0.0.0.0 cni-digital.map.fastly.net
 0.0.0.0 cnnx.io
 0.0.0.0 co-buying.com
-0.0.0.0 com-secure.edgekey.net
+
 0.0.0.0 commbox.io
 0.0.0.0 contentstack.com
 0.0.0.0 controq.com

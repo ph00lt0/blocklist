@@ -15435,3 +15435,4 @@
 0.0.0.0 d3hfsi93jn4r7y.cloudfront.net
 0.0.0.0 d3hw6dc1ow8pp2.cloudfront.net
 0.0.0.0 d3ithgl79uu5su.cloudfront.net
+0.0.0.0 a.apkpure.com

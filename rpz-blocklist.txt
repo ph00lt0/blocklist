@@ -164,8 +164,8 @@ go2sdk.com CNAME .
 js.go2sdk.com CNAME .
 leaddyno.com CNAME .
 static.leaddyno.com CNAME .
-supportmetrics.apple.com CNAME .
-securemetrics.apple.com CNAME .
+supportmetrics.; allow apple.com reason: not a tnot a tracker
+securemetrics.; allow apple.com reason: not a tnot a tracker
 a.opmnstr.com CNAME .
 js.monitor.azure.com CNAME .
 geolocation-recommendations.shopifycloud.com CNAME .
@@ -231,30 +231,30 @@ createpdf.acrobat.com CNAME .
 genuine.; allow adobe.com reason: not a tracker
 apple.co CNAME .
 aaplimg.com' CNAME .
-weather-analytics-events.apple.com CNAME .
+weather-analytics-events.; allow apple.com reason: not a tnot a tracker
 apple.comscoreresearch.com CNAME .
-news-edge.apple.com CNAME .
-news-events.apple.com CNAME .
+news-edge.; allow apple.com reason: not a tnot a tracker
+news-events.; allow apple.com reason: not a tnot a tracker
 apple.news CNAME .
 apple-dns.net CNAME .
-xp.apple.com CNAME .
-iphonesubmissions.apple.com CNAME .
+xp.; allow apple.com reason: not a tnot a tracker
+iphonesubmissions.; allow apple.com reason: not a tnot a tracker
 apple-cloudkit.com CNAME .
-valid.apple.com CNAME .
-sonos-music.apple.com CNAME .
-pancake.apple.com CNAME .
-ess.apple.com CNAME .
-ls.apple.com CNAME .
-lcdn-locator.apple.com CNAME .
-lcdn-registration.apple.com CNAME .
-s-loc.apple.com CNAME .
+valid.; allow apple.com reason: not a tnot a tracker
+sonos-music.; allow apple.com reason: not a tnot a tracker
+pancake.; allow apple.com reason: not a tnot a tracker
+ess.; allow apple.com reason: not a tnot a tracker
+ls.; allow apple.com reason: not a tnot a tracker
+lcdn-locator.; allow apple.com reason: not a tnot a tracker
+lcdn-registration.; allow apple.com reason: not a tnot a tracker
+s-loc.; allow apple.com reason: not a tnot a tracker
 ls.apple.com.akadns.net CNAME .
 ls.apple.com.edgesuite.net CNAME .
-reserve-prime.apple.com CNAME .
+reserve-prime.; allow apple.com reason: not a tnot a tracker
 push-apple.com.akadns.net CNAME .
 push.apple.com.akadns.net CNAME .
-push.apple.com CNAME .
-smp-device-content.apple.com CNAME .
+push.; allow apple.com reason: not a tnot a tracker
+smp-device-content.; allow apple.com reason: not a tnot a tracker
 geo-applefinance-cache.internal.query.g03.yahoodns.net CNAME .
 events.blendle.com CNAME .
 events-external.blendle.com CNAME .
@@ -876,7 +876,7 @@ ssa.stepstone.com CNAME .
 prescreenapp.io CNAME .
 brenscino.prescreenapp.io CNAME .
 hrs.althoffhotels.com CNAME .
-linkmaker.itunes.apple.com CNAME .
+linkmaker.itunes.; allow apple.com reason: not a tnot a tracker
 ws.sharethis.com CNAME .
 personalwerk.de CNAME .
 pws.personalwerk.net CNAME .
@@ -1120,7 +1120,7 @@ wwww.shopperapproved.com CNAME .
 adtago.s3.amazonaws.com CNAME .
 metrics.mzstatic.com CNAME .
 metrics.icloud.com CNAME .
-metrics.apple.com CNAME .
+metrics.; allow apple.com reason: not a tnot a tracker
 ad.samsungadhub.com CNAME .
 samsungadhub.com CNAME .
 samsungads.com CNAME .
@@ -1457,7 +1457,7 @@ www.teamviewer.com CNAME .
 samsappsbn.vo.llnwd.net CNAME .
 vgz.my.salesforce.com CNAME .
 otag.h2os.com CNAME .
-gsa.apple.com CNAME .
+gsa.; allow apple.com reason: not a tnot a tracker
 ws-mt1.pusher.com CNAME .
 oneclient.sfx.ms CNAME .
 p3a.brave.com CNAME .
@@ -1469,7 +1469,7 @@ ads-serve.brave.com CNAME .
 firebase-settings.crashlytics.com CNAME .
 cdn.syndication.twimg.com CNAME .
 pbs.twimg.com CNAME .
-init.push.apple.com CNAME .
+init.push.; allow apple.com reason: not a tnot a tracker
 gruene.matomo.cloud CNAME .
 actionnetwork.org CNAME .
 webstats.liberale.de CNAME .
@@ -3826,7 +3826,7 @@ api.producthunt.com CNAME .
 widget.intercom.io CNAME .
 p1.parsely.com CNAME .
 checkip.synology.com CNAME .
-api.smoot.apple.com CNAME .
+api.smoot.; allow apple.com reason: not a tnot a tracker
 klik.nrc.nl CNAME .
 checkip.dyndns.org CNAME .
 cmp.viva.nl CNAME .
@@ -3999,7 +3999,7 @@ ws-eu.amazon-adsystem.com CNAME .
 udmserve.net CNAME .
 bid.underdog.media CNAME .
 underdog.media CNAME .
-km.support.apple.com CNAME .
+km.support.; allow apple.com reason: not a tnot a tracker
 firefly.bol.com CNAME .
 bltg.s-bol.com CNAME .
 gcp.api.snapchat.com CNAME .
@@ -6643,7 +6643,7 @@ mczbf.com CNAME .
 app.mailmunch.com CNAME .
 mailmunch.com CNAME .
 platform.vine.co CNAME .
-idiagnostics.apple.com CNAME .
+idiagnostics.; allow apple.com reason: not a tnot a tracker
 idiagnostics.apple.com.akadns.net CNAME .
 c.persgroep.net CNAME .
 guotjtkfjohn.belkin CNAME .
@@ -8452,7 +8452,7 @@ game.51yund.com CNAME .
 ganjituiguang.ganji.com CNAME .
 grand.ele.me CNAME .
 hosting.miarroba.info CNAME .
-iadsdk.apple.com CNAME .
+iadsdk.; allow apple.com reason: not a tnot a tracker
 image.gentags.com CNAME .
 its-dori.tumblr.com CNAME .
 log.outbrain.com CNAME .
@@ -9260,7 +9260,7 @@ storewidget.pcauthority.com.au CNAME .
 stream.heavenmedia.net CNAME .
 streaming.rtbiddingplatform.com CNAME .
 stuff.202m.com CNAME .
-sub.powerapple.com CNAME .
+sub.power; allow apple.com reason: not a tnot a tracker
 sub.topber.com CNAME .
 subswin.com CNAME .
 sucodb.com CNAME .
@@ -12138,7 +12138,7 @@ drive-thirdparty.googleapis.com CNAME .
 drive-thirdparty.googleusercontent.com CNAME .
 onpage.org CNAME .
 freemius.com CNAME .
-tr.iadsdk.apple.com CNAME .
+tr.iadsdk.; allow apple.com reason: not a tnot a tracker
 embeddable-widgets-euw1.insided.com CNAME .
 180hits.de CNAME .
 utarget.co.uk CNAME .
@@ -13607,7 +13607,7 @@ apa.at CNAME .
 apkpure.net CNAME .
 appcues.net CNAME .
 apple.com.akadns.net CNAME .
-apple.com CNAME .
+; allow apple.com reason: not a tnot a tracker
 aquaplatform.com CNAME .
 arcpublishing.com CNAME .
 arcspire.io CNAME .
@@ -14027,7 +14027,7 @@ cbsi.map.fastly.net CNAME .
 cbsivideo.com CNAME .
 ccmiocw.com CNAME .
 cdn-apple.com.akadns.net CNAME .
-cdn-apple.com CNAME .
+cdn-; allow apple.com reason: not a tnot a tracker
 cdn-net.com CNAME .
 cdn-payhelm.s3.amazonaws.com CNAME .
 cdn-spurit.com CNAME .

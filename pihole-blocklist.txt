@@ -235,7 +235,7 @@
 0.0.0.0 apple.co
 0.0.0.0 aaplimg.com'
 0.0.0.0 weather-analytics-events.apple.com
-0.0.0.0 apple.comscoreresearch.com
+! allow apple.com reason: not a tnot a trackerscoreresearch.com
 0.0.0.0 news-edge.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 apple.news
@@ -13714,8 +13714,8 @@
 0.0.0.0 apa.at
 0.0.0.0 apkpure.net
 0.0.0.0 appcues.net
-0.0.0.0 apple.com.akadns.net
-0.0.0.0 apple.com
+! allow apple.com reason: not a tnot a tracker.akadns.net
+! allow apple.com reason: not a tnot a tracker
 0.0.0.0 aquaplatform.com
 0.0.0.0 arcpublishing.com
 0.0.0.0 arcspire.io

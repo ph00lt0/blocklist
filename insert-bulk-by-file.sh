@@ -1,5 +1,6 @@
 #!/bin/bash
-declare domains=$(cat domains-to-insert.txt)
+declare domainInsertList="./domains-to-insert.txt"
+declare domains=$(cat $domainInsertList)
 
 declare blocklist="./blocklist.txt"
 declare piholeBlocklist="./pihole-blocklist.txt"
@@ -44,3 +45,6 @@ for domain in ${domains//,/ }; do
     fi
 done
 git commit -am "added domains in bulk to blocklist" && git push origin master && git push github master
+echo "Completed, clearing file"
+printf "" > $domainInsertList
+

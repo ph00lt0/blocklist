@@ -13636,7 +13636,7 @@ local-zone: "attentivemobile.com." always_null
 local-zone: "attn.tv." always_null
 local-zone: "attraqt.com." always_null
 local-zone: "au.edgekey.net." always_null
-local-zone: "audi.com." always_null
+# allow audi.com reason: not a tracker
 local-zone: "audiencemanager.de." always_null
 local-zone: "audionow.de." always_null
 local-zone: "audrte.com." always_null

@@ -13635,7 +13635,7 @@ attentivemobile.com CNAME .
 attn.tv CNAME .
 attraqt.com CNAME .
 au.edgekey.net CNAME .
-audi.com CNAME .
+; allow audi.com reason: not a tracker
 audiencemanager.de CNAME .
 audionow.de CNAME .
 audrte.com CNAME .

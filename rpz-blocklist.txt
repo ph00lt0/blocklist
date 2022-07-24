@@ -12502,3 +12502,4 @@ cloudaudit.googleapis.com CNAME .
 avazutracking.net CNAME .
 adflake.com CNAME .
 adotsolution.com CNAME .
+generalmobi.com CNAME .

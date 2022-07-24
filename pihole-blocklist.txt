@@ -12610,3 +12610,4 @@
 0.0.0.0 avazutracking.net
 0.0.0.0 adflake.com
 0.0.0.0 adotsolution.com
+0.0.0.0 generalmobi.com

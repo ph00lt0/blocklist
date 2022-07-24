@@ -12927,3 +12927,4 @@ $removeparam=engagement_type
 ||avazutracking.net^
 ||adflake.com^
 ||adotsolution.com^
+||generalmobi.com^

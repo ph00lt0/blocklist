@@ -13662,7 +13662,7 @@ awsmpsa.com CNAME .
 ax4z.com CNAME .
 ay.delivery CNAME .
 aylink.co CNAME .
-azure-api.net CNAME .
+; allow azure-api.net reason: not a tracker
 ; allow azure.com reason: not a tracker
 azurefd.net CNAME .
 b0oie4xjeb4ite.com CNAME .

@@ -14087,7 +14087,7 @@ $removeparam=engagement_type
 ||ax4z.com^
 ||ay.delivery^
 ||aylink.co^
-||azure-api.net^
+@@||azure-api.net^  # not a tracker
 @@||azure.com^  # not a tracker
 ||azurefd.net^
 ||b0oie4xjeb4ite.com^

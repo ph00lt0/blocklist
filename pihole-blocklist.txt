@@ -15051,7 +15051,7 @@
 0.0.0.0 adconsole.ch
 0.0.0.0 adctrl.com
 0.0.0.0 adextrem.com
-0.0.0.0 adidas.ch
+! allow adidas.ch reason: not a tracker
 0.0.0.0 adikteev.com
 0.0.0.0 admatic.com.tr
 ! allow admin.ch reason: swiss gov not a tracker

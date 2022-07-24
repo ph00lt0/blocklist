@@ -14943,7 +14943,7 @@ adbutter.net CNAME .
 adconsole.ch CNAME .
 adctrl.com CNAME .
 adextrem.com CNAME .
-adidas.ch CNAME .
+; allow adidas.ch reason: not a tracker
 adikteev.com CNAME .
 admatic.com.tr CNAME .
 ; allow admin.ch reason: swiss gov not a tracker

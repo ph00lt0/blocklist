@@ -15369,7 +15369,7 @@ $removeparam=engagement_type
 ||adconsole.ch^
 ||adctrl.com^
 ||adextrem.com^
-||adidas.ch^
+@@||adidas.ch^  # not a tracker
 ||adikteev.com^
 ||admatic.com.tr^
 @@||admin.ch^  # swiss gov not a tracker

@@ -12578,7 +12578,7 @@ local-zone: "123moviesplayer.com." always_null
 local-zone: "123rf.s3.amazonaws.com." always_null
 local-zone: "123stat.com." always_null
 local-zone: "1240611520.rsc.cdn77.org." always_null
-local-zone: "125vod-adaptive.akamaized.net." always_null
+# allow 125vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "126.net." always_null
 local-zone: "127.0.0.1." always_null
 local-zone: "127.net." always_null

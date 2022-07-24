@@ -15796,3 +15796,4 @@ $removeparam=engagement_type
 ||awesomeopensource.com^
 ||vhfdental.com^
 ||api.mtr.pub^
+||matomo.pifferi.info^

@@ -15374,3 +15374,4 @@ bleepcoder.com CNAME .
 awesomeopensource.com CNAME .
 vhfdental.com CNAME .
 api.mtr.pub CNAME .
+matomo.pifferi.info CNAME .

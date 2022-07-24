@@ -14597,7 +14597,7 @@ local-zone: "dimdi.de." always_null
 local-zone: "dipf.de." always_null
 local-zone: "directferries.com." always_null
 local-zone: "disco-api.com." always_null
-local-zone: "discord.com." always_null
+# allow discord.com reason: not a tracker
 local-zone: "disqus.com." always_null
 local-zone: "disquscdn.com." always_null
 local-zone: "distance.to." always_null

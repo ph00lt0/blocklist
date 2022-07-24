@@ -14596,7 +14596,7 @@ dimdi.de CNAME .
 dipf.de CNAME .
 directferries.com CNAME .
 disco-api.com CNAME .
-discord.com CNAME .
+; allow discord.com reason: not a tracker
 disqus.com CNAME .
 disquscdn.com CNAME .
 distance.to CNAME .

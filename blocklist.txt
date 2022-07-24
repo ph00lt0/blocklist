@@ -15021,7 +15021,7 @@ $removeparam=engagement_type
 ||dipf.de^
 ||directferries.com^
 ||disco-api.com^
-||discord.com^
+@@||discord.com^  # not a tracker
 ||disqus.com^
 ||disquscdn.com^
 ||distance.to^

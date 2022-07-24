@@ -14704,7 +14704,7 @@
 0.0.0.0 dipf.de
 0.0.0.0 directferries.com
 0.0.0.0 disco-api.com
-0.0.0.0 discord.com
+! allow discord.com reason: not a tracker
 0.0.0.0 disqus.com
 0.0.0.0 disquscdn.com
 0.0.0.0 distance.to

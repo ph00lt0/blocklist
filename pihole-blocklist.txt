@@ -12600,3 +12600,4 @@
 0.0.0.0 ads.viralize.tv
 0.0.0.0 sockjs-eu.pusher.com
 0.0.0.0 ws-eu.pusher.com
+0.0.0.0 badge.facebook.com

@@ -12912,3 +12912,4 @@ $removeparam=subid1
 ||ads.viralize.tv^
 ||sockjs-eu.pusher.com^
 ||ws-eu.pusher.com^
+||badge.facebook.com^

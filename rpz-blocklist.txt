@@ -12489,3 +12489,4 @@ data.qvc.de CNAME .
 assets.adobetm.com CNAME .
 api.branch.io CNAME .
 nmg-ads.com CNAME .
+ads.viralize.tv CNAME .

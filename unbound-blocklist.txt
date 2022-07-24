@@ -12490,3 +12490,4 @@ local-zone: "data.qvc.de." always_null
 local-zone: "assets.adobetm.com." always_null
 local-zone: "api.branch.io." always_null
 local-zone: "nmg-ads.com." always_null
+local-zone: "ads.viralize.tv." always_null

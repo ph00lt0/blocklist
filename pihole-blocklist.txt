@@ -12597,3 +12597,4 @@
 0.0.0.0 assets.adobetm.com
 0.0.0.0 api.branch.io
 0.0.0.0 nmg-ads.com
+0.0.0.0 ads.viralize.tv

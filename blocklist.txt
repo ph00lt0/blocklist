@@ -12909,3 +12909,4 @@ $removeparam=subid1
 ||assets.adobetm.com^
 ||api.branch.io^
 ||nmg-ads.com^
+||ads.viralize.tv^

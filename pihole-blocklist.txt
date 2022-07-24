@@ -13658,7 +13658,7 @@
 0.0.0.0 aidata.io
 0.0.0.0 aimtell.com
 0.0.0.0 air.tv
-0.0.0.0 airbnb.com.edgekey.net
+! allow airbnb.com.edgekey.net reason: not a tracker
 0.0.0.0 airpr.com
 0.0.0.0 aisvip-a.akamaihd.net
 0.0.0.0 aixport.de

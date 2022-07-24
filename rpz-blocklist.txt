@@ -13550,7 +13550,7 @@ ahacdn.me CNAME .
 aidata.io CNAME .
 aimtell.com CNAME .
 air.tv CNAME .
-airbnb.com.edgekey.net CNAME .
+; allow airbnb.com.edgekey.net reason: not a tracker
 airpr.com CNAME .
 aisvip-a.akamaihd.net CNAME .
 aixport.de CNAME .

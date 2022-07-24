@@ -13975,7 +13975,7 @@ $removeparam=engagement_type
 ||aidata.io^
 ||aimtell.com^
 ||air.tv^
-||airbnb.com.edgekey.net^
+@@||airbnb.com.edgekey.net^  # not a tracker
 ||airpr.com^
 ||aisvip-a.akamaihd.net^
 ||aixport.de^

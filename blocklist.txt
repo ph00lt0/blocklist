@@ -13279,7 +13279,7 @@ $removeparam=engagement_type
 ||253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com^
 ||25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com^
 ||25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com^
-||25vod-adaptive.akamaized.net^
+@@||25vod-adaptive.akamaized.net^  # not a tracker
 ||26045.edgekey.net^
 ||266a96cdf18f311449fa309f2709f16e.edgekey.net^
 ||266d89f269934797a6865d354f8b515a.edgekey.net^

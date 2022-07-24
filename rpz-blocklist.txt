@@ -15362,3 +15362,4 @@ www.paqle.dk CNAME .
 paqle.dk CNAME .
 tredir.go.com CNAME .
 cdn.registerdisney.go.com CNAME .
+dcf.espn.com CNAME .

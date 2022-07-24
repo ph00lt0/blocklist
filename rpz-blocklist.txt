@@ -15175,7 +15175,7 @@ clubic.com CNAME .
 clubjimmy.com CNAME .
 clustaar.io CNAME .
 cms-experts.org CNAME .
-cnews.fr CNAME .
+; allow cnews.fr reason: not a tracker
 coinerblog.com CNAME .
 colisprive.com CNAME .
 comarquage.fr CNAME .

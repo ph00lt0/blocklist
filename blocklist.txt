@@ -15601,7 +15601,7 @@ $removeparam=engagement_type
 ||clubjimmy.com^
 ||clustaar.io^
 ||cms-experts.org^
-||cnews.fr^
+@@||cnews.fr^  # not a tracker
 ||coinerblog.com^
 ||colisprive.com^
 ||comarquage.fr^

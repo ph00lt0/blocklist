@@ -15176,7 +15176,7 @@ local-zone: "clubic.com." always_null
 local-zone: "clubjimmy.com." always_null
 local-zone: "clustaar.io." always_null
 local-zone: "cms-experts.org." always_null
-local-zone: "cnews.fr." always_null
+# allow cnews.fr reason: not a tracker
 local-zone: "coinerblog.com." always_null
 local-zone: "colisprive.com." always_null
 local-zone: "comarquage.fr." always_null

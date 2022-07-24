@@ -15283,7 +15283,7 @@
 0.0.0.0 clubjimmy.com
 0.0.0.0 clustaar.io
 0.0.0.0 cms-experts.org
-0.0.0.0 cnews.fr
+! allow cnews.fr reason: not a tracker
 0.0.0.0 coinerblog.com
 0.0.0.0 colisprive.com
 0.0.0.0 comarquage.fr

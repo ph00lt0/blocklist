@@ -12865,7 +12865,7 @@ local-zone: "27643.edgekey.net." always_null
 local-zone: "27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com." always_null
 local-zone: "27qfj.x.incapdns.net." always_null
 local-zone: "287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com." always_null
-local-zone: "28vod-adaptive.akamaized.net." always_null
+# allow 28vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "29vod-adaptive.akamaized.net." always_null
 local-zone: "29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com." always_null
 local-zone: "2a.media." always_null

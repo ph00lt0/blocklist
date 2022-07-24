@@ -12864,7 +12864,7 @@ jnn-pa.googleapis.com CNAME .
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com CNAME .
 27qfj.x.incapdns.net CNAME .
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com CNAME .
-28vod-adaptive.akamaized.net CNAME .
+; allow 28vod-adaptive.akamaized.net reason: not a tracker
 29vod-adaptive.akamaized.net CNAME .
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com CNAME .
 2a.media CNAME .

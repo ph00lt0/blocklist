@@ -12972,7 +12972,7 @@
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
-0.0.0.0 28vod-adaptive.akamaized.net
+! allow 28vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 29vod-adaptive.akamaized.net
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
 0.0.0.0 2a.media

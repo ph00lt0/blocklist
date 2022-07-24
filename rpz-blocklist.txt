@@ -13508,7 +13508,7 @@ adlooxtracking.com CNAME .
 adme-net.com CNAME .
 admeira.ch CNAME .
 adnet.de CNAME .
-adobe.com.edgekey.net CNAME .
+; allow adobe.com.edgekey.net reason: not a tracker
 adobe.com.edgesuite.net CNAME .
 ; allow adobe.com reason: not a tracker
 adobedc.net CNAME .

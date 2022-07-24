@@ -15191,7 +15191,7 @@ local-zone: "adrianflux.co.uk." always_null
 local-zone: "adsdefender.com." always_null
 local-zone: "adultwork.com." always_null
 local-zone: "advertsource.co.uk." always_null
-local-zone: "airfrance.fr." always_null
+# allow airfrance.fr reason: not a tracker
 local-zone: "alive5.com." always_null
 local-zone: "alphonso.tv." always_null
 # allow americanairlines.co.uk reason: not a tracker

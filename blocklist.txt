@@ -15616,7 +15616,7 @@ $removeparam=engagement_type
 ||adsdefender.com^
 ||adultwork.com^
 ||advertsource.co.uk^
-||airfrance.fr^
+@@||airfrance.fr^  # not a tracker
 ||alive5.com^
 ||alphonso.tv^
 @@||americanairlines.co.uk^  # not a tracker

@@ -15207,7 +15207,7 @@ local-zone: "asda.com.akadns.net." always_null
 local-zone: "askanxiety.com." always_null
 local-zone: "asksid.ai." always_null
 local-zone: "assets-asda.com.edgekey.net." always_null
-local-zone: "assets.nhs.uk." always_null
+# allow assets.nhs.uk reason: not a tracker
 local-zone: "atreemo.com." always_null
 local-zone: "audioboom.com." always_null
 local-zone: "autosynergy.co.uk." always_null

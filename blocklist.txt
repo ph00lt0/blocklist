@@ -15628,7 +15628,7 @@ $removeparam=engagement_type
 ||askanxiety.com^
 ||asksid.ai^
 
-||assets.nhs.uk^
+@@||assets.nhs.uk^  # not a tracker
 ||atreemo.com^
 ||audioboom.com^
 ||autosynergy.co.uk^

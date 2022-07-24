@@ -15206,7 +15206,7 @@ asda.com.akadns.net CNAME .
 askanxiety.com CNAME .
 asksid.ai CNAME .
 
-assets.nhs.uk CNAME .
+; allow assets.nhs.uk reason: not a tracker
 atreemo.com CNAME .
 audioboom.com CNAME .
 autosynergy.co.uk CNAME .

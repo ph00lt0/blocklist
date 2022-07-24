@@ -14450,7 +14450,7 @@ $removeparam=engagement_type
 @@||cbc.ca^  # not a tracker
 @@||cbsi.com^  # not a tracker
 @@||cbsi.map.fastly.net^  # not not a tracker
-||cbsivideo.com^
+@@||cbsivideo.com^  # not a tracker
 ||ccmiocw.com^
 ||cdn-apple.com.akadns.net^
 ||cdn-apple.com^

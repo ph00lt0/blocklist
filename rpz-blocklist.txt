@@ -14024,7 +14024,7 @@ cauly.co.kr CNAME .
 ; allow cbc.ca reason: not a tracker
 ; allow cbsi.com reason: not a tracker
 ; allow cbsi.map.fastly.net reason: not not a tracker
-cbsivideo.com CNAME .
+; allow cbsivideo.com reason: not a tracker
 ccmiocw.com CNAME .
 cdn-; allow apple.com.akadns.net reason: not a tracker
 cdn-; allow apple.com reason: not a tnot a tracker

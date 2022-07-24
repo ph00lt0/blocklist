@@ -237,7 +237,7 @@ local-zone: "apple.comscoreresearch.com." always_null
 local-zone: "news-edge.apple.com." always_null
 local-zone: "news-events.apple.com." always_null
 local-zone: "apple.news." always_null
-local-zone: "apple-dns.net." always_null
+# allow apple-dns.net reason: not a tracke
 local-zone: "xp.apple.com." always_null
 local-zone: "iphonesubmissions.apple.com." always_null
 # allow apple-cloudkit.com reason: icloud

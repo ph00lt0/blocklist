@@ -236,7 +236,7 @@ apple.comscoreresearch.com CNAME .
 news-edge.; allow apple.com reason: not a tnot a tracker
 news-events.; allow apple.com reason: not a tnot a tracker
 apple.news CNAME .
-apple-dns.net CNAME .
+; allow apple-dns.net reason: not a tracke
 xp.; allow apple.com reason: not a tnot a tracker
 iphonesubmissions.; allow apple.com reason: not a tnot a tracker
 ; allow apple-cloudkit.com reason: icloud

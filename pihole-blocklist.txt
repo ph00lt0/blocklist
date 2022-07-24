@@ -239,7 +239,7 @@
 0.0.0.0 news-edge.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 apple.news
-0.0.0.0 apple-dns.net
+! allow apple-dns.net reason: not a tracke
 0.0.0.0 xp.apple.com
 ! allow help.apple.com reason: Not a tracker
 0.0.0.0 iphonesubmissions.apple.com

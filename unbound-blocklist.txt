@@ -15372,3 +15372,4 @@ local-zone: "disney.demdex.net." always_null
 local-zone: "editcode.net." always_null
 local-zone: "reposhub.com." always_null
 local-zone: "bleepcoder.com." always_null
+local-zone: "awesomeopensource.com." always_null

@@ -245,7 +245,7 @@
 0.0.0.0 iphonesubmissions.apple.com
 ! allow icloud-content.com reason: Not a tracker
 ! allow me.com reason: Required for icloud
-0.0.0.0 apple-cloudkit.com
+! allow apple-cloudkit.com reason: icloud
 0.0.0.0 valid.apple.com
 ! allow gateway.icloud.com reason: Not a tracker
 ! allow sonos-music.apple.com reason: not a tracker

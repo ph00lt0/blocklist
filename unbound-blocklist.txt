@@ -240,7 +240,7 @@ local-zone: "apple.news." always_null
 local-zone: "apple-dns.net." always_null
 local-zone: "xp.apple.com." always_null
 local-zone: "iphonesubmissions.apple.com." always_null
-local-zone: "apple-cloudkit.com." always_null
+# allow apple-cloudkit.com reason: icloud
 local-zone: "valid.apple.com." always_null
 # allow sonos-music.apple.com reason: not a tracker
 local-zone: "pancake.apple.com." always_null

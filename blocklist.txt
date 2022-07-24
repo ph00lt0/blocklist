@@ -246,7 +246,7 @@
 ||iphonesubmissions.apple.com^
 @@||icloud-content.com^  # Not a tracker
 @@||me.com^  # Required for icloud
-||apple-cloudkit.com^
+@@||apple-cloudkit.com^  # icloud
 ||valid.apple.com^
 @@||gateway.icloud.com^  # Not a tracker
 @@||sonos-music.apple.com^  # not a tracker

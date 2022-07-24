@@ -239,7 +239,7 @@ apple.news CNAME .
 apple-dns.net CNAME .
 xp.; allow apple.com reason: not a tnot a tracker
 iphonesubmissions.; allow apple.com reason: not a tnot a tracker
-apple-cloudkit.com CNAME .
+; allow apple-cloudkit.com reason: icloud
 valid.; allow apple.com reason: not a tnot a tracker
 sonos-music.; allow apple.com reason: not a tnot a tracker
 pancake.; allow apple.com reason: not a tnot a tracker

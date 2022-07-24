@@ -14214,7 +14214,7 @@ $removeparam=engagement_type
 ||alphacdn.net^
 @@||amazon.co.jp^  # not a tracker
 ||ambientdsp.com^
-||americanairlines.com.au^
+@@||americanairlines.com.au^  # not a tracker
 ||americanexpress.com.akadns.net^
 ||amgdgt.com^
 ||ampproject.net^

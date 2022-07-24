@@ -13789,7 +13789,7 @@ alocdn.com CNAME .
 alphacdn.net CNAME .
 ; allow amazon.co.jp reason: not a tracker
 ambientdsp.com CNAME .
-americanairlines.com.au CNAME .
+; allow americanairlines.com.au reason: not a tracker
 americanexpress.com.akadns.net CNAME .
 amgdgt.com CNAME .
 ampproject.net CNAME .

@@ -13790,7 +13790,7 @@ local-zone: "alocdn.com." always_null
 local-zone: "alphacdn.net." always_null
 # allow amazon.co.jp reason: not a tracker
 local-zone: "ambientdsp.com." always_null
-local-zone: "americanairlines.com.au." always_null
+# allow americanairlines.com.au reason: not a tracker
 local-zone: "americanexpress.com.akadns.net." always_null
 local-zone: "amgdgt.com." always_null
 local-zone: "ampproject.net." always_null

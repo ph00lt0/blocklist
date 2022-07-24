@@ -15262,7 +15262,7 @@ $removeparam=engagement_type
 ||datasteam.io^
 @@||datatables.net^  # not a tracker
 ||dataview.nl^
-||datocms-assets.com^
+@@||datocms-assets.com^  # not a tracker
 ||daznservices.com^
 ||dealerinspire.com^
 ||deernes.com^

@@ -14836,7 +14836,7 @@ data-dynamic.net CNAME .
 datasteam.io CNAME .
 ; allow datatables.net reason: not a tracker
 dataview.nl CNAME .
-datocms-assets.com CNAME .
+; allow datocms-assets.com reason: not a tracker
 daznservices.com CNAME .
 dealerinspire.com CNAME .
 deernes.com CNAME .

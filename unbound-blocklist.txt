@@ -14837,7 +14837,7 @@ local-zone: "data-dynamic.net." always_null
 local-zone: "datasteam.io." always_null
 # allow datatables.net reason: not a tracker
 local-zone: "dataview.nl." always_null
-local-zone: "datocms-assets.com." always_null
+# allow datocms-assets.com reason: not a tracker
 local-zone: "daznservices.com." always_null
 local-zone: "dealerinspire.com." always_null
 local-zone: "deernes.com." always_null

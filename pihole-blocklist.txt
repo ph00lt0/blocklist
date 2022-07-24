@@ -14944,7 +14944,7 @@
 0.0.0.0 datasteam.io
 ! allow datatables.net reason: not a tracker
 0.0.0.0 dataview.nl
-0.0.0.0 datocms-assets.com
+! allow datocms-assets.com reason: not a tracker
 0.0.0.0 daznservices.com
 0.0.0.0 dealerinspire.com
 0.0.0.0 deernes.com

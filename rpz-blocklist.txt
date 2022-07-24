@@ -13024,7 +13024,7 @@ jnn-pa.googleapis.com CNAME .
 40n23zgkic3y-a.akamaihd.net CNAME .
 40nuggets.com CNAME .
 40pg2e2187urs70xz2sj2xo6-wpengine.netdna-ssl.com CNAME .
-40vod-adaptive.akamaized.net CNAME .
+; allow 40vod-adaptive.akamaized.net reason: not a tracker
 41jmzr10f8zc229tzr2xml7e-wpengine.netdna-ssl.com CNAME .
 41k4p01v6nzq13r4y42jb9xv-wpengine.netdna-ssl.com CNAME .
 42e7xc172a051i7v1iyv99nn-wpengine.netdna-ssl.com CNAME .

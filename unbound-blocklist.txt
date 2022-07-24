@@ -13025,7 +13025,7 @@ local-zone: "4000hours-club.xyz." always_null
 local-zone: "40n23zgkic3y-a.akamaihd.net." always_null
 local-zone: "40nuggets.com." always_null
 local-zone: "40pg2e2187urs70xz2sj2xo6-wpengine.netdna-ssl.com." always_null
-local-zone: "40vod-adaptive.akamaized.net." always_null
+# allow 40vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "41jmzr10f8zc229tzr2xml7e-wpengine.netdna-ssl.com." always_null
 local-zone: "41k4p01v6nzq13r4y42jb9xv-wpengine.netdna-ssl.com." always_null
 local-zone: "42e7xc172a051i7v1iyv99nn-wpengine.netdna-ssl.com." always_null

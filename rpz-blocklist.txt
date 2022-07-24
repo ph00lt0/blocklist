@@ -15331,3 +15331,4 @@ a.apkpure.com CNAME .
 click.em.nike.com CNAME .
 target.microsoft.com CNAME .
 beacon.klm.com CNAME .
+viral-loops.com CNAME .

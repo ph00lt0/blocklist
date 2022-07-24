@@ -15753,3 +15753,4 @@ $removeparam=engagement_type
 ||click.em.nike.com^
 ||target.microsoft.com^
 ||beacon.klm.com^
+||viral-loops.com^

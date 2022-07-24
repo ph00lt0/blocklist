@@ -14835,7 +14835,7 @@ daisycon.com CNAME .
 dashboard.co.uk CNAME .
 data-dynamic.net CNAME .
 datasteam.io CNAME .
-datatables.net CNAME .
+; allow datatables.net reason: not a tracker
 dataview.nl CNAME .
 datocms-assets.com CNAME .
 daznservices.com CNAME .

@@ -14943,7 +14943,7 @@
 0.0.0.0 dashboard.co.uk
 0.0.0.0 data-dynamic.net
 0.0.0.0 datasteam.io
-0.0.0.0 datatables.net
+! allow datatables.net reason: not a tracker
 0.0.0.0 dataview.nl
 0.0.0.0 datocms-assets.com
 0.0.0.0 daznservices.com

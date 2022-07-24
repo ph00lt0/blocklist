@@ -13915,7 +13915,7 @@ bkrtx.com.edgekey.net CNAME .
 blackbaudhosting.com CNAME .
 blackcrow.ai CNAME .
 bleepstatic.com CNAME .
-blogger.com CNAME .
+; allow blogger.com reason: not a tracker
 bloglines.com CNAME .
 bloomberga.com CNAME .
 blubrry.com CNAME .

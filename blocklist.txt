@@ -12919,3 +12919,4 @@ $removeparam=subid1
 $removeparam=adj_campaign
 $removeparam=adj_deep_link
 $removeparam=adj_t
+$removeparam=adj_adgroup

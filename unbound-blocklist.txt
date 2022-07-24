@@ -249,7 +249,7 @@ local-zone: "ess.apple.com." always_null
 local-zone: "lcdn-locator.apple.com." always_null
 local-zone: "lcdn-registration.apple.com." always_null
 local-zone: "s-loc.apple.com." always_null
-local-zone: "ls.apple.com.akadns.net." always_null
+# allow ls.apple.com.akadns.net reason: apple maps
 # allow ls.apple.com.edgesuite.net reason: apple maps
 local-zone: "reserve-prime.apple.com." always_null
 local-zone: "push-apple.com.akadns.net." always_null

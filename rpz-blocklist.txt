@@ -12865,7 +12865,7 @@ jnn-pa.googleapis.com CNAME .
 27qfj.x.incapdns.net CNAME .
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com CNAME .
 ; allow 28vod-adaptive.akamaized.net reason: not a tracker
-29vod-adaptive.akamaized.net CNAME .
+; allow 29vod-adaptive.akamaized.net reason: not a tracker
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com CNAME .
 2a.media CNAME .
 2adpro.com CNAME .
@@ -13721,7 +13721,7 @@ bigo.sg CNAME .
 biguz.net CNAME .
 bikenetzwerk.de CNAME .
 123rf.com CNAME .
-129vod-adaptive.akamaized.net CNAME .
+1; allow 29vod-adaptive.akamaized.net reason: not a tracker
 163vod-adaptive.akamaized.net CNAME .
 192vod-adaptive.akamaized.net CNAME .
 1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com CNAME .

@@ -14130,7 +14130,7 @@
 0.0.0.0 catsnbootsncats2020.com
 0.0.0.0 cauly.co.kr
 ! allow cbc.ca reason: not a tracker
-0.0.0.0 cbsi.com
+! allow cbsi.com reason: not a tracker
 0.0.0.0 cbsi.map.fastly.net
 0.0.0.0 cbsivideo.com
 0.0.0.0 ccmiocw.com

@@ -14448,7 +14448,7 @@ $removeparam=engagement_type
 ||catsnbootsncats2020.com^
 ||cauly.co.kr^
 @@||cbc.ca^  # not a tracker
-||cbsi.com^
+@@||cbsi.com^  # not a tracker
 ||cbsi.map.fastly.net^
 ||cbsivideo.com^
 ||ccmiocw.com^

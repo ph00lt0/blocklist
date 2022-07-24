@@ -14023,7 +14023,7 @@ local-zone: "cathaypacific.com.edgekey.net." always_null
 local-zone: "catsnbootsncats2020.com." always_null
 local-zone: "cauly.co.kr." always_null
 # allow cbc.ca reason: not a tracker
-local-zone: "cbsi.com." always_null
+# allow cbsi.com reason: not a tracker
 local-zone: "cbsi.map.fastly.net." always_null
 local-zone: "cbsivideo.com." always_null
 local-zone: "ccmiocw.com." always_null

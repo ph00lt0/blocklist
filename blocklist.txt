@@ -256,7 +256,7 @@
 ||lcdn-locator.apple.com^
 ||lcdn-registration.apple.com^
 ||s-loc.apple.com^
-@@@@||ls.apple.com.akadns.net^  # apple maps  # apple maps
+@@||ls.apple.com.akadns.net^  # apple maps
 @@||ls.apple.com.edgesuite.net^  # apple maps
 ||reserve-prime.apple.com^
 ||push-apple.com.akadns.net^
@@ -14533,7 +14533,7 @@ $removeparam=engagement_type
 @@||cnbc.com^  # not a tracker
 
 ||cnevids.com^
-||cnews.cz^
+@@||cnews.cz^  # not a tracke
 ||cnnx.link^
 ||cnstrc.com^
 ||cnsypic.com^

@@ -14108,7 +14108,7 @@ local-zone: "cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com." always_null
 # allow cnbc.com reason: not a tracker
 # allow cnbcfm.com.edgekey.net reason: not a tracker
 local-zone: "cnevids.com." always_null
-local-zone: "cnews.cz." always_null
+# allow cnews.cz reason: not a tracke
 local-zone: "cnnx.link." always_null
 local-zone: "cnstrc.com." always_null
 local-zone: "cnsypic.com." always_null

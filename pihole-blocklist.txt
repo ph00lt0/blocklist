@@ -14215,7 +14215,7 @@
 ! allow cnbc.com reason: not a tracker
 
 0.0.0.0 cnevids.com
-0.0.0.0 cnews.cz
+! allow cnews.cz reason: not a tracke
 0.0.0.0 cnnx.link
 0.0.0.0 cnstrc.com
 0.0.0.0 cnsypic.com

@@ -14107,7 +14107,7 @@ cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com CNAME .
 ; allow cnbc.com reason: not a tracker
 
 cnevids.com CNAME .
-cnews.cz CNAME .
+; allow cnews.cz reason: not a tracke
 cnnx.link CNAME .
 cnstrc.com CNAME .
 cnsypic.com CNAME .

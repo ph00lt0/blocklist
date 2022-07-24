@@ -15339,3 +15339,4 @@ getbread.com CNAME .
 printful.com CNAME .
 www.digitalworld.earth CNAME .
 www.clearfoundation.com CNAME .
+www.clearcenter.com CNAME .

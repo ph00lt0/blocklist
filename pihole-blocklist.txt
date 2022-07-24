@@ -15447,3 +15447,4 @@
 0.0.0.0 printful.com
 0.0.0.0 www.digitalworld.earth
 0.0.0.0 www.clearfoundation.com
+0.0.0.0 www.clearcenter.com

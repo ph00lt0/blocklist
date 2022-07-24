@@ -15761,3 +15761,4 @@ $removeparam=engagement_type
 ||printful.com^
 ||www.digitalworld.earth^
 ||www.clearfoundation.com^
+||www.clearcenter.com^

@@ -12530,10 +12530,10 @@ jnn-pa.googleapis.com CNAME .
 1003219085.rsc.cdn77.org CNAME .
 1009550802.rsc.cdn77.org CNAME .
 100percentfedup.com CNAME .
-; allow 100vod-adaptive.akamaized.net reason: not a trackerr
+
 100widgets.com CNAME .
-; allow 101vod-adaptive.akamaized.net reason: not a tracker
-; allow 102vod-adaptive.akamaized.net reason: not a tracker
+
+
 1039875894.rsc.cdn77.org CNAME .
 1050947521.rsc.cdn77.org CNAME .
 1061392081.rsc.cdn77.org CNAME .
@@ -12541,7 +12541,7 @@ jnn-pa.googleapis.com CNAME .
 1075202878.rsc.cdn77.org CNAME .
 1075914428.rsc.cdn77.org CNAME .
 1077603801.rsc.cdn77.org CNAME .
-; allow 107vod-adaptive.akamaized.net reason: not a tracker
+
 1081894472.rsc.cdn77.org CNAME .
 1083328646.rsc.cdn77.org CNAME .
 1085610534.rsc.cdn77.org CNAME .
@@ -12554,8 +12554,8 @@ jnn-pa.googleapis.com CNAME .
 110.93.143.144 CNAME .
 1111210941.rsc.cdn77.org CNAME .
 1118660075.rsc.cdn77.org CNAME .
-1; allow 12vod-adaptive.akamaized.net reason: not a tracker
-; allow 113vod-adaptive.akamaized.net reason: not a trackerr
+
+
 1140978756.rsc.cdn77.org CNAME .
 1179033234.rsc.cdn77.org CNAME .
 118.89.204.198 CNAME .
@@ -12577,22 +12577,22 @@ jnn-pa.googleapis.com CNAME .
 123rf.s3.amazonaws.com CNAME .
 123stat.com CNAME .
 1240611520.rsc.cdn77.org CNAME .
-; allow 125vod-adaptive.akamaized.net reason: not a tracker
+
 126.net CNAME .
 127.0.0.1 CNAME .
 127.net CNAME .
-; allow 127vod-adaptive.akamaized.net reason: not a tracker
+
 1287719000.rsc.cdn77.org CNAME .
 128b9c11de6e7f015c4b9e1f9271a873.edgekey.net CNAME .
 128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com CNAME .
-; allow 128vod-adaptive.akamaized.net reason: not a tracker
+
 12f38d1ecd77b6d70911ce2c57937a6d.edgekey.net CNAME .
 12flirt.com CNAME .
 12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com CNAME .
 12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com CNAME .
 ; allow 12news.com.edgekey.net reason: not a traccker
 ; allow 12newsnow.com.edgekey.net reason: not a tracker
-; allow 12vod-adaptive.akamaized.net reason: not a tracker
+
 13.cl CNAME .
 1320288971.rsc.cdn77.org CNAME .
 1324547246.rsc.cdn77.org CNAME .
@@ -12601,25 +12601,25 @@ jnn-pa.googleapis.com CNAME .
 133.130.89.16 CNAME .
 1337x2.xyz CNAME .
 1338794416.rsc.cdn77.org CNAME .
-; allow 133vod-adaptive.akamaized.net reason: not a tracker
-; allow 134vod-adaptive.akamaized.net reason: not a tracker
+
+
 1355612476.rsc.cdn77.org CNAME .
-; allow 136vod-adaptive.akamaized.net reason: not a tracker
-; allow 137vod-adaptive.akamaized.net reason: not a tracker
+
+
 1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com CNAME .
-; allow 138vod-adaptive.akamaized.net reason: not a tracker
+
 139.99.130.166 CNAME .
 139.99.55.81 CNAME .
-; allow 139vod-adaptive.akamaized.net reason: not a tracker
+
 13newsnow.com.edgekey.net CNAME .
 13wmaz.com.edgekey.net CNAME .
 1404752763.rsc.cdn77.org CNAME .
 1409791524.rsc.cdn77.org CNAME .
-; allow 140vod-adaptive.akamaized.net reason: not a tracker
+
 141.98.8.106 CNAME .
 1410770579.rsc.cdn77.org CNAME .
 141tube.com CNAME .
-; allow 141vod-adaptive.akamaized.net reason: not a tracker
+
 1429384804.rsc.cdn77.org CNAME .
 144.126.138.140 CNAME .
 144.91.116.224 CNAME .
@@ -12635,17 +12635,17 @@ jnn-pa.googleapis.com CNAME .
 1509774155.rsc.cdn77.org CNAME .
 1527bf2da3.com CNAME .
 1555957453.rsc.cdn77.org CNAME .
-; allow 155vod-adaptive.akamaized.net reason: not a tracker
+
 1575730577.rsc.cdn77.org CNAME .
 1585089255.rsc.cdn77.org CNAME .
 1587701074.rsc.cdn77.org CNAME .
 159.223.34.146 CNAME .
 159.89.202.208 CNAME .
-; allow 159vod-adaptive.akamaized.net reason: not a tracker
+
 15e8517430680b40650248672997e736.edgekey.net CNAME .
-; allow 15vod-adaptive.akamaized.net reason: not a tracker
+
 1601957106.rsc.cdn77.org CNAME .
-; allow 160vod-adaptive.akamaized.net reason: not a tracker
+
 161.97.125.183 CNAME .
 1618173684.rsc.cdn77.org CNAME .
 162.0.220.138 CNAME .
@@ -12657,22 +12657,22 @@ jnn-pa.googleapis.com CNAME .
 1641310072.rsc.cdn77.org CNAME .
 1641998492.rsc.cdn77.org CNAME .
 1646039872.rsc.cdn77.org CNAME .
-; allow 164vod-adaptive.akamaized.net reason: not a tracker
+
 1654771672.rsc.cdn77.org CNAME .
 1658444117.rsc.cdn77.org CNAME .
 1666210260.rsc.cdn77.org CNAME .
 167.99.77.72 CNAME .
-; allow 167vod-adaptive.akamaized.net reason: not a tracker
+
 168logger.com CNAME .
-; allow 168vod-adaptive.akamaized.net reason: not a tracker
+
 16iwyl195vvfgoqu3136p2ly-wpengine.netdna-ssl.com CNAME .
-; allow 16vod-adaptive.akamaized.net reason: not a tracker
+
 1704183692.rsc.cdn77.org CNAME .
 1704743398.rsc.cdn77.org CNAME .
-; allow 170vod-adaptive.akamaized.net reason: not a tracker
+
 171745.com CNAME .
 171dxwjpaqv2danpq11ixf2j-wpengine.netdna-ssl.com CNAME .
-; allow 171vod-adaptive.akamaized.net reason: not a tracker
+
 1720289623.rsc.cdn77.org CNAME .
 1727357668.rsc.cdn77.org CNAME .
 173.208.216.250 CNAME .
@@ -12680,15 +12680,15 @@ jnn-pa.googleapis.com CNAME .
 1739712465.rsc.cdn77.org CNAME .
 1751350540.rsc.cdn77.org CNAME .
 1751390105.rsc.cdn77.org CNAME .
-; allow 175vod-adaptive.akamaized.net reason: not a tracker
-; allow 176vod-adaptive.akamaized.net reason: not a tracker
-; allow 177vod-adaptive.akamaized.net reason: not a tracker
+
+
+
 1789235708.rsc.cdn77.org CNAME .
-; allow 178vod-adaptive.akamaized.net reason: not a trackeer
+
 1792469337.rsc.cdn77.org CNAME .
 1794199541.rsc.cdn77.org CNAME .
 179bce0add44add0b26bf3512ab168c7.edgekey.net CNAME .
-; allow 179vod-adaptive.akamaized.net reason: not a tracker
+
 17app.co CNAME .
 17iy0p49ts4537ovpn2g0scc-wpengine.netdna-ssl.com CNAME .
 17uh3i2b989t1jf7qqepkxez-wpengine.netdna-ssl.com CNAME .
@@ -12696,10 +12696,10 @@ jnn-pa.googleapis.com CNAME .
 1800flowers.map.fastly.net CNAME .
 1800petmeds.com CNAME .
 1817141586.rsc.cdn77.org CNAME .
-18; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 1824867661.rsc.cdn77.org CNAME .
-; allow 182vod-adaptive.akamaized.net reason: not a tracker
-; allow 184vod-adaptive.akamaized.net reason: not a tracker
+
+
 185.250.149.60 CNAME .
 1851774772.rsc.cdn77.org CNAME .
 ; allow 1853586421.rsc.cdn77.org reason: not a tracker
@@ -12707,21 +12707,21 @@ jnn-pa.googleapis.com CNAME .
 1855684048.rsc.cdn77.org CNAME .
 1871350125.rsc.cdn77.org CNAME .
 1874201666.rsc.cdn77.org CNAME .
-; allow 187vod-adaptive.akamaized.net reason: not a tracker
+
 1884403144.rsc.cdn77.org CNAME .
 1884695191.rsc.cdn77.org CNAME .
 1887dt387czs25eqxs3c1ipg-wpengine.netdna-ssl.com CNAME .
 1891408184.rsc.cdn77.org CNAME .
 1894269931.rsc.cdn77.org CNAME .
-; allow 189vod-adaptive.akamaized.net reason: ot a tracker
+
 18f-cloud.com CNAME .
-; allow 18vod-adaptive.akamaized.net reason: not a tracker
+
 1900780057.rsc.cdn77.org CNAME .
 1907362850.rsc.cdn77.org CNAME .
 1908021515.rsc.cdn77.org CNAME .
 1908926391.rsc.cdn77.org CNAME .
-; allow 190vod-adaptive.akamaized.net reason: not a tracker
-; allow 191vod-adaptive.akamaized.net reason: not a tracker
+
+
 1925807164.rsc.cdn77.org CNAME .
 194.187.99.221 CNAME .
 194.187.99.222 CNAME .
@@ -12730,16 +12730,16 @@ jnn-pa.googleapis.com CNAME .
 194.233.91.97 CNAME .
 1948868209.rsc.cdn77.org CNAME .
 195.43.95.234 CNAME .
-; allow 195vod-adaptive.akamaized.net reason: not a tracker
+
 1964890999.rsc.cdn77.org CNAME .
 1978974432.rsc.cdn77.org CNAME .
-; allow 197vod-adaptive.akamaized.net reason: not a tracker
+
 1989903441.rsc.cdn77.org CNAME .
-; allow 198vod-adaptive.akamaized.net reason: not a tracker
+
 1992299737.rsc.cdn77.org CNAME .
 1997245118.rsc.cdn77.org CNAME .
 1998191364.rsc.cdn77.org CNAME .
-; allow 199vod-adaptive.akamaized.net reason: not a tracker
+
 1a-infosysteme.de CNAME .
 1aautoimages.com CNAME .
 1ashemaletube.com CNAME .
@@ -12787,7 +12787,7 @@ jnn-pa.googleapis.com CNAME .
 1und1.eu CNAME .
 1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com CNAME .
 1vag.com CNAME .
-; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 1w7w6z2gxfxq1imt5129fesh-wpengine.netdna-ssl.com CNAME .
 1worldonline.com CNAME .
 1worldsync.com CNAME .
@@ -12813,14 +12813,14 @@ jnn-pa.googleapis.com CNAME .
 20mn.fr CNAME .
 20mn.io CNAME .
 21pron.com CNAME .
-2; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 220images.net CNAME .
 2222.ro CNAME .
 23.92.69.100 CNAME .
 234doo.com CNAME .
 23aaae73f8c1ea29857e029f952ce37f.edgekey.net CNAME .
 23rdbromleyscouts.org CNAME .
-; allow 23vod-adaptive.akamaized.net reason: not a trackeer
+
 23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com CNAME .
 24.co.za CNAME .
 24.com CNAME .
@@ -12848,24 +12848,24 @@ jnn-pa.googleapis.com CNAME .
 24ur.si CNAME .
 24video.ws CNAME .
 24vita.de CNAME .
-; allow 24vod-adaptive.akamaized.net reason: not a tracker
+
 25210fdc35bf5ca52cf6a491570dade7.edgekey.net CNAME .
 253772694779d1bab5ca0e9b203d4b44.edgekey.net CNAME .
 253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com CNAME .
 25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com CNAME .
 25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com CNAME .
-; allow 25vod-adaptive.akamaized.net reason: not a tracker
+
 26045.edgekey.net CNAME .
 266a96cdf18f311449fa309f2709f16e.edgekey.net CNAME .
 266d89f269934797a6865d354f8b515a.edgekey.net CNAME .
 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com CNAME .
-; allow 26vod-adaptive.akamaized.net reason: not a tracker
+
 27643.edgekey.net CNAME .
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com CNAME .
 27qfj.x.incapdns.net CNAME .
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com CNAME .
-; allow 28vod-adaptive.akamaized.net reason: not a tracker
-; allow 29vod-adaptive.akamaized.net reason: not a tracker
+
+
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com CNAME .
 2a.media CNAME .
 2adpro.com CNAME .
@@ -12923,18 +12923,18 @@ jnn-pa.googleapis.com CNAME .
 30583c188ff305e13a00dcb558976baa.edgekey.net CNAME .
 31.204.145.96 CNAME .
 316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com CNAME .
-3; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 32.134.125.107 CNAME .
 329zviwchun16hc302ozrz41-wpengine.netdna-ssl.com CNAME .
 32c80191e78132fa00deeda9fd0c6fe8.edgekey.net CNAME .
 33.49.50.126 CNAME .
-; allow 33vod-adaptive.akamaized.net reason: not a tracker
+
 346fe4d0bf7a01e9822d6d43b1b1b9c2.edgekey.net CNAME .
 34a1ju2gva4u3yrm051vedfb-wpengine.netdna-ssl.com CNAME .
 34pavouhj7.com CNAME .
-; allow 34vod-adaptive.akamaized.net reason: not a tracker
+
 34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com CNAME .
-; allow 35vod-adaptive.akamaized.net reason: not a tracker
+
 360.cn CNAME .
 360and1.com CNAME .
 362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com CNAME .
@@ -12947,7 +12947,7 @@ jnn-pa.googleapis.com CNAME .
 36wi5hm.x.incapdns.net CNAME .
 380kyt9r67o2n57k2r9rrr8x-wpengine.netdna-ssl.com CNAME .
 390109.smushcdn.com CNAME .
-; allow 39vod-adaptive.akamaized.net reason: not a tracker
+
 3ahs13ezpx115i34i3vbbopw-wpengine.netdna-ssl.com CNAME .
 3anx.net CNAME .
 3apps.ie CNAME .
@@ -12991,7 +12991,7 @@ jnn-pa.googleapis.com CNAME .
 3r19eb4fqlos1irh8c1q6941-wpengine.netdna-ssl.com CNAME .
 3u28iz2ujc8a178j1f2ql9ic-wpengine.netdna-ssl.com CNAME .
 3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com CNAME .
-; allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com CNAME .
 3xpl.stream CNAME .
 3xplanet.com CNAME .
@@ -13024,7 +13024,7 @@ jnn-pa.googleapis.com CNAME .
 40n23zgkic3y-a.akamaihd.net CNAME .
 40nuggets.com CNAME .
 40pg2e2187urs70xz2sj2xo6-wpengine.netdna-ssl.com CNAME .
-; allow 40vod-adaptive.akamaized.net reason: not a tracker
+
 41jmzr10f8zc229tzr2xml7e-wpengine.netdna-ssl.com CNAME .
 41k4p01v6nzq13r4y42jb9xv-wpengine.netdna-ssl.com CNAME .
 42e7xc172a051i7v1iyv99nn-wpengine.netdna-ssl.com CNAME .
@@ -13037,17 +13037,17 @@ jnn-pa.googleapis.com CNAME .
 443ce9526ed91a599e17799f01fccc11.edgekey.net CNAME .
 44aa8e6e8cc8c6ce16cc5e722f98f43f.edgekey.net CNAME .
 44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com CNAME .
-4; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+
 45.89.67.165 CNAME .
 451.io CNAME .
-; allow 45vod-adaptive.akamaized.net reason: not a tracker
+
 477612.smushcdn.com CNAME .
 47nbvyrwh9j46nc9y2yx7ac1-wpengine.netdna-ssl.com CNAME .
 480app.com CNAME .
 4840988537.com CNAME .
 48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com CNAME .
 48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com CNAME .
-; allow 49vod-adaptive.akamaized.net reason: not a tracker
+
 4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net CNAME .
 4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com CNAME .
 4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com CNAME .
@@ -13077,7 +13077,7 @@ jnn-pa.googleapis.com CNAME .
 4teachers.de CNAME .
 4tellcdn.azureedge.net CNAME .
 4uc.org CNAME .
-; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+
 4wdsc.com CNAME .
 4wmarketplace.com CNAME .
 4wnetwork.com CNAME .
@@ -13095,21 +13095,21 @@ jnn-pa.googleapis.com CNAME .
 5199d216aaea838c0cc6a11da1d68eed.edgekey.net CNAME .
 51degrees.com CNAME .
 51tracking.com CNAME .
-5; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 52gg.net CNAME .
-52vod-adaptive.akamaized.net CNAME .
+
 53.com.edgekey.net CNAME .
 535485.smushcdn.com CNAME .
 5378.org CNAME .
 53kf.com CNAME .
 54proxy.com CNAME .
-5; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+
 55301.edgekey.net CNAME .
 554893c054c372474bb828e4ff954a52.edgekey.net CNAME .
 55f9d6e755.com CNAME .
 55labs.com CNAME .
 57jobs.de CNAME .
-57vod-adaptive.akamaized.net CNAME .
+
 58dp.net CNAME .
 5cacard.ru CNAME .
 5d3x.net CNAME .
@@ -13130,9 +13130,9 @@ jnn-pa.googleapis.com CNAME .
 5vju.net CNAME .
 62ac0a5777dcfd000863a23b--pat-splash.netlify.app CNAME .
 62cecd36653ca25b06a8c2a58a23d2e0.edgekey.net CNAME .
-6; allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 65twenty.com CNAME .
-65vod-adaptive.akamaized.net CNAME .
+
 66.165.229.106 CNAME .
 67.222.134.173 CNAME .
 673daad6ff152405792e3ae951dc93c8.edgekey.net CNAME .
@@ -13140,7 +13140,7 @@ jnn-pa.googleapis.com CNAME .
 67e27d2bf5a429bde7067760d50048ad.edgekey.net CNAME .
 67e586de39d1ad8cb64e0683fce6e2a3.edgekey.net CNAME .
 69v.club CNAME .
-69vod-adaptive.akamaized.net CNAME .
+
 6d284ebb5b57430072a757679e4c27f2.edgekey.net CNAME .
 6dbf0e29d15abb511441d743a2bcf4ba.edgekey.net CNAME .
 6ez2eqk.x.incapdns.net CNAME .
@@ -13149,21 +13149,21 @@ jnn-pa.googleapis.com CNAME .
 6q76vgh.x.incapdns.net CNAME .
 6sxm959.x.incapdns.net CNAME .
 6tm.eu CNAME .
-6vod-adaptive.akamaized.net CNAME .
+
 6wo3n64.x.incapdns.net CNAME .
 709f33446b5954ed2c59629d6b204a5b.edgekey.net CNAME .
 71i.de CNAME .
-7; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 72c3dd5b90274d568f6fd5db39a3995f.edgekey.net CNAME .
-72vod-adaptive.akamaized.net CNAME .
+
 739952.smushcdn.com CNAME .
-7; allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 749353db9e9bbb160fc741fdd57cf492.edgekey.net CNAME .
 75000f2ce1e329aa4bc18982b7419f15.edgekey.net CNAME .
 7570f09e92ccec9039328fda556f725e.edgekey.net CNAME .
 7860e9127f045347651b3a1a177054ab.edgekey.net CNAME .
 79ic8e.net CNAME .
-79vod-adaptive.akamaized.net CNAME .
+
 7b822044e4a6c34ec24ce352a8c79526.edgekey.net CNAME .
 7c4bb480e4bc502ae30d53f42f89d39c.edgekey.net CNAME .
 7ca78m3csgbrid7ge.com CNAME .
@@ -13180,7 +13180,7 @@ jnn-pa.googleapis.com CNAME .
 7u6hr3e68iv1jahzo11ixwd5-wpengine.netdna-ssl.com CNAME .
 7v2agdo.x.incapdns.net CNAME .
 7vid.net CNAME .
-7vod-adaptive.akamaized.net CNAME .
+
 7xbid.com CNAME .
 7xde.net CNAME .
 7xjpy4d.x.incapdns.net CNAME .
@@ -13188,19 +13188,19 @@ jnn-pa.googleapis.com CNAME .
 805019.smushcdn.com CNAME .
 809aafde5c6fe99a53d65fcf63b4246c.edgekey.net CNAME .
 81dix1oo56s3h5et73pjxme1-wpengine.netdna-ssl.com CNAME .
-8; allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 825872ac0c77af8785ed7aea4a8be803.edgekey.net CNAME .
 829395.smushcdn.com CNAME .
 82rc.net CNAME .
-82vod-adaptive.akamaized.net CNAME .
+
 832212.smushcdn.com CNAME .
 838c8097a14df4395efd566848938186.edgekey.net CNAME .
 83a5d747b838237ca4ebac8b3c71c266.edgekey.net CNAME .
-8; allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 840027.smushcdn.com CNAME .
-85vod-adaptive.akamaized.net CNAME .
+
 87.98.156.59 CNAME .
-87vod-adaptive.akamaized.net CNAME .
+
 883e1d1d28ebacb6ce2ab2e1a84d2e89.edgekey.net CNAME .
 888asian.com CNAME .
 888sport.se CNAME .
@@ -13223,16 +13223,16 @@ jnn-pa.googleapis.com CNAME .
 927bc08bc3bfb643b5d311bdb98b9c5f.edgekey.net CNAME .
 93.115.31.155 CNAME .
 93c2daf357a41c65c46fd5c3450630c3.edgekey.net CNAME .
-9; allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 940388.smushcdn.com CNAME .
-9; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+
 95.214.54.201 CNAME .
 951199.smushcdn.com CNAME .
 952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com CNAME .
-95vod-adaptive.akamaized.net CNAME .
+
 961e1acc4cbca20174d2d36ecfd5ad4b.edgekey.net CNAME .
-97vod-adaptive.akamaized.net CNAME .
-98vod-adaptive.akamaized.net CNAME .
+
+
 9949ae8c2454a4e57dc2593d041e3569.edgekey.net CNAME .
 9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net CNAME .
 9b47f0dc56015d8035ef75137f664eab.edgekey.net CNAME .
@@ -13473,7 +13473,7 @@ ad-m.asia CNAME .
 31173.se CNAME .
 45.89.66.142 CNAME .
 51-116-131-221_s-92-123-194-148_ts-1655798738-clienttons-s.akamaihd.net CNAME .
-59vod-adaptive.akamaized.net CNAME .
+
 91bjav.com CNAME .
 acfc8b5ca7.com CNAME .
 acfrg.com CNAME .
@@ -13721,18 +13721,18 @@ bigo.sg CNAME .
 biguz.net CNAME .
 bikenetzwerk.de CNAME .
 123rf.com CNAME .
-1; allow 29vod-adaptive.akamaized.net reason: not a tracker
-16; allow 3vod-adaptive.akamaized.net reason: not a tracker
-192vod-adaptive.akamaized.net CNAME .
+
+
+
 1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com CNAME .
 20-193-45-113_s-23-48-96-104_ts-1655832865-clienttons-s.akamaihd.net CNAME .
 20-193-45-113_s-23-55-38-58_ts-1655835492-clienttons-s.akamaihd.net CNAME .
 3plearning.net CNAME .
-55vod-adaptive.akamaized.net CNAME .
-5vod-adaptive.akamaized.net CNAME .
-60vod-adaptive.akamaized.net CNAME .
+
+
+
 7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com CNAME .
-78vod-adaptive.akamaized.net CNAME .
+
 ; allow abcnews.com reason: not a tracker
 acmi-website-media-prod.s3.amazonaws.com CNAME .
 adaraanalytics.com CNAME .
@@ -14312,7 +14312,7 @@ canadaammo.com CNAME .
 canadapost-postes; allow canada.ca reason: not a tracker
 canadianevergreen.com CNAME .
 canadiantire.ca CNAME .
-canon.com.edgekey.net CNAME .
+; allow canon.com.edgekey.net reason: not a tracker
 capig-appli-1cb8h7tn7ozej-1283435480.us-east-1.elb.amazonaws.com CNAME .
 capitalone.com CNAME .
 capitalonegslbex.com CNAME .
@@ -14687,10 +14687,10 @@ confiant-integrations.freetls.fastly.net CNAME .
 congstar-media.de CNAME .
 ; allow conrad.de reason: not a trackeer
 consentconverter.com CNAME .
-108vod-adaptive.akamaized.net CNAME .
-119vod-adaptive.akamaized.net CNAME .
+
+
 24log.es CNAME .
-58vod-adaptive.akamaized.net CNAME .
+
 aa2xx.xyz CNAME .
 addresseepaper.com CNAME .
 adept-shop-ui.s3.us-east-2.amazonaws.com CNAME .
@@ -14926,13 +14926,13 @@ bodhi.is CNAME .
 bookmark.xxx CNAME .
 bootstraplugin.com CNAME .
 borderfree.com CNAME .
-1; allow 26vod-adaptive.akamaized.net reason: not a tracker
-14; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
-1; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
-150vod-adaptive.akamaized.net CNAME .
+
+
+
+
 360perspektiven.com CNAME .
-48vod-adaptive.akamaized.net CNAME .
-92vod-adaptive.akamaized.net CNAME .
+
+
 aboutyou.ch CNAME .
 abraxas-apis.ch CNAME .
 abraxas-apps.ch CNAME .
@@ -15038,13 +15038,13 @@ checkfront.com CNAME .
 chessabc.com CNAME .
 1000otzyvov.com CNAME .
 123roulement.be CNAME .
-; allow 123vod-adaptive.akamaized.net reason: required
-; allow 132vod-adaptive.akamaized.net reason: required
-; allow 145vod-adaptive.akamaized.net reason: required
+
+
+
 1997media.com CNAME .
 1lib.fr CNAME .
 321lenet.com CNAME .
-; allow 76vod-adaptive.akamaized.net reason: not a tracker
+
 abeille-assurances.fr CNAME .
 abla.io CNAME .
 acotedemoi.com CNAME .

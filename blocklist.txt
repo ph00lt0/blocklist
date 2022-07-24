@@ -12958,7 +12958,7 @@ $removeparam=engagement_type
 @@||100vod-adaptive.akamaized.net^  # not a trackerr
 ||100widgets.com^
 @@||101vod-adaptive.akamaized.net^  # not a tracker
-@@@@||102vod-adaptive.akamaized.net^  # not a tracker  # not a tracker
+@@||102vod-adaptive.akamaized.net^  # not a tracker
 ||1039875894.rsc.cdn77.org^
 ||1050947521.rsc.cdn77.org^
 ||1061392081.rsc.cdn77.org^
@@ -13027,7 +13027,7 @@ $removeparam=engagement_type
 ||1337x2.xyz^
 ||1338794416.rsc.cdn77.org^
 @@||133vod-adaptive.akamaized.net^  # not a tracker
-@@@@||134vod-adaptive.akamaized.net^  # not a tracker  # not a tracker
+@@||134vod-adaptive.akamaized.net^  # not a tracker
 ||1355612476.rsc.cdn77.org^
 @@||136vod-adaptive.akamaized.net^  # not a tracker
 @@||137vod-adaptive.akamaized.net^  # not a tracker
@@ -13070,7 +13070,7 @@ $removeparam=engagement_type
 ||15e8517430680b40650248672997e736.edgekey.net^
 @@||15vod-adaptive.akamaized.net^  # not a tracker
 ||1601957106.rsc.cdn77.org^
-@@@@||160vod-adaptive.akamaized.net^  # not a tracker  # not a tracker
+@@||160vod-adaptive.akamaized.net^  # not a tracker
 ||161.97.125.183^
 ||1618173684.rsc.cdn77.org^
 ||162.0.220.138^
@@ -13359,7 +13359,7 @@ $removeparam=engagement_type
 ||34pavouhj7.com^
 @@||34vod-adaptive.akamaized.net^  # not a tracker
 ||34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com^
-@@@@||35vod-adaptive.akamaized.net^  # not a tracker  # not a tracker
+@@||35vod-adaptive.akamaized.net^  # not a tracker
 ||360.cn^
 ||360and1.com^
 ||362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com^
@@ -13462,7 +13462,7 @@ $removeparam=engagement_type
 ||443ce9526ed91a599e17799f01fccc11.edgekey.net^
 ||44aa8e6e8cc8c6ce16cc5e722f98f43f.edgekey.net^
 ||44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com^
-||44vod-adaptive.akamaized.net^
+@@||44vod-adaptive.akamaized.net^ # not a tracker
 ||45.89.67.165^
 ||451.io^
 @@||45vod-adaptive.akamaized.net^  # not a tracker
@@ -13502,7 +13502,7 @@ $removeparam=engagement_type
 ||4teachers.de^
 ||4tellcdn.azureedge.net^
 ||4uc.org^
-@@||4vod-adaptive.akamaized.net^  # 51vod-adaptive.akamaized.net
+@@||4vod-adaptive.akamaized.net^  # not a tracker
 ||4wdsc.com^
 ||4wmarketplace.com^
 ||4wnetwork.com^
@@ -13520,21 +13520,21 @@ $removeparam=engagement_type
 ||5199d216aaea838c0cc6a11da1d68eed.edgekey.net^
 ||51degrees.com^
 ||51tracking.com^
-||51vod-adaptive.akamaized.net^
+@@||51vod-adaptive.akamaized.net^ # not a tracker
 ||52gg.net^
-||52vod-adaptive.akamaized.net^
+@@||52vod-adaptive.akamaized.net^ # not a tracker
 ||53.com.edgekey.net^
 ||535485.smushcdn.com^
 ||5378.org^
 ||53kf.com^
 ||54proxy.com^
-||54vod-adaptive.akamaized.net^
+@@||54vod-adaptive.akamaized.net^ # not a tracker
 ||55301.edgekey.net^
 ||554893c054c372474bb828e4ff954a52.edgekey.net^
 ||55f9d6e755.com^
 ||55labs.com^
 ||57jobs.de^
-||57vod-adaptive.akamaized.net^
+@@||57vod-adaptive.akamaized.net^ # not a tracker
 ||58dp.net^
 ||5cacard.ru^
 ||5d3x.net^
@@ -13555,9 +13555,9 @@ $removeparam=engagement_type
 ||5vju.net^
 ||62ac0a5777dcfd000863a23b--pat-splash.netlify.app^
 ||62cecd36653ca25b06a8c2a58a23d2e0.edgekey.net^
-||63vod-adaptive.akamaized.net^
+@@||63vod-adaptive.akamaized.net^ # not a tracker
 ||65twenty.com^
-||65vod-adaptive.akamaized.net^
+@@||65vod-adaptive.akamaized.net^ # not a tracker
 ||66.165.229.106^
 ||67.222.134.173^
 ||673daad6ff152405792e3ae951dc93c8.edgekey.net^
@@ -13565,7 +13565,7 @@ $removeparam=engagement_type
 ||67e27d2bf5a429bde7067760d50048ad.edgekey.net^
 ||67e586de39d1ad8cb64e0683fce6e2a3.edgekey.net^
 ||69v.club^
-||69vod-adaptive.akamaized.net^
+@@||69vod-adaptive.akamaized.net^ # not a tracker
 ||6d284ebb5b57430072a757679e4c27f2.edgekey.net^
 ||6dbf0e29d15abb511441d743a2bcf4ba.edgekey.net^
 ||6ez2eqk.x.incapdns.net^
@@ -13574,21 +13574,21 @@ $removeparam=engagement_type
 ||6q76vgh.x.incapdns.net^
 ||6sxm959.x.incapdns.net^
 ||6tm.eu^
-||6vod-adaptive.akamaized.net^
+@@||6vod-adaptive.akamaized.net^ # not a tracker
 ||6wo3n64.x.incapdns.net^
 ||709f33446b5954ed2c59629d6b204a5b.edgekey.net^
 ||71i.de^
-||71vod-adaptive.akamaized.net^
+@@||71vod-adaptive.akamaized.net^ # not a tracker
 ||72c3dd5b90274d568f6fd5db39a3995f.edgekey.net^
-||72vod-adaptive.akamaized.net^
+||72vod-adaptive.akamaized.net^ # not a tracker
 ||739952.smushcdn.com^
-||73vod-adaptive.akamaized.net^
+@@||73vod-adaptive.akamaized.net^ # not a tracker
 ||749353db9e9bbb160fc741fdd57cf492.edgekey.net^
 ||75000f2ce1e329aa4bc18982b7419f15.edgekey.net^
 ||7570f09e92ccec9039328fda556f725e.edgekey.net^
 ||7860e9127f045347651b3a1a177054ab.edgekey.net^
 ||79ic8e.net^
-||79vod-adaptive.akamaized.net^
+@@||79vod-adaptive.akamaized.net^ # not a tracker
 ||7b822044e4a6c34ec24ce352a8c79526.edgekey.net^
 ||7c4bb480e4bc502ae30d53f42f89d39c.edgekey.net^
 ||7ca78m3csgbrid7ge.com^
@@ -13605,7 +13605,7 @@ $removeparam=engagement_type
 ||7u6hr3e68iv1jahzo11ixwd5-wpengine.netdna-ssl.com^
 ||7v2agdo.x.incapdns.net^
 ||7vid.net^
-||7vod-adaptive.akamaized.net^
+@@||7vod-adaptive.akamaized.net^ # not a tracker
 ||7xbid.com^
 ||7xde.net^
 ||7xjpy4d.x.incapdns.net^
@@ -13613,19 +13613,19 @@ $removeparam=engagement_type
 ||805019.smushcdn.com^
 ||809aafde5c6fe99a53d65fcf63b4246c.edgekey.net^
 ||81dix1oo56s3h5et73pjxme1-wpengine.netdna-ssl.com^
-||81vod-adaptive.akamaized.net^
+@@||81vod-adaptive.akamaized.net^ # not a tracker
 ||825872ac0c77af8785ed7aea4a8be803.edgekey.net^
 ||829395.smushcdn.com^
 ||82rc.net^
-||82vod-adaptive.akamaized.net^
+@@||82vod-adaptive.akamaized.net^ # not a tracker
 ||832212.smushcdn.com^
 ||838c8097a14df4395efd566848938186.edgekey.net^
 ||83a5d747b838237ca4ebac8b3c71c266.edgekey.net^
-||83vod-adaptive.akamaized.net^
+@@||83vod-adaptive.akamaized.net^ # not a tracker
 ||840027.smushcdn.com^
-||85vod-adaptive.akamaized.net^
+@@||85vod-adaptive.akamaized.net^ # not a tracker
 ||87.98.156.59^
-||87vod-adaptive.akamaized.net^
+@@||87vod-adaptive.akamaized.net^ # not a tracker
 ||883e1d1d28ebacb6ce2ab2e1a84d2e89.edgekey.net^
 ||888asian.com^
 ||888sport.se^
@@ -13648,16 +13648,16 @@ $removeparam=engagement_type
 ||927bc08bc3bfb643b5d311bdb98b9c5f.edgekey.net^
 ||93.115.31.155^
 ||93c2daf357a41c65c46fd5c3450630c3.edgekey.net^
-||93vod-adaptive.akamaized.net^
+@@||93vod-adaptive.akamaized.net^ # not a tracker
 ||940388.smushcdn.com^
-||94vod-adaptive.akamaized.net^
+@@||94vod-adaptive.akamaized.net^ # not a tracker
 ||95.214.54.201^
 ||951199.smushcdn.com^
 ||952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com^
-||95vod-adaptive.akamaized.net^
+@@||95vod-adaptive.akamaized.net^ # not a tracker
 ||961e1acc4cbca20174d2d36ecfd5ad4b.edgekey.net^
-||97vod-adaptive.akamaized.net^
-||98vod-adaptive.akamaized.net^
+@@||97vod-adaptive.akamaized.net^ # not a tracker
+@@||98vod-adaptive.akamaized.net^ # not a tracker
 ||9949ae8c2454a4e57dc2593d041e3569.edgekey.net^
 ||9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net^
 ||9b47f0dc56015d8035ef75137f664eab.edgekey.net^
@@ -13898,7 +13898,7 @@ $removeparam=engagement_type
 ||31173.se^
 ||45.89.66.142^
 ||51-116-131-221_s-92-123-194-148_ts-1655798738-clienttons-s.akamaihd.net^
-||59vod-adaptive.akamaized.net^
+@@||59vod-adaptive.akamaized.net^ # not a tracker
 ||91bjav.com^
 ||acfc8b5ca7.com^
 ||acfrg.com^
@@ -14147,17 +14147,17 @@ $removeparam=engagement_type
 ||bikenetzwerk.de^
 ||123rf.com^
 @@||129vod-adaptive.akamaized.net^  # not a tracker
-||163vod-adaptive.akamaized.net^
-||192vod-adaptive.akamaized.net^
+@@||163vod-adaptive.akamaized.net^ # not a tracker
+@@||192vod-adaptive.akamaized.net^ # not a tracker
 ||1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com^
 ||20-193-45-113_s-23-48-96-104_ts-1655832865-clienttons-s.akamaihd.net^
 ||20-193-45-113_s-23-55-38-58_ts-1655835492-clienttons-s.akamaihd.net^
 ||3plearning.net^
-||55vod-adaptive.akamaized.net^
-||5vod-adaptive.akamaized.net^
-||60vod-adaptive.akamaized.net^
+@@||55vod-adaptive.akamaized.net^ # not a tracker
+@@||5vod-adaptive.akamaized.net^ # not a tracker
+@@||60vod-adaptive.akamaized.net^ # not a tracker
 ||7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com^
-||78vod-adaptive.akamaized.net^
+@@||78vod-adaptive.akamaized.net^ # not a tracker
 @@||abcnews.com^  # not a tracker
 ||acmi-website-media-prod.s3.amazonaws.com^
 ||adaraanalytics.com^
@@ -14738,7 +14738,7 @@ $removeparam=engagement_type
 ||canadapost-postescanada.ca^
 ||canadianevergreen.com^
 ||canadiantire.ca^
-||canon.com.edgekey.net^
+@@||canon.com.edgekey.net^  # not a tracker
 ||capig-appli-1cb8h7tn7ozej-1283435480.us-east-1.elb.amazonaws.com^
 ||capitalone.com^
 ||capitalonegslbex.com^
@@ -15113,10 +15113,10 @@ $removeparam=engagement_type
 ||congstar-media.de^
 @@||conrad.de^  # not a trackeer
 ||consentconverter.com^
-||108vod-adaptive.akamaized.net^
-||119vod-adaptive.akamaized.net^
+@@||108vod-adaptive.akamaized.net^ # not a tracker
+@@||119vod-adaptive.akamaized.net^ # not a tracker
 ||24log.es^
-||58vod-adaptive.akamaized.net^
+@@||58vod-adaptive.akamaized.net^ # not a tracker
 ||aa2xx.xyz^
 ||addresseepaper.com^
 ||adept-shop-ui.s3.us-east-2.amazonaws.com^
@@ -15352,13 +15352,13 @@ $removeparam=engagement_type
 ||bookmark.xxx^
 ||bootstraplugin.com^
 ||borderfree.com^
-||126vod-adaptive.akamaized.net^
-||144vod-adaptive.akamaized.net^
-||14vod-adaptive.akamaized.net^
-||150vod-adaptive.akamaized.net^
+@@|126vod-adaptive.akamaized.net^ # not a tracker
+@@||144vod-adaptive.akamaized.net^ # not a tracker
+@@||14vod-adaptive.akamaized.net^ # not a tracker
+||150vod-adaptive.akamaized.net^ # not a tracker
 ||360perspektiven.com^
-||48vod-adaptive.akamaized.net^
-||92vod-adaptive.akamaized.net^
+@@||48vod-adaptive.akamaized.net^ # not a tracker
+@@||92vod-adaptive.akamaized.net^ # not a tracker
 ||aboutyou.ch^
 ||abraxas-apis.ch^
 ||abraxas-apps.ch^

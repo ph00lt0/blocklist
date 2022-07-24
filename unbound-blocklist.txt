@@ -12531,10 +12531,10 @@ local-zone: "1001fonts.net." always_null
 local-zone: "1003219085.rsc.cdn77.org." always_null
 local-zone: "1009550802.rsc.cdn77.org." always_null
 local-zone: "100percentfedup.com." always_null
-# allow 100vod-adaptive.akamaized.net reason: not a trackerr
+
 local-zone: "100widgets.com." always_null
-# allow 101vod-adaptive.akamaized.net reason: not a tracker
-# allow 102vod-adaptive.akamaized.net reason: not a tracker
+
+
 local-zone: "1039875894.rsc.cdn77.org." always_null
 local-zone: "1050947521.rsc.cdn77.org." always_null
 local-zone: "1061392081.rsc.cdn77.org." always_null
@@ -12542,7 +12542,7 @@ local-zone: "1073019405.rsc.cdn77.org." always_null
 local-zone: "1075202878.rsc.cdn77.org." always_null
 local-zone: "1075914428.rsc.cdn77.org." always_null
 local-zone: "1077603801.rsc.cdn77.org." always_null
-# allow 107vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1081894472.rsc.cdn77.org." always_null
 local-zone: "1083328646.rsc.cdn77.org." always_null
 local-zone: "1085610534.rsc.cdn77.org." always_null
@@ -12555,8 +12555,8 @@ local-zone: "10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com." always_null
 local-zone: "110.93.143.144." always_null
 local-zone: "1111210941.rsc.cdn77.org." always_null
 local-zone: "1118660075.rsc.cdn77.org." always_null
-# allow 112vod-adaptive.akamaized.net reason: not a tracker
-# allow 113vod-adaptive.akamaized.net reason: not a trackerr
+
+
 local-zone: "1140978756.rsc.cdn77.org." always_null
 local-zone: "1179033234.rsc.cdn77.org." always_null
 local-zone: "118.89.204.198." always_null
@@ -12578,22 +12578,22 @@ local-zone: "123moviesplayer.com." always_null
 local-zone: "123rf.s3.amazonaws.com." always_null
 local-zone: "123stat.com." always_null
 local-zone: "1240611520.rsc.cdn77.org." always_null
-# allow 125vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "126.net." always_null
 local-zone: "127.0.0.1." always_null
 local-zone: "127.net." always_null
-# allow 127vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1287719000.rsc.cdn77.org." always_null
 local-zone: "128b9c11de6e7f015c4b9e1f9271a873.edgekey.net." always_null
 local-zone: "128dagwixzkuuk9y3guyf7fd-wpengine.netdna-ssl.com." always_null
-# allow 128vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "12f38d1ecd77b6d70911ce2c57937a6d.edgekey.net." always_null
 local-zone: "12flirt.com." always_null
 local-zone: "12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com." always_null
 local-zone: "12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com." always_null
 # allow 12news.com.edgekey.net reason: not a traccker
 # allow 12newsnow.com.edgekey.net reason: not a tracker
-# allow 12vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "13.cl." always_null
 local-zone: "1320288971.rsc.cdn77.org." always_null
 local-zone: "1324547246.rsc.cdn77.org." always_null
@@ -12602,25 +12602,25 @@ local-zone: "1327200554.rsc.cdn77.org." always_null
 local-zone: "133.130.89.16." always_null
 local-zone: "1337x2.xyz." always_null
 local-zone: "1338794416.rsc.cdn77.org." always_null
-# allow 133vod-adaptive.akamaized.net reason: not a tracker
-# allow 134vod-adaptive.akamaized.net reason: not a tracker
+
+
 local-zone: "1355612476.rsc.cdn77.org." always_null
-# allow 136vod-adaptive.akamaized.net reason: not a tracker
-# allow 137vod-adaptive.akamaized.net reason: not a tracker
+
+
 local-zone: "1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com." always_null
-# allow 138vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "139.99.130.166." always_null
 local-zone: "139.99.55.81." always_null
-# allow 139vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "13newsnow.com.edgekey.net." always_null
 local-zone: "13wmaz.com.edgekey.net." always_null
 local-zone: "1404752763.rsc.cdn77.org." always_null
 local-zone: "1409791524.rsc.cdn77.org." always_null
-# allow 140vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "141.98.8.106." always_null
 local-zone: "1410770579.rsc.cdn77.org." always_null
 local-zone: "141tube.com." always_null
-# allow 141vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1429384804.rsc.cdn77.org." always_null
 local-zone: "144.126.138.140." always_null
 local-zone: "144.91.116.224." always_null
@@ -12636,17 +12636,17 @@ local-zone: "14slph41wbtl2yi39625md6s-wpengine.netdna-ssl.com." always_null
 local-zone: "1509774155.rsc.cdn77.org." always_null
 local-zone: "1527bf2da3.com." always_null
 local-zone: "1555957453.rsc.cdn77.org." always_null
-# allow 155vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1575730577.rsc.cdn77.org." always_null
 local-zone: "1585089255.rsc.cdn77.org." always_null
 local-zone: "1587701074.rsc.cdn77.org." always_null
 local-zone: "159.223.34.146." always_null
 local-zone: "159.89.202.208." always_null
-# allow 159vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "15e8517430680b40650248672997e736.edgekey.net." always_null
-# allow 15vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1601957106.rsc.cdn77.org." always_null
-# allow 160vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "161.97.125.183." always_null
 local-zone: "1618173684.rsc.cdn77.org." always_null
 local-zone: "162.0.220.138." always_null
@@ -12658,22 +12658,22 @@ local-zone: "163jiasu.com." always_null
 local-zone: "1641310072.rsc.cdn77.org." always_null
 local-zone: "1641998492.rsc.cdn77.org." always_null
 local-zone: "1646039872.rsc.cdn77.org." always_null
-# allow 164vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1654771672.rsc.cdn77.org." always_null
 local-zone: "1658444117.rsc.cdn77.org." always_null
 local-zone: "1666210260.rsc.cdn77.org." always_null
 local-zone: "167.99.77.72." always_null
-# allow 167vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "168logger.com." always_null
-# allow 168vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "16iwyl195vvfgoqu3136p2ly-wpengine.netdna-ssl.com." always_null
-# allow 16vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1704183692.rsc.cdn77.org." always_null
 local-zone: "1704743398.rsc.cdn77.org." always_null
-# allow 170vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "171745.com." always_null
 local-zone: "171dxwjpaqv2danpq11ixf2j-wpengine.netdna-ssl.com." always_null
-# allow 171vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1720289623.rsc.cdn77.org." always_null
 local-zone: "1727357668.rsc.cdn77.org." always_null
 local-zone: "173.208.216.250." always_null
@@ -12681,15 +12681,15 @@ local-zone: "1734811051.rsc.cdn77.org." always_null
 local-zone: "1739712465.rsc.cdn77.org." always_null
 local-zone: "1751350540.rsc.cdn77.org." always_null
 local-zone: "1751390105.rsc.cdn77.org." always_null
-# allow 175vod-adaptive.akamaized.net reason: not a tracker
-# allow 176vod-adaptive.akamaized.net reason: not a tracker
-# allow 177vod-adaptive.akamaized.net reason: not a tracker
+
+
+
 local-zone: "1789235708.rsc.cdn77.org." always_null
-# allow 178vod-adaptive.akamaized.net reason: not a trackeer
+
 local-zone: "1792469337.rsc.cdn77.org." always_null
 local-zone: "1794199541.rsc.cdn77.org." always_null
 local-zone: "179bce0add44add0b26bf3512ab168c7.edgekey.net." always_null
-# allow 179vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "17app.co." always_null
 local-zone: "17iy0p49ts4537ovpn2g0scc-wpengine.netdna-ssl.com." always_null
 local-zone: "17uh3i2b989t1jf7qqepkxez-wpengine.netdna-ssl.com." always_null
@@ -12697,10 +12697,10 @@ local-zone: "18.142.93.216." always_null
 local-zone: "1800flowers.map.fastly.net." always_null
 local-zone: "1800petmeds.com." always_null
 local-zone: "1817141586.rsc.cdn77.org." always_null
-# allow 181vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1824867661.rsc.cdn77.org." always_null
-# allow 182vod-adaptive.akamaized.net reason: not a tracker
-# allow 184vod-adaptive.akamaized.net reason: not a tracker
+
+
 local-zone: "185.250.149.60." always_null
 local-zone: "1851774772.rsc.cdn77.org." always_null
 # allow 1853586421.rsc.cdn77.org reason: not a tracker
@@ -12708,21 +12708,21 @@ local-zone: "1855054874.rsc.cdn77.org." always_null
 local-zone: "1855684048.rsc.cdn77.org." always_null
 local-zone: "1871350125.rsc.cdn77.org." always_null
 local-zone: "1874201666.rsc.cdn77.org." always_null
-# allow 187vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1884403144.rsc.cdn77.org." always_null
 local-zone: "1884695191.rsc.cdn77.org." always_null
 local-zone: "1887dt387czs25eqxs3c1ipg-wpengine.netdna-ssl.com." always_null
 local-zone: "1891408184.rsc.cdn77.org." always_null
 local-zone: "1894269931.rsc.cdn77.org." always_null
-# allow 189vod-adaptive.akamaized.net reason: ot a tracker
+
 local-zone: "18f-cloud.com." always_null
-# allow 18vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1900780057.rsc.cdn77.org." always_null
 local-zone: "1907362850.rsc.cdn77.org." always_null
 local-zone: "1908021515.rsc.cdn77.org." always_null
 local-zone: "1908926391.rsc.cdn77.org." always_null
-# allow 190vod-adaptive.akamaized.net reason: not a tracker
-# allow 191vod-adaptive.akamaized.net reason: not a tracker
+
+
 local-zone: "1925807164.rsc.cdn77.org." always_null
 local-zone: "194.187.99.221." always_null
 local-zone: "194.187.99.222." always_null
@@ -12731,16 +12731,16 @@ local-zone: "194.187.99.224." always_null
 local-zone: "194.233.91.97." always_null
 local-zone: "1948868209.rsc.cdn77.org." always_null
 local-zone: "195.43.95.234." always_null
-# allow 195vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1964890999.rsc.cdn77.org." always_null
 local-zone: "1978974432.rsc.cdn77.org." always_null
-# allow 197vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1989903441.rsc.cdn77.org." always_null
-# allow 198vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1992299737.rsc.cdn77.org." always_null
 local-zone: "1997245118.rsc.cdn77.org." always_null
 local-zone: "1998191364.rsc.cdn77.org." always_null
-# allow 199vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1a-infosysteme.de." always_null
 local-zone: "1aautoimages.com." always_null
 local-zone: "1ashemaletube.com." always_null
@@ -12788,7 +12788,7 @@ local-zone: "1tuyvq3ivrlq1h927b2gtsql-wpengine.netdna-ssl.com." always_null
 local-zone: "1und1.eu." always_null
 local-zone: "1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com." always_null
 local-zone: "1vag.com." always_null
-# allow 1vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "1w7w6z2gxfxq1imt5129fesh-wpengine.netdna-ssl.com." always_null
 local-zone: "1worldonline.com." always_null
 local-zone: "1worldsync.com." always_null
@@ -12814,14 +12814,14 @@ local-zone: "20m.es." always_null
 local-zone: "20mn.fr." always_null
 local-zone: "20mn.io." always_null
 local-zone: "21pron.com." always_null
-# allow 21vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "220images.net." always_null
 local-zone: "2222.ro." always_null
 local-zone: "23.92.69.100." always_null
 local-zone: "234doo.com." always_null
 local-zone: "23aaae73f8c1ea29857e029f952ce37f.edgekey.net." always_null
 local-zone: "23rdbromleyscouts.org." always_null
-# allow 23vod-adaptive.akamaized.net reason: not a trackeer
+
 local-zone: "23yh6n2nmr011tw67k37tbif-wpengine.netdna-ssl.com." always_null
 local-zone: "24.co.za." always_null
 local-zone: "24.com." always_null
@@ -12849,24 +12849,24 @@ local-zone: "24support.cc." always_null
 local-zone: "24ur.si." always_null
 local-zone: "24video.ws." always_null
 local-zone: "24vita.de." always_null
-# allow 24vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "25210fdc35bf5ca52cf6a491570dade7.edgekey.net." always_null
 local-zone: "253772694779d1bab5ca0e9b203d4b44.edgekey.net." always_null
 local-zone: "253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com." always_null
 local-zone: "25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com." always_null
 local-zone: "25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com." always_null
-# allow 25vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "26045.edgekey.net." always_null
 local-zone: "266a96cdf18f311449fa309f2709f16e.edgekey.net." always_null
 local-zone: "266d89f269934797a6865d354f8b515a.edgekey.net." always_null
 local-zone: "26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com." always_null
-# allow 26vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "27643.edgekey.net." always_null
 local-zone: "27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com." always_null
 local-zone: "27qfj.x.incapdns.net." always_null
 local-zone: "287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com." always_null
-# allow 28vod-adaptive.akamaized.net reason: not a tracker
-# allow 29vod-adaptive.akamaized.net reason: not a tracker
+
+
 local-zone: "29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com." always_null
 local-zone: "2a.media." always_null
 local-zone: "2adpro.com." always_null
@@ -12924,18 +12924,18 @@ local-zone: "304a46cc9a.com." always_null
 local-zone: "30583c188ff305e13a00dcb558976baa.edgekey.net." always_null
 local-zone: "31.204.145.96." always_null
 local-zone: "316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com." always_null
-# allow 31vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "32.134.125.107." always_null
 local-zone: "329zviwchun16hc302ozrz41-wpengine.netdna-ssl.com." always_null
 local-zone: "32c80191e78132fa00deeda9fd0c6fe8.edgekey.net." always_null
 local-zone: "33.49.50.126." always_null
-# allow 33vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "346fe4d0bf7a01e9822d6d43b1b1b9c2.edgekey.net." always_null
 local-zone: "34a1ju2gva4u3yrm051vedfb-wpengine.netdna-ssl.com." always_null
 local-zone: "34pavouhj7.com." always_null
-# allow 34vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com." always_null
-# allow 35vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "360.cn." always_null
 local-zone: "360and1.com." always_null
 local-zone: "362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com." always_null
@@ -12948,7 +12948,7 @@ local-zone: "36de823d83a303480b9a070fc5edd2d4.edgekey.net." always_null
 local-zone: "36wi5hm.x.incapdns.net." always_null
 local-zone: "380kyt9r67o2n57k2r9rrr8x-wpengine.netdna-ssl.com." always_null
 local-zone: "390109.smushcdn.com." always_null
-# allow 39vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "3ahs13ezpx115i34i3vbbopw-wpengine.netdna-ssl.com." always_null
 local-zone: "3anx.net." always_null
 local-zone: "3apps.ie." always_null
@@ -12992,7 +12992,7 @@ local-zone: "3qsdn.com." always_null
 local-zone: "3r19eb4fqlos1irh8c1q6941-wpengine.netdna-ssl.com." always_null
 local-zone: "3u28iz2ujc8a178j1f2ql9ic-wpengine.netdna-ssl.com." always_null
 local-zone: "3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com." always_null
-# allow 3vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com." always_null
 local-zone: "3xpl.stream." always_null
 local-zone: "3xplanet.com." always_null
@@ -13025,7 +13025,7 @@ local-zone: "4000hours-club.xyz." always_null
 local-zone: "40n23zgkic3y-a.akamaihd.net." always_null
 local-zone: "40nuggets.com." always_null
 local-zone: "40pg2e2187urs70xz2sj2xo6-wpengine.netdna-ssl.com." always_null
-# allow 40vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "41jmzr10f8zc229tzr2xml7e-wpengine.netdna-ssl.com." always_null
 local-zone: "41k4p01v6nzq13r4y42jb9xv-wpengine.netdna-ssl.com." always_null
 local-zone: "42e7xc172a051i7v1iyv99nn-wpengine.netdna-ssl.com." always_null
@@ -13038,17 +13038,17 @@ local-zone: "43nnuk1fz4a72826eo14gwfb-wpengine.netdna-ssl.com." always_null
 local-zone: "443ce9526ed91a599e17799f01fccc11.edgekey.net." always_null
 local-zone: "44aa8e6e8cc8c6ce16cc5e722f98f43f.edgekey.net." always_null
 local-zone: "44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com." always_null
-local-zone: "44vod-adaptive.akamaized.net." always_null
+
 local-zone: "45.89.67.165." always_null
 local-zone: "451.io." always_null
-# allow 45vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "477612.smushcdn.com." always_null
 local-zone: "47nbvyrwh9j46nc9y2yx7ac1-wpengine.netdna-ssl.com." always_null
 local-zone: "480app.com." always_null
 local-zone: "4840988537.com." always_null
 local-zone: "48kb9f45m18qznbf21s4cllq-wpengine.netdna-ssl.com." always_null
 local-zone: "48qbc13dv397vzass1iql2a1-wpengine.netdna-ssl.com." always_null
-# allow 49vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "4afb9fc68fc2a89d77bc971793a39bf0.edgekey.net." always_null
 local-zone: "4ag46i294nta1038p13v77x1-wpengine.netdna-ssl.com." always_null
 local-zone: "4aozg2yddrfwclgn4z1yj42g-wpengine.netdna-ssl.com." always_null
@@ -13078,7 +13078,7 @@ local-zone: "4rstatic.net." always_null
 local-zone: "4teachers.de." always_null
 local-zone: "4tellcdn.azureedge.net." always_null
 local-zone: "4uc.org." always_null
-# allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+
 local-zone: "4wdsc.com." always_null
 local-zone: "4wmarketplace.com." always_null
 local-zone: "4wnetwork.com." always_null
@@ -13096,21 +13096,21 @@ local-zone: "517459.smushcdn.com." always_null
 local-zone: "5199d216aaea838c0cc6a11da1d68eed.edgekey.net." always_null
 local-zone: "51degrees.com." always_null
 local-zone: "51tracking.com." always_null
-local-zone: "51vod-adaptive.akamaized.net." always_null
+
 local-zone: "52gg.net." always_null
-local-zone: "52vod-adaptive.akamaized.net." always_null
+
 local-zone: "53.com.edgekey.net." always_null
 local-zone: "535485.smushcdn.com." always_null
 local-zone: "5378.org." always_null
 local-zone: "53kf.com." always_null
 local-zone: "54proxy.com." always_null
-local-zone: "54vod-adaptive.akamaized.net." always_null
+
 local-zone: "55301.edgekey.net." always_null
 local-zone: "554893c054c372474bb828e4ff954a52.edgekey.net." always_null
 local-zone: "55f9d6e755.com." always_null
 local-zone: "55labs.com." always_null
 local-zone: "57jobs.de." always_null
-local-zone: "57vod-adaptive.akamaized.net." always_null
+
 local-zone: "58dp.net." always_null
 local-zone: "5cacard.ru." always_null
 local-zone: "5d3x.net." always_null
@@ -13131,9 +13131,9 @@ local-zone: "5toft8or7on8tt.com." always_null
 local-zone: "5vju.net." always_null
 local-zone: "62ac0a5777dcfd000863a23b--pat-splash.netlify.app." always_null
 local-zone: "62cecd36653ca25b06a8c2a58a23d2e0.edgekey.net." always_null
-local-zone: "63vod-adaptive.akamaized.net." always_null
+
 local-zone: "65twenty.com." always_null
-local-zone: "65vod-adaptive.akamaized.net." always_null
+
 local-zone: "66.165.229.106." always_null
 local-zone: "67.222.134.173." always_null
 local-zone: "673daad6ff152405792e3ae951dc93c8.edgekey.net." always_null
@@ -13141,7 +13141,7 @@ local-zone: "67d6e36b5851d5201324a1dc480e0104.edgekey.net." always_null
 local-zone: "67e27d2bf5a429bde7067760d50048ad.edgekey.net." always_null
 local-zone: "67e586de39d1ad8cb64e0683fce6e2a3.edgekey.net." always_null
 local-zone: "69v.club." always_null
-local-zone: "69vod-adaptive.akamaized.net." always_null
+
 local-zone: "6d284ebb5b57430072a757679e4c27f2.edgekey.net." always_null
 local-zone: "6dbf0e29d15abb511441d743a2bcf4ba.edgekey.net." always_null
 local-zone: "6ez2eqk.x.incapdns.net." always_null
@@ -13150,21 +13150,21 @@ local-zone: "6q33.net." always_null
 local-zone: "6q76vgh.x.incapdns.net." always_null
 local-zone: "6sxm959.x.incapdns.net." always_null
 local-zone: "6tm.eu." always_null
-local-zone: "6vod-adaptive.akamaized.net." always_null
+
 local-zone: "6wo3n64.x.incapdns.net." always_null
 local-zone: "709f33446b5954ed2c59629d6b204a5b.edgekey.net." always_null
 local-zone: "71i.de." always_null
-local-zone: "71vod-adaptive.akamaized.net." always_null
+
 local-zone: "72c3dd5b90274d568f6fd5db39a3995f.edgekey.net." always_null
-local-zone: "72vod-adaptive.akamaized.net." always_null
+
 local-zone: "739952.smushcdn.com." always_null
-local-zone: "73vod-adaptive.akamaized.net." always_null
+
 local-zone: "749353db9e9bbb160fc741fdd57cf492.edgekey.net." always_null
 local-zone: "75000f2ce1e329aa4bc18982b7419f15.edgekey.net." always_null
 local-zone: "7570f09e92ccec9039328fda556f725e.edgekey.net." always_null
 local-zone: "7860e9127f045347651b3a1a177054ab.edgekey.net." always_null
 local-zone: "79ic8e.net." always_null
-local-zone: "79vod-adaptive.akamaized.net." always_null
+
 local-zone: "7b822044e4a6c34ec24ce352a8c79526.edgekey.net." always_null
 local-zone: "7c4bb480e4bc502ae30d53f42f89d39c.edgekey.net." always_null
 local-zone: "7ca78m3csgbrid7ge.com." always_null
@@ -13181,7 +13181,7 @@ local-zone: "7tocz3x9zff1rsymt3uo0j3f-wpengine.netdna-ssl.com." always_null
 local-zone: "7u6hr3e68iv1jahzo11ixwd5-wpengine.netdna-ssl.com." always_null
 local-zone: "7v2agdo.x.incapdns.net." always_null
 local-zone: "7vid.net." always_null
-local-zone: "7vod-adaptive.akamaized.net." always_null
+
 local-zone: "7xbid.com." always_null
 local-zone: "7xde.net." always_null
 local-zone: "7xjpy4d.x.incapdns.net." always_null
@@ -13189,19 +13189,19 @@ local-zone: "80.77.89.177." always_null
 local-zone: "805019.smushcdn.com." always_null
 local-zone: "809aafde5c6fe99a53d65fcf63b4246c.edgekey.net." always_null
 local-zone: "81dix1oo56s3h5et73pjxme1-wpengine.netdna-ssl.com." always_null
-local-zone: "81vod-adaptive.akamaized.net." always_null
+
 local-zone: "825872ac0c77af8785ed7aea4a8be803.edgekey.net." always_null
 local-zone: "829395.smushcdn.com." always_null
 local-zone: "82rc.net." always_null
-local-zone: "82vod-adaptive.akamaized.net." always_null
+
 local-zone: "832212.smushcdn.com." always_null
 local-zone: "838c8097a14df4395efd566848938186.edgekey.net." always_null
 local-zone: "83a5d747b838237ca4ebac8b3c71c266.edgekey.net." always_null
-local-zone: "83vod-adaptive.akamaized.net." always_null
+
 local-zone: "840027.smushcdn.com." always_null
-local-zone: "85vod-adaptive.akamaized.net." always_null
+
 local-zone: "87.98.156.59." always_null
-local-zone: "87vod-adaptive.akamaized.net." always_null
+
 local-zone: "883e1d1d28ebacb6ce2ab2e1a84d2e89.edgekey.net." always_null
 local-zone: "888asian.com." always_null
 local-zone: "888sport.se." always_null
@@ -13224,16 +13224,16 @@ local-zone: "9165619.com." always_null
 local-zone: "927bc08bc3bfb643b5d311bdb98b9c5f.edgekey.net." always_null
 local-zone: "93.115.31.155." always_null
 local-zone: "93c2daf357a41c65c46fd5c3450630c3.edgekey.net." always_null
-local-zone: "93vod-adaptive.akamaized.net." always_null
+
 local-zone: "940388.smushcdn.com." always_null
-local-zone: "94vod-adaptive.akamaized.net." always_null
+
 local-zone: "95.214.54.201." always_null
 local-zone: "951199.smushcdn.com." always_null
 local-zone: "952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com." always_null
-local-zone: "95vod-adaptive.akamaized.net." always_null
+
 local-zone: "961e1acc4cbca20174d2d36ecfd5ad4b.edgekey.net." always_null
-local-zone: "97vod-adaptive.akamaized.net." always_null
-local-zone: "98vod-adaptive.akamaized.net." always_null
+
+
 local-zone: "9949ae8c2454a4e57dc2593d041e3569.edgekey.net." always_null
 local-zone: "9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net." always_null
 local-zone: "9b47f0dc56015d8035ef75137f664eab.edgekey.net." always_null
@@ -13474,7 +13474,7 @@ local-zone: "1430629705.rsc.cdn77.org." always_null
 local-zone: "31173.se." always_null
 local-zone: "45.89.66.142." always_null
 local-zone: "51-116-131-221_s-92-123-194-148_ts-1655798738-clienttons-s.akamaihd.net." always_null
-local-zone: "59vod-adaptive.akamaized.net." always_null
+
 local-zone: "91bjav.com." always_null
 local-zone: "acfc8b5ca7.com." always_null
 local-zone: "acfrg.com." always_null
@@ -13722,18 +13722,18 @@ local-zone: "bigo.sg." always_null
 local-zone: "biguz.net." always_null
 local-zone: "bikenetzwerk.de." always_null
 local-zone: "123rf.com." always_null
-# allow 129vod-adaptive.akamaized.net reason: not a tracker
-local-zone: "163vod-adaptive.akamaized.net." always_null
-local-zone: "192vod-adaptive.akamaized.net." always_null
+
+
+
 local-zone: "1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com." always_null
 local-zone: "20-193-45-113_s-23-48-96-104_ts-1655832865-clienttons-s.akamaihd.net." always_null
 local-zone: "20-193-45-113_s-23-55-38-58_ts-1655835492-clienttons-s.akamaihd.net." always_null
 local-zone: "3plearning.net." always_null
-local-zone: "55vod-adaptive.akamaized.net." always_null
-local-zone: "5vod-adaptive.akamaized.net." always_null
-local-zone: "60vod-adaptive.akamaized.net." always_null
+
+
+
 local-zone: "7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com." always_null
-local-zone: "78vod-adaptive.akamaized.net." always_null
+
 # allow abcnews.com reason: not a tracker
 local-zone: "acmi-website-media-prod.s3.amazonaws.com." always_null
 local-zone: "adaraanalytics.com." always_null
@@ -14313,7 +14313,7 @@ local-zone: "canadaammo.com." always_null
 local-zone: "canadapost-postescanada.ca." always_null
 local-zone: "canadianevergreen.com." always_null
 local-zone: "canadiantire.ca." always_null
-local-zone: "canon.com.edgekey.net." always_null
+# allow canon.com.edgekey.net reason: not a tracker
 local-zone: "capig-appli-1cb8h7tn7ozej-1283435480.us-east-1.elb.amazonaws.com." always_null
 local-zone: "capitalone.com." always_null
 local-zone: "capitalonegslbex.com." always_null
@@ -14688,10 +14688,10 @@ local-zone: "confiant-integrations.freetls.fastly.net." always_null
 local-zone: "congstar-media.de." always_null
 # allow conrad.de reason: not a trackeer
 local-zone: "consentconverter.com." always_null
-local-zone: "108vod-adaptive.akamaized.net." always_null
-local-zone: "119vod-adaptive.akamaized.net." always_null
+
+
 local-zone: "24log.es." always_null
-local-zone: "58vod-adaptive.akamaized.net." always_null
+
 local-zone: "aa2xx.xyz." always_null
 local-zone: "addresseepaper.com." always_null
 local-zone: "adept-shop-ui.s3.us-east-2.amazonaws.com." always_null
@@ -14927,13 +14927,13 @@ local-zone: "bodhi.is." always_null
 local-zone: "bookmark.xxx." always_null
 local-zone: "bootstraplugin.com." always_null
 local-zone: "borderfree.com." always_null
-local-zone: "126vod-adaptive.akamaized.net." always_null
-local-zone: "144vod-adaptive.akamaized.net." always_null
-local-zone: "14vod-adaptive.akamaized.net." always_null
-local-zone: "150vod-adaptive.akamaized.net." always_null
+
+
+
+
 local-zone: "360perspektiven.com." always_null
-local-zone: "48vod-adaptive.akamaized.net." always_null
-local-zone: "92vod-adaptive.akamaized.net." always_null
+
+
 local-zone: "aboutyou.ch." always_null
 local-zone: "abraxas-apis.ch." always_null
 local-zone: "abraxas-apps.ch." always_null
@@ -15039,13 +15039,13 @@ local-zone: "checkfront.com." always_null
 local-zone: "chessabc.com." always_null
 local-zone: "1000otzyvov.com." always_null
 local-zone: "123roulement.be." always_null
-# allow 123vod-adaptive.akamaized.net reason: required
-# allow 132vod-adaptive.akamaized.net reason: required
-# allow 145vod-adaptive.akamaized.net reason: required
+
+
+
 local-zone: "1997media.com." always_null
 local-zone: "1lib.fr." always_null
 local-zone: "321lenet.com." always_null
-# allow 76vod-adaptive.akamaized.net reason: not a tracker
+
 local-zone: "abeille-assurances.fr." always_null
 local-zone: "abla.io." always_null
 local-zone: "acotedemoi.com." always_null

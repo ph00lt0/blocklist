@@ -14420,7 +14420,7 @@
 0.0.0.0 canadapost-postescanada.ca
 0.0.0.0 canadianevergreen.com
 0.0.0.0 canadiantire.ca
-0.0.0.0 canon.com.edgekey.net
+! allow canon.com.edgekey.net reason: not a tracker
 0.0.0.0 capig-appli-1cb8h7tn7ozej-1283435480.us-east-1.elb.amazonaws.com
 0.0.0.0 capitalone.com
 0.0.0.0 capitalonegslbex.com

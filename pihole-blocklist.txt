@@ -14692,7 +14692,7 @@
 0.0.0.0 dialogtech.com
 0.0.0.0 diepresse.com.edgekey.net
 0.0.0.0 digiaccess.org
-0.0.0.0 digicert.com
+! allow digicert.com reason: not just a tracker
 0.0.0.0 digital.edgekey.net
 0.0.0.0 digitalgov.gov
 0.0.0.0 digitalpfizer.com

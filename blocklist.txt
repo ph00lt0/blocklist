@@ -13015,7 +13015,7 @@ $removeparam=engagement_type
 ||12flirt.com^
 ||12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com^
 ||12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com^
-||12news.com.edgekey.net^
+@@||12news.com.edgekey.net^  # not a traccker
 ||12newsnow.com.edgekey.net^
 ||12vod-adaptive.akamaized.net^
 ||13.cl^

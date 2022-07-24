@@ -15152,7 +15152,7 @@
 0.0.0.0 1997media.com
 0.0.0.0 1lib.fr
 0.0.0.0 321lenet.com
-0.0.0.0 76vod-adaptive.akamaized.net
+! allow 76vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 abeille-assurances.fr
 0.0.0.0 abla.io
 0.0.0.0 acotedemoi.com

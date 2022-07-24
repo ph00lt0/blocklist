@@ -15045,7 +15045,7 @@ local-zone: "123roulement.be." always_null
 local-zone: "1997media.com." always_null
 local-zone: "1lib.fr." always_null
 local-zone: "321lenet.com." always_null
-local-zone: "76vod-adaptive.akamaized.net." always_null
+# allow 76vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "abeille-assurances.fr." always_null
 local-zone: "abla.io." always_null
 local-zone: "acotedemoi.com." always_null

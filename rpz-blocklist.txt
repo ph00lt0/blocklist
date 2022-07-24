@@ -15044,7 +15044,7 @@ chessabc.com CNAME .
 1997media.com CNAME .
 1lib.fr CNAME .
 321lenet.com CNAME .
-76vod-adaptive.akamaized.net CNAME .
+; allow 76vod-adaptive.akamaized.net reason: not a tracker
 abeille-assurances.fr CNAME .
 abla.io CNAME .
 acotedemoi.com CNAME .

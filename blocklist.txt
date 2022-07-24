@@ -15470,7 +15470,7 @@ $removeparam=engagement_type
 ||1997media.com^
 ||1lib.fr^
 ||321lenet.com^
-||76vod-adaptive.akamaized.net^
+@@||76vod-adaptive.akamaized.net^  # not a tracker
 ||abeille-assurances.fr^
 ||abla.io^
 ||acotedemoi.com^

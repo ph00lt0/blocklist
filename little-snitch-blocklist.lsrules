@@ -14973,6 +14973,7 @@
         "dcf.espn.com",
         "a.dilcdn.com",
         "sanalytics.disneyplus.com",
-        "connections.edge.bamgrid.com"
+        "connections.edge.bamgrid.com",
+        "sdk.iad-03.braze.com"
     ]
 }

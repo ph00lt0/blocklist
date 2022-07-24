@@ -13300,7 +13300,7 @@ a9yw.net CNAME .
 aaa200.rocks CNAME .
 aaacompany.net CNAME .
 
-aaas.org CNAME .
+; allow aaas.org reason: not a tracker
 aaasouth.com CNAME .
 aaawebstore.com CNAME .
 aabdmn.com CNAME .

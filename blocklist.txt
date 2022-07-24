@@ -14146,7 +14146,7 @@ $removeparam=engagement_type
 ||biguz.net^
 ||bikenetzwerk.de^
 ||123rf.com^
-||129vod-adaptive.akamaized.net^
+@@||129vod-adaptive.akamaized.net^  # not a tracker
 ||163vod-adaptive.akamaized.net^
 ||192vod-adaptive.akamaized.net^
 ||1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com^

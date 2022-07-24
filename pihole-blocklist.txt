@@ -13829,7 +13829,7 @@
 0.0.0.0 biguz.net
 0.0.0.0 bikenetzwerk.de
 0.0.0.0 123rf.com
-0.0.0.0 129vod-adaptive.akamaized.net
+! allow 129vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 163vod-adaptive.akamaized.net
 0.0.0.0 192vod-adaptive.akamaized.net
 0.0.0.0 1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com

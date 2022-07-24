@@ -13722,7 +13722,7 @@ local-zone: "bigo.sg." always_null
 local-zone: "biguz.net." always_null
 local-zone: "bikenetzwerk.de." always_null
 local-zone: "123rf.com." always_null
-local-zone: "129vod-adaptive.akamaized.net." always_null
+# allow 129vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "163vod-adaptive.akamaized.net." always_null
 local-zone: "192vod-adaptive.akamaized.net." always_null
 local-zone: "1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com." always_null

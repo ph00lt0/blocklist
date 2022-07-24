@@ -12804,7 +12804,7 @@
 0.0.0.0 1800flowers.map.fastly.net
 0.0.0.0 1800petmeds.com
 0.0.0.0 1817141586.rsc.cdn77.org
-0.0.0.0 181vod-adaptive.akamaized.net
+! allow 181vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1824867661.rsc.cdn77.org
 ! allow 182vod-adaptive.akamaized.net reason: not a tracker
 ! allow 184vod-adaptive.akamaized.net reason: not a tracker

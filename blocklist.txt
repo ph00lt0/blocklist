@@ -15276,7 +15276,7 @@ $removeparam=engagement_type
 ||di-dtaectolog-us-prod-1.appspot.com^
 ||dideo.ir^
 ||diffuse.nl^
-||digitaaldagblad.nl^
+@@||digitaaldagblad.nl^  # not just a tracker
 ||digitaloceanspaces.com^
 ||directferries.co.uk^
 ||discordapp.com^

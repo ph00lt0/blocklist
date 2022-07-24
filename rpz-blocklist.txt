@@ -14851,7 +14851,7 @@ dhqbrvplips7x.cloudfront.net CNAME .
 di-dtaectolog-us-prod-1.appspot.com CNAME .
 dideo.ir CNAME .
 diffuse.nl CNAME .
-digitaaldagblad.nl CNAME .
+; allow digitaaldagblad.nl reason: not just a tracker
 digitaloceanspaces.com CNAME .
 directferries.co.uk CNAME .
 discordapp.com CNAME .

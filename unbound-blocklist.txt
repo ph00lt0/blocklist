@@ -14852,7 +14852,7 @@ local-zone: "dhqbrvplips7x.cloudfront.net." always_null
 local-zone: "di-dtaectolog-us-prod-1.appspot.com." always_null
 local-zone: "dideo.ir." always_null
 local-zone: "diffuse.nl." always_null
-local-zone: "digitaaldagblad.nl." always_null
+# allow digitaaldagblad.nl reason: not just a tracker
 local-zone: "digitaloceanspaces.com." always_null
 local-zone: "directferries.co.uk." always_null
 local-zone: "discordapp.com." always_null

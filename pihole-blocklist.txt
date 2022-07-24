@@ -14959,7 +14959,7 @@
 0.0.0.0 di-dtaectolog-us-prod-1.appspot.com
 0.0.0.0 dideo.ir
 0.0.0.0 diffuse.nl
-0.0.0.0 digitaaldagblad.nl
+! allow digitaaldagblad.nl reason: not just a tracker
 0.0.0.0 digitaloceanspaces.com
 0.0.0.0 directferries.co.uk
 0.0.0.0 discordapp.com

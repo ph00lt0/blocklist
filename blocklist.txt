@@ -12916,3 +12916,4 @@ $removeparam=subid1
 ||piwik.betaalvereniging.nl^
 ||ec.sds.getpenta.com^
 ||go.link^
+$removeparam=adj_campaign

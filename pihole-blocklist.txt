@@ -12638,7 +12638,7 @@
 0.0.0.0 1003219085.rsc.cdn77.org
 0.0.0.0 1009550802.rsc.cdn77.org
 0.0.0.0 100percentfedup.com
-0.0.0.0 100vod-adaptive.akamaized.net
+! allow 100vod-adaptive.akamaized.net reason: not a trackerr
 0.0.0.0 100widgets.com
 0.0.0.0 101vod-adaptive.akamaized.net
 0.0.0.0 102vod-adaptive.akamaized.net

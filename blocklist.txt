@@ -12955,7 +12955,7 @@ $removeparam=engagement_type
 ||1003219085.rsc.cdn77.org^
 ||1009550802.rsc.cdn77.org^
 ||100percentfedup.com^
-||100vod-adaptive.akamaized.net^
+@@||100vod-adaptive.akamaized.net^  # not a trackerr
 ||100widgets.com^
 ||101vod-adaptive.akamaized.net^
 ||102vod-adaptive.akamaized.net^

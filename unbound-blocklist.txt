@@ -12531,7 +12531,7 @@ local-zone: "1001fonts.net." always_null
 local-zone: "1003219085.rsc.cdn77.org." always_null
 local-zone: "1009550802.rsc.cdn77.org." always_null
 local-zone: "100percentfedup.com." always_null
-local-zone: "100vod-adaptive.akamaized.net." always_null
+# allow 100vod-adaptive.akamaized.net reason: not a trackerr
 local-zone: "100widgets.com." always_null
 local-zone: "101vod-adaptive.akamaized.net." always_null
 local-zone: "102vod-adaptive.akamaized.net." always_null

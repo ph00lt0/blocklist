@@ -13935,7 +13935,7 @@ $removeparam=engagement_type
 ||adnet.de^
 ||adobe.com.edgekey.net^
 ||adobe.com.edgesuite.net^
-||adobe.com^
+@@||adobe.com^  # not a tracker
 ||adobedc.net^
 ||adobedtm.com.edgekey.net^
 ||adobetarget.com^

@@ -13616,9 +13616,9 @@
 0.0.0.0 adme-net.com
 0.0.0.0 admeira.ch
 0.0.0.0 adnet.de
-0.0.0.0 adobe.com.edgekey.net
-0.0.0.0 adobe.com.edgesuite.net
-0.0.0.0 adobe.com
+! allow adobe.com reason: not a tracker.edgekey.net
+! allow adobe.com reason: not a tracker.edgesuite.net
+! allow adobe.com reason: not a tracker
 0.0.0.0 adobedc.net
 0.0.0.0 adobedtm.com.edgekey.net
 0.0.0.0 adobetarget.com

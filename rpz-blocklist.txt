@@ -228,7 +228,7 @@ payments.amazon.com CNAME .
 pndsn.com CNAME .
 files.acrobat.com CNAME .
 createpdf.acrobat.com CNAME .
-genuine.adobe.com CNAME .
+genuine.; allow adobe.com reason: not a tracker
 apple.co CNAME .
 aaplimg.com' CNAME .
 weather-analytics-events.apple.com CNAME .
@@ -3470,7 +3470,7 @@ static.srcspot.com CNAME .
 matomo.riot.im CNAME .
 matomo.clickmeeting.com CNAME .
 adobe.tt.omtrdc.net CNAME .
-geo2.adobe.com CNAME .
+geo2.; allow adobe.com reason: not a tracker
 tools.refokus.io CNAME .
 hubspot.clearbit.com CNAME .
 api.amplitude.com CNAME .
@@ -7615,26 +7615,26 @@ tns.simba.taobao.com CNAME .
 tyh.taobao.com CNAME .
 userimg.qunar.com CNAME .
 yiliao.hupan.com CNAME .
-3dns-2.adobe.com CNAME .
-3dns-3.adobe.com CNAME .
-activate-sea.adobe.com CNAME .
-activate-sjc0.adobe.com CNAME .
-activate.adobe.com CNAME .
-activate.wip3.adobe.com CNAME .
-adobe-dns-2.adobe.com CNAME .
-adobe-dns-3.adobe.com CNAME .
-adobe-dns.adobe.com CNAME .
-ereg.adobe.com CNAME .
-ereg.wip3.adobe.com CNAME .
-hl2rcv.adobe.com CNAME .
-hlrcv.stage.adobe.com CNAME .
-lm.licenses.adobe.com CNAME .
-lmlicenses.wip4.adobe.com CNAME .
-na1r.services.adobe.com CNAME .
-na2m-pr.licenses.adobe.com CNAME .
-practivate.adobe.com CNAME .
-wip3.adobe.com CNAME .
-wwis-dubc1-vip60.adobe.com CNAME .
+3dns-2.; allow adobe.com reason: not a tracker
+3dns-3.; allow adobe.com reason: not a tracker
+activate-sea.; allow adobe.com reason: not a tracker
+activate-sjc0.; allow adobe.com reason: not a tracker
+activate.; allow adobe.com reason: not a tracker
+activate.wip3.; allow adobe.com reason: not a tracker
+adobe-dns-2.; allow adobe.com reason: not a tracker
+adobe-dns-3.; allow adobe.com reason: not a tracker
+adobe-dns.; allow adobe.com reason: not a tracker
+ereg.; allow adobe.com reason: not a tracker
+ereg.wip3.; allow adobe.com reason: not a tracker
+hl2rcv.; allow adobe.com reason: not a tracker
+hlrcv.stage.; allow adobe.com reason: not a tracker
+lm.licenses.; allow adobe.com reason: not a tracker
+lmlicenses.wip4.; allow adobe.com reason: not a tracker
+na1r.services.; allow adobe.com reason: not a tracker
+na2m-pr.licenses.; allow adobe.com reason: not a tracker
+practivate.; allow adobe.com reason: not a tracker
+wip3.; allow adobe.com reason: not a tracker
+wwis-dubc1-vip60.; allow adobe.com reason: not a tracker
 33.autohome.com.cn CNAME .
 adproxy.autohome.com.cn CNAME .
 al.autohome.com.cn CNAME .
@@ -13510,7 +13510,7 @@ admeira.ch CNAME .
 adnet.de CNAME .
 adobe.com.edgekey.net CNAME .
 adobe.com.edgesuite.net CNAME .
-adobe.com CNAME .
+; allow adobe.com reason: not a tracker
 adobedc.net CNAME .
 adobedtm.com.edgekey.net CNAME .
 adobetarget.com CNAME .
@@ -13831,7 +13831,7 @@ arkoselabs.com CNAME .
 arrivalist.com CNAME .
 art-gallery-of-sa-store.myshopify.com CNAME .
 assets-queue-it.net CNAME .
-assetsadobe.com CNAME .
+assets; allow adobe.com reason: not a tracker
 assetsadobe2.com CNAME .
 asteriresearch.com CNAME .
 astutebot.com CNAME .

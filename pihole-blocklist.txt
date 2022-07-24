@@ -12715,7 +12715,7 @@
 ! allow 136vod-adaptive.akamaized.net reason: not a tracker
 ! allow 137vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com
-0.0.0.0 138vod-adaptive.akamaized.net
+! allow 138vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 139.99.130.166
 0.0.0.0 139.99.55.81
 0.0.0.0 139vod-adaptive.akamaized.net

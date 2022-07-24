@@ -12607,7 +12607,7 @@ jnn-pa.googleapis.com CNAME .
 ; allow 136vod-adaptive.akamaized.net reason: not a tracker
 ; allow 137vod-adaptive.akamaized.net reason: not a tracker
 1388rt3s63ww26xq2217rr5my4t-wpengine.netdna-ssl.com CNAME .
-138vod-adaptive.akamaized.net CNAME .
+; allow 138vod-adaptive.akamaized.net reason: not a tracker
 139.99.130.166 CNAME .
 139.99.55.81 CNAME .
 139vod-adaptive.akamaized.net CNAME .

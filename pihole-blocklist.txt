@@ -13898,7 +13898,7 @@
 ! allow amazon.co.jp reason: not a tracker
 0.0.0.0 ambientdsp.com
 ! allow americanairlines.com.au reason: not a tracker
-0.0.0.0 americanexpress.com.akadns.net
+! allow americanexpress.com.akadns.net reason: not a tracker
 0.0.0.0 amgdgt.com
 0.0.0.0 ampproject.net
 0.0.0.0 ams-depr-public.s3.amazonaws.com

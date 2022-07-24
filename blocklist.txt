@@ -14215,7 +14215,7 @@ $removeparam=engagement_type
 @@||amazon.co.jp^  # not a tracker
 ||ambientdsp.com^
 @@||americanairlines.com.au^  # not a tracker
-||americanexpress.com.akadns.net^
+@@||americanexpress.com.akadns.net^  # not a tracker
 ||amgdgt.com^
 ||ampproject.net^
 ||ams-depr-public.s3.amazonaws.com^

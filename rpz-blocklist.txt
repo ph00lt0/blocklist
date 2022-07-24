@@ -13790,7 +13790,7 @@ alphacdn.net CNAME .
 ; allow amazon.co.jp reason: not a tracker
 ambientdsp.com CNAME .
 ; allow americanairlines.com.au reason: not a tracker
-americanexpress.com.akadns.net CNAME .
+; allow americanexpress.com.akadns.net reason: not a tracker
 amgdgt.com CNAME .
 ampproject.net CNAME .
 ams-depr-public.s3.amazonaws.com CNAME .

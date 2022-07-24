@@ -13791,7 +13791,7 @@ local-zone: "alphacdn.net." always_null
 # allow amazon.co.jp reason: not a tracker
 local-zone: "ambientdsp.com." always_null
 # allow americanairlines.com.au reason: not a tracker
-local-zone: "americanexpress.com.akadns.net." always_null
+# allow americanexpress.com.akadns.net reason: not a tracker
 local-zone: "amgdgt.com." always_null
 local-zone: "ampproject.net." always_null
 local-zone: "ams-depr-public.s3.amazonaws.com." always_null

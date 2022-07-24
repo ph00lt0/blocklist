@@ -15342,3 +15342,4 @@ www.clearfoundation.com CNAME .
 www.clearcenter.com CNAME .
 www.clearcellular.org CNAME .
 www.clearunited.com CNAME .
+www.directpointe.com CNAME .

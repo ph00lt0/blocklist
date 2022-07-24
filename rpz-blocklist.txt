@@ -15193,7 +15193,7 @@ advertsource.co.uk CNAME .
 airfrance.fr CNAME .
 alive5.com CNAME .
 alphonso.tv CNAME .
-americanairlines.co.uk CNAME .
+; allow americanairlines.co.uk reason: not a tracker
 answerbase.com CNAME .
 antavo.com CNAME .
 antiquestradegazette.com CNAME .

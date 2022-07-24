@@ -15619,7 +15619,7 @@ $removeparam=engagement_type
 ||airfrance.fr^
 ||alive5.com^
 ||alphonso.tv^
-||americanairlines.co.uk^
+@@||americanairlines.co.uk^  # not a tracker
 ||answerbase.com^
 ||antavo.com^
 ||antiquestradegazette.com^

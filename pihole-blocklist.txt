@@ -15301,7 +15301,7 @@
 0.0.0.0 airfrance.fr
 0.0.0.0 alive5.com
 0.0.0.0 alphonso.tv
-0.0.0.0 americanairlines.co.uk
+! allow americanairlines.co.uk reason: not a tracker
 0.0.0.0 answerbase.com
 0.0.0.0 antavo.com
 0.0.0.0 antiquestradegazette.com

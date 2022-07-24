@@ -15194,7 +15194,7 @@ local-zone: "advertsource.co.uk." always_null
 local-zone: "airfrance.fr." always_null
 local-zone: "alive5.com." always_null
 local-zone: "alphonso.tv." always_null
-local-zone: "americanairlines.co.uk." always_null
+# allow americanairlines.co.uk reason: not a tracker
 local-zone: "answerbase.com." always_null
 local-zone: "antavo.com." always_null
 local-zone: "antiquestradegazette.com." always_null

@@ -12596,3 +12596,4 @@
 0.0.0.0 data.qvc.de
 0.0.0.0 assets.adobetm.com
 0.0.0.0 api.branch.io
+0.0.0.0 nmg-ads.com

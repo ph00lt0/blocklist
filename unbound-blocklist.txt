@@ -13816,7 +13816,7 @@ local-zone: "apia.com.au." always_null
 local-zone: "apnarm.net.au." always_null
 local-zone: "app-28836.on-aptible.com." always_null
 local-zone: "appdevelopergroup.co." always_null
-local-zone: "apple-mapkit.com." always_null
+# allow apple-mapkit.com reason: not a tracker
 local-zone: "appnexus.map.fastly.net." always_null
 local-zone: "aprtn.com." always_null
 local-zone: "aprtx.com." always_null

@@ -14240,7 +14240,7 @@ $removeparam=engagement_type
 ||apnarm.net.au^
 ||app-28836.on-aptible.com^
 ||appdevelopergroup.co^
-||apple-mapkit.com^
+@@||apple-mapkit.com^  # not a tracker
 ||appnexus.map.fastly.net^
 ||aprtn.com^
 ||aprtx.com^
@@ -14340,7 +14340,7 @@ $removeparam=engagement_type
 ||blackbaudhosting.com^
 ||blackcrow.ai^
 ||bleepstatic.com^
-@@@@||blogger.com^  # not a tracker  # not a tracker
+@@||blogger.com^ # not a tracker
 ||bloglines.com^
 ||bloomberga.com^
 ||blubrry.com^

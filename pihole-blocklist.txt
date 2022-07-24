@@ -13923,7 +13923,7 @@
 0.0.0.0 apnarm.net.au
 0.0.0.0 app-28836.on-aptible.com
 0.0.0.0 appdevelopergroup.co
-0.0.0.0 apple-mapkit.com
+! allow apple-mapkit.com reason: not a tracker
 0.0.0.0 appnexus.map.fastly.net
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com

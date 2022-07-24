@@ -13815,7 +13815,7 @@ apia.com.au CNAME .
 apnarm.net.au CNAME .
 app-28836.on-aptible.com CNAME .
 appdevelopergroup.co CNAME .
-apple-mapkit.com CNAME .
+; allow apple-mapkit.com reason: not a tracker
 appnexus.map.fastly.net CNAME .
 aprtn.com CNAME .
 aprtx.com CNAME .

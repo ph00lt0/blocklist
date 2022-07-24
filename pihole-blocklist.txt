@@ -248,7 +248,7 @@
 0.0.0.0 apple-cloudkit.com
 0.0.0.0 valid.apple.com
 ! allow gateway.icloud.com reason: Not a tracker
-0.0.0.0 sonos-music.apple.com
+! allow sonos-music.apple.com reason: not a tracker
 0.0.0.0 pancake.apple.com
 0.0.0.0 ess.apple.com
 0.0.0.0 ls.apple.com

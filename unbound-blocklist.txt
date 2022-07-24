@@ -242,7 +242,7 @@ local-zone: "xp.apple.com." always_null
 local-zone: "iphonesubmissions.apple.com." always_null
 local-zone: "apple-cloudkit.com." always_null
 local-zone: "valid.apple.com." always_null
-local-zone: "sonos-music.apple.com." always_null
+# allow sonos-music.apple.com reason: not a tracker
 local-zone: "pancake.apple.com." always_null
 local-zone: "ess.apple.com." always_null
 local-zone: "ls.apple.com." always_null

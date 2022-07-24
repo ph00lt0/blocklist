@@ -14768,7 +14768,7 @@ $removeparam=engagement_type
 ||chasepaymentech.com^
 ||chatango.com^
 ||cheapflights.ca^
-||cheaptickets.com^
+@@||cheaptickets.com^  # not a tracker
 ||chicdn.net^
 ||chioneflake.com^
 ||chl-network.s3.amazonaws.com^

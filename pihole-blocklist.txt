@@ -14450,7 +14450,7 @@
 0.0.0.0 chasepaymentech.com
 0.0.0.0 chatango.com
 0.0.0.0 cheapflights.ca
-0.0.0.0 cheaptickets.com
+! allow cheaptickets.com reason: not a tracker
 0.0.0.0 chicdn.net
 0.0.0.0 chioneflake.com
 0.0.0.0 chl-network.s3.amazonaws.com

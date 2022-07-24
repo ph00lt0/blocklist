@@ -14343,7 +14343,7 @@ local-zone: "channelexco.com." always_null
 local-zone: "chasepaymentech.com." always_null
 local-zone: "chatango.com." always_null
 local-zone: "cheapflights.ca." always_null
-local-zone: "cheaptickets.com." always_null
+# allow cheaptickets.com reason: not a tracker
 local-zone: "chicdn.net." always_null
 local-zone: "chioneflake.com." always_null
 local-zone: "chl-network.s3.amazonaws.com." always_null

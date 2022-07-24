@@ -14342,7 +14342,7 @@ channelexco.com CNAME .
 chasepaymentech.com CNAME .
 chatango.com CNAME .
 cheapflights.ca CNAME .
-cheaptickets.com CNAME .
+; allow cheaptickets.com reason: not a tracker
 chicdn.net CNAME .
 chioneflake.com CNAME .
 chl-network.s3.amazonaws.com CNAME .

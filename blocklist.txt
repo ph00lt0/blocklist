@@ -12915,3 +12915,4 @@ $removeparam=subid1
 ||badge.facebook.com^
 ||piwik.betaalvereniging.nl^
 ||ec.sds.getpenta.com^
+||go.link^

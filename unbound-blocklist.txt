@@ -12496,3 +12496,4 @@ local-zone: "ws-eu.pusher.com." always_null
 local-zone: "badge.facebook.com." always_null
 local-zone: "piwik.betaalvereniging.nl." always_null
 local-zone: "ec.sds.getpenta.com." always_null
+local-zone: "go.link." always_null

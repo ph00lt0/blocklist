@@ -12917,3 +12917,4 @@ $removeparam=subid1
 ||ec.sds.getpenta.com^
 ||go.link^
 $removeparam=adj_campaign
+$removeparam=adj_deep_link

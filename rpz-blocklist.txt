@@ -15345,3 +15345,4 @@ www.clearunited.com CNAME .
 www.directpointe.com CNAME .
 blackphone.co.uk CNAME .
 www.kickmobiles.com CNAME .
+www.freedomphone.com CNAME .

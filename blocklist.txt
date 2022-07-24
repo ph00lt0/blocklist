@@ -15767,3 +15767,4 @@ $removeparam=engagement_type
 ||www.directpointe.com^
 ||blackphone.co.uk^
 ||www.kickmobiles.com^
+||www.freedomphone.com^

@@ -817,7 +817,7 @@ taboola.com CNAME .
 cdn.taboola.com CNAME .
 licensing.bitmovin.com CNAME .
 hds.ak.token.bild.de CNAME .
-metrics.brightcove.com CNAME .
+metrics.; allow brightcove.com reason: video platform
 ping.chartbeat.net CNAME .
 cmp.axelspringer.com CNAME .
 carvertical.com CNAME .
@@ -13959,7 +13959,7 @@ brandlock.io CNAME .
 braze-images.com CNAME .
 brick.global.ssl.fastly.net CNAME .
 brid.tv CNAME .
-brightcove.com CNAME .
+; allow brightcove.com reason: video platform
 brightcove.net CNAME .
 brightcovecdn.com CNAME .
 brightedge.com CNAME .

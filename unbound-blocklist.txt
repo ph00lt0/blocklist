@@ -12935,7 +12935,7 @@ local-zone: "34a1ju2gva4u3yrm051vedfb-wpengine.netdna-ssl.com." always_null
 local-zone: "34pavouhj7.com." always_null
 # allow 34vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com." always_null
-local-zone: "35vod-adaptive.akamaized.net." always_null
+# allow 35vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "360.cn." always_null
 local-zone: "360and1.com." always_null
 local-zone: "362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com." always_null

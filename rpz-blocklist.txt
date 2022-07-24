@@ -12934,7 +12934,7 @@ jnn-pa.googleapis.com CNAME .
 34pavouhj7.com CNAME .
 ; allow 34vod-adaptive.akamaized.net reason: not a tracker
 34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com CNAME .
-35vod-adaptive.akamaized.net CNAME .
+; allow 35vod-adaptive.akamaized.net reason: not a tracker
 360.cn CNAME .
 360and1.com CNAME .
 362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com CNAME .

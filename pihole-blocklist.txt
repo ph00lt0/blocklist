@@ -13042,7 +13042,7 @@
 0.0.0.0 34pavouhj7.com
 ! allow 34vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com
-0.0.0.0 35vod-adaptive.akamaized.net
+! allow 35vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 360.cn
 0.0.0.0 360and1.com
 0.0.0.0 362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com

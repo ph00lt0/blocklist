@@ -15756,3 +15756,4 @@ $removeparam=engagement_type
 ||viral-loops.com^
 ||app.viral-loops.com^
 ||ro.boldapps.net^
+||assets1.adroll.com^

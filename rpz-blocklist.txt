@@ -12497,3 +12497,4 @@ piwik.betaalvereniging.nl CNAME .
 ec.sds.getpenta.com CNAME .
 go.link CNAME .
 trillbit.com CNAME .
+betrad.com CNAME .

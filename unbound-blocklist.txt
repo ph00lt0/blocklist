@@ -13614,7 +13614,7 @@ local-zone: "arcpublishing.com." always_null
 local-zone: "arcspire.io." always_null
 local-zone: "ard.de." always_null
 local-zone: "arenaev.com." always_null
-local-zone: "art19.com." always_null
+# allow art19.com reason: required for podcasts
 local-zone: "artefact.com." always_null
 local-zone: "artfut.com." always_null
 local-zone: "asadcdn.com." always_null

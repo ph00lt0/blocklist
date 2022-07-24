@@ -13613,7 +13613,7 @@ arcpublishing.com CNAME .
 arcspire.io CNAME .
 ard.de CNAME .
 arenaev.com CNAME .
-art19.com CNAME .
+; allow art19.com reason: required for podcasts
 artefact.com CNAME .
 artfut.com CNAME .
 asadcdn.com CNAME .

@@ -14038,7 +14038,7 @@ $removeparam=engagement_type
 ||arcspire.io^
 ||ard.de^
 ||arenaev.com^
-||art19.com^
+@@||art19.com^  # required for podcasts
 ||artefact.com^
 ||artfut.com^
 ||asadcdn.com^

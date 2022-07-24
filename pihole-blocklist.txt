@@ -13721,7 +13721,7 @@
 0.0.0.0 arcspire.io
 0.0.0.0 ard.de
 0.0.0.0 arenaev.com
-0.0.0.0 art19.com
+! allow art19.com reason: required for podcasts
 0.0.0.0 artefact.com
 0.0.0.0 artfut.com
 0.0.0.0 asadcdn.com

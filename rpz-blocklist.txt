@@ -3678,7 +3678,7 @@ supwizapp.com CNAME .
 play2.qbrick.com CNAME .
 qbrick.com CNAME .
 analytics.bit.; allow admin.ch reason: swiss gov not a tracker
-webstats.ch.ch CNAME .
+webstats.; allow ch.ch reason: swiss gov
 analytics.init.de CNAME .
 5f3c395.ccm19.de CNAME .
 ccm19.de CNAME .
@@ -14971,7 +14971,7 @@ almamedia.net CNAME .
 ame.edgekey.net CNAME .
 ; allow americanairlines.ch reason: not a tracker
 ; allow americanexpress.com.edgekey.net reason: not a tracker
-anbieter-vergleich.ch CNAME .
+anbieter-verglei; allow ch.ch reason: swiss gov
 ancensored.com CNAME .
 anrdoezrs.net CNAME .
 anthrazit.ch CNAME .
@@ -15031,7 +15031,7 @@ cdn12.com CNAME .
 cdnma.com CNAME .
 cdntwrk.com CNAME .
 cdnwebcloud.com CNAME .
-ch.ch CNAME .
+; allow ch.ch reason: swiss gov
 ch.edgekey.net CNAME .
 chart.googleapis.com CNAME .
 checkfront.com CNAME .

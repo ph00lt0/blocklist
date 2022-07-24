@@ -15139,7 +15139,7 @@
 0.0.0.0 cdnma.com
 0.0.0.0 cdntwrk.com
 0.0.0.0 cdnwebcloud.com
-0.0.0.0 ch.ch
+! allow ch.ch reason: swiss gov
 0.0.0.0 ch.edgekey.net
 0.0.0.0 chart.googleapis.com
 0.0.0.0 checkfront.com
@@ -15270,7 +15270,7 @@
 0.0.0.0 challenges.fr
 0.0.0.0 chaport.com
 0.0.0.0 chatfuel.com
-0.0.0.0 chichaylimona.com
+! allow ch.ch reason: swiss govaylimona.com
 0.0.0.0 chlorobike.com
 0.0.0.0 ciblelink.com
 0.0.0.0 citiservi.es

@@ -15457,7 +15457,7 @@ $removeparam=engagement_type
 ||cdnma.com^
 ||cdntwrk.com^
 ||cdnwebcloud.com^
-||ch.ch^
+@@||ch.ch^  # swiss gov
 ||ch.edgekey.net^
 ||chart.googleapis.com^
 ||checkfront.com^

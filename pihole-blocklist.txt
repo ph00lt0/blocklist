@@ -14135,7 +14135,7 @@
 ! allow cbsivideo.com reason: not a tracker
 0.0.0.0 ccmiocw.com
 ! allow cdn-apple.com.akadns.net reason: not a tracker
-0.0.0.0 cdn-apple.com
+! allow cdn-apple.com reason: not a tracker
 0.0.0.0 cdn-net.com
 0.0.0.0 cdn-payhelm.s3.amazonaws.com
 0.0.0.0 cdn-spurit.com

@@ -14453,7 +14453,7 @@ $removeparam=engagement_type
 @@||cbsivideo.com^  # not a tracker
 ||ccmiocw.com^
 @@||cdn-apple.com.akadns.net^  # not a tracker
-||cdn-apple.com^
+@@||cdn-apple.com^  # not a tracker
 ||cdn-net.com^
 ||cdn-payhelm.s3.amazonaws.com^
 ||cdn-spurit.com^

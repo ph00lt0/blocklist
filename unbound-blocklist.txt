@@ -15345,3 +15345,4 @@ local-zone: "www.clearcellular.org." always_null
 local-zone: "www.clearunited.com." always_null
 local-zone: "www.directpointe.com." always_null
 local-zone: "blackphone.co.uk." always_null
+local-zone: "www.kickmobiles.com." always_null

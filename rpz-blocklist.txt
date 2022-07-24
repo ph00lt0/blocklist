@@ -7317,7 +7317,7 @@ stargame.com CNAME .
 stg8.com CNAME .
 switchadhub.com CNAME .
 sycbbs.com CNAME .
-synacast.com CNAME .
+syn; allow acast.com reason: podcasts
 sysdig.com CNAME .
 talkingdata.net CNAME .
 tansuotv.com CNAME .
@@ -10186,7 +10186,7 @@ aicydb.com CNAME .
 aid.chinayk.com CNAME .
 aikan6.com CNAME .
 airpushmarketing.s3.amazonaws.com CNAME .
-ais.abacast.com CNAME .
+ais.ab; allow acast.com reason: podcasts
 aishang.bid CNAME .
 aishiguolong.com CNAME .
 aiwen.cc CNAME .
@@ -11962,7 +11962,7 @@ cindy17club.com CNAME .
 ciyitan.com CNAME .
 cjmooter.xcache.kinxcdn.com CNAME .
 cl.he9630.com CNAME .
-clarity.abacast.com CNAME .
+clarity.ab; allow acast.com reason: podcasts
 click.bokecc.com CNAME .
 click.eyk.net CNAME .
 click.hay3s.com CNAME .
@@ -13318,7 +13318,7 @@ aatrk.com CNAME .
 aaxdetect.com CNAME .
 aaxwall.com CNAME .
 ab21.xyz CNAME .
-abacast.com CNAME .
+ab; allow acast.com reason: podcasts
 abacuscloud.uk CNAME .
 abacusemedia.com CNAME .
 abbonamenti.it CNAME .
@@ -13371,7 +13371,7 @@ acacdn.com CNAME .
 academia-assets.com CNAME .
 acalog.com CNAME .
 acast.cloud CNAME .
-acast.com CNAME .
+; allow acast.com reason: podcasts
 acc-cdn.azureedge.net CNAME .
 acca-prod-65s-490528250.eu-west-1.elb.amazonaws.com CNAME .
 accaii.com CNAME .

@@ -13479,7 +13479,7 @@
 0.0.0.0 academia-assets.com
 0.0.0.0 acalog.com
 0.0.0.0 acast.cloud
-0.0.0.0 acast.com
+! allow acast.com reason: podcasts
 0.0.0.0 acc-cdn.azureedge.net
 0.0.0.0 acca-prod-65s-490528250.eu-west-1.elb.amazonaws.com
 0.0.0.0 accaii.com

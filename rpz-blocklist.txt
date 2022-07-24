@@ -14105,7 +14105,7 @@ clrstm.com CNAME .
 cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com CNAME .
 ; allow cnbc.com.edgekey.net reason: not a tracker
 ; allow cnbc.com reason: not a tracker
-cnbcfm.com.edgekey.net CNAME .
+; allow cnbcfm.com.edgekey.net reason: not a tracker
 cnevids.com CNAME .
 cnews.cz CNAME .
 cnnx.link CNAME .

@@ -14213,7 +14213,7 @@
 0.0.0.0 cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com
 ! allow cnbc.com reason: not a tracker.edgekey.net
 ! allow cnbc.com reason: not a tracker
-0.0.0.0 cnbcfm.com.edgekey.net
+! allow cnbcfm.com.edgekey.net reason: not a tracker
 0.0.0.0 cnevids.com
 0.0.0.0 cnews.cz
 0.0.0.0 cnnx.link

@@ -13509,7 +13509,7 @@ adme-net.com CNAME .
 admeira.ch CNAME .
 adnet.de CNAME .
 
-adobe.com.edgesuite.net CNAME .
+; allow adobe.com.edgesuite.net reason: not a tracker
 ; allow adobe.com reason: not a tracker
 adobedc.net CNAME .
 

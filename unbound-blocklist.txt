@@ -15353,3 +15353,4 @@ local-zone: "pixel-profile-cloud.eniro.com." always_null
 local-zone: "attributionservice.enirocdn.com." always_null
 local-zone: "julio-cdn.eniro.com." always_null
 local-zone: "stats.proff.no." always_null
+local-zone: "relevant-digital.com." always_null

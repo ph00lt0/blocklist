@@ -13017,7 +13017,7 @@ $removeparam=engagement_type
 ||12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com^
 @@||12news.com.edgekey.net^  # not a traccker
 @@||12newsnow.com.edgekey.net^  # not a tracker
-||12vod-adaptive.akamaized.net^
+@@||12vod-adaptive.akamaized.net^  # not a tracker
 ||13.cl^
 ||1320288971.rsc.cdn77.org^
 ||1324547246.rsc.cdn77.org^

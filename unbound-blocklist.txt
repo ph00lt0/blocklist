@@ -12592,7 +12592,7 @@ local-zone: "12flirt.com." always_null
 local-zone: "12h9ep29ycsl2dboql29k7wd-wpengine.netdna-ssl.com." always_null
 local-zone: "12heo23rv2vmkb53o3ieq02f-wpengine.netdna-ssl.com." always_null
 # allow 12news.com.edgekey.net reason: not a traccker
-local-zone: "12newsnow.com.edgekey.net." always_null
+# allow 12newsnow.com.edgekey.net reason: not a tracker
 local-zone: "12vod-adaptive.akamaized.net." always_null
 local-zone: "13.cl." always_null
 local-zone: "1320288971.rsc.cdn77.org." always_null

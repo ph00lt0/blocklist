@@ -12688,7 +12688,7 @@ jnn-pa.googleapis.com CNAME .
 1792469337.rsc.cdn77.org CNAME .
 1794199541.rsc.cdn77.org CNAME .
 179bce0add44add0b26bf3512ab168c7.edgekey.net CNAME .
-179vod-adaptive.akamaized.net CNAME .
+; allow 179vod-adaptive.akamaized.net reason: not a tracker
 17app.co CNAME .
 17iy0p49ts4537ovpn2g0scc-wpengine.netdna-ssl.com CNAME .
 17uh3i2b989t1jf7qqepkxez-wpengine.netdna-ssl.com CNAME .

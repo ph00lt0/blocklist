@@ -12658,7 +12658,7 @@ local-zone: "163jiasu.com." always_null
 local-zone: "1641310072.rsc.cdn77.org." always_null
 local-zone: "1641998492.rsc.cdn77.org." always_null
 local-zone: "1646039872.rsc.cdn77.org." always_null
-local-zone: "164vod-adaptive.akamaized.net." always_null
+# allow 164vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "1654771672.rsc.cdn77.org." always_null
 local-zone: "1658444117.rsc.cdn77.org." always_null
 local-zone: "1666210260.rsc.cdn77.org." always_null

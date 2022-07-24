@@ -13371,7 +13371,7 @@ local-zone: "ac-image.s3.amazonaws.com." always_null
 local-zone: "acacdn.com." always_null
 local-zone: "academia-assets.com." always_null
 local-zone: "acalog.com." always_null
-local-zone: "acast.cloud." always_null
+# allow acast.cloud reason: podcasts
 # allow acast.com reason: podcasts
 local-zone: "acc-cdn.azureedge.net." always_null
 local-zone: "acca-prod-65s-490528250.eu-west-1.elb.amazonaws.com." always_null

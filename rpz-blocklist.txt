@@ -13370,7 +13370,7 @@ ac-image.s3.amazonaws.com CNAME .
 acacdn.com CNAME .
 academia-assets.com CNAME .
 acalog.com CNAME .
-acast.cloud CNAME .
+; allow acast.cloud reason: podcasts
 ; allow acast.com reason: podcasts
 acc-cdn.azureedge.net CNAME .
 acca-prod-65s-490528250.eu-west-1.elb.amazonaws.com CNAME .

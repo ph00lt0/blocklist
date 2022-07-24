@@ -13904,7 +13904,7 @@
 0.0.0.0 ams-depr-public.s3.amazonaws.com
 0.0.0.0 anaconda.cloud
 0.0.0.0 analytics-sm.com
-0.0.0.0 anchor.fm
+! allow anchor.fm reason: required for podcasts
 0.0.0.0 and.co.uk
 0.0.0.0 anglerfox.com
 0.0.0.0 anrvideos.com

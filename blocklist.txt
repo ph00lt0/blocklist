@@ -14221,7 +14221,7 @@ $removeparam=engagement_type
 ||ams-depr-public.s3.amazonaws.com^
 ||anaconda.cloud^
 ||analytics-sm.com^
-||anchor.fm^
+@@||anchor.fm^  # required for podcasts
 ||and.co.uk^
 ||anglerfox.com^
 ||anrvideos.com^

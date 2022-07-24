@@ -13796,7 +13796,7 @@ ampproject.net CNAME .
 ams-depr-public.s3.amazonaws.com CNAME .
 anaconda.cloud CNAME .
 analytics-sm.com CNAME .
-anchor.fm CNAME .
+; allow anchor.fm reason: required for podcasts
 and.co.uk CNAME .
 anglerfox.com CNAME .
 anrvideos.com CNAME .

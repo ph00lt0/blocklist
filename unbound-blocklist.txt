@@ -13797,7 +13797,7 @@ local-zone: "ampproject.net." always_null
 local-zone: "ams-depr-public.s3.amazonaws.com." always_null
 local-zone: "anaconda.cloud." always_null
 local-zone: "analytics-sm.com." always_null
-local-zone: "anchor.fm." always_null
+# allow anchor.fm reason: required for podcasts
 local-zone: "and.co.uk." always_null
 local-zone: "anglerfox.com." always_null
 local-zone: "anrvideos.com." always_null

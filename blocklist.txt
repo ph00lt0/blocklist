@@ -13979,7 +13979,7 @@ $removeparam=engagement_type
 ||airpr.com^
 ||aisvip-a.akamaihd.net^
 ||aixport.de^
-||ajax.googleapis.com^
+@@||ajax.googleapis.com^  # required library
 ||akacdn.co^
 
 @@||akamai.com^  # not a tracker

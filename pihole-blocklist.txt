@@ -13662,7 +13662,7 @@
 0.0.0.0 airpr.com
 0.0.0.0 aisvip-a.akamaihd.net
 0.0.0.0 aixport.de
-0.0.0.0 ajax.googleapis.com
+! allow ajax.googleapis.com reason: required library
 0.0.0.0 akacdn.co
 
 ! allow akamai.com reason: not a tracker

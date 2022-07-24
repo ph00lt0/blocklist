@@ -13554,7 +13554,7 @@ air.tv CNAME .
 airpr.com CNAME .
 aisvip-a.akamaihd.net CNAME .
 aixport.de CNAME .
-ajax.googleapis.com CNAME .
+; allow ajax.googleapis.com reason: required library
 akacdn.co CNAME .
 
 ; allow akamai.com reason: not a tracker

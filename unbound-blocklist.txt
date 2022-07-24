@@ -13555,7 +13555,7 @@ local-zone: "air.tv." always_null
 local-zone: "airpr.com." always_null
 local-zone: "aisvip-a.akamaihd.net." always_null
 local-zone: "aixport.de." always_null
-local-zone: "ajax.googleapis.com." always_null
+# allow ajax.googleapis.com reason: required library
 local-zone: "akacdn.co." always_null
 local-zone: "akamai-111035.edgekey.net." always_null
 # allow akamai.com reason: not a tracker

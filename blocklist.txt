@@ -13982,7 +13982,7 @@ $removeparam=engagement_type
 ||ajax.googleapis.com^
 ||akacdn.co^
 ||akamai-111035.edgekey.net^
-||akamai.com^
+@@||akamai.com^  # not a tracker
 ||akmxts.com^
 ||alamy.com^
 ||alapage.ru^

@@ -2950,7 +2950,7 @@ salesforceliveagent.com CNAME .
 c.la1-c1-par.salesforceliveagent.com CNAME .
 assets.adobedtm.com CNAME .
 assistent.kpn.com CNAME .
-time.akamai.com CNAME .
+time.; allow akamai.com reason: not a tracker
 karma.mdpcdn.com CNAME .
 platform.slack-edge.com CNAME .
 company-32474.frontify.com CNAME .
@@ -13557,7 +13557,7 @@ aixport.de CNAME .
 ajax.googleapis.com CNAME .
 akacdn.co CNAME .
 akamai-111035.edgekey.net CNAME .
-akamai.com CNAME .
+; allow akamai.com reason: not a tracker
 akmxts.com CNAME .
 alamy.com CNAME .
 alapage.ru CNAME .

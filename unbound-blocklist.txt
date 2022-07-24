@@ -13558,7 +13558,7 @@ local-zone: "aixport.de." always_null
 local-zone: "ajax.googleapis.com." always_null
 local-zone: "akacdn.co." always_null
 local-zone: "akamai-111035.edgekey.net." always_null
-local-zone: "akamai.com." always_null
+# allow akamai.com reason: not a tracker
 local-zone: "akmxts.com." always_null
 local-zone: "alamy.com." always_null
 local-zone: "alapage.ru." always_null

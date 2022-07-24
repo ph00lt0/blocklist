@@ -13665,7 +13665,7 @@
 0.0.0.0 ajax.googleapis.com
 0.0.0.0 akacdn.co
 0.0.0.0 akamai-111035.edgekey.net
-0.0.0.0 akamai.com
+! allow akamai.com reason: not a tracker
 0.0.0.0 akmxts.com
 0.0.0.0 alamy.com
 0.0.0.0 alapage.ru

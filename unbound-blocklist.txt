@@ -15360,3 +15360,4 @@ local-zone: "sentry.bazo.dk." always_null
 local-zone: "tags.adnuntius.com." always_null
 # allow lasso.blob.core.windows.net reason: image cdn
 local-zone: "www.paqle.dk." always_null
+local-zone: "paqle.dk." always_null

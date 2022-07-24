@@ -15781,3 +15781,4 @@ $removeparam=engagement_type
 ||tags.adnuntius.com^
 @@||lasso.blob.core.windows.net^  # image cdn
 ||www.paqle.dk^
+||paqle.dk^

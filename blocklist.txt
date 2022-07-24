@@ -14212,7 +14212,7 @@ $removeparam=engagement_type
 ||allorigins.win^
 ||alocdn.com^
 ||alphacdn.net^
-||amazon.co.jp^
+@@||amazon.co.jp^  # not a tracker
 ||ambientdsp.com^
 ||americanairlines.com.au^
 ||americanexpress.com.akadns.net^

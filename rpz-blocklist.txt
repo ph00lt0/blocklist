@@ -13787,7 +13787,7 @@ allbud.s3.amazonaws.com CNAME .
 allorigins.win CNAME .
 alocdn.com CNAME .
 alphacdn.net CNAME .
-amazon.co.jp CNAME .
+; allow amazon.co.jp reason: not a tracker
 ambientdsp.com CNAME .
 americanairlines.com.au CNAME .
 americanexpress.com.akadns.net CNAME .

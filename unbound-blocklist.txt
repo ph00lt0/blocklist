@@ -15107,7 +15107,7 @@ local-zone: "bcovery.com." always_null
 local-zone: "be-bop-alula.com." always_null
 local-zone: "beeroot.io." always_null
 local-zone: "beezup.com." always_null
-local-zone: "behance.net." always_null
+# allow behance.net reason: not a tracker
 local-zone: "besmeargleor.com." always_null
 local-zone: "bestcontentfare.top." always_null
 local-zone: "bestzba.com." always_null

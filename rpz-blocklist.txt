@@ -15106,7 +15106,7 @@ bcovery.com CNAME .
 be-bop-alula.com CNAME .
 beeroot.io CNAME .
 beezup.com CNAME .
-behance.net CNAME .
+; allow behance.net reason: not a tracker
 besmeargleor.com CNAME .
 bestcontentfare.top CNAME .
 bestzba.com CNAME .

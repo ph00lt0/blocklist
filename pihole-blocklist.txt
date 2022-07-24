@@ -15140,7 +15140,7 @@
 0.0.0.0 cdntwrk.com
 0.0.0.0 cdnwebcloud.com
 ! allow ch.ch reason: swiss gov
-0.0.0.0 ch.edgekey.net
+! allow ch.edgekey.net reason: swiss gov
 0.0.0.0 chart.googleapis.com
 0.0.0.0 checkfront.com
 0.0.0.0 chessabc.com

@@ -15032,7 +15032,7 @@ cdnma.com CNAME .
 cdntwrk.com CNAME .
 cdnwebcloud.com CNAME .
 ; allow ch.ch reason: swiss gov
-ch.edgekey.net CNAME .
+; allow ch.edgekey.net reason: swiss gov
 chart.googleapis.com CNAME .
 checkfront.com CNAME .
 chessabc.com CNAME .

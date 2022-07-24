@@ -15033,7 +15033,7 @@ local-zone: "cdnma.com." always_null
 local-zone: "cdntwrk.com." always_null
 local-zone: "cdnwebcloud.com." always_null
 # allow ch.ch reason: swiss gov
-local-zone: "ch.edgekey.net." always_null
+# allow ch.edgekey.net reason: swiss gov
 local-zone: "chart.googleapis.com." always_null
 local-zone: "checkfront.com." always_null
 local-zone: "chessabc.com." always_null

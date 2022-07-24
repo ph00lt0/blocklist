@@ -12672,7 +12672,7 @@ jnn-pa.googleapis.com CNAME .
 ; allow 170vod-adaptive.akamaized.net reason: not a tracker
 171745.com CNAME .
 171dxwjpaqv2danpq11ixf2j-wpengine.netdna-ssl.com CNAME .
-171vod-adaptive.akamaized.net CNAME .
+; allow 171vod-adaptive.akamaized.net reason: not a tracker
 1720289623.rsc.cdn77.org CNAME .
 1727357668.rsc.cdn77.org CNAME .
 173.208.216.250 CNAME .

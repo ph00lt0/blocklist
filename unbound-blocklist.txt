@@ -15368,3 +15368,4 @@ local-zone: "a.dilcdn.com." always_null
 local-zone: "sanalytics.disneyplus.com." always_null
 local-zone: "connections.edge.bamgrid.com." always_null
 local-zone: "sdk.iad-03.braze.com." always_null
+local-zone: "disney.demdex.net." always_null

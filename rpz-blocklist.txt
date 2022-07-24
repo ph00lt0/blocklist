@@ -12503,3 +12503,4 @@ avazutracking.net CNAME .
 adflake.com CNAME .
 adotsolution.com CNAME .
 generalmobi.com CNAME .
+evrythng.com CNAME .

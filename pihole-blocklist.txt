@@ -12611,3 +12611,4 @@
 0.0.0.0 adflake.com
 0.0.0.0 adotsolution.com
 0.0.0.0 generalmobi.com
+0.0.0.0 evrythng.com

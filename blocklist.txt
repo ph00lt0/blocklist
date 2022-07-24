@@ -12928,3 +12928,4 @@ $removeparam=engagement_type
 ||adflake.com^
 ||adotsolution.com^
 ||generalmobi.com^
+||evrythng.com^

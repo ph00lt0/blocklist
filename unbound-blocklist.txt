@@ -13641,7 +13641,7 @@ local-zone: "audiencemanager.de." always_null
 local-zone: "audionow.de." always_null
 local-zone: "audrte.com." always_null
 local-zone: "ausgezeichnet.org." always_null
-local-zone: "auth0.com." always_null
+# allow auth0.com reason: not a tracker
 local-zone: "authorized.by." always_null
 local-zone: "autodesk.com.edgekey.net." always_null
 local-zone: "autodesk.com." always_null

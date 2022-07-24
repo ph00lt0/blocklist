@@ -13640,7 +13640,7 @@ audiencemanager.de CNAME .
 audionow.de CNAME .
 audrte.com CNAME .
 ausgezeichnet.org CNAME .
-auth0.com CNAME .
+; allow auth0.com reason: not a tracker
 authorized.by CNAME .
 autodesk.com.edgekey.net CNAME .
 autodesk.com CNAME .

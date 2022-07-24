@@ -14065,7 +14065,7 @@ $removeparam=engagement_type
 ||audionow.de^
 ||audrte.com^
 ||ausgezeichnet.org^
-||auth0.com^
+@@||auth0.com^  # not a tracker
 ||authorized.by^
 ||autodesk.com.edgekey.net^
 ||autodesk.com^

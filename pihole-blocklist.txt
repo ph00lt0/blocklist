@@ -13040,7 +13040,7 @@
 0.0.0.0 346fe4d0bf7a01e9822d6d43b1b1b9c2.edgekey.net
 0.0.0.0 34a1ju2gva4u3yrm051vedfb-wpengine.netdna-ssl.com
 0.0.0.0 34pavouhj7.com
-0.0.0.0 34vod-adaptive.akamaized.net
+! allow 34vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 34yswl46f2bur9wc83mxcqu1-wpengine.netdna-ssl.com
 0.0.0.0 35vod-adaptive.akamaized.net
 0.0.0.0 360.cn

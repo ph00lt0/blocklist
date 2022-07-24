@@ -15777,3 +15777,4 @@ $removeparam=engagement_type
 ||relevant-digital.com^
 ||eniro-cdn.relevant-digital.com^
 ||statmap.eniro.com^
+||sentry.bazo.dk^

@@ -15355,3 +15355,4 @@ stats.proff.no CNAME .
 relevant-digital.com CNAME .
 eniro-cdn.relevant-digital.com CNAME .
 statmap.eniro.com CNAME .
+sentry.bazo.dk CNAME .

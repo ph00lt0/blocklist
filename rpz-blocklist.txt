@@ -13960,7 +13960,7 @@ braze-images.com CNAME .
 brick.global.ssl.fastly.net CNAME .
 brid.tv CNAME .
 ; allow brightcove.com reason: video platform
-brightcove.net CNAME .
+; allow brightcove.net reason: video platform
 brightcovecdn.com CNAME .
 brightedge.com CNAME .
 brightfunnel.com CNAME .

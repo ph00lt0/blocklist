@@ -13961,7 +13961,7 @@ local-zone: "braze-images.com." always_null
 local-zone: "brick.global.ssl.fastly.net." always_null
 local-zone: "brid.tv." always_null
 # allow brightcove.com reason: video platform
-local-zone: "brightcove.net." always_null
+# allow brightcove.net reason: video platform
 local-zone: "brightcovecdn.com." always_null
 local-zone: "brightedge.com." always_null
 local-zone: "brightfunnel.com." always_null

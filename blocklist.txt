@@ -14386,7 +14386,7 @@ $removeparam=engagement_type
 ||brick.global.ssl.fastly.net^
 ||brid.tv^
 @@||brightcove.com^  # video platform
-||brightcove.net^
+@@||brightcove.net^  # video platform
 ||brightcovecdn.com^
 ||brightedge.com^
 ||brightfunnel.com^

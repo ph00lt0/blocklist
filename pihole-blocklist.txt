@@ -14068,7 +14068,7 @@
 0.0.0.0 brick.global.ssl.fastly.net
 0.0.0.0 brid.tv
 ! allow brightcove.com reason: video platform
-0.0.0.0 brightcove.net
+! allow brightcove.net reason: video platform
 0.0.0.0 brightcovecdn.com
 0.0.0.0 brightedge.com
 0.0.0.0 brightfunnel.com

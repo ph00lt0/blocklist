@@ -15465,4 +15465,4 @@
 0.0.0.0 statmap.eniro.com
 0.0.0.0 sentry.bazo.dk
 0.0.0.0 tags.adnuntius.com
-0.0.0.0 lasso.blob.core.windows.net
+! allow lasso.blob.core.windows.net reason: image cdn

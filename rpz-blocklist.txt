@@ -15357,4 +15357,4 @@ eniro-cdn.relevant-digital.com CNAME .
 statmap.eniro.com CNAME .
 sentry.bazo.dk CNAME .
 tags.adnuntius.com CNAME .
-lasso.blob.core.windows.net CNAME .
+; allow lasso.blob.core.windows.net reason: image cdn

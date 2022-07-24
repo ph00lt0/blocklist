@@ -15361,3 +15361,4 @@ tags.adnuntius.com CNAME .
 www.paqle.dk CNAME .
 paqle.dk CNAME .
 tredir.go.com CNAME .
+cdn.registerdisney.go.com CNAME .

@@ -15362,3 +15362,4 @@ local-zone: "tags.adnuntius.com." always_null
 local-zone: "www.paqle.dk." always_null
 local-zone: "paqle.dk." always_null
 local-zone: "tredir.go.com." always_null
+local-zone: "cdn.registerdisney.go.com." always_null

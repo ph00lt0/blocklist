@@ -12663,7 +12663,7 @@ local-zone: "1654771672.rsc.cdn77.org." always_null
 local-zone: "1658444117.rsc.cdn77.org." always_null
 local-zone: "1666210260.rsc.cdn77.org." always_null
 local-zone: "167.99.77.72." always_null
-local-zone: "167vod-adaptive.akamaized.net." always_null
+# allow 167vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "168logger.com." always_null
 local-zone: "168vod-adaptive.akamaized.net." always_null
 local-zone: "16iwyl195vvfgoqu3136p2ly-wpengine.netdna-ssl.com." always_null

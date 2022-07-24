@@ -14027,7 +14027,7 @@ local-zone: "cauly.co.kr." always_null
 # allow cbsi.map.fastly.net reason: not not a tracker
 # allow cbsivideo.com reason: not a tracker
 local-zone: "ccmiocw.com." always_null
-local-zone: "cdn-apple.com.akadns.net." always_null
+# allow cdn-apple.com.akadns.net reason: not a tracker
 local-zone: "cdn-apple.com." always_null
 local-zone: "cdn-net.com." always_null
 local-zone: "cdn-payhelm.s3.amazonaws.com." always_null

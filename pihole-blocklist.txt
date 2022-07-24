@@ -14134,7 +14134,7 @@
 ! allow cbsi.map.fastly.net reason: not not a tracker
 ! allow cbsivideo.com reason: not a tracker
 0.0.0.0 ccmiocw.com
-0.0.0.0 cdn-apple.com.akadns.net
+! allow cdn-apple.com.akadns.net reason: not a tracker
 0.0.0.0 cdn-apple.com
 0.0.0.0 cdn-net.com
 0.0.0.0 cdn-payhelm.s3.amazonaws.com

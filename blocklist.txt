@@ -14452,7 +14452,7 @@ $removeparam=engagement_type
 @@||cbsi.map.fastly.net^  # not not a tracker
 @@||cbsivideo.com^  # not a tracker
 ||ccmiocw.com^
-||cdn-apple.com.akadns.net^
+@@||cdn-apple.com.akadns.net^  # not a tracker
 ||cdn-apple.com^
 ||cdn-net.com^
 ||cdn-payhelm.s3.amazonaws.com^

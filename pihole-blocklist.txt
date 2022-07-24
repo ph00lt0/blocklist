@@ -14693,7 +14693,7 @@
 0.0.0.0 digiaccess.org
 ! allow digicert.com reason: not just a tracker
 ! allow digital.edgekey.net reason: not a tracker
-0.0.0.0 digitalgov.gov
+! allow digitalgov.gov reason: not a tracker only dap subdomain is
 0.0.0.0 digitalpfizer.com
 0.0.0.0 digitalriver.com
 0.0.0.0 digitalstores.net

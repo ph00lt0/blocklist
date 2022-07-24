@@ -15011,7 +15011,7 @@ $removeparam=engagement_type
 ||digiaccess.org^
 @@||digicert.com^  # not just a tracker
 @@||digital.edgekey.net^  # not a tracker
-||digitalgov.gov^
+@@||digitalgov.gov^  # not a tracker only dap subdomain is
 ||digitalpfizer.com^
 ||digitalriver.com^
 ||digitalstores.net^

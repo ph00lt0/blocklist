@@ -2801,7 +2801,7 @@ logs1409.xiti.com CNAME .
 matomo.nerio.tech CNAME .
 piwik1.cdt.europa.eu CNAME .
 share.america.gov CNAME .
-dap.digitalgov.gov CNAME .
+dap.; allow digitalgov.gov reason: not a tracker only dap subdomain is
 trmobc.com CNAME .
 secure-chatsystem.com CNAME .
 goodworld.me CNAME .
@@ -14585,7 +14585,7 @@ diepresse.com.edgekey.net CNAME .
 digiaccess.org CNAME .
 ; allow digicert.com reason: not just a tracker
 ; allow digital.edgekey.net reason: not a tracker
-digitalgov.gov CNAME .
+; allow digitalgov.gov reason: not a tracker only dap subdomain is
 digitalpfizer.com CNAME .
 digitalriver.com CNAME .
 digitalstores.net CNAME .

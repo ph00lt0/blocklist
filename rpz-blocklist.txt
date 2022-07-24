@@ -15329,3 +15329,4 @@ d3hw6dc1ow8pp2.cloudfront.net CNAME .
 d3ithgl79uu5su.cloudfront.net CNAME .
 a.apkpure.com CNAME .
 click.em.nike.com CNAME .
+target.microsoft.com CNAME .

@@ -15330,3 +15330,4 @@ local-zone: "d3hw6dc1ow8pp2.cloudfront.net." always_null
 local-zone: "d3ithgl79uu5su.cloudfront.net." always_null
 local-zone: "a.apkpure.com." always_null
 local-zone: "click.em.nike.com." always_null
+local-zone: "target.microsoft.com." always_null

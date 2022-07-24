@@ -14998,7 +14998,7 @@ $removeparam=engagement_type
 ||dentsu.de^
 ||deskline.net^
 ||destination.one^
-||deutschepost.de^
+@@||deutschepost.de^  # not a tracker
 ||df45ay5pw60dy.cloudfront.net^
 ||df80k0z3fi8zg.cloudfront.net^
 ||dfds.cloud^

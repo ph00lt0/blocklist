@@ -14573,7 +14573,7 @@ local-zone: "demandware.net." always_null
 local-zone: "dentsu.de." always_null
 local-zone: "deskline.net." always_null
 local-zone: "destination.one." always_null
-local-zone: "deutschepost.de." always_null
+# allow deutschepost.de reason: not a tracker
 local-zone: "df45ay5pw60dy.cloudfront.net." always_null
 local-zone: "df80k0z3fi8zg.cloudfront.net." always_null
 local-zone: "dfds.cloud." always_null

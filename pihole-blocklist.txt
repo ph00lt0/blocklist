@@ -14680,7 +14680,7 @@
 0.0.0.0 dentsu.de
 0.0.0.0 deskline.net
 0.0.0.0 destination.one
-0.0.0.0 deutschepost.de
+! allow deutschepost.de reason: not a tracker
 0.0.0.0 df45ay5pw60dy.cloudfront.net
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
 0.0.0.0 dfds.cloud

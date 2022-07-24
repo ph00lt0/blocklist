@@ -5269,7 +5269,7 @@ www.infonline.de CNAME .
 pubfinity.com CNAME .
 anzu.io CNAME .
 www.wearebrandadvance.com CNAME .
-www.deutschepost.de CNAME .
+www.; allow deutschepost.de reason: not a tracker
 www.ncaudienceexchange.com CNAME .
 blingby.com CNAME .
 www.pinpoll.com CNAME .
@@ -14572,7 +14572,7 @@ demandware.net CNAME .
 dentsu.de CNAME .
 deskline.net CNAME .
 destination.one CNAME .
-deutschepost.de CNAME .
+; allow deutschepost.de reason: not a tracker
 df45ay5pw60dy.cloudfront.net CNAME .
 df80k0z3fi8zg.cloudfront.net CNAME .
 dfds.cloud CNAME .

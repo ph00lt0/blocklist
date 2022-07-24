@@ -14489,7 +14489,7 @@
 0.0.0.0 contobox-data.s3.amazonaws.com
 0.0.0.0 contobox.com
 0.0.0.0 convergepay.com
-0.0.0.0 converse.ca
+! allow converse.ca reason: not a tracker
 0.0.0.0 convertevent.com
 0.0.0.0 convio.net
 0.0.0.0 cootlogix.com

@@ -14807,7 +14807,7 @@ $removeparam=engagement_type
 ||contobox-data.s3.amazonaws.com^
 ||contobox.com^
 ||convergepay.com^
-||converse.ca^
+@@||converse.ca^  # not a tracker
 ||convertevent.com^
 ||convio.net^
 ||cootlogix.com^

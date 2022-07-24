@@ -14382,7 +14382,7 @@ local-zone: "contextly.com." always_null
 local-zone: "contobox-data.s3.amazonaws.com." always_null
 local-zone: "contobox.com." always_null
 local-zone: "convergepay.com." always_null
-local-zone: "converse.ca." always_null
+# allow converse.ca reason: not a tracker
 local-zone: "convertevent.com." always_null
 local-zone: "convio.net." always_null
 local-zone: "cootlogix.com." always_null

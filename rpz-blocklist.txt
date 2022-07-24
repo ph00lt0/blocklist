@@ -14381,7 +14381,7 @@ contextly.com CNAME .
 contobox-data.s3.amazonaws.com CNAME .
 contobox.com CNAME .
 convergepay.com CNAME .
-converse.ca CNAME .
+; allow converse.ca reason: not a tracker
 convertevent.com CNAME .
 convio.net CNAME .
 cootlogix.com CNAME .

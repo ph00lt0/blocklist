@@ -14049,7 +14049,7 @@
 0.0.0.0 boomtrain.com
 0.0.0.0 bootstrapcdn.com
 0.0.0.0 borirait.site
-0.0.0.0 bosch.com
+! allow bosch.com reason: not a tracker
 0.0.0.0 bose.com
 0.0.0.0 bot-dot-envolvetech-001.appspot.com
 0.0.0.0 bouncex.net

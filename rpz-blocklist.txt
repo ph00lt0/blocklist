@@ -13941,7 +13941,7 @@ bookmsg.com CNAME .
 boomtrain.com CNAME .
 bootstrapcdn.com CNAME .
 borirait.site CNAME .
-bosch.com CNAME .
+; allow bosch.com reason: not a tracker
 bose.com CNAME .
 bot-dot-envolvetech-001.appspot.com CNAME .
 bouncex.net CNAME .

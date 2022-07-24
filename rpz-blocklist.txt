@@ -13904,7 +13904,6 @@ bigmailer.io CNAME .
 bilicdn1.com CNAME .
 bilicdn2.com CNAME .
 bimbolive.com CNAME .
-bing.com CNAME .
 bing.net CNAME .
 birdnavy.com CNAME .
 bitchute.com CNAME .
@@ -14971,7 +14970,7 @@ aliexpress.ru CNAME .
 almamedia.net CNAME .
 ame.edgekey.net CNAME .
 americanairlines.ch CNAME .
-americanexpress.com.edgekey.net CNAME .
+; allow americanexpress.com.edgekey.net reason: not a tracker
 anbieter-vergleich.ch CNAME .
 ancensored.com CNAME .
 anrdoezrs.net CNAME .

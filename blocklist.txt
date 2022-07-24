@@ -14329,7 +14329,7 @@ $removeparam=engagement_type
 ||bilicdn1.com^
 ||bilicdn2.com^
 ||bimbolive.com^
-||bing.com^
+@@||bing.com^
 ||bing.net^
 ||birdnavy.com^
 ||bitchute.com^
@@ -15396,7 +15396,7 @@ $removeparam=engagement_type
 ||almamedia.net^
 ||ame.edgekey.net^
 ||americanairlines.ch^
-||americanexpress.com.edgekey.net^
+@@||americanexpress.com.edgekey.net^  # not a tracker
 ||anbieter-vergleich.ch^
 ||ancensored.com^
 ||anrdoezrs.net^

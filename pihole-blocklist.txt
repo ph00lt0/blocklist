@@ -14012,7 +14012,6 @@
 0.0.0.0 bilicdn1.com
 0.0.0.0 bilicdn2.com
 0.0.0.0 bimbolive.com
-0.0.0.0 bing.com
 0.0.0.0 bing.net
 0.0.0.0 birdnavy.com
 0.0.0.0 bitchute.com
@@ -15079,7 +15078,7 @@
 0.0.0.0 almamedia.net
 0.0.0.0 ame.edgekey.net
 0.0.0.0 americanairlines.ch
-0.0.0.0 americanexpress.com.edgekey.net
+! allow americanexpress.com.edgekey.net reason: not a tracker
 0.0.0.0 anbieter-vergleich.ch
 0.0.0.0 ancensored.com
 0.0.0.0 anrdoezrs.net

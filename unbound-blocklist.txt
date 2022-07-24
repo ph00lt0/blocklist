@@ -13905,7 +13905,6 @@ local-zone: "bigmailer.io." always_null
 local-zone: "bilicdn1.com." always_null
 local-zone: "bilicdn2.com." always_null
 local-zone: "bimbolive.com." always_null
-local-zone: "bing.com." always_null
 local-zone: "bing.net." always_null
 local-zone: "birdnavy.com." always_null
 local-zone: "bitchute.com." always_null
@@ -14972,7 +14971,7 @@ local-zone: "aliexpress.ru." always_null
 local-zone: "almamedia.net." always_null
 local-zone: "ame.edgekey.net." always_null
 local-zone: "americanairlines.ch." always_null
-local-zone: "americanexpress.com.edgekey.net." always_null
+# allow americanexpress.com.edgekey.net reason: not a tracker
 local-zone: "anbieter-vergleich.ch." always_null
 local-zone: "ancensored.com." always_null
 local-zone: "anrdoezrs.net." always_null

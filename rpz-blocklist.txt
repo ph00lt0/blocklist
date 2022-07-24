@@ -5521,7 +5521,7 @@ numberly.com CNAME .
 inter.effiliation.com CNAME .
 www.nativo.com CNAME .
 www.onaudience.com CNAME .
-legal.dailymotion.com CNAME .
+legal.; allow dailymotion.com reason: not a tracker
 www.ziffdavis.com CNAME .
 wearemiq.com CNAME .
 privacy.timeonegroup.com CNAME .
@@ -14535,7 +14535,7 @@ d77hab4jv6kh0.cloudfront.net CNAME .
 d7hftxdivxxvm.cloudfront.net CNAME .
 d9jj3mjthpub.cloudfront.net CNAME .
 daa.net CNAME .
-dailymotion.com CNAME .
+; allow dailymotion.com reason: not a tracker
 damdoor.com CNAME .
 danv01ao0kdr2.cloudfront.net CNAME .
 daofile.com CNAME .

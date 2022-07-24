@@ -14643,7 +14643,7 @@
 0.0.0.0 d7hftxdivxxvm.cloudfront.net
 0.0.0.0 d9jj3mjthpub.cloudfront.net
 0.0.0.0 daa.net
-0.0.0.0 dailymotion.com
+! allow dailymotion.com reason: not a tracker
 0.0.0.0 damdoor.com
 0.0.0.0 danv01ao0kdr2.cloudfront.net
 0.0.0.0 daofile.com

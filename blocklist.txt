@@ -14961,7 +14961,7 @@ $removeparam=engagement_type
 ||d7hftxdivxxvm.cloudfront.net^
 ||d9jj3mjthpub.cloudfront.net^
 ||daa.net^
-||dailymotion.com^
+@@||dailymotion.com^  # not a tracker
 ||damdoor.com^
 ||danv01ao0kdr2.cloudfront.net^
 ||daofile.com^

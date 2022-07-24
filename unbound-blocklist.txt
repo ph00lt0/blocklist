@@ -14536,7 +14536,7 @@ local-zone: "d77hab4jv6kh0.cloudfront.net." always_null
 local-zone: "d7hftxdivxxvm.cloudfront.net." always_null
 local-zone: "d9jj3mjthpub.cloudfront.net." always_null
 local-zone: "daa.net." always_null
-local-zone: "dailymotion.com." always_null
+# allow dailymotion.com reason: not a tracker
 local-zone: "damdoor.com." always_null
 local-zone: "danv01ao0kdr2.cloudfront.net." always_null
 local-zone: "daofile.com." always_null

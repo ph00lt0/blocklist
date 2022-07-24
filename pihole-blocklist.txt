@@ -13148,7 +13148,7 @@
 0.0.0.0 44vod-adaptive.akamaized.net
 0.0.0.0 45.89.67.165
 0.0.0.0 451.io
-0.0.0.0 45vod-adaptive.akamaized.net
+! allow 45vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 477612.smushcdn.com
 0.0.0.0 47nbvyrwh9j46nc9y2yx7ac1-wpengine.netdna-ssl.com
 0.0.0.0 480app.com

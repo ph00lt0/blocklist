@@ -13040,7 +13040,7 @@ jnn-pa.googleapis.com CNAME .
 44vod-adaptive.akamaized.net CNAME .
 45.89.67.165 CNAME .
 451.io CNAME .
-45vod-adaptive.akamaized.net CNAME .
+; allow 45vod-adaptive.akamaized.net reason: not a tracker
 477612.smushcdn.com CNAME .
 47nbvyrwh9j46nc9y2yx7ac1-wpengine.netdna-ssl.com CNAME .
 480app.com CNAME .

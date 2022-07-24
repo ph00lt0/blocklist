@@ -13041,7 +13041,7 @@ local-zone: "44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com." always_null
 local-zone: "44vod-adaptive.akamaized.net." always_null
 local-zone: "45.89.67.165." always_null
 local-zone: "451.io." always_null
-local-zone: "45vod-adaptive.akamaized.net." always_null
+# allow 45vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "477612.smushcdn.com." always_null
 local-zone: "47nbvyrwh9j46nc9y2yx7ac1-wpengine.netdna-ssl.com." always_null
 local-zone: "480app.com." always_null

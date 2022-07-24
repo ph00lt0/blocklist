@@ -13185,7 +13185,7 @@
 0.0.0.0 4teachers.de
 0.0.0.0 4tellcdn.azureedge.net
 0.0.0.0 4uc.org
-0.0.0.0 4vod-adaptive.akamaized.net
+! allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 0.0.0.0 4wdsc.com
 0.0.0.0 4wmarketplace.com
 0.0.0.0 4wnetwork.com

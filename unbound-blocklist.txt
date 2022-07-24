@@ -13078,7 +13078,7 @@ local-zone: "4rstatic.net." always_null
 local-zone: "4teachers.de." always_null
 local-zone: "4tellcdn.azureedge.net." always_null
 local-zone: "4uc.org." always_null
-local-zone: "4vod-adaptive.akamaized.net." always_null
+# allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 local-zone: "4wdsc.com." always_null
 local-zone: "4wmarketplace.com." always_null
 local-zone: "4wnetwork.com." always_null

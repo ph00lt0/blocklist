@@ -13037,7 +13037,7 @@ jnn-pa.googleapis.com CNAME .
 443ce9526ed91a599e17799f01fccc11.edgekey.net CNAME .
 44aa8e6e8cc8c6ce16cc5e722f98f43f.edgekey.net CNAME .
 44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com CNAME .
-44vod-adaptive.akamaized.net CNAME .
+4; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 45.89.67.165 CNAME .
 451.io CNAME .
 ; allow 45vod-adaptive.akamaized.net reason: not a tracker
@@ -13077,7 +13077,7 @@ jnn-pa.googleapis.com CNAME .
 4teachers.de CNAME .
 4tellcdn.azureedge.net CNAME .
 4uc.org CNAME .
-4vod-adaptive.akamaized.net CNAME .
+; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 4wdsc.com CNAME .
 4wmarketplace.com CNAME .
 4wnetwork.com CNAME .
@@ -13103,7 +13103,7 @@ jnn-pa.googleapis.com CNAME .
 5378.org CNAME .
 53kf.com CNAME .
 54proxy.com CNAME .
-54vod-adaptive.akamaized.net CNAME .
+5; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 55301.edgekey.net CNAME .
 554893c054c372474bb828e4ff954a52.edgekey.net CNAME .
 55f9d6e755.com CNAME .
@@ -13225,7 +13225,7 @@ jnn-pa.googleapis.com CNAME .
 93c2daf357a41c65c46fd5c3450630c3.edgekey.net CNAME .
 9; allow 3vod-adaptive.akamaized.net reason: not a tracker
 940388.smushcdn.com CNAME .
-94vod-adaptive.akamaized.net CNAME .
+9; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 95.214.54.201 CNAME .
 951199.smushcdn.com CNAME .
 952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com CNAME .
@@ -14927,8 +14927,8 @@ bookmark.xxx CNAME .
 bootstraplugin.com CNAME .
 borderfree.com CNAME .
 1; allow 26vod-adaptive.akamaized.net reason: not a tracker
-144vod-adaptive.akamaized.net CNAME .
-14vod-adaptive.akamaized.net CNAME .
+14; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
+1; allow 4vod-adaptive.akamaized.net reason: 51vod-adaptive.akamaized.net
 150vod-adaptive.akamaized.net CNAME .
 360perspektiven.com CNAME .
 48vod-adaptive.akamaized.net CNAME .

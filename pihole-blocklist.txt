@@ -14269,7 +14269,7 @@
 0.0.0.0 cookieless-data.com
 0.0.0.0 cordial.com
 0.0.0.0 cordial.io
-0.0.0.0 corel.com
+! allow corel.com reason: not a tracker
 0.0.0.0 costco-adbutler.com
 0.0.0.0 costco-static.com
 

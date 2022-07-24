@@ -14587,7 +14587,7 @@ $removeparam=engagement_type
 ||cookieless-data.com^
 ||cordial.com^
 ||cordial.io^
-||corel.com^
+@@||corel.com^  # not a tracker
 ||costco-adbutler.com^
 ||costco-static.com^
 

@@ -14161,7 +14161,7 @@ cookieinfoscript.com CNAME .
 cookieless-data.com CNAME .
 cordial.com CNAME .
 cordial.io CNAME .
-corel.com CNAME .
+; allow corel.com reason: not a tracker
 costco-adbutler.com CNAME .
 costco-static.com CNAME .
 

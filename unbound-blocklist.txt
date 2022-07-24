@@ -14162,7 +14162,7 @@ local-zone: "cookieinfoscript.com." always_null
 local-zone: "cookieless-data.com." always_null
 local-zone: "cordial.com." always_null
 local-zone: "cordial.io." always_null
-local-zone: "corel.com." always_null
+# allow corel.com reason: not a tracker
 local-zone: "costco-adbutler.com." always_null
 local-zone: "costco-static.com." always_null
 local-zone: "costco.com.edgekey.net." always_null

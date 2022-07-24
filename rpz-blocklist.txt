@@ -15336,3 +15336,4 @@ app.viral-loops.com CNAME .
 ro.boldapps.net CNAME .
 assets1.adroll.com CNAME .
 getbread.com CNAME .
+printful.com CNAME .

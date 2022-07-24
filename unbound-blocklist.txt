@@ -15102,7 +15102,7 @@ local-zone: "ba-ba-bam.com." always_null
 local-zone: "babase-on-web.com." always_null
 local-zone: "balena-cloud.com." always_null
 local-zone: "batiactu.com." always_null
-local-zone: "bbci.co.uk." always_null
+# allow bbci.co.uk reason: not a tracker
 local-zone: "bcovery.com." always_null
 local-zone: "be-bop-alula.com." always_null
 local-zone: "beeroot.io." always_null

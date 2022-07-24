@@ -75,7 +75,7 @@ analytics.analytics-egain.com CNAME .
 analytics-egain.com CNAME .
 analytics.amiunique.org CNAME .
 analytics.a-f.io CNAME .
-mybbc-analytics.files.bbci.co.uk CNAME .
+mybbc-analytics.files.; allow bbci.co.uk reason: not a tracker
 heapanalytics.com CNAME .
 analytics.pgncs.notion.so CNAME .
 analytics.pgncs.nova.chat CNAME .
@@ -3094,10 +3094,10 @@ referrer.disqus.com CNAME .
 o375540.ingest.sentry.io CNAME .
 o264749.ingest.sentry.io CNAME .
 a1.api.bbc.co.uk CNAME .
-r.bbci.co.uk CNAME .
+r.; allow bbci.co.uk reason: not a tracker
 nsi.activity.api.bbc.com CNAME .
 polling.bbc.co.uk CNAME .
-push.api.bbci.co.uk CNAME .
+push.api.; allow bbci.co.uk reason: not a tracker
 launchdarkly.com CNAME .
 clientstream.launchdarkly.com CNAME .
 braze.eu CNAME .
@@ -15101,7 +15101,7 @@ ba-ba-bam.com CNAME .
 babase-on-web.com CNAME .
 balena-cloud.com CNAME .
 batiactu.com CNAME .
-bbci.co.uk CNAME .
+; allow bbci.co.uk reason: not a tracker
 bcovery.com CNAME .
 be-bop-alula.com CNAME .
 beeroot.io CNAME .

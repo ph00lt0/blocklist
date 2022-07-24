@@ -568,7 +568,7 @@ ffmapi.com CNAME .
 www.fastly-insights.com CNAME .
 fastly-insights.com CNAME .
 dntblckmpls.nl CNAME .
-cowhite.disqus.com CNAME .
+cowhite.; allow disqus.com reason: disqus platform
 datadoghq.com CNAME .
 browser-http-intake.logs.datadoghq.com CNAME .
 www.datadoghq-browser-agent.com CNAME .
@@ -3090,7 +3090,7 @@ analytics2.uros.icu CNAME .
 sanalytics.spreadshirt.com CNAME .
 o413082.ingest.sentry.io CNAME .
 tags.crwdcntrl.net CNAME .
-referrer.disqus.com CNAME .
+referrer.; allow disqus.com reason: disqus platform
 o375540.ingest.sentry.io CNAME .
 o264749.ingest.sentry.io CNAME .
 a1.api.bbc.co.uk CNAME .
@@ -11175,7 +11175,7 @@ linezing.com CNAME .
 lingdian98.com CNAME .
 linkbide.com CNAME .
 linkpage.cn CNAME .
-links.services.disqus.com CNAME .
+links.services.; allow disqus.com reason: disqus platform
 linyao.dxsdb.com CNAME .
 lishuanghao.com CNAME .
 listenother.com CNAME .
@@ -14596,7 +14596,7 @@ dipf.de CNAME .
 directferries.com CNAME .
 disco-api.com CNAME .
 ; allow discord.com reason: not a tracker
-disqus.com CNAME .
+; allow disqus.com reason: disqus platform
 disquscdn.com CNAME .
 distance.to CNAME .
 divibib.com CNAME .

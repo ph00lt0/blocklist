@@ -12918,3 +12918,4 @@ $removeparam=subid1
 ||go.link^
 $removeparam=adj_campaign
 $removeparam=adj_deep_link
+$removeparam=adj_t

@@ -13828,7 +13828,7 @@ local-zone: "areyouwatchingthis.com." always_null
 local-zone: "argosdata.io." always_null
 local-zone: "argusplatform.com." always_null
 local-zone: "arkadiumhosted.com." always_null
-local-zone: "arkoselabs.com." always_null
+# allow arkoselabs.com reason: required for captchas
 local-zone: "arrivalist.com." always_null
 local-zone: "art-gallery-of-sa-store.myshopify.com." always_null
 local-zone: "assets-queue-it.net." always_null

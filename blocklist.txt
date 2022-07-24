@@ -14252,7 +14252,7 @@ $removeparam=engagement_type
 ||argosdata.io^
 ||argusplatform.com^
 ||arkadiumhosted.com^
-||arkoselabs.com^
+@@||arkoselabs.com^  # required for captchas
 ||arrivalist.com^
 ||art-gallery-of-sa-store.myshopify.com^
 ||assets-queue-it.net^

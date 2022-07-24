@@ -13827,7 +13827,7 @@ areyouwatchingthis.com CNAME .
 argosdata.io CNAME .
 argusplatform.com CNAME .
 arkadiumhosted.com CNAME .
-arkoselabs.com CNAME .
+; allow arkoselabs.com reason: required for captchas
 arrivalist.com CNAME .
 art-gallery-of-sa-store.myshopify.com CNAME .
 assets-queue-it.net CNAME .

@@ -13935,7 +13935,7 @@
 0.0.0.0 argosdata.io
 0.0.0.0 argusplatform.com
 0.0.0.0 arkadiumhosted.com
-0.0.0.0 arkoselabs.com
+! allow arkoselabs.com reason: required for captchas
 0.0.0.0 arrivalist.com
 0.0.0.0 art-gallery-of-sa-store.myshopify.com
 0.0.0.0 assets-queue-it.net

@@ -234,7 +234,7 @@
 @@||itunes.apple.com^  # Required for app store and apple music
 @@||downloaddispatch.itunes.apple.com^
 @@||apple.co^  # not a tracker
-||aaplimg.com^'
+@@||aaplimg.com^  # not a tracker
 ||weather-analytics-events.apple.com^
 ||apple.comscoreresearch.com^
 ||news-edge.apple.com^

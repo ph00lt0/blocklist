@@ -233,7 +233,7 @@
 ! allow itunes.apple.com reason: Required for app store and apple music
 ! allow 0.0.0.0 downloaddispatch.itunes.apple.com reason: Required for app store and apple music
 ! allow apple.co reason: not a tracker
-0.0.0.0 aaplimg.com'
+! allow aaplimg.com reason: not a tracker'
 0.0.0.0 weather-analytics-events.apple.com
 ! allow apple.com reason: not a tnot a trackerscoreresearch.com
 0.0.0.0 news-edge.apple.com

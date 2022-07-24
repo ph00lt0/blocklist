@@ -13719,7 +13719,7 @@ $removeparam=engagement_type
 ||a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com^
 ||a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com^
 ||a9yw.net^
-||aa.com.edgekey.net^
+@@||aa.com.edgekey.net^  # not a tracker
 @@||aa.com^  # not a tracker
 ||aaa.com.edgekey.net^
 ||aaa200.rocks^

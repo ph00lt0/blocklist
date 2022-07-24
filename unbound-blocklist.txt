@@ -13295,7 +13295,7 @@ local-zone: "a8live-uswest.s3-us-west-1.amazonaws.com." always_null
 local-zone: "a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com." always_null
 local-zone: "a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com." always_null
 local-zone: "a9yw.net." always_null
-local-zone: "aa.com.edgekey.net." always_null
+# allow aa.com.edgekey.net reason: not a tracker
 # allow aa.com reason: not a tracker
 local-zone: "aaa.com.edgekey.net." always_null
 local-zone: "aaa200.rocks." always_null

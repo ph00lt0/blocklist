@@ -13294,9 +13294,9 @@ a8live-uswest.s3-us-west-1.amazonaws.com CNAME .
 a9a0038a9101a42a8be1d39238397e13-1092934236.us-east-1.elb.amazonaws.com CNAME .
 a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com CNAME .
 a9yw.net CNAME .
-aa.com.edgekey.net CNAME .
+; allow aa.com.edgekey.net reason: not a tracker
 ; allow aa.com reason: not a tracker
-aaa.com.edgekey.net CNAME .
+a; allow aa.com.edgekey.net reason: not a tracker
 aaa200.rocks CNAME .
 aaacompany.net CNAME .
 aaamidatlantic.com.edgekey.net CNAME .

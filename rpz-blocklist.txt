@@ -12991,7 +12991,7 @@ jnn-pa.googleapis.com CNAME .
 3r19eb4fqlos1irh8c1q6941-wpengine.netdna-ssl.com CNAME .
 3u28iz2ujc8a178j1f2ql9ic-wpengine.netdna-ssl.com CNAME .
 3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com CNAME .
-3vod-adaptive.akamaized.net CNAME .
+; allow 3vod-adaptive.akamaized.net reason: not a tracker
 3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com CNAME .
 3xpl.stream CNAME .
 3xplanet.com CNAME .
@@ -13130,7 +13130,7 @@ jnn-pa.googleapis.com CNAME .
 5vju.net CNAME .
 62ac0a5777dcfd000863a23b--pat-splash.netlify.app CNAME .
 62cecd36653ca25b06a8c2a58a23d2e0.edgekey.net CNAME .
-63vod-adaptive.akamaized.net CNAME .
+6; allow 3vod-adaptive.akamaized.net reason: not a tracker
 65twenty.com CNAME .
 65vod-adaptive.akamaized.net CNAME .
 66.165.229.106 CNAME .
@@ -13157,7 +13157,7 @@ jnn-pa.googleapis.com CNAME .
 72c3dd5b90274d568f6fd5db39a3995f.edgekey.net CNAME .
 72vod-adaptive.akamaized.net CNAME .
 739952.smushcdn.com CNAME .
-73vod-adaptive.akamaized.net CNAME .
+7; allow 3vod-adaptive.akamaized.net reason: not a tracker
 749353db9e9bbb160fc741fdd57cf492.edgekey.net CNAME .
 75000f2ce1e329aa4bc18982b7419f15.edgekey.net CNAME .
 7570f09e92ccec9039328fda556f725e.edgekey.net CNAME .
@@ -13196,7 +13196,7 @@ jnn-pa.googleapis.com CNAME .
 832212.smushcdn.com CNAME .
 838c8097a14df4395efd566848938186.edgekey.net CNAME .
 83a5d747b838237ca4ebac8b3c71c266.edgekey.net CNAME .
-83vod-adaptive.akamaized.net CNAME .
+8; allow 3vod-adaptive.akamaized.net reason: not a tracker
 840027.smushcdn.com CNAME .
 85vod-adaptive.akamaized.net CNAME .
 87.98.156.59 CNAME .
@@ -13223,7 +13223,7 @@ jnn-pa.googleapis.com CNAME .
 927bc08bc3bfb643b5d311bdb98b9c5f.edgekey.net CNAME .
 93.115.31.155 CNAME .
 93c2daf357a41c65c46fd5c3450630c3.edgekey.net CNAME .
-93vod-adaptive.akamaized.net CNAME .
+9; allow 3vod-adaptive.akamaized.net reason: not a tracker
 940388.smushcdn.com CNAME .
 94vod-adaptive.akamaized.net CNAME .
 95.214.54.201 CNAME .
@@ -13722,7 +13722,7 @@ biguz.net CNAME .
 bikenetzwerk.de CNAME .
 123rf.com CNAME .
 1; allow 29vod-adaptive.akamaized.net reason: not a tracker
-163vod-adaptive.akamaized.net CNAME .
+16; allow 3vod-adaptive.akamaized.net reason: not a tracker
 192vod-adaptive.akamaized.net CNAME .
 1u0b5867gsn1ez16a1p2vcj1-wpengine.netdna-ssl.com CNAME .
 20-193-45-113_s-23-48-96-104_ts-1655832865-clienttons-s.akamaihd.net CNAME .

@@ -12992,7 +12992,7 @@ local-zone: "3qsdn.com." always_null
 local-zone: "3r19eb4fqlos1irh8c1q6941-wpengine.netdna-ssl.com." always_null
 local-zone: "3u28iz2ujc8a178j1f2ql9ic-wpengine.netdna-ssl.com." always_null
 local-zone: "3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com." always_null
-local-zone: "3vod-adaptive.akamaized.net." always_null
+# allow 3vod-adaptive.akamaized.net reason: not a tracker
 local-zone: "3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com." always_null
 local-zone: "3xpl.stream." always_null
 local-zone: "3xplanet.com." always_null

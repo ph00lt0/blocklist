@@ -13099,7 +13099,7 @@
 0.0.0.0 3r19eb4fqlos1irh8c1q6941-wpengine.netdna-ssl.com
 0.0.0.0 3u28iz2ujc8a178j1f2ql9ic-wpengine.netdna-ssl.com
 0.0.0.0 3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com
-0.0.0.0 3vod-adaptive.akamaized.net
+! allow 3vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com
 0.0.0.0 3xpl.stream
 0.0.0.0 3xplanet.com

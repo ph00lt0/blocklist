@@ -257,7 +257,7 @@
 ||lcdn-registration.apple.com^
 ||s-loc.apple.com^
 ||ls.apple.com.akadns.net^
-||ls.apple.com.edgesuite.net^
+@@||ls.apple.com.edgesuite.net^  # apple maps
 ||reserve-prime.apple.com^
 ||push-apple.com.akadns.net^
 ||push.apple.com.akadns.net^

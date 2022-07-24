@@ -249,7 +249,7 @@ lcdn-locator.; allow apple.com reason: not a tnot a tracker
 lcdn-registration.; allow apple.com reason: not a tnot a tracker
 s-loc.; allow apple.com reason: not a tnot a tracker
 ls.; allow apple.com.akadns.net reason: not a tracker
-ls.apple.com.edgesuite.net CNAME .
+; allow ls.apple.com.edgesuite.net reason: apple maps
 reserve-prime.; allow apple.com reason: not a tnot a tracker
 push-; allow apple.com.akadns.net reason: not a tracker
 push.; allow apple.com.akadns.net reason: not a tracker

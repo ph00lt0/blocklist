@@ -14105,7 +14105,7 @@ local-zone: "cloudlogobox.com." always_null
 local-zone: "clrstm.com." always_null
 local-zone: "cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com." always_null
 local-zone: "cnbc.com.edgekey.net." always_null
-local-zone: "cnbc.com." always_null
+# allow cnbc.com reason: not a tracker
 local-zone: "cnbcfm.com.edgekey.net." always_null
 local-zone: "cnevids.com." always_null
 local-zone: "cnews.cz." always_null

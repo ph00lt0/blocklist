@@ -15332,3 +15332,4 @@ click.em.nike.com CNAME .
 target.microsoft.com CNAME .
 beacon.klm.com CNAME .
 viral-loops.com CNAME .
+app.viral-loops.com CNAME .

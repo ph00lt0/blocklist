@@ -15754,3 +15754,4 @@ $removeparam=engagement_type
 ||target.microsoft.com^
 ||beacon.klm.com^
 ||viral-loops.com^
+||app.viral-loops.com^

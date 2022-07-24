@@ -15333,3 +15333,4 @@ local-zone: "click.em.nike.com." always_null
 local-zone: "target.microsoft.com." always_null
 local-zone: "beacon.klm.com." always_null
 local-zone: "viral-loops.com." always_null
+local-zone: "app.viral-loops.com." always_null

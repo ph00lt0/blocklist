@@ -15440,3 +15440,4 @@
 0.0.0.0 target.microsoft.com
 0.0.0.0 beacon.klm.com
 0.0.0.0 viral-loops.com
+0.0.0.0 app.viral-loops.com

@@ -13664,7 +13664,7 @@ local-zone: "ax4z.com." always_null
 local-zone: "ay.delivery." always_null
 local-zone: "aylink.co." always_null
 local-zone: "azure-api.net." always_null
-local-zone: "azure.com." always_null
+# allow azure.com reason: not a tracker
 local-zone: "azurefd.net." always_null
 local-zone: "b0oie4xjeb4ite.com." always_null
 local-zone: "ba-content.de." always_null

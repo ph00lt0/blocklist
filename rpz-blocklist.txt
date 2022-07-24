@@ -167,7 +167,7 @@ static.leaddyno.com CNAME .
 supportmetrics.; allow apple.com reason: not a tnot a tracker
 securemetrics.; allow apple.com reason: not a tnot a tracker
 a.opmnstr.com CNAME .
-js.monitor.azure.com CNAME .
+js.monitor.; allow azure.com reason: not a tracker
 geolocation-recommendations.shopifycloud.com CNAME .
 static.ads-twitter.com CNAME .
 ads-twitter.com CNAME .
@@ -680,7 +680,7 @@ client-office365-tas.msedge.net CNAME .
 nexus.officeapps.live.com CNAME .
 config.edge.skype.com CNAME .
 officeclient.microsoft.com CNAME .
-js.monitor.azure.com CNAME .
+js.monitor.; allow azure.com reason: not a tracker
 ostats.mozilla.com CNAME .
 sostats.mozilla.com CNAME .
 metrics.mozilla.com CNAME .
@@ -13663,7 +13663,7 @@ ax4z.com CNAME .
 ay.delivery CNAME .
 aylink.co CNAME .
 azure-api.net CNAME .
-azure.com CNAME .
+; allow azure.com reason: not a tracker
 azurefd.net CNAME .
 b0oie4xjeb4ite.com CNAME .
 ba-content.de CNAME .

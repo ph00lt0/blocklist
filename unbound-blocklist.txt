@@ -15039,7 +15039,7 @@ local-zone: "checkfront.com." always_null
 local-zone: "chessabc.com." always_null
 local-zone: "1000otzyvov.com." always_null
 local-zone: "123roulement.be." always_null
-local-zone: "123vod-adaptive.akamaized.net." always_null
+# allow 123vod-adaptive.akamaized.net reason: required
 # allow 132vod-adaptive.akamaized.net reason: required
 # allow 145vod-adaptive.akamaized.net reason: required
 local-zone: "1997media.com." always_null

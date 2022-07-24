@@ -15146,7 +15146,7 @@
 0.0.0.0 chessabc.com
 0.0.0.0 1000otzyvov.com
 0.0.0.0 123roulement.be
-0.0.0.0 123vod-adaptive.akamaized.net
+! allow 123vod-adaptive.akamaized.net reason: required
 ! allow 132vod-adaptive.akamaized.net reason: required
 ! allow 145vod-adaptive.akamaized.net reason: required
 0.0.0.0 1997media.com

@@ -15038,7 +15038,7 @@ checkfront.com CNAME .
 chessabc.com CNAME .
 1000otzyvov.com CNAME .
 123roulement.be CNAME .
-123vod-adaptive.akamaized.net CNAME .
+; allow 123vod-adaptive.akamaized.net reason: required
 ; allow 132vod-adaptive.akamaized.net reason: required
 ; allow 145vod-adaptive.akamaized.net reason: required
 1997media.com CNAME .

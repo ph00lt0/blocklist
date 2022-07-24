@@ -15780,3 +15780,4 @@ $removeparam=engagement_type
 ||sentry.bazo.dk^
 ||tags.adnuntius.com^
 @@||lasso.blob.core.windows.net^  # image cdn
+||www.paqle.dk^

@@ -15358,3 +15358,4 @@ statmap.eniro.com CNAME .
 sentry.bazo.dk CNAME .
 tags.adnuntius.com CNAME .
 ; allow lasso.blob.core.windows.net reason: image cdn
+www.paqle.dk CNAME .

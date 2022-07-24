@@ -15466,3 +15466,4 @@
 0.0.0.0 sentry.bazo.dk
 0.0.0.0 tags.adnuntius.com
 ! allow lasso.blob.core.windows.net reason: image cdn
+0.0.0.0 www.paqle.dk

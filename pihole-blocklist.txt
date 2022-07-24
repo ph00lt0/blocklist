@@ -14045,7 +14045,7 @@
 0.0.0.0 bongacams.com
 0.0.0.0 bonzai.co
 0.0.0.0 bookeasy.com.au
-0.0.0.0 booking.com
+! allow booking.com reason: not a tracker
 0.0.0.0 bookmsg.com
 0.0.0.0 boomtrain.com
 0.0.0.0 bootstrapcdn.com

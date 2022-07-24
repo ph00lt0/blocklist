@@ -13937,7 +13937,7 @@ boltdns.net CNAME .
 bongacams.com CNAME .
 bonzai.co CNAME .
 bookeasy.com.au CNAME .
-booking.com CNAME .
+; allow booking.com reason: not a tracker
 bookmsg.com CNAME .
 boomtrain.com CNAME .
 bootstrapcdn.com CNAME .

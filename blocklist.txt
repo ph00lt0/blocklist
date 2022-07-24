@@ -14362,7 +14362,7 @@ $removeparam=engagement_type
 ||bongacams.com^
 ||bonzai.co^
 ||bookeasy.com.au^
-||booking.com^
+@@||booking.com^  # not a tracker
 ||bookmsg.com^
 ||boomtrain.com^
 ||bootstrapcdn.com^

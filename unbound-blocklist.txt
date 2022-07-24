@@ -13938,7 +13938,7 @@ local-zone: "boltdns.net." always_null
 local-zone: "bongacams.com." always_null
 local-zone: "bonzai.co." always_null
 local-zone: "bookeasy.com.au." always_null
-local-zone: "booking.com." always_null
+# allow booking.com reason: not a tracker
 local-zone: "bookmsg.com." always_null
 local-zone: "boomtrain.com." always_null
 local-zone: "bootstrapcdn.com." always_null

@@ -13031,7 +13031,7 @@
 0.0.0.0 30583c188ff305e13a00dcb558976baa.edgekey.net
 0.0.0.0 31.204.145.96
 0.0.0.0 316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com
-0.0.0.0 31vod-adaptive.akamaized.net
+! allow 31vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 32.134.125.107
 0.0.0.0 329zviwchun16hc302ozrz41-wpengine.netdna-ssl.com
 0.0.0.0 32c80191e78132fa00deeda9fd0c6fe8.edgekey.net

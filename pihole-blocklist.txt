@@ -12772,7 +12772,7 @@
 0.0.0.0 167.99.77.72
 ! allow 167vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 168logger.com
-0.0.0.0 168vod-adaptive.akamaized.net
+! allow 168vod-adaptive.akamaized.net reason: not a tracker
 0.0.0.0 16iwyl195vvfgoqu3136p2ly-wpengine.netdna-ssl.com
 0.0.0.0 16vod-adaptive.akamaized.net
 0.0.0.0 1704183692.rsc.cdn77.org

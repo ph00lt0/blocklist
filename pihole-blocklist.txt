@@ -251,12 +251,12 @@
 ! allow sonos-music.apple.com reason: not a tracker
 0.0.0.0 pancake.apple.com
 0.0.0.0 ess.apple.com
-0.0.0.0 ls.apple.com
+! allow ls.apple.com reason: apple maps
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 lcdn-registration.apple.com
 0.0.0.0 s-loc.apple.com
-0.0.0.0 ls.apple.com.akadns.net
-0.0.0.0 ls.apple.com.edgesuite.net
+! allow ls.apple.com reason: apple maps.akadns.net
+! allow ls.apple.com reason: apple maps.edgesuite.net
 0.0.0.0 reserve-prime.apple.com
 0.0.0.0 push-apple.com.akadns.net
 0.0.0.0 push.apple.com.akadns.net

@@ -252,7 +252,7 @@
 @@||sonos-music.apple.com^  # not a tracker
 ||pancake.apple.com^
 ||ess.apple.com^
-||ls.apple.com^
+@@||ls.apple.com^  # apple maps
 ||lcdn-locator.apple.com^
 ||lcdn-registration.apple.com^
 ||s-loc.apple.com^

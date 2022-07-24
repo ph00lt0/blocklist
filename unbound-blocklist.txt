@@ -245,7 +245,7 @@ local-zone: "valid.apple.com." always_null
 # allow sonos-music.apple.com reason: not a tracker
 local-zone: "pancake.apple.com." always_null
 local-zone: "ess.apple.com." always_null
-local-zone: "ls.apple.com." always_null
+# allow ls.apple.com reason: apple maps
 local-zone: "lcdn-locator.apple.com." always_null
 local-zone: "lcdn-registration.apple.com." always_null
 local-zone: "s-loc.apple.com." always_null

@@ -15365,3 +15365,4 @@ cdn.registerdisney.go.com CNAME .
 dcf.espn.com CNAME .
 a.dilcdn.com CNAME .
 sanalytics.disneyplus.com CNAME .
+connections.edge.bamgrid.com CNAME .

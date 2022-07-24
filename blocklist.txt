@@ -12911,3 +12911,4 @@ $removeparam=subid1
 ||nmg-ads.com^
 ||ads.viralize.tv^
 ||sockjs-eu.pusher.com^
+||ws-eu.pusher.com^

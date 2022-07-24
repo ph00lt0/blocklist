@@ -12492,3 +12492,4 @@ local-zone: "api.branch.io." always_null
 local-zone: "nmg-ads.com." always_null
 local-zone: "ads.viralize.tv." always_null
 local-zone: "sockjs-eu.pusher.com." always_null
+local-zone: "ws-eu.pusher.com." always_null

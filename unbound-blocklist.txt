@@ -15351,3 +15351,4 @@ local-zone: "www.blackphone.info." always_null
 local-zone: "swebanalytics.krak.dk." always_null
 local-zone: "pixel-profile-cloud.eniro.com." always_null
 local-zone: "attributionservice.enirocdn.com." always_null
+local-zone: "julio-cdn.eniro.com." always_null

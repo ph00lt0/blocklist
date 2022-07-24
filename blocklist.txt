@@ -15772,3 +15772,4 @@ $removeparam=engagement_type
 ||swebanalytics.krak.dk^
 ||pixel-profile-cloud.eniro.com^
 ||attributionservice.enirocdn.com^
+||julio-cdn.eniro.com^

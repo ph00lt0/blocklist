@@ -13688,7 +13688,7 @@
 0.0.0.0 am-static.com
 0.0.0.0 amavalet.com
 0.0.0.0 amazon.co.uk
-0.0.0.0 amazon.com
+! allow amazon.com reason: not a tracker
 0.0.0.0 amazon.de
 0.0.0.0 amp.akamaized.net
 0.0.0.0 amplifoninternal.com

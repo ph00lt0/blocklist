@@ -221,10 +221,10 @@ usemessages.com CNAME .
 js.usemessages.com CNAME .
 openeducationanalytics.org CNAME .
 accessibilityinsights.io CNAME .
-static-eu.payments-amazon.com CNAME .
-static.payments-amazon.com CNAME .
-payments-*.amazon.com CNAME .
-payments.amazon.com CNAME .
+static-eu.payments-; allow amazon.com reason: not a tracker
+static.payments-; allow amazon.com reason: not a tracker
+payments-*.; allow amazon.com reason: not a tracker
+payments.; allow amazon.com reason: not a tracker
 pndsn.com CNAME .
 files.acrobat.com CNAME .
 createpdf.acrobat.com CNAME .
@@ -648,7 +648,7 @@ win10.ipv6.microsoft.com CNAME .
 v10.vortex-win.data.microsoft.com CNAME .
 geo-prod.do.dsp.mp.microsoft.com CNAME .
 clientconfig.passport.net CNAME .
-device-metrics-us.amazon.com CNAME .
+device-metrics-us.; allow amazon.com reason: not a tracker
 kv101-prod.do.dsp.mp.microsoft.com CNAME .
 geover-prod.do.dsp.mp.microsoft.com CNAME .
 mobile.pipe.aria.microsoft.com CNAME .
@@ -1212,10 +1212,10 @@ ssl.google-analytics.com CNAME .
 analyticsengine.s3.amazonaws.com CNAME .
 advice-ads.s3.amazonaws.com CNAME .
 affiliationjs.s3.amazonaws.com CNAME .
-advertising-api-eu.amazon.com CNAME .
+advertising-api-eu.; allow amazon.com reason: not a tracker
 amazonaax.com CNAME .
 amazonclix.com CNAME .
-assoc-amazon.com CNAME .
+assoc-; allow amazon.com reason: not a tracker
 fastclick.com CNAME .
 fastclick.net CNAME .
 media.fastclick.net CNAME .
@@ -1558,7 +1558,7 @@ telemetry.cell-0.us-west-2.prod.tangerinebox.console.aws.a2z.com CNAME .
 global.ccs.amazonaws.com CNAME .
 telemetry.cell-0.eu-west-3.prod.tangerinebox.console.aws.a2z.com CNAME .
 telemetry.cell-0.ca-central-1.prod.tangerinebox.console.aws.a2z.com CNAME .
-target.aws.amazon.com CNAME .
+target.aws.; allow amazon.com reason: not a tracker
 telemetry.cell-0.ap-northeast-1.prod.tangerinebox.console.aws.a2z.com CNAME .
 eu-north-1.ccs.amazonaws.com CNAME .
 telemetry.cell-0.ap-south-1.prod.tangerinebox.console.aws.a2z.com CNAME .
@@ -3265,7 +3265,7 @@ placeholder.com CNAME .
 via.placeholder.com CNAME .
 services.crmservice.eu CNAME .
 aax-eu.amazon-adsystem.com CNAME .
-unagi.amazon.com CNAME .
+unagi.; allow amazon.com reason: not a tracker
 sstatic1.histats.com CNAME .
 2cc9bcd87e4511a3759bc9299721d1609b726e59.cws.conviva.com CNAME .
 gabe.hit.gemius.pl CNAME .
@@ -3665,8 +3665,8 @@ uservoice.com CNAME .
 stats.converter.app CNAME .
 lustre.ai CNAME .
 ws-na.amazon-adsystem.com CNAME .
-associates-amazon.com CNAME .
-z-na.associates-amazon.com CNAME .
+associates-; allow amazon.com reason: not a tracker
+z-na.associates-; allow amazon.com reason: not a tracker
 spclotto4.it CNAME .
 www.spclotto4.it CNAME .
 buyexpressly.com CNAME .
@@ -4018,7 +4018,7 @@ notifier-configs.airbrake.io CNAME .
 airbrake.io CNAME .
 fast.appcues.com CNAME .
 appcues.com CNAME .
-unagi-na.amazon.com CNAME .
+unagi-na.; allow amazon.com reason: not a tracker
 a.scholieren.com CNAME .
 leadinfo.net CNAME .
 cdn.leadinfo.net CNAME .
@@ -11015,7 +11015,7 @@ ma1.meishij.net CNAME .
 mackeeper.com CNAME .
 mackeeperapp.mackeeper.com CNAME .
 mad.m.maxthon.cn CNAME .
-mads.amazon.com CNAME .
+mads.; allow amazon.com reason: not a tracker
 mads.aol.com CNAME .
 mads.dailymail.co.uk CNAME .
 magnetic.t.domdex.com CNAME .
@@ -13580,7 +13580,7 @@ altmetric.com CNAME .
 am-static.com CNAME .
 amavalet.com CNAME .
 amazon.co.uk CNAME .
-amazon.com CNAME .
+; allow amazon.com reason: not a tracker
 amazon.de CNAME .
 amp.akamaized.net CNAME .
 amplifoninternal.com CNAME .

@@ -14005,7 +14005,7 @@ $removeparam=engagement_type
 ||am-static.com^
 ||amavalet.com^
 ||amazon.co.uk^
-||amazon.com^
+@@||amazon.com^  # not a tracker
 ||amazon.de^
 ||amp.akamaized.net^
 ||amplifoninternal.com^

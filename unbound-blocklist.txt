@@ -15264,7 +15264,7 @@ local-zone: "controq.com." always_null
 local-zone: "convertcart.com." always_null
 local-zone: "cookieassistant.com." always_null
 local-zone: "cooladata.com." always_null
-local-zone: "coop.co.uk." always_null
+# allow coop.co.uk reason: not a tracker
 local-zone: "copart.com." always_null
 local-zone: "corvidae.ai." always_null
 local-zone: "counciladvertising.net." always_null

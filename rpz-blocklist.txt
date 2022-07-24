@@ -15263,7 +15263,7 @@ controq.com CNAME .
 convertcart.com CNAME .
 cookieassistant.com CNAME .
 cooladata.com CNAME .
-coop.co.uk CNAME .
+; allow coop.co.uk reason: not a tracker
 copart.com CNAME .
 corvidae.ai CNAME .
 counciladvertising.net CNAME .

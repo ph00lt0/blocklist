@@ -15685,7 +15685,7 @@ $removeparam=engagement_type
 ||convertcart.com^
 ||cookieassistant.com^
 ||cooladata.com^
-||coop.co.uk^
+@@||coop.co.uk^  # not a tracker
 ||copart.com^
 ||corvidae.ai^
 ||counciladvertising.net^

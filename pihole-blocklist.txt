@@ -15371,7 +15371,7 @@
 0.0.0.0 convertcart.com
 0.0.0.0 cookieassistant.com
 0.0.0.0 cooladata.com
-0.0.0.0 coop.co.uk
+! allow coop.co.uk reason: not a tracker
 0.0.0.0 copart.com
 0.0.0.0 corvidae.ai
 0.0.0.0 counciladvertising.net

@@ -14257,7 +14257,7 @@ $removeparam=engagement_type
 ||art-gallery-of-sa-store.myshopify.com^
 ||assets-queue-it.net^
 @@||assetsadobe.com^  # not a tracker
-||assetsadobe2.com^
+@@||assetsadobe2.com^  # not a tracker
 ||asteriresearch.com^
 ||astutebot.com^
 ||atedra.com^

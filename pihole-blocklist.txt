@@ -13940,7 +13940,7 @@
 0.0.0.0 art-gallery-of-sa-store.myshopify.com
 0.0.0.0 assets-queue-it.net
 ! allow assetsadobe.com reason: not a tracker
-0.0.0.0 assetsadobe2.com
+! allow assetsadobe2.com reason: not a tracker
 0.0.0.0 asteriresearch.com
 0.0.0.0 astutebot.com
 0.0.0.0 atedra.com

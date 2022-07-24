@@ -13832,7 +13832,7 @@ arrivalist.com CNAME .
 art-gallery-of-sa-store.myshopify.com CNAME .
 assets-queue-it.net CNAME .
 assets; allow adobe.com reason: not a tracker
-assetsadobe2.com CNAME .
+; allow assetsadobe2.com reason: not a tracker
 asteriresearch.com CNAME .
 astutebot.com CNAME .
 atedra.com CNAME .

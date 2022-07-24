@@ -13833,7 +13833,7 @@ local-zone: "arrivalist.com." always_null
 local-zone: "art-gallery-of-sa-store.myshopify.com." always_null
 local-zone: "assets-queue-it.net." always_null
 # allow assetsadobe.com reason: not a tracker
-local-zone: "assetsadobe2.com." always_null
+# allow assetsadobe2.com reason: not a tracker
 local-zone: "asteriresearch.com." always_null
 local-zone: "astutebot.com." always_null
 local-zone: "atedra.com." always_null

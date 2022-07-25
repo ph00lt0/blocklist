@@ -15801,3 +15801,4 @@ $removeparam=engagement_type
 ||marfeelrev.com^
 ||stats.framasoft.org^
 ||tag.demandbase.com^
+||performance.radar.cloudflare.com^

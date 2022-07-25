@@ -14047,7 +14047,7 @@
 ! allow booking.com reason: not a tracker
 0.0.0.0 bookmsg.com
 0.0.0.0 boomtrain.com
-0.0.0.0 bootstrapcdn.com
+! allow bootstrapcdn.com reason: CDN
 0.0.0.0 borirait.site
 ! allow bosch.com reason: not a tracker
 ! allow bose.com reason: not a tracker

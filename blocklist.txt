@@ -14365,7 +14365,7 @@ $removeparam=engagement_type
 @@||booking.com^  # not a tracker
 ||bookmsg.com^
 ||boomtrain.com^
-||bootstrapcdn.com^
+@@||bootstrapcdn.com^  # CDN
 ||borirait.site^
 @@||bosch.com^  # not a tracker
 @@||bose.com^  # not a tracker

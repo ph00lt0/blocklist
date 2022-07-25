@@ -2239,7 +2239,7 @@ vvvameland.activehosted.com CNAME .
 w.usabilla.com CNAME .
 monsido.com CNAME .
 app-script.monsido.com CNAME .
-netdna.bootstrapcdn.com CNAME .
+netdna.; allow bootstrapcdn.com reason: CDN
 cloudstatic.obi4wan.com CNAME .
 sooqr.com CNAME .
 browser-update.org CNAME .
@@ -8531,7 +8531,7 @@ api.viu.now.com CNAME .
 d1k2us671qcoau.cloudfront.net CNAME .
 d2anahhhmp1ffz.cloudfront.net CNAME .
 dfp6rglgjqszk.cloudfront.net CNAME .
-*.bootstrapcdn.com CNAME .
+*.; allow bootstrapcdn.com reason: CDN
 *.nowe.com CNAME .
 *.viu.com CNAME .
 *.viu.now.com CNAME .
@@ -13939,7 +13939,7 @@ bookeasy.com.au CNAME .
 ; allow booking.com reason: not a tracker
 bookmsg.com CNAME .
 boomtrain.com CNAME .
-bootstrapcdn.com CNAME .
+; allow bootstrapcdn.com reason: CDN
 borirait.site CNAME .
 ; allow bosch.com reason: not a tracker
 ; allow bose.com reason: not a tracker

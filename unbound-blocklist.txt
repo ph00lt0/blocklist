@@ -13940,7 +13940,7 @@ local-zone: "bookeasy.com.au." always_null
 # allow booking.com reason: not a tracker
 local-zone: "bookmsg.com." always_null
 local-zone: "boomtrain.com." always_null
-local-zone: "bootstrapcdn.com." always_null
+# allow bootstrapcdn.com reason: CDN
 local-zone: "borirait.site." always_null
 # allow bosch.com reason: not a tracker
 # allow bose.com reason: not a tracker

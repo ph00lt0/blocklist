@@ -1,6 +1,6 @@
 # Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 
-Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources) and activively added trackers from [Tracker Radar](https://github.com/duckduckgo/tracker-radar/) by DuckDuckGo. Although whitelisting happens when required for operations of apps. This blocklists aims at not breaking the exerpience of apps, if this occurs please report so.
+Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources) and activively added trackers from [Tracker Radar](https://github.com/duckduckgo/tracker-radar/) by DuckDuckGo. The trackers listed by DDG contain a lot of false postives, which we try to whitelist to the best of our ability. This blocklists aims at not breaking the exerpience of apps, if this occurs please report so.
 
 This blocklists aims at blocking:
 - Stats and analytics (including privacy preserving ones such as Matomo) 

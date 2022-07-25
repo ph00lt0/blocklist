@@ -6671,7 +6671,6 @@ $removeparam=afftrack
 ||sypi.gpshopper.com^
 ||dmtry.com^
 ||mng-ads.com^
-||.google.com^
 ||avocarrot.com^
 ||ads.glispa.com^
 ||exp.glispa.com^

@@ -6500,7 +6500,6 @@ local-zone: "sdk.gpshopper.com." always_null
 local-zone: "sypi.gpshopper.com." always_null
 local-zone: "dmtry.com." always_null
 local-zone: "mng-ads.com." always_null
-local-zone: ".google.com." always_null
 local-zone: "avocarrot.com." always_null
 local-zone: "ads.glispa.com." always_null
 local-zone: "exp.glispa.com." always_null

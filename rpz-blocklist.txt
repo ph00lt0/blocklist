@@ -6499,7 +6499,6 @@ sdk.gpshopper.com CNAME .
 sypi.gpshopper.com CNAME .
 dmtry.com CNAME .
 mng-ads.com CNAME .
-.google.com CNAME .
 avocarrot.com CNAME .
 ads.glispa.com CNAME .
 exp.glispa.com CNAME .

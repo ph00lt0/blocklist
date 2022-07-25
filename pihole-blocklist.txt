@@ -6600,7 +6600,6 @@
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 dmtry.com
 0.0.0.0 mng-ads.com
-0.0.0.0 .google.com
 0.0.0.0 avocarrot.com
 0.0.0.0 ads.glispa.com
 0.0.0.0 exp.glispa.com

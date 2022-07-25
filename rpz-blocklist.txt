@@ -13916,7 +13916,7 @@ blackcrow.ai CNAME .
 bloglines.com CNAME .
 bloomberga.com CNAME .
 ; allow blubrry.com reason: podcast hosting
-blueberry.map.fastly.net CNAME .
+; allow blueberry.map.fastly.net reason: podcast hosting
 bluecore.com CNAME .
 
 bluemix.net CNAME .

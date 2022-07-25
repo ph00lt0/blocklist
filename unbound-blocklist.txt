@@ -13917,7 +13917,7 @@ local-zone: "blackcrow.ai." always_null
 local-zone: "bloglines.com." always_null
 local-zone: "bloomberga.com." always_null
 # allow blubrry.com reason: podcast hosting
-local-zone: "blueberry.map.fastly.net." always_null
+# allow blueberry.map.fastly.net reason: podcast hosting
 local-zone: "bluecore.com." always_null
 local-zone: "bluekai.com.edgekey.net." always_null
 local-zone: "bluemix.net." always_null

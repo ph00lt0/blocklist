@@ -14342,7 +14342,7 @@ $removeparam=engagement_type
 ||bloglines.com^
 ||bloomberga.com^
 @@||blubrry.com^  # podcast hosting
-||blueberry.map.fastly.net^
+@@||blueberry.map.fastly.net^  # podcast hosting
 ||bluecore.com^
 
 ||bluemix.net^

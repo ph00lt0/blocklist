@@ -14985,7 +14985,7 @@ arcantel.ch CNAME .
 
 atype.jp CNAME .
 aura-dsp.com CNAME .
-autoscout24.ch CNAME .
+; allow autoscout24.ch reason: not a tracker
 az-cdn.ch CNAME .
 babeforums.org CNAME .
 backslash.ch CNAME .

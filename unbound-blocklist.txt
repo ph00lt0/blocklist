@@ -14986,7 +14986,7 @@ local-zone: "asos-media.com.edgekey.net." always_null
 local-zone: "asosservices.com.edgekey.net." always_null
 local-zone: "atype.jp." always_null
 local-zone: "aura-dsp.com." always_null
-local-zone: "autoscout24.ch." always_null
+# allow autoscout24.ch reason: not a tracker
 local-zone: "az-cdn.ch." always_null
 local-zone: "babeforums.org." always_null
 local-zone: "backslash.ch." always_null

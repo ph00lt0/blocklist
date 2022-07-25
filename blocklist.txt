@@ -15407,7 +15407,7 @@ $removeparam=engagement_type
 
 ||atype.jp^
 ||aura-dsp.com^
-||autoscout24.ch^
+@@||autoscout24.ch^  # not a tracker
 ||az-cdn.ch^
 ||babeforums.org^
 ||backslash.ch^

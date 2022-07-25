@@ -15093,7 +15093,7 @@
 
 0.0.0.0 atype.jp
 0.0.0.0 aura-dsp.com
-0.0.0.0 autoscout24.ch
+! allow autoscout24.ch reason: not a tracker
 0.0.0.0 az-cdn.ch
 0.0.0.0 babeforums.org
 0.0.0.0 backslash.ch

@@ -15039,7 +15039,7 @@
 0.0.0.0 360perspektiven.com
 
 
-0.0.0.0 aboutyou.ch
+! allow aboutyou.ch reason: not a tracker
 0.0.0.0 abraxas-apis.ch
 0.0.0.0 abraxas-apps.ch
 0.0.0.0 acrevison.ch

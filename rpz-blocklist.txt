@@ -12474,7 +12474,7 @@ t.aboutyou.es CNAME .
 t.aboutyou.si CNAME .
 t.aboutyou.be CNAME .
 t.aboutyou.fr CNAME .
-t.aboutyou.ch CNAME .
+t.; allow aboutyou.ch reason: not a tracker
 t.aboutyou.pl CNAME .
 t.aboutyou.gr CNAME .
 t.aboutyou.no CNAME .
@@ -14931,7 +14931,7 @@ borderfree.com CNAME .
 360perspektiven.com CNAME .
 
 
-aboutyou.ch CNAME .
+; allow aboutyou.ch reason: not a tracker
 abraxas-apis.ch CNAME .
 abraxas-apps.ch CNAME .
 acrevison.ch CNAME .

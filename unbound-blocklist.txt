@@ -14932,7 +14932,7 @@ local-zone: "borderfree.com." always_null
 local-zone: "360perspektiven.com." always_null
 
 
-local-zone: "aboutyou.ch." always_null
+# allow aboutyou.ch reason: not a tracker
 local-zone: "abraxas-apis.ch." always_null
 local-zone: "abraxas-apps.ch." always_null
 local-zone: "acrevison.ch." always_null

@@ -13950,7 +13950,7 @@ bp.blogspot.com CNAME .
 bqstreamer.com CNAME .
 brafton.com CNAME .
 brainlyads.com CNAME .
-braintree-api.com CNAME .
+; allow braintree-api.com reason: payment gateway
 ; allow braintreegateway.com reason: payment gateway
 brand-display.com CNAME .
 brandlock.io CNAME .

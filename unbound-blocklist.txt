@@ -13951,7 +13951,7 @@ local-zone: "bp.blogspot.com." always_null
 local-zone: "bqstreamer.com." always_null
 local-zone: "brafton.com." always_null
 local-zone: "brainlyads.com." always_null
-local-zone: "braintree-api.com." always_null
+# allow braintree-api.com reason: payment gateway
 # allow braintreegateway.com reason: payment gateway
 local-zone: "brand-display.com." always_null
 local-zone: "brandlock.io." always_null

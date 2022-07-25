@@ -14058,7 +14058,7 @@
 0.0.0.0 bqstreamer.com
 0.0.0.0 brafton.com
 0.0.0.0 brainlyads.com
-0.0.0.0 braintree-api.com
+! allow braintree-api.com reason: payment gateway
 ! allow braintreegateway.com reason: payment gateway
 0.0.0.0 brand-display.com
 0.0.0.0 brandlock.io

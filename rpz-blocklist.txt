@@ -8530,7 +8530,6 @@ api.viu.now.com CNAME .
 d1k2us671qcoau.cloudfront.net CNAME .
 d2anahhhmp1ffz.cloudfront.net CNAME .
 dfp6rglgjqszk.cloudfront.net CNAME .
-*.; allow bootstrapcdn.com reason: CDN
 *.nowe.com CNAME .
 *.viu.com CNAME .
 *.viu.now.com CNAME .

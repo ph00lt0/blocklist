@@ -8638,7 +8638,6 @@
 0.0.0.0 d1k2us671qcoau.cloudfront.net
 0.0.0.0 d2anahhhmp1ffz.cloudfront.net
 0.0.0.0 dfp6rglgjqszk.cloudfront.net
-0.0.0.0 *.bootstrapcdn.com
 0.0.0.0 *.nowe.com
 0.0.0.0 *.viu.com
 0.0.0.0 *.viu.now.com

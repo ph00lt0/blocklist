@@ -8531,7 +8531,6 @@ local-zone: "api.viu.now.com." always_null
 local-zone: "d1k2us671qcoau.cloudfront.net." always_null
 local-zone: "d2anahhhmp1ffz.cloudfront.net." always_null
 local-zone: "dfp6rglgjqszk.cloudfront.net." always_null
-local-zone: "*.bootstrapcdn.com." always_null
 local-zone: "*.nowe.com." always_null
 local-zone: "*.viu.com." always_null
 local-zone: "*.viu.now.com." always_null

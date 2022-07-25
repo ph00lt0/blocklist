@@ -14947,7 +14947,7 @@
 0.0.0.0 dealerinspire.com
 0.0.0.0 deernes.com
 0.0.0.0 defybrick.com
-0.0.0.0 delonghigroup.com
+! allow delonghigroup.com reason: not a tracker
 
 0.0.0.0 dev-era-184513.ew.r.appspot.com
 0.0.0.0 dh0i9ryzlewh.cloudfront.net

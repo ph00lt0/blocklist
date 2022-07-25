@@ -14839,7 +14839,7 @@ daznservices.com CNAME .
 dealerinspire.com CNAME .
 deernes.com CNAME .
 defybrick.com CNAME .
-delonghigroup.com CNAME .
+; allow delonghigroup.com reason: not a tracker
 
 dev-era-184513.ew.r.appspot.com CNAME .
 dh0i9ryzlewh.cloudfront.net CNAME .

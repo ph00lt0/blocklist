@@ -15265,7 +15265,7 @@ $removeparam=engagement_type
 ||dealerinspire.com^
 ||deernes.com^
 ||defybrick.com^
-||delonghigroup.com^
+@@||delonghigroup.com^  # not a tracker
 
 ||dev-era-184513.ew.r.appspot.com^
 ||dh0i9ryzlewh.cloudfront.net^

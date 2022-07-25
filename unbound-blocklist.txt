@@ -14840,7 +14840,7 @@ local-zone: "daznservices.com." always_null
 local-zone: "dealerinspire.com." always_null
 local-zone: "deernes.com." always_null
 local-zone: "defybrick.com." always_null
-local-zone: "delonghigroup.com." always_null
+# allow delonghigroup.com reason: not a tracker
 local-zone: "depositphotos.com.edgekey.net." always_null
 local-zone: "dev-era-184513.ew.r.appspot.com." always_null
 local-zone: "dh0i9ryzlewh.cloudfront.net." always_null

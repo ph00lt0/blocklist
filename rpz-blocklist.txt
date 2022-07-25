@@ -15376,3 +15376,4 @@ matomo.pifferi.info CNAME .
 spiketrap.io CNAME .
 scripts.myunidays.world CNAME .
 mbid.marfeelrev.com CNAME .
+marfeelrev.com CNAME .

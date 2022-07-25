@@ -14912,7 +14912,7 @@ local-zone: "betway.com." always_null
 local-zone: "bibliocommons.com." always_null
 local-zone: "bidgear.com." always_null
 local-zone: "bidsimulator.com." always_null
-local-zone: "binance.com." always_null
+# allow binance.com reason: not a tracker
 local-zone: "binkies3d.com." always_null
 local-zone: "bizrate.com." always_null
 local-zone: "blindferret-trk.com." always_null

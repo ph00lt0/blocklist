@@ -15019,7 +15019,7 @@
 0.0.0.0 bibliocommons.com
 0.0.0.0 bidgear.com
 0.0.0.0 bidsimulator.com
-0.0.0.0 binance.com
+! allow binance.com reason: not a tracker
 0.0.0.0 binkies3d.com
 0.0.0.0 bizrate.com
 0.0.0.0 blindferret-trk.com

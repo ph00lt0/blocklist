@@ -14911,7 +14911,7 @@ betway.com CNAME .
 bibliocommons.com CNAME .
 bidgear.com CNAME .
 bidsimulator.com CNAME .
-binance.com CNAME .
+; allow binance.com reason: not a tracker
 binkies3d.com CNAME .
 bizrate.com CNAME .
 blindferret-trk.com CNAME .

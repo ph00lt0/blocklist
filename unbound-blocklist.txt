@@ -15378,3 +15378,4 @@ local-zone: "spiketrap.io." always_null
 local-zone: "scripts.myunidays.world." always_null
 local-zone: "mbid.marfeelrev.com." always_null
 local-zone: "marfeelrev.com." always_null
+local-zone: "stats.framasoft.org." always_null

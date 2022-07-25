@@ -15485,3 +15485,4 @@
 0.0.0.0 scripts.myunidays.world
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 marfeelrev.com
+0.0.0.0 stats.framasoft.org

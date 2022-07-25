@@ -15799,3 +15799,4 @@ $removeparam=engagement_type
 ||scripts.myunidays.world^
 ||mbid.marfeelrev.com^
 ||marfeelrev.com^
+||stats.framasoft.org^

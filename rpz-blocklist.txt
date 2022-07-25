@@ -15377,3 +15377,4 @@ spiketrap.io CNAME .
 scripts.myunidays.world CNAME .
 mbid.marfeelrev.com CNAME .
 marfeelrev.com CNAME .
+stats.framasoft.org CNAME .

@@ -15376,3 +15376,4 @@ local-zone: "awesomeopensource.com." always_null
 local-zone: "vhfdental.com." always_null
 local-zone: "api.mtr.pub." always_null
 local-zone: "matomo.pifferi.info." always_null
+local-zone: "spiketrap.io." always_null

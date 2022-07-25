@@ -14023,7 +14023,7 @@
 ! allow blogger.com reason: not a tracker
 0.0.0.0 bloglines.com
 0.0.0.0 bloomberga.com
-0.0.0.0 blubrry.com
+! allow blubrry.com reason: podcast hosting
 0.0.0.0 blueberry.map.fastly.net
 0.0.0.0 bluecore.com
 

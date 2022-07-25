@@ -14341,7 +14341,7 @@ $removeparam=engagement_type
 @@||blogger.com^ # not a tracker
 ||bloglines.com^
 ||bloomberga.com^
-||blubrry.com^
+@@||blubrry.com^  # podcast hosting
 ||blueberry.map.fastly.net^
 ||bluecore.com^
 

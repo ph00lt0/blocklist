@@ -15375,3 +15375,4 @@ vhfdental.com CNAME .
 api.mtr.pub CNAME .
 matomo.pifferi.info CNAME .
 spiketrap.io CNAME .
+scripts.myunidays.world CNAME .

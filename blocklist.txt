@@ -15797,3 +15797,4 @@ $removeparam=engagement_type
 ||api.mtr.pub^
 ||matomo.pifferi.info^
 ||spiketrap.io^
+||scripts.myunidays.world^

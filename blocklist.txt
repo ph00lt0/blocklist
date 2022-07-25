@@ -14337,7 +14337,7 @@ $removeparam=engagement_type
 
 ||blackbaudhosting.com^
 ||blackcrow.ai^
-||bleepstatic.com^
+@@||bleepstatic.com^  # :CDN of bleepingcomputer
 @@||blogger.com^ # not a tracker
 ||bloglines.com^
 ||bloomberga.com^

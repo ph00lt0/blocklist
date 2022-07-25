@@ -13911,7 +13911,7 @@ bizibly.com CNAME .
 
 blackbaudhosting.com CNAME .
 blackcrow.ai CNAME .
-bleepstatic.com CNAME .
+; allow bleepstatic.com reason: :CDN of bleepingcomputer
 ; allow blogger.com reason: not a tracker
 bloglines.com CNAME .
 bloomberga.com CNAME .

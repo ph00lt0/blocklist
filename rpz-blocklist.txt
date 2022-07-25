@@ -4723,7 +4723,7 @@ subscriptions.smartrecruiters.com CNAME .
 j.6sc.co CNAME .
 6sc.co CNAME .
 stats.hey.com CNAME .
-client-analytics.braintreegateway.com CNAME .
+client-analytics.; allow braintreegateway.com reason: payment gateway
 qloudstat.com CNAME .
 static.qloudstat.com CNAME .
 t.paypal.com CNAME .
@@ -13951,7 +13951,7 @@ bqstreamer.com CNAME .
 brafton.com CNAME .
 brainlyads.com CNAME .
 braintree-api.com CNAME .
-braintreegateway.com CNAME .
+; allow braintreegateway.com reason: payment gateway
 brand-display.com CNAME .
 brandlock.io CNAME .
 braze-images.com CNAME .

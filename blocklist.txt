@@ -14377,7 +14377,7 @@ $removeparam=engagement_type
 ||brafton.com^
 ||brainlyads.com^
 ||braintree-api.com^
-||braintreegateway.com^
+@@||braintreegateway.com^  # payment gateway
 ||brand-display.com^
 ||brandlock.io^
 ||braze-images.com^

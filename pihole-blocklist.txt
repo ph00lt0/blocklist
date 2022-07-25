@@ -14059,7 +14059,7 @@
 0.0.0.0 brafton.com
 0.0.0.0 brainlyads.com
 0.0.0.0 braintree-api.com
-0.0.0.0 braintreegateway.com
+! allow braintreegateway.com reason: payment gateway
 0.0.0.0 brand-display.com
 0.0.0.0 brandlock.io
 0.0.0.0 braze-images.com

@@ -15499,3 +15499,4 @@
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 things.hicloud.com
 0.0.0.0 ai.hicloud.com
+0.0.0.0 a.hicloud.com

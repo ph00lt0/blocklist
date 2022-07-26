@@ -15391,3 +15391,4 @@ samsunghealthcn.com CNAME .
 dnkeeper.hicloud.com CNAME .
 things.hicloud.com CNAME .
 ai.hicloud.com CNAME .
+a.hicloud.com CNAME .

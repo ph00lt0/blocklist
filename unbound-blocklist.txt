@@ -15392,3 +15392,4 @@ local-zone: "samsunghealthcn.com." always_null
 local-zone: "dnkeeper.hicloud.com." always_null
 local-zone: "things.hicloud.com." always_null
 local-zone: "ai.hicloud.com." always_null
+local-zone: "a.hicloud.com." always_null

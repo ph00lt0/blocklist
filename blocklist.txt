@@ -15807,3 +15807,4 @@ $removeparam=engagement_type
 ||logserver.hicloud.com^
 ||configserver.platform.hicloud.com^
 ||connect-dre.dbankcloud.cn^
+||hispace.hicloud.com^

@@ -15386,3 +15386,4 @@ local-zone: "tindersparks.com." always_null
 local-zone: "logserver.hicloud.com." always_null
 local-zone: "configserver.platform.hicloud.com." always_null
 local-zone: "connect-dre.dbankcloud.cn." always_null
+local-zone: "hispace.hicloud.com." always_null

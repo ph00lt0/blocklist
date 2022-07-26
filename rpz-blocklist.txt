@@ -15385,3 +15385,4 @@ tindersparks.com CNAME .
 logserver.hicloud.com CNAME .
 configserver.platform.hicloud.com CNAME .
 connect-dre.dbankcloud.cn CNAME .
+hispace.hicloud.com CNAME .

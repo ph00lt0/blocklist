@@ -15493,3 +15493,4 @@
 0.0.0.0 logserver.hicloud.com
 0.0.0.0 configserver.platform.hicloud.com
 0.0.0.0 connect-dre.dbankcloud.cn
+0.0.0.0 hispace.hicloud.com

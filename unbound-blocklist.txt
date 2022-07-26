@@ -15402,3 +15402,4 @@ local-zone: "dbankedge.net." always_null
 # allow update.dbankcdn.com reason: Required for EMUI updates
 # allow query.hicloud.com reason: Required for EMUI updates
 local-zone: "datacollector-dra.dt.hicloud.com." always_null
+local-zone: "datacollector-dra.dt.dbankcloud.cn." always_null

@@ -14996,6 +14996,7 @@
         "push.hicloud.com",
         "dbankcloud.com",
         "dbankedge.net",
-        "datacollector-dra.dt.hicloud.com"
+        "datacollector-dra.dt.hicloud.com",
+        "datacollector-dra.dt.dbankcloud.cn"
     ]
 }

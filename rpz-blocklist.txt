@@ -15401,3 +15401,4 @@ dbankedge.net CNAME .
 ; allow update.dbankcdn.com reason: Required for EMUI updates
 ; allow query.hicloud.com reason: Required for EMUI updates
 datacollector-dra.dt.hicloud.com CNAME .
+datacollector-dra.dt.dbankcloud.cn CNAME .

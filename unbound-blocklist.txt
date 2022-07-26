@@ -15407,3 +15407,4 @@ local-zone: "datacollector-drru.dt.dbankcloud.ru." always_null
 local-zone: "dbankcloud.ru." always_null
 local-zone: "datacollector-drru.dt.hicloud.com." always_null
 local-zone: "ai.dbankcloud.cn." always_null
+local-zone: "ai.dbankcloud.ru." always_null

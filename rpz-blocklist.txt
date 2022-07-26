@@ -15406,3 +15406,4 @@ datacollector-drru.dt.dbankcloud.ru CNAME .
 dbankcloud.ru CNAME .
 datacollector-drru.dt.hicloud.com CNAME .
 ai.dbankcloud.cn CNAME .
+ai.dbankcloud.ru CNAME .

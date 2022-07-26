@@ -15395,3 +15395,4 @@ a.hicloud.com CNAME .
 dbankcloud.asia CNAME .
 dbankcloud.eu CNAME .
 push.hicloud.com CNAME .
+dbankcloud.com CNAME .

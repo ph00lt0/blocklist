@@ -15824,3 +15824,4 @@ $removeparam=engagement_type
 @@||query.hicloud.com^  # Required for EMUI updates
 ||datacollector-dra.dt.hicloud.com^
 ||datacollector-dra.dt.dbankcloud.cn^
+||datacollector-drru.dt.dbankcloud.ru^

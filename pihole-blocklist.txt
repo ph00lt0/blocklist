@@ -15510,3 +15510,4 @@
 ! allow query.hicloud.com reason: Required for EMUI updates
 0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
+0.0.0.0 datacollector-drru.dt.dbankcloud.ru

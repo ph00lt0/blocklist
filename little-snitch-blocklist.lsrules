@@ -15000,6 +15000,7 @@
         "datacollector-dra.dt.dbankcloud.cn",
         "datacollector-drru.dt.dbankcloud.ru",
         "dbankcloud.ru",
-        "datacollector-drru.dt.hicloud.com"
+        "datacollector-drru.dt.hicloud.com",
+        "ai.dbankcloud.cn"
     ]
 }

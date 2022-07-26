@@ -15513,3 +15513,4 @@
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 dbankcloud.ru
 0.0.0.0 datacollector-drru.dt.hicloud.com
+0.0.0.0 ai.dbankcloud.cn

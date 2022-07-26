@@ -15507,4 +15507,4 @@
 0.0.0.0 dbankedge.net
 0.0.0.0 update-dre.platform.hicloud.com
 0.0.0.0 update.dbankcdn.com
-0.0.0.0 query.hicloud.com
+! allow query.hicloud.com reason: Required for EMUI updates

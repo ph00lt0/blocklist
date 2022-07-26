@@ -15383,7 +15383,7 @@ performance.radar.cloudflare.com CNAME .
 metrics-drcn.dt.hicloud.com CNAME .
 tindersparks.com CNAME .
 logserver.hicloud.com CNAME .
-configserver.platform.hicloud.com CNAME .
+; allow configserver.platform.hicloud.com reason: Required for EMUI updates
 connect-dre.dbankcloud.cn CNAME .
 hispace.hicloud.com CNAME .
 metrics6.data.hicloud.com CNAME .

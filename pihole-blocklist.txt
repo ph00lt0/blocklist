@@ -15491,7 +15491,7 @@
 0.0.0.0 metrics-drcn.dt.hicloud.com
 0.0.0.0 tindersparks.com
 0.0.0.0 logserver.hicloud.com
-0.0.0.0 configserver.platform.hicloud.com
+! allow configserver.platform.hicloud.com reason: Required for EMUI updates
 0.0.0.0 connect-dre.dbankcloud.cn
 0.0.0.0 hispace.hicloud.com
 0.0.0.0 metrics6.data.hicloud.com

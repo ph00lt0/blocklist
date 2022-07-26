@@ -15383,3 +15383,4 @@ performance.radar.cloudflare.com CNAME .
 metrics-drcn.dt.hicloud.com CNAME .
 tindersparks.com CNAME .
 logserver.hicloud.com CNAME .
+configserver.platform.hicloud.com CNAME .

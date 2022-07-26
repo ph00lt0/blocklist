@@ -15384,3 +15384,4 @@ local-zone: "performance.radar.cloudflare.com." always_null
 local-zone: "metrics-drcn.dt.hicloud.com." always_null
 local-zone: "tindersparks.com." always_null
 local-zone: "logserver.hicloud.com." always_null
+local-zone: "configserver.platform.hicloud.com." always_null

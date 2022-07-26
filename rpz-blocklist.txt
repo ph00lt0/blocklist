@@ -15393,3 +15393,4 @@ things.hicloud.com CNAME .
 ai.hicloud.com CNAME .
 a.hicloud.com CNAME .
 dbankcloud.asia CNAME .
+dbankcloud.eu CNAME .

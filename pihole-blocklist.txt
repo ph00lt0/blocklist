@@ -15501,3 +15501,4 @@
 0.0.0.0 ai.hicloud.com
 0.0.0.0 a.hicloud.com
 0.0.0.0 dbankcloud.asia
+0.0.0.0 dbankcloud.eu

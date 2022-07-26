@@ -15398,3 +15398,4 @@ push.hicloud.com CNAME .
 dbankcloud.com CNAME .
 dbankedge.net CNAME .
 update-dre.platform.hicloud.com CNAME .
+update.dbankcdn.com CNAME .

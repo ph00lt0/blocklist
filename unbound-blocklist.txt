@@ -15399,3 +15399,4 @@ local-zone: "push.hicloud.com." always_null
 local-zone: "dbankcloud.com." always_null
 local-zone: "dbankedge.net." always_null
 local-zone: "update-dre.platform.hicloud.com." always_null
+local-zone: "update.dbankcdn.com." always_null

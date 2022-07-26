@@ -15820,3 +15820,4 @@ $removeparam=engagement_type
 ||dbankcloud.com^
 ||dbankedge.net^
 ||update-dre.platform.hicloud.com^
+||update.dbankcdn.com^

@@ -15506,3 +15506,4 @@
 0.0.0.0 dbankcloud.com
 0.0.0.0 dbankedge.net
 0.0.0.0 update-dre.platform.hicloud.com
+0.0.0.0 update.dbankcdn.com

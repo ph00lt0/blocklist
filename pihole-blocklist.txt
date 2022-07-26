@@ -15515,3 +15515,4 @@
 0.0.0.0 datacollector-drru.dt.hicloud.com
 0.0.0.0 ai.dbankcloud.cn
 0.0.0.0 ai.dbankcloud.ru
+0.0.0.0 bingads.microsoft.com

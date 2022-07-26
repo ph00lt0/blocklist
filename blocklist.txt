@@ -15829,3 +15829,4 @@ $removeparam=engagement_type
 ||datacollector-drru.dt.hicloud.com^
 ||ai.dbankcloud.cn^
 ||ai.dbankcloud.ru^
+||bingads.microsoft.com^

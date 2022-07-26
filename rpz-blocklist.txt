@@ -15407,3 +15407,4 @@ dbankcloud.ru CNAME .
 datacollector-drru.dt.hicloud.com CNAME .
 ai.dbankcloud.cn CNAME .
 ai.dbankcloud.ru CNAME .
+bingads.microsoft.com CNAME .

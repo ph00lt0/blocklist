@@ -15399,3 +15399,4 @@ dbankcloud.com CNAME .
 dbankedge.net CNAME .
 update-dre.platform.hicloud.com CNAME .
 update.dbankcdn.com CNAME .
+query.hicloud.com CNAME .

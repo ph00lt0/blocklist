@@ -15490,3 +15490,4 @@
 0.0.0.0 performance.radar.cloudflare.com
 0.0.0.0 metrics-drcn.dt.hicloud.com
 0.0.0.0 tindersparks.com
+0.0.0.0 logserver.hicloud.com

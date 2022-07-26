@@ -15804,3 +15804,4 @@ $removeparam=engagement_type
 ||performance.radar.cloudflare.com^
 ||metrics-drcn.dt.hicloud.com^
 ||tindersparks.com^
+||logserver.hicloud.com^

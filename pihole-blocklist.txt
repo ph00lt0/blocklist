@@ -15504,3 +15504,4 @@
 0.0.0.0 dbankcloud.eu
 0.0.0.0 push.hicloud.com
 0.0.0.0 dbankcloud.com
+0.0.0.0 dbankedge.net

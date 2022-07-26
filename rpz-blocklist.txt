@@ -15396,3 +15396,4 @@ dbankcloud.asia CNAME .
 dbankcloud.eu CNAME .
 push.hicloud.com CNAME .
 dbankcloud.com CNAME .
+dbankedge.net CNAME .

@@ -15397,3 +15397,4 @@ local-zone: "dbankcloud.asia." always_null
 local-zone: "dbankcloud.eu." always_null
 local-zone: "push.hicloud.com." always_null
 local-zone: "dbankcloud.com." always_null
+local-zone: "dbankedge.net." always_null

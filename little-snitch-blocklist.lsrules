@@ -14986,6 +14986,7 @@
         "configserver.platform.hicloud.com",
         "connect-dre.dbankcloud.cn",
         "hispace.hicloud.com",
-        "metrics6.data.hicloud.com"
+        "metrics6.data.hicloud.com",
+        "samsunghealthcn.com"
     ]
 }

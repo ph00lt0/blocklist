@@ -15830,3 +15830,4 @@ $removeparam=engagement_type
 ||ai.dbankcloud.cn^
 ||ai.dbankcloud.ru^
 ||bingads.microsoft.com^
+||portal.websecurityscan.eu^

@@ -15409,3 +15409,4 @@ local-zone: "datacollector-drru.dt.hicloud.com." always_null
 local-zone: "ai.dbankcloud.cn." always_null
 local-zone: "ai.dbankcloud.ru." always_null
 local-zone: "bingads.microsoft.com." always_null
+local-zone: "portal.websecurityscan.eu." always_null

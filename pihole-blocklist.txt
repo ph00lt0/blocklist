@@ -15516,3 +15516,4 @@
 0.0.0.0 ai.dbankcloud.cn
 0.0.0.0 ai.dbankcloud.ru
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 portal.websecurityscan.eu

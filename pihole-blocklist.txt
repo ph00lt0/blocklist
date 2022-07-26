@@ -15498,3 +15498,4 @@
 0.0.0.0 samsunghealthcn.com
 0.0.0.0 dnkeeper.hicloud.com
 0.0.0.0 things.hicloud.com
+0.0.0.0 ai.hicloud.com

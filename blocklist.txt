@@ -15812,3 +15812,4 @@ $removeparam=engagement_type
 ||samsunghealthcn.com^
 ||dnkeeper.hicloud.com^
 ||things.hicloud.com^
+||ai.hicloud.com^

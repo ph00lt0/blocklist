@@ -15381,3 +15381,4 @@ local-zone: "marfeelrev.com." always_null
 local-zone: "stats.framasoft.org." always_null
 local-zone: "tag.demandbase.com." always_null
 local-zone: "performance.radar.cloudflare.com." always_null
+local-zone: "metrics-drcn.dt.hicloud.com." always_null

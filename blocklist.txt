@@ -15802,3 +15802,4 @@ $removeparam=engagement_type
 ||stats.framasoft.org^
 ||tag.demandbase.com^
 ||performance.radar.cloudflare.com^
+||metrics-drcn.dt.hicloud.com^

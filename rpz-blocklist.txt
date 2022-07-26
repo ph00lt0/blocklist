@@ -15380,3 +15380,4 @@ marfeelrev.com CNAME .
 stats.framasoft.org CNAME .
 tag.demandbase.com CNAME .
 performance.radar.cloudflare.com CNAME .
+metrics-drcn.dt.hicloud.com CNAME .

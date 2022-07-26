@@ -15488,3 +15488,4 @@
 0.0.0.0 stats.framasoft.org
 0.0.0.0 tag.demandbase.com
 0.0.0.0 performance.radar.cloudflare.com
+0.0.0.0 metrics-drcn.dt.hicloud.com

@@ -15384,3 +15384,4 @@ metrics-drcn.dt.hicloud.com CNAME .
 tindersparks.com CNAME .
 logserver.hicloud.com CNAME .
 configserver.platform.hicloud.com CNAME .
+connect-dre.dbankcloud.cn CNAME .

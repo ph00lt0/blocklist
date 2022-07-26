@@ -15389,3 +15389,4 @@ hispace.hicloud.com CNAME .
 metrics6.data.hicloud.com CNAME .
 samsunghealthcn.com CNAME .
 dnkeeper.hicloud.com CNAME .
+things.hicloud.com CNAME .

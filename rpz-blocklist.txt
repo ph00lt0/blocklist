@@ -15398,5 +15398,5 @@ push.hicloud.com CNAME .
 dbankcloud.com CNAME .
 dbankedge.net CNAME .
 update-dre.platform.hicloud.com CNAME .
-update.dbankcdn.com CNAME .
+; allow update.dbankcdn.com reason: Required for EMUI updates
 ; allow query.hicloud.com reason: Required for EMUI updates

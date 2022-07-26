@@ -15820,5 +15820,5 @@ $removeparam=engagement_type
 ||dbankcloud.com^
 ||dbankedge.net^
 ||update-dre.platform.hicloud.com^
-||update.dbankcdn.com^
+@@||update.dbankcdn.com^  # Required for EMUI updates
 @@||query.hicloud.com^  # Required for EMUI updates

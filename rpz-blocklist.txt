@@ -15386,3 +15386,4 @@ logserver.hicloud.com CNAME .
 configserver.platform.hicloud.com CNAME .
 connect-dre.dbankcloud.cn CNAME .
 hispace.hicloud.com CNAME .
+metrics6.data.hicloud.com CNAME .

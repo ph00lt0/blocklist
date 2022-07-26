@@ -15826,3 +15826,4 @@ $removeparam=engagement_type
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-drru.dt.dbankcloud.ru^
 ||dbankcloud.ru^
+||datacollector-drru.dt.hicloud.com^

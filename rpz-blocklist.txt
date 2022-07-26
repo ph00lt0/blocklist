@@ -15404,3 +15404,4 @@ datacollector-dra.dt.hicloud.com CNAME .
 datacollector-dra.dt.dbankcloud.cn CNAME .
 datacollector-drru.dt.dbankcloud.ru CNAME .
 dbankcloud.ru CNAME .
+datacollector-drru.dt.hicloud.com CNAME .

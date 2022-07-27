@@ -15441,3 +15441,4 @@ local-zone: "js.pelcro.com." always_null
 local-zone: "pelcro.com." always_null
 local-zone: "voqally.com." always_null
 local-zone: "www.voqally.com." always_null
+local-zone: "d.tailtarget.com." always_null

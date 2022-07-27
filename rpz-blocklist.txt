@@ -15427,3 +15427,4 @@ rightnowtech.com CNAME .
 homeip.net CNAME .
 clearspring.com CNAME .
 nexac.com CNAME .
+amazonadsystem.com CNAME .

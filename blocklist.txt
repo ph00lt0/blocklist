@@ -15849,3 +15849,4 @@ $removeparam=engagement_type
 ||homeip.net^
 ||clearspring.com^
 ||nexac.com^
+||amazonadsystem.com^

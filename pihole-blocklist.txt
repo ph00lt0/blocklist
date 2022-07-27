@@ -15543,3 +15543,4 @@
 0.0.0.0 pushnami.com
 0.0.0.0 api.pushnami.com
 0.0.0.0 rddywd.com
+0.0.0.0 embed.sendtonews.com

@@ -15857,3 +15857,4 @@ $removeparam=engagement_type
 ||pushnami.com^
 ||api.pushnami.com^
 ||rddywd.com^
+||embed.sendtonews.com^

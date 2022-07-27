@@ -15538,3 +15538,4 @@
 0.0.0.0 amazonadsystem.com
 0.0.0.0 resetdigital.co
 0.0.0.0 js7k.com
+0.0.0.0 mxptint.net

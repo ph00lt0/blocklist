@@ -15430,3 +15430,4 @@ nexac.com CNAME .
 amazonadsystem.com CNAME .
 resetdigital.co CNAME .
 js7k.com CNAME .
+mxptint.net CNAME .

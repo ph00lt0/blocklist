@@ -15871,3 +15871,4 @@ $removeparam=engagement_type
 ||moveaws.com^
 ||impressions.onelink.me^
 ||us.tags.newscgp.com^
+||tags.newscgp.com^

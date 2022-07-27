@@ -15436,3 +15436,4 @@ pushnami.com CNAME .
 api.pushnami.com CNAME .
 rddywd.com CNAME .
 embed.sendtonews.com CNAME .
+js.pelcro.com CNAME .

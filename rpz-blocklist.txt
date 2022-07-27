@@ -15457,3 +15457,4 @@ cmp.quantcast.com CNAME .
 t.9gag.com CNAME .
 mt.9gag.com CNAME .
 privacy-api.9gag.com CNAME .
+stakingsmile.com CNAME .

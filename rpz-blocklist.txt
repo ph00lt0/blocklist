@@ -15446,3 +15446,4 @@ audience-mostread.r7.com CNAME .
 noticias.r7.com CNAME .
 audio8.audima.co CNAME .
 audima.co CNAME .
+moveaws.com CNAME .

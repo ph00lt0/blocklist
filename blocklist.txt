@@ -15851,3 +15851,4 @@ $removeparam=engagement_type
 ||nexac.com^
 ||amazonadsystem.com^
 ||resetdigital.co^
+||js7k.com^

@@ -15534,3 +15534,4 @@
 0.0.0.0 rightnowtech.com
 0.0.0.0 homeip.net
 0.0.0.0 clearspring.com
+0.0.0.0 nexac.com

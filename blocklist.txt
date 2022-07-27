@@ -15872,3 +15872,4 @@ $removeparam=engagement_type
 ||impressions.onelink.me^
 ||us.tags.newscgp.com^
 ||tags.newscgp.com^
+||j.microad.net^

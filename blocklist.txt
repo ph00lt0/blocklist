@@ -15850,3 +15850,4 @@ $removeparam=engagement_type
 ||clearspring.com^
 ||nexac.com^
 ||amazonadsystem.com^
+||resetdigital.co^

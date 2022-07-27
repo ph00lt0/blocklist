@@ -15536,3 +15536,4 @@
 0.0.0.0 clearspring.com
 0.0.0.0 nexac.com
 0.0.0.0 amazonadsystem.com
+0.0.0.0 resetdigital.co

@@ -15429,3 +15429,4 @@ local-zone: "homeip.net." always_null
 local-zone: "clearspring.com." always_null
 local-zone: "nexac.com." always_null
 local-zone: "amazonadsystem.com." always_null
+local-zone: "resetdigital.co." always_null

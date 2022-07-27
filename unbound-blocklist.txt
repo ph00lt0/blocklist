@@ -15434,3 +15434,4 @@ local-zone: "js7k.com." always_null
 local-zone: "mxptint.net." always_null
 local-zone: "rum-observability.nissanpace.com." always_null
 local-zone: "pushnami.com." always_null
+local-zone: "api.pushnami.com." always_null

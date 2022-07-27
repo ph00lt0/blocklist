@@ -15855,3 +15855,4 @@ $removeparam=engagement_type
 ||mxptint.net^
 ||rum-observability.nissanpace.com^
 ||pushnami.com^
+||api.pushnami.com^

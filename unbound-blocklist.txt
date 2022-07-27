@@ -13238,7 +13238,7 @@ local-zone: "9b47f0dc56015d8035ef75137f664eab.edgekey.net." always_null
 local-zone: "9ba479d5dbef96e8b2585ceef3418b8c.edgekey.net." always_null
 local-zone: "9c9media.com.edgesuite.net." always_null
 local-zone: "9c9media.edgekey.net." always_null
-local-zone: "9cache.com." always_null
+# allow 9cache.com reason: image cdn
 local-zone: "9cdn.net." always_null
 local-zone: "9eriz.x.incapdns.net." always_null
 local-zone: "9news.com.edgekey.net." always_null

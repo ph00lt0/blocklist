@@ -15453,3 +15453,4 @@ local-zone: "us.tags.newscgp.com." always_null
 local-zone: "tags.newscgp.com." always_null
 local-zone: "j.microad.net." always_null
 local-zone: "b.st-hatena.com." always_null
+local-zone: "flux-cdn.com." always_null

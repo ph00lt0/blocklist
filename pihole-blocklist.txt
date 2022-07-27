@@ -15518,3 +15518,4 @@
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 portal.websecurityscan.eu
 0.0.0.0 cb9e43b2a0.com
+0.0.0.0 gcouncer.buzz

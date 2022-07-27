@@ -15411,3 +15411,4 @@ local-zone: "ai.dbankcloud.ru." always_null
 local-zone: "bingads.microsoft.com." always_null
 local-zone: "portal.websecurityscan.eu." always_null
 local-zone: "cb9e43b2a0.com." always_null
+local-zone: "gcouncer.buzz." always_null

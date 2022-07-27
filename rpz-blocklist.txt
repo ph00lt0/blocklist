@@ -15439,3 +15439,4 @@ embed.sendtonews.com CNAME .
 js.pelcro.com CNAME .
 pelcro.com CNAME .
 voqally.com CNAME .
+www.voqally.com CNAME .

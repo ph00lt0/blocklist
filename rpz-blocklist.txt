@@ -15453,3 +15453,4 @@ tags.newscgp.com CNAME .
 j.microad.net CNAME .
 b.st-hatena.com CNAME .
 flux-cdn.com CNAME .
+cmp.quantcast.com CNAME .

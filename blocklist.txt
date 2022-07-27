@@ -15877,3 +15877,4 @@ $removeparam=engagement_type
 ||flux-cdn.com^
 ||cmp.quantcast.com^
 ||t.9gag.com^
+||mt.9gag.com^

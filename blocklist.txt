@@ -15878,3 +15878,4 @@ $removeparam=engagement_type
 ||cmp.quantcast.com^
 ||t.9gag.com^
 ||mt.9gag.com^
+||privacy-api.9gag.com^

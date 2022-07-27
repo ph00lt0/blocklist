@@ -15564,3 +15564,4 @@
 0.0.0.0 cmp.quantcast.com
 0.0.0.0 t.9gag.com
 0.0.0.0 mt.9gag.com
+0.0.0.0 privacy-api.9gag.com

@@ -15443,3 +15443,4 @@ www.voqally.com CNAME .
 d.tailtarget.com CNAME .
 sc.r7.com CNAME .
 audience-mostread.r7.com CNAME .
+noticias.r7.com CNAME .

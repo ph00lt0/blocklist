@@ -15444,3 +15444,4 @@ local-zone: "www.voqally.com." always_null
 local-zone: "d.tailtarget.com." always_null
 local-zone: "sc.r7.com." always_null
 local-zone: "audience-mostread.r7.com." always_null
+local-zone: "noticias.r7.com." always_null

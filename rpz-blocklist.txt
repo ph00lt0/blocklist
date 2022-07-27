@@ -15432,3 +15432,4 @@ resetdigital.co CNAME .
 js7k.com CNAME .
 mxptint.net CNAME .
 rum-observability.nissanpace.com CNAME .
+pushnami.com CNAME .

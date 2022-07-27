@@ -15549,3 +15549,4 @@
 0.0.0.0 voqally.com
 0.0.0.0 www.voqally.com
 0.0.0.0 d.tailtarget.com
+0.0.0.0 sc.r7.com

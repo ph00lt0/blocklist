@@ -15863,3 +15863,4 @@ $removeparam=engagement_type
 ||voqally.com^
 ||www.voqally.com^
 ||d.tailtarget.com^
+||sc.r7.com^

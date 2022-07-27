@@ -15545,3 +15545,4 @@
 0.0.0.0 rddywd.com
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 js.pelcro.com
+0.0.0.0 pelcro.com

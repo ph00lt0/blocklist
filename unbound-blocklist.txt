@@ -15438,3 +15438,4 @@ local-zone: "api.pushnami.com." always_null
 local-zone: "rddywd.com." always_null
 local-zone: "embed.sendtonews.com." always_null
 local-zone: "js.pelcro.com." always_null
+local-zone: "pelcro.com." always_null

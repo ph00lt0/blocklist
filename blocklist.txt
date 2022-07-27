@@ -15859,3 +15859,4 @@ $removeparam=engagement_type
 ||rddywd.com^
 ||embed.sendtonews.com^
 ||js.pelcro.com^
+||pelcro.com^

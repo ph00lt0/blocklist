@@ -15870,3 +15870,4 @@ $removeparam=engagement_type
 ||audima.co^
 ||moveaws.com^
 ||impressions.onelink.me^
+||us.tags.newscgp.com^

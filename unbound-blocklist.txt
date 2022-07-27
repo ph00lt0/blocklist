@@ -15423,3 +15423,4 @@ local-zone: "viiadr.com." always_null
 local-zone: "riamiavid.com." always_null
 local-zone: "rtbhouse.net." always_null
 local-zone: "livelook.com." always_null
+local-zone: "datalogix.com." always_null

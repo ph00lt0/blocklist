@@ -15451,3 +15451,4 @@ impressions.onelink.me CNAME .
 us.tags.newscgp.com CNAME .
 tags.newscgp.com CNAME .
 j.microad.net CNAME .
+b.st-hatena.com CNAME .

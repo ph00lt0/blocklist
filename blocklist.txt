@@ -15860,3 +15860,4 @@ $removeparam=engagement_type
 ||embed.sendtonews.com^
 ||js.pelcro.com^
 ||pelcro.com^
+||voqally.com^

@@ -15439,3 +15439,4 @@ local-zone: "rddywd.com." always_null
 local-zone: "embed.sendtonews.com." always_null
 local-zone: "js.pelcro.com." always_null
 local-zone: "pelcro.com." always_null
+local-zone: "voqally.com." always_null

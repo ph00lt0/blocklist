@@ -15461,3 +15461,4 @@ local-zone: "privacy-api.9gag.com." always_null
 local-zone: "stakingsmile.com." always_null
 local-zone: "quiety.themetags.com." always_null
 local-zone: "themetags.com." always_null
+local-zone: "hyp01.hypotheker.nl." always_null

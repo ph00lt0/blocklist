@@ -15459,3 +15459,4 @@ mt.9gag.com CNAME .
 privacy-api.9gag.com CNAME .
 stakingsmile.com CNAME .
 quiety.themetags.com CNAME .
+themetags.com CNAME .

@@ -15567,3 +15567,4 @@
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 stakingsmile.com
 0.0.0.0 quiety.themetags.com
+0.0.0.0 themetags.com

@@ -15880,3 +15880,4 @@ $removeparam=engagement_type
 ||mt.9gag.com^
 ||privacy-api.9gag.com^
 ||stakingsmile.com^
+||quiety.themetags.com^

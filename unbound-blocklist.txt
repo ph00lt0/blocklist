@@ -15459,3 +15459,4 @@ local-zone: "t.9gag.com." always_null
 local-zone: "mt.9gag.com." always_null
 local-zone: "privacy-api.9gag.com." always_null
 local-zone: "stakingsmile.com." always_null
+local-zone: "quiety.themetags.com." always_null

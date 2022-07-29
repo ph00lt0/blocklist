@@ -6655,7 +6655,7 @@ wpad.belkin CNAME .
 heartbeat.belkin.com CNAME .
 nelreports.net CNAME .
 purevpn.com CNAME .
-purevpn.com.cdn.cloudflare.net CNAME .
+purevpn.com.cdn.; allow cloudflare.net reason: CDN
 onelink.me CNAME .
 newsletter2go.com CNAME .
 tripolis.com CNAME .
@@ -14094,7 +14094,7 @@ cloud-iq.com.au CNAME .
 cloud-iq.com CNAME .
 cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com CNAME .
 ; allow cloudflare.com reason: not a tracker
-cloudflare.net CNAME .
+; allow cloudflare.net reason: CDN
 cloudimg.io CNAME .
 cloudinary.net CNAME .
 cloudiq.com CNAME .

@@ -15572,3 +15572,4 @@
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 cookies.openticket.tech
 0.0.0.0 notify.openticket.tech
+0.0.0.0 hb.chintsair.com

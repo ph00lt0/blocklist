@@ -15889,3 +15889,4 @@ glassdoor.*##.hardsellOverlay
 ||www.glassdoor.*/geb/events^
 ||cookies.openticket.tech^
 ||notify.openticket.tech^
+||hb.chintsair.com^

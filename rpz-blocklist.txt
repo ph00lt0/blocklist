@@ -15475,3 +15475,4 @@ rid.webtvframework.com CNAME .
 statistieken.pharmeon.nl CNAME .
 lptag.liveperson.net CNAME .
 livechat.zaurus.io CNAME .
+events.taylorandfrancis.com CNAME .

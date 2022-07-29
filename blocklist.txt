@@ -15903,3 +15903,4 @@ glassdoor.*##.hardsellOverlay
 ||statistieken.pharmeon.nl^
 ||lptag.liveperson.net^
 ||livechat.zaurus.io^
+||events.taylorandfrancis.com^

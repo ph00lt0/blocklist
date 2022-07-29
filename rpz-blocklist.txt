@@ -15467,3 +15467,4 @@ notify.openticket.tech CNAME .
 hb.chintsair.com CNAME .
 chintsair.com CNAME .
 abyss.to CNAME .
+agaenteitor.com CNAME .

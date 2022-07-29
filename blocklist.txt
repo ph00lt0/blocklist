@@ -15892,3 +15892,4 @@ glassdoor.*##.hardsellOverlay
 ||hb.chintsair.com^
 ||chintsair.com^
 ||abyss.to^
+||agaenteitor.com^

@@ -15902,3 +15902,4 @@ glassdoor.*##.hardsellOverlay
 ||rid.webtvframework.com^
 ||statistieken.pharmeon.nl^
 ||lptag.liveperson.net^
+||livechat.zaurus.io^

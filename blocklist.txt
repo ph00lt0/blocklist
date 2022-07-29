@@ -15888,3 +15888,4 @@ glassdoor.*##body:style(overflow: auto!important)
 glassdoor.*##.hardsellOverlay
 ||www.glassdoor.*/geb/events^
 ||cookies.openticket.tech^
+||notify.openticket.tech^

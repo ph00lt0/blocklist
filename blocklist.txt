@@ -15886,3 +15886,4 @@ $removeparam=engagement_type
 ||metrics.kmsmep.com^
 glassdoor.*##body:style(overflow: auto!important)
 glassdoor.*##.hardsellOverlay
+||www.glassdoor.*/geb/events^

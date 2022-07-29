@@ -15901,3 +15901,4 @@ glassdoor.*##.hardsellOverlay
 ||quadia.webtvframework.com/_function/attribute.image.retrieve^
 ||rid.webtvframework.com^
 ||statistieken.pharmeon.nl^
+||lptag.liveperson.net^

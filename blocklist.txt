@@ -15893,3 +15893,4 @@ glassdoor.*##.hardsellOverlay
 ||chintsair.com^
 ||abyss.to^
 ||agaenteitor.com^
+||apkarchive.ru^

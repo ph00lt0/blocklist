@@ -15469,3 +15469,4 @@ local-zone: "hb.chintsair.com." always_null
 local-zone: "chintsair.com." always_null
 local-zone: "abyss.to." always_null
 local-zone: "agaenteitor.com." always_null
+local-zone: "apkarchive.ru." always_null

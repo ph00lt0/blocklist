@@ -15472,3 +15472,4 @@ local-zone: "agaenteitor.com." always_null
 local-zone: "apkarchive.ru." always_null
 # allow quadia.webtvframework.com reason: Required
 local-zone: "quadia-nfs.s3-eu-west-1.amazonaws.com." always_null
+local-zone: "rid.webtvframework.com." always_null

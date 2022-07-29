@@ -15899,3 +15899,4 @@ glassdoor.*##.hardsellOverlay
 ||quadia.webtvframework.com/_function/log.application.add^
 ||quadia.webtvframework.com/_function/log.application.set^
 ||quadia.webtvframework.com/_function/attribute.image.retrieve^
+||rid.webtvframework.com^

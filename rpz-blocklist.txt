@@ -15472,3 +15472,4 @@ apkarchive.ru CNAME .
 ; allow quadia.webtvframework.com reason: Required
 quadia-nfs.s3-eu-west-1.amazonaws.com CNAME .
 rid.webtvframework.com CNAME .
+statistieken.pharmeon.nl CNAME .

@@ -15477,3 +15477,4 @@ local-zone: "statistieken.pharmeon.nl." always_null
 local-zone: "lptag.liveperson.net." always_null
 local-zone: "livechat.zaurus.io." always_null
 local-zone: "events.taylorandfrancis.com." always_null
+local-zone: "beacon-eu.hosted.exlibrisgroup.com." always_null

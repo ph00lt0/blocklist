@@ -15476,3 +15476,4 @@ statistieken.pharmeon.nl CNAME .
 lptag.liveperson.net CNAME .
 livechat.zaurus.io CNAME .
 events.taylorandfrancis.com CNAME .
+beacon-eu.hosted.exlibrisgroup.com CNAME .

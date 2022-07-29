@@ -15904,3 +15904,4 @@ glassdoor.*##.hardsellOverlay
 ||lptag.liveperson.net^
 ||livechat.zaurus.io^
 ||events.taylorandfrancis.com^
+||beacon-eu.hosted.exlibrisgroup.com^

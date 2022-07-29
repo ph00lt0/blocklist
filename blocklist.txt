@@ -15884,3 +15884,4 @@ $removeparam=engagement_type
 ||themetags.com^
 ||hyp01.hypotheker.nl^
 ||metrics.kmsmep.com^
+glassdoor.*##body:style(overflow: auto!important)

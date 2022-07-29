@@ -15467,3 +15467,4 @@ local-zone: "cookies.openticket.tech." always_null
 local-zone: "notify.openticket.tech." always_null
 local-zone: "hb.chintsair.com." always_null
 local-zone: "chintsair.com." always_null
+local-zone: "abyss.to." always_null

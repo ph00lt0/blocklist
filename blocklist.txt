@@ -15891,3 +15891,4 @@ glassdoor.*##.hardsellOverlay
 ||notify.openticket.tech^
 ||hb.chintsair.com^
 ||chintsair.com^
+||abyss.to^

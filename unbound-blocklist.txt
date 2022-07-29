@@ -15471,3 +15471,4 @@ local-zone: "abyss.to." always_null
 local-zone: "agaenteitor.com." always_null
 local-zone: "apkarchive.ru." always_null
 local-zone: "quadia.webtvframework.com." always_null
+local-zone: "quadia-nfs.s3-eu-west-1.amazonaws.com." always_null

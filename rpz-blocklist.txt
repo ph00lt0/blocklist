@@ -15470,3 +15470,4 @@ abyss.to CNAME .
 agaenteitor.com CNAME .
 apkarchive.ru CNAME .
 quadia.webtvframework.com CNAME .
+quadia-nfs.s3-eu-west-1.amazonaws.com CNAME .

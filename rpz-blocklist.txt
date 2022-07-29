@@ -15465,3 +15465,4 @@ metrics.kmsmep.com CNAME .
 cookies.openticket.tech CNAME .
 notify.openticket.tech CNAME .
 hb.chintsair.com CNAME .
+chintsair.com CNAME .

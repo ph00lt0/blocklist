@@ -15885,3 +15885,4 @@ $removeparam=engagement_type
 ||hyp01.hypotheker.nl^
 ||metrics.kmsmep.com^
 glassdoor.*##body:style(overflow: auto!important)
+glassdoor.*##.hardsellOverlay

@@ -15894,5 +15894,5 @@ glassdoor.*##.hardsellOverlay
 ||abyss.to^
 ||agaenteitor.com^
 ||apkarchive.ru^
-||quadia.webtvframework.com^
+@@||quadia.webtvframework.com^  # Required
 ||quadia-nfs.s3-eu-west-1.amazonaws.com^

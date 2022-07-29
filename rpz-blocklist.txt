@@ -15469,5 +15469,5 @@ chintsair.com CNAME .
 abyss.to CNAME .
 agaenteitor.com CNAME .
 apkarchive.ru CNAME .
-quadia.webtvframework.com CNAME .
+; allow quadia.webtvframework.com reason: Required
 quadia-nfs.s3-eu-west-1.amazonaws.com CNAME .

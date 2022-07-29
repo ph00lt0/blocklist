@@ -15462,3 +15462,4 @@ quiety.themetags.com CNAME .
 themetags.com CNAME .
 hyp01.hypotheker.nl CNAME .
 metrics.kmsmep.com CNAME .
+cookies.openticket.tech CNAME .

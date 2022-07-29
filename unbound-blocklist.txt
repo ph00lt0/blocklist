@@ -15463,3 +15463,4 @@ local-zone: "quiety.themetags.com." always_null
 local-zone: "themetags.com." always_null
 local-zone: "hyp01.hypotheker.nl." always_null
 local-zone: "metrics.kmsmep.com." always_null
+local-zone: "cookies.openticket.tech." always_null

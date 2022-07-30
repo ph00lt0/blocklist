@@ -15926,3 +15926,4 @@ glassdoor.*##.hardsellOverlay
 ||insightsoftware.com^
 ||dbxtra.com^
 ||gotomypc.com^
+||.realvnc.com^

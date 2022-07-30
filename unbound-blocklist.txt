@@ -14097,7 +14097,7 @@ local-zone: "cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com." alw
 # allow cloudflare.com reason: not a tracker
 # allow cloudflare.net reason: CDN
 local-zone: "cloudimg.io." always_null
-local-zone: "cloudinary.net." always_null
+# allow cloudinary.net reason: CDN
 local-zone: "cloudiq.com." always_null
 local-zone: "cloudlogobox.com." always_null
 local-zone: "clrstm.com." always_null

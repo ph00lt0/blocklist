@@ -14204,7 +14204,7 @@
 ! allow cloudflare.com reason: not a tracker
 ! allow cloudflare.net reason: CDN
 0.0.0.0 cloudimg.io
-0.0.0.0 cloudinary.net
+! allow cloudinary.net reason: CDN
 0.0.0.0 cloudiq.com
 0.0.0.0 cloudlogobox.com
 0.0.0.0 clrstm.com

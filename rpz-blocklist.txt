@@ -14096,7 +14096,7 @@ cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com CNAME .
 ; allow cloudflare.com reason: not a tracker
 ; allow cloudflare.net reason: CDN
 cloudimg.io CNAME .
-cloudinary.net CNAME .
+; allow cloudinary.net reason: CDN
 cloudiq.com CNAME .
 cloudlogobox.com CNAME .
 clrstm.com CNAME .

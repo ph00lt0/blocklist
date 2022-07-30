@@ -14522,7 +14522,7 @@ $removeparam=engagement_type
 @@||cloudflare.com^  # not a tracker
 @@||cloudflare.net^  # CDN
 ||cloudimg.io^
-||cloudinary.net^
+@@||cloudinary.net^  # CDN
 ||cloudiq.com^
 ||cloudlogobox.com^
 ||clrstm.com^

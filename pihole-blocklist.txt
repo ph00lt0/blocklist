@@ -15606,7 +15606,7 @@
 0.0.0.0 insightsoftware.com
 0.0.0.0 dbxtra.com
 0.0.0.0 gotomypc.com
-0.0.0.0 .realvnc.com
+0.0.0.0 realvnc.com
 0.0.0.0 chatbot-cdn.lmiutil.com
 0.0.0.0 logmeinrescue.com
 0.0.0.0 get.gotomypc.com

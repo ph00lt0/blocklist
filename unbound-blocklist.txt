@@ -15501,7 +15501,7 @@ local-zone: "answerrocket.com." always_null
 local-zone: "insightsoftware.com." always_null
 local-zone: "dbxtra.com." always_null
 local-zone: "gotomypc.com." always_null
-local-zone: ".realvnc.com." always_null
+local-zone: "realvnc.com." always_null
 local-zone: "chatbot-cdn.lmiutil.com." always_null
 local-zone: "logmeinrescue.com." always_null
 local-zone: "get.gotomypc.com." always_null

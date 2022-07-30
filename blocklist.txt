@@ -15926,7 +15926,7 @@ glassdoor.*##.hardsellOverlay
 ||insightsoftware.com^
 ||dbxtra.com^
 ||gotomypc.com^
-||.realvnc.com^
+||realvnc.com^
 ||chatbot-cdn.lmiutil.com^
 ||logmeinrescue.com^
 ||get.gotomypc.com^

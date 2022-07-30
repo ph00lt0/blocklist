@@ -15937,3 +15937,4 @@ glassdoor.*##.hardsellOverlay
 ||aeroadmin.com^
 ||iperiusremote.com^
 ||anyviewer.com^
+||litemanager.com^

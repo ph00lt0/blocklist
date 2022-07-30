@@ -15980,3 +15980,4 @@ www.lifewire.com###onetrust-consent-sdk
 ||www.truecaller.com^
 ||app-ads-txt.com^
 ||nlklant.com^
+||facebooknlbellen.blogspot.com/?m=1^

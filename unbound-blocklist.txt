@@ -15554,3 +15554,4 @@ local-zone: "contactnummerbellen.com." always_null
 local-zone: "www.truecaller.com." always_null
 local-zone: "app-ads-txt.com." always_null
 local-zone: "nlklant.com." always_null
+local-zone: "facebooknlbellen.blogspot.com/?m=1." always_null

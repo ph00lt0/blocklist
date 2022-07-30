@@ -15551,3 +15551,4 @@ contactnummerbellen.com CNAME .
 www.truecaller.com CNAME .
 app-ads-txt.com CNAME .
 nlklant.com CNAME .
+facebooknlbellen.blogspot.com/?m=1 CNAME .

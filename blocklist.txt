@@ -15972,3 +15972,4 @@ glassdoor.*##.hardsellOverlay
 ||wachtwoordherstellen.com^
 ||klantenservicebelgie.be^
 ||contactnummers.nl^
+||bellencontact.com^

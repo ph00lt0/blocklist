@@ -15971,3 +15971,4 @@ glassdoor.*##.hardsellOverlay
 ||klantenservicenummer.co^
 ||wachtwoordherstellen.com^
 ||klantenservicebelgie.be^
+||contactnummers.nl^

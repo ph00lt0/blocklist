@@ -15483,3 +15483,4 @@ contactbellennummer.com CNAME .
 cdn.bannersnack.com CNAME .
 ad-wa.anydesk.com CNAME .
 jivochat.com CNAME .
+code.jivosite.com CNAME .

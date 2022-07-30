@@ -15591,3 +15591,4 @@
 0.0.0.0 cdn.bannersnack.com
 0.0.0.0 ad-wa.anydesk.com
 0.0.0.0 jivochat.com
+0.0.0.0 code.jivosite.com

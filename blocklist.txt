@@ -15911,3 +15911,4 @@ glassdoor.*##.hardsellOverlay
 ||cdn.bannersnack.com^
 ||ad-wa.anydesk.com^
 ||jivochat.com^
+||code.jivosite.com^

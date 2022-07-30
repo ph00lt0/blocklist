@@ -15927,3 +15927,4 @@ glassdoor.*##.hardsellOverlay
 ||dbxtra.com^
 ||gotomypc.com^
 ||.realvnc.com^
+||chatbot-cdn.lmiutil.com^

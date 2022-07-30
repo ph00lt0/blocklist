@@ -7285,7 +7285,7 @@ armemberplugin.com##.social-share-icons-list
 ||email.cgroup.online^
 ||autocomplete.willhaben.at^
 ||assistent.tst.kpn.com^
-||fast.wistia.net^
+@@||fast.wistia.net^  # video cdn
 ||cnpmjs.org^
 ||ap01.net^
 ||ageverify.co^

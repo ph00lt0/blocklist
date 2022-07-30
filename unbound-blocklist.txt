@@ -6944,7 +6944,7 @@ local-zone: "internaltestego.netlify.com." always_null
 local-zone: "email.cgroup.online." always_null
 local-zone: "autocomplete.willhaben.at." always_null
 local-zone: "assistent.tst.kpn.com." always_null
-local-zone: "fast.wistia.net." always_null
+# allow fast.wistia.net reason: video cdn
 local-zone: "cnpmjs.org." always_null
 local-zone: "ap01.net." always_null
 local-zone: "ageverify.co." always_null

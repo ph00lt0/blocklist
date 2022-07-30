@@ -6943,7 +6943,7 @@ internaltestego.netlify.com CNAME .
 email.cgroup.online CNAME .
 autocomplete.willhaben.at CNAME .
 assistent.tst.kpn.com CNAME .
-fast.wistia.net CNAME .
+; allow fast.wistia.net reason: video cdn
 cnpmjs.org CNAME .
 ap01.net CNAME .
 ageverify.co CNAME .

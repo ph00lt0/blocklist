@@ -15479,3 +15479,4 @@ local-zone: "livechat.zaurus.io." always_null
 local-zone: "events.taylorandfrancis.com." always_null
 local-zone: "beacon-eu.hosted.exlibrisgroup.com." always_null
 local-zone: "distillery.wistia.com." always_null
+local-zone: "pipedream.wistia.com." always_null

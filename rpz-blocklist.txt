@@ -15478,3 +15478,4 @@ livechat.zaurus.io CNAME .
 events.taylorandfrancis.com CNAME .
 beacon-eu.hosted.exlibrisgroup.com CNAME .
 distillery.wistia.com CNAME .
+pipedream.wistia.com CNAME .

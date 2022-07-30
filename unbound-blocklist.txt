@@ -15543,3 +15543,4 @@ local-zone: "contactmeetnl.com." always_null
 local-zone: "contactklantennummerbelgie.com." always_null
 local-zone: "contactnummernederland.nl." always_null
 local-zone: "bestand.info." always_null
+local-zone: "klantenservicenummer.co." always_null

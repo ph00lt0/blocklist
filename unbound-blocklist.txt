@@ -15498,3 +15498,4 @@ local-zone: "finereport.com." always_null
 local-zone: "integrate.io." always_null
 local-zone: "query.me." always_null
 local-zone: "answerrocket.com." always_null
+local-zone: "insightsoftware.com." always_null

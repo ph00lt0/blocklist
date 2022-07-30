@@ -15945,3 +15945,4 @@ glassdoor.*##.hardsellOverlay
 ||islonline.net^
 ||islonline.com^
 ||connectwise.com^
+||zohotagmanager.cdn.pagesense.io^

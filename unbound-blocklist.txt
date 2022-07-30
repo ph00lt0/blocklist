@@ -15520,3 +15520,4 @@ local-zone: "remotepc.com." always_null
 local-zone: "islonline.net." always_null
 local-zone: "islonline.com." always_null
 local-zone: "connectwise.com." always_null
+local-zone: "zohotagmanager.cdn.pagesense.io." always_null

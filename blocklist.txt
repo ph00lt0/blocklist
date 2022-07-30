@@ -15908,3 +15908,4 @@ glassdoor.*##.hardsellOverlay
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
 ||contactbellennummer.com^
+||cdn.bannersnack.com^

@@ -970,7 +970,7 @@ metrics.ionos.com CNAME .
 events.api.godaddy.com CNAME .
 geolocation.onetrust.com CNAME .
 ; allow fast.wistia.com reason: video CDN
-wistia.com CNAME .
+; allow wistia.com reason: video CDN
 js.hsforms.net CNAME .
 a.klaviyo.com CNAME .
 o22319.ingest.sentry.io CNAME .

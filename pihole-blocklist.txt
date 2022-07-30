@@ -1006,7 +1006,7 @@
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 geolocation.onetrust.com
 ! allow fast.wistia.com reason: video CDN
-0.0.0.0 wistia.com
+! allow wistia.com reason: video CDN
 0.0.0.0 js.hsforms.net
 0.0.0.0 a.klaviyo.com
 0.0.0.0 o22319.ingest.sentry.io

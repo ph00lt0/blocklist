@@ -1009,7 +1009,7 @@
 ||events.api.godaddy.com^
 ||geolocation.onetrust.com^
 @@||fast.wistia.com^  # video CDN
-||wistia.com^
+@@||wistia.com^  # video CDN
 ||js.hsforms.net^
 ||a.klaviyo.com^
 ||o22319.ingest.sentry.io^

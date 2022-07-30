@@ -971,7 +971,7 @@ local-zone: "metrics.ionos.com." always_null
 local-zone: "events.api.godaddy.com." always_null
 local-zone: "geolocation.onetrust.com." always_null
 # allow fast.wistia.com reason: video CDN
-local-zone: "wistia.com." always_null
+# allow wistia.com reason: video CDN
 local-zone: "js.hsforms.net." always_null
 local-zone: "a.klaviyo.com." always_null
 local-zone: "o22319.ingest.sentry.io." always_null

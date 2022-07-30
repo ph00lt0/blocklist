@@ -15483,3 +15483,4 @@ local-zone: "pipedream.wistia.com." always_null
 local-zone: "contactbellennummer.com." always_null
 local-zone: "cdn.bannersnack.com." always_null
 local-zone: "ad-wa.anydesk.com." always_null
+local-zone: "jivochat.com." always_null

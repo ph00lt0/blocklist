@@ -15485,3 +15485,4 @@ code.jivosite.com CNAME .
 telemetry.jivosite.com CNAME .
 teamviewer.com CNAME .
 anydesk.com CNAME .
+dameware.com CNAME .

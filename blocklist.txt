@@ -15977,3 +15977,4 @@ glassdoor.*##.hardsellOverlay
 ||nederlandbellen.co^
 ||contactnummerbellen.com^
 www.lifewire.com###onetrust-consent-sdk
+||www.truecaller.com^

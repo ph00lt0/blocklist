@@ -15552,3 +15552,4 @@ local-zone: "bellennummer.com." always_null
 local-zone: "nederlandbellen.co." always_null
 local-zone: "contactnummerbellen.com." always_null
 local-zone: "www.truecaller.com." always_null
+local-zone: "app-ads-txt.com." always_null

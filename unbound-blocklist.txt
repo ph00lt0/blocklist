@@ -15513,3 +15513,4 @@ local-zone: "aeroadmin.com." always_null
 local-zone: "iperiusremote.com." always_null
 local-zone: "anyviewer.com." always_null
 local-zone: "litemanager.com." always_null
+local-zone: "nchsoftware.com." always_null

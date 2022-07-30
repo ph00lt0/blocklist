@@ -15938,3 +15938,4 @@ glassdoor.*##.hardsellOverlay
 ||iperiusremote.com^
 ||anyviewer.com^
 ||litemanager.com^
+||nchsoftware.com^

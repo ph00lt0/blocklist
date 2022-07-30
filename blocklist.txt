@@ -15976,3 +15976,4 @@ glassdoor.*##.hardsellOverlay
 ||bellennummer.com^
 ||nederlandbellen.co^
 ||contactnummerbellen.com^
+www.lifewire.com###onetrust-consent-sdk

@@ -12,6 +12,7 @@ This blocklists aims at blocking:
 - Consent/cookie managment platforms
 - Malware
 - Spyware
+- Remote Desktop Software
 <br>
 
 Depending on where the list is used it will also block:

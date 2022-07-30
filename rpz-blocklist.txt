@@ -15539,3 +15539,4 @@ amazonnummernederland.com CNAME .
 contactmeetnl.com CNAME .
 contactklantennummerbelgie.com CNAME .
 contactnummernederland.nl CNAME .
+bestand.info CNAME .

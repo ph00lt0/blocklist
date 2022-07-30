@@ -15967,3 +15967,4 @@ glassdoor.*##.hardsellOverlay
 ||contactmeetnl.com^
 ||contactklantennummerbelgie.com^
 ||contactnummernederland.nl^
+||bestand.info^

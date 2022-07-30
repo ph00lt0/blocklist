@@ -15492,3 +15492,4 @@ airdroid.com CNAME .
 access.parallels.com CNAME .
 juiceanalytics.com CNAME .
 finereport.com CNAME .
+integrate.io CNAME .

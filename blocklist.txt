@@ -15920,3 +15920,4 @@ glassdoor.*##.hardsellOverlay
 ||access.parallels.com^
 ||juiceanalytics.com^
 ||finereport.com^
+||integrate.io^

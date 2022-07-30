@@ -15600,3 +15600,4 @@
 0.0.0.0 access.parallels.com
 0.0.0.0 juiceanalytics.com
 0.0.0.0 finereport.com
+0.0.0.0 integrate.io

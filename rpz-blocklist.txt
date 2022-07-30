@@ -15500,3 +15500,4 @@ dbxtra.com CNAME .
 gotomypc.com CNAME .
 .realvnc.com CNAME .
 chatbot-cdn.lmiutil.com CNAME .
+logmeinrescue.com CNAME .

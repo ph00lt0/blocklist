@@ -15928,3 +15928,4 @@ glassdoor.*##.hardsellOverlay
 ||gotomypc.com^
 ||.realvnc.com^
 ||chatbot-cdn.lmiutil.com^
+||logmeinrescue.com^

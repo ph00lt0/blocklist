@@ -1008,7 +1008,7 @@
 ||metrics.ionos.com^
 ||events.api.godaddy.com^
 ||geolocation.onetrust.com^
-||fast.wistia.com^
+@@||fast.wistia.com^  # video CDN
 ||wistia.com^
 ||js.hsforms.net^
 ||a.klaviyo.com^

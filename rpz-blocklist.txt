@@ -969,7 +969,7 @@ ad.doubleclick.net CNAME .
 metrics.ionos.com CNAME .
 events.api.godaddy.com CNAME .
 geolocation.onetrust.com CNAME .
-fast.wistia.com CNAME .
+; allow fast.wistia.com reason: video CDN
 wistia.com CNAME .
 js.hsforms.net CNAME .
 a.klaviyo.com CNAME .

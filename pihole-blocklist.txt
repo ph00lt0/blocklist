@@ -15589,3 +15589,4 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 contactbellennummer.com
 0.0.0.0 cdn.bannersnack.com
+0.0.0.0 ad-wa.anydesk.com

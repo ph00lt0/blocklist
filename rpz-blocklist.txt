@@ -15546,3 +15546,4 @@ klantenservicebelgie.be CNAME .
 contactnummers.nl CNAME .
 bellencontact.com CNAME .
 bellennummer.com CNAME .
+nederlandbellen.co CNAME .

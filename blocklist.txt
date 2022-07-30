@@ -15942,3 +15942,4 @@ glassdoor.*##.hardsellOverlay
 ||showmypc.com^
 ||remoteutilities.com^
 ||remotepc.com^
+||islonline.net^

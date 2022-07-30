@@ -13,6 +13,7 @@ This blocklists aims at blocking:
 - Malware
 - Spyware
 - Remote Desktop Software
+- Scam and fraud
 <br>
 
 Depending on where the list is used it will also block:

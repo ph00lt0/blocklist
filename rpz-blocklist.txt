@@ -15497,3 +15497,4 @@ query.me CNAME .
 answerrocket.com CNAME .
 insightsoftware.com CNAME .
 dbxtra.com CNAME .
+gotomypc.com CNAME .

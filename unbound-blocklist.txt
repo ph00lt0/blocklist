@@ -15500,3 +15500,4 @@ local-zone: "query.me." always_null
 local-zone: "answerrocket.com." always_null
 local-zone: "insightsoftware.com." always_null
 local-zone: "dbxtra.com." always_null
+local-zone: "gotomypc.com." always_null

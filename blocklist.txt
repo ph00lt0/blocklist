@@ -15916,3 +15916,4 @@ glassdoor.*##.hardsellOverlay
 ||dameware.com^
 ||remotedesktop.google.com^
 ||splashtop.com^
+||airdroid.com^

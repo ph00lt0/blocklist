@@ -15924,3 +15924,4 @@ glassdoor.*##.hardsellOverlay
 ||query.me^
 ||answerrocket.com^
 ||insightsoftware.com^
+||dbxtra.com^

@@ -15936,3 +15936,4 @@ glassdoor.*##.hardsellOverlay
 ||dwservice.net^
 ||aeroadmin.com^
 ||iperiusremote.com^
+||anyviewer.com^

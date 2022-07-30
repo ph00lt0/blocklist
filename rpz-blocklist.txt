@@ -15518,3 +15518,9 @@ islonline.net CNAME .
 islonline.com CNAME .
 connectwise.com CNAME .
 zohotagmanager.cdn.pagesense.io CNAME .
+assist.zoho.eu CNAME .
+assist.zoho.com CNAME .
+assist.zoho.in CNAME .
+assist.zoho.cn CNAME .
+assist.zoho.com.au CNAME .
+assist.zoho.jp CNAME .

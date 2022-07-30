@@ -15521,3 +15521,9 @@ local-zone: "islonline.net." always_null
 local-zone: "islonline.com." always_null
 local-zone: "connectwise.com." always_null
 local-zone: "zohotagmanager.cdn.pagesense.io." always_null
+local-zone: "assist.zoho.eu." always_null
+local-zone: "assist.zoho.com." always_null
+local-zone: "assist.zoho.in." always_null
+local-zone: "assist.zoho.cn." always_null
+local-zone: "assist.zoho.com.au." always_null
+local-zone: "assist.zoho.jp." always_null

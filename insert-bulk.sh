@@ -21,7 +21,7 @@ for domain in ${domains//,/ }; do
     declare unboundBlocklist="./unbound-blocklist.txt"
 
     declare blocklistRule="||$domain^"
-    declare allowedRule="@@||$domain^"
+    declare allowedRule="||$domain^\$badfilter"
     declare piholeBlocklistRule="0.0.0.0 $domain"
     declare rpzBlocklistRule="$domain CNAME ."
     declare unboundBlocklistRule="local-zone: \"$domain.\" always_null"

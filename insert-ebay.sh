@@ -8,7 +8,7 @@ declare piholeBlocklist="./pihole-blocklist.txt"
 declare countryCode=$(echo $tld | sed 's/.*\.//') # remove .com, .co etc
 
 declare domains=(
-    "pulsar.ebay.${tld}" 
+    "pulsar.ebay.${tld}"
     "edgetrksvc.ebay.${tld}"
     "ocsrest.ebay.${tld}"
     "devicebind.ebay.${tld}"
@@ -22,8 +22,8 @@ declare domains=(
 for domain in "${domains[@]}"; do
     echo $domain
     declare blocklistRule="||$domain^"
-    declare allowedRule="@@||$domain^" 
-    declare piholeBlocklistRule="0.0.0.0 $domain" 
+    declare allowedRule="||$domain^\$badfilter"
+    declare piholeBlocklistRule="0.0.0.0 $domain"
 
     # Check whitelist
     if grep -q $allowedRule "$blocklist"; then
@@ -32,16 +32,16 @@ for domain in "${domains[@]}"; do
     fi
 
     # Only check for default blocklist as pihole list should contain same domains.
-    if grep -q $blocklistRule "$blocklist"; then 
+    if grep -q $blocklistRule "$blocklist"; then
             echo "$domain rule already present"
     else
         echo "checking for updates..."
             git pull origin master && git pull github master
         if grep -q $blocklistRule "$blocklist"; then
             echo "$domain rule added before you"
-        else    
+        else
             printf "$blocklistRule\n" >> "$blocklist"
-            printf "$piholeBlocklistRule\n" >> "$piholeBlocklist" 
+            printf "$piholeBlocklistRule\n" >> "$piholeBlocklist"
         fi
     fi
 done

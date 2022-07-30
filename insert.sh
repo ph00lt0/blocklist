@@ -18,7 +18,7 @@ declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https://
 declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 
 declare blocklistRule="||$domain^"
-declare allowedRule="@@||$domain^"
+declare allowedRule="||$domain^\$badfilter"
 declare piholeBlocklistRule="0.0.0.0 $domain"
 declare rpzBlocklistRule="$domain CNAME ."
 declare unboundBlocklistRule="local-zone: \"$domain.\" always_null"

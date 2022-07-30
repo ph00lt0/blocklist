@@ -35,6 +35,7 @@ else
   declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
 
   declare blocklistRule="||$domain^"
+  declare allowedRule="||$domain^\$badfilter"
   declare piholeBlocklistRule="0.0.0.0 $domain"
   declare rpzBlocklistRule="$domain CNAME ."
   declare unboundBlocklistRule="local-zone: \"$domain.\" always_null"
@@ -45,7 +46,7 @@ else
       git pull origin master && git pull github master
 
       if grep -q $blocklistRule "$blocklist"; then
-          sed -i '' "s/$blocklistRule/@@$blocklistRule  # $reason/g" $blocklist
+          sed -i '' "s/$blocklistRule/$allowedRule  # $reason/g" $blocklist
           sed -i '' "s/$piholeBlocklistRule/! allow $domain reason: $reason/g" $piholeBlocklist
           sed -i '' "s/$rpzBlocklistRule/; allow $domain reason: $reason/g" $rpzBlocklist
           sed -i '' "s/$unboundBlocklistRule/# allow $domain reason: $reason/g" $unboundBlocklist

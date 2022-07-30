@@ -222,49 +222,49 @@
 ||accessibilityinsights.io^
 ||static-eu.payments-amazon.com^
 ||static.payments-amazon.com^
-@@||m.media-amazon.com^  # Required for loading of images on amazon.com
+||m.media-amazon.com^$badfilter  # Required for loading of images on amazon.com
 ||payments-*.amazon.com^
 ||payments.amazon.com^
 ||pndsn.com^
 ||files.acrobat.com^
 ||createpdf.acrobat.com^
-@@||adobe.io^  # rdc.adobe.io is used for download of software
+||adobe.io^$badfilter  # rdc.adobe.io is used for download of software
 ||genuine.adobe.com^
-@@||itunes.com^  # Required for app store and apple music
-@@||itunes.apple.com^  # Required for app store and apple music
-@@||downloaddispatch.itunes.apple.com^
-@@||apple.co^  # not a tracker
-@@||aaplimg.com^  # not a tracker
+||itunes.com^$badfilter  # Required for app store and apple music
+||itunes.apple.com^$badfilter  # Required for app store and apple music
+||downloaddispatch.itunes.apple.com^$badfilter
+||apple.co^$badfilter  # not a tracker
+||aaplimg.com^$badfilter  # not a tracker
 ||weather-analytics-events.apple.com^
 ||apple.comscoreresearch.com^
 ||news-edge.apple.com^
 ||news-events.apple.com^
 ||apple.news^
-@@||apple-dns.net^  # not a tracke
+||apple-dns.net^$badfilter  # not a tracke
 ||xp.apple.com^
-@@||help.apple.com^  # Not a tracker
+||help.apple.com^$badfilter  # Not a tracker
 ||iphonesubmissions.apple.com^
-@@||icloud-content.com^  # Not a tracker
-@@||me.com^  # Required for icloud
-@@||apple-cloudkit.com^  # icloud
+||icloud-content.com^$badfilter  # Not a tracker
+||me.com^$badfilter  # Required for icloud
+||apple-cloudkit.com^$badfilter  # icloud
 ||valid.apple.com^
-@@||gateway.icloud.com^  # Not a tracker
-@@||sonos-music.apple.com^  # not a tracker
+||gateway.icloud.com^$badfilter  # Not a tracker
+||sonos-music.apple.com^$badfilter  # not a tracker
 ||pancake.apple.com^
 ||ess.apple.com^
-@@||ls.apple.com^  # apple maps
+||ls.apple.com^$badfilter  # apple maps
 ||lcdn-locator.apple.com^
 ||lcdn-registration.apple.com^
 ||s-loc.apple.com^
-@@||ls.apple.com.akadns.net^  # apple maps
-@@||ls.apple.com.edgesuite.net^  # apple maps
+||ls.apple.com.akadns.net^$badfilter  # apple maps
+||ls.apple.com.edgesuite.net^$badfilter  # apple maps
 ||reserve-prime.apple.com^
 ||push-apple.com.akadns.net^
 ||push.apple.com.akadns.net^
 ||push.apple.com^
 ||smp-device-content.apple.com^
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
-@@||graph.blendle.com^  # Required for app to load content
+||graph.blendle.com^$badfilter  # Required for app to load content
 ||events.blendle.com^
 ||events-external.blendle.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -278,7 +278,7 @@
 ||adjust.com^
 ||app.adjust.com^
 ||dpgmmservices.nl^
-@@||myprivacy.dpgmedia.nl^  # Stops all websites from loading.
+||myprivacy.dpgmedia.nl^$badfilter  # Stops all websites from loading.
 ||cmp.dpgmedia.nl^
 ||cmp.pzc.nl^
 ||cmp.volkskrant.nl^
@@ -322,7 +322,7 @@
 ||awvn.nl^
 ||nldigital.nl^
 ||onderzoekfilter.nl^
-@@||aspnetcdn.com^  # Not a tracker
+||aspnetcdn.com^$badfilter  # Not a tracker
 ||juniormie.nl^
 ||smartonderzoek.com^
 ||artoo.nl^
@@ -429,11 +429,11 @@
 ||customsearch.ai
 ||aticdn.net^
 ||nationbuilder.com^
-@@||paddle.com^  # Required for purchases of app licenses
+||paddle.com^$badfilter  # Required for purchases of app licenses
 ||paddleapi.com^
 ||addevweb.com^
 ||savemysales.co^
-@@||shortpixel.ai^  # cdn
+||shortpixel.ai^$badfilter  # cdn
 ||xspdf.com^
 ||admob-app-id-*.firebaseio.com^
 ||mobilenations.com^
@@ -595,24 +595,24 @@
 ||collector.githubapp.com^
 ||ip-geolocation.netcraft.com^
 ||facebook.net^
-@@||fbstatic-a.akamaihd.net^  # CDN
-@@||fbcdn-profile-a.akamaihd.net^  # CDN
-@@||fbcdn-sphotos-a-a.akamaihd.net^  # CDN
-@@||fbcdn-creative-a.akamaihd.net^  # CDN
+||fbstatic-a.akamaihd.net^$badfilter  # CDN
+||fbcdn-profile-a.akamaihd.net^$badfilter  # CDN
+||fbcdn-sphotos-a-a.akamaihd.net^$badfilter  # CDN
+||fbcdn-creative-a.akamaihd.net^$badfilter  # CDN
 ||fbexternal-a.akamaihd.net^
-@@||fbcdn-sphotos-b-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-c-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-d-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-e-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-f-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-g-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-h-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-i-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-j-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-k-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-l-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-m-a.akamaihd.net^  # Photos CDN
-@@||fbcdn-sphotos-n-a.akamaihd.net^  # Photos CDN
+||fbcdn-sphotos-b-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-c-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-d-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-e-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-f-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-g-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-h-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-i-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-j-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-k-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-l-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-m-a.akamaihd.net^$badfilter  # Photos CDN
+||fbcdn-sphotos-n-a.akamaihd.net^$badfilter  # Photos CDN
 ||fonts.gstatic.com^
 ||myfonts.net^
 ||fonts.net^
@@ -624,9 +624,9 @@
 ||userlocation.googleapis.com^
 ||*-pa.googleapis.com^$third-party
 ||googleadservices.com^
-@@||mtalk.google.com^  # Google Cloud Messaging
+||mtalk.google.com^$badfilter  # Google Cloud Messaging
 ||smartlock.google.com^
-@@||firebaseinstallations.googleapis.com^  # Required for notificiations
+||firebaseinstallations.googleapis.com^$badfilter  # Required for notificiations
 ||fundingchoicesmessages.google.com^
 ||www.googleadservices.com^
 ||googleadapis.l.google.com^
@@ -680,7 +680,7 @@
 ||win10.ipv6.microsoft.com^
 ||v10.vortex-win.data.microsoft.com^
 ||geo-prod.do.dsp.mp.microsoft.com^
-@@||dl.delivery.mp.microsoft.com^  # CDN for Windows Updates
+||dl.delivery.mp.microsoft.com^$badfilter  # CDN for Windows Updates
 ||clientconfig.passport.net^
 ||device-metrics-us.amazon.com^
 ||kv101-prod.do.dsp.mp.microsoft.com^
@@ -697,9 +697,9 @@
 ||s3.symcb.com^
 ||s4.symcb.com^
 ||s5.symcb.com^
-@@||img-s-msn-com.akamaized.net^  # CDN for images  # CDN for images MSN
+||img-s-msn-com.akamaized.net^$badfilter  # CDN for images  # CDN for images MSN
 ||static-spartan-neu-s-msn-com.akamaized.net^
-@@||assets.msn.com^  # CDN
+||assets.msn.com^$badfilter  # CDN
 ||srtb.msn.com^
 ||otf.msn.com^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
@@ -926,7 +926,7 @@
 ||rosetta.prod.ps.welt.de^
 ||hua-production.la.welt.de^
 ||eu.webhook.logs.insight.rapid7.com^
-@@||rapid7.com^  # not a tracker
+||rapid7.com^$badfilter  # not a tracker
 ||greylabeldelivery.com^
 ||gdpr-tcfv2.sp-prod.net^
 ||sp-prod.net^
@@ -979,8 +979,8 @@
 ||prd.jwpltx.com^
 ||munchkin.marketo.net^
 ||snap.licdn.com^
-@@||media-exp2.licdn.com^ # Images CDN of LinkedIn
-@@||dms.licdn.com # Images CDN of LinkedIn
+||media-exp2.licdn.com^$badfilter # Images CDN of LinkedIn
+||dms.licdn.com # Images CDN of LinkedIn
 ||gmass.co^
 ||tallyfy.com^
 ||appdynamics.com^
@@ -1008,8 +1008,8 @@
 ||metrics.ionos.com^
 ||events.api.godaddy.com^
 ||geolocation.onetrust.com^
-@@||fast.wistia.com^  # video CDN
-@@||wistia.com^  # video CDN
+||fast.wistia.com^$badfilter  # video CDN
+||wistia.com^$badfilter  # video CDN
 ||js.hsforms.net^
 ||a.klaviyo.com^
 ||o22319.ingest.sentry.io^
@@ -1117,7 +1117,7 @@
 ||consentmanager.net^
 ||axeptio.eu^
 ||www.axeptio.eu^
-@@||d3e54v103j8qbb.cloudfront.net^  # not a tracker anymore
+||d3e54v103j8qbb.cloudfront.net^$badfilter  # not a tracker anymore
 ||content2.nrc.nl^
 ||vwdservices.com^
 ||charting.vwdservices.com^
@@ -1494,12 +1494,12 @@
 ||proctorio.zendesk.com^
 ||proctor.io^
 ||www.teamviewer.com^
-@@||teamviewer.com^  # Please don't use this crap but we're not blocking websites.
+||teamviewer.com^$badfilter  # Please don't use this crap but we're not blocking websites.
 ||samsappsbn.vo.llnwd.net^
 ||vgz.my.salesforce.com^
 ||otag.h2os.com^
 ||gsa.apple.com^
-@@||l.google.com^  # CNAME for many google services
+||l.google.com^$badfilter  # CNAME for many google services
 ||ws-mt1.pusher.com^
 ||oneclient.sfx.ms^
 ||p3a.brave.com^
@@ -1508,7 +1508,7 @@
 ||grant.rewards.brave.com^
 ||variations.brave.com^
 ||ads-serve.brave.com^
-@@||sync-v2.brave.com^  # Not a tracker
+||sync-v2.brave.com^$badfilter  # Not a tracker
 ||firebase-settings.crashlytics.com^
 ||cdn.syndication.twimg.com^
 ||pbs.twimg.com^
@@ -1530,7 +1530,7 @@
 ||prg.smartadserver.com^
 ||g.whatsapp.net^
 ||c1.iggcdn.com^
-@@||iggcdn.com^  # Not a tracker
+||iggcdn.com^$badfilter  # Not a tracker
 ||omnisnippet1.com^
 ||cdn.refersion.com^
 ||pxucdn.com^
@@ -1590,7 +1590,7 @@
 ||styria-digital.com^
 ||yoc-adserver.com^
 ||plau.devitjobs.uk^
-@@||s.as207960.net^  # Not a tracker, static files
+||s.as207960.net^$badfilter  # Not a tracker, static files
 ||e.customeriomail.com^
 ||counter.yadro.ru^
 ||notix.io^
@@ -1890,10 +1890,10 @@
 ||metrics.groene.nl^
 ||aswpsdkeu.com^
 ||ws.pubble.nl^
-@@||waws-prod-am2-261.cloudapp.net^  # Not just a tracker required to load content
+||waws-prod-am2-261.cloudapp.net^$badfilter  # Not just a tracker required to load content
 ||varnish.qualifio.com^
 ||gadgets.buienradar.nl^
-@@||abs.twimg.com^  # Breaks twitter.com
+||abs.twimg.com^$badfilter  # Breaks twitter.com
 ||raygun.com^
 ||raygun.io^
 ||raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com^
@@ -2096,7 +2096,7 @@
 ||www.currency.me.uk^
 ||exchangerates.org.uk^
 ||www.exchangerates.org.uk^
-@@||c0.wp.com^  # CDN
+||c0.wp.com^$badfilter  # CDN
 ||cmp.aftenposten.no^
 ||mm.aftenposten.no^
 ||jssdk.touchpoints.schibsted.media^
@@ -2105,7 +2105,7 @@
 ||comments-api.i.bt.no^
 ||smartplugin.youbora.com^
 ||youbora.com^
-@@||bt.no^  # Not itself the tracker
+||bt.no^$badfilter  # Not itself the tracker
 ||cdn.stream.schibsted.media^
 ||log.medietall.no^
 ||medietall.no^
@@ -2115,7 +2115,7 @@
 ||cis.schibsted.com^
 ||schibsted.io^
 ||cogwheel.inventory.schibsted.io^
-@@||cdn.bt.no^  # Not only trackers
+||cdn.bt.no^$badfilter  # Not only trackers
 ||session-service.payment.schibsted.no^
 ||schibsted.no^
 ||cm.aftenposten.no^
@@ -2153,7 +2153,7 @@
 ||app-us1.com^
 ||qodeinteractive.com^
 ||startit.qodeinteractive.com^
-@@||s0.wp.com^  # Required to load static
+||s0.wp.com^$badfilter  # Required to load static
 ||feedspot.com^
 ||blog.feedspot.com^
 ||blog-cdn.feedspot.com^
@@ -2367,12 +2367,12 @@
 ||analytics.knmp.nl^
 ||cookieconsent.vruchtvlees.com^
 ||analytics.redfrog.nl^
-@@||res.cloudinary.com^  # CDN
-@@||cloudinary.com^  # CDN
+||res.cloudinary.com^$badfilter  # CDN
+||cloudinary.com^$badfilter  # CDN
 ||vfpf1.expoints.nl^
 ||expoints.nl^
 ||myprivacy.dpgmedia.net^
-@@||d33wubrfki0l68.cloudfront.net^  # Required for dnspref.com
+||d33wubrfki0l68.cloudfront.net^$badfilter  # Required for dnspref.com
 ||ivory.studio^
 ||projects.ivory.studio^
 ||zonmw.containers.piwik.pro^
@@ -2581,7 +2581,7 @@
 ||c.oracleinfinity.io^
 ||investis.com^
 ||irs.tools.investis.com^
-@@||ip-only.net^  # Required for qbrick.com video player
+||ip-only.net^$badfilter  # Required for qbrick.com video player
 ||notification.qbrick.com^
 ||bowencraggs.com^
 ||app.bowencraggs.com^
@@ -2640,14 +2640,14 @@
 ||report.23video.com^
 ||4.0p10n000000in97saa.00d0n000000gtiyuay.gslb.siteforce.com^
 ||cachev2.sparnord.dk^
-@@||mit.sparnord.dk^  # Required for loading of content
+||mit.sparnord.dk^$badfilter  # Required for loading of content
 ||cors-proxy-service.sparnord.dk^
 ||coopcdn-res.cloudinary.com^
 ||thecooperativebank.d1.sc.omtrdc.net^
 ||yellow.co-operativebank.co.uk^
 ||light.co-operativebank.co.uk^
 ||light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com^
-@@||cdn2.hubspot.net^  # Required CDN for certain websites to load css
+||cdn2.hubspot.net^$badfilter  # Required CDN for certain websites to load css
 ||api.hubapi.com^
 ||app.hubspot.com^
 ||mypurecloud.de^
@@ -2689,7 +2689,7 @@
 ||static.ada.support^
 ||ada.support^
 ||data.guides.mailchimp.com^
-@@||d2y36twrtb17ty.cloudfront.net^  # Panopto doesn't load without session tracker.
+||d2y36twrtb17ty.cloudfront.net^$badfilter  # Panopto doesn't load without session tracker.
 ||colissimo.fr^
 ||ws.colissimo.fr^
 ||iframe.ly^
@@ -2710,7 +2710,7 @@
 ||cdn.izooto.com^
 ||embedmaker.com^
 ||widget.cloudpayments.ru^
-@@||cdn.paddle.com^  # Required for purchases of app licenses
+||cdn.paddle.com^$badfilter  # Required for purchases of app licenses
 ||feedback.developers.cloudflare.com^
 ||spn-v1.revampcdn.com^
 ||revampcdn.comrevampcdn.com^
@@ -2959,7 +2959,7 @@
 ||worldchasetag.com^
 ||i.creativecommons.org^
 ||testifier.nl^
-@@||r.testifier.nl^  # Required for androidworld.nl images
+||r.testifier.nl^$badfilter  # Required for androidworld.nl images
 ||socket.multimirror.io^
 ||multimirror.io^
 ||btloader.com^
@@ -3067,7 +3067,7 @@
 ||cdn.embedly.com^
 ||api.rollbar.com^
 ||rollbar.com^
-@@||assets.digital.coop.co.uk^  # CDN
+||assets.digital.coop.co.uk^$badfilter  # CDN
 ||swisscomag.tt.omtrdc.net^
 ||tt.omtrdc.net^
 ||monetate.net^
@@ -3144,7 +3144,7 @@
 ||secure.east2pony.com^
 ||east2pony.com^
 ||developer.livehelpnow.net^
-@@||mb.cision.com^  # Not a tracker
+||mb.cision.com^$badfilter  # Not a tracker
 ||websolutions.ne.cision.com^
 ||highcharts.com^
 ||code.highcharts.com^
@@ -3190,7 +3190,7 @@
 ||plugins.flockler.com^
 ||tarantula.hashicorp.com^
 ||o473895.ingest.sentry.io^
-@@||icm.aexp-static.com^  # Not just trackers also images loaded from this subdomain
+||icm.aexp-static.com^$badfilter  # Not just trackers also images loaded from this subdomain
 ||iwmapapi.americanexpress.com^
 ||omns.americanexpress.com^
 ||one.americanexpress.com^
@@ -3198,7 +3198,7 @@
 ||tms.americanexpress.com^
 ||www.cdn-path.com^
 ||gct.americanexpress.com^
-@@||global.americanexpress.com^  # Also required for form
+||global.americanexpress.com^$badfilter  # Also required for form
 ||apigateway.americanexpress.com^
 ||qwww.aexp-static.com^
 ||qicm.aexp-static.com^
@@ -3330,7 +3330,7 @@
 ||via.placeholder.com^
 ||services.crmservice.eu^
 ||aax-eu.amazon-adsystem.com^
-@@||fls-na.amazon.com^  # Required for loading images
+||fls-na.amazon.com^$badfilter  # Required for loading images
 ||unagi.amazon.com^
 ||sstatic1.histats.com^
 ||2cc9bcd87e4511a3759bc9299721d1609b726e59.cws.conviva.com^
@@ -3642,7 +3642,7 @@
 ||tag.clearbitscripts.com^
 ||askattest.com^
 ||c.strava.com^
-@@||cdn-goeuro.com^  # Not just tracker
+||cdn-goeuro.com^$badfilter  # Not just tracker
 ||logger.goeuro.com^
 ||a977a3e6afa6.cdn4.forter.com^
 ||d1wix2gc2cgqis.cloudfront.net^
@@ -3681,7 +3681,7 @@
 ||tapi.optimizely.com^
 ||api.ww.com^
 ||widgets.q4app.com^
-@@||s2.q4cdn.com^  # Not a tracker
+||s2.q4cdn.com^$badfilter  # Not a tracker
 ||q4app.com^
 ||scarabresearch.com^
 ||cdn.scarabresearch.com^
@@ -3689,7 +3689,7 @@
 ||comm100.com^
 ||standby.comm100vue.com^
 ||comm100vue.com^
-@@||il.ax^  # Not a tracker
+||il.ax^$badfilter  # Not a tracker
 ||partnerprogramma.bol.com^
 ||adshim.com^
 ||cdn.adshim.com^
@@ -3786,12 +3786,12 @@
 ||aiv-cdn.net^
 ||cloudfront.xp-assets.aiv-cdn.net^
 ||trinitymedia.ai^
-@@||a.fsdn.com^  # cdn
+||a.fsdn.com^$badfilter  # cdn
 ||slashdot.org^
 ||analytics.linuxjournal.com^
 ||api.b2c.com^
 ||b2c.com^
-@@||fsdn.com^  # cdn
+||fsdn.com^$badfilter  # cdn
 ||jacks.nl^
 ||oryxgaming.com^
 ||cdn.oryxgaming.com^
@@ -3840,7 +3840,7 @@
 ||o122616.ingest.sentry.io^
 ||dynamic.criteo.com^
 ||c.sf-syn.com^
-@@||connect.liblynx.com^  # Not just tracker
+||connect.liblynx.com^$badfilter  # Not just tracker
 ||d1bxh8uas1mnw7.cloudfront.net^
 ||yastatic.net^
 ||yadro.ru^
@@ -3865,22 +3865,22 @@
 ||wtcfns.hubspot.com^
 ||feedback.hubapi.com^
 ||forms.hubspot.com^
-@@||blog.hubspot.com^ # Permit blog subdomain
+||blog.hubspot.com^$badfilter # Permit blog subdomain
 ||api.hubspot.com^
 ||getsidekick.com^
 ||1962994g44.secure0082.hubspot.net^
 ||brooklynrail-web.imgix.net^
 ||appwiki.nl^
 ||d.newsletter.forbes.com^
-@@||developers.hubspot.com^  # Allow developer subdomain for api docs
-@@||static2cdn.hubspot.com^  # Allow cdn to read docs and blog
-@@||knowledge.hubspot.com^  # Allow knowledge base subdomain
+||developers.hubspot.com^$badfilter  # Allow developer subdomain for api docs
+||static2cdn.hubspot.com^$badfilter  # Allow cdn to read docs and blog
+||knowledge.hubspot.com^$badfilter  # Allow knowledge base subdomain
 ||koi-3qnciq0m5q.marketingautomation.services^
 ||debug.nordvpn.com^
 ||js.pusher.com^
 ||fonts.cdnfonts.com^
 ||cdnfonts.com^
-@@||recurly.com^  # Payment provider
+||recurly.com^$badfilter  # Payment provider
 ||chatbotprodas01.azurewebsites.net^
 ||haptikapi.com^
 ||toolassets.haptikapi.com^
@@ -3895,7 +3895,7 @@
 ||app.webreg.me^
 ||css-components.rxweb-prd.com^
 ||rxweb-prd.com^
-@@||circdatacdn.z33.web.core.windows.net^  # Required to download ICS file
+||circdatacdn.z33.web.core.windows.net^$badfilter  # Required to download ICS file
 ||tool-box.online^
 ||connectme.tool-box.online^
 ||stats.thinkprivacy.ch^
@@ -3924,7 +3924,7 @@
 ||omappapi.com^
 ||a.omappapi.com^
 ||secure.avaaz.org.dbl.spamhaus.org^
-@@||outlook.htrhosting.nl^  # Not just email tracking
+||outlook.htrhosting.nl^$badfilter  # Not just email tracking
 ||analytics.localytics.com^
 ||profile.localytics.com^
 ||xtracloud.net^
@@ -4034,7 +4034,7 @@
 ||pushowl.com^
 ||zotabox.com^
 ||static.zotabox.com^
-@@||checkout.paddle.com^  # Required for purchases of app licenses
+||checkout.paddle.com^$badfilter  # Required for purchases of app licenses
 ||o522631.ingest.sentry.io^
 ||spreedly.com^
 ||core.spreedly.com^
@@ -4110,7 +4110,7 @@
 ||gaua.hit.gemius.pl^
 ||bbg.d1.sc.omtrdc.net^
 ||gdb.voanews.com^
-@@||pangea-cms.com^  # Not just tracker
+||pangea-cms.com^$badfilter  # Not just tracker
 ||livetracker.voa.pangea-cms.com^
 ||webapi.stormgeo.com^
 ||stormgeo.com^
@@ -4234,7 +4234,7 @@
 ||growsumo.com^
 ||webflow.refersion.com^
 ||d2hrivdxn8ekm8.cloudfront.net^
-@@||datatracker.ietf.org^  # not a tracker
+||datatracker.ietf.org^$badfilter  # not a tracker
 ||engage.wixapps.net^
 ||app-ab41.marketo.com^
 ||libraries.hund.io^
@@ -4389,15 +4389,15 @@
 ||gatag.it^
 ||eu.cookie-script.com^
 ||cookie-script.com^
-@@||a.cdn-hotels.com^  # Sripts not trackers
+||a.cdn-hotels.com^$badfilter  # Sripts not trackers
 ||goaffpro.com^
 ||api-server-1.goaffpro.com^
 ||widebundle.com^
 ||socialshopwave.com^
-@@||d1um8515vdn9kb.cloudfront.net^ # Not a tracker
+||d1um8515vdn9kb.cloudfront.net^$badfilter # Not a tracker
 ||omegatheme.com^
 ||apps.omegatheme.com^
-@@||ucarecdn.com^  # CDN
+||ucarecdn.com^$badfilter  # CDN
 ||mempay.com^
 ||app.mempay.com^
 ||yotpo.com^
@@ -4429,8 +4429,8 @@
 ||odistatic.net^
 ||o828979.ingest.sentry.io^
 ||stfalcon.github.io^
-@@||gaia-acceptance-assets.otravo.com^  # Required for website to function
-@@||gaia-production-translations.otravo.com^  # Required for website to functiion
+||gaia-acceptance-assets.otravo.com^$badfilter  # Required for website to function
+||gaia-production-translations.otravo.com^$badfilter  # Required for website to functiion
 ||revy.io^
 ||api.revy.io^
 ||data.efteling.com^
@@ -4490,7 +4490,7 @@
 ||corendonairlines.api.useinsider.com^
 ||ct.pinterest.com^
 ||5308433.fls.doubleclick.net^
-@@||cf.bstatic.com^  # Content
+||cf.bstatic.com^$badfilter  # Content
 ||q-xx.bstatic.com^
 ||collector-pxikkul2rm.px-cdn.net^
 ||collector-pxikkul2rm.px-cloud.net^
@@ -4502,9 +4502,9 @@
 ||wsa1.byside.com^
 ||tms.delta.com^
 ||dmc1acwvwny3.cloudfront.net^
-@@||em-frontend-assets.airtrfx.com^  # Content
+||em-frontend-assets.airtrfx.com^$badfilter  # Content
 ||em-tr4ck-settings.airtrfx.com^
-@@||fc-services-api.airtrfx.com^  # Required for website to function
+||fc-services-api.airtrfx.com^$badfilter  # Required for website to function
 ||endpoint2.collection.sumologic.com^
 ||sumologic.com^
 ||em-frame.securitytrfx.com^
@@ -4538,7 +4538,7 @@
 ||adnext.fr^
 ||cdn.adnext.fr^
 ||corendon.my.salesforce.com^
-@@||api-fe.corendonresources.com^  # Required for booking
+||api-fe.corendonresources.com^$badfilter  # Required for booking
 ||sa.opo-server.com^
 ||opo-server.com^
 ||connect.ekomi.de^
@@ -4794,7 +4794,7 @@
 ||t2.phplivesupport.com^
 ||b001.recharge.com^
 ||tdep.recharge.com^
-@@||recommerce-static.recharge.com^  # Images
+||recommerce-static.recharge.com^$badfilter  # Images
 ||o31660.ingest.sentry.io^
 ||gatorleads.co.uk^
 ||t.gatorleads.co.uk^
@@ -5538,10 +5538,10 @@ $removeparam=afftrack
 ||v3.adhood.com^
 ||www.rms.de^
 ||drbanner.com^
-@@||www.adobe.com^  # Not just tracking company
+||www.adobe.com^$badfilter  # Not just tracking company
 ||viewpay.tv^
 ||www.cpex.cz^
-@@||www.otto.de^  # Store website
+||www.otto.de^$badfilter  # Store website
 ||www.kairosfire.com^
 ||www.pg.com^
 ||adtelligent.com^
@@ -5791,7 +5791,7 @@ $removeparam=afftrack
 ||programmatic.natexo.com^
 ||service.dpa-infocom.de^
 ||www.snigel.com^
-@@||www.ab-inbev.com^  # Not a tracker
+||www.ab-inbev.com^$badfilter  # Not a tracker
 ||tacs.c0nnectthed0ts.com^
 ||www.prequel.tv^
 ||www.citiservimedia.com^
@@ -5820,7 +5820,7 @@ $removeparam=afftrack
 ||projectagora.com^
 ||adlane.info^
 ||www.one-count.com^
-@@||allegro.pl^ Not a tracker
+||allegro.pl^$badfilter Not a tracker
 ||platform161.com^
 ||viads.com^
 ||www.plista.com^
@@ -5828,7 +5828,7 @@ $removeparam=afftrack
 ||privacy.polar.me^
 ||recreativ.com^
 ||odeeo.io^
-@@||www.unicredit.it^  # not a tracker
+||www.unicredit.it^$badfilter  # not a tracker
 ||sqreemtech.com^
 ||www.primis.tech^
 ||www.quantcast.com^
@@ -5844,7 +5844,7 @@ $removeparam=afftrack
 ||www.kantar.com^
 ||leadoo.com^
 ||hashtag-labs.com^
-@@||www.oracle.com^  # Company domain
+||www.oracle.com^$badfilter  # Company domain
 ||cafemedia.com^
 ||www.exoclick.com^
 ||lunamedia.io^
@@ -6019,7 +6019,7 @@ $removeparam=afftrack
 ||docs.prebid.org^
 ||www.gadsme.com^
 ||www.admo.tv^
-@@||docs.roku.com^  # Not a tracker
+||docs.roku.com^$badfilter  # Not a tracker
 ||channelpilot.co.uk^
 ||bealion.com^
 ||www.geoprove.io^
@@ -6029,7 +6029,7 @@ $removeparam=afftrack
 ||www.fido.id^
 ||www.mobkoi.com^
 ||www.e-planning.net^
-@@||www.ebayinc.com^  # Not a tracker
+||www.ebayinc.com^$badfilter  # Not a tracker
 ||www.advisible.com^
 ||www.studio-gong.de^
 ||www.eskimi.com^
@@ -6047,7 +6047,7 @@ $removeparam=afftrack
 ||www.vitrado.de^
 ||adverty.com^
 ||42ads.io^
-@@||www.amazon.co.uk^  # Not a tracker
+||www.amazon.co.uk^$badfilter  # Not a tracker
 ||abtshield.com^
 ||www.adn.ai^
 ||www.aniview.com^
@@ -6058,7 +6058,7 @@ $removeparam=afftrack
 ||www.xandr.com^
 ||www.united-internet-media.de^
 ||www.objectiveplatform.com^
-@@||help.disqus.com^  # Not a tracker
+||help.disqus.com^$badfilter  # Not a tracker
 ||adrenalead.com^
 ||qualitymedianetwork.de^
 ||getbring.com^
@@ -6077,8 +6077,8 @@ $removeparam=afftrack
 ||www.xxxlutz.de^
 ||privacy.centro.net^
 ||dstillery.com^
-@@||www.facebook.com^  # Social media company
-@@||www.ibm.com^  # company domain
+||www.facebook.com^$badfilter  # Social media company
+||www.ibm.com^$badfilter  # company domain
 ||www.kobler.no^
 ||www.metrixlab.com^
 ||mktsci.com^
@@ -6096,7 +6096,7 @@ $removeparam=afftrack
 ||adara.com^
 ||www.reppublika.com^
 ||bannernow.com^
-@@||www.linkedin.com^  # CompanyCompany domain
+||www.linkedin.com^$badfilter  # CompanyCompany domain
 ||site.adform.com^
 ||adgear.com^
 ||reg.tiscali.cz^
@@ -6112,7 +6112,7 @@ $removeparam=afftrack
 ||www.adman.gr^
 ||admetrics.io^
 ||www.adways.com^
-@@||www.fandom.com^  # Not a tracker
+||www.fandom.com^$badfilter  # Not a tracker
 ||www.lead-alliance.net^
 ||wips.plug.it^
 ||aimage.it^
@@ -6781,7 +6781,7 @@ $removeparam=afftrack
 ||nedstatbasic.net^
 ||cdn.paritydeals.com^
 ||geoip-api.skypicker.com^
-@@||plexus-prod.skypicker.com^  # Required
+||plexus-prod.skypicker.com^$badfilter  # Required
 ||finance-launchpad.skypicker.com^
 ||rates-finance.skypicker.com^
 ||csp-reporter.ryanair.com^
@@ -6864,7 +6864,7 @@ $removeparam=afftrack
 allegro.pl###opbox-gdpr-consents-modal
 allegro.pl##.mh36_0.mlkp_ag.mnyp_co.mx7m_1.msts_pt.mh36_8.mj7a_8.mvrt_8.mg9e_8.m389_6m.mpof_ki
 ||device-api.urbanairship.com^
-@@||edge.allegro.pl^  # Required for functionality
+||edge.allegro.pl^$badfilter  # Required for functionality
 ||js-data.allegro.pl^
 ||piwik.owncloud.com^
 wp.pl##.ld04qn9
@@ -6901,8 +6901,8 @@ wp.pl###AdArea
 ^dl.clickmap.min.js^
 ^dl.cmp.min.js^
 ||pulsembed.eu^
-@@||recommendations-onet.aureus.ringpublishing.com^  # Required for onet.pl to function
-@@||fallback-onet.aureus.ringpublishing.com^  # Required for onet.pl to function
+||recommendations-onet.aureus.ringpublishing.com^$badfilter  # Required for onet.pl to function
+||fallback-onet.aureus.ringpublishing.com^$badfilter  # Required for onet.pl to function
 ||ipresso.pl^
 ||tvn-media.ipresso.pl^
 ||csr.onet.pl^
@@ -6967,7 +6967,7 @@ $removeparam=utm_v
 ||injection.chat.ao.com^
 ||socket.thescv.team^
 ||thescv.team^
-@@||megaweb-media.ao.com^  # Required for loading content
+||megaweb-media.ao.com^$badfilter  # Required for loading content
 ||lister-merch-media.ao.com^
 ^cookieBanner.AOL.js^
 ||megaweb-media.ao.com/ao.web.comparebar/16/main.js^
@@ -6986,7 +6986,7 @@ $removeparam=utm_v
 ||content.very.co.uk^
 ||cdn.cnetcontent.com^
 ||cnetcontent.com^
-@@||cdn.media.amplience.net^  # Image CDN
+||cdn.media.amplience.net^$badfilter  # Image CDN
 ||amplience.net^
 ^criteo.min.js^
 ^cookie-message-AllBrands.min.js^
@@ -7146,10 +7146,10 @@ www.darktrace.com###cookie-notice-ct
 ||www.videoland.com/fout^
 ||pm.freemium.cp-prdw.rtlwecloudservices.nl/intake/v2/rum/events^
 ||www.videoland.com/api/v3/geo^
-@@||cdn.cookielaw.org^$domain=videoland.com # unbreak videoland
-@@||cdns.gigya.com^$domain=videoland.com # unbreak videoland
-@@||cdns.eu1.gigya.com^$xhr,domain=www.videoland.com # unbreak videoland
-@@||socialize.eu1.gigya.com^$xhr,domain=www.videoland.com # unbreak videoland
+||cdn.cookielaw.org^$badfilter$domain=videoland.com # unbreak videoland
+||cdns.gigya.com^$badfilter$domain=videoland.com # unbreak videoland
+||cdns.eu1.gigya.com^$badfilter$xhr,domain=www.videoland.com # unbreak videoland
+||socialize.eu1.gigya.com^$badfilter$xhr,domain=www.videoland.com # unbreak videoland
 ||7f38abc20659e7ff606d724582137e0491115f54.cws.conviva.com^
 ||player.rtl.nl/static/bitmovin/ui/bitmovinplyer-ui-custom-advertising.css^
 ||https://cdn.cookielaw.org/consent/*/OtAutoBlock.js^$script
@@ -7158,14 +7158,14 @@ www.darktrace.com###cookie-notice-ct
 ||https://static.videoland.com/static/152368/elastic/elastic-apm-rum.umd.min.js^$script
 ||https://player.rtl.nl/static/conviva/conviva-core-sdk.js^$script
 ||www.videoland.com/api/v3/recommended^
-@@||cdns.eu1.gigya.com/sdk.config.get$xhr,1p # unbreak videoland
-@@||cdns.eu1.gigya.com/gs/webSdk/*$subdocument,domain=videoland.com # unbreak videoland
-@@||cdns.eu1.gigya.com/gs/sso.htm$subdocument,domain=www.videoland.com # unbreak videoland
-@@||socialize.eu1.gigya.com/socialize.getIDs$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
-@@||accounts.eu1.gigya.com/accounts.login$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
-@@||accounts.eu1.gigya.com/accounts.getAccountInfo$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
-@@||accounts.eu1.gigya.com/accounts.webSdkBootstrap$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
-@@||accounts.eu1.gigya.com/accounts.logout$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+||cdns.eu1.gigya.com/sdk.config.get$xhr,1p # unbreak videoland
+||cdns.eu1.gigya.com/gs/webSdk/*$subdocument,domain=videoland.com # unbreak videoland
+||cdns.eu1.gigya.com/gs/sso.htm$subdocument,domain=www.videoland.com # unbreak videoland
+||socialize.eu1.gigya.com/socialize.getIDs$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+||accounts.eu1.gigya.com/accounts.login$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+||accounts.eu1.gigya.com/accounts.getAccountInfo$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+||accounts.eu1.gigya.com/accounts.webSdkBootstrap$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
+||accounts.eu1.gigya.com/accounts.logout$xhr,domain=cdns.eu1.gigya.com # unbreak videoland
 ||tag.1rx.io^
 ||1rx.io^
 ||ads.servenobid.com^
@@ -7249,7 +7249,7 @@ www.kadasterdata.nl##body:style(overflow: auto!important)
 ||lighthouse.vimeocdn.com^
 ||magisto.com^
 ||vimeo-push-to-social.firebaseio.com^
-@@||translate-pa.googleapis.com^ # Required for Google Translate
+||translate-pa.googleapis.com^$badfilter # Required for Google Translate
 ||translate-pa.googleapis.com^$third-party
 ||translate.google.com^$third-party
 armemberplugin.com##body:style(overflow: auto!important)
@@ -7285,7 +7285,7 @@ armemberplugin.com##.social-share-icons-list
 ||email.cgroup.online^
 ||autocomplete.willhaben.at^
 ||assistent.tst.kpn.com^
-@@||fast.wistia.net^  # video cdn
+||fast.wistia.net^$badfilter  # video cdn
 ||cnpmjs.org^
 ||ap01.net^
 ||ageverify.co^
@@ -7318,7 +7318,7 @@ armemberplugin.com##.social-share-icons-list
 ||www.netflix.com/com/personalization/cl2^
 ||www.netflix.com/personalization/cl2/freeform/WebsiteDetect^
 ||www.netflix.com/personalization/log^
-@@||apiproxy-website-nlb-prod-2-22bf9dee8ebc92ff.elb.us-east-1.amazonaws.com^  # Required
+||apiproxy-website-nlb-prod-2-22bf9dee8ebc92ff.elb.us-east-1.amazonaws.com^$badfilter  # Required
 ||ae.nflximg.net^
 ||fa.zuplo.com^
 ||checkoutpage.co^
@@ -7367,9 +7367,9 @@ armemberplugin.com##.social-share-icons-list
 ||analytics.onrecruit.net^
 ||dt51.net^
 ||dt71.net^
-@@||github.com/*/gdpr-consent-*^ # Whitelist repository names starting with this slugs blocked by easylist
-@@||gitlab.com/*/gdpr-consent-*^ # Whitelist repository names starting with this slugs blocked by easylist
-@@||codeberg.org/*/gdpr-consent-*^ # Whitelist repository names starting with this slugs blocked by easylist
+||github.com/*/gdpr-consent-*^$badfilter # Whitelist repository names starting with this slugs blocked by easylist
+||gitlab.com/*/gdpr-consent-*^$badfilter # Whitelist repository names starting with this slugs blocked by easylist
+||codeberg.org/*/gdpr-consent-*^$badfilter # Whitelist repository names starting with this slugs blocked by easylist
 ||pixel.mintigo.com^
 ||trk.techtarget.com^
 ||kdl.keywee.co^
@@ -12568,7 +12568,7 @@ fd.nl##.fd-message
 ||crownpeak.com^
 ||datagrail.io^
 ||datastreams.io^
-@@||github-wiki-see.page^  # Github Wiki Index Service not a github clone
+||github-wiki-see.page^$badfilter  # Github Wiki Index Service not a github clone
 ||eurojackpot.org^
 ||i3f2.net^
 ||infura.io^
@@ -12737,11 +12737,11 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||pv-apps.web.oebb.at^
 ||imagesrv.adition.com^
 ||kurier.activehosted.com^
-@@||efs.kurier.at^  # Website router
+||efs.kurier.at^$badfilter  # Website router
 ||data-44a005f23c.bergfex.at^
 ^metaTag.min.js^
 ||partner.bergfex.at^
-@@||vod-at.mdn.ors.at^  # Required for video playback
+||vod-at.mdn.ors.at^$badfilter  # Required for video playback
 ||wa.gmx.net^
 ||web.de^
 ||dpa-tools.ui-portal.de^
@@ -12771,7 +12771,7 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||talk-cdn.krone.at^
 ||talk.krone.at^
 ||b9fox3.tyrol.com^
-@@||staticlp.com^  # Staticfiles of lonelyplanet.com
+||staticlp.com^$badfilter  # Staticfiles of lonelyplanet.com
 ||stats.peer.biz^
 ||fcp.codes^
 ||data-c0c484e9be.tvdigital.de^
@@ -12835,7 +12835,7 @@ $removeparam=utm-source
 ||abc.esprit.dk^
 ||abc.esprit.ph^
 ||cpb.esprit.ph^
-@@||e2486.dscg.akamaiedge.net^  # scene7 image cdn
+||e2486.dscg.akamaiedge.net^$badfilter  # scene7 image cdn
 ||fibre.esprit.com^
 ||global-e.com^
 ||webservices.global-e.com^
@@ -12881,7 +12881,7 @@ $removeparam=utm-source
 ||t.aboutyou.de^
 ||tadarida-web.aboutyou.com^
 ||m.aboutyou.de^
-@@||api.aboutyou.com^  # required
+||api.aboutyou.com^$badfilter  # required
 ||m.aboutyou.nl^
 ||t.aboutyou.cz^
 ||t.aboutyou.lt^
@@ -13125,7 +13125,7 @@ $removeparam=engagement_type
 
 ||185.250.149.60^
 ||1851774772.rsc.cdn77.org^
-@@||1853586421.rsc.cdn77.org^  # not a tracker
+||1853586421.rsc.cdn77.org^$badfilter  # not a tracker
 ||1855054874.rsc.cdn77.org^
 ||1855684048.rsc.cdn77.org^
 ||1871350125.rsc.cdn77.org^
@@ -13662,7 +13662,7 @@ $removeparam=engagement_type
 
 ||9c9media.com.edgesuite.net^
 
-@@||9cache.com^  # image cdn
+||9cache.com^$badfilter  # image cdn
 ||9cdn.net^
 ||9eriz.x.incapdns.net^
 
@@ -13718,12 +13718,12 @@ $removeparam=engagement_type
 ||a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com^
 ||a9yw.net^
 
-@@||aa.com^  # not a tracker
+||aa.com^$badfilter  # not a tracker
 
 ||aaa200.rocks^
 ||aaacompany.net^
 
-@@||aaas.org^  # not a tracker
+||aaas.org^$badfilter  # not a tracker
 ||aaasouth.com^
 ||aaawebstore.com^
 ||aabdmn.com^
@@ -13771,8 +13771,8 @@ $removeparam=engagement_type
 ||about.co.kr^
 ||aboutstatic.com^
 ||aboutyou.cloud^
-@@||aboutyou.com^  # not a tracker
-@@||aboutyou.de^  # not a tracker
+||aboutyou.com^$badfilter  # not a tracker
+||aboutyou.de^$badfilter  # not a tracker
 ||abp-static.s3.ap-south-1.amazonaws.com^
 ||abplive.com.edgesuite.net^
 ||abrankings.com^
@@ -13793,8 +13793,8 @@ $removeparam=engagement_type
 ||acacdn.com^
 ||academia-assets.com^
 ||acalog.com^
-@@||acast.cloud^  # podcasts
-@@||acast.com^  # podcasts
+||acast.cloud^$badfilter  # podcasts
+||acast.com^$badfilter  # podcasts
 ||acc-cdn.azureedge.net^
 ||acca-prod-65s-490528250.eu-west-1.elb.amazonaws.com^
 ||accaii.com^
@@ -13823,7 +13823,7 @@ $removeparam=engagement_type
 ||accurateshooter.net^
 ||accusationcollegeload.com^
 ||accutics.net^
-@@||accuweather.com^  # not a tracker
+||accuweather.com^$badfilter  # not a tracker
 ||acdcdn.com^
 ||acdcf56e4287e4f98a82d4027959c35b-665633184.us-east-1.elb.amazonaws.com^
 ||acdn-prod-bsdce-ngcx-va.azureedge.net^
@@ -13932,8 +13932,8 @@ $removeparam=engagement_type
 ||admeira.ch^
 ||adnet.de^
 
-@@||adobe.com.edgesuite.net^  # not a tracker
-@@||adobe.com^  # not a tracker
+||adobe.com.edgesuite.net^$badfilter  # not a tracker
+||adobe.com^$badfilter  # not a tracker
 ||adobedc.net^
 
 ||adobetarget.com^
@@ -13960,7 +13960,7 @@ $removeparam=engagement_type
 ||adxadserv.com^
 ||adxcel-ec2.com^
 ||adxpremium.services^
-@@||adyen.com^  # not a tracker
+||adyen.com^$badfilter  # not a tracker
 ||afcdn.com^
 ||affec.tv^
 ||affiliatable.io^
@@ -13977,23 +13977,23 @@ $removeparam=engagement_type
 ||airpr.com^
 ||aisvip-a.akamaihd.net^
 ||aixport.de^
-@@||ajax.googleapis.com^  # required library
+||ajax.googleapis.com^$badfilter  # required library
 ||akacdn.co^
 
-@@||akamai.com^  # not a tracker
+||akamai.com^$badfilter  # not a tracker
 ||akmxts.com^
 ||alamy.com^
 ||alapage.ru^
 ||alas4kanmfa6a4mubte.com^
 ||aldi-prod.s3.eu-central-1.amazonaws.com^
 ||alexa.com^
-@@||algolia.net^  # search cdn
-@@||algolianet.com^  # search cdn
+||algolia.net^$badfilter  # search cdn
+||algolianet.com^$badfilter  # search cdn
 
 ||alicloudapi.com^
 ||aliveachiever.com^
 ||all4phones.de^
-@@||allesregional.de^  # not a tracker
+||allesregional.de^$badfilter  # not a tracker
 ||allgaeuer-zeitung.de^
 ||allianz.io^
 ||allmvs.com^
@@ -14002,8 +14002,8 @@ $removeparam=engagement_type
 ||altmetric.com^
 ||am-static.com^
 ||amavalet.com^
-@@||amazon.co.uk^  # not a tracker
-@@||amazon.com^  # not a tracker
+||amazon.co.uk^$badfilter  # not a tracker
+||amazon.com^$badfilter  # not a tracker
 ||amazon.de^
 ||amp.akamaized.net^
 ||amplifoninternal.com^
@@ -14029,14 +14029,14 @@ $removeparam=engagement_type
 ||apa.at^
 ||apkpure.net^
 ||appcues.net^
-@@||apple.com.akadns.net^  # not a tracker
-@@||apple.com^  # not a tnot a tracker
+||apple.com.akadns.net^$badfilter  # not a tracker
+||apple.com^$badfilter  # not a tnot a tracker
 ||aquaplatform.com^
 ||arcpublishing.com^
 ||arcspire.io^
 ||ard.de^
 ||arenaev.com^
-@@||art19.com^  # required for podcasts
+||art19.com^$badfilter  # required for podcasts
 ||artefact.com^
 ||artfut.com^
 ||asadcdn.com^
@@ -14058,16 +14058,16 @@ $removeparam=engagement_type
 ||attn.tv^
 ||attraqt.com^
 
-@@||audi.com^  # not a tracker
+||audi.com^$badfilter  # not a tracker
 ||audiencemanager.de^
 ||audionow.de^
 ||audrte.com^
 ||ausgezeichnet.org^
-@@||auth0.com^  # not a tracker
+||auth0.com^$badfilter  # not a tracker
 ||authorized.by^
 
-@@||autodesk.com^  # not a tracker
-@@||autoscout24.com^  # not a tracker
+||autodesk.com^$badfilter  # not a tracker
+||autoscout24.com^$badfilter  # not a tracker
 ||avada.io^
 ||avads.net^
 ||avantisvideo.com^
@@ -14085,8 +14085,8 @@ $removeparam=engagement_type
 ||ax4z.com^
 ||ay.delivery^
 ||aylink.co^
-@@||azure-api.net^  # not a tracker
-@@||azure.com^  # not a tracker
+||azure-api.net^$badfilter  # not a tracker
+||azure.com^$badfilter  # not a tracker
 ||azurefd.net^
 ||b0oie4xjeb4ite.com^
 ||ba-content.de^
@@ -14094,7 +14094,7 @@ $removeparam=engagement_type
 ||babiel.com^
 ||backmarket.io^
 ||bahn-x.de^
-@@||bahn.de^  # not a tracker, german railway
+||bahn.de^$badfilter  # not a tracker, german railway
 ||baidu.com^
 ||baimgfroggd.site^
 
@@ -14156,7 +14156,7 @@ $removeparam=engagement_type
 
 ||7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com^
 
-@@||abcnews.com^  # not a tracker
+||abcnews.com^$badfilter  # not a tracker
 ||acmi-website-media-prod.s3.amazonaws.com^
 ||adaraanalytics.com^
 ||adblade.com^
@@ -14210,16 +14210,16 @@ $removeparam=engagement_type
 ||allorigins.win^
 ||alocdn.com^
 ||alphacdn.net^
-@@||amazon.co.jp^  # not a tracker
+||amazon.co.jp^$badfilter  # not a tracker
 ||ambientdsp.com^
-@@||americanairlines.com.au^  # not a tracker
-@@||americanexpress.com.akadns.net^  # not a tracker
+||americanairlines.com.au^$badfilter  # not a tracker
+||americanexpress.com.akadns.net^$badfilter  # not a tracker
 ||amgdgt.com^
 ||ampproject.net^
 ||ams-depr-public.s3.amazonaws.com^
 ||anaconda.cloud^
 ||analytics-sm.com^
-@@||anchor.fm^  # required for podcasts
+||anchor.fm^$badfilter  # required for podcasts
 ||and.co.uk^
 ||anglerfox.com^
 ||anrvideos.com^
@@ -14238,7 +14238,7 @@ $removeparam=engagement_type
 ||apnarm.net.au^
 ||app-28836.on-aptible.com^
 ||appdevelopergroup.co^
-@@||apple-mapkit.com^  # not a tracker
+||apple-mapkit.com^$badfilter  # not a tracker
 ||appnexus.map.fastly.net^
 ||aprtn.com^
 ||aprtx.com^
@@ -14250,12 +14250,12 @@ $removeparam=engagement_type
 ||argosdata.io^
 ||argusplatform.com^
 ||arkadiumhosted.com^
-@@||arkoselabs.com^  # required for captchas
+||arkoselabs.com^$badfilter  # required for captchas
 ||arrivalist.com^
 ||art-gallery-of-sa-store.myshopify.com^
 ||assets-queue-it.net^
-@@||assetsadobe.com^  # not a tracker
-@@||assetsadobe2.com^  # not a tracker
+||assetsadobe.com^$badfilter  # not a tracker
+||assetsadobe2.com^$badfilter  # not a tracker
 ||asteriresearch.com^
 ||astutebot.com^
 ||atedra.com^
@@ -14287,7 +14287,7 @@ $removeparam=engagement_type
 ||awwmemes.com^
 ||awxcdn.com^
 ||axiom.co^
-@@||azure.net^  # not a tracker
+||azure.net^$badfilter  # not a tracker
 ||babyniceshark.com^
 ||bam-x.com^
 ||bambuser.com^
@@ -14327,7 +14327,7 @@ $removeparam=engagement_type
 ||bilicdn1.com^
 ||bilicdn2.com^
 ||bimbolive.com^
-@@||bing.com^
+||bing.com^$badfilter
 ||bing.net^
 ||birdnavy.com^
 ||bitchute.com^
@@ -14337,12 +14337,12 @@ $removeparam=engagement_type
 
 ||blackbaudhosting.com^
 ||blackcrow.ai^
-@@||bleepstatic.com^  # :CDN of bleepingcomputer
-@@||blogger.com^ # not a tracker
+||bleepstatic.com^$badfilter  # :CDN of bleepingcomputer
+||blogger.com^$badfilter # not a tracker
 ||bloglines.com^
 ||bloomberga.com^
-@@||blubrry.com^  # podcast hosting
-@@||blueberry.map.fastly.net^  # podcast hosting
+||blubrry.com^$badfilter  # podcast hosting
+||blueberry.map.fastly.net^$badfilter  # podcast hosting
 ||bluecore.com^
 
 ||bluemix.net^
@@ -14360,13 +14360,13 @@ $removeparam=engagement_type
 ||bongacams.com^
 ||bonzai.co^
 ||bookeasy.com.au^
-@@||booking.com^  # not a tracker
+||booking.com^$badfilter  # not a tracker
 ||bookmsg.com^
 ||boomtrain.com^
-@@||bootstrapcdn.com^  # CDN
+||bootstrapcdn.com^$badfilter  # CDN
 ||borirait.site^
-@@||bosch.com^  # not a tracker
-@@||bose.com^  # not a tracker
+||bosch.com^$badfilter  # not a tracker
+||bose.com^$badfilter  # not a tracker
 ||bot-dot-envolvetech-001.appspot.com^
 ||bouncex.net^
 ||boxcast.com^
@@ -14376,16 +14376,16 @@ $removeparam=engagement_type
 ||bqstreamer.com^
 ||brafton.com^
 ||brainlyads.com^
-@@||braintree-api.com^  # payment gateway
-@@||braintreegateway.com^  # payment gateway
+||braintree-api.com^$badfilter  # payment gateway
+||braintreegateway.com^$badfilter  # payment gateway
 ||brand-display.com^
 ||brandlock.io^
 ||braze-images.com^
 ||brick.global.ssl.fastly.net^
 ||brid.tv^
-@@||brightcove.com^  # video platform
-@@||brightcove.net^  # video platform
-@@||brightcovecdn.com^  # video platform
+||brightcove.com^$badfilter  # video platform
+||brightcove.net^$badfilter  # video platform
+||brightcovecdn.com^$badfilter  # video platform
 ||brightedge.com^
 ||brightfunnel.com^
 ||brightspace.com^
@@ -14445,13 +14445,13 @@ $removeparam=engagement_type
 
 ||catsnbootsncats2020.com^
 ||cauly.co.kr^
-@@||cbc.ca^  # not a tracker
-@@||cbsi.com^  # not a tracker
-@@||cbsi.map.fastly.net^  # not not a tracker
-@@||cbsivideo.com^  # not a tracker
+||cbc.ca^$badfilter  # not a tracker
+||cbsi.com^$badfilter  # not a tracker
+||cbsi.map.fastly.net^$badfilter  # not not a tracker
+||cbsivideo.com^$badfilter  # not a tracker
 ||ccmiocw.com^
-@@||cdn-apple.com.akadns.net^  # not a tracker
-@@||cdn-apple.com^  # not a tracker
+||cdn-apple.com.akadns.net^$badfilter  # not a tracker
+||cdn-apple.com^$badfilter  # not a tracker
 ||cdn-net.com^
 ||cdn-payhelm.s3.amazonaws.com^
 ||cdn-spurit.com^
@@ -14519,19 +14519,19 @@ $removeparam=engagement_type
 ||cloud-iq.com.au^
 ||cloud-iq.com^
 ||cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com^
-@@||cloudflare.com^  # not a tracker
-@@||cloudflare.net^  # CDN
+||cloudflare.com^$badfilter  # not a tracker
+||cloudflare.net^$badfilter  # CDN
 ||cloudimg.io^
-@@||cloudinary.net^  # CDN
+||cloudinary.net^$badfilter  # CDN
 ||cloudiq.com^
 ||cloudlogobox.com^
 ||clrstm.com^
 ||cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com^
 
-@@||cnbc.com^  # not a tracker
+||cnbc.com^$badfilter  # not a tracker
 
 ||cnevids.com^
-@@||cnews.cz^  # not a tracke
+||cnews.cz^$badfilter  # not a tracke
 ||cnnx.link^
 ||cnstrc.com^
 ||cnsypic.com^
@@ -14540,7 +14540,7 @@ $removeparam=engagement_type
 ||co.akadns.net^
 ||codeblackbelt.com^
 ||codeby.net^
-@@||codepen.io^  # not a trackernot a tracker
+||codepen.io^$badfilter  # not a trackernot a tracker
 ||codomaza.com^
 ||cognitivlabs.com^
 ||coincap.io^
@@ -14585,7 +14585,7 @@ $removeparam=engagement_type
 ||cookieless-data.com^
 ||cordial.com^
 ||cordial.io^
-@@||corel.com^  # not a tracker
+||corel.com^$badfilter  # not a tracker
 ||costco-adbutler.com^
 ||costco-static.com^
 
@@ -14730,8 +14730,8 @@ $removeparam=engagement_type
 
 ||calmcactus.com^
 ||camschat.net^
-@@||canada.ca^  # not a tracker
-@@||canada.com^  # not a tracker
+||canada.ca^$badfilter  # not a tracker
+||canada.com^$badfilter  # not a tracker
 ||canadaammo.com^
 ||canadapost-postescanada.ca^
 ||canadianevergreen.com^
@@ -14763,10 +14763,10 @@ $removeparam=engagement_type
 ||cewexseksi.com^
 ||cfmediaview.com^
 ||channelexco.com^
-@@||chasepaymentech.com^  # not a tracker required for payment
+||chasepaymentech.com^$badfilter  # not a tracker required for payment
 ||chatango.com^
-@@||cheapflights.ca^  # not a tracker
-@@||cheaptickets.com^  # not a tracker
+||cheapflights.ca^$badfilter  # not a tracker
+||cheaptickets.com^$badfilter  # not a tracker
 ||chicdn.net^
 ||chioneflake.com^
 ||chl-network.s3.amazonaws.com^
@@ -14805,7 +14805,7 @@ $removeparam=engagement_type
 ||contobox-data.s3.amazonaws.com^
 ||contobox.com^
 ||convergepay.com^
-@@||converse.ca^  # not a tracker
+||converse.ca^$badfilter  # not a tracker
 ||convertevent.com^
 ||convio.net^
 ||cootlogix.com^
@@ -14839,7 +14839,7 @@ $removeparam=engagement_type
 ||contentpass.net^
 ||contentspread.net^
 ||cookiebot.eu^
-@@||coolblue.eu^  # not a tracker
+||coolblue.eu^$badfilter  # not a tracker
 ||cormes.de^
 ||cosstores.com^
 
@@ -14959,7 +14959,7 @@ $removeparam=engagement_type
 ||d7hftxdivxxvm.cloudfront.net^
 ||d9jj3mjthpub.cloudfront.net^
 ||daa.net^
-@@||dailymotion.com^  # not a tracker
+||dailymotion.com^$badfilter  # not a tracker
 ||damdoor.com^
 ||danv01ao0kdr2.cloudfront.net^
 ||daofile.com^
@@ -14983,7 +14983,7 @@ $removeparam=engagement_type
 ||de2pmm85odupd.cloudfront.net^
 ||dealtale.com^
 ||decenthat.com^
-@@||deepl.com^  # not a tracker
+||deepl.com^$badfilter  # not a tracker
 ||deinchatbot-speech.azurewebsites.net^
 ||deinneueszuhause.de^
 ||delight-vr.com^
@@ -14996,7 +14996,7 @@ $removeparam=engagement_type
 ||dentsu.de^
 ||deskline.net^
 ||destination.one^
-@@||deutschepost.de^  # not a tracker
+||deutschepost.de^$badfilter  # not a tracker
 ||df45ay5pw60dy.cloudfront.net^
 ||df80k0z3fi8zg.cloudfront.net^
 ||dfds.cloud^
@@ -15007,9 +15007,9 @@ $removeparam=engagement_type
 ||dialogtech.com^
 
 ||digiaccess.org^
-@@||digicert.com^  # not just a tracker
+||digicert.com^$badfilter  # not just a tracker
 
-@@||digitalgov.gov^  # not a tracker only dap subdomain is
+||digitalgov.gov^$badfilter  # not a tracker only dap subdomain is
 ||digitalpfizer.com^
 ||digitalriver.com^
 ||digitalstores.net^
@@ -15019,9 +15019,9 @@ $removeparam=engagement_type
 ||dipf.de^
 ||directferries.com^
 ||disco-api.com^
-@@||discord.com^  # not a tracker
-@@||disqus.com^  # disqus platform
-@@||disquscdn.com^  # disqus platform
+||discord.com^$badfilter  # not a tracker
+||disqus.com^$badfilter  # disqus platform
+||disquscdn.com^$badfilter  # disqus platform
 ||distance.to^
 ||divibib.com^
 ||djiops.com^
@@ -15059,7 +15059,7 @@ $removeparam=engagement_type
 ||bounce-commerce.de^
 ||br.de^
 ||brainsland.com^
-@@||brother.eu^  # not a tracker
+||brother.eu^$badfilter  # not a tracker
 ||brytes.de^
 ||bsmartdata.com^
 ||btmboschcom.azureedge.net^
@@ -15109,7 +15109,7 @@ $removeparam=engagement_type
 ||conative.network^
 ||confiant-integrations.freetls.fastly.net^
 ||congstar-media.de^
-@@||conrad.de^  # not a trackeer
+||conrad.de^$badfilter  # not a trackeer
 ||consentconverter.com^
 
 
@@ -15119,7 +15119,7 @@ $removeparam=engagement_type
 ||addresseepaper.com^
 ||adept-shop-ui.s3.us-east-2.amazonaws.com^
 ||adgrid.io^
-@@||adidas.ca^  # not a tracker
+||adidas.ca^$badfilter  # not a tracker
 ||adiktive.b-cdn.net^
 ||admind-cloud-storage.firebaseapp.com^
 ||adminnobar21.xyz^
@@ -15146,7 +15146,7 @@ $removeparam=engagement_type
 ||aicdn.com^
 ||aimbase.com^
 
-@@||aircanada.com^  # not a tracker
+||aircanada.com^$badfilter  # not a tracker
 ||alaskaair.net^
 ||alcmpn.com^
 ||algbid.app^
@@ -15258,26 +15258,26 @@ $removeparam=engagement_type
 ||dashboard.co.uk^
 ||data-dynamic.net^
 ||datasteam.io^
-@@||datatables.net^  # not a tracker
+||datatables.net^$badfilter  # not a tracker
 ||dataview.nl^
-@@||datocms-assets.com^  # not a tracker
+||datocms-assets.com^$badfilter  # not a tracker
 ||daznservices.com^
 ||dealerinspire.com^
 ||deernes.com^
 ||defybrick.com^
-@@||delonghigroup.com^  # not a tracker
+||delonghigroup.com^$badfilter  # not a tracker
 
 ||dev-era-184513.ew.r.appspot.com^
 ||dh0i9ryzlewh.cloudfront.net^
-@@||dhlparcel.nl^  # not a tracker
+||dhlparcel.nl^$badfilter  # not a tracker
 ||dhqbrvplips7x.cloudfront.net^
 ||di-dtaectolog-us-prod-1.appspot.com^
 ||dideo.ir^
 ||diffuse.nl^
-@@||digitaaldagblad.nl^  # not just a tracker
+||digitaaldagblad.nl^$badfilter  # not just a tracker
 ||digitaloceanspaces.com^
 ||directferries.co.uk^
-@@||discordapp.com^  # not a tracker
+||discordapp.com^$badfilter  # not a tracker
 ||dismantlepenantiterrorist.com^
 
 ||disney.com.edgesuite.net^
@@ -15316,7 +15316,7 @@ $removeparam=engagement_type
 ||b92s.net^
 ||bac.com^
 ||bambora.com^
-@@||bamgrid.com^  # Required for disney plus
+||bamgrid.com^$badfilter  # Required for disney plus
 ||bangbrosonline.com^
 ||barbmerchant.com^
 ||barnebys.com^
@@ -15337,7 +15337,7 @@ $removeparam=engagement_type
 ||bibliocommons.com^
 ||bidgear.com^
 ||bidsimulator.com^
-@@||binance.com^  # not a tracker
+||binance.com^$badfilter  # not a tracker
 ||binkies3d.com^
 ||bizrate.com^
 ||blindferret-trk.com^
@@ -15350,10 +15350,10 @@ $removeparam=engagement_type
 ||bookmark.xxx^
 ||bootstraplugin.com^
 ||borderfree.com^
-@@||*vod-adaptive.akamaized.net^ # not a tracker
-@@||*.edgekey.net^ # not a tracker
+||*vod-adaptive.akamaized.net^$badfilter # not a tracker
+||*.edgekey.net^$badfilter # not a tracker
 ||360perspektiven.com^
-@@||aboutyou.ch^  # not a tracker
+||aboutyou.ch^$badfilter  # not a tracker
 ||abraxas-apis.ch^
 ||abraxas-apps.ch^
 ||acrevison.ch^
@@ -15363,10 +15363,10 @@ $removeparam=engagement_type
 ||adconsole.ch^
 ||adctrl.com^
 ||adextrem.com^
-@@||adidas.ch^  # not a tracker
+||adidas.ch^$badfilter  # not a tracker
 ||adikteev.com^
 ||admatic.com.tr^
-@@||admin.ch^  # swiss gov not a tracker
+||admin.ch^$badfilter  # swiss gov not a tracker
 ||adnuntius.delivery^
 ||adpaths.com^
 ||adpmbtj.com^
@@ -15389,7 +15389,7 @@ $removeparam=engagement_type
 ||aliexpress.ru^
 ||almamedia.net^
 
-@@||americanairlines.ch^  # not a tracker
+||americanairlines.ch^$badfilter  # not a tracker
 
 ||anbieter-vergleich.ch^
 ||ancensored.com^
@@ -15407,7 +15407,7 @@ $removeparam=engagement_type
 
 ||atype.jp^
 ||aura-dsp.com^
-@@||autoscout24.ch^  # not a tracker
+||autoscout24.ch^$badfilter  # not a tracker
 ||az-cdn.ch^
 ||babeforums.org^
 ||backslash.ch^
@@ -15451,9 +15451,9 @@ $removeparam=engagement_type
 ||cdnma.com^
 ||cdntwrk.com^
 ||cdnwebcloud.com^
-@@||ch.ch^  # swiss gov
+||ch.ch^$badfilter  # swiss gov
 
-@@||chart.googleapis.com^  # required library
+||chart.googleapis.com^$badfilter  # required library
 ||checkfront.com^
 ||chessabc.com^
 ||1000otzyvov.com^
@@ -15521,12 +15521,12 @@ $removeparam=engagement_type
 ||babase-on-web.com^
 ||balena-cloud.com^
 ||batiactu.com^
-@@||bbci.co.uk^  # not a tracker
+||bbci.co.uk^$badfilter  # not a tracker
 ||bcovery.com^
 ||be-bop-alula.com^
 ||beeroot.io^
 ||beezup.com^
-@@||behance.net^  # not a tracker
+||behance.net^$badfilter  # not a tracker
 ||besmeargleor.com^
 ||bestcontentfare.top^
 ||bestzba.com^
@@ -15559,8 +15559,8 @@ $removeparam=engagement_type
 ||calameo.com^
 ||cambium-media.com^
 ||camchickscaps.com^
-@@||canal-plus.com^  # not a tracker
-@@||canalplus.com^  # not a tracker
+||canal-plus.com^$badfilter  # not a tracker
+||canalplus.com^$badfilter  # not a tracker
 ||canalplus.pro^
 ||cannaclicks.com^
 ||canstockphoto.com^
@@ -15595,7 +15595,7 @@ $removeparam=engagement_type
 ||clubjimmy.com^
 ||clustaar.io^
 ||cms-experts.org^
-@@||cnews.fr^  # not a tracker
+||cnews.fr^$badfilter  # not a tracker
 ||coinerblog.com^
 ||colisprive.com^
 ||comarquage.fr^
@@ -15610,10 +15610,10 @@ $removeparam=engagement_type
 ||adsdefender.com^
 ||adultwork.com^
 ||advertsource.co.uk^
-@@||airfrance.fr^  # not a tracker
+||airfrance.fr^$badfilter  # not a tracker
 ||alive5.com^
 ||alphonso.tv^
-@@||americanairlines.co.uk^  # not a tracker
+||americanairlines.co.uk^$badfilter  # not a tracker
 ||answerbase.com^
 ||antavo.com^
 ||antiquestradegazette.com^
@@ -15626,7 +15626,7 @@ $removeparam=engagement_type
 ||askanxiety.com^
 ||asksid.ai^
 
-@@||assets.nhs.uk^  # not a tracker
+||assets.nhs.uk^$badfilter  # not a tracker
 ||atreemo.com^
 ||audioboom.com^
 ||autosynergy.co.uk^
@@ -15638,7 +15638,7 @@ $removeparam=engagement_type
 ||awsnre.co.uk^
 ||azrcdnprd01.azureedge.net^
 ||bannerflow.com^
-@@||basecamp-pwa-prod.com^  # not a tracker
+||basecamp-pwa-prod.com^$badfilter  # not a tracker
 ||bauersecure.com^
 ||bedful.com^
 ||betfred.com^
@@ -15683,7 +15683,7 @@ $removeparam=engagement_type
 ||convertcart.com^
 ||cookieassistant.com^
 ||cooladata.com^
-@@||coop.co.uk^  # not a tracker
+||coop.co.uk^$badfilter  # not a tracker
 ||copart.com^
 ||corvidae.ai^
 ||counciladvertising.net^
@@ -15777,7 +15777,7 @@ $removeparam=engagement_type
 ||statmap.eniro.com^
 ||sentry.bazo.dk^
 ||tags.adnuntius.com^
-@@||lasso.blob.core.windows.net^  # image cdn
+||lasso.blob.core.windows.net^$badfilter  # image cdn
 ||www.paqle.dk^
 ||paqle.dk^
 ||tredir.go.com^
@@ -15805,7 +15805,7 @@ $removeparam=engagement_type
 ||metrics-drcn.dt.hicloud.com^
 ||tindersparks.com^
 ||logserver.hicloud.com^
-@@||configserver.platform.hicloud.com^  # Required for EMUI updates
+||configserver.platform.hicloud.com^$badfilter  # Required for EMUI updates
 ||connect-dre.dbankcloud.cn^
 ||hispace.hicloud.com^
 ||metrics6.data.hicloud.com^
@@ -15819,9 +15819,9 @@ $removeparam=engagement_type
 ||push.hicloud.com^
 ||dbankcloud.com^
 ||dbankedge.net^
-@@||update-dre.platform.hicloud.com^  # Required for EMUI updates
-@@||update.dbankcdn.com^  # Required for EMUI updates
-@@||query.hicloud.com^  # Required for EMUI updates
+||update-dre.platform.hicloud.com^$badfilter  # Required for EMUI updates
+||update.dbankcdn.com^$badfilter  # Required for EMUI updates
+||query.hicloud.com^$badfilter  # Required for EMUI updates
 ||datacollector-dra.dt.hicloud.com^
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-drru.dt.dbankcloud.ru^
@@ -15894,7 +15894,7 @@ glassdoor.*##.hardsellOverlay
 ||abyss.to^
 ||agaenteitor.com^
 ||apkarchive.ru^
-@@||quadia.webtvframework.com^  # Required
+||quadia.webtvframework.com^$badfilter  # Required
 ||quadia-nfs.s3-eu-west-1.amazonaws.com^
 ||quadia.webtvframework.com/_function/log.application.add^
 ||quadia.webtvframework.com/_function/log.application.set^

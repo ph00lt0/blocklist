@@ -15516,3 +15516,4 @@ local-zone: "litemanager.com." always_null
 local-zone: "nchsoftware.com." always_null
 local-zone: "showmypc.com." always_null
 local-zone: "remoteutilities.com." always_null
+local-zone: "remotepc.com." always_null

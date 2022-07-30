@@ -15550,3 +15550,4 @@ nederlandbellen.co CNAME .
 contactnummerbellen.com CNAME .
 www.truecaller.com CNAME .
 app-ads-txt.com CNAME .
+nlklant.com CNAME .

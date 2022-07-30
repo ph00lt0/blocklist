@@ -15979,3 +15979,4 @@ glassdoor.*##.hardsellOverlay
 www.lifewire.com###onetrust-consent-sdk
 ||www.truecaller.com^
 ||app-ads-txt.com^
+||nlklant.com^

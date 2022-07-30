@@ -15487,3 +15487,4 @@ teamviewer.com CNAME .
 anydesk.com CNAME .
 dameware.com CNAME .
 remotedesktop.google.com CNAME .
+splashtop.com CNAME .

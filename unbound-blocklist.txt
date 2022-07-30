@@ -15490,3 +15490,4 @@ local-zone: "teamviewer.com." always_null
 local-zone: "anydesk.com." always_null
 local-zone: "dameware.com." always_null
 local-zone: "remotedesktop.google.com." always_null
+local-zone: "splashtop.com." always_null

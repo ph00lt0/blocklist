@@ -15912,3 +15912,4 @@ glassdoor.*##.hardsellOverlay
 ||code.jivosite.com^
 ||telemetry.jivosite.com^
 ||teamviewer.com^
+||anydesk.com^

@@ -1453,7 +1453,6 @@ opposedarrangement.net CNAME .
 proctorio.com CNAME .
 proctorio.zendesk.com CNAME .
 proctor.io CNAME .
-www.teamviewer.com CNAME .
 samsappsbn.vo.llnwd.net CNAME .
 vgz.my.salesforce.com CNAME .
 otag.h2os.com CNAME .
@@ -4425,7 +4424,6 @@ affirm.com CNAME .
 cdn1.affirm.com CNAME .
 3463749.fls.doubleclick.net CNAME .
 pnsa1.byside.com CNAME .
-cdn-bundler.nice-team.net CNAME .
 nice-team.net CNAME .
 static.affiliatly.com CNAME .
 affiliatly.com CNAME .
@@ -15485,3 +15483,4 @@ ad-wa.anydesk.com CNAME .
 jivochat.com CNAME .
 code.jivosite.com CNAME .
 telemetry.jivosite.com CNAME .
+teamviewer.com CNAME .

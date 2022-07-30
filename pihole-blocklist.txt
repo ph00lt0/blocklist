@@ -1490,8 +1490,6 @@
 0.0.0.0 proctorio.com
 0.0.0.0 proctorio.zendesk.com
 0.0.0.0 proctor.io
-0.0.0.0 www.teamviewer.com
-! allow teamviewer.com reason: Please don't use this crap but we're not blocking websites.
 0.0.0.0 samsappsbn.vo.llnwd.net
 0.0.0.0 vgz.my.salesforce.com
 0.0.0.0 otag.h2os.com
@@ -15593,3 +15591,4 @@
 0.0.0.0 jivochat.com
 0.0.0.0 code.jivosite.com
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 teamviewer.com

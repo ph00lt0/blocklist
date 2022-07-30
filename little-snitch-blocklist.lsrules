@@ -1440,7 +1440,6 @@
         "proctorio.com",
         "proctorio.zendesk.com",
         "proctor.io",
-        "www.teamviewer.com",
         "samsappsbn.vo.llnwd.net",
         "vgz.my.salesforce.com",
         "otag.h2os.com",
@@ -15073,6 +15072,7 @@
         "ad-wa.anydesk.com",
         "jivochat.com",
         "code.jivosite.com",
-        "telemetry.jivosite.com"
+        "telemetry.jivosite.com",
+        "teamviewer.com"
     ]
 }

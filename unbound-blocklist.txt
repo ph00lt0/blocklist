@@ -15486,3 +15486,4 @@ local-zone: "ad-wa.anydesk.com." always_null
 local-zone: "jivochat.com." always_null
 local-zone: "code.jivosite.com." always_null
 local-zone: "telemetry.jivosite.com." always_null
+local-zone: "teamviewer.com." always_null

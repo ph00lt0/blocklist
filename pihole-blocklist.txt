@@ -15613,3 +15613,4 @@
 0.0.0.0 Getscreen.me
 0.0.0.0 uvnc.com
 0.0.0.0 distantdesktop.com
+0.0.0.0 dwservice.net

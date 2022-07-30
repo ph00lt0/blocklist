@@ -15508,3 +15508,4 @@ local-zone: "get.gotomypc.com." always_null
 local-zone: "Getscreen.me." always_null
 local-zone: "uvnc.com." always_null
 local-zone: "distantdesktop.com." always_null
+local-zone: "dwservice.net." always_null

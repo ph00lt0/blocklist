@@ -15933,3 +15933,4 @@ glassdoor.*##.hardsellOverlay
 ||Getscreen.me^
 ||uvnc.com^
 ||distantdesktop.com^
+||dwservice.net^

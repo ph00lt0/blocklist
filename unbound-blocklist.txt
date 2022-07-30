@@ -15494,3 +15494,4 @@ local-zone: "splashtop.com." always_null
 local-zone: "airdroid.com." always_null
 local-zone: "access.parallels.com." always_null
 local-zone: "juiceanalytics.com." always_null
+local-zone: "finereport.com." always_null

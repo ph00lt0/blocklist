@@ -15919,3 +15919,4 @@ glassdoor.*##.hardsellOverlay
 ||airdroid.com^
 ||access.parallels.com^
 ||juiceanalytics.com^
+||finereport.com^

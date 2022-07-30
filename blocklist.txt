@@ -15932,3 +15932,4 @@ glassdoor.*##.hardsellOverlay
 ||get.gotomypc.com^
 ||Getscreen.me^
 ||uvnc.com^
+||distantdesktop.com^

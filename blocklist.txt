@@ -15970,3 +15970,4 @@ glassdoor.*##.hardsellOverlay
 ||bestand.info^
 ||klantenservicenummer.co^
 ||wachtwoordherstellen.com^
+||klantenservicebelgie.be^

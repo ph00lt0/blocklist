@@ -15545,3 +15545,4 @@ local-zone: "contactnummernederland.nl." always_null
 local-zone: "bestand.info." always_null
 local-zone: "klantenservicenummer.co." always_null
 local-zone: "wachtwoordherstellen.com." always_null
+local-zone: "klantenservicebelgie.be." always_null

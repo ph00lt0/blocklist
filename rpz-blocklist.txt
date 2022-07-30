@@ -15493,3 +15493,4 @@ access.parallels.com CNAME .
 juiceanalytics.com CNAME .
 finereport.com CNAME .
 integrate.io CNAME .
+query.me CNAME .

@@ -15921,3 +15921,4 @@ glassdoor.*##.hardsellOverlay
 ||juiceanalytics.com^
 ||finereport.com^
 ||integrate.io^
+||query.me^

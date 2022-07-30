@@ -15501,3 +15501,4 @@ gotomypc.com CNAME .
 .realvnc.com CNAME .
 chatbot-cdn.lmiutil.com CNAME .
 logmeinrescue.com CNAME .
+get.gotomypc.com CNAME .

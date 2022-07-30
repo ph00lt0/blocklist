@@ -15506,3 +15506,4 @@ local-zone: "chatbot-cdn.lmiutil.com." always_null
 local-zone: "logmeinrescue.com." always_null
 local-zone: "get.gotomypc.com." always_null
 local-zone: "Getscreen.me." always_null
+local-zone: "uvnc.com." always_null

@@ -15503,3 +15503,4 @@ chatbot-cdn.lmiutil.com CNAME .
 logmeinrescue.com CNAME .
 get.gotomypc.com CNAME .
 Getscreen.me CNAME .
+uvnc.com CNAME .

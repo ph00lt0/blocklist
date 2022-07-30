@@ -15611,3 +15611,4 @@
 0.0.0.0 logmeinrescue.com
 0.0.0.0 get.gotomypc.com
 0.0.0.0 Getscreen.me
+0.0.0.0 uvnc.com

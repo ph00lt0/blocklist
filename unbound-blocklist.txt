@@ -15492,3 +15492,4 @@ local-zone: "dameware.com." always_null
 local-zone: "remotedesktop.google.com." always_null
 local-zone: "splashtop.com." always_null
 local-zone: "airdroid.com." always_null
+local-zone: "access.parallels.com." always_null

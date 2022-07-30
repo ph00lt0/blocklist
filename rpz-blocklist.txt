@@ -15489,3 +15489,4 @@ dameware.com CNAME .
 remotedesktop.google.com CNAME .
 splashtop.com CNAME .
 airdroid.com CNAME .
+access.parallels.com CNAME .

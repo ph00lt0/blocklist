@@ -15905,3 +15905,4 @@ glassdoor.*##.hardsellOverlay
 ||livechat.zaurus.io^
 ||events.taylorandfrancis.com^
 ||beacon-eu.hosted.exlibrisgroup.com^
+||distillery.wistia.com^

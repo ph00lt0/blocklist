@@ -15524,3 +15524,4 @@ assist.zoho.in CNAME .
 assist.zoho.cn CNAME .
 assist.zoho.com.au CNAME .
 assist.zoho.jp CNAME .
+za.com CNAME .

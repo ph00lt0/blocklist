@@ -15548,3 +15548,4 @@ local-zone: "wachtwoordherstellen.com." always_null
 local-zone: "klantenservicebelgie.be." always_null
 local-zone: "contactnummers.nl." always_null
 local-zone: "bellencontact.com." always_null
+local-zone: "bellennummer.com." always_null

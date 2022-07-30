@@ -15973,3 +15973,4 @@ glassdoor.*##.hardsellOverlay
 ||klantenservicebelgie.be^
 ||contactnummers.nl^
 ||bellencontact.com^
+||bellennummer.com^

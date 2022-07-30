@@ -15594,3 +15594,4 @@
 0.0.0.0 teamviewer.com
 0.0.0.0 anydesk.com
 0.0.0.0 dameware.com
+0.0.0.0 remotedesktop.google.com

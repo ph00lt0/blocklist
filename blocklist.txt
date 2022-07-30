@@ -15914,3 +15914,4 @@ glassdoor.*##.hardsellOverlay
 ||teamviewer.com^
 ||anydesk.com^
 ||dameware.com^
+||remotedesktop.google.com^

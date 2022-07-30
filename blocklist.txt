@@ -15939,3 +15939,4 @@ glassdoor.*##.hardsellOverlay
 ||anyviewer.com^
 ||litemanager.com^
 ||nchsoftware.com^
+||showmypc.com^

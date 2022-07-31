@@ -16008,3 +16008,4 @@ facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 whatsapp.com##body:style(overflow: auto!important)
 linkedin.com##.base-promo
+linkedin.com##.omnibanner

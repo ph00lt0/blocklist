@@ -16004,3 +16004,4 @@ consent.google.*##.saveButtonContainerNarrowScreen > form:nth-of-type(1)
 ||*.facebook.com^$removeparam=cid
 ||*.facebook.com^$removeparam=refsrc
 ||*.facebook.com^$removeparam=soft
+*.facebook.com##._9oet._9ofg._9oeu._3-8x._54k8

@@ -15562,3 +15562,4 @@ local-zone: "amazonk.blogspot.com." always_null
 local-zone: "freeamazongiftcarcd.blogspot.com." always_null
 local-zone: "amazonreimbursement.blogspot.com." always_null
 local-zone: "amazongiftcard635495.blogspot.com." always_null
+local-zone: "amazon-gift-card500.blogspot.com." always_null

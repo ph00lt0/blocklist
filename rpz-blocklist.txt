@@ -15559,3 +15559,4 @@ amazonk.blogspot.com CNAME .
 freeamazongiftcarcd.blogspot.com CNAME .
 amazonreimbursement.blogspot.com CNAME .
 amazongiftcard635495.blogspot.com CNAME .
+amazon-gift-card500.blogspot.com CNAME .

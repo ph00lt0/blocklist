@@ -15999,10 +15999,10 @@ www.lifewire.com###onetrust-consent-sdk
 ||holidayaccommodation4u.com^
 ||contactnummernederlands.com^
 consent.google.*##.saveButtonContainerNarrowScreen > form:nth-of-type(1)
-*.youtube.com##.consent-bump-v2-lightbox .one-col-dialog-buttons > c3-material-button.compact.button-renderer:nth-of-type(1)
+youtube.com##.consent-bump-v2-lightbox .one-col-dialog-buttons > c3-material-button.compact.button-renderer:nth-of-type(1)
 ||*.facebook.com^$removeparam=privacy_mutation_token
 ||*.facebook.com^$removeparam=cid
 ||*.facebook.com^$removeparam=refsrc
 ||*.facebook.com^$removeparam=soft
-*.facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
+facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP

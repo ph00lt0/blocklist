@@ -15995,3 +15995,4 @@ www.lifewire.com###onetrust-consent-sdk
 ||www.servicenummer4you.de^
 ||tc30.de^
 ||kosmo-call.de^
+||kosmocall.de^

@@ -15668,3 +15668,4 @@
 0.0.0.0 amazonreimbursement.blogspot.com
 0.0.0.0 amazongiftcard635495.blogspot.com
 0.0.0.0 amazon-gift-card500.blogspot.com
+0.0.0.0 gilead.org.il

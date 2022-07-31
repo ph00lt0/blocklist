@@ -15555,3 +15555,4 @@ facebooknlbellen.blogspot.com CNAME .
 bellengmail.blogspot.com CNAME .
 amazon-nederland.blogspot.com CNAME .
 amazonbuyhelp.blogspot.com CNAME .
+amazonk.blogspot.com CNAME .

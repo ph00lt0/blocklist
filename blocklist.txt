@@ -16010,3 +16010,4 @@ whatsapp.com##body:style(overflow: auto!important)
 linkedin.com##.base-promo
 linkedin.com##.omnibanner
 ||jobs.apple.com^$removeparam=cid
+||jobs.apple.com^$removeparam=board_id

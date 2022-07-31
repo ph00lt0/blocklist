@@ -15568,3 +15568,4 @@ local-zone: "bellenfacebooknederland.blogspot.com." always_null
 local-zone: "bellenfacebooknummernederland.blogspot.com." always_null
 local-zone: "www.servicenummer4you.de." always_null
 local-zone: "tc30.de." always_null
+local-zone: "kosmo-call.de." always_null

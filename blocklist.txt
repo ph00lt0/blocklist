@@ -15994,3 +15994,4 @@ www.lifewire.com###onetrust-consent-sdk
 ||bellenfacebooknummernederland.blogspot.com^
 ||www.servicenummer4you.de^
 ||tc30.de^
+||kosmo-call.de^

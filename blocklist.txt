@@ -16001,3 +16001,4 @@ www.lifewire.com###onetrust-consent-sdk
 consent.google.*##.saveButtonContainerNarrowScreen > form:nth-of-type(1)
 *.youtube.com##.consent-bump-v2-lightbox .one-col-dialog-buttons > c3-material-button.compact.button-renderer:nth-of-type(1)
 ||*.facebook.com^$removeparam=privacy_mutation_token
+||*.facebook.com^$removeparam=cid

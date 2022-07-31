@@ -15571,3 +15571,4 @@ local-zone: "tc30.de." always_null
 local-zone: "kosmo-call.de." always_null
 local-zone: "kosmocall.de." always_null
 local-zone: "holidayaccommodation4u.com." always_null
+local-zone: "contactnummernederlands.com." always_null

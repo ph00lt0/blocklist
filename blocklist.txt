@@ -16009,3 +16009,4 @@ instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 whatsapp.com##body:style(overflow: auto!important)
 linkedin.com##.base-promo
 linkedin.com##.omnibanner
+||jobs.apple.com^$removeparam=cid

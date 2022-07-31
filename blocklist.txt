@@ -15983,3 +15983,4 @@ www.lifewire.com###onetrust-consent-sdk
 ||facebooknlbellen.blogspot.com^
 ||bellengmail.blogspot.com^
 ||amazon-nederland.blogspot.com^
+||amazonbuyhelp.blogspot.com^

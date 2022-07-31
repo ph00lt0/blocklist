@@ -15664,3 +15664,4 @@
 0.0.0.0 amazon-nederland.blogspot.com
 0.0.0.0 amazonbuyhelp.blogspot.com
 0.0.0.0 amazonk.blogspot.com
+0.0.0.0 freeamazongiftcarcd.blogspot.com

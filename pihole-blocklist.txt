@@ -15666,3 +15666,4 @@
 0.0.0.0 amazonk.blogspot.com
 0.0.0.0 freeamazongiftcarcd.blogspot.com
 0.0.0.0 amazonreimbursement.blogspot.com
+0.0.0.0 amazongiftcard635495.blogspot.com

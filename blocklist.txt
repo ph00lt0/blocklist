@@ -16006,3 +16006,4 @@ youtube.com##.consent-bump-v2-lightbox .one-col-dialog-buttons > c3-material-but
 ||*.facebook.com^$removeparam=soft
 facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
+whatsapp.com##body:style(overflow: auto!important)

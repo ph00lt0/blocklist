@@ -15998,3 +15998,4 @@ www.lifewire.com###onetrust-consent-sdk
 ||kosmocall.de^
 ||holidayaccommodation4u.com^
 ||contactnummernederlands.com^
+consent.google.*##.saveButtonContainerNarrowScreen > form:nth-of-type(1)

@@ -15584,3 +15584,4 @@ t.indeed.com CNAME .
 headfarming.com CNAME .
 camel.headfarming.com CNAME .
 ; allow pyxis.nymag.com reason: images
+cdn.concert.io CNAME .

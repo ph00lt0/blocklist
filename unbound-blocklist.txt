@@ -15587,3 +15587,4 @@ local-zone: "t.indeed.com." always_null
 local-zone: "headfarming.com." always_null
 local-zone: "camel.headfarming.com." always_null
 # allow pyxis.nymag.com reason: images
+local-zone: "cdn.concert.io." always_null

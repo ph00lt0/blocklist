@@ -15581,3 +15581,4 @@ estat.com CNAME .
 nyxcosmetics.com CNAME .
 ade.clmbtech.com CNAME .
 t.indeed.com CNAME .
+headfarming.com CNAME .

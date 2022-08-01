@@ -16030,3 +16030,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||camel.headfarming.com^
 ||pyxis.nymag.com^$badfilter  # images
 ||cdn.concert.io^
+||sourcepoint.jezebel.com^

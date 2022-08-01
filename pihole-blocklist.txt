@@ -15693,3 +15693,4 @@
 0.0.0.0 camel.headfarming.com
 ! allow pyxis.nymag.com reason: images
 0.0.0.0 cdn.concert.io
+0.0.0.0 sourcepoint.jezebel.com

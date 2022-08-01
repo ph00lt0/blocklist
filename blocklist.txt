@@ -16021,3 +16021,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||getdrip.com^
 ||prod*.ally.ac/api/v*/*/events^
 ||prod*.ally.ac/api/v*/processes/*^
+||api.akerolabs.com^

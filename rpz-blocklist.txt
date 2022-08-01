@@ -15575,3 +15575,4 @@ akro.io CNAME .
 cdn.akro.io CNAME .
 akerolabs.com CNAME .
 tag.getdrip.com CNAME .
+getdrip.com CNAME .

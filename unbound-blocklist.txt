@@ -15575,3 +15575,4 @@ local-zone: "contactnummernederlands.com." always_null
 local-zone: "usersnap.com." always_null
 local-zone: "consentlycloud.com." always_null
 local-zone: "akro.io." always_null
+local-zone: "cdn.akro.io." always_null

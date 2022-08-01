@@ -15572,3 +15572,4 @@ contactnummernederlands.com CNAME .
 usersnap.com CNAME .
 consentlycloud.com CNAME .
 akro.io CNAME .
+cdn.akro.io CNAME .

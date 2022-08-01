@@ -15680,3 +15680,4 @@
 0.0.0.0 usersnap.com
 0.0.0.0 consentlycloud.com
 0.0.0.0 akro.io
+0.0.0.0 cdn.akro.io

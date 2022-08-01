@@ -16028,3 +16028,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||t.indeed.com^
 ||headfarming.com^
 ||camel.headfarming.com^
+||pyxis.nymag.com^

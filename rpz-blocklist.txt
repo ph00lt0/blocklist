@@ -15583,3 +15583,4 @@ ade.clmbtech.com CNAME .
 t.indeed.com CNAME .
 headfarming.com CNAME .
 camel.headfarming.com CNAME .
+pyxis.nymag.com CNAME .

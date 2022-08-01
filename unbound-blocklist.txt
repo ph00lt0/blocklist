@@ -15586,3 +15586,4 @@ local-zone: "ade.clmbtech.com." always_null
 local-zone: "t.indeed.com." always_null
 local-zone: "headfarming.com." always_null
 local-zone: "camel.headfarming.com." always_null
+local-zone: "pyxis.nymag.com." always_null

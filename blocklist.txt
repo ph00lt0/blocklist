@@ -16013,3 +16013,4 @@ linkedin.com##.omnibanner
 ||jobs.apple.com^$removeparam=board_id
 ||usersnap.com^
 www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
+||consentlycloud.com^

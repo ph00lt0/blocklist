@@ -15573,3 +15573,4 @@ local-zone: "kosmocall.de." always_null
 local-zone: "holidayaccommodation4u.com." always_null
 local-zone: "contactnummernederlands.com." always_null
 local-zone: "usersnap.com." always_null
+local-zone: "consentlycloud.com." always_null

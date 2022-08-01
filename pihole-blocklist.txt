@@ -15690,3 +15690,4 @@
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 t.indeed.com
 0.0.0.0 headfarming.com
+0.0.0.0 camel.headfarming.com

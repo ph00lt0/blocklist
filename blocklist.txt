@@ -16027,3 +16027,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||ade.clmbtech.com^
 ||t.indeed.com^
 ||headfarming.com^
+||camel.headfarming.com^

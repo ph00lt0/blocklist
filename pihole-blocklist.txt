@@ -15686,3 +15686,4 @@
 0.0.0.0 getdrip.com
 0.0.0.0 api.akerolabs.com
 0.0.0.0 estat.com
+0.0.0.0 nyxcosmetics.com

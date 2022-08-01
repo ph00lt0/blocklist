@@ -15685,3 +15685,4 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 getdrip.com
 0.0.0.0 api.akerolabs.com
+0.0.0.0 estat.com

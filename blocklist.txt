@@ -16024,3 +16024,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||api.akerolabs.com^
 ||estat.com^
 ||nyxcosmetics.com^
+||ade.clmbtech.com^

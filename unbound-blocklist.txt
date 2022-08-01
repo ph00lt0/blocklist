@@ -15582,3 +15582,4 @@ local-zone: "getdrip.com." always_null
 local-zone: "api.akerolabs.com." always_null
 local-zone: "estat.com." always_null
 local-zone: "nyxcosmetics.com." always_null
+local-zone: "ade.clmbtech.com." always_null

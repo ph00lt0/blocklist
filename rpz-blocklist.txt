@@ -15573,3 +15573,4 @@ usersnap.com CNAME .
 consentlycloud.com CNAME .
 akro.io CNAME .
 cdn.akro.io CNAME .
+akerolabs.com CNAME .

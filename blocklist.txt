@@ -16016,3 +16016,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||consentlycloud.com^
 ||akro.io^
 ||cdn.akro.io^
+||akerolabs.com^

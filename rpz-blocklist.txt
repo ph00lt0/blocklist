@@ -15599,3 +15599,4 @@ cdn.checkout.com CNAME .
 syndetics.com CNAME .
 unbound.syndetics.com CNAME .
 si-p.co.uk CNAME .
+ip-vn.com CNAME .

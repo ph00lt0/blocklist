@@ -15600,3 +15600,4 @@ local-zone: "engine.adglare.net." always_null
 local-zone: "js-exceptions.paylogic.com." always_null
 local-zone: "cdn.checkout.com." always_null
 local-zone: "syndetics.com." always_null
+local-zone: "unbound.syndetics.com." always_null

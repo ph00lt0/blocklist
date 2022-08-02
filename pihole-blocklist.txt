@@ -15705,3 +15705,4 @@
 0.0.0.0 js-exceptions.paylogic.com
 0.0.0.0 cdn.checkout.com
 0.0.0.0 syndetics.com
+0.0.0.0 unbound.syndetics.com

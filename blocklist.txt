@@ -16042,3 +16042,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||js-exceptions.paylogic.com^
 ||cdn.checkout.com^
 ||syndetics.com^
+||unbound.syndetics.com^

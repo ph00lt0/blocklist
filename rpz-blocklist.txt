@@ -15589,4 +15589,4 @@ sourcepoint.jezebel.com CNAME .
 publica-ctv.com CNAME .
 publica-project.com CNAME .
 publica-stream.com CNAME .
-statcan.gc.ca CNAME .
+; allow statcan.gc.ca reason: not a tracker

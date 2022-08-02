@@ -16045,3 +16045,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||unbound.syndetics.com^
 ||si-p.co.uk^
 ||ip-vn.com^
+about.facebook.com##+js(rc, hasCookieBanner, body, stay)

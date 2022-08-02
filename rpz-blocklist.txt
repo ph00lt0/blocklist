@@ -15587,3 +15587,4 @@ camel.headfarming.com CNAME .
 cdn.concert.io CNAME .
 sourcepoint.jezebel.com CNAME .
 publica-ctv.com CNAME .
+publica-project.com CNAME .

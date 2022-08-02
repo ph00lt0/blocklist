@@ -15695,3 +15695,4 @@
 0.0.0.0 cdn.concert.io
 0.0.0.0 sourcepoint.jezebel.com
 0.0.0.0 publica-ctv.com
+0.0.0.0 publica-project.com

@@ -15592,3 +15592,4 @@ local-zone: "sourcepoint.jezebel.com." always_null
 local-zone: "publica-ctv.com." always_null
 local-zone: "publica-project.com." always_null
 local-zone: "publica-stream.com." always_null
+local-zone: "statcan.gc.ca." always_null

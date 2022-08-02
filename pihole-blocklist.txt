@@ -15701,4 +15701,4 @@
 0.0.0.0 livechat.prod.cloud.statcan.ca
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 engine.adglare.net
-0.0.0.0 fcproxy.net
+! allow fcproxy.net reason: cdn

@@ -16035,3 +16035,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||publica-project.com^
 ||publica-stream.com^
 ||statcan.gc.ca^$badfilter  # not a tracker
+||livechat.prod.cloud.statcan.ca^

@@ -15698,3 +15698,4 @@
 0.0.0.0 publica-project.com
 0.0.0.0 publica-stream.com
 ! allow statcan.gc.ca reason: not a tracker
+0.0.0.0 livechat.prod.cloud.statcan.ca

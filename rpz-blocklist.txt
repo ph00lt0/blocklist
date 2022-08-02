@@ -15592,3 +15592,4 @@ publica-stream.com CNAME .
 ; allow statcan.gc.ca reason: not a tracker
 livechat.prod.cloud.statcan.ca CNAME .
 drfdisvc.walmart.com CNAME .
+engine.adglare.net CNAME .

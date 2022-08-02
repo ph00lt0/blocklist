@@ -16037,3 +16037,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||statcan.gc.ca^$badfilter  # not a tracker
 ||livechat.prod.cloud.statcan.ca^
 ||drfdisvc.walmart.com^
+||engine.adglare.net^

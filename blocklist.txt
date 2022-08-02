@@ -16033,3 +16033,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||sourcepoint.jezebel.com^
 ||publica-ctv.com^
 ||publica-project.com^
+||publica-stream.com^

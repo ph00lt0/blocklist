@@ -15594,3 +15594,4 @@ livechat.prod.cloud.statcan.ca CNAME .
 drfdisvc.walmart.com CNAME .
 engine.adglare.net CNAME .
 ; allow fcproxy.net reason: cdn
+js-exceptions.paylogic.com CNAME .

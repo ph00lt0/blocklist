@@ -15702,3 +15702,4 @@
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 engine.adglare.net
 ! allow fcproxy.net reason: cdn
+0.0.0.0 js-exceptions.paylogic.com

@@ -15597,3 +15597,4 @@ local-zone: "livechat.prod.cloud.statcan.ca." always_null
 local-zone: "drfdisvc.walmart.com." always_null
 local-zone: "engine.adglare.net." always_null
 # allow fcproxy.net reason: cdn
+local-zone: "js-exceptions.paylogic.com." always_null

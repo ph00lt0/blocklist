@@ -16040,3 +16040,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||engine.adglare.net^
 ||fcproxy.net^$badfilter  # cdn
 ||js-exceptions.paylogic.com^
+||cdn.checkout.com^

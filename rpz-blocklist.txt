@@ -15595,3 +15595,4 @@ drfdisvc.walmart.com CNAME .
 engine.adglare.net CNAME .
 ; allow fcproxy.net reason: cdn
 js-exceptions.paylogic.com CNAME .
+cdn.checkout.com CNAME .

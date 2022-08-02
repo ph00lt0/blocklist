@@ -15181,6 +15181,7 @@
         "livechat.prod.cloud.statcan.ca",
         "drfdisvc.walmart.com",
         "engine.adglare.net",
-        "js-exceptions.paylogic.com"
+        "js-exceptions.paylogic.com",
+        "cdn.checkout.com"
     ]
 }

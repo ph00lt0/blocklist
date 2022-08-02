@@ -15594,3 +15594,4 @@ local-zone: "publica-project.com." always_null
 local-zone: "publica-stream.com." always_null
 # allow statcan.gc.ca reason: not a tracker
 local-zone: "livechat.prod.cloud.statcan.ca." always_null
+local-zone: "drfdisvc.walmart.com." always_null

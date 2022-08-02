@@ -15699,3 +15699,4 @@
 0.0.0.0 publica-stream.com
 ! allow statcan.gc.ca reason: not a tracker
 0.0.0.0 livechat.prod.cloud.statcan.ca
+0.0.0.0 drfdisvc.walmart.com

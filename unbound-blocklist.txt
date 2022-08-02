@@ -15601,7 +15601,7 @@ local-zone: "js-exceptions.paylogic.com." always_null
 local-zone: "cdn.checkout.com." always_null
 local-zone: "syndetics.com." always_null
 local-zone: "unbound.syndetics.com." always_null
-local-zone: "si-p.co.uk." always_null
+# allow si-p.co.uk reason: cdn
 local-zone: "ip-vn.com." always_null
 local-zone: "theme.autience.com." always_null
 local-zone: "add:theme.autience.com." always_null

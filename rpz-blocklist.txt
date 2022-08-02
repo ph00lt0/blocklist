@@ -15598,7 +15598,7 @@ js-exceptions.paylogic.com CNAME .
 cdn.checkout.com CNAME .
 syndetics.com CNAME .
 unbound.syndetics.com CNAME .
-si-p.co.uk CNAME .
+; allow si-p.co.uk reason: cdn
 ip-vn.com CNAME .
 theme.autience.com CNAME .
 add:theme.autience.com CNAME .

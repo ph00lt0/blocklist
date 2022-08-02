@@ -16043,7 +16043,7 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||cdn.checkout.com^
 ||syndetics.com^
 ||unbound.syndetics.com^
-||si-p.co.uk^
+||si-p.co.uk^$badfilter  # cdn
 ||ip-vn.com^
 about.facebook.com##+js(rc, hasCookieBanner, body, stay)
 about.facebook.com##+js(rc, _31e, div, stay)

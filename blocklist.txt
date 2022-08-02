@@ -16055,3 +16055,4 @@ google.com###L2AGLb > .sy4vM.QS5gu
 consent.google.*##.saveButtonContainer > form:nth-of-type(2) > .searchButton.button.basebutton
 ||www.google.*/xjs/_/js/*^
 ||theme.autience.com^
+||add:theme.autience.com^

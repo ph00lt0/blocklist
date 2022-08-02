@@ -16058,3 +16058,4 @@ consent.google.*##.saveButtonContainer > form:nth-of-type(2) > .searchButton.but
 ||add:theme.autience.com^
 ||autience.com^
 ||status.ip-vn.com^
+numberpeople.co.uk###lhc_needhelp_widget_v2

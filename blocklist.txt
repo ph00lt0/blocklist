@@ -16046,3 +16046,4 @@ www.whatsapp.com##+js(rc, hasCookieBanner, body, stay)
 ||si-p.co.uk^
 ||ip-vn.com^
 about.facebook.com##+js(rc, hasCookieBanner, body, stay)
+about.facebook.com##+js(rc, _31e, div, stay)

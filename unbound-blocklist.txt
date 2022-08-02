@@ -15596,3 +15596,4 @@ local-zone: "publica-stream.com." always_null
 local-zone: "livechat.prod.cloud.statcan.ca." always_null
 local-zone: "drfdisvc.walmart.com." always_null
 local-zone: "engine.adglare.net." always_null
+local-zone: "fcproxy.net." always_null

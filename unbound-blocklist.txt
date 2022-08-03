@@ -15613,3 +15613,4 @@ local-zone: "tracemyip.org." always_null
 local-zone: "fbthirdpartypixel.com." always_null
 local-zone: "not-a-tracker.jet-stream.com." always_null
 local-zone: "jetstreamanalytics.com." always_null
+local-zone: "jetstream-analytics.net." always_null

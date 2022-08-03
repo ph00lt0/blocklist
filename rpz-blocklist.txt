@@ -15604,3 +15604,4 @@ theme.autience.com CNAME .
 add:theme.autience.com CNAME .
 autience.com CNAME .
 status.ip-vn.com CNAME .
+ipapi.co CNAME .

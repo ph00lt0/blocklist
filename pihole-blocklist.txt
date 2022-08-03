@@ -15712,3 +15712,4 @@
 0.0.0.0 add:theme.autience.com
 0.0.0.0 autience.com
 0.0.0.0 status.ip-vn.com
+0.0.0.0 ipapi.co

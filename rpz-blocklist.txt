@@ -15607,3 +15607,4 @@ status.ip-vn.com CNAME .
 ipapi.co CNAME .
 iphunter.info CNAME .
 tracemyip.org CNAME .
+fbthirdpartypixel.com CNAME .

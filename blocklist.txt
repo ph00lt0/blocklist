@@ -16063,3 +16063,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||ipapi.co^
 ||iphunter.info^
 ||tracemyip.org^
+||fbthirdpartypixel.com^

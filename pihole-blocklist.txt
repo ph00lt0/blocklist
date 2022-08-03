@@ -15715,3 +15715,4 @@
 0.0.0.0 ipapi.co
 0.0.0.0 iphunter.info
 0.0.0.0 tracemyip.org
+0.0.0.0 fbthirdpartypixel.com

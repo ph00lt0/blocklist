@@ -15608,3 +15608,4 @@ local-zone: "add:theme.autience.com." always_null
 local-zone: "autience.com." always_null
 local-zone: "status.ip-vn.com." always_null
 local-zone: "ipapi.co." always_null
+local-zone: "iphunter.info." always_null

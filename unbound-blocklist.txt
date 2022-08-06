@@ -15621,3 +15621,4 @@ local-zone: "safelinks.protection.outlook.com." always_null
 local-zone: "telemetry.acronis.com." always_null
 local-zone: "version.bind." always_null
 local-zone: "vscodeexperiments.azureedge.net." always_null
+local-zone: "fp.measure.office.com." always_null

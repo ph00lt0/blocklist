@@ -15726,3 +15726,4 @@
 0.0.0.0 telemetry.acronis.com
 0.0.0.0 version.bind
 0.0.0.0 vscodeexperiments.azureedge.net
+0.0.0.0 fp.measure.office.com

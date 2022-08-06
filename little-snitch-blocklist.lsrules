@@ -15203,6 +15203,7 @@
         "safelinks.protection.outlook.com",
         "telemetry.acronis.com",
         "version.bind",
-        "vscodeexperiments.azureedge.net"
+        "vscodeexperiments.azureedge.net",
+        "fp.measure.office.com"
     ]
 }

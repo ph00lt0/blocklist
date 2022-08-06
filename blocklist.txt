@@ -16074,3 +16074,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||telemetry.acronis.com^
 ||version.bind^
 ||vscodeexperiments.azureedge.net^
+||fp.measure.office.com^

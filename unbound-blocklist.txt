@@ -15618,3 +15618,4 @@ local-zone: "advancediddetection.com." always_null
 local-zone: "fbthirdpartypixel.net." always_null
 local-zone: "fbthirdpartypixel.org." always_null
 local-zone: "safelinks.protection.outlook.com." always_null
+local-zone: "telemetry.acronis.com." always_null

@@ -15723,3 +15723,4 @@
 0.0.0.0 fbthirdpartypixel.net
 0.0.0.0 fbthirdpartypixel.org
 0.0.0.0 safelinks.protection.outlook.com
+0.0.0.0 telemetry.acronis.com

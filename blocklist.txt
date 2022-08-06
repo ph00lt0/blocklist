@@ -16067,3 +16067,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||not-a-tracker.jet-stream.com^
 ||jetstreamanalytics.com^
 ||jetstream-analytics.net^
+||advancediddetection.com^

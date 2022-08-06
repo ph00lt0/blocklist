@@ -15371,7 +15371,7 @@
 0.0.0.0 copart.com
 0.0.0.0 corvidae.ai
 0.0.0.0 counciladvertising.net
-0.0.0.0 cqc.org.uk
+! allow cqc.org.uk reason: Not a tracker
 0.0.0.0 crocdn.co.uk
 0.0.0.0 crowdynews.com
 0.0.0.0 cruisecritic.co.uk

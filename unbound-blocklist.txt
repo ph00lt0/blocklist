@@ -15266,7 +15266,7 @@ local-zone: "cooladata.com." always_null
 local-zone: "copart.com." always_null
 local-zone: "corvidae.ai." always_null
 local-zone: "counciladvertising.net." always_null
-local-zone: "cqc.org.uk." always_null
+# allow cqc.org.uk reason: Not a tracker
 local-zone: "crocdn.co.uk." always_null
 local-zone: "crowdynews.com." always_null
 local-zone: "cruisecritic.co.uk." always_null

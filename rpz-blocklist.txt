@@ -15263,7 +15263,7 @@ cooladata.com CNAME .
 copart.com CNAME .
 corvidae.ai CNAME .
 counciladvertising.net CNAME .
-cqc.org.uk CNAME .
+; allow cqc.org.uk reason: Not a tracker
 crocdn.co.uk CNAME .
 crowdynews.com CNAME .
 cruisecritic.co.uk CNAME .

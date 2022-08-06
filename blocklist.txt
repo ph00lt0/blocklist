@@ -16068,3 +16068,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||jetstreamanalytics.com^
 ||jetstream-analytics.net^
 ||advancediddetection.com^
+||fbthirdpartypixel.net^

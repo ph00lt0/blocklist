@@ -15626,3 +15626,4 @@ local-zone: "measure.office.com." always_null
 local-zone: "activity-service.itunes.apple.com." always_null
 local-zone: "planetnine.com." always_null
 local-zone: "resources.planetnine.com." always_null
+local-zone: "telemetry.notable.app." always_null

@@ -15731,3 +15731,4 @@
 0.0.0.0 activity-service.itunes.apple.com
 0.0.0.0 planetnine.com
 0.0.0.0 resources.planetnine.com
+0.0.0.0 telemetry.notable.app

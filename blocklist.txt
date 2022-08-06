@@ -16079,3 +16079,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||activity-service.itunes.apple.com^
 ||planetnine.com^
 ||resources.planetnine.com^
+||telemetry.notable.app^

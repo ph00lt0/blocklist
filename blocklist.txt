@@ -16070,3 +16070,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||advancediddetection.com^
 ||fbthirdpartypixel.net^
 ||fbthirdpartypixel.org^
+||safelinks.protection.outlook.com^

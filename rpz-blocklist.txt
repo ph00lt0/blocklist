@@ -15614,3 +15614,4 @@ jetstream-analytics.net CNAME .
 advancediddetection.com CNAME .
 fbthirdpartypixel.net CNAME .
 fbthirdpartypixel.org CNAME .
+safelinks.protection.outlook.com CNAME .

@@ -15623,3 +15623,4 @@ local-zone: "version.bind." always_null
 local-zone: "vscodeexperiments.azureedge.net." always_null
 local-zone: "fp.measure.office.com." always_null
 local-zone: "measure.office.com." always_null
+local-zone: "activity-service.itunes.apple.com." always_null

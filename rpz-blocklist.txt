@@ -15620,3 +15620,4 @@ version.bind CNAME .
 vscodeexperiments.azureedge.net CNAME .
 fp.measure.office.com CNAME .
 measure.office.com CNAME .
+activity-service.itunes.apple.com CNAME .

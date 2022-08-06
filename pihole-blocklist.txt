@@ -15732,3 +15732,4 @@
 0.0.0.0 planetnine.com
 0.0.0.0 resources.planetnine.com
 0.0.0.0 telemetry.notable.app
+0.0.0.0 logs.insight.rapid7.com

@@ -16081,3 +16081,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||planetnine.com^
 ||resources.planetnine.com^
 ||telemetry.notable.app^
+||logs.insight.rapid7.com^

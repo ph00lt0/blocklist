@@ -15624,3 +15624,4 @@ activity-service.itunes.apple.com CNAME .
 planetnine.com CNAME .
 resources.planetnine.com CNAME .
 telemetry.notable.app CNAME .
+logs.insight.rapid7.com CNAME .

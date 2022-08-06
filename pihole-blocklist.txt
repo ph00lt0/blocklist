@@ -15721,3 +15721,4 @@
 0.0.0.0 jetstream-analytics.net
 0.0.0.0 advancediddetection.com
 0.0.0.0 fbthirdpartypixel.net
+0.0.0.0 fbthirdpartypixel.org

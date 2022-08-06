@@ -15616,3 +15616,4 @@ fbthirdpartypixel.net CNAME .
 fbthirdpartypixel.org CNAME .
 safelinks.protection.outlook.com CNAME .
 telemetry.acronis.com CNAME .
+version.bind CNAME .

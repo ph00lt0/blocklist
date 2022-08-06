@@ -16072,3 +16072,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||fbthirdpartypixel.org^
 ||safelinks.protection.outlook.com^
 ||telemetry.acronis.com^
+||version.bind^

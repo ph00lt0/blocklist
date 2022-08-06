@@ -15685,8 +15685,9 @@ $removeparam=engagement_type
 ||copart.com^
 ||corvidae.ai^
 ||counciladvertising.net^
-||cqc.org.uk^$badfilter  # Not a tracker
 ||crocdn.co.uk^
+||cqc.org.uk^$badfilter  # Not a tracker
+||cqc.org.uk^$third-party # Widgets on other websites
 ||crowdynews.com^
 ||cruisecritic.co.uk^
 ||cruisecritic.net^

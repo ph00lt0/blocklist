@@ -15204,6 +15204,7 @@
         "telemetry.acronis.com",
         "version.bind",
         "vscodeexperiments.azureedge.net",
-        "fp.measure.office.com"
+        "fp.measure.office.com",
+        "measure.office.com"
     ]
 }

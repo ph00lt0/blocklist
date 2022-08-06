@@ -16075,3 +16075,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||version.bind^
 ||vscodeexperiments.azureedge.net^
 ||fp.measure.office.com^
+||measure.office.com^

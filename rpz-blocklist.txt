@@ -15637,3 +15637,4 @@ commerce.dynamics.com CNAME .
 nrich.ai CNAME .
 instatus.com CNAME .
 wdfl.co CNAME .
+growthrx.in CNAME .

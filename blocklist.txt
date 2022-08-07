@@ -16103,3 +16103,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||platform.stumbleupon.com^
 ||into.mix.com^
 ||events.mix.com^
+||api.airbrake.io^

@@ -15660,3 +15660,4 @@ sdk.mrf.io CNAME .
 mrf.io CNAME .
 personalize.livemint.com CNAME .
 analytics.htmedia.in CNAME .
+webengage.com CNAME .

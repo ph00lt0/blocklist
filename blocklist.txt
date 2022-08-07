@@ -16092,3 +16092,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||populo-services.com^
 ||dynamics365commerce.ms^
 ||dynamics.com^
+||commerce.dynamics.com^

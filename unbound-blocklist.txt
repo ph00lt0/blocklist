@@ -15664,3 +15664,4 @@ local-zone: "mrf.io." always_null
 local-zone: "personalize.livemint.com." always_null
 local-zone: "analytics.htmedia.in." always_null
 local-zone: "webengage.com." always_null
+local-zone: "zqtk.net." always_null

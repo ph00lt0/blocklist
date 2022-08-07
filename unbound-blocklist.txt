@@ -15672,3 +15672,4 @@ local-zone: "cdn.optmn.cloud." always_null
 local-zone: "vidible.tv." always_null
 local-zone: "bizzabo.com." always_null
 local-zone: "organizer.bizzabo.com." always_null
+local-zone: "olytics.omeda.com." always_null

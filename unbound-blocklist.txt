@@ -15648,3 +15648,4 @@ local-zone: "platform.stumbleupon.com." always_null
 local-zone: "into.mix.com." always_null
 local-zone: "events.mix.com." always_null
 local-zone: "api.airbrake.io." always_null
+local-zone: "mindtickle.com." always_null

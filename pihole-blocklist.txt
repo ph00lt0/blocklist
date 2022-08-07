@@ -15753,3 +15753,4 @@
 0.0.0.0 into.mix.com
 0.0.0.0 events.mix.com
 0.0.0.0 api.airbrake.io
+0.0.0.0 mindtickle.com

@@ -15664,3 +15664,4 @@ webengage.com CNAME .
 zqtk.net CNAME .
 tech.hindustantimes.com CNAME .
 services.sdiapi.com CNAME .
+optmn.cloud CNAME .

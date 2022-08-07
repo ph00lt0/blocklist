@@ -16131,3 +16131,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||olytics.omeda.com^
 ||polldaddy.com^
 ||affi.io^
+||go2app.org^

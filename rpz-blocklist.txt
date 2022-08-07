@@ -15672,3 +15672,4 @@ organizer.bizzabo.com CNAME .
 olytics.omeda.com CNAME .
 polldaddy.com CNAME .
 affi.io CNAME .
+go2app.org CNAME .

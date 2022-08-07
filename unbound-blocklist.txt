@@ -15675,3 +15675,4 @@ local-zone: "organizer.bizzabo.com." always_null
 local-zone: "olytics.omeda.com." always_null
 local-zone: "polldaddy.com." always_null
 local-zone: "affi.io." always_null
+local-zone: "go2app.org." always_null

@@ -16113,3 +16113,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||adserver.pressboard.ca^
 ||js.getlasso.co^
 ||protagcdn.com^
+||cmp-cdn.cookielaw.org^

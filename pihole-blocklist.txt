@@ -15762,3 +15762,4 @@
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 js.getlasso.co
 0.0.0.0 protagcdn.com
+0.0.0.0 cmp-cdn.cookielaw.org

@@ -15734,3 +15734,4 @@
 0.0.0.0 telemetry.notable.app
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 tvpixel.com
+0.0.0.0 researchnow.com

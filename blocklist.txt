@@ -16085,3 +16085,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||tvpixel.com^
 ||researchnow.com^
 ||pluckypocket.com^
+||instagram.com^

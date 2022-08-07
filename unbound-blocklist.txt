@@ -15638,3 +15638,4 @@ local-zone: "dynamics365commerce.ms." always_null
 local-zone: "dynamics.com." always_null
 local-zone: "commerce.dynamics.com." always_null
 local-zone: "nrich.ai." always_null
+local-zone: "instatus.com." always_null

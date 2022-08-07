@@ -16094,3 +16094,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||dynamics.com^
 ||commerce.dynamics.com^
 ||nrich.ai^
+||instatus.com^

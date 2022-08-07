@@ -15635,3 +15635,4 @@ dynamics365commerce.ms CNAME .
 dynamics.com CNAME .
 commerce.dynamics.com CNAME .
 nrich.ai CNAME .
+instatus.com CNAME .

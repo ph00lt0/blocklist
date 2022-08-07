@@ -15668,3 +15668,4 @@ optmn.cloud CNAME .
 cdn.optmn.cloud CNAME .
 vidible.tv CNAME .
 bizzabo.com CNAME .
+organizer.bizzabo.com CNAME .

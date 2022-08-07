@@ -15641,3 +15641,4 @@ local-zone: "nrich.ai." always_null
 local-zone: "instatus.com." always_null
 local-zone: "wdfl.co." always_null
 local-zone: "growthrx.in." always_null
+local-zone: "geoapi.indiatimes.com." always_null

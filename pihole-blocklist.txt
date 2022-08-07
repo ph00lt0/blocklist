@@ -15759,3 +15759,4 @@
 0.0.0.0 freeskreen.com
 0.0.0.0 getlasso.co
 0.0.0.0 pressboard.ca
+0.0.0.0 adserver.pressboard.ca

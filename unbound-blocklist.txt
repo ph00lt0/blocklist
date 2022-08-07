@@ -15654,3 +15654,4 @@ local-zone: "aiyukeji.cn." always_null
 local-zone: "freeskreen.com." always_null
 local-zone: "getlasso.co." always_null
 local-zone: "pressboard.ca." always_null
+local-zone: "adserver.pressboard.ca." always_null

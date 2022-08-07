@@ -15651,3 +15651,4 @@ aiyukeji.cn CNAME .
 freeskreen.com CNAME .
 getlasso.co CNAME .
 pressboard.ca CNAME .
+adserver.pressboard.ca CNAME .

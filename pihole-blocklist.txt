@@ -15742,3 +15742,4 @@
 0.0.0.0 dynamics365commerce.ms
 0.0.0.0 dynamics.com
 0.0.0.0 commerce.dynamics.com
+0.0.0.0 nrich.ai

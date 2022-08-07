@@ -15763,4 +15763,4 @@
 0.0.0.0 js.getlasso.co
 0.0.0.0 protagcdn.com
 0.0.0.0 cmp-cdn.cookielaw.org
-0.0.0.0 novyny.online.ua
+! allow novyny.online.ua reason: image cdn

@@ -15649,3 +15649,4 @@ mindtickle.com CNAME .
 aiyukeji.com CNAME .
 aiyukeji.cn CNAME .
 freeskreen.com CNAME .
+getlasso.co CNAME .

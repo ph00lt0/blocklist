@@ -15668,3 +15668,4 @@ local-zone: "zqtk.net." always_null
 local-zone: "tech.hindustantimes.com." always_null
 local-zone: "services.sdiapi.com." always_null
 local-zone: "optmn.cloud." always_null
+local-zone: "cdn.optmn.cloud." always_null

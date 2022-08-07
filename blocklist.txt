@@ -16129,3 +16129,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||bizzabo.com^
 ||organizer.bizzabo.com^
 ||olytics.omeda.com^
+||polldaddy.com^

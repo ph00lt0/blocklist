@@ -15667,3 +15667,4 @@ services.sdiapi.com CNAME .
 optmn.cloud CNAME .
 cdn.optmn.cloud CNAME .
 vidible.tv CNAME .
+bizzabo.com CNAME .

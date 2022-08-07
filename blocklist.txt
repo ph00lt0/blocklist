@@ -16126,3 +16126,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||optmn.cloud^
 ||cdn.optmn.cloud^
 ||vidible.tv^
+||bizzabo.com^

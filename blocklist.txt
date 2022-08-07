@@ -16111,3 +16111,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||getlasso.co^
 ||pressboard.ca^
 ||adserver.pressboard.ca^
+||js.getlasso.co^

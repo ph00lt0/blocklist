@@ -15652,3 +15652,4 @@ freeskreen.com CNAME .
 getlasso.co CNAME .
 pressboard.ca CNAME .
 adserver.pressboard.ca CNAME .
+js.getlasso.co CNAME .

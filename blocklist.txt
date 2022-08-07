@@ -16115,3 +16115,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||protagcdn.com^
 ||cmp-cdn.cookielaw.org^
 ||novyny.online.ua^$badfilter  # image cdn
+||sdk.mrf.io^

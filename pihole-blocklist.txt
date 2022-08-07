@@ -15764,3 +15764,4 @@
 0.0.0.0 protagcdn.com
 0.0.0.0 cmp-cdn.cookielaw.org
 ! allow novyny.online.ua reason: image cdn
+0.0.0.0 sdk.mrf.io

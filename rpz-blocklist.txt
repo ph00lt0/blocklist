@@ -15656,3 +15656,4 @@ js.getlasso.co CNAME .
 protagcdn.com CNAME .
 cmp-cdn.cookielaw.org CNAME .
 ; allow novyny.online.ua reason: image cdn
+sdk.mrf.io CNAME .

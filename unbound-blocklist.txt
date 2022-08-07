@@ -15660,3 +15660,4 @@ local-zone: "protagcdn.com." always_null
 local-zone: "cmp-cdn.cookielaw.org." always_null
 # allow novyny.online.ua reason: image cdn
 local-zone: "sdk.mrf.io." always_null
+local-zone: "mrf.io." always_null

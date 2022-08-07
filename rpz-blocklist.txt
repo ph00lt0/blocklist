@@ -15653,3 +15653,4 @@ getlasso.co CNAME .
 pressboard.ca CNAME .
 adserver.pressboard.ca CNAME .
 js.getlasso.co CNAME .
+protagcdn.com CNAME .

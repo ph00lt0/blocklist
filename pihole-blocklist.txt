@@ -15774,3 +15774,4 @@
 0.0.0.0 services.sdiapi.com
 0.0.0.0 optmn.cloud
 0.0.0.0 cdn.optmn.cloud
+0.0.0.0 vidible.tv

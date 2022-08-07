@@ -15666,3 +15666,4 @@ tech.hindustantimes.com CNAME .
 services.sdiapi.com CNAME .
 optmn.cloud CNAME .
 cdn.optmn.cloud CNAME .
+vidible.tv CNAME .

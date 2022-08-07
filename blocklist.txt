@@ -16125,3 +16125,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||services.sdiapi.com^
 ||optmn.cloud^
 ||cdn.optmn.cloud^
+||vidible.tv^

@@ -15756,3 +15756,4 @@
 0.0.0.0 mindtickle.com
 0.0.0.0 aiyukeji.com
 0.0.0.0 aiyukeji.cn
+0.0.0.0 freeskreen.com

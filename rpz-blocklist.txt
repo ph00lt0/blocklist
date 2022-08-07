@@ -15655,3 +15655,4 @@ adserver.pressboard.ca CNAME .
 js.getlasso.co CNAME .
 protagcdn.com CNAME .
 cmp-cdn.cookielaw.org CNAME .
+novyny.online.ua CNAME .

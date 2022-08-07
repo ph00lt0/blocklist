@@ -15641,3 +15641,4 @@ growthrx.in CNAME .
 geoapi.indiatimes.com CNAME .
 plugin.sopro.io CNAME .
 stumbleupon.com CNAME .
+platform.stumbleupon.com CNAME .

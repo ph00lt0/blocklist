@@ -16088,3 +16088,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 instagram.com##._56bt._a6gi._56bs._52jh._54k8
 ||chatlio.com^
 contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
+||www.pro-populo.com^

@@ -15650,3 +15650,4 @@ local-zone: "events.mix.com." always_null
 local-zone: "api.airbrake.io." always_null
 local-zone: "mindtickle.com." always_null
 local-zone: "aiyukeji.com." always_null
+local-zone: "aiyukeji.cn." always_null

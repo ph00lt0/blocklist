@@ -15755,3 +15755,4 @@
 0.0.0.0 api.airbrake.io
 0.0.0.0 mindtickle.com
 0.0.0.0 aiyukeji.com
+0.0.0.0 aiyukeji.cn

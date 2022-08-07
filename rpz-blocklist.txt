@@ -15647,3 +15647,4 @@ events.mix.com CNAME .
 api.airbrake.io CNAME .
 mindtickle.com CNAME .
 aiyukeji.com CNAME .
+aiyukeji.cn CNAME .

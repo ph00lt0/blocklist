@@ -15766,3 +15766,4 @@
 ! allow novyny.online.ua reason: image cdn
 0.0.0.0 sdk.mrf.io
 0.0.0.0 mrf.io
+0.0.0.0 personalize.livemint.com

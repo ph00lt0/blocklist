@@ -15639,3 +15639,4 @@ instatus.com CNAME .
 wdfl.co CNAME .
 growthrx.in CNAME .
 geoapi.indiatimes.com CNAME .
+plugin.sopro.io CNAME .

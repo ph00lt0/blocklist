@@ -15636,3 +15636,4 @@ dynamics.com CNAME .
 commerce.dynamics.com CNAME .
 nrich.ai CNAME .
 instatus.com CNAME .
+wdfl.co CNAME .

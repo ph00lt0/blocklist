@@ -15643,3 +15643,4 @@ plugin.sopro.io CNAME .
 stumbleupon.com CNAME .
 platform.stumbleupon.com CNAME .
 into.mix.com CNAME .
+events.mix.com CNAME .

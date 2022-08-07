@@ -16101,3 +16101,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||plugin.sopro.io^
 ||stumbleupon.com^
 ||platform.stumbleupon.com^
+||into.mix.com^

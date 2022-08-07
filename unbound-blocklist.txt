@@ -15645,3 +15645,4 @@ local-zone: "geoapi.indiatimes.com." always_null
 local-zone: "plugin.sopro.io." always_null
 local-zone: "stumbleupon.com." always_null
 local-zone: "platform.stumbleupon.com." always_null
+local-zone: "into.mix.com." always_null

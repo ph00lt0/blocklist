@@ -15625,3 +15625,4 @@ planetnine.com CNAME .
 resources.planetnine.com CNAME .
 telemetry.notable.app CNAME .
 logs.insight.rapid7.com CNAME .
+tvpixel.com CNAME .

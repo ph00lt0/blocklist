@@ -16082,3 +16082,4 @@ numberpeople.co.uk###lhc_status_widget_v2
 ||resources.planetnine.com^
 ||telemetry.notable.app^
 ||logs.insight.rapid7.com^
+||tvpixel.com^

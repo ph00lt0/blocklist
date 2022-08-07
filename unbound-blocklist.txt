@@ -15628,3 +15628,4 @@ local-zone: "planetnine.com." always_null
 local-zone: "resources.planetnine.com." always_null
 local-zone: "telemetry.notable.app." always_null
 local-zone: "logs.insight.rapid7.com." always_null
+local-zone: "tvpixel.com." always_null

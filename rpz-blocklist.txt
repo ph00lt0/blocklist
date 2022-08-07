@@ -15627,3 +15627,4 @@ telemetry.notable.app CNAME .
 logs.insight.rapid7.com CNAME .
 tvpixel.com CNAME .
 researchnow.com CNAME .
+pluckypocket.com CNAME .

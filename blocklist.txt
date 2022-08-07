@@ -16090,3 +16090,4 @@ instagram.com##._56bt._a6gi._56bs._52jh._54k8
 contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||www.pro-populo.com^
 ||populo-services.com^
+||dynamics365commerce.ms^

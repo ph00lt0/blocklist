@@ -15631,3 +15631,4 @@ pluckypocket.com CNAME .
 chatlio.com CNAME .
 www.pro-populo.com CNAME .
 populo-services.com CNAME .
+dynamics365commerce.ms CNAME .

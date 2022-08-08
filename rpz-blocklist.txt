@@ -3648,7 +3648,7 @@ statics-marketingsites-neu-ms-com.akamaized.net CNAME .
 browser.pipe.aria.microsoft.com CNAME .
 loki.delve.office.com CNAME .
 res-2.cdn.office.net CNAME .
-res-1.cdn.office.net CNAME .
+; allow res-1.cdn.office.net reason: required for outlook
 res.cdn.office.net CNAME .
 amcdn.msftauth.net CNAME .
 r4.res.office365.com CNAME .

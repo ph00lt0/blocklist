@@ -3712,7 +3712,7 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 loki.delve.office.com
 0.0.0.0 res-2.cdn.office.net
-0.0.0.0 res-1.cdn.office.net
+! allow res-1.cdn.office.net reason: required for outlook
 0.0.0.0 res.cdn.office.net
 0.0.0.0 amcdn.msftauth.net
 0.0.0.0 r4.res.office365.com

@@ -12479,7 +12479,7 @@ t.aboutyou.no CNAME .
 t.; allow aboutyou.com reason: not a tracker
 t.aboutyou.ie CNAME .
 t.aboutyou.pt CNAME .
-ayt-live.fra1.digitaloceanspaces.com CNAME .
+ayt-live.fra1.; allow digitaloceanspaces.com reason: this just hosting
 t.aboutyou.ee CNAME .
 data.qvc.de CNAME .
 assets.adobetm.com CNAME .
@@ -14847,7 +14847,7 @@ di-dtaectolog-us-prod-1.appspot.com CNAME .
 dideo.ir CNAME .
 diffuse.nl CNAME .
 ; allow digitaaldagblad.nl reason: not just a tracker
-digitaloceanspaces.com CNAME .
+; allow digitaloceanspaces.com reason: this just hosting
 directferries.co.uk CNAME .
 ; allow discordapp.com reason: not a tracker
 dismantlepenantiterrorist.com CNAME .

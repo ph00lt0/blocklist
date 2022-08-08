@@ -15273,7 +15273,7 @@ $removeparam=engagement_type
 ||dideo.ir^
 ||diffuse.nl^
 ||digitaaldagblad.nl^$badfilter  # not just a tracker
-||digitaloceanspaces.com^
+||digitaloceanspaces.com^$badfilter  # this just hosting
 ||directferries.co.uk^
 ||discordapp.com^$badfilter  # not a tracker
 ||dismantlepenantiterrorist.com^

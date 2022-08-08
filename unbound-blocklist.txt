@@ -15687,3 +15687,4 @@ local-zone: "inquisition.goguardian.com." always_null
 local-zone: "x3-predictor.goguardian.com." always_null
 local-zone: "3322.net." always_null
 local-zone: "lightspeedsystems.com." always_null
+local-zone: "classroom.relay.school." always_null

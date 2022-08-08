@@ -15790,3 +15790,4 @@
 0.0.0.0 ip.3322.net
 0.0.0.0 inquisition.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
+0.0.0.0 3322.net

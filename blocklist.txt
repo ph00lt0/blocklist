@@ -16132,3 +16132,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||polldaddy.com^
 ||affi.io^
 ||go2app.org^
+www.framer.com##.framer-c16euh-container

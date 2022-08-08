@@ -16134,3 +16134,4 @@ contensis.com##div.zen-cc-cc__button-wrap:nth-of-type(1)
 ||go2app.org^
 www.framer.com##.framer-c16euh-container
 www.framer.com##[data-projection-id='1']
+||fluidads.com^

@@ -15679,3 +15679,4 @@ local-zone: "go2app.org." always_null
 local-zone: "fluidads.com." always_null
 local-zone: "cdn.fluidads.com." always_null
 local-zone: "goguardian.com." always_null
+local-zone: "casper.goguardian.com." always_null

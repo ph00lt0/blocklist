@@ -3654,7 +3654,7 @@ local-zone: "loki.delve.office.com." always_null
 # allow res.cdn.office.net reason: required for outlook
 local-zone: "amcdn.msftauth.net." always_null
 local-zone: "r4.res.office365.com." always_null
-local-zone: "outlook-2.cdn.office.net." always_null
+# allow outlook-2.cdn.office.net reason: required for outlook
 local-zone: "servedby-buysellads.com." always_null
 local-zone: "m.servedby-buysellads.com." always_null
 local-zone: "stats.medeastcloud.com." always_null

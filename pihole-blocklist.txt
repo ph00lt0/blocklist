@@ -3716,7 +3716,7 @@
 ! allow res.cdn.office.net reason: required for outlook
 0.0.0.0 amcdn.msftauth.net
 0.0.0.0 r4.res.office365.com
-0.0.0.0 outlook-2.cdn.office.net
+! allow outlook-2.cdn.office.net reason: required for outlook
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 stats.medeastcloud.com

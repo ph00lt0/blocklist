@@ -3720,7 +3720,7 @@
 ||res.cdn.office.net^$badfilter  # required for outlook
 ||amcdn.msftauth.net^
 ||r4.res.office365.com^
-||outlook-2.cdn.office.net^
+||outlook-2.cdn.office.net^$badfilter  # required for outlook
 ||servedby-buysellads.com^
 ||m.servedby-buysellads.com^
 ||stats.medeastcloud.com^

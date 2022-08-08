@@ -15782,3 +15782,4 @@
 0.0.0.0 affi.io
 0.0.0.0 go2app.org
 0.0.0.0 fluidads.com
+0.0.0.0 cdn.fluidads.com

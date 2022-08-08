@@ -15793,3 +15793,4 @@
 0.0.0.0 3322.net
 0.0.0.0 lightspeedsystems.com
 0.0.0.0 classroom.relay.school
+0.0.0.0 relay.school

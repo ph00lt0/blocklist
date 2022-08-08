@@ -15685,3 +15685,4 @@ x3-predictor.goguardian.com CNAME .
 3322.net CNAME .
 lightspeedsystems.com CNAME .
 classroom.relay.school CNAME .
+relay.school CNAME .

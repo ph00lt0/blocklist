@@ -59,7 +59,7 @@ Depending on the script enter the domain name and the parameter to remove. The s
 
 # Remove element by class or id
 ```
-./insert-filter-remove-class.sh
+./insert-filter-remove-element.sh
 ```
 - Enter the domain
 - Enter the identifier, following given instructions

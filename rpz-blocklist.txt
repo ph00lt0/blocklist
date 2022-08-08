@@ -13321,7 +13321,7 @@ abbonamenti.it CNAME .
 abbottnutrition.com CNAME .
 abc-cdn.net.au CNAME .
 abc-host.net.au CNAME .
-abc.net.au CNAME .
+; allow abc.net.au reason: not a tracker
 
 abc17news.b-cdn.net CNAME .
 abcimg.es CNAME .

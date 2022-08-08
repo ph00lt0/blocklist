@@ -14956,7 +14956,7 @@
 0.0.0.0 diffuse.nl
 ! allow digitaaldagblad.nl reason: not just a tracker
 ! allow digitaloceanspaces.com reason: this just hosting
-0.0.0.0 directferries.co.uk
+! allow directferries.co.uk reason: not a tracker
 ! allow discordapp.com reason: not a tracker
 0.0.0.0 dismantlepenantiterrorist.com
 

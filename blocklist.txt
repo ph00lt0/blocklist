@@ -15274,7 +15274,7 @@ $removeparam=engagement_type
 ||diffuse.nl^
 ||digitaaldagblad.nl^$badfilter  # not just a tracker
 ||digitaloceanspaces.com^$badfilter  # this just hosting
-||directferries.co.uk^
+||directferries.co.uk^$badfilter  # not a tracker
 ||discordapp.com^$badfilter  # not a tracker
 ||dismantlepenantiterrorist.com^
 

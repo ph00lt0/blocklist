@@ -14848,7 +14848,7 @@ dideo.ir CNAME .
 diffuse.nl CNAME .
 ; allow digitaaldagblad.nl reason: not just a tracker
 ; allow digitaloceanspaces.com reason: this just hosting
-directferries.co.uk CNAME .
+; allow directferries.co.uk reason: not a tracker
 ; allow discordapp.com reason: not a tracker
 dismantlepenantiterrorist.com CNAME .
 

@@ -13322,7 +13322,7 @@ local-zone: "abacuscloud.uk." always_null
 local-zone: "abacusemedia.com." always_null
 local-zone: "abbonamenti.it." always_null
 local-zone: "abbottnutrition.com." always_null
-local-zone: "abc-cdn.net.au." always_null
+# allow abc-cdn.net.au reason: not a tracker
 local-zone: "abc-host.net.au." always_null
 # allow abc.net.au reason: not a tracker
 local-zone: "abc10.com.edgekey.net." always_null

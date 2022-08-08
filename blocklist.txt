@@ -13744,7 +13744,7 @@ $removeparam=engagement_type
 ||abacusemedia.com^
 ||abbonamenti.it^
 ||abbottnutrition.com^
-||abc-cdn.net.au^
+||abc-cdn.net.au^$badfilter  # not a tracker
 ||abc-host.net.au^
 ||abc.net.au^$badfilter  # not a tracker
 

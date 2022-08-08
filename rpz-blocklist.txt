@@ -13319,7 +13319,7 @@ abacuscloud.uk CNAME .
 abacusemedia.com CNAME .
 abbonamenti.it CNAME .
 abbottnutrition.com CNAME .
-abc-cdn.net.au CNAME .
+; allow abc-cdn.net.au reason: not a tracker
 abc-host.net.au CNAME .
 ; allow abc.net.au reason: not a tracker
 

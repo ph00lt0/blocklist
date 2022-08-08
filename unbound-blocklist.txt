@@ -15681,3 +15681,4 @@ local-zone: "cdn.fluidads.com." always_null
 local-zone: "goguardian.com." always_null
 local-zone: "casper.goguardian.com." always_null
 local-zone: "ip.goguardian.com." always_null
+local-zone: "countvoncount.goguardian.com." always_null

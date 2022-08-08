@@ -16138,3 +16138,4 @@ www.framer.com##[data-projection-id='1']
 ||cdn.fluidads.com^
 ||goguardian.com^
 ||casper.goguardian.com^
+||ip.goguardian.com^

@@ -3711,7 +3711,7 @@
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 loki.delve.office.com
-0.0.0.0 res-2.cdn.office.net
+! allow res-2.cdn.office.net reason: required for outlook
 ! allow res-1.cdn.office.net reason: required for outlook
 0.0.0.0 res.cdn.office.net
 0.0.0.0 amcdn.msftauth.net

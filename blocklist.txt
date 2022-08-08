@@ -3715,7 +3715,7 @@
 ||statics-marketingsites-neu-ms-com.akamaized.net^
 ||browser.pipe.aria.microsoft.com^
 ||loki.delve.office.com^
-||res-2.cdn.office.net^
+||res-2.cdn.office.net^$badfilter  # required for outlook
 ||res-1.cdn.office.net^$badfilter  # required for outlook
 ||res.cdn.office.net^
 ||amcdn.msftauth.net^

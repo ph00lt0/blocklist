@@ -3649,7 +3649,7 @@ local-zone: "gfx.ms." always_null
 local-zone: "statics-marketingsites-neu-ms-com.akamaized.net." always_null
 local-zone: "browser.pipe.aria.microsoft.com." always_null
 local-zone: "loki.delve.office.com." always_null
-local-zone: "res-2.cdn.office.net." always_null
+# allow res-2.cdn.office.net reason: required for outlook
 # allow res-1.cdn.office.net reason: required for outlook
 local-zone: "res.cdn.office.net." always_null
 local-zone: "amcdn.msftauth.net." always_null

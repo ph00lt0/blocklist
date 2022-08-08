@@ -3649,7 +3649,7 @@ browser.pipe.aria.microsoft.com CNAME .
 loki.delve.office.com CNAME .
 ; allow res-2.cdn.office.net reason: required for outlook
 ; allow res-1.cdn.office.net reason: required for outlook
-res.cdn.office.net CNAME .
+; allow res.cdn.office.net reason: required for outlook
 amcdn.msftauth.net CNAME .
 r4.res.office365.com CNAME .
 outlook-2.cdn.office.net CNAME .

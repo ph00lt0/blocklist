@@ -3713,7 +3713,7 @@
 0.0.0.0 loki.delve.office.com
 ! allow res-2.cdn.office.net reason: required for outlook
 ! allow res-1.cdn.office.net reason: required for outlook
-0.0.0.0 res.cdn.office.net
+! allow res.cdn.office.net reason: required for outlook
 0.0.0.0 amcdn.msftauth.net
 0.0.0.0 r4.res.office365.com
 0.0.0.0 outlook-2.cdn.office.net

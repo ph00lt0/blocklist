@@ -3651,7 +3651,7 @@ local-zone: "browser.pipe.aria.microsoft.com." always_null
 local-zone: "loki.delve.office.com." always_null
 # allow res-2.cdn.office.net reason: required for outlook
 # allow res-1.cdn.office.net reason: required for outlook
-local-zone: "res.cdn.office.net." always_null
+# allow res.cdn.office.net reason: required for outlook
 local-zone: "amcdn.msftauth.net." always_null
 local-zone: "r4.res.office365.com." always_null
 local-zone: "outlook-2.cdn.office.net." always_null

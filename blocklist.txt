@@ -3717,7 +3717,7 @@
 ||loki.delve.office.com^
 ||res-2.cdn.office.net^$badfilter  # required for outlook
 ||res-1.cdn.office.net^$badfilter  # required for outlook
-||res.cdn.office.net^
+||res.cdn.office.net^$badfilter  # required for outlook
 ||amcdn.msftauth.net^
 ||r4.res.office365.com^
 ||outlook-2.cdn.office.net^

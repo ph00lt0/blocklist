@@ -16142,3 +16142,4 @@ www.framer.com##[data-projection-id='1']
 ||countvoncount.goguardian.com^
 ||ip.3322.net^
 ||inquisition.goguardian.com^
+||x3-predictor.goguardian.com^

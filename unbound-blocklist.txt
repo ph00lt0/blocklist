@@ -15683,3 +15683,4 @@ local-zone: "casper.goguardian.com." always_null
 local-zone: "ip.goguardian.com." always_null
 local-zone: "countvoncount.goguardian.com." always_null
 local-zone: "ip.3322.net." always_null
+local-zone: "inquisition.goguardian.com." always_null

@@ -16136,3 +16136,4 @@ www.framer.com##.framer-c16euh-container
 www.framer.com##[data-projection-id='1']
 ||fluidads.com^
 ||cdn.fluidads.com^
+||goguardian.com^

@@ -11450,7 +11450,7 @@ fd.nl##.fd-message
 ||oascentral.hosted.ap.org^
 ||oascentral.newsmax.com^
 ||obeyter.com^
-||ocsp.godaddy.com^
+||ocsp.godaddy.com^$badfilter  # OSCP
 ||odin.goo.mx^
 ||officeme.cn^
 ||offline-adv.oray.com^

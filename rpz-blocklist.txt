@@ -11054,7 +11054,7 @@ oascentral.chron.com CNAME .
 oascentral.hosted.ap.org CNAME .
 oascentral.newsmax.com CNAME .
 obeyter.com CNAME .
-ocsp.godaddy.com CNAME .
+; allow ocsp.godaddy.com reason: OSCP
 odin.goo.mx CNAME .
 officeme.cn CNAME .
 offline-adv.oray.com CNAME .

@@ -11057,7 +11057,7 @@ local-zone: "oascentral.chron.com." always_null
 local-zone: "oascentral.hosted.ap.org." always_null
 local-zone: "oascentral.newsmax.com." always_null
 local-zone: "obeyter.com." always_null
-local-zone: "ocsp.godaddy.com." always_null
+# allow ocsp.godaddy.com reason: OSCP
 local-zone: "odin.goo.mx." always_null
 local-zone: "officeme.cn." always_null
 local-zone: "offline-adv.oray.com." always_null

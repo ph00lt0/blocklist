@@ -11162,7 +11162,7 @@
 0.0.0.0 oascentral.hosted.ap.org
 0.0.0.0 oascentral.newsmax.com
 0.0.0.0 obeyter.com
-0.0.0.0 ocsp.godaddy.com
+! allow ocsp.godaddy.com reason: OSCP
 0.0.0.0 odin.goo.mx
 0.0.0.0 officeme.cn
 0.0.0.0 offline-adv.oray.com

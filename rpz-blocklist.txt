@@ -15690,3 +15690,4 @@ ora4-prd-piwik.bodleian.ox.ac.uk CNAME .
 logdna.com CNAME .
 logs.logdna.com CNAME .
 macosrepo.com CNAME .
+githubhelp.com CNAME .

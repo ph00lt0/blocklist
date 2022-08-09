@@ -15696,3 +15696,4 @@ local-zone: "macosrepo.com." always_null
 local-zone: "githubhelp.com." always_null
 local-zone: "androidrepo.com." always_null
 local-zone: "bytemeta.vip." always_null
+local-zone: "swiftobc.com." always_null

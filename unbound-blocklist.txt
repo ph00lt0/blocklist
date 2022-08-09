@@ -15691,3 +15691,4 @@ local-zone: "classroom.relay.school." always_null
 local-zone: "relay.school." always_null
 local-zone: "ora4-prd-piwik.bodleian.ox.ac.uk." always_null
 local-zone: "logdna.com." always_null
+local-zone: "logs.logdna.com." always_null

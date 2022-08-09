@@ -16155,3 +16155,4 @@ www.framer.com##[data-projection-id]
 ||androidrepo.com^
 ||bytemeta.vip^
 ||swiftobc.com^
+www.startpage.com##.layout-web__feedback-button-container--desktop

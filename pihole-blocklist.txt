@@ -15803,3 +15803,4 @@
 0.0.0.0 bytemeta.vip
 0.0.0.0 swiftobc.com
 0.0.0.0 nixos-metrics.cachix.org
+0.0.0.0 analytics.services.netlify.com

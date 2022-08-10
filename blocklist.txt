@@ -16157,3 +16157,4 @@ www.framer.com##[data-projection-id]
 ||swiftobc.com^
 www.startpage.com##.layout-web__feedback-button-container--desktop
 ||nixos-metrics.cachix.org^
+||analytics.services.netlify.com^

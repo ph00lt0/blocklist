@@ -15698,3 +15698,4 @@ local-zone: "androidrepo.com." always_null
 local-zone: "bytemeta.vip." always_null
 local-zone: "swiftobc.com." always_null
 local-zone: "nixos-metrics.cachix.org." always_null
+local-zone: "analytics.services.netlify.com." always_null

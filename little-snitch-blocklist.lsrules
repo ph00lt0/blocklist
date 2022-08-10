@@ -15270,6 +15270,7 @@
         "androidrepo.com",
         "bytemeta.vip",
         "swiftobc.com",
-        "nixos-metrics.cachix.org"
+        "nixos-metrics.cachix.org",
+        "analytics.services.netlify.com"
     ]
 }

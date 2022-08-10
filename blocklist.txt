@@ -16156,3 +16156,4 @@ www.framer.com##[data-projection-id]
 ||bytemeta.vip^
 ||swiftobc.com^
 www.startpage.com##.layout-web__feedback-button-container--desktop
+||nixos-metrics.cachix.org^

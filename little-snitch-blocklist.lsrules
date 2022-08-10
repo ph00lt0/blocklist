@@ -15273,6 +15273,7 @@
         "nixos-metrics.cachix.org",
         "analytics.services.netlify.com",
         "ct.sendgrid.net",
-        "insights.checkyourlink.com"
+        "insights.checkyourlink.com",
+        "geoapi.acronis.com"
     ]
 }

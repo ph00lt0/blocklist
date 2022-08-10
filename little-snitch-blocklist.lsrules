@@ -15271,6 +15271,7 @@
         "bytemeta.vip",
         "swiftobc.com",
         "nixos-metrics.cachix.org",
-        "analytics.services.netlify.com"
+        "analytics.services.netlify.com",
+        "ct.sendgrid.net"
     ]
 }

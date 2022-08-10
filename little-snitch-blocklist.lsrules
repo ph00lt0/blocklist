@@ -15272,6 +15272,7 @@
         "swiftobc.com",
         "nixos-metrics.cachix.org",
         "analytics.services.netlify.com",
-        "ct.sendgrid.net"
+        "ct.sendgrid.net",
+        "insights.checkyourlink.com"
     ]
 }

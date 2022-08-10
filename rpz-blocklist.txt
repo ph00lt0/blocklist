@@ -15697,3 +15697,4 @@ swiftobc.com CNAME .
 nixos-metrics.cachix.org CNAME .
 analytics.services.netlify.com CNAME .
 ct.sendgrid.net CNAME .
+insights.checkyourlink.com CNAME .

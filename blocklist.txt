@@ -16159,3 +16159,4 @@ www.startpage.com##.layout-web__feedback-button-container--desktop
 ||nixos-metrics.cachix.org^
 ||analytics.services.netlify.com^
 ||ct.sendgrid.net^
+||insights.checkyourlink.com^

@@ -15805,3 +15805,4 @@
 0.0.0.0 nixos-metrics.cachix.org
 0.0.0.0 analytics.services.netlify.com
 0.0.0.0 ct.sendgrid.net
+0.0.0.0 insights.checkyourlink.com

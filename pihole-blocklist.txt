@@ -15808,3 +15808,4 @@
 0.0.0.0 insights.checkyourlink.com
 0.0.0.0 geoapi.acronis.com
 0.0.0.0 data.simyo.nl
+0.0.0.0 omnidesk.io

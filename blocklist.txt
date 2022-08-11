@@ -16162,3 +16162,4 @@ www.startpage.com##.layout-web__feedback-button-container--desktop
 ||insights.checkyourlink.com^
 ||geoapi.acronis.com^
 ||data.simyo.nl^
+||omnidesk.io^

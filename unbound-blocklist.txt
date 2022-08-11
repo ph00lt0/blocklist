@@ -15703,3 +15703,4 @@ local-zone: "ct.sendgrid.net." always_null
 local-zone: "insights.checkyourlink.com." always_null
 local-zone: "geoapi.acronis.com." always_null
 local-zone: "data.simyo.nl." always_null
+local-zone: "omnidesk.io." always_null

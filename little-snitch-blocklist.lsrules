@@ -15274,6 +15274,7 @@
         "analytics.services.netlify.com",
         "ct.sendgrid.net",
         "insights.checkyourlink.com",
-        "geoapi.acronis.com"
+        "geoapi.acronis.com",
+        "data.simyo.nl"
     ]
 }

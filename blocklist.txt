@@ -16161,3 +16161,4 @@ www.startpage.com##.layout-web__feedback-button-container--desktop
 ||ct.sendgrid.net^
 ||insights.checkyourlink.com^
 ||geoapi.acronis.com^
+||data.simyo.nl^

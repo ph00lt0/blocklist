@@ -15702,3 +15702,4 @@ local-zone: "analytics.services.netlify.com." always_null
 local-zone: "ct.sendgrid.net." always_null
 local-zone: "insights.checkyourlink.com." always_null
 local-zone: "geoapi.acronis.com." always_null
+local-zone: "data.simyo.nl." always_null

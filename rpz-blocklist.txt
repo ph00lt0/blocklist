@@ -15699,3 +15699,4 @@ analytics.services.netlify.com CNAME .
 ct.sendgrid.net CNAME .
 insights.checkyourlink.com CNAME .
 geoapi.acronis.com CNAME .
+data.simyo.nl CNAME .

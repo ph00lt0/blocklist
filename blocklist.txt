@@ -16163,3 +16163,4 @@ www.startpage.com##.layout-web__feedback-button-container--desktop
 ||geoapi.acronis.com^
 ||data.simyo.nl^
 ||omnidesk.io^
+pim.app##body:style(overflow: auto!important)

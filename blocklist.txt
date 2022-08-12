@@ -16170,3 +16170,4 @@ pim.app##+js(rc, cli-barmodal-open, body, stay)
 ||klantenvertellen.nl^
 ^sentry.*.chunk.js^
 ||proton-vpn.net^
+||bizmrg.com^

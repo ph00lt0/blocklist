@@ -15705,3 +15705,4 @@ local-zone: "geoapi.acronis.com." always_null
 local-zone: "data.simyo.nl." always_null
 local-zone: "omnidesk.io." always_null
 local-zone: "spotlerscript.com." always_null
+local-zone: "m7.mailplus.nl." always_null

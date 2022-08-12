@@ -16164,3 +16164,4 @@ www.startpage.com##.layout-web__feedback-button-container--desktop
 ||data.simyo.nl^
 ||omnidesk.io^
 pim.app##body:style(overflow: auto!important)
+pim.app##+js(rc, cli-barmodal-open, body, stay)

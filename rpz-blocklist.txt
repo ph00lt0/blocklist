@@ -15704,3 +15704,4 @@ omnidesk.io CNAME .
 spotlerscript.com CNAME .
 m7.mailplus.nl CNAME .
 klantenvertellen.nl CNAME .
+proton-vpn.net CNAME .

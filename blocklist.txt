@@ -16169,3 +16169,4 @@ pim.app##+js(rc, cli-barmodal-open, body, stay)
 ||m7.mailplus.nl^
 ||klantenvertellen.nl^
 ^sentry.*.chunk.js^
+||proton-vpn.net^

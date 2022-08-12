@@ -15707,3 +15707,4 @@ local-zone: "omnidesk.io." always_null
 local-zone: "spotlerscript.com." always_null
 local-zone: "m7.mailplus.nl." always_null
 local-zone: "klantenvertellen.nl." always_null
+local-zone: "proton-vpn.net." always_null

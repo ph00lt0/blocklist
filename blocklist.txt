@@ -16171,3 +16171,4 @@ pim.app##+js(rc, cli-barmodal-open, body, stay)
 ^sentry.*.chunk.js^
 ||proton-vpn.net^
 ||bizmrg.com^
+||protonvpn.com^$removeparam=ref

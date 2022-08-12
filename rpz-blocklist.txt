@@ -15703,3 +15703,4 @@ data.simyo.nl CNAME .
 omnidesk.io CNAME .
 spotlerscript.com CNAME .
 m7.mailplus.nl CNAME .
+klantenvertellen.nl CNAME .

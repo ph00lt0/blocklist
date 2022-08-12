@@ -16167,3 +16167,4 @@ pim.app##body:style(overflow: auto!important)
 pim.app##+js(rc, cli-barmodal-open, body, stay)
 ||spotlerscript.com^
 ||m7.mailplus.nl^
+||klantenvertellen.nl^

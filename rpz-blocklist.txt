@@ -15701,3 +15701,4 @@ insights.checkyourlink.com CNAME .
 geoapi.acronis.com CNAME .
 data.simyo.nl CNAME .
 omnidesk.io CNAME .
+spotlerscript.com CNAME .

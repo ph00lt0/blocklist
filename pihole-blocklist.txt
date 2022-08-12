@@ -15809,3 +15809,4 @@
 0.0.0.0 geoapi.acronis.com
 0.0.0.0 data.simyo.nl
 0.0.0.0 omnidesk.io
+0.0.0.0 spotlerscript.com

@@ -15814,3 +15814,4 @@
 0.0.0.0 klantenvertellen.nl
 0.0.0.0 proton-vpn.net
 0.0.0.0 bizmrg.com
+0.0.0.0 bale.media

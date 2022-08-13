@@ -16192,3 +16192,4 @@ $removeparam=dclid
 ||wovn.io^
 $removeparam=media_source
 $removeparam=campaign
+$removeparam=af_adset

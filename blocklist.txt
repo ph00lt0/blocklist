@@ -16175,3 +16175,4 @@ pim.app##+js(rc, cli-barmodal-open, body, stay)
 $removeparam=cmp
 ||bale.media^
 ||kbg.rip^
+^umami.js^

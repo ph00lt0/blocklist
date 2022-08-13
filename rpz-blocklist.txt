@@ -15712,3 +15712,4 @@ leadstree.org CNAME .
 datadyno.co.uk CNAME .
 cryptotax.co.za CNAME .
 primariaciorogarla.ro CNAME .
+vidalytics.com CNAME .

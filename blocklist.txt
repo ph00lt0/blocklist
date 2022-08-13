@@ -16180,3 +16180,4 @@ $removeparam=cmp
 ||datadyno.co.uk^
 ||cryptotax.co.za^
 ||primariaciorogarla.ro^
+||vidalytics.com^

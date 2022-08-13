@@ -16182,3 +16182,4 @@ $removeparam=cmp
 ||primariaciorogarla.ro^
 ||vidalytics.com^
 ||vidalytics.activehosted.com^
+||sentry.internxt.com^

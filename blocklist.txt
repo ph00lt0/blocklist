@@ -16187,3 +16187,4 @@ $removeparam=utm_network
 $removeparam=gclsrc
 $removeparam=gclid
 $removeparam=dclid
+||cdn.appsflyer.com^

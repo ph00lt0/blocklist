@@ -15823,3 +15823,4 @@
 0.0.0.0 vidalytics.com
 0.0.0.0 vidalytics.activehosted.com
 0.0.0.0 sentry.internxt.com
+0.0.0.0 cdn.appsflyer.com

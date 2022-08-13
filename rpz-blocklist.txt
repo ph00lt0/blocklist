@@ -15715,3 +15715,4 @@ primariaciorogarla.ro CNAME .
 vidalytics.com CNAME .
 vidalytics.activehosted.com CNAME .
 sentry.internxt.com CNAME .
+cdn.appsflyer.com CNAME .

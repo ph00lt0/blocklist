@@ -16189,3 +16189,4 @@ $removeparam=gclid
 $removeparam=dclid
 ||cdn.appsflyer.com^
 ||customlinks.appsflyer.com^
+||wovn.io^

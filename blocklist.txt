@@ -16190,3 +16190,4 @@ $removeparam=dclid
 ||cdn.appsflyer.com^
 ||customlinks.appsflyer.com^
 ||wovn.io^
+$removeparam=media_source

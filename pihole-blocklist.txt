@@ -15821,3 +15821,4 @@
 0.0.0.0 cryptotax.co.za
 0.0.0.0 primariaciorogarla.ro
 0.0.0.0 vidalytics.com
+0.0.0.0 vidalytics.activehosted.com

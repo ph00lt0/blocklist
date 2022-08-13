@@ -16181,3 +16181,4 @@ $removeparam=cmp
 ||cryptotax.co.za^
 ||primariaciorogarla.ro^
 ||vidalytics.com^
+||vidalytics.activehosted.com^

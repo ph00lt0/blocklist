@@ -15710,3 +15710,4 @@ local-zone: "klantenvertellen.nl." always_null
 local-zone: "proton-vpn.net." always_null
 local-zone: "bizmrg.com." always_null
 local-zone: "bale.media." always_null
+local-zone: "kbg.rip." always_null

@@ -16174,3 +16174,4 @@ pim.app##+js(rc, cli-barmodal-open, body, stay)
 ||protonvpn.com^$removeparam=ref
 $removeparam=cmp
 ||bale.media^
+||kbg.rip^

@@ -15815,3 +15815,4 @@
 0.0.0.0 proton-vpn.net
 0.0.0.0 bizmrg.com
 0.0.0.0 bale.media
+0.0.0.0 kbg.rip

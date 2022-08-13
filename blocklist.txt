@@ -16194,3 +16194,4 @@ $removeparam=media_source
 $removeparam=campaign
 $removeparam=af_adset
 ||wovn.app^
+||squeak.cloud^

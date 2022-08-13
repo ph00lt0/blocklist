@@ -15827,3 +15827,4 @@
 0.0.0.0 customlinks.appsflyer.com
 0.0.0.0 wovn.io
 0.0.0.0 wovn.app
+0.0.0.0 squeak.cloud

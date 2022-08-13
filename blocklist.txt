@@ -16183,3 +16183,4 @@ $removeparam=cmp
 ||vidalytics.com^
 ||vidalytics.activehosted.com^
 ||sentry.internxt.com^
+$removeparam=utm_network

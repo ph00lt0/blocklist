@@ -15723,3 +15723,4 @@ local-zone: "customlinks.appsflyer.com." always_null
 local-zone: "wovn.io." always_null
 local-zone: "wovn.app." always_null
 local-zone: "squeak.cloud." always_null
+local-zone: "posthog.com." always_null

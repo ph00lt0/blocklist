@@ -16195,3 +16195,5 @@ $removeparam=campaign
 $removeparam=af_adset
 ||wovn.app^
 ||squeak.cloud^
+||workable.com^$third-party
+||posthog.com^

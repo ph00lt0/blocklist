@@ -16191,3 +16191,4 @@ $removeparam=dclid
 ||customlinks.appsflyer.com^
 ||wovn.io^
 $removeparam=media_source
+$removeparam=campaign

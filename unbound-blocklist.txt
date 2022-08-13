@@ -15719,3 +15719,4 @@ local-zone: "vidalytics.com." always_null
 local-zone: "vidalytics.activehosted.com." always_null
 local-zone: "sentry.internxt.com." always_null
 local-zone: "cdn.appsflyer.com." always_null
+local-zone: "customlinks.appsflyer.com." always_null

@@ -15291,6 +15291,7 @@
         "vidalytics.com",
         "vidalytics.activehosted.com",
         "sentry.internxt.com",
-        "cdn.appsflyer.com"
+        "cdn.appsflyer.com",
+        "customlinks.appsflyer.com"
     ]
 }

@@ -15718,3 +15718,4 @@ sentry.internxt.com CNAME .
 cdn.appsflyer.com CNAME .
 customlinks.appsflyer.com CNAME .
 wovn.io CNAME .
+wovn.app CNAME .

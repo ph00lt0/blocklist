@@ -16199,3 +16199,4 @@ $removeparam=af_adset
 ||posthog.com^
 ||on-mail.ru^
 ||api.altmetric.com^
+||pbgrd.com^

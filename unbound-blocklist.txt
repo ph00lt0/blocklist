@@ -15726,3 +15726,4 @@ local-zone: "squeak.cloud." always_null
 local-zone: "posthog.com." always_null
 local-zone: "on-mail.ru." always_null
 local-zone: "api.altmetric.com." always_null
+local-zone: "pbgrd.com." always_null

@@ -16198,3 +16198,4 @@ $removeparam=af_adset
 ||workable.com^$third-party
 ||posthog.com^
 ||on-mail.ru^
+||api.altmetric.com^

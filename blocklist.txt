@@ -2257,7 +2257,7 @@
 ||tag.uwv.nl^
 ||onderzoek.platformrijksoverheid.nl^
 ||koop.piwik.pro^
-||az416426.vo.msecnd.net^
+||az416426.vo.msecnd.net^$badfilter  # Required
 ||simanalytics.nl^
 ||logging.simanalytics.nl^
 ||use.typekit.com^

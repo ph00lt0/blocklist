@@ -2206,7 +2206,7 @@ piwik.pro CNAME .
 tag.uwv.nl CNAME .
 onderzoek.platformrijksoverheid.nl CNAME .
 koop.piwik.pro CNAME .
-az416426.vo.msecnd.net CNAME .
+; allow az416426.vo.msecnd.net reason: Required
 simanalytics.nl CNAME .
 logging.simanalytics.nl CNAME .
 use.typekit.com CNAME .

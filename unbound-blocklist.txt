@@ -2208,7 +2208,7 @@ local-zone: "piwik.pro." always_null
 local-zone: "tag.uwv.nl." always_null
 local-zone: "onderzoek.platformrijksoverheid.nl." always_null
 local-zone: "koop.piwik.pro." always_null
-local-zone: "az416426.vo.msecnd.net." always_null
+# allow az416426.vo.msecnd.net reason: Required
 local-zone: "simanalytics.nl." always_null
 local-zone: "logging.simanalytics.nl." always_null
 local-zone: "use.typekit.com." always_null

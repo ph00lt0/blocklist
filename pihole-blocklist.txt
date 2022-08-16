@@ -2253,7 +2253,7 @@
 0.0.0.0 tag.uwv.nl
 0.0.0.0 onderzoek.platformrijksoverheid.nl
 0.0.0.0 koop.piwik.pro
-0.0.0.0 az416426.vo.msecnd.net
+! allow az416426.vo.msecnd.net reason: Required
 0.0.0.0 simanalytics.nl
 0.0.0.0 logging.simanalytics.nl
 0.0.0.0 use.typekit.com

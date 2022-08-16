@@ -15725,3 +15725,4 @@ on-mail.ru CNAME .
 api.altmetric.com CNAME .
 pbgrd.com CNAME .
 adcourier.com CNAME .
+counter.adcourier.com CNAME .

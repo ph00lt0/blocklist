@@ -15728,3 +15728,4 @@ local-zone: "on-mail.ru." always_null
 local-zone: "api.altmetric.com." always_null
 local-zone: "pbgrd.com." always_null
 local-zone: "adcourier.com." always_null
+local-zone: "counter.adcourier.com." always_null

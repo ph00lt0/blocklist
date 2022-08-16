@@ -16201,3 +16201,4 @@ $removeparam=af_adset
 ||api.altmetric.com^
 ||pbgrd.com^
 ||adcourier.com^
+||counter.adcourier.com^

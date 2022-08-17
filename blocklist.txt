@@ -16204,3 +16204,4 @@ $removeparam=af_adset
 ||counter.adcourier.com^
 ||instaging.io^
 ||cb.click^
+||cb.run^

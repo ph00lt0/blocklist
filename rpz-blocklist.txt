@@ -15727,3 +15727,4 @@ pbgrd.com CNAME .
 adcourier.com CNAME .
 counter.adcourier.com CNAME .
 instaging.io CNAME .
+cb.click CNAME .

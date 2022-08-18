@@ -3710,7 +3710,7 @@
 0.0.0.0 gfx.ms
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 loki.delve.office.com
+! allow loki.delve.office.com reason: required for office365 contacts
 ! allow res-2.cdn.office.net reason: required for outlook
 ! allow res-1.cdn.office.net reason: required for outlook
 ! allow res.cdn.office.net reason: required for outlook

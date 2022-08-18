@@ -3714,7 +3714,7 @@
 ||gfx.ms^
 ||statics-marketingsites-neu-ms-com.akamaized.net^
 ||browser.pipe.aria.microsoft.com^
-||loki.delve.office.com^
+||loki.delve.office.com^$badfilter  # required for office365 contacts
 ||res-2.cdn.office.net^$badfilter  # required for outlook
 ||res-1.cdn.office.net^$badfilter  # required for outlook
 ||res.cdn.office.net^$badfilter  # required for outlook

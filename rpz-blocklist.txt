@@ -3646,7 +3646,7 @@ mem.gfx.ms CNAME .
 gfx.ms CNAME .
 statics-marketingsites-neu-ms-com.akamaized.net CNAME .
 browser.pipe.aria.microsoft.com CNAME .
-loki.delve.office.com CNAME .
+; allow loki.delve.office.com reason: required for office365 contacts
 ; allow res-2.cdn.office.net reason: required for outlook
 ; allow res-1.cdn.office.net reason: required for outlook
 ; allow res.cdn.office.net reason: required for outlook

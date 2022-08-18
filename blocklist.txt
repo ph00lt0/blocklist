@@ -16211,3 +16211,4 @@ $removeparam=af_adset
 ||go.sentinelone.com^
 ||res-geo.cdn.office.net^
 ||atm-fp-direct.office.com^
+||audioscrobbler.com^

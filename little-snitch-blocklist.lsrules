@@ -15312,6 +15312,7 @@
         "ws.audioscrobbler.com",
         "api.cider.sh",
         "askyourself.app",
-        "sentry.deepl.com"
+        "sentry.deepl.com",
+        "analytics.streetwriters.co"
     ]
 }

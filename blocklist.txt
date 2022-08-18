@@ -16213,7 +16213,7 @@ $removeparam=af_adset
 ||atm-fp-direct.office.com^
 ||audioscrobbler.com^
 ||ws.audioscrobbler.com^
-||api.cider.sh^
+||api.cider.sh^$badfilter  # required for app to start
 ||askyourself.app^
 ||linkedin.com^$removeparam=ct
 ||linkedin.com^$removeparam=trk

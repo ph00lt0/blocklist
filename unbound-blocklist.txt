@@ -15739,7 +15739,7 @@ local-zone: "res-geo.cdn.office.net." always_null
 local-zone: "atm-fp-direct.office.com." always_null
 local-zone: "audioscrobbler.com." always_null
 local-zone: "ws.audioscrobbler.com." always_null
-local-zone: "api.cider.sh." always_null
+# allow api.cider.sh reason: required for app to start
 local-zone: "askyourself.app." always_null
 local-zone: "sentry.deepl.com." always_null
 local-zone: "analytics.streetwriters.co." always_null

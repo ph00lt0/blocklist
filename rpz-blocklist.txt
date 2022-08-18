@@ -15736,7 +15736,7 @@ res-geo.cdn.office.net CNAME .
 atm-fp-direct.office.com CNAME .
 audioscrobbler.com CNAME .
 ws.audioscrobbler.com CNAME .
-api.cider.sh CNAME .
+; allow api.cider.sh reason: required for app to start
 askyourself.app CNAME .
 sentry.deepl.com CNAME .
 analytics.streetwriters.co CNAME .

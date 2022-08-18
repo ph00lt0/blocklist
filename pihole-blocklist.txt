@@ -15844,7 +15844,7 @@
 0.0.0.0 atm-fp-direct.office.com
 0.0.0.0 audioscrobbler.com
 0.0.0.0 ws.audioscrobbler.com
-0.0.0.0 api.cider.sh
+! allow api.cider.sh reason: required for app to start
 0.0.0.0 askyourself.app
 0.0.0.0 sentry.deepl.com
 0.0.0.0 analytics.streetwriters.co

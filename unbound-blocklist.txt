@@ -15743,3 +15743,4 @@ local-zone: "api.cider.sh." always_null
 local-zone: "askyourself.app." always_null
 local-zone: "sentry.deepl.com." always_null
 local-zone: "analytics.streetwriters.co." always_null
+local-zone: "i.umami.is." always_null

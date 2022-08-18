@@ -16219,3 +16219,4 @@ $removeparam=af_adset
 ||linkedin.com^$removeparam=trk
 ||sentry.deepl.com^
 ||analytics.streetwriters.co^
+||i.umami.is^

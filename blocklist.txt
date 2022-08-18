@@ -16221,3 +16221,4 @@ $removeparam=af_adset
 ||analytics.streetwriters.co^
 ||i.umami.is^
 ||umami.is^
+||events.streetwriters.co^

@@ -15315,6 +15315,7 @@
         "sentry.deepl.com",
         "analytics.streetwriters.co",
         "i.umami.is",
-        "umami.is"
+        "umami.is",
+        "events.streetwriters.co"
     ]
 }

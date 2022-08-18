@@ -15745,3 +15745,4 @@ local-zone: "sentry.deepl.com." always_null
 local-zone: "analytics.streetwriters.co." always_null
 local-zone: "i.umami.is." always_null
 local-zone: "umami.is." always_null
+local-zone: "events.streetwriters.co." always_null

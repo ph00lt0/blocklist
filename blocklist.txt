@@ -16215,3 +16215,4 @@ $removeparam=af_adset
 ||ws.audioscrobbler.com^
 ||api.cider.sh^
 ||askyourself.app^
+||linkedin.com^$removeparam=ct

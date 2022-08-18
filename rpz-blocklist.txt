@@ -15732,3 +15732,4 @@ cb.run CNAME .
 w3-reporting.reddit.com CNAME .
 clicks.careerbits.com CNAME .
 go.sentinelone.com CNAME .
+res-geo.cdn.office.net CNAME .

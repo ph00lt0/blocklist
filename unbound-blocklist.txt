@@ -15735,3 +15735,4 @@ local-zone: "cb.run." always_null
 local-zone: "w3-reporting.reddit.com." always_null
 local-zone: "clicks.careerbits.com." always_null
 local-zone: "go.sentinelone.com." always_null
+local-zone: "res-geo.cdn.office.net." always_null

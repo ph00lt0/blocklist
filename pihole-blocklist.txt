@@ -15840,3 +15840,4 @@
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 clicks.careerbits.com
 0.0.0.0 go.sentinelone.com
+0.0.0.0 res-geo.cdn.office.net

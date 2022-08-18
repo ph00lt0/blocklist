@@ -16209,3 +16209,4 @@ $removeparam=af_adset
 @@fingerprinted*.js$domain=stripe.com ## Required for stripe to load
 ||clicks.careerbits.com^
 ||go.sentinelone.com^
+||res-geo.cdn.office.net^

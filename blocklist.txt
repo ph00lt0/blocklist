@@ -16220,3 +16220,4 @@ $removeparam=af_adset
 ||sentry.deepl.com^
 ||analytics.streetwriters.co^
 ||i.umami.is^
+||umami.is^

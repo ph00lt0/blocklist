@@ -15741,3 +15741,4 @@ askyourself.app CNAME .
 sentry.deepl.com CNAME .
 analytics.streetwriters.co CNAME .
 i.umami.is CNAME .
+umami.is CNAME .

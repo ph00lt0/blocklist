@@ -16210,3 +16210,4 @@ $removeparam=af_adset
 ||clicks.careerbits.com^
 ||go.sentinelone.com^
 ||res-geo.cdn.office.net^
+||atm-fp-direct.office.com^

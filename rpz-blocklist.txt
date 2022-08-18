@@ -15737,3 +15737,4 @@ atm-fp-direct.office.com CNAME .
 audioscrobbler.com CNAME .
 ws.audioscrobbler.com CNAME .
 api.cider.sh CNAME .
+askyourself.app CNAME .

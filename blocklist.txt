@@ -16214,3 +16214,4 @@ $removeparam=af_adset
 ||audioscrobbler.com^
 ||ws.audioscrobbler.com^
 ||api.cider.sh^
+||askyourself.app^

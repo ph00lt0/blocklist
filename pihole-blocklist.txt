@@ -15846,3 +15846,4 @@
 0.0.0.0 ws.audioscrobbler.com
 0.0.0.0 api.cider.sh
 0.0.0.0 askyourself.app
+0.0.0.0 sentry.deepl.com

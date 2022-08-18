@@ -16217,3 +16217,4 @@ $removeparam=af_adset
 ||askyourself.app^
 ||linkedin.com^$removeparam=ct
 ||linkedin.com^$removeparam=trk
+||sentry.deepl.com^

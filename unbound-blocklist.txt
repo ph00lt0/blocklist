@@ -15733,3 +15733,4 @@ local-zone: "instaging.io." always_null
 local-zone: "cb.click." always_null
 local-zone: "cb.run." always_null
 local-zone: "w3-reporting.reddit.com." always_null
+local-zone: "clicks.careerbits.com." always_null

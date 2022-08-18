@@ -15309,6 +15309,7 @@
         "res-geo.cdn.office.net",
         "atm-fp-direct.office.com",
         "audioscrobbler.com",
-        "ws.audioscrobbler.com"
+        "ws.audioscrobbler.com",
+        "api.cider.sh"
     ]
 }

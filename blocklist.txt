@@ -16213,3 +16213,4 @@ $removeparam=af_adset
 ||atm-fp-direct.office.com^
 ||audioscrobbler.com^
 ||ws.audioscrobbler.com^
+||api.cider.sh^

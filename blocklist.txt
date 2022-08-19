@@ -16242,3 +16242,4 @@ $removeparam=af_adset
 ||smoot.apple.com^ # spotlight suggestions
 ||touch.facebook.com^
 ||mtouch.facebook.com^
+||humb.apple.com^

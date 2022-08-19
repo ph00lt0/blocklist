@@ -15762,3 +15762,4 @@ local-zone: "xp-cdn.apple.com." always_null
 local-zone: "smoot.apple.com." always_null
 local-zone: "touch.facebook.com." always_null
 local-zone: "mtouch.facebook.com." always_null
+local-zone: "humb.apple.com." always_null

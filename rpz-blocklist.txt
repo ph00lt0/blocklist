@@ -15759,3 +15759,4 @@ xp-cdn.apple.com CNAME .
 smoot.apple.com CNAME .
 touch.facebook.com CNAME .
 mtouch.facebook.com CNAME .
+humb.apple.com CNAME .

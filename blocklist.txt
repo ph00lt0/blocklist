@@ -16241,3 +16241,4 @@ $removeparam=af_adset
 ||xp-cdn.apple.com^ # reporting
 ||smoot.apple.com^ # spotlight suggestions
 ||touch.facebook.com^
+||mtouch.facebook.com^

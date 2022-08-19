@@ -15758,3 +15758,4 @@ local-zone: "cssubmissions.apple.com." always_null
 local-zone: "apzones.com." always_null
 local-zone: "icloud.com.cn." always_null
 local-zone: "diagassets.apple.com." always_null
+local-zone: "xp-cdn.apple.com." always_null

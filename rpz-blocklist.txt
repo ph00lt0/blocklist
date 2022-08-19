@@ -15755,3 +15755,4 @@ cssubmissions.apple.com CNAME .
 apzones.com CNAME .
 icloud.com.cn CNAME .
 diagassets.apple.com CNAME .
+xp-cdn.apple.com CNAME .

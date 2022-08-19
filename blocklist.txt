@@ -16237,4 +16237,5 @@ $removeparam=af_adset
 ||cssubmissions.apple.com^ # feedback
 ||apzones.com^ # icloud china
 ||icloud.com.cn^ # icloud china
-||diagassets.apple.com^
+||diagassets.apple.com^ # diagnostics
+||xp-cdn.apple.com^

@@ -15747,3 +15747,4 @@ local-zone: "i.umami.is." always_null
 local-zone: "umami.is." always_null
 local-zone: "events.streetwriters.co." always_null
 local-zone: "cpxl.golem.de." always_null
+local-zone: "tracker.remp-beam.golem.de." always_null

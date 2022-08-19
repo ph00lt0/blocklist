@@ -16238,5 +16238,6 @@ $removeparam=af_adset
 ||apzones.com^ # icloud china
 ||icloud.com.cn^ # icloud china
 ||diagassets.apple.com^ # diagnostics
-||xp-cdn.apple.com^
-||smoot.apple.com^
+||xp-cdn.apple.com^ # reporting
+||smoot.apple.com^ # spotlight suggestions
+||touch.facebook.com^

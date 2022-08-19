@@ -15757,3 +15757,4 @@ icloud.com.cn CNAME .
 diagassets.apple.com CNAME .
 xp-cdn.apple.com CNAME .
 smoot.apple.com CNAME .
+touch.facebook.com CNAME .

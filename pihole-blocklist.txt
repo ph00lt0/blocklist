@@ -15865,3 +15865,4 @@
 0.0.0.0 diagassets.apple.com
 0.0.0.0 xp-cdn.apple.com
 0.0.0.0 smoot.apple.com
+0.0.0.0 touch.facebook.com

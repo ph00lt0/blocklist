@@ -16239,3 +16239,4 @@ $removeparam=af_adset
 ||icloud.com.cn^ # icloud china
 ||diagassets.apple.com^ # diagnostics
 ||xp-cdn.apple.com^
+||smoot.apple.com^

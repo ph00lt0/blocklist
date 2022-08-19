@@ -16223,3 +16223,4 @@ $removeparam=af_adset
 ||umami.is^
 ||events.streetwriters.co^
 ^sentry-file-uploader^
+||avature.net^$removeparam=source2

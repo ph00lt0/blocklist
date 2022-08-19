@@ -15868,3 +15868,4 @@
 0.0.0.0 touch.facebook.com
 0.0.0.0 mtouch.facebook.com
 0.0.0.0 humb.apple.com
+0.0.0.0 metrics.plex.tv

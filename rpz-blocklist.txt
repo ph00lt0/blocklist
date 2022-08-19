@@ -15760,3 +15760,4 @@ smoot.apple.com CNAME .
 touch.facebook.com CNAME .
 mtouch.facebook.com CNAME .
 humb.apple.com CNAME .
+metrics.plex.tv CNAME .

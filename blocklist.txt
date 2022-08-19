@@ -16235,3 +16235,4 @@ $removeparam=af_adset
 ||schemaapp.com^
 ||fba.apple.com^
 ||cssubmissions.apple.com^
+||apzones.com^

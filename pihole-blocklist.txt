@@ -15860,3 +15860,4 @@
 0.0.0.0 schemaapp.com
 0.0.0.0 fba.apple.com
 0.0.0.0 cssubmissions.apple.com
+0.0.0.0 apzones.com

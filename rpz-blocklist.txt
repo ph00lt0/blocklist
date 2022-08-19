@@ -15752,3 +15752,4 @@ robert.golem.de CNAME .
 schemaapp.com CNAME .
 fba.apple.com CNAME .
 cssubmissions.apple.com CNAME .
+apzones.com CNAME .

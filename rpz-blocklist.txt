@@ -15743,3 +15743,4 @@ analytics.streetwriters.co CNAME .
 i.umami.is CNAME .
 umami.is CNAME .
 events.streetwriters.co CNAME .
+cpxl.golem.de CNAME .

@@ -16233,7 +16233,8 @@ $removeparam=af_adset
 ||ads.golem.de^
 ||robert.golem.de^
 ||schemaapp.com^
-||fba.apple.com^
-||cssubmissions.apple.com^
-||apzones.com^
-||icloud.com.cn^
+||fba.apple.com^ # feedback
+||cssubmissions.apple.com^ # feedback
+||apzones.com^ # icloud china
+||icloud.com.cn^ # icloud china
+||diagassets.apple.com^

@@ -15862,3 +15862,4 @@
 0.0.0.0 cssubmissions.apple.com
 0.0.0.0 apzones.com
 0.0.0.0 icloud.com.cn
+0.0.0.0 diagassets.apple.com

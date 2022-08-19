@@ -15754,3 +15754,4 @@ fba.apple.com CNAME .
 cssubmissions.apple.com CNAME .
 apzones.com CNAME .
 icloud.com.cn CNAME .
+diagassets.apple.com CNAME .

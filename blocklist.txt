@@ -16244,3 +16244,4 @@ $removeparam=af_adset
 ||mtouch.facebook.com^
 ||humb.apple.com^
 ||metrics.plex.tv^
+||tracking.epicgames.com^

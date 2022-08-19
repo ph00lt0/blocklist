@@ -15752,3 +15752,4 @@ local-zone: "remp-beam.golem.de." always_null
 local-zone: "data-62650cd9a5.golem.de." always_null
 local-zone: "ads.golem.de." always_null
 local-zone: "robert.golem.de." always_null
+local-zone: "schemaapp.com." always_null

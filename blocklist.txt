@@ -16222,3 +16222,4 @@ $removeparam=af_adset
 ||i.umami.is^
 ||umami.is^
 ||events.streetwriters.co^
+^sentry-file-uploader^

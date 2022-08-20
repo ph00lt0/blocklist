@@ -16248,3 +16248,4 @@ $removeparam=af_adset
 ||chatmailsecure.com^
 ||totalsec.io^
 ||airship.com^
+||appsgrowthpromo-pa.clients6.google.com^

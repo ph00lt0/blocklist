@@ -15768,3 +15768,4 @@ local-zone: "tracking.epicgames.com." always_null
 local-zone: "chatmailsecure.com." always_null
 local-zone: "totalsec.io." always_null
 local-zone: "airship.com." always_null
+local-zone: "appsgrowthpromo-pa.clients6.google.com." always_null

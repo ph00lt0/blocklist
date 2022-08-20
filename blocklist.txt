@@ -16245,3 +16245,4 @@ $removeparam=af_adset
 ||humb.apple.com^
 ||metrics.plex.tv^
 ||tracking.epicgames.com^
+||chatmailsecure.com^

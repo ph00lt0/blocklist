@@ -15765,3 +15765,4 @@ local-zone: "mtouch.facebook.com." always_null
 local-zone: "humb.apple.com." always_null
 local-zone: "metrics.plex.tv." always_null
 local-zone: "tracking.epicgames.com." always_null
+local-zone: "chatmailsecure.com." always_null

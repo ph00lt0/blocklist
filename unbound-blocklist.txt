@@ -15770,3 +15770,4 @@ local-zone: "totalsec.io." always_null
 local-zone: "airship.com." always_null
 local-zone: "appsgrowthpromo-pa.clients6.google.com." always_null
 local-zone: "people-pa.clients6.google.com." always_null
+local-zone: "fonts.loli.net." always_null

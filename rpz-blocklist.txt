@@ -15767,3 +15767,4 @@ totalsec.io CNAME .
 airship.com CNAME .
 appsgrowthpromo-pa.clients6.google.com CNAME .
 people-pa.clients6.google.com CNAME .
+fonts.loli.net CNAME .

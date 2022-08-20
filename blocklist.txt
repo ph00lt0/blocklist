@@ -16250,3 +16250,4 @@ $removeparam=af_adset
 ||airship.com^
 ||appsgrowthpromo-pa.clients6.google.com^
 ||people-pa.clients6.google.com^
+||fonts.loli.net^

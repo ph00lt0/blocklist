@@ -16246,3 +16246,4 @@ $removeparam=af_adset
 ||metrics.plex.tv^
 ||tracking.epicgames.com^
 ||chatmailsecure.com^
+||totalsec.io^

@@ -15763,3 +15763,4 @@ humb.apple.com CNAME .
 metrics.plex.tv CNAME .
 tracking.epicgames.com CNAME .
 chatmailsecure.com CNAME .
+totalsec.io CNAME .

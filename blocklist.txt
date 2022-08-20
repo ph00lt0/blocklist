@@ -16247,3 +16247,4 @@ $removeparam=af_adset
 ||tracking.epicgames.com^
 ||chatmailsecure.com^
 ||totalsec.io^
+||airship.com^

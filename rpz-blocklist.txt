@@ -15764,3 +15764,4 @@ metrics.plex.tv CNAME .
 tracking.epicgames.com CNAME .
 chatmailsecure.com CNAME .
 totalsec.io CNAME .
+airship.com CNAME .

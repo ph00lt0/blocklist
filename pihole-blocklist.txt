@@ -15872,3 +15872,4 @@
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 chatmailsecure.com
 0.0.0.0 totalsec.io
+0.0.0.0 airship.com

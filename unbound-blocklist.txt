@@ -15767,3 +15767,4 @@ local-zone: "metrics.plex.tv." always_null
 local-zone: "tracking.epicgames.com." always_null
 local-zone: "chatmailsecure.com." always_null
 local-zone: "totalsec.io." always_null
+local-zone: "airship.com." always_null

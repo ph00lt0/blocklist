@@ -16254,3 +16254,4 @@ $removeparam=af_adset
 ||performics.com^
 ||tinyurl.com^
 ||wipik.bit.nl^
+||smartsuppchat.com^

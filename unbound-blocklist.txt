@@ -15774,3 +15774,4 @@ local-zone: "fonts.loli.net." always_null
 local-zone: "performics.com." always_null
 local-zone: "tinyurl.com." always_null
 local-zone: "wipik.bit.nl." always_null
+local-zone: "smartsuppchat.com." always_null

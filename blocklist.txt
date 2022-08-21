@@ -6369,7 +6369,7 @@ $removeparam=afftrack
 ||api.moengage.com^
 ||apiv2.moengage.com^
 ||mocaplatform.com^
-||appcenter.ms^
+||appcenter.ms^$badfilter  # Azure app store
 ||metrics.dropwizard.io^
 ||www.metaps.com^
 ||www.mediba.jp^

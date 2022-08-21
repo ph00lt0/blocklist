@@ -6298,7 +6298,7 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 mocaplatform.com
-0.0.0.0 appcenter.ms
+! allow appcenter.ms reason: Azure app store
 0.0.0.0 metrics.dropwizard.io
 0.0.0.0 www.metaps.com
 0.0.0.0 www.mediba.jp

@@ -6200,7 +6200,7 @@ local-zone: "moengage.com." always_null
 local-zone: "api.moengage.com." always_null
 local-zone: "apiv2.moengage.com." always_null
 local-zone: "mocaplatform.com." always_null
-local-zone: "appcenter.ms." always_null
+# allow appcenter.ms reason: Azure app store
 local-zone: "metrics.dropwizard.io." always_null
 local-zone: "www.metaps.com." always_null
 local-zone: "www.mediba.jp." always_null

@@ -3830,7 +3830,7 @@ klik.nrc.nl CNAME .
 checkip.dyndns.org CNAME .
 cmp.viva.nl CNAME .
 writing.chelseakomlo.com CNAME .
-in.appcenter.ms CNAME .
+in.; allow appcenter.ms reason: Azure app store
 win10-trt.msedge.net CNAME .
 analytics.sketchup.com CNAME .
 gmail.com.dbl.spamhaus.org CNAME .
@@ -6197,7 +6197,7 @@ moengage.com CNAME .
 api.moengage.com CNAME .
 apiv2.moengage.com CNAME .
 mocaplatform.com CNAME .
-appcenter.ms CNAME .
+; allow appcenter.ms reason: Azure app store
 metrics.dropwizard.io CNAME .
 www.metaps.com CNAME .
 www.mediba.jp CNAME .

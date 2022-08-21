@@ -16252,3 +16252,4 @@ $removeparam=af_adset
 ||people-pa.clients6.google.com^
 ||fonts.loli.net^
 ||performics.com^
+||tinyurl.com^

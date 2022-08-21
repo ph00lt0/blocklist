@@ -15769,3 +15769,4 @@ appsgrowthpromo-pa.clients6.google.com CNAME .
 people-pa.clients6.google.com CNAME .
 fonts.loli.net CNAME .
 performics.com CNAME .
+tinyurl.com CNAME .

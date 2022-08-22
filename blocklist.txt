@@ -16267,3 +16267,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||rtstat.api.rt.com^
 ||dmtgvn.com^
 ||skcrtxr.com^
+||roxot-panel.com^

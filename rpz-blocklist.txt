@@ -15779,3 +15779,4 @@ datacompany.co.za CNAME .
 rtstat.api.rt.com CNAME .
 dmtgvn.com CNAME .
 skcrtxr.com CNAME .
+roxot-panel.com CNAME .

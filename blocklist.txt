@@ -16266,3 +16266,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||datacompany.co.za^
 ||rtstat.api.rt.com^
 ||dmtgvn.com^
+||skcrtxr.com^

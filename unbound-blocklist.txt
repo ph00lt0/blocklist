@@ -15777,3 +15777,4 @@ local-zone: "wipik.bit.nl." always_null
 local-zone: "smartsuppchat.com." always_null
 local-zone: "clicks.mlsend.com." always_null
 local-zone: "starleads.org." always_null
+local-zone: "viewstripo.email." always_null

@@ -16260,3 +16260,4 @@ transip.eu##+js(rc, consent-popup--no-scroll, body, stay)
 ||clicks.mlsend.com^
 team.blue##+js(rc, html-with-one-modal, html, stay)
 ovh.com##+js(rc, manager-cookie-policy-banner-backdrop, div, stay)
+modal-backdrop##+js(rc, ovh.com, div, stay)

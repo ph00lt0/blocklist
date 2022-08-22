@@ -15776,3 +15776,4 @@ clicks.mlsend.com CNAME .
 starleads.org CNAME .
 viewstripo.email CNAME .
 datacompany.co.za CNAME .
+rtstat.api.rt.com CNAME .

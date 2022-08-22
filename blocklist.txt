@@ -16263,3 +16263,4 @@ ovh.com##+js(rc, manager-cookie-policy-banner-backdrop, div, stay)
 ovh.com##+js(rc, modal-backdrop, div, stay)
 ||starleads.org^
 ||viewstripo.email^
+||datacompany.co.za^

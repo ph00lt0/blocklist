@@ -15798,3 +15798,4 @@ local-zone: "events.apester.com." always_null
 local-zone: "t.skimresources.com." always_null
 local-zone: "player-telemetry.vimeo.com." always_null
 local-zone: "log2.spotify.com." always_null
+local-zone: "partner-service.spotify.com." always_null

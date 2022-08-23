@@ -15903,3 +15903,4 @@
 0.0.0.0 t.skimresources.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 log2.spotify.com
+0.0.0.0 partner-service.spotify.com

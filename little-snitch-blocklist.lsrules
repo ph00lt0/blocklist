@@ -15366,6 +15366,7 @@
         "events.apester.com",
         "t.skimresources.com",
         "player-telemetry.vimeo.com",
-        "log2.spotify.com"
+        "log2.spotify.com",
+        "partner-service.spotify.com"
     ]
 }

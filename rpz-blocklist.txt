@@ -15801,3 +15801,4 @@ crashdump.spotify.com CNAME .
 crashdump.ciqe-gslb.spotify.com CNAME .
 atom.adjust.com CNAME .
 ulink.adjust.com CNAME .
+view.adjust.com CNAME .

@@ -15804,3 +15804,4 @@ local-zone: "crashdump.spotify.com." always_null
 local-zone: "crashdump.ciqe-gslb.spotify.com." always_null
 local-zone: "atom.adjust.com." always_null
 local-zone: "ulink.adjust.com." always_null
+local-zone: "view.adjust.com." always_null

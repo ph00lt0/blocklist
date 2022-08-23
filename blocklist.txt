@@ -16290,3 +16290,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||crashdump.ciqe-gslb.spotify.com^
 ||atom.adjust.com^
 ||ulink.adjust.com^
+||view.adjust.com^

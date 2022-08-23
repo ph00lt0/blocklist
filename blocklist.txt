@@ -16285,3 +16285,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||player-telemetry.vimeo.com^
 ||log2.spotify.com^
 ||partner-service.spotify.com^
+||pci.spotify.com^

@@ -15794,3 +15794,4 @@ pixel.myappfree.com CNAME .
 events.apester.com CNAME .
 t.skimresources.com CNAME .
 player-telemetry.vimeo.com CNAME .
+log2.spotify.com CNAME .

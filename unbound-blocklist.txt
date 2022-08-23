@@ -15807,3 +15807,4 @@ local-zone: "ulink.adjust.com." always_null
 local-zone: "view.adjust.com." always_null
 local-zone: "a.admob.com." always_null
 local-zone: "tracking.admobsphere.com." always_null
+local-zone: "admobsphere.com." always_null

@@ -16280,3 +16280,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||ad.mrtnsvr.com^
 ||tag.wknd.ai^
 ||pixel.myappfree.com^
+||events.apester.com^

@@ -15794,3 +15794,4 @@ local-zone: "interaction.apester.com." always_null
 local-zone: "ad.mrtnsvr.com." always_null
 local-zone: "tag.wknd.ai." always_null
 local-zone: "pixel.myappfree.com." always_null
+local-zone: "events.apester.com." always_null

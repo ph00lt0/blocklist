@@ -15899,3 +15899,4 @@
 0.0.0.0 ad.mrtnsvr.com
 0.0.0.0 tag.wknd.ai
 0.0.0.0 pixel.myappfree.com
+0.0.0.0 events.apester.com

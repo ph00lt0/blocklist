@@ -15791,3 +15791,4 @@ interaction.apester.com CNAME .
 ad.mrtnsvr.com CNAME .
 tag.wknd.ai CNAME .
 pixel.myappfree.com CNAME .
+events.apester.com CNAME .

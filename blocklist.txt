@@ -16273,3 +16273,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||ads.travelaudience.com^
 ||api-partner.spotify.com^
 ||tracking.prd.mz.internal.unity3d.com^
+||pixel.spotify.com^

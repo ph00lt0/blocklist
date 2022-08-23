@@ -15892,3 +15892,4 @@
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 api-partner.spotify.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
+0.0.0.0 pixel.spotify.com

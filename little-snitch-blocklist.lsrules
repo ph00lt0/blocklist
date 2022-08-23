@@ -15377,6 +15377,7 @@
         "a.admob.com",
         "tracking.admobsphere.com",
         "admobsphere.com",
-        "gmtdmp.com"
+        "gmtdmp.com",
+        "crashlytics.twimg.com"
     ]
 }

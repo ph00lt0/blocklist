@@ -16276,3 +16276,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||pixel.spotify.com^
 ||adpushup-d.openx.net^
 ||t.mookie1.com^
+||interaction.apester.com^

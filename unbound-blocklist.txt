@@ -15790,3 +15790,4 @@ local-zone: "tracking.prd.mz.internal.unity3d.com." always_null
 local-zone: "pixel.spotify.com." always_null
 local-zone: "adpushup-d.openx.net." always_null
 local-zone: "t.mookie1.com." always_null
+local-zone: "interaction.apester.com." always_null

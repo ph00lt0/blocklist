@@ -15906,3 +15906,4 @@
 0.0.0.0 partner-service.spotify.com
 0.0.0.0 pci.spotify.com
 0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashdump.ciqe-gslb.spotify.com

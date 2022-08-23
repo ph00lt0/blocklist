@@ -15798,3 +15798,4 @@ log2.spotify.com CNAME .
 partner-service.spotify.com CNAME .
 pci.spotify.com CNAME .
 crashdump.spotify.com CNAME .
+crashdump.ciqe-gslb.spotify.com CNAME .

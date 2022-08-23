@@ -16298,3 +16298,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||crashlytics.twimg.com^
 ||leanlab.co^
 ||track.leanlab.co^
+||bitsontherun.com^

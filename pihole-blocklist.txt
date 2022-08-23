@@ -15893,3 +15893,4 @@
 0.0.0.0 api-partner.spotify.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 adpushup-d.openx.net

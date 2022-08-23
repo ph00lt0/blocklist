@@ -15782,3 +15782,4 @@ roxot-panel.com CNAME .
 lp-cdn.lastpass.com CNAME .
 odr.mookie1.com CNAME .
 ads.travelaudience.com CNAME .
+api-partner.spotify.com CNAME .

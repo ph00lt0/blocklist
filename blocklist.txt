@@ -16271,3 +16271,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||lp-cdn.lastpass.com^
 ||odr.mookie1.com^
 ||ads.travelaudience.com^
+||api-partner.spotify.com^

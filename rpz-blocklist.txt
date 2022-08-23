@@ -15797,3 +15797,4 @@ player-telemetry.vimeo.com CNAME .
 log2.spotify.com CNAME .
 partner-service.spotify.com CNAME .
 pci.spotify.com CNAME .
+crashdump.spotify.com CNAME .

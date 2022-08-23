@@ -16286,3 +16286,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||log2.spotify.com^
 ||partner-service.spotify.com^
 ||pci.spotify.com^
+||crashdump.spotify.com^

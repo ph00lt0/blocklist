@@ -15905,3 +15905,4 @@
 0.0.0.0 log2.spotify.com
 0.0.0.0 partner-service.spotify.com
 0.0.0.0 pci.spotify.com
+0.0.0.0 crashdump.spotify.com

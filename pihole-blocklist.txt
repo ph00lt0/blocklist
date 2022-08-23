@@ -15923,3 +15923,4 @@
 0.0.0.0 myvisualiq.net
 0.0.0.0 omaze.com
 0.0.0.0 teliasoneracdn.net
+0.0.0.0 thewhizmarketing.com

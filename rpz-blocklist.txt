@@ -15815,3 +15815,4 @@ tune.com CNAME .
 myvisualiq.net CNAME .
 omaze.com CNAME .
 teliasoneracdn.net CNAME .
+thewhizmarketing.com CNAME .

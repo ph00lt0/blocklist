@@ -16304,3 +16304,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||myvisualiq.net^
 ||omaze.com^
 ||teliasoneracdn.net^
+||thewhizmarketing.com^

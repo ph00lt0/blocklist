@@ -8574,7 +8574,6 @@ local-zone: "*.symauth.com." always_null
 local-zone: "*.symcb.com." always_null
 local-zone: "*.symcd.com." always_null
 local-zone: "*.textnow.com." always_null
-local-zone: "*.1e100.net." always_null
 local-zone: "*.app-measurement.net." always_null
 local-zone: "rutracker.org." always_null
 local-zone: "rutor.info." always_null

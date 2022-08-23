@@ -8967,7 +8967,7 @@ fd.nl##.fd-message
 ||*.symcb.com^
 ||*.symcd.com^
 ||*.textnow.com^
-||*.1e100.net^
+@@||*.1e100.net^ # Google Server Discovery
 ||*.app-measurement.net^
 ||rutracker.org^
 ||rutor.info^

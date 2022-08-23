@@ -8679,7 +8679,6 @@
 0.0.0.0 *.symcb.com
 0.0.0.0 *.symcd.com
 0.0.0.0 *.textnow.com
-0.0.0.0 *.1e100.net
 0.0.0.0 *.app-measurement.net
 0.0.0.0 rutracker.org
 0.0.0.0 rutor.info

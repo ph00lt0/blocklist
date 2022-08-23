@@ -8571,7 +8571,6 @@ dfp6rglgjqszk.cloudfront.net CNAME .
 *.symcb.com CNAME .
 *.symcd.com CNAME .
 *.textnow.com CNAME .
-*.1e100.net CNAME .
 *.app-measurement.net CNAME .
 rutracker.org CNAME .
 rutor.info CNAME .

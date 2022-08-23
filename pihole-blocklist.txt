@@ -15901,3 +15901,4 @@
 0.0.0.0 pixel.myappfree.com
 0.0.0.0 events.apester.com
 0.0.0.0 t.skimresources.com
+0.0.0.0 player-telemetry.vimeo.com

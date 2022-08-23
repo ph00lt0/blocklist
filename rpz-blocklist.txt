@@ -15793,3 +15793,4 @@ tag.wknd.ai CNAME .
 pixel.myappfree.com CNAME .
 events.apester.com CNAME .
 t.skimresources.com CNAME .
+player-telemetry.vimeo.com CNAME .

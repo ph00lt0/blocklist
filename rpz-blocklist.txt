@@ -15780,3 +15780,4 @@ rtstat.api.rt.com CNAME .
 dmtgvn.com CNAME .
 skcrtxr.com CNAME .
 roxot-panel.com CNAME .
+lp-cdn.lastpass.com CNAME .

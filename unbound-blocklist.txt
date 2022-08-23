@@ -15783,3 +15783,4 @@ local-zone: "rtstat.api.rt.com." always_null
 local-zone: "dmtgvn.com." always_null
 local-zone: "skcrtxr.com." always_null
 local-zone: "roxot-panel.com." always_null
+local-zone: "lp-cdn.lastpass.com." always_null

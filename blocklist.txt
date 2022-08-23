@@ -16268,3 +16268,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||dmtgvn.com^
 ||skcrtxr.com^
 ||roxot-panel.com^
+||lp-cdn.lastpass.com^

@@ -15371,6 +15371,7 @@
         "pci.spotify.com",
         "crashdump.spotify.com",
         "crashdump.ciqe-gslb.spotify.com",
-        "atom.adjust.com"
+        "atom.adjust.com",
+        "ulink.adjust.com"
     ]
 }

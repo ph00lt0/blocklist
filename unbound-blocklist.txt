@@ -15817,3 +15817,4 @@ local-zone: "media-match.com." always_null
 local-zone: "tune.com." always_null
 local-zone: "myvisualiq.net." always_null
 local-zone: "omaze.com." always_null
+local-zone: "teliasoneracdn.net." always_null

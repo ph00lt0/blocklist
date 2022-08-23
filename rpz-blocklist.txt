@@ -15814,3 +15814,4 @@ media-match.com CNAME .
 tune.com CNAME .
 myvisualiq.net CNAME .
 omaze.com CNAME .
+teliasoneracdn.net CNAME .

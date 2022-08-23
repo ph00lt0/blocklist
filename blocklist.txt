@@ -16279,3 +16279,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||interaction.apester.com^
 ||ad.mrtnsvr.com^
 ||tag.wknd.ai^
+||pixel.myappfree.com^

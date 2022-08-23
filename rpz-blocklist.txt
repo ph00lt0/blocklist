@@ -15790,3 +15790,4 @@ t.mookie1.com CNAME .
 interaction.apester.com CNAME .
 ad.mrtnsvr.com CNAME .
 tag.wknd.ai CNAME .
+pixel.myappfree.com CNAME .

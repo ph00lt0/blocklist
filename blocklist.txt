@@ -16296,3 +16296,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||admobsphere.com^
 ||gmtdmp.com^
 ||crashlytics.twimg.com^
+||leanlab.co^

@@ -15810,3 +15810,4 @@ local-zone: "tracking.admobsphere.com." always_null
 local-zone: "admobsphere.com." always_null
 local-zone: "gmtdmp.com." always_null
 local-zone: "crashlytics.twimg.com." always_null
+local-zone: "leanlab.co." always_null

@@ -16288,3 +16288,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||pci.spotify.com^
 ||crashdump.spotify.com^
 ||crashdump.ciqe-gslb.spotify.com^
+||atom.adjust.com^

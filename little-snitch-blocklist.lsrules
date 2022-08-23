@@ -15370,6 +15370,7 @@
         "partner-service.spotify.com",
         "pci.spotify.com",
         "crashdump.spotify.com",
-        "crashdump.ciqe-gslb.spotify.com"
+        "crashdump.ciqe-gslb.spotify.com",
+        "atom.adjust.com"
     ]
 }

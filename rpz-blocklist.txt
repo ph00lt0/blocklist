@@ -15816,3 +15816,4 @@ myvisualiq.net CNAME .
 omaze.com CNAME .
 teliasoneracdn.net CNAME .
 thewhizmarketing.com CNAME .
+zwizzarmyknife.com CNAME .

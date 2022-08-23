@@ -15819,3 +15819,4 @@ local-zone: "myvisualiq.net." always_null
 local-zone: "omaze.com." always_null
 local-zone: "teliasoneracdn.net." always_null
 local-zone: "thewhizmarketing.com." always_null
+local-zone: "zwizzarmyknife.com." always_null

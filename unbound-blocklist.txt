@@ -15822,3 +15822,4 @@ local-zone: "thewhizmarketing.com." always_null
 local-zone: "zwizzarmyknife.com." always_null
 local-zone: "log.olark.com." always_null
 local-zone: "t13.io." always_null
+local-zone: "firebaseperusertopics-pa.googleapis.com." always_null

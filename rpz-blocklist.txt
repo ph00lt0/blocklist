@@ -15792,3 +15792,4 @@ ad.mrtnsvr.com CNAME .
 tag.wknd.ai CNAME .
 pixel.myappfree.com CNAME .
 events.apester.com CNAME .
+t.skimresources.com CNAME .

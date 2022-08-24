@@ -15825,3 +15825,4 @@ local-zone: "t13.io." always_null
 local-zone: "firebaseperusertopics-pa.googleapis.com." always_null
 local-zone: "xplosion.de." always_null
 local-zone: "m6r.eu." always_null
+local-zone: "stats.kiwix.org." always_null

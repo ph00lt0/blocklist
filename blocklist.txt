@@ -16311,3 +16311,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||firebaseperusertopics-pa.googleapis.com^
 ||xplosion.de^
 ||m6r.eu^
+allegro.pl##[data-role="accept-consent"]

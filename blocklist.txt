@@ -16312,3 +16312,4 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||xplosion.de^
 ||m6r.eu^
 allegro.pl##[data-role="accept-consent"]
+allegro.pl##[data-role='accept-consent']

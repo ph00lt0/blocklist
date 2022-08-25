@@ -16315,3 +16315,4 @@ allegro.pl##[data-role="accept-consent"]
 allegro.pl##[data-role='accept-consent']
 ||stats.kiwix.org^
 ||e.pcloud.link^
+||nuvei.com^

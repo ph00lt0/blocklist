@@ -15827,3 +15827,4 @@ local-zone: "xplosion.de." always_null
 local-zone: "m6r.eu." always_null
 local-zone: "stats.kiwix.org." always_null
 local-zone: "e.pcloud.link." always_null
+local-zone: "nuvei.com." always_null

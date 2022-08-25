@@ -15825,3 +15825,4 @@ m6r.eu CNAME .
 stats.kiwix.org CNAME .
 e.pcloud.link CNAME .
 nuvei.com CNAME .
+safecharge.com CNAME .

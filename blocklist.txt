@@ -16319,3 +16319,4 @@ allegro.pl##[data-role='accept-consent']
 ||safecharge.com^
 ||evs.cdp.alle.com^
 ||click.endnote.com^
+||exp.notion.so^

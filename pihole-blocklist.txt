@@ -15934,3 +15934,4 @@
 0.0.0.0 e.pcloud.link
 0.0.0.0 nuvei.com
 0.0.0.0 safecharge.com
+0.0.0.0 evs.cdp.alle.com

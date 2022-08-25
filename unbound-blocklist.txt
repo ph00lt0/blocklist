@@ -15829,3 +15829,4 @@ local-zone: "stats.kiwix.org." always_null
 local-zone: "e.pcloud.link." always_null
 local-zone: "nuvei.com." always_null
 local-zone: "safecharge.com." always_null
+local-zone: "evs.cdp.alle.com." always_null

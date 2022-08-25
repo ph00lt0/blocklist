@@ -12450,7 +12450,7 @@ im.cyberport.de CNAME .
 api-tiger.zoovu.com CNAME .
 click.alternate.de CNAME .
 chat.alternate.nl CNAME .
-lp2.hm.com CNAME .
+; allow lp2.hm.com reason: Image CDN
 e2712.b.akamaiedge.net CNAME .
 lp.weekday.com CNAME .
 weekday.com CNAME .

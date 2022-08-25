@@ -12558,7 +12558,7 @@
 0.0.0.0 api-tiger.zoovu.com
 0.0.0.0 click.alternate.de
 0.0.0.0 chat.alternate.nl
-0.0.0.0 lp2.hm.com
+! allow lp2.hm.com reason: Image CDN
 0.0.0.0 e2712.b.akamaiedge.net
 0.0.0.0 lp.weekday.com
 0.0.0.0 weekday.com

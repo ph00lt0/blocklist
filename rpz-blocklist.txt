@@ -15921,3 +15921,4 @@ indicative.com CNAME .
 blendo.co CNAME .
 brandmaxima.com CNAME .
 klenty.com CNAME .
+getgist.com CNAME .

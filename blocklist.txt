@@ -16370,3 +16370,4 @@ $removeparam=gspk
 ||callpage.io^
 ||contestdomination.com^
 ||easypromosapp.com^
+||gleam.io^

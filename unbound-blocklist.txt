@@ -15878,3 +15878,4 @@ local-zone: "driftrock.com." always_null
 local-zone: "callpage.io." always_null
 local-zone: "contestdomination.com." always_null
 local-zone: "easypromosapp.com." always_null
+local-zone: "gleam.io." always_null

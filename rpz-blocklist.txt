@@ -15875,3 +15875,4 @@ driftrock.com CNAME .
 callpage.io CNAME .
 contestdomination.com CNAME .
 easypromosapp.com CNAME .
+gleam.io CNAME .

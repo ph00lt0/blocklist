@@ -16366,3 +16366,4 @@ $removeparam=gspk
 ^ref.html^
 ^ref.php^
 ||app.clickfunnels.com^
+||driftrock.com^

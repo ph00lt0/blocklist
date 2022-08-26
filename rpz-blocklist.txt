@@ -16080,3 +16080,4 @@ surveyfunnel.io CNAME .
 pointerpro.com CNAME .
 surveybot.io CNAME .
 surveymethods.com CNAME .
+surveymonkey.com CNAME .

@@ -15852,3 +15852,4 @@ local-zone: "simplytapp.com." always_null
 local-zone: "insiktsverige.se." always_null
 local-zone: "recordedfuture.com." always_null
 local-zone: "nep.advangelists.com." always_null
+local-zone: "transfersh.com." always_null

@@ -15854,3 +15854,4 @@ local-zone: "recordedfuture.com." always_null
 local-zone: "nep.advangelists.com." always_null
 local-zone: "transfersh.com." always_null
 local-zone: "scripts.withcabin.com." always_null
+local-zone: "withcabin.com." always_null

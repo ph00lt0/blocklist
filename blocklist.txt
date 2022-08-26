@@ -16343,3 +16343,4 @@ allegro.pl##[data-role='accept-consent']
 ||nep.advangelists.com^
 ||transfersh.com^
 ||scripts.withcabin.com^
+||withcabin.com^

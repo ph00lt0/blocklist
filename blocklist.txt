@@ -16421,3 +16421,4 @@ $removeparam=gsxid
 ||klenty.com^
 ||getgist.com^
 ||widget.getgist.com^
+||uplandsoftware.com^

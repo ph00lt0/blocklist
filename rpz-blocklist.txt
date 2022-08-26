@@ -15923,3 +15923,4 @@ brandmaxima.com CNAME .
 klenty.com CNAME .
 getgist.com CNAME .
 widget.getgist.com CNAME .
+uplandsoftware.com CNAME .

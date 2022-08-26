@@ -16015,3 +16015,4 @@ oncehub.com CNAME .
 webeo.com CNAME .
 mkr1en1mksitesap.blob.core.windows.net CNAME .
 fastory.io CNAME .
+story.tl CNAME .

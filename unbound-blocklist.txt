@@ -16018,3 +16018,4 @@ local-zone: "oncehub.com." always_null
 local-zone: "webeo.com." always_null
 local-zone: "mkr1en1mksitesap.blob.core.windows.net." always_null
 local-zone: "fastory.io." always_null
+local-zone: "story.tl." always_null

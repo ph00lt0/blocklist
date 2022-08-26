@@ -15960,3 +15960,4 @@
 0.0.0.0 transfersh.com
 0.0.0.0 scripts.withcabin.com
 0.0.0.0 withcabin.com
+0.0.0.0 internal-analytics.odoo.com

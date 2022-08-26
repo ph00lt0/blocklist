@@ -16344,3 +16344,4 @@ allegro.pl##[data-role='accept-consent']
 ||transfersh.com^
 ||scripts.withcabin.com^
 ||withcabin.com^
+||internal-analytics.odoo.com^

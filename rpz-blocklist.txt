@@ -15884,3 +15884,4 @@ vbt.io CNAME .
 getvero.com CNAME .
 vextras.com CNAME .
 drum.io CNAME .
+tracking.drum.io CNAME .

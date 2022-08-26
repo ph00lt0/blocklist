@@ -15914,3 +15914,4 @@ ptwebsites.s3.amazonaws.com CNAME .
 remarkety.com CNAME .
 sendpulse.com CNAME .
 data.sendpulse.com CNAME .
+partnersrc.com CNAME .

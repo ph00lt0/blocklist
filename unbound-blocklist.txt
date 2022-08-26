@@ -15917,3 +15917,4 @@ local-zone: "ptwebsites.s3.amazonaws.com." always_null
 local-zone: "remarkety.com." always_null
 local-zone: "sendpulse.com." always_null
 local-zone: "data.sendpulse.com." always_null
+local-zone: "partnersrc.com." always_null

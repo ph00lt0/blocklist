@@ -16502,3 +16502,4 @@ $removeparam=gsxid
 ||teamwalnut.com^
 ||devdirect.com^
 ||siaffiliate.com^
+||rewardful.com^

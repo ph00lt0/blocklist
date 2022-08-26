@@ -15892,3 +15892,4 @@ local-zone: "kickofflabs.com." always_null
 local-zone: "popupdomination.com." always_null
 local-zone: "prefinery.com." always_null
 local-zone: "glowing-van.prefinery.com." always_null
+local-zone: "rafflecopter.com." always_null

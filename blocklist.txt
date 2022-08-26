@@ -16478,3 +16478,4 @@ $removeparam=gsxid
 ||referralhero.com^
 ||saasquatch.com^
 ||info.saasquatch.com^
+||upviral.com^

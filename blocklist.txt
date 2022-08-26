@@ -16320,3 +16320,4 @@ allegro.pl##[data-role='accept-consent']
 ||evs.cdp.alle.com^
 ||click.endnote.com^
 ||exp.notion.so^
+||www.telefoon-discounter.nl^

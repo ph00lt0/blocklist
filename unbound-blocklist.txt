@@ -15856,3 +15856,4 @@ local-zone: "transfersh.com." always_null
 local-zone: "scripts.withcabin.com." always_null
 local-zone: "withcabin.com." always_null
 local-zone: "internal-analytics.odoo.com." always_null
+local-zone: "leadberry.com." always_null

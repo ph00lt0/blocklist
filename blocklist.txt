@@ -16591,3 +16591,4 @@ $removeparam=fp_ref
 ||mailinglijst.nl^
 ||em-cultuur.nl^
 ||measuremail.com^
+||spotler.nl^

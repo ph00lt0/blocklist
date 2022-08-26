@@ -16038,3 +16038,4 @@ opteo.com CNAME .
 targeto.io CNAME .
 wordstream.com CNAME .
 marketing.wordstream.com CNAME .
+act.com CNAME .

@@ -16536,3 +16536,4 @@ $removeparam=gsxid
 ||targeto.io^
 ||wordstream.com^
 ||marketing.wordstream.com^
+||act.com^

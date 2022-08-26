@@ -16028,3 +16028,4 @@
 0.0.0.0 indicative.com
 0.0.0.0 blendo.co
 0.0.0.0 brandmaxima.com
+0.0.0.0 klenty.com

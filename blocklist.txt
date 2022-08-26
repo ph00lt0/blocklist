@@ -16418,3 +16418,4 @@ $removeparam=gsxid
 ||indicative.com^
 ||blendo.co^
 ||brandmaxima.com^
+||klenty.com^

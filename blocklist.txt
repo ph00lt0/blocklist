@@ -16563,3 +16563,4 @@ $removeparam=fp_ref
 ||sendx.io^
 ||ring4.com^
 ||verticalresponse.com^
+||pixelcog.github.io^

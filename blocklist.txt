@@ -16531,3 +16531,4 @@ $removeparam=gsxid
 ||admailr.com^
 ||emercury.net^
 ||adstage.io^
+||madgicx.com^

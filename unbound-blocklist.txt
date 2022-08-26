@@ -16036,3 +16036,4 @@ local-zone: "a.quora.com." always_null
 local-zone: "admailr.com." always_null
 local-zone: "emercury.net." always_null
 local-zone: "adstage.io." always_null
+local-zone: "madgicx.com." always_null

@@ -15841,3 +15841,4 @@ insikt.net CNAME .
 earlyiq.com CNAME .
 aeroleads.com CNAME .
 insikt.ai CNAME .
+insiktanalytics.com CNAME .

@@ -15949,3 +15949,4 @@
 0.0.0.0 earlyiq.com
 0.0.0.0 aeroleads.com
 0.0.0.0 insikt.ai
+0.0.0.0 insiktanalytics.com

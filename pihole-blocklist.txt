@@ -16130,3 +16130,4 @@
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 woorise.com
 0.0.0.0 elink.io
+0.0.0.0 getrevue.co

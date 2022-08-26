@@ -16520,3 +16520,4 @@ $removeparam=gsxid
 ||web-analytics.engagio.com^
 ||woorise.com^
 ||elink.io^
+||getrevue.co^

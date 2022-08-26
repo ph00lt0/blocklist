@@ -16022,3 +16022,4 @@ engagio.com CNAME .
 web-analytics.engagio.com CNAME .
 woorise.com CNAME .
 elink.io CNAME .
+getrevue.co CNAME .

@@ -15986,3 +15986,4 @@ nextsale.io CNAME .
 sdk.nextsale.io CNAME .
 nicejob.com CNAME .
 nicejob.co CNAME .
+quotientapp.com CNAME .

@@ -16021,3 +16021,4 @@
 0.0.0.0 ptwebsites.s3.amazonaws.com
 0.0.0.0 remarkety.com
 0.0.0.0 sendpulse.com
+0.0.0.0 data.sendpulse.com

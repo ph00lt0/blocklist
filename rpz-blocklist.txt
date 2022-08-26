@@ -16075,3 +16075,4 @@ go.checkmarket.com CNAME .
 helio.app CNAME .
 limesurvey.org CNAME .
 proprofs.com CNAME .
+quicktapsurvey.com CNAME .

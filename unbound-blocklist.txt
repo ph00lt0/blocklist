@@ -16020,3 +16020,4 @@ local-zone: "mkr1en1mksitesap.blob.core.windows.net." always_null
 local-zone: "fastory.io." always_null
 local-zone: "story.tl." always_null
 local-zone: "iterable.com." always_null
+local-zone: "go.iterable.com." always_null

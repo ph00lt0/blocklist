@@ -16471,3 +16471,4 @@ $removeparam=gsxid
 ||akitaapp.com^
 ||audiense.com^
 ||getambassador.com^
+||loopyloyalty.com^

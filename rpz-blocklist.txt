@@ -15973,3 +15973,4 @@ fearlessfaucet.com CNAME .
 akitaapp.com CNAME .
 audiense.com CNAME .
 getambassador.com CNAME .
+loopyloyalty.com CNAME .

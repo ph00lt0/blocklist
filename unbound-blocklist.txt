@@ -16096,3 +16096,4 @@ local-zone: "mailinglijst.nl." always_null
 local-zone: "em-cultuur.nl." always_null
 local-zone: "measuremail.com." always_null
 local-zone: "spotler.nl." always_null
+local-zone: "adpage.io." always_null

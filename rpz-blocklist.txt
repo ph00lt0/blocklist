@@ -16055,3 +16055,4 @@ icontact.com CNAME .
 wwwapi.icontact.com CNAME .
 mailblaze.com CNAME .
 mailigen.com CNAME .
+moonmail.io CNAME .

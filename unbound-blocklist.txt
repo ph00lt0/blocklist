@@ -16058,3 +16058,4 @@ local-zone: "icontact.com." always_null
 local-zone: "wwwapi.icontact.com." always_null
 local-zone: "mailblaze.com." always_null
 local-zone: "mailigen.com." always_null
+local-zone: "moonmail.io." always_null

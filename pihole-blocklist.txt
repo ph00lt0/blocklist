@@ -16039,3 +16039,4 @@
 0.0.0.0 interfax.com
 0.0.0.0 interfax.net
 0.0.0.0 accuroute.com
+0.0.0.0 accuroutefax.com

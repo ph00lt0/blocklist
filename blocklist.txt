@@ -16423,3 +16423,4 @@ $removeparam=gsxid
 ||widget.getgist.com^
 ||uplandsoftware.com^
 ||altify.com^
+||bluevenn.com^

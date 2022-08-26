@@ -15925,3 +15925,4 @@ getgist.com CNAME .
 widget.getgist.com CNAME .
 uplandsoftware.com CNAME .
 altify.com CNAME .
+bluevenn.com CNAME .

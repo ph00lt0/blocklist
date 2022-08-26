@@ -16061,4 +16061,3 @@ privy.com CNAME .
 reachmail.com CNAME .
 robly.com CNAME .
 sendloop.com CNAME .
-.sendx.io CNAME .

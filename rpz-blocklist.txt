@@ -15979,3 +15979,4 @@ referralrock.com CNAME .
 stats.referralhero.com CNAME .
 referralhero.com CNAME .
 saasquatch.com CNAME .
+info.saasquatch.com CNAME .

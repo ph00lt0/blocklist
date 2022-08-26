@@ -15982,3 +15982,4 @@ local-zone: "referralrock.com." always_null
 local-zone: "stats.referralhero.com." always_null
 local-zone: "referralhero.com." always_null
 local-zone: "saasquatch.com." always_null
+local-zone: "info.saasquatch.com." always_null

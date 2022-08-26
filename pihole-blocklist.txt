@@ -16047,3 +16047,4 @@
 0.0.0.0 bilinmedia.net
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 info.uplandsoftware.com
+0.0.0.0 aptivio.azure-api.net

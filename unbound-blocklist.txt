@@ -15942,3 +15942,4 @@ local-zone: "bainsight.com." always_null
 local-zone: "bilinmedia.net." always_null
 local-zone: "pixel.bilinmedia.net." always_null
 local-zone: "info.uplandsoftware.com." always_null
+local-zone: "aptivio.azure-api.net." always_null

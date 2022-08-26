@@ -16375,3 +16375,4 @@ $removeparam=gspk
 ||jumplead.io^
 ||d8brgcp0ybbew.cloudfront.net^
 ||vbout.com^
+||vbt.io^

@@ -15880,3 +15880,4 @@ jumplead.com CNAME .
 jumplead.io CNAME .
 d8brgcp0ybbew.cloudfront.net CNAME .
 vbout.com CNAME .
+vbt.io CNAME .

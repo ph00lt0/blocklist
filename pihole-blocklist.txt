@@ -16169,3 +16169,4 @@
 0.0.0.0 reachmail.com
 0.0.0.0 robly.com
 0.0.0.0 sendloop.com
+0.0.0.0 .sendx.io

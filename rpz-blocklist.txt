@@ -16067,3 +16067,4 @@ verticalresponse.com CNAME .
 pixelcog.github.io CNAME .
 verticalresponse.net CNAME .
 4screens.net CNAME .
+brandquiz.io CNAME .

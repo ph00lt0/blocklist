@@ -16566,3 +16566,4 @@ $removeparam=fp_ref
 ||pixelcog.github.io^
 ||verticalresponse.net^
 ||4screens.net^
+||brandquiz.io^

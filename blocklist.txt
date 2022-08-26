@@ -16518,3 +16518,4 @@ $removeparam=gsxid
 ||go.iterable.com^
 ||engagio.com^
 ||web-analytics.engagio.com^
+||woorise.com^

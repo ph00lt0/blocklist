@@ -16020,3 +16020,4 @@ iterable.com CNAME .
 go.iterable.com CNAME .
 engagio.com CNAME .
 web-analytics.engagio.com CNAME .
+woorise.com CNAME .

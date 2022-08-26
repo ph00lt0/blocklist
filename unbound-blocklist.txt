@@ -16029,3 +16029,4 @@ local-zone: "getrevue.co." always_null
 local-zone: "sendicate.net." always_null
 local-zone: "sendy.co." always_null
 local-zone: "tinyletter.com." always_null
+local-zone: "upscribe.net." always_null

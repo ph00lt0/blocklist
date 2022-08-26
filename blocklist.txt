@@ -16524,3 +16524,4 @@ $removeparam=gsxid
 ||sendicate.net^
 ||sendy.co^
 ||tinyletter.com^
+||upscribe.net^

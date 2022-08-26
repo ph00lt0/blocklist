@@ -16134,3 +16134,4 @@
 0.0.0.0 sendicate.net
 0.0.0.0 sendy.co
 0.0.0.0 tinyletter.com
+0.0.0.0 upscribe.net

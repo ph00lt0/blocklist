@@ -16026,3 +16026,4 @@ getrevue.co CNAME .
 sendicate.net CNAME .
 sendy.co CNAME .
 tinyletter.com CNAME .
+upscribe.net CNAME .

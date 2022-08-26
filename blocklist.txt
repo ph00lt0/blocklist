@@ -16340,3 +16340,4 @@ allegro.pl##[data-role='accept-consent']
 ||simplytapp.com^
 ||insiktsverige.se^
 ||recordedfuture.com^
+||nep.advangelists.com^

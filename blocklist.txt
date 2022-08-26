@@ -16365,3 +16365,4 @@ $removeparam=gspk
 ||dilogr.com^
 ^ref.html^
 ^ref.php^
+||app.clickfunnels.com^

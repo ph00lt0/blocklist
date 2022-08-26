@@ -16325,3 +16325,4 @@ allegro.pl##[data-role='accept-consent']
 ||icf.com^
 ||adage.com^
 ^quantcast-pixel.js^
+||insiktai.com^

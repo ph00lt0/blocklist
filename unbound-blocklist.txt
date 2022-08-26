@@ -15836,3 +15836,4 @@ local-zone: "www.telefoon-discounter.nl." always_null
 local-zone: "mybigcommerce.com." always_null
 local-zone: "icf.com." always_null
 local-zone: "adage.com." always_null
+local-zone: "insiktai.com." always_null

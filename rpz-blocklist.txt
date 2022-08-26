@@ -15989,3 +15989,4 @@ nicejob.co CNAME .
 quotientapp.com CNAME .
 reviewinc.com CNAME .
 nr4.me CNAME .
+happierleads.com CNAME .

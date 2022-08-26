@@ -16494,3 +16494,4 @@ $removeparam=gsxid
 ||terminusplatform.com^
 ||stamped.io^
 ||netreviews.com^
+||wiremo.co^

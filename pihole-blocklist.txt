@@ -16072,3 +16072,4 @@
 0.0.0.0 statbot.io
 0.0.0.0 idevaffiliate.com
 0.0.0.0 tend.io
+0.0.0.0 skyword.com

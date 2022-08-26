@@ -16462,3 +16462,4 @@ $removeparam=gsxid
 ||statbot.io^
 ||idevaffiliate.com^
 ||tend.io^
+||skyword.com^

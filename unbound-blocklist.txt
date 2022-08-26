@@ -15967,3 +15967,4 @@ local-zone: "repsly.com." always_null
 local-zone: "statbot.io." always_null
 local-zone: "idevaffiliate.com." always_null
 local-zone: "tend.io." always_null
+local-zone: "skyword.com." always_null

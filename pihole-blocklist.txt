@@ -15942,3 +15942,4 @@
 0.0.0.0 icf.com
 0.0.0.0 adage.com
 0.0.0.0 insiktai.com
+0.0.0.0 insikt.com

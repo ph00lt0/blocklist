@@ -15943,3 +15943,4 @@ aptivio.azure-api.net CNAME .
 comsci.com CNAME .
 eclipseppm.com CNAME .
 filebound.com CNAME .
+uplandcapture.com CNAME .

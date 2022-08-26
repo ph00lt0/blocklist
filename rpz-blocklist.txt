@@ -15874,3 +15874,4 @@ app.clickfunnels.com CNAME .
 driftrock.com CNAME .
 callpage.io CNAME .
 contestdomination.com CNAME .
+easypromosapp.com CNAME .

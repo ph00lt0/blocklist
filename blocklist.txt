@@ -16369,3 +16369,4 @@ $removeparam=gspk
 ||driftrock.com^
 ||callpage.io^
 ||contestdomination.com^
+||easypromosapp.com^

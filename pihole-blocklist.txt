@@ -16111,3 +16111,4 @@
 0.0.0.0 servetraffic.com
 0.0.0.0 teamwalnut.com
 0.0.0.0 devdirect.com
+0.0.0.0 siaffiliate.com

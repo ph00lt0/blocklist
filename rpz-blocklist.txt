@@ -16003,3 +16003,4 @@ everflow.io CNAME .
 servetraffic.com CNAME .
 teamwalnut.com CNAME .
 devdirect.com CNAME .
+siaffiliate.com CNAME .

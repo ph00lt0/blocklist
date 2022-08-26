@@ -15882,3 +15882,4 @@ d8brgcp0ybbew.cloudfront.net CNAME .
 vbout.com CNAME .
 vbt.io CNAME .
 getvero.com CNAME .
+vextras.com CNAME .

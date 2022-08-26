@@ -16043,3 +16043,4 @@ automizy.com CNAME .
 benchmarkemail.com CNAME .
 campayn.com CNAME .
 constantcontact.com CNAME .
+go.constantcontact.com CNAME .

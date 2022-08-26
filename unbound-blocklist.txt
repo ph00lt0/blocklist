@@ -15913,3 +15913,4 @@ local-zone: "leadsbridge.com." always_null
 local-zone: "kinsta.cloud." always_null
 local-zone: "mautic.com." always_null
 local-zone: "plusthis.com." always_null
+local-zone: "ptwebsites.s3.amazonaws.com." always_null

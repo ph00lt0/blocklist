@@ -16408,3 +16408,4 @@ $removeparam=gsxid
 ||kinsta.cloud^
 ||mautic.com^
 ||plusthis.com^
+||ptwebsites.s3.amazonaws.com^

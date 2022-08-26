@@ -15948,3 +15948,4 @@ kapost.com CNAME .
 objectiflune.com CNAME .
 panviva.com CNAME .
 postup.com CNAME .
+qvidian.eu CNAME .

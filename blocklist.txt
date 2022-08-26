@@ -16446,3 +16446,4 @@ $removeparam=gsxid
 ||objectiflune.com^
 ||panviva.com^
 ||postup.com^
+||qvidian.eu^

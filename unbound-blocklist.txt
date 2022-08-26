@@ -15881,3 +15881,4 @@ local-zone: "easypromosapp.com." always_null
 local-zone: "gleam.io." always_null
 local-zone: "jumplead.com." always_null
 local-zone: "jumplead.io." always_null
+local-zone: "d8brgcp0ybbew.cloudfront.net." always_null

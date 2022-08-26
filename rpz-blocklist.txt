@@ -15878,3 +15878,4 @@ easypromosapp.com CNAME .
 gleam.io CNAME .
 jumplead.com CNAME .
 jumplead.io CNAME .
+d8brgcp0ybbew.cloudfront.net CNAME .

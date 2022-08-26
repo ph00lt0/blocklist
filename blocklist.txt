@@ -16373,3 +16373,4 @@ $removeparam=gspk
 ||gleam.io^
 ||jumplead.com^
 ||jumplead.io^
+||d8brgcp0ybbew.cloudfront.net^

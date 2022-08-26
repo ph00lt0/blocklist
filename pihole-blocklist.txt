@@ -16122,3 +16122,4 @@
 0.0.0.0 oncehub.com
 0.0.0.0 webeo.com
 0.0.0.0 mkr1en1mksitesap.blob.core.windows.net
+0.0.0.0 fastory.io

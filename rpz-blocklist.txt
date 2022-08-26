@@ -15876,3 +15876,4 @@ callpage.io CNAME .
 contestdomination.com CNAME .
 easypromosapp.com CNAME .
 gleam.io CNAME .
+jumplead.com CNAME .

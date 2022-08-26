@@ -16371,3 +16371,4 @@ $removeparam=gspk
 ||contestdomination.com^
 ||easypromosapp.com^
 ||gleam.io^
+||jumplead.com^

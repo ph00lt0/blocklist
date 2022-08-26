@@ -16396,3 +16396,4 @@ $removeparam=gspk
 ||engagebay.com^
 ||appon.radiantthemes.com^
 ||funnel.io^
+||collector.funnel.io^

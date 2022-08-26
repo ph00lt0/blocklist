@@ -16037,3 +16037,4 @@
 0.0.0.0 cimpl.com
 0.0.0.0 ingenius.com
 0.0.0.0 interfax.com
+0.0.0.0 interfax.net

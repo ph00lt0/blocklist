@@ -15932,3 +15932,4 @@ local-zone: "bluevenn.com." always_null
 local-zone: "cimpl.com." always_null
 local-zone: "ingenius.com." always_null
 local-zone: "interfax.com." always_null
+local-zone: "interfax.net." always_null

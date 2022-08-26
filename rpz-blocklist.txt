@@ -15929,3 +15929,4 @@ bluevenn.com CNAME .
 cimpl.com CNAME .
 ingenius.com CNAME .
 interfax.com CNAME .
+interfax.net CNAME .

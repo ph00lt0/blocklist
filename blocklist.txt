@@ -16425,3 +16425,4 @@ $removeparam=gsxid
 ||altify.com^
 ||bluevenn.com^
 ||cimpl.com^
+||ingenius.com^

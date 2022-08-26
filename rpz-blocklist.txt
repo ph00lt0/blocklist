@@ -15927,3 +15927,4 @@ uplandsoftware.com CNAME .
 altify.com CNAME .
 bluevenn.com CNAME .
 cimpl.com CNAME .
+ingenius.com CNAME .

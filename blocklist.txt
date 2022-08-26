@@ -16523,3 +16523,4 @@ $removeparam=gsxid
 ||getrevue.co^
 ||sendicate.net^
 ||sendy.co^
+||tinyletter.com^

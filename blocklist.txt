@@ -16335,3 +16335,4 @@ allegro.pl##[data-role='accept-consent']
 ||insikt.ai^
 ||insiktanalytics.com^
 ||www.insiktweekly.com^
+||insiktweekly.com^

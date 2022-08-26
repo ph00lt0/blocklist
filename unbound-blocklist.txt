@@ -15846,3 +15846,4 @@ local-zone: "aeroleads.com." always_null
 local-zone: "insikt.ai." always_null
 local-zone: "insiktanalytics.com." always_null
 local-zone: "www.insiktweekly.com." always_null
+local-zone: "insiktweekly.com." always_null

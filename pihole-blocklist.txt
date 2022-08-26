@@ -15951,3 +15951,4 @@
 0.0.0.0 insikt.ai
 0.0.0.0 insiktanalytics.com
 0.0.0.0 www.insiktweekly.com
+0.0.0.0 insiktweekly.com

@@ -15843,3 +15843,4 @@ aeroleads.com CNAME .
 insikt.ai CNAME .
 insiktanalytics.com CNAME .
 www.insiktweekly.com CNAME .
+insiktweekly.com CNAME .

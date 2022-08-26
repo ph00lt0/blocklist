@@ -16054,3 +16054,4 @@
 0.0.0.0 uplandcapture.com
 0.0.0.0 kapost.com
 0.0.0.0 objectiflune.com
+0.0.0.0 panviva.com

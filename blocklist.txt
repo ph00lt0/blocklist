@@ -16444,3 +16444,4 @@ $removeparam=gsxid
 ||uplandcapture.com^
 ||kapost.com^
 ||objectiflune.com^
+||panviva.com^

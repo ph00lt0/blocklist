@@ -16185,3 +16185,4 @@
 0.0.0.0 proprofs.com
 0.0.0.0 quicktapsurvey.com
 0.0.0.0 surveyfunnel.io
+0.0.0.0 pointerpro.com

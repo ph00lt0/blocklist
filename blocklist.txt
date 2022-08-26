@@ -16529,3 +16529,4 @@ $removeparam=gsxid
 ||adespresso.com^
 ||a.quora.com^
 ||admailr.com^
+||emercury.net^

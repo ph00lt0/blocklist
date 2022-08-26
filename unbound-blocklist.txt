@@ -16098,3 +16098,4 @@ local-zone: "measuremail.com." always_null
 local-zone: "spotler.nl." always_null
 local-zone: "adpage.io." always_null
 local-zone: "thehuddle.nl." always_null
+local-zone: "adcrowd.com." always_null

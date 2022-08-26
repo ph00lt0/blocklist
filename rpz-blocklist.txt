@@ -16062,3 +16062,4 @@ reachmail.com CNAME .
 robly.com CNAME .
 sendloop.com CNAME .
 sendx.io CNAME .
+ring4.com CNAME .

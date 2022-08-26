@@ -16065,3 +16065,4 @@ local-zone: "reachmail.com." always_null
 local-zone: "robly.com." always_null
 local-zone: "sendloop.com." always_null
 local-zone: "sendx.io." always_null
+local-zone: "ring4.com." always_null

@@ -16561,3 +16561,4 @@ $removeparam=fp_ref
 ||robly.com^
 ||sendloop.com^
 ||sendx.io^
+||ring4.com^

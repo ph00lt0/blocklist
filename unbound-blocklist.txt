@@ -15864,3 +15864,4 @@ local-zone: "leadquizzes.com." always_null
 local-zone: "lq3-production.s3.amazonaws.com." always_null
 local-zone: "livecall.io." always_null
 local-zone: "g2.com." always_null
+local-zone: "marketermagic.com." always_null

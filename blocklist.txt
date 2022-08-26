@@ -16391,3 +16391,4 @@ $removeparam=gspk
 ||waitlisted.app^
 ||waitlisted.co^
 ||wickedreports.com^
+||woopra.com^

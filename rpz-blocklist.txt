@@ -16087,3 +16087,4 @@ enormail.eu CNAME .
 embed.enormail.eu CNAME .
 getresponse.nl CNAME .
 mailblue.nl CNAME .
+mailcamp.nl CNAME .

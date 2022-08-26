@@ -16090,3 +16090,4 @@ local-zone: "enormail.eu." always_null
 local-zone: "embed.enormail.eu." always_null
 local-zone: "getresponse.nl." always_null
 local-zone: "mailblue.nl." always_null
+local-zone: "mailcamp.nl." always_null

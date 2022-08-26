@@ -16195,3 +16195,4 @@
 0.0.0.0 embed.enormail.eu
 0.0.0.0 getresponse.nl
 0.0.0.0 mailblue.nl
+0.0.0.0 mailcamp.nl

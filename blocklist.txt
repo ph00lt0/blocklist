@@ -16491,3 +16491,4 @@ $removeparam=gsxid
 ||reviewshake.com^
 ||me.reviewshake.com^
 ||reviewtrackers.com^
+||terminusplatform.com^

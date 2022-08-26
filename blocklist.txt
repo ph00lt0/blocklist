@@ -16468,3 +16468,4 @@ $removeparam=gsxid
 ||unmetric.com^
 ||getadmiral.com^
 ||fearlessfaucet.com^
+||akitaapp.com^

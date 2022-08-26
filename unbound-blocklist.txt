@@ -15973,3 +15973,4 @@ local-zone: "trackmaven.com." always_null
 local-zone: "unmetric.com." always_null
 local-zone: "getadmiral.com." always_null
 local-zone: "fearlessfaucet.com." always_null
+local-zone: "akitaapp.com." always_null

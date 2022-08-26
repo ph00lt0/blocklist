@@ -15970,3 +15970,4 @@ trackmaven.com CNAME .
 unmetric.com CNAME .
 getadmiral.com CNAME .
 fearlessfaucet.com CNAME .
+akitaapp.com CNAME .

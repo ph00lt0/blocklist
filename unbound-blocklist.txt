@@ -15859,3 +15859,4 @@ local-zone: "internal-analytics.odoo.com." always_null
 local-zone: "leadberry.com." always_null
 local-zone: "leadfeeder.com." always_null
 local-zone: "leadformly.com." always_null
+local-zone: "truenorth.io." always_null

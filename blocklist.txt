@@ -16349,3 +16349,4 @@ allegro.pl##[data-role='accept-consent']
 ||leadfeeder.com^
 $removeparam=gspk
 ||leadformly.com^
+||truenorth.io^

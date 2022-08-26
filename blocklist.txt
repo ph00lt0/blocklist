@@ -16521,3 +16521,4 @@ $removeparam=gsxid
 ||woorise.com^
 ||elink.io^
 ||getrevue.co^
+||sendicate.net^

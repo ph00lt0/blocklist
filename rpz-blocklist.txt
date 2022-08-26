@@ -16023,3 +16023,4 @@ web-analytics.engagio.com CNAME .
 woorise.com CNAME .
 elink.io CNAME .
 getrevue.co CNAME .
+sendicate.net CNAME .

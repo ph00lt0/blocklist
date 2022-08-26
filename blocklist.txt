@@ -16358,3 +16358,4 @@ $removeparam=gspk
 ||pushboost.marketermagic.com^
 ||milotree.com^
 ||optimonk.com^
+||slashwork.hu^

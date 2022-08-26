@@ -15868,3 +15868,4 @@ local-zone: "marketermagic.com." always_null
 local-zone: "pushboost.marketermagic.com." always_null
 local-zone: "milotree.com." always_null
 local-zone: "optimonk.com." always_null
+local-zone: "slashwork.hu." always_null

@@ -16538,3 +16538,4 @@ $removeparam=gsxid
 ||marketing.wordstream.com^
 ||act.com^
 ||automizy.com^
+$removeparam=fp_ref

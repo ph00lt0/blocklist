@@ -16569,3 +16569,4 @@ $removeparam=fp_ref
 ||brandquiz.io^
 ||chameleon.io^
 ||mutinycdn.com^
+||checkmarket.com^

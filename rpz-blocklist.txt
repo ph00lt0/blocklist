@@ -16070,3 +16070,4 @@ verticalresponse.net CNAME .
 brandquiz.io CNAME .
 chameleon.io CNAME .
 mutinycdn.com CNAME .
+checkmarket.com CNAME .

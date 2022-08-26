@@ -16178,3 +16178,4 @@
 0.0.0.0 brandquiz.io
 0.0.0.0 chameleon.io
 0.0.0.0 mutinycdn.com
+0.0.0.0 checkmarket.com

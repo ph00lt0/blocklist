@@ -15937,3 +15937,4 @@ mcommons.com CNAME .
 waterfall.com CNAME .
 bainsight.com CNAME .
 bilinmedia.net CNAME .
+pixel.bilinmedia.net CNAME .

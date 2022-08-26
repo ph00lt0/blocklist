@@ -16045,3 +16045,4 @@
 0.0.0.0 waterfall.com
 0.0.0.0 bainsight.com
 0.0.0.0 bilinmedia.net
+0.0.0.0 pixel.bilinmedia.net

@@ -15950,3 +15950,4 @@
 0.0.0.0 aeroleads.com
 0.0.0.0 insikt.ai
 0.0.0.0 insiktanalytics.com
+0.0.0.0 www.insiktweekly.com

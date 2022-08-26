@@ -15842,3 +15842,4 @@ earlyiq.com CNAME .
 aeroleads.com CNAME .
 insikt.ai CNAME .
 insiktanalytics.com CNAME .
+www.insiktweekly.com CNAME .

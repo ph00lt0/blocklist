@@ -16334,3 +16334,4 @@ allegro.pl##[data-role='accept-consent']
 ||aeroleads.com^
 ||insikt.ai^
 ||insiktanalytics.com^
+||www.insiktweekly.com^

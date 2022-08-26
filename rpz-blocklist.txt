@@ -16081,3 +16081,4 @@ pointerpro.com CNAME .
 surveybot.io CNAME .
 surveymethods.com CNAME .
 surveymonkey.com CNAME .
+survio.com CNAME .

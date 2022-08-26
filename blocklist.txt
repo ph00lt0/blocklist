@@ -16433,3 +16433,4 @@ $removeparam=gsxid
 ||adestra.com^
 ||mcommons.com^
 ||waterfall.com^
+||bainsight.com^

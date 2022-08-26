@@ -16078,3 +16078,4 @@ proprofs.com CNAME .
 quicktapsurvey.com CNAME .
 surveyfunnel.io CNAME .
 pointerpro.com CNAME .
+surveybot.io CNAME .

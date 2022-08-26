@@ -16081,3 +16081,4 @@ local-zone: "proprofs.com." always_null
 local-zone: "quicktapsurvey.com." always_null
 local-zone: "surveyfunnel.io." always_null
 local-zone: "pointerpro.com." always_null
+local-zone: "surveybot.io." always_null

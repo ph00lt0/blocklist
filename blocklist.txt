@@ -16577,3 +16577,4 @@ $removeparam=fp_ref
 ||quicktapsurvey.com^
 ||surveyfunnel.io^
 ||pointerpro.com^
+||surveybot.io^

@@ -16389,3 +16389,4 @@ $removeparam=gspk
 ||acceptcrypto.io^
 ||sload.sumo.com^
 ||waitlisted.app^
+||waitlisted.co^

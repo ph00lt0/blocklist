@@ -16056,3 +16056,4 @@ wwwapi.icontact.com CNAME .
 mailblaze.com CNAME .
 mailigen.com CNAME .
 moonmail.io CNAME .
+moosend.com CNAME .

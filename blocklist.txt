@@ -16555,3 +16555,4 @@ $removeparam=fp_ref
 ||mailblaze.com^
 ||mailigen.com^
 ||moonmail.io^
+||moosend.com^

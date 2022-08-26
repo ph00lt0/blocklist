@@ -15843,3 +15843,4 @@ local-zone: "insiktdata.com." always_null
 local-zone: "insikt.net." always_null
 local-zone: "earlyiq.com." always_null
 local-zone: "aeroleads.com." always_null
+local-zone: "insikt.ai." always_null

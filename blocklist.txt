@@ -16332,3 +16332,4 @@ allegro.pl##[data-role='accept-consent']
 ||insikt.net^
 ||earlyiq.com^
 ||aeroleads.com^
+||insikt.ai^

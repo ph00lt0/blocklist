@@ -16044,3 +16044,4 @@ benchmarkemail.com CNAME .
 campayn.com CNAME .
 constantcontact.com CNAME .
 go.constantcontact.com CNAME .
+dyspatch.io CNAME .

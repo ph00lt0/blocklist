@@ -16046,3 +16046,4 @@ constantcontact.com CNAME .
 go.constantcontact.com CNAME .
 dyspatch.io CNAME .
 hb.wpmucdn.com CNAME .
+elasticemail.com CNAME .

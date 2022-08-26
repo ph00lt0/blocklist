@@ -15978,3 +15978,4 @@ pixelpoint.io CNAME .
 referralrock.com CNAME .
 stats.referralhero.com CNAME .
 referralhero.com CNAME .
+saasquatch.com CNAME .

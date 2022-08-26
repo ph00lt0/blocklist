@@ -16476,3 +16476,4 @@ $removeparam=gsxid
 ||referralrock.com^
 ||stats.referralhero.com^
 ||referralhero.com^
+||saasquatch.com^

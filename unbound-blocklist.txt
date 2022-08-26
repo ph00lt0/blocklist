@@ -15920,3 +15920,4 @@ local-zone: "data.sendpulse.com." always_null
 local-zone: "partnersrc.com." always_null
 local-zone: "supportsrc.com." always_null
 local-zone: "smoove.io." always_null
+local-zone: "indicative.com." always_null

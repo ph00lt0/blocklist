@@ -16132,3 +16132,4 @@
 0.0.0.0 elink.io
 0.0.0.0 getrevue.co
 0.0.0.0 sendicate.net
+0.0.0.0 sendy.co

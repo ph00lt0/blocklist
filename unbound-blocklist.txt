@@ -15896,3 +15896,4 @@ local-zone: "rafflecopter.com." always_null
 local-zone: "rocketresponder.com." always_null
 local-zone: "acceptcrypto.io." always_null
 local-zone: "sload.sumo.com." always_null
+local-zone: "waitlisted.app." always_null

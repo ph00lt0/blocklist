@@ -16388,3 +16388,4 @@ $removeparam=gspk
 ||rocketresponder.com^
 ||acceptcrypto.io^
 ||sload.sumo.com^
+||waitlisted.app^

@@ -15872,3 +15872,4 @@ local-zone: "slashwork.hu." always_null
 local-zone: "optinmonster.com." always_null
 local-zone: "outgrow.co." always_null
 local-zone: "repuso.com." always_null
+local-zone: "dilogr.com." always_null

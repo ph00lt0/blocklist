@@ -16346,3 +16346,4 @@ allegro.pl##[data-role='accept-consent']
 ||withcabin.com^
 ||internal-analytics.odoo.com^
 ||leadberry.com^
+||leadfeeder.com^

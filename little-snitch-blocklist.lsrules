@@ -15424,6 +15424,7 @@
         "scripts.withcabin.com",
         "withcabin.com",
         "internal-analytics.odoo.com",
-        "leadberry.com"
+        "leadberry.com",
+        "leadfeeder.com"
     ]
 }

@@ -16339,3 +16339,4 @@ allegro.pl##[data-role='accept-consent']
 ||t.com.sb^
 ||simplytapp.com^
 ||insiktsverige.se^
+||recordedfuture.com^

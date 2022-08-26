@@ -16395,3 +16395,4 @@ $removeparam=gspk
 ||a.slack-edge.com^
 ||engagebay.com^
 ||appon.radiantthemes.com^
+||funnel.io^

@@ -16008,3 +16008,4 @@
 0.0.0.0 a.slack-edge.com
 0.0.0.0 engagebay.com
 0.0.0.0 appon.radiantthemes.com
+0.0.0.0 funnel.io

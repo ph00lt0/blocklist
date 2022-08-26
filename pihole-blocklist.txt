@@ -16073,3 +16073,4 @@
 0.0.0.0 idevaffiliate.com
 0.0.0.0 tend.io
 0.0.0.0 skyword.com
+0.0.0.0 d9p7civm2914u.cloudfront.net

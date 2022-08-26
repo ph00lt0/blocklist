@@ -16376,3 +16376,4 @@ $removeparam=gspk
 ||d8brgcp0ybbew.cloudfront.net^
 ||vbout.com^
 ||vbt.io^
+||getvero.com^

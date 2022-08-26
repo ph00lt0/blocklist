@@ -15989,3 +15989,4 @@
 0.0.0.0 d8brgcp0ybbew.cloudfront.net
 0.0.0.0 vbout.com
 0.0.0.0 vbt.io
+0.0.0.0 getvero.com

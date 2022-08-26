@@ -15941,3 +15941,4 @@ local-zone: "waterfall.com." always_null
 local-zone: "bainsight.com." always_null
 local-zone: "bilinmedia.net." always_null
 local-zone: "pixel.bilinmedia.net." always_null
+local-zone: "info.uplandsoftware.com." always_null

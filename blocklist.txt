@@ -16436,3 +16436,4 @@ $removeparam=gsxid
 ||bainsight.com^
 ||bilinmedia.net^
 ||pixel.bilinmedia.net^
+||info.uplandsoftware.com^

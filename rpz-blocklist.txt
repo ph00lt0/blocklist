@@ -15938,3 +15938,4 @@ waterfall.com CNAME .
 bainsight.com CNAME .
 bilinmedia.net CNAME .
 pixel.bilinmedia.net CNAME .
+info.uplandsoftware.com CNAME .

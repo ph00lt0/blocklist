@@ -16381,3 +16381,4 @@ $removeparam=gspk
 ||drum.io^
 ||tracking.drum.io^
 ||kickofflabs.com^
+||popupdomination.com^

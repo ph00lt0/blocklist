@@ -16503,3 +16503,4 @@ $removeparam=gsxid
 ||devdirect.com^
 ||siaffiliate.com^
 ||rewardful.com^
+||getrewardful.com^

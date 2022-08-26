@@ -16005,3 +16005,4 @@ teamwalnut.com CNAME .
 devdirect.com CNAME .
 siaffiliate.com CNAME .
 rewardful.com CNAME .
+getrewardful.com CNAME .

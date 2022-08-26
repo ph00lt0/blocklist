@@ -15885,3 +15885,4 @@ getvero.com CNAME .
 vextras.com CNAME .
 drum.io CNAME .
 tracking.drum.io CNAME .
+kickofflabs.com CNAME .

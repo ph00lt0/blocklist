@@ -16094,3 +16094,4 @@ local-zone: "mailcamp.nl." always_null
 local-zone: "easy7bear.com." always_null
 local-zone: "mailinglijst.nl." always_null
 local-zone: "em-cultuur.nl." always_null
+local-zone: "measuremail.com." always_null

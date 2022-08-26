@@ -15911,3 +15911,4 @@ local-zone: "keap.com." always_null
 local-zone: "leadsync.me." always_null
 local-zone: "leadsbridge.com." always_null
 local-zone: "kinsta.cloud." always_null
+local-zone: "mautic.com." always_null

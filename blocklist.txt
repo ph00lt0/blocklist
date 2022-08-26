@@ -16406,3 +16406,4 @@ $removeparam=gsxid
 ||leadsync.me^
 ||leadsbridge.com^
 ||kinsta.cloud^
+||mautic.com^

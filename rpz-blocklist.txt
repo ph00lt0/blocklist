@@ -15962,3 +15962,4 @@ omniconvert.com CNAME .
 reportgarden.com CNAME .
 repsly.com CNAME .
 statbot.io CNAME .
+idevaffiliate.com CNAME .

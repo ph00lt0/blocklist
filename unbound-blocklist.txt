@@ -16071,3 +16071,4 @@ local-zone: "pixelcog.github.io." always_null
 local-zone: "verticalresponse.net." always_null
 local-zone: "4screens.net." always_null
 local-zone: "brandquiz.io." always_null
+local-zone: "chameleon.io." always_null

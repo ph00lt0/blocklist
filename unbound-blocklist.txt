@@ -15921,3 +15921,4 @@ local-zone: "partnersrc.com." always_null
 local-zone: "supportsrc.com." always_null
 local-zone: "smoove.io." always_null
 local-zone: "indicative.com." always_null
+local-zone: "blendo.co." always_null

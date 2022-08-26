@@ -15918,3 +15918,4 @@ partnersrc.com CNAME .
 supportsrc.com CNAME .
 smoove.io CNAME .
 indicative.com CNAME .
+blendo.co CNAME .

@@ -15837,3 +15837,4 @@ insiktai.com CNAME .
 insikt.com CNAME .
 insiktintelligence.com CNAME .
 insiktdata.com CNAME .
+insikt.net CNAME .

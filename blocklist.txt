@@ -16329,3 +16329,4 @@ allegro.pl##[data-role='accept-consent']
 ||insikt.com^
 ||insiktintelligence.com^
 ||insiktdata.com^
+||insikt.net^

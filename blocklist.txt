@@ -16426,3 +16426,4 @@ $removeparam=gsxid
 ||bluevenn.com^
 ||cimpl.com^
 ||ingenius.com^
+||interfax.com^

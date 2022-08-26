@@ -15928,3 +15928,4 @@ altify.com CNAME .
 bluevenn.com CNAME .
 cimpl.com CNAME .
 ingenius.com CNAME .
+interfax.com CNAME .

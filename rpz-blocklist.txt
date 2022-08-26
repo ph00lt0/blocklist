@@ -15949,3 +15949,4 @@ objectiflune.com CNAME .
 panviva.com CNAME .
 postup.com CNAME .
 qvidian.eu CNAME .
+qvidian.com CNAME .

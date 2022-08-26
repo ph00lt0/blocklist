@@ -16447,3 +16447,4 @@ $removeparam=gsxid
 ||panviva.com^
 ||postup.com^
 ||qvidian.eu^
+||qvidian.com^

@@ -16324,3 +16324,4 @@ allegro.pl##[data-role='accept-consent']
 ||mybigcommerce.com^
 ||icf.com^
 ||adage.com^
+^quantcast-pixel.js^

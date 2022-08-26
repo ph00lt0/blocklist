@@ -15971,3 +15971,4 @@ local-zone: "skyword.com." always_null
 local-zone: "d9p7civm2914u.cloudfront.net." always_null
 local-zone: "trackmaven.com." always_null
 local-zone: "unmetric.com." always_null
+local-zone: "getadmiral.com." always_null

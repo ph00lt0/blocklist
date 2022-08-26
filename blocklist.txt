@@ -16578,3 +16578,4 @@ $removeparam=fp_ref
 ||surveyfunnel.io^
 ||pointerpro.com^
 ||surveybot.io^
+||surveymethods.com^

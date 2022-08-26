@@ -15883,3 +15883,4 @@ vbout.com CNAME .
 vbt.io CNAME .
 getvero.com CNAME .
 vextras.com CNAME .
+drum.io CNAME .

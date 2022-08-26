@@ -15886,3 +15886,4 @@ local-zone: "vbout.com." always_null
 local-zone: "vbt.io." always_null
 local-zone: "getvero.com." always_null
 local-zone: "vextras.com." always_null
+local-zone: "drum.io." always_null

@@ -16069,3 +16069,4 @@ verticalresponse.net CNAME .
 4screens.net CNAME .
 brandquiz.io CNAME .
 chameleon.io CNAME .
+mutinycdn.com CNAME .

@@ -16094,3 +16094,4 @@ em-cultuur.nl CNAME .
 measuremail.com CNAME .
 spotler.nl CNAME .
 adpage.io CNAME .
+thehuddle.nl CNAME .

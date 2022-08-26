@@ -16090,3 +16090,4 @@
 0.0.0.0 info.saasquatch.com
 0.0.0.0 upviral.com
 0.0.0.0 viralsweep.com
+0.0.0.0 nextsale.io

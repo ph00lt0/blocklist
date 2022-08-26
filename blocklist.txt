@@ -16480,3 +16480,4 @@ $removeparam=gsxid
 ||info.saasquatch.com^
 ||upviral.com^
 ||viralsweep.com^
+||nextsale.io^

@@ -16470,3 +16470,4 @@ $removeparam=gsxid
 ||fearlessfaucet.com^
 ||akitaapp.com^
 ||audiense.com^
+||getambassador.com^

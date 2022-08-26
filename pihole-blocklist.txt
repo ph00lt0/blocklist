@@ -16080,3 +16080,4 @@
 0.0.0.0 fearlessfaucet.com
 0.0.0.0 akitaapp.com
 0.0.0.0 audiense.com
+0.0.0.0 getambassador.com

@@ -15997,3 +15997,4 @@ local-zone: "reviewshake.com." always_null
 local-zone: "me.reviewshake.com." always_null
 local-zone: "reviewtrackers.com." always_null
 local-zone: "terminusplatform.com." always_null
+local-zone: "stamped.io." always_null

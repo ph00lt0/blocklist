@@ -15925,3 +15925,4 @@ local-zone: "blendo.co." always_null
 local-zone: "brandmaxima.com." always_null
 local-zone: "klenty.com." always_null
 local-zone: "getgist.com." always_null
+local-zone: "widget.getgist.com." always_null

@@ -15922,3 +15922,4 @@ blendo.co CNAME .
 brandmaxima.com CNAME .
 klenty.com CNAME .
 getgist.com CNAME .
+widget.getgist.com CNAME .

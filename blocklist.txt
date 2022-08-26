@@ -16420,3 +16420,4 @@ $removeparam=gsxid
 ||brandmaxima.com^
 ||klenty.com^
 ||getgist.com^
+||widget.getgist.com^

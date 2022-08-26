@@ -15986,3 +15986,4 @@ local-zone: "info.saasquatch.com." always_null
 local-zone: "upviral.com." always_null
 local-zone: "viralsweep.com." always_null
 local-zone: "nextsale.io." always_null
+local-zone: "sdk.nextsale.io." always_null

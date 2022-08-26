@@ -16481,3 +16481,4 @@ $removeparam=gsxid
 ||upviral.com^
 ||viralsweep.com^
 ||nextsale.io^
+||sdk.nextsale.io^

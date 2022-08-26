@@ -15983,3 +15983,4 @@ info.saasquatch.com CNAME .
 upviral.com CNAME .
 viralsweep.com CNAME .
 nextsale.io CNAME .
+sdk.nextsale.io CNAME .

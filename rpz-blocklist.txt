@@ -15862,3 +15862,4 @@ lq3-production.s3.amazonaws.com CNAME .
 livecall.io CNAME .
 g2.com CNAME .
 marketermagic.com CNAME .
+pushboost.marketermagic.com CNAME .

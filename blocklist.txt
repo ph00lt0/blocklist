@@ -16392,3 +16392,4 @@ $removeparam=gspk
 ||waitlisted.co^
 ||wickedreports.com^
 ||woopra.com^
+||a.slack-edge.com^

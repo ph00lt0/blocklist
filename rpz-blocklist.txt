@@ -15897,3 +15897,4 @@ waitlisted.app CNAME .
 waitlisted.co CNAME .
 wickedreports.com CNAME .
 woopra.com CNAME .
+a.slack-edge.com CNAME .

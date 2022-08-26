@@ -15956,3 +15956,4 @@ local-zone: "qvidian.com." always_null
 local-zone: "rantandrave.co.uk." always_null
 local-zone: "rantandrave.com." always_null
 local-zone: "rapide.com." always_null
+local-zone: "rapide.co.uk." always_null

@@ -16013,3 +16013,4 @@ couponcarrier.io CNAME .
 dotdigital.com CNAME .
 oncehub.com CNAME .
 webeo.com CNAME .
+mkr1en1mksitesap.blob.core.windows.net CNAME .

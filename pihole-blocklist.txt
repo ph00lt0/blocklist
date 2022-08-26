@@ -15944,3 +15944,4 @@
 0.0.0.0 insiktai.com
 0.0.0.0 insikt.com
 0.0.0.0 insiktintelligence.com
+0.0.0.0 insiktdata.com

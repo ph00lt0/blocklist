@@ -15839,3 +15839,4 @@ local-zone: "adage.com." always_null
 local-zone: "insiktai.com." always_null
 local-zone: "insikt.com." always_null
 local-zone: "insiktintelligence.com." always_null
+local-zone: "insiktdata.com." always_null

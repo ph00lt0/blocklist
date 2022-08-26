@@ -16364,3 +16364,4 @@ $removeparam=gspk
 ||repuso.com^
 ||dilogr.com^
 ^ref.html^
+^ref.php^

@@ -16003,3 +16003,4 @@
 0.0.0.0 sload.sumo.com
 0.0.0.0 waitlisted.app
 0.0.0.0 waitlisted.co
+0.0.0.0 wickedreports.com

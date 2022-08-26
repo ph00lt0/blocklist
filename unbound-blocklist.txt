@@ -15898,3 +15898,4 @@ local-zone: "acceptcrypto.io." always_null
 local-zone: "sload.sumo.com." always_null
 local-zone: "waitlisted.app." always_null
 local-zone: "waitlisted.co." always_null
+local-zone: "wickedreports.com." always_null

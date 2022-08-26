@@ -16390,3 +16390,4 @@ $removeparam=gspk
 ||sload.sumo.com^
 ||waitlisted.app^
 ||waitlisted.co^
+||wickedreports.com^

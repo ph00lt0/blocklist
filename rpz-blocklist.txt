@@ -16065,3 +16065,4 @@ sendx.io CNAME .
 ring4.com CNAME .
 verticalresponse.com CNAME .
 pixelcog.github.io CNAME .
+verticalresponse.net CNAME .

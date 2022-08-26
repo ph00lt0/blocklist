@@ -16564,3 +16564,4 @@ $removeparam=fp_ref
 ||ring4.com^
 ||verticalresponse.com^
 ||pixelcog.github.io^
+||verticalresponse.net^

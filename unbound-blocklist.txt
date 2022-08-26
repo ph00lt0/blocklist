@@ -16068,3 +16068,4 @@ local-zone: "sendx.io." always_null
 local-zone: "ring4.com." always_null
 local-zone: "verticalresponse.com." always_null
 local-zone: "pixelcog.github.io." always_null
+local-zone: "verticalresponse.net." always_null

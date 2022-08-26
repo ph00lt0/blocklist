@@ -16173,3 +16173,4 @@
 0.0.0.0 ring4.com
 0.0.0.0 verticalresponse.com
 0.0.0.0 pixelcog.github.io
+0.0.0.0 verticalresponse.net

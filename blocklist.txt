@@ -16430,3 +16430,4 @@ $removeparam=gsxid
 ||interfax.net^
 ||accuroute.com^
 ||accuroutefax.com^
+||adestra.com^

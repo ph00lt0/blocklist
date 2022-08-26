@@ -15932,3 +15932,4 @@ interfax.com CNAME .
 interfax.net CNAME .
 accuroute.com CNAME .
 accuroutefax.com CNAME .
+adestra.com CNAME .

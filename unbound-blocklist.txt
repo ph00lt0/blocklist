@@ -16062,3 +16062,4 @@ local-zone: "moonmail.io." always_null
 local-zone: "moosend.com." always_null
 local-zone: "privy.com." always_null
 local-zone: "reachmail.com." always_null
+local-zone: "robly.com." always_null

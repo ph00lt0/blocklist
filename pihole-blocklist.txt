@@ -16106,3 +16106,4 @@
 0.0.0.0 netreviews.com
 0.0.0.0 wiremo.co
 0.0.0.0 badge.wiremo.co
+0.0.0.0 wapi.wiremo.co

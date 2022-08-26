@@ -16496,3 +16496,4 @@ $removeparam=gsxid
 ||netreviews.com^
 ||wiremo.co^
 ||badge.wiremo.co^
+||wapi.wiremo.co^

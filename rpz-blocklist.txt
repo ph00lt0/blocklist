@@ -15912,3 +15912,4 @@ mautic.com CNAME .
 plusthis.com CNAME .
 ptwebsites.s3.amazonaws.com CNAME .
 remarkety.com CNAME .
+sendpulse.com CNAME .

@@ -16410,3 +16410,4 @@ $removeparam=gsxid
 ||plusthis.com^
 ||ptwebsites.s3.amazonaws.com^
 ||remarkety.com^
+||sendpulse.com^

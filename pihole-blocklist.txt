@@ -16020,3 +16020,4 @@
 0.0.0.0 plusthis.com
 0.0.0.0 ptwebsites.s3.amazonaws.com
 0.0.0.0 remarkety.com
+0.0.0.0 sendpulse.com

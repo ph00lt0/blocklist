@@ -16147,3 +16147,4 @@
 0.0.0.0 wordstream.com
 0.0.0.0 marketing.wordstream.com
 0.0.0.0 act.com
+0.0.0.0 automizy.com

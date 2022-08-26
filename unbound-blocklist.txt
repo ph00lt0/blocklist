@@ -16042,3 +16042,4 @@ local-zone: "targeto.io." always_null
 local-zone: "wordstream.com." always_null
 local-zone: "marketing.wordstream.com." always_null
 local-zone: "act.com." always_null
+local-zone: "automizy.com." always_null

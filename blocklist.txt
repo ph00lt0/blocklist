@@ -16537,3 +16537,4 @@ $removeparam=gsxid
 ||wordstream.com^
 ||marketing.wordstream.com^
 ||act.com^
+||automizy.com^

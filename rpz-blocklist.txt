@@ -15954,3 +15954,4 @@ rantandrave.co.uk CNAME .
 rantandrave.com CNAME .
 rapide.com CNAME .
 rapide.co.uk CNAME .
+rightanswers.com CNAME .

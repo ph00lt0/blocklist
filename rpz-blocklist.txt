@@ -15835,3 +15835,4 @@ icf.com CNAME .
 adage.com CNAME .
 insiktai.com CNAME .
 insikt.com CNAME .
+insiktintelligence.com CNAME .

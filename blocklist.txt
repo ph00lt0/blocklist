@@ -16327,3 +16327,4 @@ allegro.pl##[data-role='accept-consent']
 ^quantcast-pixel.js^
 ||insiktai.com^
 ||insikt.com^
+||insiktintelligence.com^

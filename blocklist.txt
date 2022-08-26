@@ -16508,3 +16508,4 @@ $removeparam=gsxid
 ||backerkit.com^
 ||lr-in-prod.com^
 ||couponcarrier.io^
+||dotdigital.com^

@@ -16013,3 +16013,4 @@ local-zone: "voluum.com." always_null
 local-zone: "backerkit.com." always_null
 local-zone: "lr-in-prod.com." always_null
 local-zone: "couponcarrier.io." always_null
+local-zone: "dotdigital.com." always_null

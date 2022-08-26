@@ -16084,3 +16084,4 @@
 0.0.0.0 loopyloyalty.com
 0.0.0.0 pixelpoint.io
 0.0.0.0 referralrock.com
+0.0.0.0 stats.referralhero.com

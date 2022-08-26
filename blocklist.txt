@@ -16474,3 +16474,4 @@ $removeparam=gsxid
 ||loopyloyalty.com^
 ||pixelpoint.io^
 ||referralrock.com^
+||stats.referralhero.com^

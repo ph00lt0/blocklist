@@ -16092,3 +16092,4 @@ local-zone: "getresponse.nl." always_null
 local-zone: "mailblue.nl." always_null
 local-zone: "mailcamp.nl." always_null
 local-zone: "easy7bear.com." always_null
+local-zone: "mailinglijst.nl." always_null

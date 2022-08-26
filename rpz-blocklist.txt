@@ -16089,3 +16089,4 @@ getresponse.nl CNAME .
 mailblue.nl CNAME .
 mailcamp.nl CNAME .
 easy7bear.com CNAME .
+mailinglijst.nl CNAME .

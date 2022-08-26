@@ -16117,3 +16117,4 @@
 0.0.0.0 voluum.com
 0.0.0.0 backerkit.com
 0.0.0.0 lr-in-prod.com
+0.0.0.0 couponcarrier.io

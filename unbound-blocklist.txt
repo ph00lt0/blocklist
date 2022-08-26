@@ -16012,3 +16012,4 @@ local-zone: "getrewardful.com." always_null
 local-zone: "voluum.com." always_null
 local-zone: "backerkit.com." always_null
 local-zone: "lr-in-prod.com." always_null
+local-zone: "couponcarrier.io." always_null

@@ -15977,3 +15977,4 @@ loopyloyalty.com CNAME .
 pixelpoint.io CNAME .
 referralrock.com CNAME .
 stats.referralhero.com CNAME .
+referralhero.com CNAME .

@@ -16467,3 +16467,4 @@ $removeparam=gsxid
 ||trackmaven.com^
 ||unmetric.com^
 ||getadmiral.com^
+||fearlessfaucet.com^

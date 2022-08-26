@@ -16338,3 +16338,4 @@ allegro.pl##[data-role='accept-consent']
 ||insiktweekly.com^
 ||t.com.sb^
 ||simplytapp.com^
+||insiktsverige.se^

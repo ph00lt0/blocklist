@@ -15954,3 +15954,4 @@
 0.0.0.0 insiktweekly.com
 0.0.0.0 t.com.sb
 0.0.0.0 simplytapp.com
+0.0.0.0 insiktsverige.se

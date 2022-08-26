@@ -15846,3 +15846,4 @@ www.insiktweekly.com CNAME .
 insiktweekly.com CNAME .
 t.com.sb CNAME .
 simplytapp.com CNAME .
+insiktsverige.se CNAME .

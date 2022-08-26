@@ -15981,3 +15981,4 @@ referralhero.com CNAME .
 saasquatch.com CNAME .
 info.saasquatch.com CNAME .
 upviral.com CNAME .
+viralsweep.com CNAME .

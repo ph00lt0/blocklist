@@ -16000,3 +16000,4 @@ local-zone: "terminusplatform.com." always_null
 local-zone: "stamped.io." always_null
 local-zone: "netreviews.com." always_null
 local-zone: "wiremo.co." always_null
+local-zone: "badge.wiremo.co." always_null

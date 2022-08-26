@@ -16495,3 +16495,4 @@ $removeparam=gsxid
 ||stamped.io^
 ||netreviews.com^
 ||wiremo.co^
+||badge.wiremo.co^

@@ -16323,3 +16323,4 @@ allegro.pl##[data-role='accept-consent']
 ||www.telefoon-discounter.nl^
 ||mybigcommerce.com^
 ||icf.com^
+||adage.com^

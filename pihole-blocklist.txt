@@ -16162,3 +16162,4 @@
 0.0.0.0 icontact.com
 0.0.0.0 wwwapi.icontact.com
 0.0.0.0 mailblaze.com
+0.0.0.0 mailigen.com

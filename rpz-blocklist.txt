@@ -16054,3 +16054,4 @@ expresspigeon.com CNAME .
 icontact.com CNAME .
 wwwapi.icontact.com CNAME .
 mailblaze.com CNAME .
+mailigen.com CNAME .

@@ -16048,3 +16048,4 @@ dyspatch.io CNAME .
 hb.wpmucdn.com CNAME .
 elasticemail.com CNAME .
 getelevatr.com CNAME .
+emailoctopus.com CNAME .

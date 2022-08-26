@@ -16041,3 +16041,4 @@ marketing.wordstream.com CNAME .
 act.com CNAME .
 automizy.com CNAME .
 benchmarkemail.com CNAME .
+campayn.com CNAME .

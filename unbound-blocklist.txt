@@ -16044,3 +16044,4 @@ local-zone: "marketing.wordstream.com." always_null
 local-zone: "act.com." always_null
 local-zone: "automizy.com." always_null
 local-zone: "benchmarkemail.com." always_null
+local-zone: "campayn.com." always_null

@@ -16540,3 +16540,4 @@ $removeparam=gsxid
 ||automizy.com^
 $removeparam=fp_ref
 ||benchmarkemail.com^
+||campayn.com^

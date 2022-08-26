@@ -16337,3 +16337,4 @@ allegro.pl##[data-role='accept-consent']
 ||www.insiktweekly.com^
 ||insiktweekly.com^
 ||t.com.sb^
+||simplytapp.com^

@@ -15848,3 +15848,4 @@ local-zone: "insiktanalytics.com." always_null
 local-zone: "www.insiktweekly.com." always_null
 local-zone: "insiktweekly.com." always_null
 local-zone: "t.com.sb." always_null
+local-zone: "simplytapp.com." always_null

@@ -16575,3 +16575,4 @@ $removeparam=fp_ref
 ||limesurvey.org^
 ||proprofs.com^
 ||quicktapsurvey.com^
+||surveyfunnel.io^

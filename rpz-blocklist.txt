@@ -15891,3 +15891,4 @@ prefinery.com CNAME .
 glowing-van.prefinery.com CNAME .
 rafflecopter.com CNAME .
 rocketresponder.com CNAME .
+acceptcrypto.io CNAME .

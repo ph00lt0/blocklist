@@ -15894,3 +15894,4 @@ local-zone: "prefinery.com." always_null
 local-zone: "glowing-van.prefinery.com." always_null
 local-zone: "rafflecopter.com." always_null
 local-zone: "rocketresponder.com." always_null
+local-zone: "acceptcrypto.io." always_null

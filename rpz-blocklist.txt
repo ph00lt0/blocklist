@@ -16071,3 +16071,4 @@ brandquiz.io CNAME .
 chameleon.io CNAME .
 mutinycdn.com CNAME .
 checkmarket.com CNAME .
+go.checkmarket.com CNAME .

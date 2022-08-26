@@ -15880,3 +15880,4 @@ local-zone: "contestdomination.com." always_null
 local-zone: "easypromosapp.com." always_null
 local-zone: "gleam.io." always_null
 local-zone: "jumplead.com." always_null
+local-zone: "jumplead.io." always_null

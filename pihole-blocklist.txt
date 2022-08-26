@@ -15985,3 +15985,4 @@
 0.0.0.0 easypromosapp.com
 0.0.0.0 gleam.io
 0.0.0.0 jumplead.com
+0.0.0.0 jumplead.io

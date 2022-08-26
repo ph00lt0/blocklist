@@ -16372,3 +16372,4 @@ $removeparam=gspk
 ||easypromosapp.com^
 ||gleam.io^
 ||jumplead.com^
+||jumplead.io^

@@ -15877,3 +15877,4 @@ contestdomination.com CNAME .
 easypromosapp.com CNAME .
 gleam.io CNAME .
 jumplead.com CNAME .
+jumplead.io CNAME .

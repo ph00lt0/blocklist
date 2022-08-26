@@ -16036,3 +16036,4 @@ adstage.io CNAME .
 madgicx.com CNAME .
 opteo.com CNAME .
 targeto.io CNAME .
+wordstream.com CNAME .

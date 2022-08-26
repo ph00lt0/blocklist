@@ -16534,3 +16534,4 @@ $removeparam=gsxid
 ||madgicx.com^
 ||opteo.com^
 ||targeto.io^
+||wordstream.com^

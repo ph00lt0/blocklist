@@ -16114,3 +16114,4 @@
 0.0.0.0 siaffiliate.com
 0.0.0.0 rewardful.com
 0.0.0.0 getrewardful.com
+0.0.0.0 voluum.com

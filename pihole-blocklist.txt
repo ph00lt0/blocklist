@@ -16171,3 +16171,4 @@
 0.0.0.0 sendloop.com
 0.0.0.0 sendx.io
 0.0.0.0 ring4.com
+0.0.0.0 verticalresponse.com

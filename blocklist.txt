@@ -16562,3 +16562,4 @@ $removeparam=fp_ref
 ||sendloop.com^
 ||sendx.io^
 ||ring4.com^
+||verticalresponse.com^

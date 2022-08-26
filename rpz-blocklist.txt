@@ -15984,3 +15984,4 @@ upviral.com CNAME .
 viralsweep.com CNAME .
 nextsale.io CNAME .
 sdk.nextsale.io CNAME .
+nicejob.com CNAME .

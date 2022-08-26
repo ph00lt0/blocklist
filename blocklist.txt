@@ -16525,3 +16525,4 @@ $removeparam=gsxid
 ||sendy.co^
 ||tinyletter.com^
 ||upscribe.net^
+||adbutler.com^

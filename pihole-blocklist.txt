@@ -16032,3 +16032,4 @@
 0.0.0.0 getgist.com
 0.0.0.0 widget.getgist.com
 0.0.0.0 uplandsoftware.com
+0.0.0.0 altify.com

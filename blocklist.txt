@@ -16368,3 +16368,4 @@ $removeparam=gspk
 ||app.clickfunnels.com^
 ||driftrock.com^
 ||callpage.io^
+||contestdomination.com^

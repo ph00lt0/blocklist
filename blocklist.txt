@@ -16414,3 +16414,4 @@ $removeparam=gsxid
 ||data.sendpulse.com^
 ||partnersrc.com^
 ||supportsrc.com^
+||smoove.io^

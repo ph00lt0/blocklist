@@ -15916,3 +15916,4 @@ sendpulse.com CNAME .
 data.sendpulse.com CNAME .
 partnersrc.com CNAME .
 supportsrc.com CNAME .
+smoove.io CNAME .

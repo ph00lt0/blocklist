@@ -16024,3 +16024,4 @@
 0.0.0.0 data.sendpulse.com
 0.0.0.0 partnersrc.com
 0.0.0.0 supportsrc.com
+0.0.0.0 smoove.io

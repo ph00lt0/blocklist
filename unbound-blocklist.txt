@@ -16060,3 +16060,4 @@ local-zone: "mailblaze.com." always_null
 local-zone: "mailigen.com." always_null
 local-zone: "moonmail.io." always_null
 local-zone: "moosend.com." always_null
+local-zone: "privy.com." always_null

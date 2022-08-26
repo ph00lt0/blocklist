@@ -15988,3 +15988,4 @@ local-zone: "viralsweep.com." always_null
 local-zone: "nextsale.io." always_null
 local-zone: "sdk.nextsale.io." always_null
 local-zone: "nicejob.com." always_null
+local-zone: "nicejob.co." always_null

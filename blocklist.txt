@@ -16483,3 +16483,4 @@ $removeparam=gsxid
 ||nextsale.io^
 ||sdk.nextsale.io^
 ||nicejob.com^
+||nicejob.co^

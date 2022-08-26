@@ -16050,3 +16050,4 @@ local-zone: "go.constantcontact.com." always_null
 local-zone: "dyspatch.io." always_null
 local-zone: "hb.wpmucdn.com." always_null
 local-zone: "elasticemail.com." always_null
+local-zone: "getelevatr.com." always_null

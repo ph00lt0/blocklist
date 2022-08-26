@@ -15963,3 +15963,4 @@ reportgarden.com CNAME .
 repsly.com CNAME .
 statbot.io CNAME .
 idevaffiliate.com CNAME .
+tend.io CNAME .

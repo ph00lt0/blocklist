@@ -16461,3 +16461,4 @@ $removeparam=gsxid
 ||repsly.com^
 ||statbot.io^
 ||idevaffiliate.com^
+||tend.io^

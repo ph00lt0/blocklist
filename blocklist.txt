@@ -16493,3 +16493,4 @@ $removeparam=gsxid
 ||reviewtrackers.com^
 ||terminusplatform.com^
 ||stamped.io^
+||netreviews.com^

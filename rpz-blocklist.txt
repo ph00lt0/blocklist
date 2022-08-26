@@ -15995,3 +15995,4 @@ me.reviewshake.com CNAME .
 reviewtrackers.com CNAME .
 terminusplatform.com CNAME .
 stamped.io CNAME .
+netreviews.com CNAME .

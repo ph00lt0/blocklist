@@ -16005,3 +16005,4 @@ local-zone: "wapi.wiremo.co." always_null
 local-zone: "everflow.io." always_null
 local-zone: "servetraffic.com." always_null
 local-zone: "teamwalnut.com." always_null
+local-zone: "devdirect.com." always_null

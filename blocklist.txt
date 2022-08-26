@@ -16500,3 +16500,4 @@ $removeparam=gsxid
 ||everflow.io^
 ||servetraffic.com^
 ||teamwalnut.com^
+||devdirect.com^

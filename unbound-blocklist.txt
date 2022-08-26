@@ -16024,3 +16024,4 @@ local-zone: "go.iterable.com." always_null
 local-zone: "engagio.com." always_null
 local-zone: "web-analytics.engagio.com." always_null
 local-zone: "woorise.com." always_null
+local-zone: "elink.io." always_null

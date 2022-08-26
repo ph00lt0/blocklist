@@ -16498,3 +16498,4 @@ $removeparam=gsxid
 ||badge.wiremo.co^
 ||wapi.wiremo.co^
 ||everflow.io^
+||servetraffic.com^

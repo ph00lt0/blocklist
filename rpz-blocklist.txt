@@ -15844,3 +15844,4 @@ insikt.ai CNAME .
 insiktanalytics.com CNAME .
 www.insiktweekly.com CNAME .
 insiktweekly.com CNAME .
+t.com.sb CNAME .

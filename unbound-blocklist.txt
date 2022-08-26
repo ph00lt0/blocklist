@@ -15977,3 +15977,4 @@ local-zone: "akitaapp.com." always_null
 local-zone: "audiense.com." always_null
 local-zone: "getambassador.com." always_null
 local-zone: "loopyloyalty.com." always_null
+local-zone: "pixelpoint.io." always_null

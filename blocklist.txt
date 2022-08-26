@@ -16472,3 +16472,4 @@ $removeparam=gsxid
 ||audiense.com^
 ||getambassador.com^
 ||loopyloyalty.com^
+||pixelpoint.io^

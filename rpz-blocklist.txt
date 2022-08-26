@@ -15974,3 +15974,4 @@ akitaapp.com CNAME .
 audiense.com CNAME .
 getambassador.com CNAME .
 loopyloyalty.com CNAME .
+pixelpoint.io CNAME .

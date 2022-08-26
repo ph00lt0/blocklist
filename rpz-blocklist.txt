@@ -16049,3 +16049,4 @@ hb.wpmucdn.com CNAME .
 elasticemail.com CNAME .
 getelevatr.com CNAME .
 emailoctopus.com CNAME .
+myemma.com CNAME .

@@ -16548,3 +16548,4 @@ $removeparam=fp_ref
 ||elasticemail.com^
 ||getelevatr.com^
 ||emailoctopus.com^
+||myemma.com^

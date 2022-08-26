@@ -16087,3 +16087,4 @@ local-zone: "surveymonkey.com." always_null
 local-zone: "survio.com." always_null
 local-zone: "www.aangetekendmailen.nl." always_null
 local-zone: "enormail.eu." always_null
+local-zone: "embed.enormail.eu." always_null

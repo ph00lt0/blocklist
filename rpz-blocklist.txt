@@ -16040,3 +16040,4 @@ wordstream.com CNAME .
 marketing.wordstream.com CNAME .
 act.com CNAME .
 automizy.com CNAME .
+benchmarkemail.com CNAME .

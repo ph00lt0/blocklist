@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 ### AdGuard 
 With the app it's possible to subscribe by link:
-1. [Click here](https://ph00lt0.github.io/blocklist/adguard-install.html) to add the list or follow steps below
+1. [Click here](https://ph00lt0.github.io/blocklist/install.html) to add the list or follow steps below
 2. For the best impact enable the `trusted` checkbox
 3. Click `Subscribe`
 
@@ -129,7 +129,7 @@ crontab -l | { cat; echo "00 11 * * * /media/ph00lt0-blocklis/updater.sh"; } | c
 
 
 ### uBlock Origin 
-1. [Click here](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fph00lt0%2Fblocklist%2Fmaster%2Fblocklist.txt&title=ph00lt0%20-%20blocklist) to add the list
+1. [Click here](https://ph00lt0.github.io/blocklist/install.html) to add the list
 2. Click the `Subscribe` button
 
 If the click and install doesn't work you can also add the list manually:

@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 ### AdGuard 
 With the app it's possible to subscribe by link:
-1. [Click here](https://ihaveprivacy.com/blocklist/adguard-install.html) to add the list or follow steps below
+1. [Click here](https://ph00lt0.github.io/blocklist/adguard-install.html) to add the list or follow steps below
 2. For the best impact enable the `trusted` checkbox
 3. Click `Subscribe`
 
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/ph00lt0/blocklists/master/blocklist.txt
 
 
 ### Little Snitch
-1. [Click here](https://ihaveprivacy.com/blocklist/little-snitch-install.html) to add the list
+1. [Click here](https://ph00lt0.github.io/blocklist/little-snitch-install.html) to add the list
 2. Change `update` to daily
 3. Check the `active` checkbox
 4. Press `Subscribe`

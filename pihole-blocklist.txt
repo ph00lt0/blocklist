@@ -15318,7 +15318,7 @@
 0.0.0.0 aviva.io
 0.0.0.0 awaze.com
 0.0.0.0 awembd.com
-0.0.0.0 awsnre.co.uk
+! allow awsnre.co.uk reason: Required for national rail
 0.0.0.0 azrcdnprd01.azureedge.net
 0.0.0.0 bannerflow.com
 ! allow basecamp-pwa-prod.com reason: not a tracker

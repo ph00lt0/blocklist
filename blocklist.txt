@@ -15633,7 +15633,7 @@ $removeparam=engagement_type
 ||aviva.io^
 ||awaze.com^
 ||awembd.com^
-||awsnre.co.uk^
+||awsnre.co.uk^$badfilter  # Required for national rail
 ||azrcdnprd01.azureedge.net^
 ||bannerflow.com^
 ||basecamp-pwa-prod.com^$badfilter  # not a tracker

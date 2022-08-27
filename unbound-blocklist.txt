@@ -15213,7 +15213,7 @@ local-zone: "avazudsp.net." always_null
 local-zone: "aviva.io." always_null
 local-zone: "awaze.com." always_null
 local-zone: "awembd.com." always_null
-local-zone: "awsnre.co.uk." always_null
+# allow awsnre.co.uk reason: Required for national rail
 local-zone: "azrcdnprd01.azureedge.net." always_null
 local-zone: "bannerflow.com." always_null
 # allow basecamp-pwa-prod.com reason: not a tracker

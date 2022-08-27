@@ -15210,7 +15210,7 @@ avazudsp.net CNAME .
 aviva.io CNAME .
 awaze.com CNAME .
 awembd.com CNAME .
-awsnre.co.uk CNAME .
+; allow awsnre.co.uk reason: Required for national rail
 azrcdnprd01.azureedge.net CNAME .
 bannerflow.com CNAME .
 ; allow basecamp-pwa-prod.com reason: not a tracker

@@ -14330,7 +14330,7 @@
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d19ayerf5ehaab.cloudfront.net
 0.0.0.0 d1a2bckw51ogqq.cloudfront.net
-0.0.0.0 d1a3f4spazzrp4.cloudfront.net
+! allow d1a3f4spazzrp4.cloudfront.net reason: cdn
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1bk6lwzdwelz0.cloudfront.net
 0.0.0.0 d1dl8fof0t29xj.cloudfront.net

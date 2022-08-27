@@ -14222,7 +14222,7 @@ d18eg7dreypte5.cloudfront.net CNAME .
 d18p8z0ptb8qab.cloudfront.net CNAME .
 d19ayerf5ehaab.cloudfront.net CNAME .
 d1a2bckw51ogqq.cloudfront.net CNAME .
-d1a3f4spazzrp4.cloudfront.net CNAME .
+; allow d1a3f4spazzrp4.cloudfront.net reason: cdn
 d1af033869koo7.cloudfront.net CNAME .
 d1bk6lwzdwelz0.cloudfront.net CNAME .
 d1dl8fof0t29xj.cloudfront.net CNAME .

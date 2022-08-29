@@ -16132,3 +16132,4 @@ local-zone: "zgpsjj.com." always_null
 local-zone: "ibtcams.ac.cn." always_null
 local-zone: "bruceklemz.com." always_null
 local-zone: "local.mlcdn.com." always_null
+local-zone: "groot.mailerlite.com." always_null

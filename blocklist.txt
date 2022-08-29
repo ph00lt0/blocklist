@@ -16607,3 +16607,4 @@ $removeparam=fp_ref
 ||github-readme-stats.vercel.app^
 ||openweaver.com^
 ||mirr.one^
+||pingchas.com^

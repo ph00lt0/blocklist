@@ -16115,3 +16115,4 @@ local-zone: "pingchas.com." always_null
 local-zone: "devscope.io." always_null
 local-zone: "oschina.net." always_null
 local-zone: "soft.org." always_null
+local-zone: "github.fetch.soft.org." always_null

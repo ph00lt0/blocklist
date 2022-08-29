@@ -16220,3 +16220,4 @@
 0.0.0.0 devscope.io
 0.0.0.0 oschina.net
 0.0.0.0 soft.org
+0.0.0.0 github.fetch.soft.org

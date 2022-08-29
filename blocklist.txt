@@ -16605,3 +16605,4 @@ $removeparam=fp_ref
 ||issueantenna.com^
 ||devpick.io^
 ||github-readme-stats.vercel.app^
+||openweaver.com^

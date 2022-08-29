@@ -16114,3 +16114,4 @@ oschina.net CNAME .
 soft.org CNAME .
 github.fetch.soft.org CNAME .
 fetch.soft.org CNAME .
+jawabsoal.live CNAME .

@@ -16108,3 +16108,4 @@ local-zone: "analytics.gandi.net." always_null
 local-zone: "geeksrepos.com." always_null
 local-zone: "issueantenna.com." always_null
 local-zone: "devpick.io." always_null
+local-zone: "github-readme-stats.vercel.app." always_null

@@ -16105,3 +16105,4 @@ analytics.gandi.net CNAME .
 geeksrepos.com CNAME .
 issueantenna.com CNAME .
 devpick.io CNAME .
+github-readme-stats.vercel.app CNAME .

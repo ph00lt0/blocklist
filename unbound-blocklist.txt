@@ -16119,3 +16119,4 @@ local-zone: "github.fetch.soft.org." always_null
 local-zone: "fetch.soft.org." always_null
 local-zone: "jawabsoal.live." always_null
 local-zone: "giter.vip." always_null
+local-zone: "github.yanqishui.work." always_null

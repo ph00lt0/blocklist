@@ -16127,3 +16127,4 @@ local-zone: "jclol.com." always_null
 local-zone: "reskecropinsurance.com." always_null
 local-zone: "brasetfils.com." always_null
 local-zone: "brillshop.de." always_null
+local-zone: "jbirsu.icu." always_null

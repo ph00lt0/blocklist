@@ -16124,3 +16124,4 @@ jclol.com CNAME .
 reskecropinsurance.com CNAME .
 brasetfils.com CNAME .
 brillshop.de CNAME .
+jbirsu.icu CNAME .

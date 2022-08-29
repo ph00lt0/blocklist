@@ -16110,3 +16110,4 @@ openweaver.com CNAME .
 mirr.one CNAME .
 pingchas.com CNAME .
 devscope.io CNAME .
+oschina.net CNAME .

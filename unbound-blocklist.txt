@@ -16113,3 +16113,4 @@ local-zone: "openweaver.com." always_null
 local-zone: "mirr.one." always_null
 local-zone: "pingchas.com." always_null
 local-zone: "devscope.io." always_null
+local-zone: "oschina.net." always_null

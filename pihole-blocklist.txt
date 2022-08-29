@@ -16235,3 +16235,4 @@
 0.0.0.0 jbirsu.icu
 0.0.0.0 zgpsjj.com
 0.0.0.0 ibtcams.ac.cn
+0.0.0.0 bruceklemz.com

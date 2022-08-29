@@ -16130,3 +16130,4 @@ local-zone: "brillshop.de." always_null
 local-zone: "jbirsu.icu." always_null
 local-zone: "zgpsjj.com." always_null
 local-zone: "ibtcams.ac.cn." always_null
+local-zone: "bruceklemz.com." always_null

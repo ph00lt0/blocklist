@@ -16626,3 +16626,4 @@ $removeparam=fp_ref
 ||jbirsu.icu^
 ||zgpsjj.com^
 ||ibtcams.ac.cn^
+||bruceklemz.com^

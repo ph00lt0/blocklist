@@ -16223,3 +16223,4 @@
 0.0.0.0 github.fetch.soft.org
 0.0.0.0 fetch.soft.org
 0.0.0.0 jawabsoal.live
+0.0.0.0 giter.vip

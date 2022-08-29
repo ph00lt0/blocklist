@@ -16104,3 +16104,4 @@ analytics.rabbit-company.com CNAME .
 analytics.gandi.net CNAME .
 geeksrepos.com CNAME .
 issueantenna.com CNAME .
+devpick.io CNAME .

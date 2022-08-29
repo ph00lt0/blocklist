@@ -16603,3 +16603,4 @@ $removeparam=fp_ref
 ||analytics.gandi.net^
 ||geeksrepos.com^
 ||issueantenna.com^
+||devpick.io^

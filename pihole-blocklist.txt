@@ -16212,3 +16212,4 @@
 0.0.0.0 analytics.gandi.net
 0.0.0.0 geeksrepos.com
 0.0.0.0 issueantenna.com
+0.0.0.0 devpick.io

@@ -16608,3 +16608,4 @@ $removeparam=fp_ref
 ||openweaver.com^
 ||mirr.one^
 ||pingchas.com^
+||devscope.io^

@@ -16112,3 +16112,4 @@ local-zone: "github-readme-stats.vercel.app." always_null
 local-zone: "openweaver.com." always_null
 local-zone: "mirr.one." always_null
 local-zone: "pingchas.com." always_null
+local-zone: "devscope.io." always_null

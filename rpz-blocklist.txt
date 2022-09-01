@@ -16134,3 +16134,4 @@ hypemarks.com CNAME .
 sentry.ovhcloud.com CNAME .
 doorbell.io CNAME .
 events.reddit.com CNAME .
+gql-realtime.reddit.com CNAME .

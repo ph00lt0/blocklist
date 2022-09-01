@@ -15703,6 +15703,7 @@
         "hypemarks.com",
         "sentry.ovhcloud.com",
         "doorbell.io",
-        "events.reddit.com"
+        "events.reddit.com",
+        "gql-realtime.reddit.com"
     ]
 }

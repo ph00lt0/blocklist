@@ -16242,3 +16242,4 @@
 0.0.0.0 sentry.ovhcloud.com
 0.0.0.0 doorbell.io
 0.0.0.0 events.reddit.com
+0.0.0.0 gql-realtime.reddit.com

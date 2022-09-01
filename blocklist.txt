@@ -16633,3 +16633,4 @@ $removeparam=fp_ref
 ||sentry.ovhcloud.com^
 ||doorbell.io^
 ||events.reddit.com^
+||gql-realtime.reddit.com^

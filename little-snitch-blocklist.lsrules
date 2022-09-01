@@ -15701,6 +15701,7 @@
         "local.mlcdn.com",
         "groot.mailerlite.com",
         "hypemarks.com",
-        "sentry.ovhcloud.com"
+        "sentry.ovhcloud.com",
+        "doorbell.io"
     ]
 }

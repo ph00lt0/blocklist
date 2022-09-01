@@ -16135,3 +16135,4 @@ local-zone: "local.mlcdn.com." always_null
 local-zone: "groot.mailerlite.com." always_null
 local-zone: "hypemarks.com." always_null
 local-zone: "sentry.ovhcloud.com." always_null
+local-zone: "doorbell.io." always_null

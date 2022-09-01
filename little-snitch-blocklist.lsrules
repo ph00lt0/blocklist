@@ -15704,6 +15704,7 @@
         "sentry.ovhcloud.com",
         "doorbell.io",
         "events.reddit.com",
-        "gql-realtime.reddit.com"
+        "gql-realtime.reddit.com",
+        "alb.reddit.com"
     ]
 }

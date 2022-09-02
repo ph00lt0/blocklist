@@ -16635,3 +16635,4 @@ $removeparam=fp_ref
 ||events.reddit.com^
 ||gql-realtime.reddit.com^
 ||alb.reddit.com^
+||www.facebook.com/plugins/page.php^

@@ -16640,3 +16640,4 @@ blog.tivo.com##.sgpb-popup-overlay
 blog.tivo.com##.sg-popup-content
 blog.tivo.com##.sidebar
 ||vcdc.com^
+||adobetm.com^

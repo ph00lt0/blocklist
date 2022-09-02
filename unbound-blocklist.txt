@@ -16139,3 +16139,4 @@ local-zone: "doorbell.io." always_null
 local-zone: "events.reddit.com." always_null
 local-zone: "gql-realtime.reddit.com." always_null
 local-zone: "alb.reddit.com." always_null
+local-zone: "vcdc.com." always_null

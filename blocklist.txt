@@ -16637,3 +16637,4 @@ $removeparam=fp_ref
 ||alb.reddit.com^
 ||www.facebook.com/plugins/page.php^
 blog.tivo.com##.sgpb-popup-overlay
+blog.tivo.com##.sg-popup-content

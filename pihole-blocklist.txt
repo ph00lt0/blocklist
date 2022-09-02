@@ -16246,3 +16246,4 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 vcdc.com
 0.0.0.0 adobetm.com
+0.0.0.0 btpnative.com

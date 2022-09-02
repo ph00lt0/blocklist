@@ -16138,3 +16138,4 @@ gql-realtime.reddit.com CNAME .
 alb.reddit.com CNAME .
 vcdc.com CNAME .
 adobetm.com CNAME .
+btpnative.com CNAME .

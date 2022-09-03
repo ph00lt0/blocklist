@@ -16642,3 +16642,4 @@ blog.tivo.com##.sidebar
 ||vcdc.com^
 ||adobetm.com^
 ||btpnative.com^
+||hsidh.com^

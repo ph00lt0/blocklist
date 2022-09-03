@@ -16142,3 +16142,4 @@ local-zone: "alb.reddit.com." always_null
 local-zone: "vcdc.com." always_null
 local-zone: "adobetm.com." always_null
 local-zone: "btpnative.com." always_null
+local-zone: "hsidh.com." always_null

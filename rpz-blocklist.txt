@@ -16140,3 +16140,4 @@ vcdc.com CNAME .
 adobetm.com CNAME .
 btpnative.com CNAME .
 hsidh.com CNAME .
+lss-for-nemid-server.dk CNAME .

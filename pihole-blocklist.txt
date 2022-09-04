@@ -16253,3 +16253,4 @@
 0.0.0.0 td.yieldify.com
 0.0.0.0 a.dropoverapp.com
 0.0.0.0 go.kaspersky.com
+0.0.0.0 sgtm.kaspersky.com

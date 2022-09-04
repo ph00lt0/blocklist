@@ -16156,3 +16156,4 @@ local-zone: "govx.net." always_null
 local-zone: "plerdy.com." always_null
 local-zone: "tracker.plerdy.com." always_null
 local-zone: "d.plerdy.com." always_null
+local-zone: "test.plerdy.com." always_null

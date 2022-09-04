@@ -16153,3 +16153,4 @@ govx.net CNAME .
 plerdy.com CNAME .
 tracker.plerdy.com CNAME .
 d.plerdy.com CNAME .
+test.plerdy.com CNAME .

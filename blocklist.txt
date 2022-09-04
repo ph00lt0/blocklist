@@ -16658,3 +16658,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||govx.net^
 ||plerdy.com^
 ||tracker.plerdy.com^
+||d.plerdy.com^

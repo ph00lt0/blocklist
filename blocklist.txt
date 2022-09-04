@@ -16662,3 +16662,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||test.plerdy.com^
 ||c.plerdy.com^
 ||a.plerdy.com^
+||geolocation-recommendations.shopifyapps.com^

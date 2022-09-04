@@ -16651,3 +16651,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||a.dropoverapp.com^
 ||go.kaspersky.com^
 ||sgtm.kaspersky.com^
+||cse.google.com/adsense/*^

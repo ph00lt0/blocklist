@@ -16653,3 +16653,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||sgtm.kaspersky.com^
 ||cse.google.com/adsense/*^
 ||s1.quebecormedia.com^
+||recherche-api.quebecormedia.com^

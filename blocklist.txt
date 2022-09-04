@@ -16660,3 +16660,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||tracker.plerdy.com^
 ||d.plerdy.com^
 ||test.plerdy.com^
+||c.plerdy.com^

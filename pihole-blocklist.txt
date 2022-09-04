@@ -16262,3 +16262,4 @@
 0.0.0.0 tracker.plerdy.com
 0.0.0.0 d.plerdy.com
 0.0.0.0 test.plerdy.com
+0.0.0.0 c.plerdy.com

@@ -16151,3 +16151,4 @@ recherche-api.quebecormedia.com CNAME .
 govx.com CNAME .
 govx.net CNAME .
 plerdy.com CNAME .
+tracker.plerdy.com CNAME .

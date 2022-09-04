@@ -16647,3 +16647,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||lss-for-nemid-server.dk^
 
 ||yieldify.com^
+||td.yieldify.com^

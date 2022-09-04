@@ -16143,3 +16143,4 @@ local-zone: "vcdc.com." always_null
 local-zone: "adobetm.com." always_null
 local-zone: "btpnative.com." always_null
 local-zone: "hsidh.com." always_null
+local-zone: "lss-for-nemid-server.dk." always_null

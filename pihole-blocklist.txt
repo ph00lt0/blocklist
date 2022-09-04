@@ -16248,3 +16248,4 @@
 0.0.0.0 adobetm.com
 0.0.0.0 btpnative.com
 0.0.0.0 hsidh.com
+0.0.0.0 lss-for-nemid-server.dk

@@ -16668,3 +16668,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||window-shoppers.azurewebsites.net^
 ||shop.pe^
 ||cdn.attn.tv^
+mykeyport.com##.loader

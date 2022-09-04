@@ -16153,3 +16153,4 @@ local-zone: "s1.quebecormedia.com." always_null
 local-zone: "recherche-api.quebecormedia.com." always_null
 local-zone: "govx.com." always_null
 local-zone: "govx.net." always_null
+local-zone: "plerdy.com." always_null

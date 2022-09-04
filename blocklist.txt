@@ -16656,3 +16656,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||recherche-api.quebecormedia.com^
 ||govx.com^
 ||govx.net^
+||plerdy.com^

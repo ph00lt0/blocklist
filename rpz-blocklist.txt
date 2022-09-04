@@ -16161,3 +16161,4 @@ truconversion.com CNAME .
 app.truconversion.com CNAME .
 window-shoppers.azurewebsites.net CNAME .
 shop.pe CNAME .
+cdn.attn.tv CNAME .

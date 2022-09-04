@@ -16646,3 +16646,4 @@ blog.tivo.com##.sidebar
 consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .button.basebutton
 ||lss-for-nemid-server.dk^
 
+||yieldify.com^

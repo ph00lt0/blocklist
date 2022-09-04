@@ -16149,3 +16149,4 @@ local-zone: "td.yieldify.com." always_null
 local-zone: "a.dropoverapp.com." always_null
 local-zone: "go.kaspersky.com." always_null
 local-zone: "sgtm.kaspersky.com." always_null
+local-zone: "s1.quebecormedia.com." always_null

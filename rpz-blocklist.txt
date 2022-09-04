@@ -16146,3 +16146,4 @@ td.yieldify.com CNAME .
 a.dropoverapp.com CNAME .
 go.kaspersky.com CNAME .
 sgtm.kaspersky.com CNAME .
+s1.quebecormedia.com CNAME .

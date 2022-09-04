@@ -16643,3 +16643,5 @@ blog.tivo.com##.sidebar
 ||adobetm.com^
 ||btpnative.com^
 ||hsidh.com^
+consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .button.basebutton
+

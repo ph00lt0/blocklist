@@ -16666,3 +16666,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||truconversion.com^
 ||app.truconversion.com^
 ||window-shoppers.azurewebsites.net^
+||shop.pe^

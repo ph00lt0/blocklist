@@ -16163,3 +16163,4 @@ local-zone: "geolocation-recommendations.shopifyapps.com." always_null
 local-zone: "truconversion.com." always_null
 local-zone: "app.truconversion.com." always_null
 local-zone: "window-shoppers.azurewebsites.net." always_null
+local-zone: "shop.pe." always_null

@@ -16160,3 +16160,4 @@ geolocation-recommendations.shopifyapps.com CNAME .
 truconversion.com CNAME .
 app.truconversion.com CNAME .
 window-shoppers.azurewebsites.net CNAME .
+shop.pe CNAME .

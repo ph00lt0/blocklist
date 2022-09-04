@@ -16267,3 +16267,4 @@
 0.0.0.0 geolocation-recommendations.shopifyapps.com
 0.0.0.0 truconversion.com
 0.0.0.0 app.truconversion.com
+0.0.0.0 window-shoppers.azurewebsites.net

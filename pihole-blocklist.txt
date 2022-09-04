@@ -16256,3 +16256,4 @@
 0.0.0.0 sgtm.kaspersky.com
 0.0.0.0 s1.quebecormedia.com
 0.0.0.0 recherche-api.quebecormedia.com
+0.0.0.0 govx.com

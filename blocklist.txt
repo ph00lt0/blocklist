@@ -16654,3 +16654,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||cse.google.com/adsense/*^
 ||s1.quebecormedia.com^
 ||recherche-api.quebecormedia.com^
+||govx.com^

@@ -16265,3 +16265,4 @@
 0.0.0.0 c.plerdy.com
 0.0.0.0 a.plerdy.com
 0.0.0.0 geolocation-recommendations.shopifyapps.com
+0.0.0.0 truconversion.com

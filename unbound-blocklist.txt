@@ -16160,3 +16160,4 @@ local-zone: "test.plerdy.com." always_null
 local-zone: "c.plerdy.com." always_null
 local-zone: "a.plerdy.com." always_null
 local-zone: "geolocation-recommendations.shopifyapps.com." always_null
+local-zone: "truconversion.com." always_null

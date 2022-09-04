@@ -16157,3 +16157,4 @@ test.plerdy.com CNAME .
 c.plerdy.com CNAME .
 a.plerdy.com CNAME .
 geolocation-recommendations.shopifyapps.com CNAME .
+truconversion.com CNAME .

@@ -16144,3 +16144,4 @@ lss-for-nemid-server.dk CNAME .
 yieldify.com CNAME .
 td.yieldify.com CNAME .
 a.dropoverapp.com CNAME .
+go.kaspersky.com CNAME .

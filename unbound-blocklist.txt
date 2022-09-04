@@ -16147,3 +16147,4 @@ local-zone: "lss-for-nemid-server.dk." always_null
 local-zone: "yieldify.com." always_null
 local-zone: "td.yieldify.com." always_null
 local-zone: "a.dropoverapp.com." always_null
+local-zone: "go.kaspersky.com." always_null

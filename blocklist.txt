@@ -16649,3 +16649,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||yieldify.com^
 ||td.yieldify.com^
 ||a.dropoverapp.com^
+||go.kaspersky.com^

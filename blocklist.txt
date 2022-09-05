@@ -16670,3 +16670,4 @@ consent.youtube.com##.saveButtonContainerNarrowScreen > form:nth-of-type(1) > .b
 ||cdn.attn.tv^
 mykeyport.com##.loader
 ||connect.graydon-global.com^
+||analytics.groupoffice.net^

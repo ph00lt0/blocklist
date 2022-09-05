@@ -13471,7 +13471,7 @@
 0.0.0.0 ac-iam-scalertest.azurewebsites.net
 0.0.0.0 ac-image.s3.amazonaws.com
 0.0.0.0 acacdn.com
-0.0.0.0 academia-assets.com
+! allow academia-assets.com reason: CDN
 0.0.0.0 acalog.com
 ! allow acast.cloud reason: podcasts
 ! allow acast.com reason: podcasts

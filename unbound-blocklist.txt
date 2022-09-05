@@ -13366,7 +13366,7 @@ local-zone: "ac-data.com." always_null
 local-zone: "ac-iam-scalertest.azurewebsites.net." always_null
 local-zone: "ac-image.s3.amazonaws.com." always_null
 local-zone: "acacdn.com." always_null
-local-zone: "academia-assets.com." always_null
+# allow academia-assets.com reason: CDN
 local-zone: "acalog.com." always_null
 # allow acast.cloud reason: podcasts
 # allow acast.com reason: podcasts

@@ -13789,7 +13789,7 @@ $removeparam=engagement_type
 ||ac-iam-scalertest.azurewebsites.net^
 ||ac-image.s3.amazonaws.com^
 ||acacdn.com^
-||academia-assets.com^
+||academia-assets.com^$badfilter  # CDN
 ||acalog.com^
 ||acast.cloud^$badfilter  # podcasts
 ||acast.com^$badfilter  # podcasts

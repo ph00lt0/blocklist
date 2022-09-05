@@ -13363,7 +13363,7 @@ ac-data.com CNAME .
 ac-iam-scalertest.azurewebsites.net CNAME .
 ac-image.s3.amazonaws.com CNAME .
 acacdn.com CNAME .
-academia-assets.com CNAME .
+; allow academia-assets.com reason: CDN
 acalog.com CNAME .
 ; allow acast.cloud reason: podcasts
 ; allow acast.com reason: podcasts

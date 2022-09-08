@@ -16174,3 +16174,4 @@ richpanel.com CNAME .
 hulkapps.com CNAME .
 nofraud.com CNAME .
 cevoid.com CNAME .
+oxiapps.com CNAME .

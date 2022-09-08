@@ -16681,3 +16681,4 @@ mykeyport.com##.loader
 ||hulkapps.com^
 ||nofraud.com^
 ||cevoid.com^
+||oxiapps.com^

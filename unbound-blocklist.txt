@@ -16170,3 +16170,4 @@ local-zone: "analytics.groupoffice.net." always_null
 local-zone: "kibokolabs.com." always_null
 local-zone: "rs6.net." always_null
 local-zone: "postscript.io." always_null
+local-zone: "easyquote.pw." always_null

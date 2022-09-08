@@ -16674,3 +16674,4 @@ mykeyport.com##.loader
 ||kibokolabs.com^
 ||rs6.net^
 ||postscript.io^
+||easyquote.pw^

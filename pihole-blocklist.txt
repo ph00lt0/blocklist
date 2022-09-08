@@ -16281,3 +16281,4 @@
 0.0.0.0 richpanel.com
 0.0.0.0 hulkapps.com
 0.0.0.0 nofraud.com
+0.0.0.0 cevoid.com

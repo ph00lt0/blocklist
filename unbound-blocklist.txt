@@ -16176,3 +16176,4 @@ local-zone: "spicegems.com." always_null
 local-zone: "richpanel.com." always_null
 local-zone: "hulkapps.com." always_null
 local-zone: "nofraud.com." always_null
+local-zone: "cevoid.com." always_null

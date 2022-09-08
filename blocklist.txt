@@ -16684,3 +16684,4 @@ mykeyport.com##.loader
 ||oxiapps.com^
 ||preorder-now.herokuapp.com^
 ||app-easy-product-downloads.fr^
+||cdnbspa.spicegems.com^

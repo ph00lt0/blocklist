@@ -16689,3 +16689,4 @@ mykeyport.com##.loader
 ||stats.misterdev.it^
 ||clanker-events.squarespace.com^
 ||events.squarespace.com^
+||analytics.webflow.com^

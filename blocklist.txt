@@ -16686,3 +16686,4 @@ mykeyport.com##.loader
 ||app-easy-product-downloads.fr^
 ||cdnbspa.spicegems.com^
 ||spa.spicegems.com^
+||stats.misterdev.it^

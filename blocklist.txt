@@ -16679,3 +16679,4 @@ mykeyport.com##.loader
 ||spicegems.com^
 ||richpanel.com^
 ||hulkapps.com^
+||nofraud.com^

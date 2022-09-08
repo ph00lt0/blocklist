@@ -16683,3 +16683,4 @@ mykeyport.com##.loader
 ||cevoid.com^
 ||oxiapps.com^
 ||preorder-now.herokuapp.com^
+||app-easy-product-downloads.fr^

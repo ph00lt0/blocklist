@@ -16179,3 +16179,4 @@ local-zone: "nofraud.com." always_null
 local-zone: "cevoid.com." always_null
 local-zone: "oxiapps.com." always_null
 local-zone: "preorder-now.herokuapp.com." always_null
+local-zone: "app-easy-product-downloads.fr." always_null

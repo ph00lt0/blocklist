@@ -16180,3 +16180,4 @@ app-easy-product-downloads.fr CNAME .
 cdnbspa.spicegems.com CNAME .
 spa.spicegems.com CNAME .
 stats.misterdev.it CNAME .
+clanker-events.squarespace.com CNAME .

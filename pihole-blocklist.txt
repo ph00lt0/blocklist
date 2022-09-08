@@ -16288,3 +16288,4 @@
 0.0.0.0 cdnbspa.spicegems.com
 0.0.0.0 spa.spicegems.com
 0.0.0.0 stats.misterdev.it
+0.0.0.0 clanker-events.squarespace.com

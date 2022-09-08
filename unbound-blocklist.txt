@@ -16183,3 +16183,4 @@ local-zone: "app-easy-product-downloads.fr." always_null
 local-zone: "cdnbspa.spicegems.com." always_null
 local-zone: "spa.spicegems.com." always_null
 local-zone: "stats.misterdev.it." always_null
+local-zone: "clanker-events.squarespace.com." always_null

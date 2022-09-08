@@ -16170,3 +16170,4 @@ postscript.io CNAME .
 easyquote.pw CNAME .
 verifypass.com CNAME .
 spicegems.com CNAME .
+richpanel.com CNAME .

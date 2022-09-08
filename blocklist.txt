@@ -16688,3 +16688,4 @@ mykeyport.com##.loader
 ||spa.spicegems.com^
 ||stats.misterdev.it^
 ||clanker-events.squarespace.com^
+||events.squarespace.com^

@@ -16181,3 +16181,4 @@ cdnbspa.spicegems.com CNAME .
 spa.spicegems.com CNAME .
 stats.misterdev.it CNAME .
 clanker-events.squarespace.com CNAME .
+events.squarespace.com CNAME .

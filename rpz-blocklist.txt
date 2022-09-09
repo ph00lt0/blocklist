@@ -2142,7 +2142,7 @@ campaignmonitor.com CNAME .
 chat-api.swapcard.com CNAME .
 rtm.swapcard.com CNAME .
 stats.paypal.com CNAME .
-geo.cardinalcommerce.com CNAME .
+geo.; allow cardinalcommerce.com reason: required for braintree
 kg668dbov0.execute-api.us-east-1.amazonaws.com CNAME .
 execute-api.us-east-1.amazonaws.com CNAME .
 adformdsp.net CNAME .
@@ -15233,7 +15233,7 @@ campaigner.com CNAME .
 camsoda.com CNAME .
 camwhores.tv CNAME .
 carbondmp.com CNAME .
-cardinalcommerce.com CNAME .
+; allow cardinalcommerce.com reason: required for braintree
 castle.io CNAME .
 cbmiocw.com CNAME .
 cc-cdn.com CNAME .

@@ -15657,7 +15657,7 @@ $removeparam=engagement_type
 ||camsoda.com^
 ||camwhores.tv^
 ||carbondmp.com^
-||cardinalcommerce.com^
+||cardinalcommerce.com^$badfilter  # required for braintree
 ||castle.io^
 ||cbmiocw.com^
 ||cc-cdn.com^

@@ -15236,7 +15236,7 @@ local-zone: "campaigner.com." always_null
 local-zone: "camsoda.com." always_null
 local-zone: "camwhores.tv." always_null
 local-zone: "carbondmp.com." always_null
-local-zone: "cardinalcommerce.com." always_null
+# allow cardinalcommerce.com reason: required for braintree
 local-zone: "castle.io." always_null
 local-zone: "cbmiocw.com." always_null
 local-zone: "cc-cdn.com." always_null

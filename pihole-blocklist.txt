@@ -15341,7 +15341,7 @@
 0.0.0.0 camsoda.com
 0.0.0.0 camwhores.tv
 0.0.0.0 carbondmp.com
-0.0.0.0 cardinalcommerce.com
+! allow cardinalcommerce.com reason: required for braintree
 0.0.0.0 castle.io
 0.0.0.0 cbmiocw.com
 0.0.0.0 cc-cdn.com

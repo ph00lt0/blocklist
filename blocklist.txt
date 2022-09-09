@@ -8946,7 +8946,7 @@ fd.nl##.fd-message
 ||*.4sqi.net^
 ||*.a248.e.akamai.net^
 ||*.aolcdn.com^
-||*.awsstatic.com^
+@@||*.awsstatic.com^ # AWS
 ||*.bandwagonhost.com^
 ||*.cachefly.net^
 ||*.cdnst.net^

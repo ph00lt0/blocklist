@@ -8553,7 +8553,6 @@ local-zone: "*.yunpanjingling.com." always_null
 local-zone: "*.4sqi.net." always_null
 local-zone: "*.a248.e.akamai.net." always_null
 local-zone: "*.aolcdn.com." always_null
-local-zone: "*.awsstatic.com." always_null
 local-zone: "*.bandwagonhost.com." always_null
 local-zone: "*.cachefly.net." always_null
 local-zone: "*.cdnst.net." always_null

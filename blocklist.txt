@@ -16700,3 +16700,4 @@ mykeyport.com##.loader
 ||bonprix.*^$removeparam=promo
 ||bonprix.*^$removeparam=matchkey
 ||info.bonprix.*^$removeparam=l
+||info.bonprix.*^$removeparam=req

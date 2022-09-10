@@ -16694,3 +16694,4 @@ mykeyport.com##.loader
 ||bonprix.*^$removeparam=anbieter
 ||bonprix.*^$removeparam=typ
 ||bonprix.*^$removeparam=version
+||bonprix.*^$removeparam=aktion

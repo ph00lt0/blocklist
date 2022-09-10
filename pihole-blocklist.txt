@@ -16293,3 +16293,4 @@
 0.0.0.0 platform.hostaway.com
 0.0.0.0 tc.cdnhub.co
 0.0.0.0 fastbundle.co
+0.0.0.0 api.fastbundle.co

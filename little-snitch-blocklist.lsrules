@@ -15752,6 +15752,7 @@
         "analytics.webflow.com",
         "platform.hostaway.com",
         "tc.cdnhub.co",
-        "fastbundle.co"
+        "fastbundle.co",
+        "api.fastbundle.co"
     ]
 }

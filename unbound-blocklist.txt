@@ -16188,3 +16188,4 @@ local-zone: "analytics.webflow.com." always_null
 local-zone: "platform.hostaway.com." always_null
 local-zone: "tc.cdnhub.co." always_null
 local-zone: "fastbundle.co." always_null
+local-zone: "api.fastbundle.co." always_null

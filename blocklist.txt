@@ -16699,3 +16699,4 @@ mykeyport.com##.loader
 ||bonprix.*^$removeparam=cvp
 ||bonprix.*^$removeparam=promo
 ||bonprix.*^$removeparam=matchkey
+||info.bonprix.*^$removeparam=l

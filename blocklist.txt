@@ -16695,3 +16695,4 @@ mykeyport.com##.loader
 ||bonprix.*^$removeparam=typ
 ||bonprix.*^$removeparam=version
 ||bonprix.*^$removeparam=aktion
+||bonprix.*^$removeparam=newsletter_token

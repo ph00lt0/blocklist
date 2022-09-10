@@ -16691,3 +16691,4 @@ mykeyport.com##.loader
 ||events.squarespace.com^
 ||analytics.webflow.com^
 ||platform.hostaway.com^
+||bonprix.*^$removeparam=anbieter

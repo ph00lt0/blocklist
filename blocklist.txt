@@ -16702,3 +16702,4 @@ mykeyport.com##.loader
 ||info.bonprix.*^$removeparam=l
 ||info.bonprix.*^$removeparam=req
 ||tc.cdnhub.co^
+||fastbundle.co^

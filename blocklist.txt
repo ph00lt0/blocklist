@@ -16693,3 +16693,4 @@ mykeyport.com##.loader
 ||platform.hostaway.com^
 ||bonprix.*^$removeparam=anbieter
 ||bonprix.*^$removeparam=typ
+||bonprix.*^$removeparam=version

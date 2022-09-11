@@ -16233,3 +16233,4 @@ letoiledufutur.fr CNAME .
 douceepopee.fr CNAME .
 www.souhaitdujour.fr CNAME .
 www.lesconseilsdeflorence.fr CNAME .
+mapromessechic.fr CNAME .

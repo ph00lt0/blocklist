@@ -16236,3 +16236,4 @@ local-zone: "letoiledufutur.fr." always_null
 local-zone: "douceepopee.fr." always_null
 local-zone: "www.souhaitdujour.fr." always_null
 local-zone: "www.lesconseilsdeflorence.fr." always_null
+local-zone: "mapromessechic.fr." always_null

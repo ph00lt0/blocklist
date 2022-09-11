@@ -16752,3 +16752,4 @@ only.com##.overlay-backdrop
 ||douceepopee.fr^
 ||www.souhaitdujour.fr^
 ||www.lesconseilsdeflorence.fr^
+||mapromessechic.fr^

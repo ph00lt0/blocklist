@@ -16431,3 +16431,11 @@ www.maspherechic.fr CNAME .
 www.enviedumoment.fr CNAME .
 www.comptoirdesessentiels.fr CNAME .
 www.votrecapricedujour.fr CNAME .
+www.loasisduweb.fr CNAME .
+www.audetourmarchand.fr CNAME .
+www.lambassadeurdunet.fr CNAME .
+www.explorationdujour.fr CNAME .
+www.croiseedubonheur.fr CNAME .
+www.ledutyfreeduweb.fr CNAME .
+www.monexperiencepersonnalisee.fr CNAME .
+www.pointcommodite.fr CNAME .

@@ -16434,3 +16434,11 @@ local-zone: "www.maspherechic.fr." always_null
 local-zone: "www.enviedumoment.fr." always_null
 local-zone: "www.comptoirdesessentiels.fr." always_null
 local-zone: "www.votrecapricedujour.fr." always_null
+local-zone: "www.loasisduweb.fr." always_null
+local-zone: "www.audetourmarchand.fr." always_null
+local-zone: "www.lambassadeurdunet.fr." always_null
+local-zone: "www.explorationdujour.fr." always_null
+local-zone: "www.croiseedubonheur.fr." always_null
+local-zone: "www.ledutyfreeduweb.fr." always_null
+local-zone: "www.monexperiencepersonnalisee.fr." always_null
+local-zone: "www.pointcommodite.fr." always_null

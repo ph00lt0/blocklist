@@ -16216,3 +16216,4 @@ newsfordads.com CNAME .
 prizereactor.co.uk CNAME .
 prizereactor.com.au CNAME .
 kreditangebot2017.net CNAME .
+freavehd.net CNAME .

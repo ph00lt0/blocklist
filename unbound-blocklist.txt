@@ -16491,3 +16491,4 @@ local-zone: "www.scopertesorprendenti.it." always_null
 local-zone: "www.latuaesclusivita.it." always_null
 local-zone: "www.mesrencontresdujour.fr." always_null
 local-zone: "hollandfantaticpromo.nl." always_null
+local-zone: "medialightbox.com." always_null

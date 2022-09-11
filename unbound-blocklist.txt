@@ -16417,3 +16417,12 @@ local-zone: "www.lepromozionidelweb.it." always_null
 local-zone: "www.lesmerveillesdelavie.fr." always_null
 local-zone: "www.dynamiteduweb.fr." always_null
 local-zone: "www.piovonooccasioni.it." always_null
+local-zone: "www.propostaprestigiosa.it." always_null
+local-zone: "www.lejournaldesopportunites.fr." always_null
+local-zone: "cascadedubonheur.fr." always_null
+local-zone: "lemondederahul.fr." always_null
+local-zone: "www.styleenvogue.fr." always_null
+local-zone: "www.boutiquesoleil.fr." always_null
+local-zone: "www.ladecouvertedujour.fr." always_null
+local-zone: "www.croiseedesfortunes.fr." always_null
+local-zone: "www.coteplaisir.fr." always_null

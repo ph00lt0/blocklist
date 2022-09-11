@@ -16414,3 +16414,12 @@ www.lepromozionidelweb.it CNAME .
 www.lesmerveillesdelavie.fr CNAME .
 www.dynamiteduweb.fr CNAME .
 www.piovonooccasioni.it CNAME .
+www.propostaprestigiosa.it CNAME .
+www.lejournaldesopportunites.fr CNAME .
+cascadedubonheur.fr CNAME .
+lemondederahul.fr CNAME .
+www.styleenvogue.fr CNAME .
+www.boutiquesoleil.fr CNAME .
+www.ladecouvertedujour.fr CNAME .
+www.croiseedesfortunes.fr CNAME .
+www.coteplaisir.fr CNAME .

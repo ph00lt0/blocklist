@@ -16522,3 +16522,12 @@
 0.0.0.0 www.lesmerveillesdelavie.fr
 0.0.0.0 www.dynamiteduweb.fr
 0.0.0.0 www.piovonooccasioni.it
+0.0.0.0 www.propostaprestigiosa.it
+0.0.0.0 www.lejournaldesopportunites.fr
+0.0.0.0 cascadedubonheur.fr
+0.0.0.0 lemondederahul.fr
+0.0.0.0 www.styleenvogue.fr
+0.0.0.0 www.boutiquesoleil.fr
+0.0.0.0 www.ladecouvertedujour.fr
+0.0.0.0 www.croiseedesfortunes.fr
+0.0.0.0 www.coteplaisir.fr

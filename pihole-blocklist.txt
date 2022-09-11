@@ -16312,3 +16312,4 @@
 0.0.0.0 api.ecosia.org
 0.0.0.0 www.bingapis.com
 0.0.0.0 bingapis.com
+0.0.0.0 adviceglobal.com.mt

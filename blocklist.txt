@@ -16723,3 +16723,4 @@ mykeyport.com##.loader
 ||www.bingapis.com^
 ||bingapis.com^
 only.com##.overlay-backdrop
+||adviceglobal.com.mt^

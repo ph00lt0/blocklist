@@ -16204,3 +16204,4 @@ analytics.ecosia.org CNAME .
 api.ecosia.org CNAME .
 www.bingapis.com CNAME .
 bingapis.com CNAME .
+adviceglobal.com.mt CNAME .

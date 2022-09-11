@@ -16207,3 +16207,4 @@ local-zone: "analytics.ecosia.org." always_null
 local-zone: "api.ecosia.org." always_null
 local-zone: "www.bingapis.com." always_null
 local-zone: "bingapis.com." always_null
+local-zone: "adviceglobal.com.mt." always_null

@@ -16430,3 +16430,13 @@
 0.0.0.0 www.boulevarddesopportunites.fr
 0.0.0.0 lesecretdunet.com
 0.0.0.0 www.letourbillondelactu.fr
+0.0.0.0 lesjoyauxduweb.fr
+0.0.0.0 mesenviesdemain.fr
+0.0.0.0 www.besoinactuel.fr
+0.0.0.0 votreindispensable.fr
+0.0.0.0 matineeensoleillee.fr
+0.0.0.0 lesplusbeauxcaprices.com
+0.0.0.0 lachasseauxdeals.fr
+0.0.0.0 www.affaridelgiorno.it
+0.0.0.0 www.lavenuedesreves.fr
+0.0.0.0 www.angolodellafortuna.it

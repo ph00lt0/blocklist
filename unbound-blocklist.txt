@@ -16325,3 +16325,13 @@ local-zone: "mondoprivilegi.it." always_null
 local-zone: "www.boulevarddesopportunites.fr." always_null
 local-zone: "lesecretdunet.com." always_null
 local-zone: "www.letourbillondelactu.fr." always_null
+local-zone: "lesjoyauxduweb.fr." always_null
+local-zone: "mesenviesdemain.fr." always_null
+local-zone: "www.besoinactuel.fr." always_null
+local-zone: "votreindispensable.fr." always_null
+local-zone: "matineeensoleillee.fr." always_null
+local-zone: "lesplusbeauxcaprices.com." always_null
+local-zone: "lachasseauxdeals.fr." always_null
+local-zone: "www.affaridelgiorno.it." always_null
+local-zone: "www.lavenuedesreves.fr." always_null
+local-zone: "www.angolodellafortuna.it." always_null

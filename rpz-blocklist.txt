@@ -16322,3 +16322,13 @@ mondoprivilegi.it CNAME .
 www.boulevarddesopportunites.fr CNAME .
 lesecretdunet.com CNAME .
 www.letourbillondelactu.fr CNAME .
+lesjoyauxduweb.fr CNAME .
+mesenviesdemain.fr CNAME .
+www.besoinactuel.fr CNAME .
+votreindispensable.fr CNAME .
+matineeensoleillee.fr CNAME .
+lesplusbeauxcaprices.com CNAME .
+lachasseauxdeals.fr CNAME .
+www.affaridelgiorno.it CNAME .
+www.lavenuedesreves.fr CNAME .
+www.angolodellafortuna.it CNAME .

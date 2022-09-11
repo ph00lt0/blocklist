@@ -16820,3 +16820,4 @@ only.com##.overlay-backdrop
 ||koopjesvantim.nl^
 ||vantaggiodelmomento.it^
 ||ilrisparmioinunclick.it^
+||www.lesconseilsdujour.be^

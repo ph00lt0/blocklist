@@ -16741,3 +16741,4 @@ only.com##.overlay-backdrop
 ||api.ampliz.com^
 ||near-place.com^
 ||easypromo.nz^
+||updatemenu.be^

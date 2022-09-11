@@ -16222,3 +16222,4 @@ go.ampliz.com CNAME .
 api.ampliz.com CNAME .
 near-place.com CNAME .
 easypromo.nz CNAME .
+updatemenu.be CNAME .

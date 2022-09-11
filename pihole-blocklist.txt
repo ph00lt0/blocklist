@@ -16329,3 +16329,4 @@
 0.0.0.0 go.ampliz.com
 0.0.0.0 api.ampliz.com
 0.0.0.0 near-place.com
+0.0.0.0 easypromo.nz

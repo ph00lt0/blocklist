@@ -16740,3 +16740,4 @@ only.com##.overlay-backdrop
 ||go.ampliz.com^
 ||api.ampliz.com^
 ||near-place.com^
+||easypromo.nz^

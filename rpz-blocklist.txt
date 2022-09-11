@@ -16188,3 +16188,4 @@ fastbundle.co CNAME .
 api.fastbundle.co CNAME .
 perfectdeal.com CNAME .
 perfectedeal.com CNAME .
+volmaaktvolmaaktdeal.com CNAME .

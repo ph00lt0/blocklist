@@ -16294,3 +16294,4 @@ local-zone: "volontexaucee.fr." always_null
 local-zone: "moncoincosy.fr." always_null
 local-zone: "www.opportunitauniche.it." always_null
 local-zone: "premiodelgiorno.it." always_null
+local-zone: "encantosdeldia.es." always_null

@@ -16810,3 +16810,4 @@ only.com##.overlay-backdrop
 ||moncoincosy.fr^
 ||www.opportunitauniche.it^
 ||premiodelgiorno.it^
+||encantosdeldia.es^

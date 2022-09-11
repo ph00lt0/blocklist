@@ -16805,3 +16805,4 @@ only.com##.overlay-backdrop
 ||pepiteshopping.com^
 ||www.panopliedesbonsplans.fr^
 ||www.decirkelvankansen.be^
+||leslingotsdor.com^

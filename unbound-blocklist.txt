@@ -16289,3 +16289,4 @@ local-zone: "pioggiadiofferte.it." always_null
 local-zone: "pepiteshopping.com." always_null
 local-zone: "www.panopliedesbonsplans.fr." always_null
 local-zone: "www.decirkelvankansen.be." always_null
+local-zone: "leslingotsdor.com." always_null

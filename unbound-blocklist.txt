@@ -16279,3 +16279,4 @@ local-zone: "astucieuxrue.fr." always_null
 local-zone: "www.latuazonaesclusiva.it." always_null
 local-zone: "evvivaloshopping.it." always_null
 local-zone: "ilventagliodelleofferte.it." always_null
+local-zone: "www.vostrouvailles.fr." always_null

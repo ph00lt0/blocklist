@@ -16276,3 +16276,4 @@ astucieuxrue.fr CNAME .
 www.latuazonaesclusiva.it CNAME .
 evvivaloshopping.it CNAME .
 ilventagliodelleofferte.it CNAME .
+www.vostrouvailles.fr CNAME .

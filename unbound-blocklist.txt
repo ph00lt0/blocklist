@@ -16245,3 +16245,4 @@ local-zone: "www.instantcharme.fr." always_null
 local-zone: "www.lovelyopportunities.com." always_null
 local-zone: "www.lavalleedesenvies.fr." always_null
 local-zone: "dynamiteduweb.fr." always_null
+local-zone: "lejournaldesopportunites.fr." always_null

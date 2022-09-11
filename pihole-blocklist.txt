@@ -16350,3 +16350,4 @@
 0.0.0.0 www.lovelyopportunities.com
 0.0.0.0 www.lavalleedesenvies.fr
 0.0.0.0 dynamiteduweb.fr
+0.0.0.0 lejournaldesopportunites.fr

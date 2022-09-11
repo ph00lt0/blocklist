@@ -16242,3 +16242,4 @@ www.instantcharme.fr CNAME .
 www.lovelyopportunities.com CNAME .
 www.lavalleedesenvies.fr CNAME .
 dynamiteduweb.fr CNAME .
+lejournaldesopportunites.fr CNAME .

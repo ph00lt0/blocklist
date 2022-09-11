@@ -16761,3 +16761,4 @@ only.com##.overlay-backdrop
 ||www.lovelyopportunities.com^
 ||www.lavalleedesenvies.fr^
 ||dynamiteduweb.fr^
+||lejournaldesopportunites.fr^

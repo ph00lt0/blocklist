@@ -16753,3 +16753,4 @@ only.com##.overlay-backdrop
 ||www.souhaitdujour.fr^
 ||www.lesconseilsdeflorence.fr^
 ||mapromessechic.fr^
+||merveillesdujour.fr^

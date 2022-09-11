@@ -16819,3 +16819,4 @@ only.com##.overlay-backdrop
 ||vertigomediaperformanceprivacypolicy.com^
 ||koopjesvantim.nl^
 ||vantaggiodelmomento.it^
+||ilrisparmioinunclick.it^

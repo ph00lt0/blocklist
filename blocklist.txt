@@ -16760,3 +16760,4 @@ only.com##.overlay-backdrop
 ||www.instantcharme.fr^
 ||www.lovelyopportunities.com^
 ||www.lavalleedesenvies.fr^
+||dynamiteduweb.fr^

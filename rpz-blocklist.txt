@@ -16244,3 +16244,4 @@ www.lavalleedesenvies.fr CNAME .
 dynamiteduweb.fr CNAME .
 lejournaldesopportunites.fr CNAME .
 loffertadeldia.it CNAME .
+monshoppingideal.fr CNAME .

@@ -16247,3 +16247,4 @@ local-zone: "www.lavalleedesenvies.fr." always_null
 local-zone: "dynamiteduweb.fr." always_null
 local-zone: "lejournaldesopportunites.fr." always_null
 local-zone: "loffertadeldia.it." always_null
+local-zone: "monshoppingideal.fr." always_null

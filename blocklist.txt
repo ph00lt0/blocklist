@@ -16745,3 +16745,4 @@ only.com##.overlay-backdrop
 ||to-email.com^
 ||newsletteradvice.com^
 ||adviceglobalnz.com^
+||headtype.de^

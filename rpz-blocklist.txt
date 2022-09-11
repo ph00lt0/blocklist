@@ -16248,3 +16248,4 @@ monshoppingideal.fr CNAME .
 www.goudendienst.nl CNAME .
 piacereautentico.it CNAME .
 instantlust.com CNAME .
+www.avenuesolaire.fr CNAME .

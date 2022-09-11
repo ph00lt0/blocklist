@@ -16484,3 +16484,6 @@ www.scontissimiperte.it CNAME .
 www.leopportunitadelweb.it CNAME .
 www.lecocktaildunet.fr CNAME .
 www.attimisuggestivi.it CNAME .
+www.scopertesorprendenti.it CNAME .
+www.latuaesclusivita.it CNAME .
+www.mesrencontresdujour.fr CNAME .

@@ -16294,3 +16294,4 @@
 0.0.0.0 tc.cdnhub.co
 0.0.0.0 fastbundle.co
 0.0.0.0 api.fastbundle.co
+0.0.0.0 perfectdeal.com

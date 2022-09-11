@@ -16186,3 +16186,4 @@ platform.hostaway.com CNAME .
 tc.cdnhub.co CNAME .
 fastbundle.co CNAME .
 api.fastbundle.co CNAME .
+perfectdeal.com CNAME .

@@ -16267,3 +16267,4 @@ local-zone: "selectionrocambolesque.fr." always_null
 local-zone: "letuescopertedelweb.it." always_null
 local-zone: "www.complementdemplettes.fr." always_null
 local-zone: "jelevouloir.fr." always_null
+local-zone: "www.lecturelunaire.fr." always_null

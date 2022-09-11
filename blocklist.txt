@@ -16754,3 +16754,4 @@ only.com##.overlay-backdrop
 ||www.lesconseilsdeflorence.fr^
 ||mapromessechic.fr^
 ||merveillesdujour.fr^
+||macollectiondoree.fr^

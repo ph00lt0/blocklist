@@ -16713,3 +16713,4 @@ mykeyport.com##.loader
 ||nederlanddagelijksegelegenheden.nl^
 ||veepee.nl^
 ||filmbase.com^
+||verticalmailer.com^

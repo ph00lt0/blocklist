@@ -16195,3 +16195,4 @@ travelclown.nl CNAME .
 nederlanddagelijksegelegenheden.nl CNAME .
 veepee.nl CNAME .
 filmbase.com CNAME .
+verticalmailer.com CNAME .

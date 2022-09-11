@@ -16307,3 +16307,12 @@ www.boulevarddesexperts.fr CNAME .
 www.iltuoclub.it CNAME .
 laffaregiusto.it CNAME .
 www.sorpresainarrivo.it CNAME .
+occasionimminente.fr CNAME .
+coglilaffare.it CNAME .
+instantcharme.fr CNAME .
+ilparadisodelleoccasioni.com CNAME .
+www.spazionovita.com CNAME .
+baladeastrale.fr CNAME .
+lecoindesextras.com CNAME .
+cliccateci.it CNAME .
+www.lagalleriedelleofferte.com CNAME .

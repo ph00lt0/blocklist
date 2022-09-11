@@ -16310,3 +16310,12 @@ local-zone: "www.boulevarddesexperts.fr." always_null
 local-zone: "www.iltuoclub.it." always_null
 local-zone: "laffaregiusto.it." always_null
 local-zone: "www.sorpresainarrivo.it." always_null
+local-zone: "occasionimminente.fr." always_null
+local-zone: "coglilaffare.it." always_null
+local-zone: "instantcharme.fr." always_null
+local-zone: "ilparadisodelleoccasioni.com." always_null
+local-zone: "www.spazionovita.com." always_null
+local-zone: "baladeastrale.fr." always_null
+local-zone: "lecoindesextras.com." always_null
+local-zone: "cliccateci.it." always_null
+local-zone: "www.lagalleriedelleofferte.com." always_null

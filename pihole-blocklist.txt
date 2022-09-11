@@ -16415,3 +16415,12 @@
 0.0.0.0 www.iltuoclub.it
 0.0.0.0 laffaregiusto.it
 0.0.0.0 www.sorpresainarrivo.it
+0.0.0.0 occasionimminente.fr
+0.0.0.0 coglilaffare.it
+0.0.0.0 instantcharme.fr
+0.0.0.0 ilparadisodelleoccasioni.com
+0.0.0.0 www.spazionovita.com
+0.0.0.0 baladeastrale.fr
+0.0.0.0 lecoindesextras.com
+0.0.0.0 cliccateci.it
+0.0.0.0 www.lagalleriedelleofferte.com

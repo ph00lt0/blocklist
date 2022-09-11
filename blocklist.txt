@@ -16762,3 +16762,4 @@ only.com##.overlay-backdrop
 ||www.lavalleedesenvies.fr^
 ||dynamiteduweb.fr^
 ||lejournaldesopportunites.fr^
+||loffertadeldia.it^

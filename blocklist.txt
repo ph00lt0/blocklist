@@ -16724,3 +16724,4 @@ mykeyport.com##.loader
 ||bingapis.com^
 only.com##.overlay-backdrop
 ||adviceglobal.com.mt^
+||bancdebinary.com^

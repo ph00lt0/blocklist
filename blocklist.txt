@@ -16718,3 +16718,4 @@ mykeyport.com##.loader
 ||leads.promotievanvandaag.com^
 ||shortest-route.com^
 ||mapp.com^
+||analytics.ecosia.org^

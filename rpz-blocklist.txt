@@ -16200,3 +16200,4 @@ promotievanvandaag.com CNAME .
 leads.promotievanvandaag.com CNAME .
 shortest-route.com CNAME .
 mapp.com CNAME .
+analytics.ecosia.org CNAME .

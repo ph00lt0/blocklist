@@ -16203,3 +16203,4 @@ local-zone: "promotievanvandaag.com." always_null
 local-zone: "leads.promotievanvandaag.com." always_null
 local-zone: "shortest-route.com." always_null
 local-zone: "mapp.com." always_null
+local-zone: "analytics.ecosia.org." always_null

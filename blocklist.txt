@@ -16815,3 +16815,4 @@ only.com##.overlay-backdrop
 ||venteexclusive.be^
 ||www.mijnuniekeselectie.be^
 ||www.mail-boutique2.fr^
+||lapropostagiornaliera.it^

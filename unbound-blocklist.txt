@@ -16299,3 +16299,4 @@ local-zone: "www.consiglidimario.it." always_null
 local-zone: "venteexclusive.be." always_null
 local-zone: "www.mijnuniekeselectie.be." always_null
 local-zone: "www.mail-boutique2.fr." always_null
+local-zone: "lapropostagiornaliera.it." always_null

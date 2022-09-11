@@ -16296,3 +16296,4 @@ www.consiglidimario.it CNAME .
 venteexclusive.be CNAME .
 www.mijnuniekeselectie.be CNAME .
 www.mail-boutique2.fr CNAME .
+lapropostagiornaliera.it CNAME .

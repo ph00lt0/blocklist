@@ -16302,3 +16302,4 @@ local-zone: "www.mail-boutique2.fr." always_null
 local-zone: "lapropostagiornaliera.it." always_null
 local-zone: "vertigomediaperformanceprivacypolicy.com." always_null
 local-zone: "koopjesvantim.nl." always_null
+local-zone: "vantaggiodelmomento.it." always_null

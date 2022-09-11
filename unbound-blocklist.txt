@@ -16249,3 +16249,4 @@ local-zone: "lejournaldesopportunites.fr." always_null
 local-zone: "loffertadeldia.it." always_null
 local-zone: "monshoppingideal.fr." always_null
 local-zone: "www.goudendienst.nl." always_null
+local-zone: "piacereautentico.it." always_null

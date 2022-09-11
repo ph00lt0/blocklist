@@ -16457,3 +16457,13 @@
 0.0.0.0 lemiglioriscelte.it
 0.0.0.0 ilmeglioperlui.it
 0.0.0.0 milleetuneidees2.fr
+0.0.0.0 www.latoiledoree.com
+0.0.0.0 www.assoconso.fr
+0.0.0.0 novitainarrivo.it
+0.0.0.0 consiglidimario.it
+0.0.0.0 www.instantnouveautes.fr
+0.0.0.0 www.lideedujour.fr
+0.0.0.0 www.monshoppingideal.fr
+0.0.0.0 instantpetillant.fr
+0.0.0.0 acquistodelgiorno.it
+0.0.0.0 www.elandenouveautes.fr

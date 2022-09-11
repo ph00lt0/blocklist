@@ -16349,3 +16349,13 @@ www.mondofortunato.it CNAME .
 lemiglioriscelte.it CNAME .
 ilmeglioperlui.it CNAME .
 milleetuneidees2.fr CNAME .
+www.latoiledoree.com CNAME .
+www.assoconso.fr CNAME .
+novitainarrivo.it CNAME .
+consiglidimario.it CNAME .
+www.instantnouveautes.fr CNAME .
+www.lideedujour.fr CNAME .
+www.monshoppingideal.fr CNAME .
+instantpetillant.fr CNAME .
+acquistodelgiorno.it CNAME .
+www.elandenouveautes.fr CNAME .

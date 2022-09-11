@@ -16352,3 +16352,13 @@ local-zone: "www.mondofortunato.it." always_null
 local-zone: "lemiglioriscelte.it." always_null
 local-zone: "ilmeglioperlui.it." always_null
 local-zone: "milleetuneidees2.fr." always_null
+local-zone: "www.latoiledoree.com." always_null
+local-zone: "www.assoconso.fr." always_null
+local-zone: "novitainarrivo.it." always_null
+local-zone: "consiglidimario.it." always_null
+local-zone: "www.instantnouveautes.fr." always_null
+local-zone: "www.lideedujour.fr." always_null
+local-zone: "www.monshoppingideal.fr." always_null
+local-zone: "instantpetillant.fr." always_null
+local-zone: "acquistodelgiorno.it." always_null
+local-zone: "www.elandenouveautes.fr." always_null

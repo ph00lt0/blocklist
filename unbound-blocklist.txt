@@ -16285,3 +16285,4 @@ local-zone: "instantcreation.fr." always_null
 local-zone: "www.lafibredunet.fr." always_null
 local-zone: "lhymneflorale.fr." always_null
 local-zone: "revesoudain.fr." always_null
+local-zone: "pioggiadiofferte.it." always_null

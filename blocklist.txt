@@ -16790,3 +16790,4 @@ only.com##.overlay-backdrop
 ||www.eclatdujour.fr^
 ||ilcatalogodegliaffari.it^
 ||tendanceenvogue.fr^
+||macollectionprestige.fr^

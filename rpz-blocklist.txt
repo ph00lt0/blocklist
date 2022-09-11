@@ -16210,3 +16210,4 @@ bancdebinary.com CNAME .
 wblake.net CNAME .
 paneurofinancial.com CNAME .
 dustadvnetherlandsparts.com CNAME .
+couplenewsletters.com CNAME .

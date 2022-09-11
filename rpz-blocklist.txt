@@ -16225,3 +16225,4 @@ easypromo.nz CNAME .
 updatemenu.be CNAME .
 to-email.com CNAME .
 newsletteradvice.com CNAME .
+adviceglobalnz.com CNAME .

@@ -16228,3 +16228,4 @@ local-zone: "easypromo.nz." always_null
 local-zone: "updatemenu.be." always_null
 local-zone: "to-email.com." always_null
 local-zone: "newsletteradvice.com." always_null
+local-zone: "adviceglobalnz.com." always_null

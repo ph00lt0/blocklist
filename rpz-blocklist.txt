@@ -16250,3 +16250,4 @@ piacereautentico.it CNAME .
 instantlust.com CNAME .
 www.avenuesolaire.fr CNAME .
 webinevitable.com CNAME .
+avenueofhappiness.com CNAME .

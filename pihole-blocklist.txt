@@ -16505,3 +16505,11 @@
 0.0.0.0 www.lesdelicesduquotidien.be
 0.0.0.0 www.mondedespossibilites.be
 0.0.0.0 www.universdestendances.be
+0.0.0.0 www.encantosdeldia.es
+0.0.0.0 www.placerescarnales.es
+0.0.0.0 www.flordeldia.es
+0.0.0.0 www.seleccionunica.es
+0.0.0.0 www.exploracionpoetica.es
+0.0.0.0 www.estrelladelfuturo.es
+0.0.0.0 promenadedujour.fr
+0.0.0.0 www.ilrisparmioinunclick.it

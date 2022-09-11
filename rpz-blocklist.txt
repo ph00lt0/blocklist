@@ -16397,3 +16397,11 @@ www.dreamopportunities.co.uk CNAME .
 www.lesdelicesduquotidien.be CNAME .
 www.mondedespossibilites.be CNAME .
 www.universdestendances.be CNAME .
+www.encantosdeldia.es CNAME .
+www.placerescarnales.es CNAME .
+www.flordeldia.es CNAME .
+www.seleccionunica.es CNAME .
+www.exploracionpoetica.es CNAME .
+www.estrelladelfuturo.es CNAME .
+promenadedujour.fr CNAME .
+www.ilrisparmioinunclick.it CNAME .

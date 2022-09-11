@@ -16400,3 +16400,11 @@ local-zone: "www.dreamopportunities.co.uk." always_null
 local-zone: "www.lesdelicesduquotidien.be." always_null
 local-zone: "www.mondedespossibilites.be." always_null
 local-zone: "www.universdestendances.be." always_null
+local-zone: "www.encantosdeldia.es." always_null
+local-zone: "www.placerescarnales.es." always_null
+local-zone: "www.flordeldia.es." always_null
+local-zone: "www.seleccionunica.es." always_null
+local-zone: "www.exploracionpoetica.es." always_null
+local-zone: "www.estrelladelfuturo.es." always_null
+local-zone: "promenadedujour.fr." always_null
+local-zone: "www.ilrisparmioinunclick.it." always_null

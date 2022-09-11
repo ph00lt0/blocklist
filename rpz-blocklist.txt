@@ -16448,3 +16448,12 @@ selezioneunica.it CNAME .
 www.nouveautesrevees.fr CNAME .
 www.lavagueduweb.fr CNAME .
 www.galerieoriginale.fr CNAME .
+www.lhymneflorale.fr CNAME .
+www.lesjoliesfantaisies.fr CNAME .
+www.latuachance.it CNAME .
+www.inesclusivaoggi.it CNAME .
+www.presagedumoment.fr CNAME .
+www.lasceltaconveniente.it CNAME .
+www.tendanceprestigieuse.fr CNAME .
+boulevarddeletincelle.fr CNAME .
+www.salvaloccasione.it CNAME .

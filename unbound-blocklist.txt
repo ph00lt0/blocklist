@@ -16451,3 +16451,12 @@ local-zone: "selezioneunica.it." always_null
 local-zone: "www.nouveautesrevees.fr." always_null
 local-zone: "www.lavagueduweb.fr." always_null
 local-zone: "www.galerieoriginale.fr." always_null
+local-zone: "www.lhymneflorale.fr." always_null
+local-zone: "www.lesjoliesfantaisies.fr." always_null
+local-zone: "www.latuachance.it." always_null
+local-zone: "www.inesclusivaoggi.it." always_null
+local-zone: "www.presagedumoment.fr." always_null
+local-zone: "www.lasceltaconveniente.it." always_null
+local-zone: "www.tendanceprestigieuse.fr." always_null
+local-zone: "boulevarddeletincelle.fr." always_null
+local-zone: "www.salvaloccasione.it." always_null

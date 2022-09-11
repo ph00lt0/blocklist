@@ -16474,3 +16474,13 @@ www.courantnovateur.fr CNAME .
 www.embelliequotidienne.fr CNAME .
 www.ilventagliodelleofferte.it CNAME .
 www.trouvaillesdujour.fr CNAME .
+www.momentocreazione.it CNAME .
+www.oracledujour.fr CNAME .
+www.estimationrapide.fr CNAME .
+www.ilgiardinodegliincontri.it CNAME .
+www.larrotinoconsiglia.it CNAME .
+www.propostaquotidiana.it CNAME .
+www.scontissimiperte.it CNAME .
+www.leopportunitadelweb.it CNAME .
+www.lecocktaildunet.fr CNAME .
+www.attimisuggestivi.it CNAME .

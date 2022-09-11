@@ -16477,3 +16477,13 @@ local-zone: "www.courantnovateur.fr." always_null
 local-zone: "www.embelliequotidienne.fr." always_null
 local-zone: "www.ilventagliodelleofferte.it." always_null
 local-zone: "www.trouvaillesdujour.fr." always_null
+local-zone: "www.momentocreazione.it." always_null
+local-zone: "www.oracledujour.fr." always_null
+local-zone: "www.estimationrapide.fr." always_null
+local-zone: "www.ilgiardinodegliincontri.it." always_null
+local-zone: "www.larrotinoconsiglia.it." always_null
+local-zone: "www.propostaquotidiana.it." always_null
+local-zone: "www.scontissimiperte.it." always_null
+local-zone: "www.leopportunitadelweb.it." always_null
+local-zone: "www.lecocktaildunet.fr." always_null
+local-zone: "www.attimisuggestivi.it." always_null

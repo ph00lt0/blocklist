@@ -16208,3 +16208,4 @@ adviceglobal.com.mt CNAME .
 bancdebinary.com CNAME .
 10Brokers.com CNAME .
 wblake.net CNAME .
+paneurofinancial.com CNAME .

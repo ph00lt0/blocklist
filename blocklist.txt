@@ -16727,3 +16727,4 @@ only.com##.overlay-backdrop
 ||bancdebinary.com^
 ||10Brokers.com^
 ||wblake.net^
+||paneurofinancial.com^

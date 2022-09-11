@@ -16791,3 +16791,4 @@ only.com##.overlay-backdrop
 ||ilcatalogodegliaffari.it^
 ||tendanceenvogue.fr^
 ||macollectionprestige.fr^
+||astucieuxrue.fr^

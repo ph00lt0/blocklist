@@ -16716,3 +16716,4 @@ mykeyport.com##.loader
 ||verticalmailer.com^
 ||promotievanvandaag.com^
 ||leads.promotievanvandaag.com^
+||shortest-route.com^

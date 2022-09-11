@@ -16335,3 +16335,11 @@ local-zone: "lachasseauxdeals.fr." always_null
 local-zone: "www.affaridelgiorno.it." always_null
 local-zone: "www.lavenuedesreves.fr." always_null
 local-zone: "www.angolodellafortuna.it." always_null
+local-zone: "www.letoiledufutur.fr." always_null
+local-zone: "www.serviceenor.fr." always_null
+local-zone: "www.cliccalanovita.it." always_null
+local-zone: "unerencontreuneaventure.fr." always_null
+local-zone: "panachedenouveautes.fr." always_null
+local-zone: "www.instantprestige.fr." always_null
+local-zone: "lessentieldunet.fr." always_null
+local-zone: "lavenuedesbonsplans.fr." always_null

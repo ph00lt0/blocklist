@@ -16332,3 +16332,11 @@ lachasseauxdeals.fr CNAME .
 www.affaridelgiorno.it CNAME .
 www.lavenuedesreves.fr CNAME .
 www.angolodellafortuna.it CNAME .
+www.letoiledufutur.fr CNAME .
+www.serviceenor.fr CNAME .
+www.cliccalanovita.it CNAME .
+unerencontreuneaventure.fr CNAME .
+panachedenouveautes.fr CNAME .
+www.instantprestige.fr CNAME .
+lessentieldunet.fr CNAME .
+lavenuedesbonsplans.fr CNAME .

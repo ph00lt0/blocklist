@@ -16440,3 +16440,11 @@
 0.0.0.0 www.affaridelgiorno.it
 0.0.0.0 www.lavenuedesreves.fr
 0.0.0.0 www.angolodellafortuna.it
+0.0.0.0 www.letoiledufutur.fr
+0.0.0.0 www.serviceenor.fr
+0.0.0.0 www.cliccalanovita.it
+0.0.0.0 unerencontreuneaventure.fr
+0.0.0.0 panachedenouveautes.fr
+0.0.0.0 www.instantprestige.fr
+0.0.0.0 lessentieldunet.fr
+0.0.0.0 lavenuedesbonsplans.fr

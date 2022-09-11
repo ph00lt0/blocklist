@@ -16192,3 +16192,4 @@ volmaaktvolmaaktdeal.com CNAME .
 hollandfantasticpromo.nl CNAME .
 adviceglobalservices.com CNAME .
 travelclown.nl CNAME .
+nederlanddagelijksegelegenheden.nl CNAME .

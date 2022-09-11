@@ -16719,3 +16719,4 @@ mykeyport.com##.loader
 ||shortest-route.com^
 ||mapp.com^
 ||analytics.ecosia.org^
+||api.ecosia.org^

@@ -16309,3 +16309,4 @@
 0.0.0.0 shortest-route.com
 0.0.0.0 mapp.com
 0.0.0.0 analytics.ecosia.org
+0.0.0.0 api.ecosia.org

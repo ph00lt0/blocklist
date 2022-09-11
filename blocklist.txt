@@ -16749,3 +16749,4 @@ only.com##.overlay-backdrop
 ||waanzinmoment.com^
 ||collectionuniversel.com^
 ||letoiledufutur.fr^
+||douceepopee.fr^

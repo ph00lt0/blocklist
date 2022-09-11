@@ -16743,3 +16743,4 @@ only.com##.overlay-backdrop
 ||easypromo.nz^
 ||updatemenu.be^
 ||to-email.com^
+||newsletteradvice.com^

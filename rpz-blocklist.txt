@@ -16270,3 +16270,4 @@ universdestendances.be CNAME .
 delicesduquotidien.fr CNAME .
 www.eclatdujour.fr CNAME .
 ilcatalogodegliaffari.it CNAME .
+tendanceenvogue.fr CNAME .

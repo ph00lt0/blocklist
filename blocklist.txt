@@ -16789,3 +16789,4 @@ only.com##.overlay-backdrop
 ||delicesduquotidien.fr^
 ||www.eclatdujour.fr^
 ||ilcatalogodegliaffari.it^
+||tendanceenvogue.fr^

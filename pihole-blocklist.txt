@@ -16547,3 +16547,12 @@
 0.0.0.0 www.ledutyfreeduweb.fr
 0.0.0.0 www.monexperiencepersonnalisee.fr
 0.0.0.0 www.pointcommodite.fr
+0.0.0.0 www.devisedujour.fr
+0.0.0.0 www.maselectionunique.fr
+0.0.0.0 www.votrehorizon.fr
+0.0.0.0 www.jelevouloir.fr
+0.0.0.0 www.decouvertesurlenet.fr
+0.0.0.0 selezioneunica.it
+0.0.0.0 www.nouveautesrevees.fr
+0.0.0.0 www.lavagueduweb.fr
+0.0.0.0 www.galerieoriginale.fr

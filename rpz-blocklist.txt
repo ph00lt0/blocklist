@@ -16439,3 +16439,12 @@ www.croiseedubonheur.fr CNAME .
 www.ledutyfreeduweb.fr CNAME .
 www.monexperiencepersonnalisee.fr CNAME .
 www.pointcommodite.fr CNAME .
+www.devisedujour.fr CNAME .
+www.maselectionunique.fr CNAME .
+www.votrehorizon.fr CNAME .
+www.jelevouloir.fr CNAME .
+www.decouvertesurlenet.fr CNAME .
+selezioneunica.it CNAME .
+www.nouveautesrevees.fr CNAME .
+www.lavagueduweb.fr CNAME .
+www.galerieoriginale.fr CNAME .

@@ -16442,3 +16442,12 @@ local-zone: "www.croiseedubonheur.fr." always_null
 local-zone: "www.ledutyfreeduweb.fr." always_null
 local-zone: "www.monexperiencepersonnalisee.fr." always_null
 local-zone: "www.pointcommodite.fr." always_null
+local-zone: "www.devisedujour.fr." always_null
+local-zone: "www.maselectionunique.fr." always_null
+local-zone: "www.votrehorizon.fr." always_null
+local-zone: "www.jelevouloir.fr." always_null
+local-zone: "www.decouvertesurlenet.fr." always_null
+local-zone: "selezioneunica.it." always_null
+local-zone: "www.nouveautesrevees.fr." always_null
+local-zone: "www.lavagueduweb.fr." always_null
+local-zone: "www.galerieoriginale.fr." always_null

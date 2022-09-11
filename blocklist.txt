@@ -16747,3 +16747,4 @@ only.com##.overlay-backdrop
 ||adviceglobalnz.com^
 ||headtype.de^
 ||waanzinmoment.com^
+||collectionuniversel.com^

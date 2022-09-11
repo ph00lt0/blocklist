@@ -16228,3 +16228,4 @@ newsletteradvice.com CNAME .
 adviceglobalnz.com CNAME .
 headtype.de CNAME .
 waanzinmoment.com CNAME .
+collectionuniversel.com CNAME .

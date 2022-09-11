@@ -16457,3 +16457,12 @@ www.lasceltaconveniente.it CNAME .
 www.tendanceprestigieuse.fr CNAME .
 boulevarddeletincelle.fr CNAME .
 www.salvaloccasione.it CNAME .
+www.elandefolie.fr CNAME .
+www.loffertadeldia.it CNAME .
+www.premiodelgiorno.it CNAME .
+www.galeriedestrouvailles.fr CNAME .
+www.ilcatalogodegliaffari.it CNAME .
+www.ventdeplaisir.fr CNAME .
+www.journeeepoustouflante.fr CNAME .
+www.delicesduquotidien.fr CNAME .
+www.suggerimentiperte.it CNAME .

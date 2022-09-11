@@ -16460,3 +16460,12 @@ local-zone: "www.lasceltaconveniente.it." always_null
 local-zone: "www.tendanceprestigieuse.fr." always_null
 local-zone: "boulevarddeletincelle.fr." always_null
 local-zone: "www.salvaloccasione.it." always_null
+local-zone: "www.elandefolie.fr." always_null
+local-zone: "www.loffertadeldia.it." always_null
+local-zone: "www.premiodelgiorno.it." always_null
+local-zone: "www.galeriedestrouvailles.fr." always_null
+local-zone: "www.ilcatalogodegliaffari.it." always_null
+local-zone: "www.ventdeplaisir.fr." always_null
+local-zone: "www.journeeepoustouflante.fr." always_null
+local-zone: "www.delicesduquotidien.fr." always_null
+local-zone: "www.suggerimentiperte.it." always_null

@@ -16343,3 +16343,12 @@ local-zone: "panachedenouveautes.fr." always_null
 local-zone: "www.instantprestige.fr." always_null
 local-zone: "lessentieldunet.fr." always_null
 local-zone: "lavenuedesbonsplans.fr." always_null
+local-zone: "ladecouvertequotidienne.fr." always_null
+local-zone: "www.touta10ballesoujremballe.fr." always_null
+local-zone: "www.tendanceenvogue.fr." always_null
+local-zone: "www.meshobbiesdujour.fr." always_null
+local-zone: "www.merveillesdujour.fr." always_null
+local-zone: "www.mondofortunato.it." always_null
+local-zone: "lemiglioriscelte.it." always_null
+local-zone: "ilmeglioperlui.it." always_null
+local-zone: "milleetuneidees2.fr." always_null

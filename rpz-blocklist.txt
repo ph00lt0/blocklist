@@ -16340,3 +16340,12 @@ panachedenouveautes.fr CNAME .
 www.instantprestige.fr CNAME .
 lessentieldunet.fr CNAME .
 lavenuedesbonsplans.fr CNAME .
+ladecouvertequotidienne.fr CNAME .
+www.touta10ballesoujremballe.fr CNAME .
+www.tendanceenvogue.fr CNAME .
+www.meshobbiesdujour.fr CNAME .
+www.merveillesdujour.fr CNAME .
+www.mondofortunato.it CNAME .
+lemiglioriscelte.it CNAME .
+ilmeglioperlui.it CNAME .
+milleetuneidees2.fr CNAME .

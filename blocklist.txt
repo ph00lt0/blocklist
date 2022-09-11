@@ -16798,3 +16798,4 @@ only.com##.overlay-backdrop
 ||www.vostrouvailles.fr^
 ||ochtenduniversum.nl^
 ||instantcreation.fr^
+||www.lafibredunet.fr^

@@ -16707,3 +16707,4 @@ mykeyport.com##.loader
 ||perfectdeal.com^
 ||perfectedeal.com^
 ||volmaaktvolmaaktdeal.com^
+||hollandfantasticpromo.nl^

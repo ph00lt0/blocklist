@@ -16387,3 +16387,13 @@ www.jouwhorizon.be CNAME .
 www.wereldvanmogelijkheden.be CNAME .
 www.swetsins.com CNAME .
 www.findingsgallery.co.uk CNAME .
+www.dailyfindings.co.uk CNAME .
+universalcollection.co.uk CNAME .
+www.smartboulevard.co.uk CNAME .
+www.adviceavenue.co.uk CNAME .
+www.universaltrend.co.uk CNAME .
+www.carnalpleasure.co.uk CNAME .
+www.dreamopportunities.co.uk CNAME .
+www.lesdelicesduquotidien.be CNAME .
+www.mondedespossibilites.be CNAME .
+www.universdestendances.be CNAME .

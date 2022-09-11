@@ -16390,3 +16390,13 @@ local-zone: "www.jouwhorizon.be." always_null
 local-zone: "www.wereldvanmogelijkheden.be." always_null
 local-zone: "www.swetsins.com." always_null
 local-zone: "www.findingsgallery.co.uk." always_null
+local-zone: "www.dailyfindings.co.uk." always_null
+local-zone: "universalcollection.co.uk." always_null
+local-zone: "www.smartboulevard.co.uk." always_null
+local-zone: "www.adviceavenue.co.uk." always_null
+local-zone: "www.universaltrend.co.uk." always_null
+local-zone: "www.carnalpleasure.co.uk." always_null
+local-zone: "www.dreamopportunities.co.uk." always_null
+local-zone: "www.lesdelicesduquotidien.be." always_null
+local-zone: "www.mondedespossibilites.be." always_null
+local-zone: "www.universdestendances.be." always_null

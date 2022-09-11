@@ -16227,3 +16227,4 @@ to-email.com CNAME .
 newsletteradvice.com CNAME .
 adviceglobalnz.com CNAME .
 headtype.de CNAME .
+waanzinmoment.com CNAME .

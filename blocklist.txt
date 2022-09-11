@@ -16746,3 +16746,4 @@ only.com##.overlay-backdrop
 ||newsletteradvice.com^
 ||adviceglobalnz.com^
 ||headtype.de^
+||waanzinmoment.com^

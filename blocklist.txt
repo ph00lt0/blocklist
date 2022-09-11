@@ -16715,3 +16715,4 @@ mykeyport.com##.loader
 ||filmbase.com^
 ||verticalmailer.com^
 ||promotievanvandaag.com^
+||leads.promotievanvandaag.com^

@@ -16197,3 +16197,4 @@ veepee.nl CNAME .
 filmbase.com CNAME .
 verticalmailer.com CNAME .
 promotievanvandaag.com CNAME .
+leads.promotievanvandaag.com CNAME .

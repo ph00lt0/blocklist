@@ -16405,3 +16405,12 @@ www.exploracionpoetica.es CNAME .
 www.estrelladelfuturo.es CNAME .
 promenadedujour.fr CNAME .
 www.ilrisparmioinunclick.it CNAME .
+www.lafinestradelloshopping.it CNAME .
+momentevasion.fr CNAME .
+passiondebordante.fr CNAME .
+www.optimismeauquotidien.fr CNAME .
+lesfoliesrevees.fr CNAME .
+www.lepromozionidelweb.it CNAME .
+www.lesmerveillesdelavie.fr CNAME .
+www.dynamiteduweb.fr CNAME .
+www.piovonooccasioni.it CNAME .

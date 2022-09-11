@@ -16513,3 +16513,12 @@
 0.0.0.0 www.estrelladelfuturo.es
 0.0.0.0 promenadedujour.fr
 0.0.0.0 www.ilrisparmioinunclick.it
+0.0.0.0 www.lafinestradelloshopping.it
+0.0.0.0 momentevasion.fr
+0.0.0.0 passiondebordante.fr
+0.0.0.0 www.optimismeauquotidien.fr
+0.0.0.0 lesfoliesrevees.fr
+0.0.0.0 www.lepromozionidelweb.it
+0.0.0.0 www.lesmerveillesdelavie.fr
+0.0.0.0 www.dynamiteduweb.fr
+0.0.0.0 www.piovonooccasioni.it

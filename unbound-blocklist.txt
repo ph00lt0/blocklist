@@ -16408,3 +16408,12 @@ local-zone: "www.exploracionpoetica.es." always_null
 local-zone: "www.estrelladelfuturo.es." always_null
 local-zone: "promenadedujour.fr." always_null
 local-zone: "www.ilrisparmioinunclick.it." always_null
+local-zone: "www.lafinestradelloshopping.it." always_null
+local-zone: "momentevasion.fr." always_null
+local-zone: "passiondebordante.fr." always_null
+local-zone: "www.optimismeauquotidien.fr." always_null
+local-zone: "lesfoliesrevees.fr." always_null
+local-zone: "www.lepromozionidelweb.it." always_null
+local-zone: "www.lesmerveillesdelavie.fr." always_null
+local-zone: "www.dynamiteduweb.fr." always_null
+local-zone: "www.piovonooccasioni.it." always_null

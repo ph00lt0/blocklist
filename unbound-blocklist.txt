@@ -16277,3 +16277,4 @@ local-zone: "tendanceenvogue.fr." always_null
 local-zone: "macollectionprestige.fr." always_null
 local-zone: "astucieuxrue.fr." always_null
 local-zone: "www.latuazonaesclusiva.it." always_null
+local-zone: "evvivaloshopping.it." always_null

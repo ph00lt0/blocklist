@@ -16193,3 +16193,4 @@ local-zone: "perfectdeal.com." always_null
 local-zone: "perfectedeal.com." always_null
 local-zone: "volmaaktvolmaaktdeal.com." always_null
 local-zone: "hollandfantasticpromo.nl." always_null
+local-zone: "adviceglobalservices.com." always_null

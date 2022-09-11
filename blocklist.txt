@@ -16787,3 +16787,4 @@ only.com##.overlay-backdrop
 ||www.luniversdespossibilites.fr^
 ||universdestendances.be^
 ||delicesduquotidien.fr^
+||www.eclatdujour.fr^

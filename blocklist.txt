@@ -16721,3 +16721,4 @@ mykeyport.com##.loader
 ||analytics.ecosia.org^
 ||api.ecosia.org^
 ||www.bingapis.com^
+||bingapis.com^

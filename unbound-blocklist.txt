@@ -16292,3 +16292,4 @@ local-zone: "www.decirkelvankansen.be." always_null
 local-zone: "leslingotsdor.com." always_null
 local-zone: "volontexaucee.fr." always_null
 local-zone: "moncoincosy.fr." always_null
+local-zone: "www.opportunitauniche.it." always_null

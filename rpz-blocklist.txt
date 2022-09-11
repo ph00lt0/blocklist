@@ -16423,3 +16423,11 @@ www.boutiquesoleil.fr CNAME .
 www.ladecouvertedujour.fr CNAME .
 www.croiseedesfortunes.fr CNAME .
 www.coteplaisir.fr CNAME .
+www.passionchic.fr CNAME .
+www.volontexaucee.fr CNAME .
+www.revesoudain.fr CNAME .
+www.mapromessechic.fr CNAME .
+www.maspherechic.fr CNAME .
+www.enviedumoment.fr CNAME .
+www.comptoirdesessentiels.fr CNAME .
+www.votrecapricedujour.fr CNAME .

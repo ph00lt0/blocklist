@@ -16531,3 +16531,11 @@
 0.0.0.0 www.ladecouvertedujour.fr
 0.0.0.0 www.croiseedesfortunes.fr
 0.0.0.0 www.coteplaisir.fr
+0.0.0.0 www.passionchic.fr
+0.0.0.0 www.volontexaucee.fr
+0.0.0.0 www.revesoudain.fr
+0.0.0.0 www.mapromessechic.fr
+0.0.0.0 www.maspherechic.fr
+0.0.0.0 www.enviedumoment.fr
+0.0.0.0 www.comptoirdesessentiels.fr
+0.0.0.0 www.votrecapricedujour.fr

@@ -16238,3 +16238,4 @@ merveillesdujour.fr CNAME .
 macollectiondoree.fr CNAME .
 maselectionunique.fr CNAME .
 hetconceptvanmorgen.com CNAME .
+www.instantcharme.fr CNAME .

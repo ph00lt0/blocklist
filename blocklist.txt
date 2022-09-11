@@ -16785,3 +16785,4 @@ only.com##.overlay-backdrop
 ||jelevouloir.fr^
 ||www.lecturelunaire.fr^
 ||www.luniversdespossibilites.fr^
+||universdestendances.be^

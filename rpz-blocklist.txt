@@ -16266,3 +16266,4 @@ www.complementdemplettes.fr CNAME .
 jelevouloir.fr CNAME .
 www.lecturelunaire.fr CNAME .
 www.luniversdespossibilites.fr CNAME .
+universdestendances.be CNAME .

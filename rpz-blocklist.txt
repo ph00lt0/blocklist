@@ -16212,3 +16212,4 @@ paneurofinancial.com CNAME .
 dustadvnetherlandsparts.com CNAME .
 couplenewsletters.com CNAME .
 gummyadvertising.com.mt CNAME .
+newsfordads.com CNAME .

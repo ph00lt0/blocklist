@@ -16215,3 +16215,4 @@ local-zone: "paneurofinancial.com." always_null
 local-zone: "dustadvnetherlandsparts.com." always_null
 local-zone: "couplenewsletters.com." always_null
 local-zone: "gummyadvertising.com.mt." always_null
+local-zone: "newsfordads.com." always_null

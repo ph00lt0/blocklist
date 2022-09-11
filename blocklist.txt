@@ -16720,3 +16720,4 @@ mykeyport.com##.loader
 ||mapp.com^
 ||analytics.ecosia.org^
 ||api.ecosia.org^
+||www.bingapis.com^

@@ -16310,3 +16310,4 @@
 0.0.0.0 mapp.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 api.ecosia.org
+0.0.0.0 www.bingapis.com

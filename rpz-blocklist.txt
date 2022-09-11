@@ -16202,3 +16202,4 @@ shortest-route.com CNAME .
 mapp.com CNAME .
 analytics.ecosia.org CNAME .
 api.ecosia.org CNAME .
+www.bingapis.com CNAME .

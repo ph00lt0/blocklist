@@ -16359,3 +16359,12 @@ www.monshoppingideal.fr CNAME .
 instantpetillant.fr CNAME .
 acquistodelgiorno.it CNAME .
 www.elandenouveautes.fr CNAME .
+cheminastral.fr CNAME .
+www.elandefraicheu.fr CNAME .
+commerciodeltempo.it CNAME .
+etincelledejoie.fr CNAME .
+loscontodioggi.it CNAME .
+www.evvivaloshopping.it CNAME .
+instantluxure.fr CNAME .
+www.instantexclusivite.com CNAME .
+www.lencyclopedieduweb.com CNAME .

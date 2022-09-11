@@ -16362,3 +16362,12 @@ local-zone: "www.monshoppingideal.fr." always_null
 local-zone: "instantpetillant.fr." always_null
 local-zone: "acquistodelgiorno.it." always_null
 local-zone: "www.elandenouveautes.fr." always_null
+local-zone: "cheminastral.fr." always_null
+local-zone: "www.elandefraicheu.fr." always_null
+local-zone: "commerciodeltempo.it." always_null
+local-zone: "etincelledejoie.fr." always_null
+local-zone: "loscontodioggi.it." always_null
+local-zone: "www.evvivaloshopping.it." always_null
+local-zone: "instantluxure.fr." always_null
+local-zone: "www.instantexclusivite.com." always_null
+local-zone: "www.lencyclopedieduweb.com." always_null

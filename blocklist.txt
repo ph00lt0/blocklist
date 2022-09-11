@@ -16722,3 +16722,4 @@ mykeyport.com##.loader
 ||api.ecosia.org^
 ||www.bingapis.com^
 ||bingapis.com^
+only.com##.overlay-backdrop

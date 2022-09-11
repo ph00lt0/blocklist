@@ -16196,3 +16196,4 @@ nederlanddagelijksegelegenheden.nl CNAME .
 veepee.nl CNAME .
 filmbase.com CNAME .
 verticalmailer.com CNAME .
+promotievanvandaag.com CNAME .

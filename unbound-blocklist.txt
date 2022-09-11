@@ -16199,3 +16199,4 @@ local-zone: "nederlanddagelijksegelegenheden.nl." always_null
 local-zone: "veepee.nl." always_null
 local-zone: "filmbase.com." always_null
 local-zone: "verticalmailer.com." always_null
+local-zone: "promotievanvandaag.com." always_null

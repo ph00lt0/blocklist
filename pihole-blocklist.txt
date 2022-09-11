@@ -16337,3 +16337,4 @@
 0.0.0.0 headtype.de
 0.0.0.0 waanzinmoment.com
 0.0.0.0 collectionuniversel.com
+0.0.0.0 letoiledufutur.fr

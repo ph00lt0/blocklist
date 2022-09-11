@@ -16229,3 +16229,4 @@ adviceglobalnz.com CNAME .
 headtype.de CNAME .
 waanzinmoment.com CNAME .
 collectionuniversel.com CNAME .
+letoiledufutur.fr CNAME .

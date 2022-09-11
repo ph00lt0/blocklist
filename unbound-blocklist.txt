@@ -16232,3 +16232,4 @@ local-zone: "adviceglobalnz.com." always_null
 local-zone: "headtype.de." always_null
 local-zone: "waanzinmoment.com." always_null
 local-zone: "collectionuniversel.com." always_null
+local-zone: "letoiledufutur.fr." always_null

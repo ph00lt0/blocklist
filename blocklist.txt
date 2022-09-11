@@ -16748,3 +16748,4 @@ only.com##.overlay-backdrop
 ||headtype.de^
 ||waanzinmoment.com^
 ||collectionuniversel.com^
+||letoiledufutur.fr^

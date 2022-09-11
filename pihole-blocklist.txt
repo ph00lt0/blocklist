@@ -16574,3 +16574,11 @@
 0.0.0.0 www.journeeepoustouflante.fr
 0.0.0.0 www.delicesduquotidien.fr
 0.0.0.0 www.suggerimentiperte.it
+0.0.0.0 www.affareimperdibile.it
+0.0.0.0 www.occasioneimperdibile.it
+0.0.0.0 www.tendenzeuniversali.it
+0.0.0.0 www.lemiglioriproposte.it
+0.0.0.0 www.courantnovateur.fr
+0.0.0.0 www.embelliequotidienne.fr
+0.0.0.0 www.ilventagliodelleofferte.it
+0.0.0.0 www.trouvaillesdujour.fr

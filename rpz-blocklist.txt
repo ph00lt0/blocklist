@@ -16466,3 +16466,11 @@ www.ventdeplaisir.fr CNAME .
 www.journeeepoustouflante.fr CNAME .
 www.delicesduquotidien.fr CNAME .
 www.suggerimentiperte.it CNAME .
+www.affareimperdibile.it CNAME .
+www.occasioneimperdibile.it CNAME .
+www.tendenzeuniversali.it CNAME .
+www.lemiglioriproposte.it CNAME .
+www.courantnovateur.fr CNAME .
+www.embelliequotidienne.fr CNAME .
+www.ilventagliodelleofferte.it CNAME .
+www.trouvaillesdujour.fr CNAME .

@@ -16469,3 +16469,11 @@ local-zone: "www.ventdeplaisir.fr." always_null
 local-zone: "www.journeeepoustouflante.fr." always_null
 local-zone: "www.delicesduquotidien.fr." always_null
 local-zone: "www.suggerimentiperte.it." always_null
+local-zone: "www.affareimperdibile.it." always_null
+local-zone: "www.occasioneimperdibile.it." always_null
+local-zone: "www.tendenzeuniversali.it." always_null
+local-zone: "www.lemiglioriproposte.it." always_null
+local-zone: "www.courantnovateur.fr." always_null
+local-zone: "www.embelliequotidienne.fr." always_null
+local-zone: "www.ilventagliodelleofferte.it." always_null
+local-zone: "www.trouvaillesdujour.fr." always_null

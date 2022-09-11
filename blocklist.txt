@@ -16732,3 +16732,4 @@ only.com##.overlay-backdrop
 ||couplenewsletters.com^
 ||gummyadvertising.com.mt^
 ||newsfordads.com^
+||prizereactor.co.uk^

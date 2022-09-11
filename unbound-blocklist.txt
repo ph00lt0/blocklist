@@ -16263,3 +16263,4 @@ local-zone: "www.langolodelleopportunita.it." always_null
 local-zone: "www.dagelijksegenoegens.com." always_null
 local-zone: "elandefraicheu.fr." always_null
 local-zone: "passionchic.fr." always_null
+local-zone: "selectionrocambolesque.fr." always_null

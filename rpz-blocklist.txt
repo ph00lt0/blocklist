@@ -16260,3 +16260,4 @@ www.langolodelleopportunita.it CNAME .
 www.dagelijksegenoegens.com CNAME .
 elandefraicheu.fr CNAME .
 passionchic.fr CNAME .
+selectionrocambolesque.fr CNAME .

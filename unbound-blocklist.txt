@@ -16270,3 +16270,4 @@ local-zone: "jelevouloir.fr." always_null
 local-zone: "www.lecturelunaire.fr." always_null
 local-zone: "www.luniversdespossibilites.fr." always_null
 local-zone: "universdestendances.be." always_null
+local-zone: "delicesduquotidien.fr." always_null

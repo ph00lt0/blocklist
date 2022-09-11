@@ -16786,3 +16786,4 @@ only.com##.overlay-backdrop
 ||www.lecturelunaire.fr^
 ||www.luniversdespossibilites.fr^
 ||universdestendances.be^
+||delicesduquotidien.fr^

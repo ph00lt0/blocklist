@@ -16267,3 +16267,4 @@ jelevouloir.fr CNAME .
 www.lecturelunaire.fr CNAME .
 www.luniversdespossibilites.fr CNAME .
 universdestendances.be CNAME .
+delicesduquotidien.fr CNAME .

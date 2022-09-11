@@ -16316,3 +16316,9 @@ baladeastrale.fr CNAME .
 lecoindesextras.com CNAME .
 cliccateci.it CNAME .
 www.lagalleriedelleofferte.com CNAME .
+leparadisdejeanmanuel.fr CNAME .
+lalleedesenvies.fr CNAME .
+mondoprivilegi.it CNAME .
+www.boulevarddesopportunites.fr CNAME .
+lesecretdunet.com CNAME .
+www.letourbillondelactu.fr CNAME .

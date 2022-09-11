@@ -16424,3 +16424,9 @@
 0.0.0.0 lecoindesextras.com
 0.0.0.0 cliccateci.it
 0.0.0.0 www.lagalleriedelleofferte.com
+0.0.0.0 leparadisdejeanmanuel.fr
+0.0.0.0 lalleedesenvies.fr
+0.0.0.0 mondoprivilegi.it
+0.0.0.0 www.boulevarddesopportunites.fr
+0.0.0.0 lesecretdunet.com
+0.0.0.0 www.letourbillondelactu.fr

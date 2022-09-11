@@ -16319,3 +16319,9 @@ local-zone: "baladeastrale.fr." always_null
 local-zone: "lecoindesextras.com." always_null
 local-zone: "cliccateci.it." always_null
 local-zone: "www.lagalleriedelleofferte.com." always_null
+local-zone: "leparadisdejeanmanuel.fr." always_null
+local-zone: "lalleedesenvies.fr." always_null
+local-zone: "mondoprivilegi.it." always_null
+local-zone: "www.boulevarddesopportunites.fr." always_null
+local-zone: "lesecretdunet.com." always_null
+local-zone: "www.letourbillondelactu.fr." always_null

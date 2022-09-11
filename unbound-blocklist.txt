@@ -16239,3 +16239,4 @@ local-zone: "www.lesconseilsdeflorence.fr." always_null
 local-zone: "mapromessechic.fr." always_null
 local-zone: "merveillesdujour.fr." always_null
 local-zone: "macollectiondoree.fr." always_null
+local-zone: "maselectionunique.fr." always_null

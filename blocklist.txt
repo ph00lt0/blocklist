@@ -16755,3 +16755,4 @@ only.com##.overlay-backdrop
 ||mapromessechic.fr^
 ||merveillesdujour.fr^
 ||macollectiondoree.fr^
+||maselectionunique.fr^

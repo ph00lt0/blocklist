@@ -16292,3 +16292,4 @@ moncoincosy.fr CNAME .
 www.opportunitauniche.it CNAME .
 premiodelgiorno.it CNAME .
 encantosdeldia.es CNAME .
+www.consiglidimario.it CNAME .

@@ -16811,3 +16811,4 @@ only.com##.overlay-backdrop
 ||www.opportunitauniche.it^
 ||premiodelgiorno.it^
 ||encantosdeldia.es^
+||www.consiglidimario.it^

@@ -16738,3 +16738,4 @@ only.com##.overlay-backdrop
 ||freavehd.net^
 ||ampliz.com^
 ||go.ampliz.com^
+||api.ampliz.com^

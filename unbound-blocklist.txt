@@ -16222,3 +16222,4 @@ local-zone: "kreditangebot2017.net." always_null
 local-zone: "freavehd.net." always_null
 local-zone: "ampliz.com." always_null
 local-zone: "go.ampliz.com." always_null
+local-zone: "api.ampliz.com." always_null

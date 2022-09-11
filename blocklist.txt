@@ -16750,3 +16750,4 @@ only.com##.overlay-backdrop
 ||collectionuniversel.com^
 ||letoiledufutur.fr^
 ||douceepopee.fr^
+||www.souhaitdujour.fr^

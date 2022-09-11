@@ -16231,3 +16231,4 @@ waanzinmoment.com CNAME .
 collectionuniversel.com CNAME .
 letoiledufutur.fr CNAME .
 douceepopee.fr CNAME .
+www.souhaitdujour.fr CNAME .

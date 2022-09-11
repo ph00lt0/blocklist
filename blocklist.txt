@@ -16739,3 +16739,4 @@ only.com##.overlay-backdrop
 ||ampliz.com^
 ||go.ampliz.com^
 ||api.ampliz.com^
+||near-place.com^

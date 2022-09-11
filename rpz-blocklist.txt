@@ -16269,3 +16269,4 @@ www.luniversdespossibilites.fr CNAME .
 universdestendances.be CNAME .
 delicesduquotidien.fr CNAME .
 www.eclatdujour.fr CNAME .
+ilcatalogodegliaffari.it CNAME .

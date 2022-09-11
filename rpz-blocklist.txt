@@ -16297,3 +16297,4 @@ venteexclusive.be CNAME .
 www.mijnuniekeselectie.be CNAME .
 www.mail-boutique2.fr CNAME .
 lapropostagiornaliera.it CNAME .
+vertigomediaperformanceprivacypolicy.com CNAME .

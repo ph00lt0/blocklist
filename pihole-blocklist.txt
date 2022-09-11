@@ -16405,3 +16405,4 @@
 0.0.0.0 www.mijnuniekeselectie.be
 0.0.0.0 www.mail-boutique2.fr
 0.0.0.0 lapropostagiornaliera.it
+0.0.0.0 vertigomediaperformanceprivacypolicy.com

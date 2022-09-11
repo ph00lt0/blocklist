@@ -16737,3 +16737,4 @@ only.com##.overlay-backdrop
 ||kreditangebot2017.net^
 ||freavehd.net^
 ||ampliz.com^
+||go.ampliz.com^

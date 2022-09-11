@@ -16476,3 +16476,13 @@
 0.0.0.0 instantluxure.fr
 0.0.0.0 www.instantexclusivite.com
 0.0.0.0 www.lencyclopedieduweb.com
+0.0.0.0 coupdecoeurdujour.fr
+0.0.0.0 lecoeurdelexcellence.fr
+0.0.0.0 www.ilmeglioperlei.it
+0.0.0.0 iltuocapriccioonline.it
+0.0.0.0 www.nouveautepourvous.fr
+0.0.0.0 vostrouvailles.fr
+0.0.0.0 lecoinpromo.fr
+0.0.0.0 www.magammedoree.fr
+0.0.0.0 www.lesclicsenfolie.fr
+0.0.0.0 www.lovationduweb.fr

@@ -16368,3 +16368,13 @@ www.evvivaloshopping.it CNAME .
 instantluxure.fr CNAME .
 www.instantexclusivite.com CNAME .
 www.lencyclopedieduweb.com CNAME .
+coupdecoeurdujour.fr CNAME .
+lecoeurdelexcellence.fr CNAME .
+www.ilmeglioperlei.it CNAME .
+iltuocapriccioonline.it CNAME .
+www.nouveautepourvous.fr CNAME .
+vostrouvailles.fr CNAME .
+lecoinpromo.fr CNAME .
+www.magammedoree.fr CNAME .
+www.lesclicsenfolie.fr CNAME .
+www.lovationduweb.fr CNAME .

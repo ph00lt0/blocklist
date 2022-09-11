@@ -16371,3 +16371,13 @@ local-zone: "www.evvivaloshopping.it." always_null
 local-zone: "instantluxure.fr." always_null
 local-zone: "www.instantexclusivite.com." always_null
 local-zone: "www.lencyclopedieduweb.com." always_null
+local-zone: "coupdecoeurdujour.fr." always_null
+local-zone: "lecoeurdelexcellence.fr." always_null
+local-zone: "www.ilmeglioperlei.it." always_null
+local-zone: "iltuocapriccioonline.it." always_null
+local-zone: "www.nouveautepourvous.fr." always_null
+local-zone: "vostrouvailles.fr." always_null
+local-zone: "lecoinpromo.fr." always_null
+local-zone: "www.magammedoree.fr." always_null
+local-zone: "www.lesclicsenfolie.fr." always_null
+local-zone: "www.lovationduweb.fr." always_null

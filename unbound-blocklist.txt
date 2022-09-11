@@ -16381,3 +16381,12 @@ local-zone: "lecoinpromo.fr." always_null
 local-zone: "www.magammedoree.fr." always_null
 local-zone: "www.lesclicsenfolie.fr." always_null
 local-zone: "www.lovationduweb.fr." always_null
+local-zone: "www.exclusiefmoment.nl." always_null
+local-zone: "www.universeletrend.nl." always_null
+local-zone: "www.chiquepassie.nl." always_null
+local-zone: "www.webzon.be." always_null
+local-zone: "www.sprankelendsucces.nl." always_null
+local-zone: "www.jouwhorizon.be." always_null
+local-zone: "www.wereldvanmogelijkheden.be." always_null
+local-zone: "www.swetsins.com." always_null
+local-zone: "www.findingsgallery.co.uk." always_null

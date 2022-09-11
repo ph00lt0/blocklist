@@ -16378,3 +16378,12 @@ lecoinpromo.fr CNAME .
 www.magammedoree.fr CNAME .
 www.lesclicsenfolie.fr CNAME .
 www.lovationduweb.fr CNAME .
+www.exclusiefmoment.nl CNAME .
+www.universeletrend.nl CNAME .
+www.chiquepassie.nl CNAME .
+www.webzon.be CNAME .
+www.sprankelendsucces.nl CNAME .
+www.jouwhorizon.be CNAME .
+www.wereldvanmogelijkheden.be CNAME .
+www.swetsins.com CNAME .
+www.findingsgallery.co.uk CNAME .

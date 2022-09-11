@@ -16187,3 +16187,4 @@ tc.cdnhub.co CNAME .
 fastbundle.co CNAME .
 api.fastbundle.co CNAME .
 perfectdeal.com CNAME .
+perfectedeal.com CNAME .

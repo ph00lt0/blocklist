@@ -16705,3 +16705,4 @@ mykeyport.com##.loader
 ||fastbundle.co^
 ||api.fastbundle.co^
 ||perfectdeal.com^
+||perfectedeal.com^

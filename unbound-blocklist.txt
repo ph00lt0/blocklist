@@ -16190,3 +16190,4 @@ local-zone: "tc.cdnhub.co." always_null
 local-zone: "fastbundle.co." always_null
 local-zone: "api.fastbundle.co." always_null
 local-zone: "perfectdeal.com." always_null
+local-zone: "perfectedeal.com." always_null

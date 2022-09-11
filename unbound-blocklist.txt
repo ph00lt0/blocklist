@@ -16305,3 +16305,8 @@ local-zone: "koopjesvantim.nl." always_null
 local-zone: "vantaggiodelmomento.it." always_null
 local-zone: "ilrisparmioinunclick.it." always_null
 local-zone: "www.lesconseilsdujour.be." always_null
+local-zone: "lasmaravillasdelweb.es." always_null
+local-zone: "www.boulevarddesexperts.fr." always_null
+local-zone: "www.iltuoclub.it." always_null
+local-zone: "laffaregiusto.it." always_null
+local-zone: "www.sorpresainarrivo.it." always_null

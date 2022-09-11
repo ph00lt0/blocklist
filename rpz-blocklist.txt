@@ -16302,3 +16302,8 @@ koopjesvantim.nl CNAME .
 vantaggiodelmomento.it CNAME .
 ilrisparmioinunclick.it CNAME .
 www.lesconseilsdujour.be CNAME .
+lasmaravillasdelweb.es CNAME .
+www.boulevarddesexperts.fr CNAME .
+www.iltuoclub.it CNAME .
+laffaregiusto.it CNAME .
+www.sorpresainarrivo.it CNAME .

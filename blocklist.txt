@@ -17012,3 +17012,4 @@ only.com##.overlay-backdrop
 ||storage.com^
 ||findresources4me.com^
 ||ump6junior.com^
+||filosofie.nl^

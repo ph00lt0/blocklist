@@ -16496,3 +16496,4 @@ local-zone: "bestewinkelen.com." always_null
 local-zone: "storage.com." always_null
 local-zone: "findresources4me.com." always_null
 local-zone: "ump6junior.com." always_null
+local-zone: "filosofie.nl." always_null

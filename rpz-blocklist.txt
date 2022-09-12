@@ -16492,3 +16492,4 @@ medialightbox.com CNAME .
 bestewinkelen.com CNAME .
 storage.com CNAME .
 findresources4me.com CNAME .
+ump6junior.com CNAME .

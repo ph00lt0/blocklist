@@ -4077,7 +4077,7 @@
 ||udmserve.net^
 ||bid.underdog.media^
 ||underdog.media^
-||km.support.apple.com^
+||km.support.apple.com^$badfilter  # required for apple support
 ||firefly.bol.com^
 ||bltg.s-bol.com^
 ||gcp.api.snapchat.com^

@@ -4000,7 +4000,7 @@ local-zone: "ws-eu.amazon-adsystem.com." always_null
 local-zone: "udmserve.net." always_null
 local-zone: "bid.underdog.media." always_null
 local-zone: "underdog.media." always_null
-local-zone: "km.support.apple.com." always_null
+# allow km.support.apple.com reason: required for apple support
 local-zone: "firefly.bol.com." always_null
 local-zone: "bltg.s-bol.com." always_null
 local-zone: "gcp.api.snapchat.com." always_null

@@ -17,6 +17,8 @@ echo "Start bulk insertion"
 for domain in ${domains//,/ }; do
     declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
     declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
+    declare domain=$(echo $domain | sed 's/www.//g') # remove www. if present.
+
     declare rpzBlocklist="./rpz-blocklist.txt"
     declare unboundBlocklist="./unbound-blocklist.txt"
 

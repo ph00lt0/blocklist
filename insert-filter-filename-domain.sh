@@ -6,6 +6,7 @@ read -p "Enter the path (full url) of the file: " path
 
 declare path=$(echo $path | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
 declare path=$(echo $path | sed 's:/*$::') # remove any trailing slash.
+declare path=$(echo $path | sed 's/www.//g') # remove www. if present.
 
 declare blocklistRule="||${path}^"
 echo $blocklistRule

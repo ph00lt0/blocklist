@@ -6,6 +6,7 @@ declare blocklist="./blocklist.txt"
 
 declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
 declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
+declare domain=$(echo $domain | sed 's/www.//g') # remove www. if present.
 
 echo "To remove an element by class write .class-name"
 echo "To remove an element by id write #id"

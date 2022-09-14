@@ -6,6 +6,7 @@ declare blocklist="./blocklist.txt"
 
 declare domain=$(echo $domain | sed -E 's/^\s*.*:\/\///g') # remove any https:// or http://.
 declare domain=$(echo $domain | sed 's:/*$::') # remove any trailing slash.
+declare domain=$(echo $domain | sed 's/www.//g') # remove www. if present.
 
 read -p "Enter the parameter that you want to remove: " param
 

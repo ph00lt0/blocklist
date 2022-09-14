@@ -16499,3 +16499,4 @@ piwik.kees.nl CNAME .
 convertize.io CNAME .
 goudendienst.nl CNAME .
 track.goto.com CNAME .
+gitdetail.com CNAME .

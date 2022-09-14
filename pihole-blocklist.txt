@@ -16607,3 +16607,4 @@
 0.0.0.0 convertize.io
 0.0.0.0 goudendienst.nl
 0.0.0.0 track.goto.com
+0.0.0.0 gitdetail.com

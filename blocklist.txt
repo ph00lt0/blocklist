@@ -17018,3 +17018,4 @@ only.com##.overlay-backdrop
 ||convertize.io^
 ||goudendienst.nl^
 ||track.goto.com^
+||gitdetail.com^

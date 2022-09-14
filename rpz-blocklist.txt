@@ -16500,3 +16500,4 @@ convertize.io CNAME .
 goudendienst.nl CNAME .
 track.goto.com CNAME .
 gitdetail.com CNAME .
+workers.dev CNAME .

@@ -17019,3 +17019,4 @@ only.com##.overlay-backdrop
 ||goudendienst.nl^
 ||track.goto.com^
 ||gitdetail.com^
+||workers.dev^

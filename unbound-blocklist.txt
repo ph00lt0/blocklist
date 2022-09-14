@@ -16501,3 +16501,4 @@ local-zone: "piwik.kees.nl." always_null
 local-zone: "2ndnaturepreformance.com." always_null
 local-zone: "convertize.io." always_null
 local-zone: "goudendienst.nl." always_null
+local-zone: "track.goto.com." always_null

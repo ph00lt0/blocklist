@@ -16498,3 +16498,4 @@ piwik.kees.nl CNAME .
 2ndnaturepreformance.com CNAME .
 convertize.io CNAME .
 goudendienst.nl CNAME .
+track.goto.com CNAME .

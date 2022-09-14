@@ -14298,7 +14298,7 @@ local-zone: "buzzoola.com." always_null
 local-zone: "bytemark.co." always_null
 local-zone: "ca.akadns.net." always_null
 local-zone: "ca.edgesuite.net." always_null
-local-zone: "cachefly.net." always_null
+# allow cachefly.net reason: cdn
 local-zone: "calgary.ca." always_null
 # allow callofduty.com.edgekey.net reason: not a tracker
 local-zone: "calmcactus.com." always_null

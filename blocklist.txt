@@ -14723,7 +14723,7 @@ $removeparam=engagement_type
 ||bytemark.co^
 ||ca.akadns.net^
 ||ca.edgesuite.net^
-||cachefly.net^
+||cachefly.net^$badfilter  # cdn
 ||calgary.ca^
 
 ||calmcactus.com^

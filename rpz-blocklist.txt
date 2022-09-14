@@ -8551,7 +8551,7 @@ dfp6rglgjqszk.cloudfront.net CNAME .
 *.a248.e.akamai.net CNAME .
 *.aolcdn.com CNAME .
 *.bandwagonhost.com CNAME .
-*.cachefly.net CNAME .
+*.; allow cachefly.net reason: cdn
 *.cdnst.net CNAME .
 *.comodoca.com CNAME .
 *.daum.net CNAME .
@@ -14295,7 +14295,7 @@ buzzoola.com CNAME .
 bytemark.co CNAME .
 ca.akadns.net CNAME .
 ca.edgesuite.net CNAME .
-cachefly.net CNAME .
+; allow cachefly.net reason: cdn
 calgary.ca CNAME .
 
 calmcactus.com CNAME .

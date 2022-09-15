@@ -16503,3 +16503,4 @@ gitdetail.com CNAME .
 workers.dev CNAME .
 infozone.pl CNAME .
 best-life-insurance-uk.com CNAME .
+vitastyle.nl CNAME .

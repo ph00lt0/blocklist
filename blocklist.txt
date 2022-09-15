@@ -17022,3 +17022,4 @@ only.com##.overlay-backdrop
 ||workers.dev^
 ||infozone.pl^
 ||best-life-insurance-uk.com^
+||vitastyle.nl^

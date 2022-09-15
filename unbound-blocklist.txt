@@ -16506,3 +16506,4 @@ local-zone: "gitdetail.com." always_null
 local-zone: "workers.dev." always_null
 local-zone: "infozone.pl." always_null
 local-zone: "best-life-insurance-uk.com." always_null
+local-zone: "vitastyle.nl." always_null

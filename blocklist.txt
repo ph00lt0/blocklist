@@ -17020,3 +17020,4 @@ only.com##.overlay-backdrop
 ||track.goto.com^
 ||gitdetail.com^
 ||workers.dev^
+||infozone.pl^

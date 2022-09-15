@@ -16504,3 +16504,4 @@ local-zone: "goudendienst.nl." always_null
 local-zone: "track.goto.com." always_null
 local-zone: "gitdetail.com." always_null
 local-zone: "workers.dev." always_null
+local-zone: "infozone.pl." always_null

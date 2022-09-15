@@ -16501,3 +16501,4 @@ goudendienst.nl CNAME .
 track.goto.com CNAME .
 gitdetail.com CNAME .
 workers.dev CNAME .
+infozone.pl CNAME .

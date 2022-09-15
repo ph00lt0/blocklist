@@ -16502,3 +16502,4 @@ track.goto.com CNAME .
 gitdetail.com CNAME .
 workers.dev CNAME .
 infozone.pl CNAME .
+best-life-insurance-uk.com CNAME .

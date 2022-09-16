@@ -17027,3 +17027,4 @@ $removeparam=uclick_id
 ||uwps-niisdkol.us^
 ||widilo.co.uk^
 ||provenpixel.com^
+||pubguru.com^

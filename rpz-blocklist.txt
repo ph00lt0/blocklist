@@ -16507,3 +16507,4 @@ vitastyle.nl CNAME .
 uwps-niisdkol.us CNAME .
 widilo.co.uk CNAME .
 provenpixel.com CNAME .
+pubguru.com CNAME .

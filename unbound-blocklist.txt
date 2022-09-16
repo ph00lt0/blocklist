@@ -16512,3 +16512,4 @@ local-zone: "widilo.co.uk." always_null
 local-zone: "provenpixel.com." always_null
 local-zone: "pubguru.com." always_null
 local-zone: "marketing-cdn.doodle.com." always_null
+local-zone: "tags.peer39.com." always_null

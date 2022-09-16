@@ -16617,3 +16617,4 @@
 0.0.0.0 provenpixel.com
 0.0.0.0 pubguru.com
 0.0.0.0 marketing-cdn.doodle.com
+0.0.0.0 tags.peer39.com

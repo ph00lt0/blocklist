@@ -16514,3 +16514,4 @@ local-zone: "pubguru.com." always_null
 local-zone: "marketing-cdn.doodle.com." always_null
 local-zone: "tags.peer39.com." always_null
 local-zone: "peer39.com." always_null
+local-zone: "dz3000cdn3.dzone.com." always_null

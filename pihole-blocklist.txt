@@ -16619,3 +16619,4 @@
 0.0.0.0 marketing-cdn.doodle.com
 0.0.0.0 tags.peer39.com
 0.0.0.0 peer39.com
+0.0.0.0 dz3000cdn3.dzone.com

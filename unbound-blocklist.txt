@@ -16513,3 +16513,4 @@ local-zone: "provenpixel.com." always_null
 local-zone: "pubguru.com." always_null
 local-zone: "marketing-cdn.doodle.com." always_null
 local-zone: "tags.peer39.com." always_null
+local-zone: "peer39.com." always_null

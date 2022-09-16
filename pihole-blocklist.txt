@@ -16616,3 +16616,4 @@
 0.0.0.0 widilo.co.uk
 0.0.0.0 provenpixel.com
 0.0.0.0 pubguru.com
+0.0.0.0 marketing-cdn.doodle.com

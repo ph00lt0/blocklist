@@ -17075,3 +17075,4 @@ $removeparam=uclick_id
 ||s.id^
 ||cet-powre.com^
 ||steelbea.me^
+||beta.com.tw^

@@ -16557,3 +16557,4 @@ local-zone: "wolhoff.eu." always_null
 local-zone: "s.id." always_null
 local-zone: "cet-powre.com." always_null
 local-zone: "steelbea.me." always_null
+local-zone: "beta.com.tw." always_null

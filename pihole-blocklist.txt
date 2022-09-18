@@ -16684,3 +16684,4 @@
 ! allow d15tnd3q55f8nl.cloudfront.net reason: required for twilio
 0.0.0.0 rs-cdn.analytics.sparkpost.com
 0.0.0.0 analytics.sparkpost.com
+0.0.0.0 massmailpartner.com

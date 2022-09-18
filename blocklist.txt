@@ -17098,3 +17098,4 @@ $removeparam=uclick_id
 ||rs-cdn.analytics.sparkpost.com^
 ||analytics.sparkpost.com^
 ||massmailpartner.com^
+||ladesk.com^

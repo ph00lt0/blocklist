@@ -16685,3 +16685,4 @@
 0.0.0.0 rs-cdn.analytics.sparkpost.com
 0.0.0.0 analytics.sparkpost.com
 0.0.0.0 massmailpartner.com
+0.0.0.0 ladesk.com

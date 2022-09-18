@@ -16580,3 +16580,4 @@ local-zone: "ahoy.sendgrid.com." always_null
 local-zone: "rs-cdn.analytics.sparkpost.com." always_null
 local-zone: "analytics.sparkpost.com." always_null
 local-zone: "massmailpartner.com." always_null
+local-zone: "ladesk.com." always_null

@@ -16537,3 +16537,4 @@ bizarents.eu CNAME .
 faseruionser.za.com CNAME .
 lafunoc.cloud CNAME .
 fizeromane.es CNAME .
+skipperpools.net CNAME .

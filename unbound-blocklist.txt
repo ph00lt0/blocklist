@@ -16552,3 +16552,4 @@ local-zone: "inx.lv." always_null
 local-zone: "leenvanrij.nl." always_null
 local-zone: "eboatnow.com." always_null
 local-zone: "mayeutika.eu." always_null
+local-zone: "gavran.nl." always_null

@@ -16678,3 +16678,4 @@
 0.0.0.0 brandcentral.email
 0.0.0.0 sendibm3.com
 0.0.0.0 logging03.wxs.nl
+0.0.0.0 happychat.io

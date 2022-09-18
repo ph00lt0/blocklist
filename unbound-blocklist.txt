@@ -16573,3 +16573,4 @@ local-zone: "biz-ad.cloud." always_null
 local-zone: "brandcentral.email." always_null
 local-zone: "sendibm3.com." always_null
 local-zone: "logging03.wxs.nl." always_null
+local-zone: "happychat.io." always_null

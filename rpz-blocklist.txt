@@ -16570,3 +16570,4 @@ biz-ad.cloud CNAME .
 brandcentral.email CNAME .
 sendibm3.com CNAME .
 logging03.wxs.nl CNAME .
+happychat.io CNAME .

@@ -17081,3 +17081,4 @@ $removeparam=uclick_id
 ||consultancydesign.work^
 ||appdetail.today^
 ||countdetail.date^
+||appmega.digital^

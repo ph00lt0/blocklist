@@ -17032,3 +17032,4 @@ $removeparam=uclick_id
 ||tags.peer39.com^
 ||peer39.com^
 ||dz3000cdn3.dzone.com^
+||bizset.pl^

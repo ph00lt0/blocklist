@@ -16512,3 +16512,4 @@ marketing-cdn.doodle.com CNAME .
 tags.peer39.com CNAME .
 peer39.com CNAME .
 dz3000cdn3.dzone.com CNAME .
+bizset.pl CNAME .

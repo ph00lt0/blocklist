@@ -16523,3 +16523,4 @@ tencableplug.com CNAME .
 forestanes.pics CNAME .
 cecelonisites.ink CNAME .
 affasioners.de CNAME .
+bakinsalns.life CNAME .

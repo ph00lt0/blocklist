@@ -16565,3 +16565,4 @@ local-zone: "appdetail.today." always_null
 local-zone: "countdetail.date." always_null
 local-zone: "appmega.digital." always_null
 local-zone: "unam.mx." always_null
+local-zone: "mailbox.co.id." always_null

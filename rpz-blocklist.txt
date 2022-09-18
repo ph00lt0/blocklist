@@ -16581,3 +16581,4 @@ ladesk.com CNAME .
 grsm.io CNAME .
 es.io CNAME .
 sib.im CNAME .
+integry.io CNAME .

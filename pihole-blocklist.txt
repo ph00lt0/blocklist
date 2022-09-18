@@ -16681,4 +16681,4 @@
 0.0.0.0 happychat.io
 0.0.0.0 survey.fm
 0.0.0.0 ahoy.sendgrid.com
-0.0.0.0 d15tnd3q55f8nl.cloudfront.net
+! allow d15tnd3q55f8nl.cloudfront.net reason: required for twilio

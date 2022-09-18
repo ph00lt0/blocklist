@@ -16690,3 +16690,4 @@
 0.0.0.0 es.io
 0.0.0.0 sib.im
 0.0.0.0 integry.io
+0.0.0.0 transifex.com

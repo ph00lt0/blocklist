@@ -16517,3 +16517,4 @@ local-zone: "peer39.com." always_null
 local-zone: "dz3000cdn3.dzone.com." always_null
 local-zone: "bizset.pl." always_null
 local-zone: "ironsource.com." always_null
+local-zone: "rjfun.com." always_null

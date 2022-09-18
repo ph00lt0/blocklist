@@ -16574,3 +16574,4 @@ happychat.io CNAME .
 survey.fm CNAME .
 ahoy.sendgrid.com CNAME .
 ; allow d15tnd3q55f8nl.cloudfront.net reason: required for twilio
+rs-cdn.analytics.sparkpost.com CNAME .

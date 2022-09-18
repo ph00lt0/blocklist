@@ -16137,6 +16137,7 @@
         "logging03.wxs.nl",
         "happychat.io",
         "survey.fm",
-        "ahoy.sendgrid.com"
+        "ahoy.sendgrid.com",
+        "rs-cdn.analytics.sparkpost.com"
     ]
 }

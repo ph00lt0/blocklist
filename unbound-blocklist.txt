@@ -16577,3 +16577,4 @@ local-zone: "happychat.io." always_null
 local-zone: "survey.fm." always_null
 local-zone: "ahoy.sendgrid.com." always_null
 # allow d15tnd3q55f8nl.cloudfront.net reason: required for twilio
+local-zone: "rs-cdn.analytics.sparkpost.com." always_null

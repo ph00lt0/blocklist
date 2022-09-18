@@ -17095,3 +17095,4 @@ $removeparam=uclick_id
 ||survey.fm^
 ||ahoy.sendgrid.com^
 ||d15tnd3q55f8nl.cloudfront.net^$badfilter  # required for twilio
+||rs-cdn.analytics.sparkpost.com^

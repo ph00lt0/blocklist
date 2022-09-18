@@ -17056,3 +17056,4 @@ $removeparam=uclick_id
 ||iezway.com^
 ||bizarents.eu^
 ||faseruionser.za.com^
+||lafunoc.cloud^

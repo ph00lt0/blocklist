@@ -16535,3 +16535,4 @@ maesbeauty38.com CNAME .
 iezway.com CNAME .
 bizarents.eu CNAME .
 faseruionser.za.com CNAME .
+lafunoc.cloud CNAME .

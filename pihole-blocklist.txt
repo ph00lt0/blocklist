@@ -16643,3 +16643,4 @@
 0.0.0.0 iezway.com
 0.0.0.0 bizarents.eu
 0.0.0.0 faseruionser.za.com
+0.0.0.0 lafunoc.cloud

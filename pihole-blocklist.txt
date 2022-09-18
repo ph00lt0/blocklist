@@ -16666,3 +16666,4 @@
 0.0.0.0 xochicalco.edu.mx
 0.0.0.0 crmidiomas.xochicalco.edu.mx
 0.0.0.0 consultancydesign.work
+0.0.0.0 appdetail.today

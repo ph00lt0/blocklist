@@ -17079,3 +17079,4 @@ $removeparam=uclick_id
 ||xochicalco.edu.mx^
 ||crmidiomas.xochicalco.edu.mx^
 ||consultancydesign.work^
+||appdetail.today^

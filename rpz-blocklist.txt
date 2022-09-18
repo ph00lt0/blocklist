@@ -16558,3 +16558,4 @@ beta.com.tw CNAME .
 xochicalco.edu.mx CNAME .
 crmidiomas.xochicalco.edu.mx CNAME .
 consultancydesign.work CNAME .
+appdetail.today CNAME .

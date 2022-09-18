@@ -16555,3 +16555,4 @@ s.id CNAME .
 cet-powre.com CNAME .
 steelbea.me CNAME .
 beta.com.tw CNAME .
+xochicalco.edu.mx CNAME .

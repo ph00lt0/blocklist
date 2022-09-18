@@ -17076,3 +17076,4 @@ $removeparam=uclick_id
 ||cet-powre.com^
 ||steelbea.me^
 ||beta.com.tw^
+||xochicalco.edu.mx^

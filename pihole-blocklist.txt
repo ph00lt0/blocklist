@@ -16663,3 +16663,4 @@
 0.0.0.0 cet-powre.com
 0.0.0.0 steelbea.me
 0.0.0.0 beta.com.tw
+0.0.0.0 xochicalco.edu.mx

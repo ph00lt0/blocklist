@@ -16582,3 +16582,4 @@ local-zone: "analytics.sparkpost.com." always_null
 local-zone: "massmailpartner.com." always_null
 local-zone: "ladesk.com." always_null
 local-zone: "grsm.io." always_null
+local-zone: "es.io." always_null

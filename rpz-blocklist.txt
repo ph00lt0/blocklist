@@ -16522,3 +16522,4 @@ bvgellekom.nl CNAME .
 tencableplug.com CNAME .
 forestanes.pics CNAME .
 cecelonisites.ink CNAME .
+affasioners.de CNAME .

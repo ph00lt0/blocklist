@@ -16525,3 +16525,4 @@ local-zone: "bvgellekom.nl." always_null
 local-zone: "tencableplug.com." always_null
 local-zone: "forestanes.pics." always_null
 local-zone: "cecelonisites.ink." always_null
+local-zone: "affasioners.de." always_null

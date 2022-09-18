@@ -16519,3 +16519,4 @@ local-zone: "bizset.pl." always_null
 local-zone: "ironsource.com." always_null
 local-zone: "rjfun.com." always_null
 local-zone: "outlook365.com." always_null
+local-zone: "ctd.tn.gov.in." always_null

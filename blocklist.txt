@@ -17036,3 +17036,4 @@ $removeparam=uclick_id
 ||ironsource.com^
 ||rjfun.com^
 ||outlook365.com^
+||ctd.tn.gov.in^

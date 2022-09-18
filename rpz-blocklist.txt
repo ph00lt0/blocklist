@@ -16542,3 +16542,4 @@ ooo4.com CNAME .
 cheapdrone.co.uk CNAME .
 topfab.co.nz CNAME .
 zapingers.autos CNAME .
+free.hr CNAME .

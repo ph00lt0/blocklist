@@ -16539,3 +16539,4 @@ local-zone: "iezway.com." always_null
 local-zone: "bizarents.eu." always_null
 local-zone: "faseruionser.za.com." always_null
 local-zone: "lafunoc.cloud." always_null
+local-zone: "fizeromane.es." always_null

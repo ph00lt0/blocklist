@@ -16561,3 +16561,4 @@ consultancydesign.work CNAME .
 appdetail.today CNAME .
 countdetail.date CNAME .
 appmega.digital CNAME .
+unam.mx CNAME .

@@ -16564,3 +16564,4 @@ local-zone: "consultancydesign.work." always_null
 local-zone: "appdetail.today." always_null
 local-zone: "countdetail.date." always_null
 local-zone: "appmega.digital." always_null
+local-zone: "unam.mx." always_null

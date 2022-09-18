@@ -17082,3 +17082,4 @@ $removeparam=uclick_id
 ||appdetail.today^
 ||countdetail.date^
 ||appmega.digital^
+||unam.mx^

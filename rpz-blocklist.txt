@@ -16552,3 +16552,4 @@ mayeutika.eu CNAME .
 gavran.nl CNAME .
 wolhoff.eu CNAME .
 s.id CNAME .
+cet-powre.com CNAME .

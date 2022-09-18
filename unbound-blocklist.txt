@@ -16576,3 +16576,4 @@ local-zone: "logging03.wxs.nl." always_null
 local-zone: "happychat.io." always_null
 local-zone: "survey.fm." always_null
 local-zone: "ahoy.sendgrid.com." always_null
+local-zone: "d15tnd3q55f8nl.cloudfront.net." always_null

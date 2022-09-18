@@ -16544,3 +16544,4 @@ local-zone: "skipperpools.net." always_null
 local-zone: "ooo4.com." always_null
 local-zone: "cheapdrone.co.uk." always_null
 local-zone: "topfab.co.nz." always_null
+local-zone: "zapingers.autos." always_null

@@ -16533,3 +16533,4 @@ mac-reloades.eu CNAME .
 ibilastones.sa.com CNAME .
 maesbeauty38.com CNAME .
 iezway.com CNAME .
+bizarents.eu CNAME .

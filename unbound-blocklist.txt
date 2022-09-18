@@ -16536,3 +16536,4 @@ local-zone: "mac-reloades.eu." always_null
 local-zone: "ibilastones.sa.com." always_null
 local-zone: "maesbeauty38.com." always_null
 local-zone: "iezway.com." always_null
+local-zone: "bizarents.eu." always_null

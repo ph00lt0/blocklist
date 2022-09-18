@@ -17054,3 +17054,4 @@ $removeparam=uclick_id
 ||ibilastones.sa.com^
 ||maesbeauty38.com^
 ||iezway.com^
+||bizarents.eu^

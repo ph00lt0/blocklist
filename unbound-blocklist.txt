@@ -2871,7 +2871,7 @@ local-zone: "b61e599a4f2348afa1a790e4b11dd9fb.pages.ubembed.com." always_null
 local-zone: "pages.ubembed.com." always_null
 local-zone: "builder-assets.unbounce.com." always_null
 local-zone: "b61e599a4f2348afa1a790e4b11dd9fb.events.ubembed.com." always_null
-local-zone: "d9hhrg4mnvzow.cloudfront.net." always_null
+# allow d9hhrg4mnvzow.cloudfront.net reason: cdn
 local-zone: "px4.ads.linkedin.com." always_null
 local-zone: "metrics.api.drift.com." always_null
 local-zone: "bootstrap.api.drift.com." always_null

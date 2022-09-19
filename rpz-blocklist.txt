@@ -2869,7 +2869,7 @@ b61e599a4f2348afa1a790e4b11dd9fb.pages.ubembed.com CNAME .
 pages.ubembed.com CNAME .
 builder-assets.unbounce.com CNAME .
 b61e599a4f2348afa1a790e4b11dd9fb.events.ubembed.com CNAME .
-d9hhrg4mnvzow.cloudfront.net CNAME .
+; allow d9hhrg4mnvzow.cloudfront.net reason: cdn
 px4.ads.linkedin.com CNAME .
 metrics.api.drift.com CNAME .
 bootstrap.api.drift.com CNAME .

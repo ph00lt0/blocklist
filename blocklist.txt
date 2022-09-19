@@ -2928,7 +2928,7 @@
 ||pages.ubembed.com^
 ||builder-assets.unbounce.com^
 ||b61e599a4f2348afa1a790e4b11dd9fb.events.ubembed.com^
-||d9hhrg4mnvzow.cloudfront.net^
+||d9hhrg4mnvzow.cloudfront.net^$badfilter  # cdn
 ||px4.ads.linkedin.com^
 ||metrics.api.drift.com^
 ||bootstrap.api.drift.com^

@@ -16592,3 +16592,4 @@ local-zone: "d34qb8suadcc4g.cloudfront.net." always_null
 local-zone: "bel.tr." always_null
 local-zone: "cfglobal.com.au." always_null
 local-zone: "mijnpostcode.nl." always_null
+local-zone: "serwissieci.com." always_null

@@ -16589,3 +16589,4 @@ d34qb8suadcc4g.cloudfront.net CNAME .
 bel.tr CNAME .
 cfglobal.com.au CNAME .
 mijnpostcode.nl CNAME .
+serwissieci.com CNAME .

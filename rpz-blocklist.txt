@@ -16592,3 +16592,4 @@ mijnpostcode.nl CNAME .
 serwissieci.com CNAME .
 shesa.net CNAME .
 stats.live-video.net CNAME .
+getmidnight.com CNAME .

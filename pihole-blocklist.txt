@@ -16700,3 +16700,4 @@
 0.0.0.0 serwissieci.com
 0.0.0.0 shesa.net
 0.0.0.0 stats.live-video.net
+0.0.0.0 getmidnight.com

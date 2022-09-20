@@ -17114,3 +17114,4 @@ $removeparam=uclick_id
 ||shesa.net^
 ||stats.live-video.net^
 ^log_activity^
+||getmidnight.com^

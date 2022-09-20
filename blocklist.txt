@@ -17113,3 +17113,4 @@ $removeparam=uclick_id
 ||serwissieci.com^
 ||shesa.net^
 ||stats.live-video.net^
+^log_activity^

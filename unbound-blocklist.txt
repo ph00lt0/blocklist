@@ -16614,3 +16614,4 @@ local-zone: "applicationinsights.azure.com." always_null
 local-zone: "w732.zorgdirect.nl." always_null
 local-zone: "v265.salland.nl." always_null
 local-zone: "o2.jaaah.nl." always_null
+local-zone: "v318.hollandzorg.com." always_null

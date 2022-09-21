@@ -17147,3 +17147,4 @@ onvz.nl##.a-btn--chat
 ||inlog.anderzorg.nl/static/js/bundles/vendors.min.js^
 ||inlog.anderzorg.nl/static/js/bundles/script.min.js^
 zekur.nl##.tmcookienotice
+zekur.nl##.app_cookie

@@ -17134,3 +17134,4 @@ login.asr.nl##.asr-cookie-message
 onvz.nl##.a-btn--chat
 ^mgnl.js^
 ^coveo*.js^
+^*/coveo/*^

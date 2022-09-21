@@ -17159,3 +17159,4 @@ mijn.intwente.nl##mijn-feedback
 ||az416426.vo.msecnd.net/scripts/a/ai.0.js^
 ||salesforce.com^$third-party
 ||applicationinsights.azure.com^
+||iconfinder.com^$third-party

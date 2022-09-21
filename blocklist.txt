@@ -17123,3 +17123,4 @@ $removeparam=uclick_id
 mijn.dsw.nl##.mijn-cookie-consent
 mijn.dsw.nl##mijn-feedback
 dsw.nl##.chatbot-div
+dsw.nl##.feedback-button

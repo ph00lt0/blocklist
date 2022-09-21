@@ -17132,3 +17132,4 @@ login.asr.nl##.asr-cookie-message
 ||digid.nl/assets/inline/analytics-*.js^
 ||style.onvz.nl^
 onvz.nl##.a-btn--chat
+^mgnl.js^

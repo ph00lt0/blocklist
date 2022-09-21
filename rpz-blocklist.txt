@@ -16654,3 +16654,4 @@ telemetry-cii.api.playstation.com CNAME .
 telemetry-console.api.playstation.com CNAME .
 browserupdate.download CNAME .
 zapto.org CNAME .
+federatedml-pa.googleapis.com CNAME .

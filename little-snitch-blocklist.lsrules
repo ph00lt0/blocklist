@@ -16214,6 +16214,7 @@
         "telemetry-cii.api.playstation.com",
         "telemetry-console.api.playstation.com",
         "browserupdate.download",
-        "zapto.org"
+        "zapto.org",
+        "federatedml-pa.googleapis.com"
     ]
 }

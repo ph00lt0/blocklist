@@ -17192,3 +17192,4 @@ mijn.intwente.nl##mijn-feedback
 ||quickconnect.to^
 ||beacons.gvt2.com^
 ||services.gfe.nvidia.com^
+@@||cdn.cookielaw.org^$domain=id.trimble.com  # unbreak videoland

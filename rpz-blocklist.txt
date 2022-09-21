@@ -16635,3 +16635,4 @@ settings.data.microsoft.com CNAME .
 wdcp.microsoft.com CNAME .
 quickconnect.to CNAME .
 beacons.gvt2.com CNAME .
+services.gfe.nvidia.com CNAME .

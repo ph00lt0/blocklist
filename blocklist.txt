@@ -17191,3 +17191,4 @@ mijn.intwente.nl##mijn-feedback
 ||wdcp.microsoft.com^
 ||quickconnect.to^
 ||beacons.gvt2.com^
+||services.gfe.nvidia.com^

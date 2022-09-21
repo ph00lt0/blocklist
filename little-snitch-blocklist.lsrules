@@ -16195,6 +16195,7 @@
         "settings.data.microsoft.com",
         "wdcp.microsoft.com",
         "quickconnect.to",
-        "beacons.gvt2.com"
+        "beacons.gvt2.com",
+        "services.gfe.nvidia.com"
     ]
 }

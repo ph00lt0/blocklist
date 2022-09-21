@@ -16599,3 +16599,4 @@ local-zone: "getmidnight.com." always_null
 local-zone: "synthetix.com." always_null
 local-zone: "l845.nn.nl." always_null
 local-zone: "chatbot.api.nn-group.com." always_null
+local-zone: "sentry.glassdoor.com." always_null

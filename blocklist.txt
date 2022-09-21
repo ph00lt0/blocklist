@@ -17118,3 +17118,4 @@ $removeparam=uclick_id
 ||synthetix.com^
 ||l845.nn.nl^
 ||chatbot.api.nn-group.com^
+||sentry.glassdoor.com^

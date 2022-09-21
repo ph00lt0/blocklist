@@ -16598,3 +16598,4 @@ l845.nn.nl CNAME .
 chatbot.api.nn-group.com CNAME .
 sentry.glassdoor.com CNAME .
 d2k1bn3ko1qk4.cloudfront.net CNAME .
+inzicht.cz.nl CNAME .

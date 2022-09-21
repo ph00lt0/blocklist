@@ -17165,3 +17165,4 @@ mijn.intwente.nl##mijn-feedback
 ||o2.jaaah.nl^
 ||iconmonstr.com^$third-party
 ||v318.hollandzorg.com^
+||cdn.denkis.nl^

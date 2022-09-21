@@ -16612,3 +16612,4 @@ w732.zorgdirect.nl CNAME .
 v265.salland.nl CNAME .
 o2.jaaah.nl CNAME .
 v318.hollandzorg.com CNAME .
+cdn.denkis.nl CNAME .

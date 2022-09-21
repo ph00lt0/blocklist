@@ -17127,3 +17127,4 @@ dsw.nl##.feedback-button
 mijn.ditzozorg.nl##.mijn-cookie-consent
 login.asr.nl##.asr-cookie-message
 ||inzicht.cz.nl^
+||s2.menzis.nl^

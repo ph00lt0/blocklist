@@ -17133,3 +17133,4 @@ login.asr.nl##.asr-cookie-message
 ||style.onvz.nl^
 onvz.nl##.a-btn--chat
 ^mgnl.js^
+^coveo*.js^

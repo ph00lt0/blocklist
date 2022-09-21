@@ -16648,3 +16648,4 @@ stathat.com CNAME .
 supercell.net CNAME .
 usergrid.com CNAME .
 bango.net CNAME .
+burstly.com CNAME .

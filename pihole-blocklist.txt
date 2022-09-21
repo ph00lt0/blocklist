@@ -16756,3 +16756,4 @@
 0.0.0.0 supercell.net
 0.0.0.0 usergrid.com
 0.0.0.0 bango.net
+0.0.0.0 burstly.com

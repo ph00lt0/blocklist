@@ -16612,3 +16612,4 @@ local-zone: "s.swiftypecdn.com." always_null
 local-zone: "d4e119i9vv87s.cloudfront.net." always_null
 local-zone: "applicationinsights.azure.com." always_null
 local-zone: "w732.zorgdirect.nl." always_null
+local-zone: "v265.salland.nl." always_null

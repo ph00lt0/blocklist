@@ -17161,3 +17161,4 @@ mijn.intwente.nl##mijn-feedback
 ||applicationinsights.azure.com^
 ||iconfinder.com^$third-party
 ||w732.zorgdirect.nl^
+||v265.salland.nl^

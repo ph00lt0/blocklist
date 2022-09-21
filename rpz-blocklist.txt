@@ -16609,3 +16609,4 @@ s.swiftypecdn.com CNAME .
 d4e119i9vv87s.cloudfront.net CNAME .
 applicationinsights.azure.com CNAME .
 w732.zorgdirect.nl CNAME .
+v265.salland.nl CNAME .

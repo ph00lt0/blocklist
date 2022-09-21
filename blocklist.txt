@@ -17173,3 +17173,4 @@ mijn.intwente.nl##mijn-feedback
 ||app-prd-mijnomgeving.azurewebsites.net^
 ||logfiles.zoom.us^
 ||acroipm2.adobe.com^
+||hbrt.adobe.com^

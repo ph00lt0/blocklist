@@ -16615,3 +16615,4 @@ v318.hollandzorg.com CNAME .
 cdn.denkis.nl CNAME .
 denkis.nl CNAME .
 s2.vinkvink.nl CNAME .
+logfiles.zoom.us CNAME .

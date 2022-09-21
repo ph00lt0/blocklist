@@ -17171,3 +17171,4 @@ mijn.intwente.nl##mijn-feedback
 ||inlog.vinkvink.nl/static/js/bundles/vendors.min.js^
 ||inlog.vinkvink.nl/static/js/bundles/script.min.js^
 ||app-prd-mijnomgeving.azurewebsites.net^
+||logfiles.zoom.us^

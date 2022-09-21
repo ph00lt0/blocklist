@@ -16618,3 +16618,4 @@ local-zone: "v318.hollandzorg.com." always_null
 local-zone: "cdn.denkis.nl." always_null
 local-zone: "denkis.nl." always_null
 local-zone: "s2.vinkvink.nl." always_null
+local-zone: "logfiles.zoom.us." always_null

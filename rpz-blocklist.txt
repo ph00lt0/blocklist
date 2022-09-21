@@ -16628,3 +16628,4 @@ b-ring.msedge.net CNAME .
 cs.dds.microsoft.com CNAME .
 v10.events.data.microsoft.com CNAME .
 v20.events.data.microsoft.com CNAME .
+edge.activity.windows.com CNAME .

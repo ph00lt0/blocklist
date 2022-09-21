@@ -17150,3 +17150,4 @@ zekur.nl##.tmcookienotice
 zekur.nl##.app_cookie
 zekur.nl##body:style(overflow: auto!important)
 ||force.com^$third-party
+||unitedconsumers.com/js/uc-cookiestatement.js^

@@ -16742,3 +16742,4 @@
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 wdcp.microsoft.com
 0.0.0.0 quickconnect.to
+0.0.0.0 beacons.gvt2.com

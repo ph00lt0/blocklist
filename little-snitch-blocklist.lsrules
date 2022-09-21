@@ -16194,6 +16194,7 @@
         "manage.devcenter.microsoft.com",
         "settings.data.microsoft.com",
         "wdcp.microsoft.com",
-        "quickconnect.to"
+        "quickconnect.to",
+        "beacons.gvt2.com"
     ]
 }

@@ -17190,3 +17190,4 @@ mijn.intwente.nl##mijn-feedback
 ||settings.data.microsoft.com^
 ||wdcp.microsoft.com^
 ||quickconnect.to^
+||beacons.gvt2.com^

@@ -16637,3 +16637,4 @@ local-zone: "manage.devcenter.microsoft.com." always_null
 local-zone: "settings.data.microsoft.com." always_null
 local-zone: "wdcp.microsoft.com." always_null
 local-zone: "quickconnect.to." always_null
+local-zone: "beacons.gvt2.com." always_null

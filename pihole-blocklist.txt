@@ -16727,3 +16727,4 @@
 0.0.0.0 acroipm2.adobe.com
 0.0.0.0 hbrt.adobe.com
 0.0.0.0 sstats.adobe.com
+0.0.0.0 ans.oobesaas.adobe.com

@@ -16181,6 +16181,7 @@
         "logfiles.zoom.us",
         "acroipm2.adobe.com",
         "hbrt.adobe.com",
-        "sstats.adobe.com"
+        "sstats.adobe.com",
+        "ans.oobesaas.adobe.com"
     ]
 }

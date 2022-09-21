@@ -16640,3 +16640,4 @@ local-zone: "quickconnect.to." always_null
 local-zone: "beacons.gvt2.com." always_null
 local-zone: "services.gfe.nvidia.com." always_null
 local-zone: "adsports.in." always_null
+local-zone: "alushtadom.com." always_null

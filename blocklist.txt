@@ -17178,3 +17178,4 @@ mijn.intwente.nl##mijn-feedback
 ||ans.oobesaas.adobe.com^
 ||evoke-windowsservices-tas.msedge.net^
 ||spclient.wg.spotify.com^
+||fp.msedge.net^

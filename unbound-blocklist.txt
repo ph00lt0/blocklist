@@ -16630,3 +16630,4 @@ local-zone: "k-ring.msedge.net." always_null
 local-zone: "b-ring.msedge.net." always_null
 local-zone: "cs.dds.microsoft.com." always_null
 local-zone: "v10.events.data.microsoft.com." always_null
+local-zone: "v20.events.data.microsoft.com." always_null

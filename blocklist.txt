@@ -17204,3 +17204,4 @@ mijn.intwente.nl##mijn-feedback
 ||stathat.com^
 ||supercell.net^
 ||usergrid.com^
+||bango.net^

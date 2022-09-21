@@ -4216,7 +4216,7 @@
 ||in.getclicky.com^
 ||clkmc.com^
 ||cdn.clkmc.com^
-||ogs.google.com^
+||ogs.google.com^$badfilter  # required for SSO between apps
 ||stats-web.polytechnique.fr^
 ||piwik.inria.fr^
 ||stats-web.ens.fr^

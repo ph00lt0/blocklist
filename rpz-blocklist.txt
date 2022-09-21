@@ -4135,7 +4135,7 @@ jdsports-client-resources.co.uk CNAME .
 in.getclicky.com CNAME .
 clkmc.com CNAME .
 cdn.clkmc.com CNAME .
-ogs.google.com CNAME .
+; allow ogs.google.com reason: required for SSO between apps
 stats-web.polytechnique.fr CNAME .
 piwik.inria.fr CNAME .
 stats-web.ens.fr CNAME .

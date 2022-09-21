@@ -4137,7 +4137,7 @@ local-zone: "jdsports-client-resources.co.uk." always_null
 local-zone: "in.getclicky.com." always_null
 local-zone: "clkmc.com." always_null
 local-zone: "cdn.clkmc.com." always_null
-local-zone: "ogs.google.com." always_null
+# allow ogs.google.com reason: required for SSO between apps
 local-zone: "stats-web.polytechnique.fr." always_null
 local-zone: "piwik.inria.fr." always_null
 local-zone: "stats-web.ens.fr." always_null

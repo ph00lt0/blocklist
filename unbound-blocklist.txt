@@ -16633,3 +16633,4 @@ local-zone: "v10.events.data.microsoft.com." always_null
 local-zone: "v20.events.data.microsoft.com." always_null
 local-zone: "edge.activity.windows.com." always_null
 # allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
+local-zone: "manage.devcenter.microsoft.com." always_null

@@ -17186,3 +17186,4 @@ mijn.intwente.nl##mijn-feedback
 ||v20.events.data.microsoft.com^
 ||edge.activity.windows.com^
 ||storecatalogrevocation.storequality.microsoft.com^$badfilter  # revokation list
+||manage.devcenter.microsoft.com^

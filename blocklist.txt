@@ -17193,3 +17193,4 @@ mijn.intwente.nl##mijn-feedback
 ||beacons.gvt2.com^
 ||services.gfe.nvidia.com^
 @@||cdn.cookielaw.org^$domain=id.trimble.com  # unbreak trimble
+||adsports.in^

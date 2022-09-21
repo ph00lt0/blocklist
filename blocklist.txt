@@ -17144,3 +17144,4 @@ onvz.nl##.a-btn--chat
 ||cvweu-igs-pr-cdn-002.azureedge.net^
 ||swiftypecdn.com^
 ||s.swiftypecdn.com^
+||inlog.anderzorg.nl/static/js/bundles/vendors.min.js^

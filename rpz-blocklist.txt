@@ -16602,3 +16602,4 @@ inzicht.cz.nl CNAME .
 s2.menzis.nl CNAME .
 style.onvz.nl CNAME .
 nxtid.nl CNAME .
+broker.nxtid.nl CNAME .

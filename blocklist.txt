@@ -17143,3 +17143,4 @@ onvz.nl##.a-btn--chat
 ||independer.nl^$third-party
 ||cvweu-igs-pr-cdn-002.azureedge.net^
 ||swiftypecdn.com^
+||s.swiftypecdn.com^

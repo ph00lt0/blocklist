@@ -16608,3 +16608,4 @@ local-zone: "nxtid.nl." always_null
 local-zone: "broker.nxtid.nl." always_null
 local-zone: "cvweu-igs-pr-cdn-002.azureedge.net." always_null
 local-zone: "swiftypecdn.com." always_null
+local-zone: "s.swiftypecdn.com." always_null

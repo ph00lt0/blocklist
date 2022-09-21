@@ -16642,3 +16642,4 @@ local-zone: "services.gfe.nvidia.com." always_null
 local-zone: "adsports.in." always_null
 local-zone: "alushtadom.com." always_null
 local-zone: "avtoresurs.net." always_null
+local-zone: "pamelasparrowchilds.com." always_null

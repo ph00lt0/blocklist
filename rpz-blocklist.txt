@@ -16621,3 +16621,4 @@ hbrt.adobe.com CNAME .
 sstats.adobe.com CNAME .
 ans.oobesaas.adobe.com CNAME .
 evoke-windowsservices-tas.msedge.net CNAME .
+spclient.wg.spotify.com CNAME .

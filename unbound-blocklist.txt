@@ -16610,3 +16610,4 @@ local-zone: "cvweu-igs-pr-cdn-002.azureedge.net." always_null
 local-zone: "swiftypecdn.com." always_null
 local-zone: "s.swiftypecdn.com." always_null
 local-zone: "d4e119i9vv87s.cloudfront.net." always_null
+local-zone: "applicationinsights.azure.com." always_null

@@ -16715,3 +16715,4 @@
 0.0.0.0 swiftypecdn.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 d4e119i9vv87s.cloudfront.net
+0.0.0.0 applicationinsights.azure.com

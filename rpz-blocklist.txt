@@ -16649,3 +16649,4 @@ supercell.net CNAME .
 usergrid.com CNAME .
 bango.net CNAME .
 burstly.com CNAME .
+adproxy.ndmdhs.com CNAME .

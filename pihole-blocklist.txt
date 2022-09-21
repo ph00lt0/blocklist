@@ -16757,3 +16757,4 @@
 0.0.0.0 usergrid.com
 0.0.0.0 bango.net
 0.0.0.0 burstly.com
+0.0.0.0 adproxy.ndmdhs.com

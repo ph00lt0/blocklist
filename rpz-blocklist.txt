@@ -16616,3 +16616,4 @@ cdn.denkis.nl CNAME .
 denkis.nl CNAME .
 s2.vinkvink.nl CNAME .
 logfiles.zoom.us CNAME .
+acroipm2.adobe.com CNAME .

@@ -16724,3 +16724,4 @@
 0.0.0.0 denkis.nl
 0.0.0.0 s2.vinkvink.nl
 0.0.0.0 logfiles.zoom.us
+0.0.0.0 acroipm2.adobe.com

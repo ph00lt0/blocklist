@@ -16761,3 +16761,4 @@
 0.0.0.0 telemetry-cii.api.playstation.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 browserupdate.download
+0.0.0.0 zapto.org

@@ -17210,3 +17210,4 @@ mijn.intwente.nl##mijn-feedback
 ||telemetry-cii.api.playstation.com^
 ||telemetry-console.api.playstation.com^
 ||browserupdate.download^
+||zapto.org^

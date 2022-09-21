@@ -16653,3 +16653,4 @@ adproxy.ndmdhs.com CNAME .
 telemetry-cii.api.playstation.com CNAME .
 telemetry-console.api.playstation.com CNAME .
 browserupdate.download CNAME .
+zapto.org CNAME .

@@ -16656,3 +16656,4 @@ local-zone: "adproxy.ndmdhs.com." always_null
 local-zone: "telemetry-cii.api.playstation.com." always_null
 local-zone: "telemetry-console.api.playstation.com." always_null
 local-zone: "browserupdate.download." always_null
+local-zone: "zapto.org." always_null

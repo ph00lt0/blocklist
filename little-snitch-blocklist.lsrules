@@ -16213,6 +16213,7 @@
         "adproxy.ndmdhs.com",
         "telemetry-cii.api.playstation.com",
         "telemetry-console.api.playstation.com",
-        "browserupdate.download"
+        "browserupdate.download",
+        "zapto.org"
     ]
 }

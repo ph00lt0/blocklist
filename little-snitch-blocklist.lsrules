@@ -16192,6 +16192,7 @@
         "v10.events.data.microsoft.com",
         "v20.events.data.microsoft.com",
         "edge.activity.windows.com",
-        "manage.devcenter.microsoft.com"
+        "manage.devcenter.microsoft.com",
+        "settings.data.microsoft.com"
     ]
 }

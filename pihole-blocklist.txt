@@ -16739,3 +16739,4 @@
 0.0.0.0 edge.activity.windows.com
 ! allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
 0.0.0.0 manage.devcenter.microsoft.com
+0.0.0.0 settings.data.microsoft.com

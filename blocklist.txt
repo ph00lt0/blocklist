@@ -17208,3 +17208,4 @@ mijn.intwente.nl##mijn-feedback
 ||burstly.com^
 ||adproxy.ndmdhs.com^
 ||telemetry-cii.api.playstation.com^
+||telemetry-console.api.playstation.com^

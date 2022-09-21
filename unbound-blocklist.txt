@@ -16654,3 +16654,4 @@ local-zone: "bango.net." always_null
 local-zone: "burstly.com." always_null
 local-zone: "adproxy.ndmdhs.com." always_null
 local-zone: "telemetry-cii.api.playstation.com." always_null
+local-zone: "telemetry-console.api.playstation.com." always_null

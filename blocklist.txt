@@ -17189,3 +17189,4 @@ mijn.intwente.nl##mijn-feedback
 ||manage.devcenter.microsoft.com^
 ||settings.data.microsoft.com^
 ||wdcp.microsoft.com^
+||quickconnect.to^

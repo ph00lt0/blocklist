@@ -17180,3 +17180,4 @@ mijn.intwente.nl##mijn-feedback
 ||spclient.wg.spotify.com^
 ||fp.msedge.net^
 ||k-ring.msedge.net^
+||b-ring.msedge.net^

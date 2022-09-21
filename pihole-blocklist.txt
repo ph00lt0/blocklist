@@ -16732,3 +16732,4 @@
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 fp.msedge.net
 0.0.0.0 k-ring.msedge.net
+0.0.0.0 b-ring.msedge.net

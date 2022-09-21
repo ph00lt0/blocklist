@@ -16624,3 +16624,4 @@ evoke-windowsservices-tas.msedge.net CNAME .
 spclient.wg.spotify.com CNAME .
 fp.msedge.net CNAME .
 k-ring.msedge.net CNAME .
+b-ring.msedge.net CNAME .

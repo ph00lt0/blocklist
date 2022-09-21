@@ -17122,3 +17122,4 @@ $removeparam=uclick_id
 ||d2k1bn3ko1qk4.cloudfront.net^
 mijn.dsw.nl##.mijn-cookie-consent
 mijn.dsw.nl##mijn-feedback
+dsw.nl##.chatbot-div

@@ -17185,3 +17185,4 @@ mijn.intwente.nl##mijn-feedback
 ||v10.events.data.microsoft.com^
 ||v20.events.data.microsoft.com^
 ||edge.activity.windows.com^
+||storecatalogrevocation.storequality.microsoft.com^

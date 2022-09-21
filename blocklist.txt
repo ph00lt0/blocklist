@@ -17115,3 +17115,4 @@ $removeparam=uclick_id
 ||stats.live-video.net^
 ^log_activity^
 ||getmidnight.com^
+||synthetix.com^

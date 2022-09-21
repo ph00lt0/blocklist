@@ -16596,3 +16596,4 @@ local-zone: "serwissieci.com." always_null
 local-zone: "shesa.net." always_null
 local-zone: "stats.live-video.net." always_null
 local-zone: "getmidnight.com." always_null
+local-zone: "synthetix.com." always_null

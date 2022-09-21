@@ -16649,3 +16649,4 @@ local-zone: "eastsideautosalvage.com." always_null
 local-zone: "gtcartographic.co.uk." always_null
 local-zone: "stathat.com." always_null
 local-zone: "supercell.net." always_null
+local-zone: "usergrid.com." always_null

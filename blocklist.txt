@@ -17117,3 +17117,4 @@ $removeparam=uclick_id
 ||getmidnight.com^
 ||synthetix.com^
 ||l845.nn.nl^
+||chatbot.api.nn-group.com^

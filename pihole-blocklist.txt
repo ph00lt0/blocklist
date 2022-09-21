@@ -16728,3 +16728,4 @@
 0.0.0.0 hbrt.adobe.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 ans.oobesaas.adobe.com
+0.0.0.0 evoke-windowsservices-tas.msedge.net

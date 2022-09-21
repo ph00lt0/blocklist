@@ -16758,3 +16758,4 @@
 0.0.0.0 bango.net
 0.0.0.0 burstly.com
 0.0.0.0 adproxy.ndmdhs.com
+0.0.0.0 telemetry-cii.api.playstation.com

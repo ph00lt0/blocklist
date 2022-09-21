@@ -16650,3 +16650,4 @@ usergrid.com CNAME .
 bango.net CNAME .
 burstly.com CNAME .
 adproxy.ndmdhs.com CNAME .
+telemetry-cii.api.playstation.com CNAME .

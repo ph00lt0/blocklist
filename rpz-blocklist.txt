@@ -16625,3 +16625,4 @@ spclient.wg.spotify.com CNAME .
 fp.msedge.net CNAME .
 k-ring.msedge.net CNAME .
 b-ring.msedge.net CNAME .
+cs.dds.microsoft.com CNAME .

@@ -16628,3 +16628,4 @@ local-zone: "spclient.wg.spotify.com." always_null
 local-zone: "fp.msedge.net." always_null
 local-zone: "k-ring.msedge.net." always_null
 local-zone: "b-ring.msedge.net." always_null
+local-zone: "cs.dds.microsoft.com." always_null

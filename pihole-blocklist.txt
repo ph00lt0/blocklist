@@ -16702,3 +16702,4 @@
 0.0.0.0 stats.live-video.net
 0.0.0.0 getmidnight.com
 0.0.0.0 synthetix.com
+0.0.0.0 l845.nn.nl

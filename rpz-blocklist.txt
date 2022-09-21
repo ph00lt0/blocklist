@@ -16604,3 +16604,4 @@ style.onvz.nl CNAME .
 nxtid.nl CNAME .
 broker.nxtid.nl CNAME .
 cvweu-igs-pr-cdn-002.azureedge.net CNAME .
+swiftypecdn.com CNAME .

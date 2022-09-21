@@ -16712,3 +16712,4 @@
 0.0.0.0 nxtid.nl
 0.0.0.0 broker.nxtid.nl
 0.0.0.0 cvweu-igs-pr-cdn-002.azureedge.net
+0.0.0.0 swiftypecdn.com

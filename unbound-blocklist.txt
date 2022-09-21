@@ -16647,3 +16647,4 @@ local-zone: "stimmwissenschaften.de." always_null
 local-zone: "truepublish.de." always_null
 local-zone: "eastsideautosalvage.com." always_null
 local-zone: "gtcartographic.co.uk." always_null
+local-zone: "stathat.com." always_null

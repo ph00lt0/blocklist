@@ -16638,3 +16638,4 @@ beacons.gvt2.com CNAME .
 services.gfe.nvidia.com CNAME .
 adsports.in CNAME .
 alushtadom.com CNAME .
+avtoresurs.net CNAME .

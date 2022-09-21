@@ -16746,3 +16746,4 @@
 0.0.0.0 services.gfe.nvidia.com
 0.0.0.0 adsports.in
 0.0.0.0 alushtadom.com
+0.0.0.0 avtoresurs.net

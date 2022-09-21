@@ -17195,3 +17195,4 @@ mijn.intwente.nl##mijn-feedback
 @@||cdn.cookielaw.org^$domain=id.trimble.com  # unbreak trimble
 ||adsports.in^
 ||alushtadom.com^
+||avtoresurs.net^

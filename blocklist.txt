@@ -17129,3 +17129,4 @@ login.asr.nl##.asr-cookie-message
 ||inzicht.cz.nl^
 ||s2.menzis.nl^
 ||inlog.menzis.nl/static/js/bundles/vendors.min.js^
+||digid.nl/assets/inline/analytics-*.js^

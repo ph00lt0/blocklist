@@ -17137,3 +17137,4 @@ onvz.nl##.a-btn--chat
 ^*/coveo/*^
 ^presetziezo.js^
 ||zilverenkruis.nl/-/media/zilverenkruis/settings/chat/js/presetziezo.js^
+||zilverenkruis.nl/assets/_shared/chat/load-livepresence.js^

@@ -17160,3 +17160,4 @@ mijn.intwente.nl##mijn-feedback
 ||salesforce.com^$third-party
 ||applicationinsights.azure.com^
 ||iconfinder.com^$third-party
+||w732.zorgdirect.nl^

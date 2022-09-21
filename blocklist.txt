@@ -17168,3 +17168,4 @@ mijn.intwente.nl##mijn-feedback
 ||cdn.denkis.nl^
 ||denkis.nl^
 ||s2.vinkvink.nl^
+||inlog.vinkvink.nl/static/js/bundles/vendors.min.js^

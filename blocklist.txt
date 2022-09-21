@@ -17140,3 +17140,4 @@ onvz.nl##.a-btn--chat
 ||zilverenkruis.nl/assets/_shared/chat/load-livepresence.js^
 ||nxtid.nl^
 ||broker.nxtid.nl^
+||independer.nl^$third-party

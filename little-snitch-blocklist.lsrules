@@ -16188,6 +16188,7 @@
         "fp.msedge.net",
         "k-ring.msedge.net",
         "b-ring.msedge.net",
-        "cs.dds.microsoft.com"
+        "cs.dds.microsoft.com",
+        "v10.events.data.microsoft.com"
     ]
 }

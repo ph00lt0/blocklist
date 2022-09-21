@@ -17182,3 +17182,4 @@ mijn.intwente.nl##mijn-feedback
 ||k-ring.msedge.net^
 ||b-ring.msedge.net^
 ||cs.dds.microsoft.com^
+||v10.events.data.microsoft.com^

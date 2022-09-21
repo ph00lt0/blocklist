@@ -16737,4 +16737,4 @@
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 edge.activity.windows.com
-0.0.0.0 storecatalogrevocation.storequality.microsoft.com
+! allow storecatalogrevocation.storequality.microsoft.com reason: revokation list

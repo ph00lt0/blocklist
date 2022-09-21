@@ -16629,4 +16629,4 @@ cs.dds.microsoft.com CNAME .
 v10.events.data.microsoft.com CNAME .
 v20.events.data.microsoft.com CNAME .
 edge.activity.windows.com CNAME .
-storecatalogrevocation.storequality.microsoft.com CNAME .
+; allow storecatalogrevocation.storequality.microsoft.com reason: revokation list

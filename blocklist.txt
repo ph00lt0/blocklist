@@ -17188,3 +17188,4 @@ mijn.intwente.nl##mijn-feedback
 ||storecatalogrevocation.storequality.microsoft.com^$badfilter  # revokation list
 ||manage.devcenter.microsoft.com^
 ||settings.data.microsoft.com^
+||wdcp.microsoft.com^

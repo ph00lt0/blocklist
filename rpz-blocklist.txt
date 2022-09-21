@@ -16632,3 +16632,4 @@ edge.activity.windows.com CNAME .
 ; allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
 manage.devcenter.microsoft.com CNAME .
 settings.data.microsoft.com CNAME .
+wdcp.microsoft.com CNAME .

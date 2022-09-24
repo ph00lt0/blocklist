@@ -2974,7 +2974,7 @@ justpremium.com CNAME .
 pcapredict.com CNAME .
 giffg11111.pcapredict.com CNAME .
 tags-eu.tiqcdn.com CNAME .
-scontent-cdt1-1.cdninstagram.com CNAME .
+scontent-cdt1-1.; allow cdninstagram.com reason: Required for instagram
 notifications-api.cf.sky.com CNAME .
 analytics.faw.sky.com CNAME .
 analytics.global.sky.com CNAME .
@@ -4209,7 +4209,7 @@ collect.tealiumiq.com CNAME .
 tealiumiq.com CNAME .
 pelican.protomaps.com CNAME .
 sjs.bizographics.com CNAME .
-scontent-lcy1-1.cdninstagram.com CNAME .
+scontent-lcy1-1.; allow cdninstagram.com reason: Required for instagram
 bgetr.infogalactic.com CNAME .
 cdn.bigpicture.io CNAME .
 bigpicture.io CNAME .
@@ -14037,7 +14037,7 @@ cdnbasket.net CNAME .
 cdndex.io CNAME .
 cdngain.com CNAME .
 cdngslb.com CNAME .
-cdninstagram.com CNAME .
+; allow cdninstagram.com reason: Required for instagram
 cdnjs.com CNAME .
 cdnjs.work CNAME .
 cdnkimg.com CNAME .

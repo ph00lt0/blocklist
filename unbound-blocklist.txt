@@ -14040,7 +14040,7 @@ local-zone: "cdnbasket.net." always_null
 local-zone: "cdndex.io." always_null
 local-zone: "cdngain.com." always_null
 local-zone: "cdngslb.com." always_null
-local-zone: "cdninstagram.com." always_null
+# allow cdninstagram.com reason: Required for instagram
 local-zone: "cdnjs.com." always_null
 local-zone: "cdnjs.work." always_null
 local-zone: "cdnkimg.com." always_null

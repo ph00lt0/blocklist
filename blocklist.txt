@@ -14465,7 +14465,7 @@ $removeparam=engagement_type
 ||cdndex.io^
 ||cdngain.com^
 ||cdngslb.com^
-||cdninstagram.com^
+||cdninstagram.com^$badfilter  # Required for instagram
 ||cdnjs.com^
 ||cdnjs.work^
 ||cdnkimg.com^

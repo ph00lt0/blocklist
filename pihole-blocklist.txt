@@ -14145,7 +14145,7 @@
 0.0.0.0 cdndex.io
 0.0.0.0 cdngain.com
 0.0.0.0 cdngslb.com
-0.0.0.0 cdninstagram.com
+! allow cdninstagram.com reason: Required for instagram
 0.0.0.0 cdnjs.com
 0.0.0.0 cdnjs.work
 0.0.0.0 cdnkimg.com

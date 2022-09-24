@@ -16770,3 +16770,4 @@
 0.0.0.0 content-based-recommender.api.nos.nl
 0.0.0.0 oxmvifnvqu.nl
 0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 api.samsungtvplus.com

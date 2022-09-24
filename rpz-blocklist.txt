@@ -16662,3 +16662,4 @@ email.snappcar.nl CNAME .
 content-based-recommender.api.nos.nl CNAME .
 oxmvifnvqu.nl CNAME .
 dc.dqa.samsung.com CNAME .
+api.samsungtvplus.com CNAME .

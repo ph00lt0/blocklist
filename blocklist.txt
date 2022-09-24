@@ -17218,3 +17218,4 @@ mijn.intwente.nl##mijn-feedback
 ||email.snappcar.nl^
 ||content-based-recommender.api.nos.nl^
 ||oxmvifnvqu.nl^
+||dc.dqa.samsung.com^

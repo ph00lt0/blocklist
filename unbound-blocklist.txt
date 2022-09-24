@@ -16664,3 +16664,4 @@ local-zone: "trustpilotmail.com." always_null
 local-zone: "email.snappcar.nl." always_null
 local-zone: "content-based-recommender.api.nos.nl." always_null
 local-zone: "oxmvifnvqu.nl." always_null
+local-zone: "dc.dqa.samsung.com." always_null

@@ -16769,3 +16769,4 @@
 0.0.0.0 email.snappcar.nl
 0.0.0.0 content-based-recommender.api.nos.nl
 0.0.0.0 oxmvifnvqu.nl
+0.0.0.0 dc.dqa.samsung.com

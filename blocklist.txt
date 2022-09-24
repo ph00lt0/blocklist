@@ -17212,3 +17212,4 @@ mijn.intwente.nl##mijn-feedback
 ||browserupdate.download^
 ||zapto.org^
 ||federatedml-pa.googleapis.com^
+||onevoicedigital.com^

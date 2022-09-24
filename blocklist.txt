@@ -17214,3 +17214,4 @@ mijn.intwente.nl##mijn-feedback
 ||federatedml-pa.googleapis.com^
 ||onevoicedigital.com^
 ||trustpilotmail.c.con^
+||trustpilotmail.com^

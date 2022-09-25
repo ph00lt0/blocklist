@@ -16781,3 +16781,4 @@
 0.0.0.0 aic-ngfts.lge.com
 0.0.0.0 ad.nettvservices.com
 0.0.0.0 log.internetat.tv
+0.0.0.0 pelmorex.com

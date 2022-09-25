@@ -16673,3 +16673,4 @@ rdx2.lgtvsdp.com CNAME .
 aic-ngfts.lge.com CNAME .
 ad.nettvservices.com CNAME .
 log.internetat.tv CNAME .
+pelmorex.com CNAME .

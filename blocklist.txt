@@ -17230,3 +17230,4 @@ mijn.intwente.nl##mijn-feedback
 ||aic-ngfts.lge.com^
 ||ad.nettvservices.com^
 ||log.internetat.tv^
+||pelmorex.com^

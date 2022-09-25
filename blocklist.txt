@@ -17425,3 +17425,4 @@ mijn.intwente.nl##mijn-feedback
 ||trwitter.com^$third-party
 ||twitter.com^$third-party
 ||mapi.weibo.com^$third-party
+||api.weibo.cn^

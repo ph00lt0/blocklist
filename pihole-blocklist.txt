@@ -16968,3 +16968,4 @@
 0.0.0.0 gotokeep.com
 0.0.0.0 badmintoncn.com
 0.0.0.0 189smarthome.com
+0.0.0.0 api.weibo.cn

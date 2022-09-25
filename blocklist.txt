@@ -17434,3 +17434,4 @@ mijn.intwente.nl##mijn-feedback
 ||rads.msn.com^
 ||msn.com^$third-party
 ||api.cortana.ai^
+||adnexus.net^

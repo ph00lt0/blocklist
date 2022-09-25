@@ -16871,3 +16871,4 @@ local-zone: "i3zh.com." always_null
 local-zone: "dm.bytedance.net." always_null
 local-zone: "rads.msn.com." always_null
 local-zone: "api.cortana.ai." always_null
+local-zone: "adnexus.net." always_null

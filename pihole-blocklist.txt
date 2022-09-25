@@ -16976,3 +16976,4 @@
 0.0.0.0 dm.bytedance.net
 0.0.0.0 rads.msn.com
 0.0.0.0 api.cortana.ai
+0.0.0.0 adnexus.net

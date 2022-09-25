@@ -17459,3 +17459,4 @@ mijn.intwente.nl##mijn-feedback
 ||dit.whatsapp.net^
 ||businessmessages.google.com^
 ||go.microsoft.com^
+||app.dmws.plus^

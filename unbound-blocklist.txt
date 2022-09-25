@@ -16672,3 +16672,4 @@ local-zone: "goeuro.com." always_null
 local-zone: "starpopup.com." always_null
 local-zone: "adro.co." always_null
 local-zone: "lgsmartad.com." always_null
+local-zone: "rdx2.lgtvsdp.com." always_null

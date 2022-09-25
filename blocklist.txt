@@ -17226,3 +17226,4 @@ mijn.intwente.nl##mijn-feedback
 ||starpopup.com^
 ||adro.co^
 ||lgsmartad.com^
+||rdx2.lgtvsdp.com^

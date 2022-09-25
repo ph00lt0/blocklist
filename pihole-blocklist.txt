@@ -16777,3 +16777,4 @@
 0.0.0.0 starpopup.com
 0.0.0.0 adro.co
 0.0.0.0 lgsmartad.com
+0.0.0.0 rdx2.lgtvsdp.com

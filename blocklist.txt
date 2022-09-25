@@ -17424,3 +17424,4 @@ mijn.intwente.nl##mijn-feedback
 ||instagram.com^$third-party
 ||trwitter.com^$third-party
 ||twitter.com^$third-party
+||mapi.weibo.com^$third-party

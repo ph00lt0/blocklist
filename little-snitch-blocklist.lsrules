@@ -16428,6 +16428,7 @@
         "rads.msn.com",
         "api.cortana.ai",
         "adnexus.net",
-        "telemetry.remoteapp.windowsazure.com"
+        "telemetry.remoteapp.windowsazure.com",
+        "telemetry.urs.microsoft.com"
     ]
 }

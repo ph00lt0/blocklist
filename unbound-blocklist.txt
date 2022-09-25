@@ -16873,3 +16873,4 @@ local-zone: "rads.msn.com." always_null
 local-zone: "api.cortana.ai." always_null
 local-zone: "adnexus.net." always_null
 local-zone: "telemetry.remoteapp.windowsazure.com." always_null
+local-zone: "telemetry.urs.microsoft.com." always_null

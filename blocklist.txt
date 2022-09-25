@@ -17436,3 +17436,4 @@ mijn.intwente.nl##mijn-feedback
 ||api.cortana.ai^
 ||adnexus.net^
 ||telemetry.remoteapp.windowsazure.com^
+||telemetry.urs.microsoft.com^

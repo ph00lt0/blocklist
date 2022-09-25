@@ -16859,3 +16859,4 @@ local-zone: "xhscdn.com." always_null
 local-zone: "mddcloud.com." always_null
 local-zone: "cloudbae.cn." always_null
 local-zone: "10086.cn." always_null
+local-zone: "apicloud.com." always_null

@@ -16964,3 +16964,4 @@
 0.0.0.0 mddcloud.com
 0.0.0.0 cloudbae.cn
 0.0.0.0 10086.cn
+0.0.0.0 apicloud.com

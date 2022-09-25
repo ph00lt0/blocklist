@@ -17249,3 +17249,4 @@ mijn.intwente.nl##mijn-feedback
 ||test-ads.tiktok.com^
 ||rtlog.byteoversea.com^
 ||rtlog.isnssdk.com^
+||rtlog.musical.ly^

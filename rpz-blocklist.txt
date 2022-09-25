@@ -16854,3 +16854,4 @@ smoot.apple.cn CNAME .
 netease.com CNAME .
 xhscdn.com CNAME .
 mddcloud.com CNAME .
+cloudbae.cn CNAME .

@@ -17411,3 +17411,4 @@ mijn.intwente.nl##mijn-feedback
 ||netease.com^
 ||xhscdn.com^
 ||mddcloud.com^
+||cloudbae.cn^

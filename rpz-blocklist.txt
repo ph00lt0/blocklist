@@ -16676,3 +16676,4 @@ log.internetat.tv CNAME .
 pelmorex.com CNAME .
 logs.roku.com CNAME .
 hbbtv-track.redbutton.de CNAME .
+ettoday.net CNAME .

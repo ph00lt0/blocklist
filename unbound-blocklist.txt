@@ -16679,3 +16679,4 @@ local-zone: "log.internetat.tv." always_null
 local-zone: "pelmorex.com." always_null
 local-zone: "logs.roku.com." always_null
 local-zone: "hbbtv-track.redbutton.de." always_null
+local-zone: "ettoday.net." always_null

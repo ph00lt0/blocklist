@@ -17426,3 +17426,4 @@ mijn.intwente.nl##mijn-feedback
 ||twitter.com^$third-party
 ||mapi.weibo.com^$third-party
 ||api.weibo.cn^
+||uve.weibo.com^

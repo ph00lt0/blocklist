@@ -16864,3 +16864,4 @@ local-zone: "gotokeep.com." always_null
 local-zone: "badmintoncn.com." always_null
 local-zone: "189smarthome.com." always_null
 local-zone: "api.weibo.cn." always_null
+local-zone: "uve.weibo.com." always_null

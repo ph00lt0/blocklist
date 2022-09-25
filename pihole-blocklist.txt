@@ -16969,3 +16969,4 @@
 0.0.0.0 badmintoncn.com
 0.0.0.0 189smarthome.com
 0.0.0.0 api.weibo.cn
+0.0.0.0 uve.weibo.com

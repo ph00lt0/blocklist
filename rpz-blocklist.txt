@@ -16861,3 +16861,4 @@ gotokeep.com CNAME .
 badmintoncn.com CNAME .
 189smarthome.com CNAME .
 api.weibo.cn CNAME .
+uve.weibo.com CNAME .

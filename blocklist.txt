@@ -17442,3 +17442,4 @@ mijn.intwente.nl##mijn-feedback
 ||edgeoffer.microsoft.com^
 ||adups.cn^
 ||amp.cloudflare.com^
+||android-context-data.googleapis.com^

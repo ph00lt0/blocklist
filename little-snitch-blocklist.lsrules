@@ -16451,6 +16451,7 @@
         "businessmessages.google.com",
         "go.microsoft.com",
         "app.dmws.plus",
-        "cms-api.dirk.nl"
+        "cms-api.dirk.nl",
+        "api.fpjs.io"
     ]
 }

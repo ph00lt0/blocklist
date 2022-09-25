@@ -17238,3 +17238,4 @@ mijn.intwente.nl##mijn-feedback
 ||tracksrv.zdf.de^
 ||intl.miui.com^
 ||intl.xiaomi.com^
+||corio.com^

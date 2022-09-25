@@ -16779,3 +16779,4 @@
 0.0.0.0 lgsmartad.com
 0.0.0.0 rdx2.lgtvsdp.com
 0.0.0.0 aic-ngfts.lge.com
+0.0.0.0 ad.nettvservices.com

@@ -17415,3 +17415,4 @@ mijn.intwente.nl##mijn-feedback
 ||10086.cn^
 ||apicloud.com^
 ||gotokeep.com^
+||badmintoncn.com^

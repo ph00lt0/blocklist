@@ -16861,3 +16861,4 @@ local-zone: "cloudbae.cn." always_null
 local-zone: "10086.cn." always_null
 local-zone: "apicloud.com." always_null
 local-zone: "gotokeep.com." always_null
+local-zone: "badmintoncn.com." always_null

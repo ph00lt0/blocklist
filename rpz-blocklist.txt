@@ -16858,3 +16858,4 @@ cloudbae.cn CNAME .
 10086.cn CNAME .
 apicloud.com CNAME .
 gotokeep.com CNAME .
+badmintoncn.com CNAME .

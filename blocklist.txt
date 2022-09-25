@@ -17466,3 +17466,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||ah.nl^$removeparam=ref
 ||cms-api.dirk.nl^
 ||api.fpjs.io^
+||fqtag.com^

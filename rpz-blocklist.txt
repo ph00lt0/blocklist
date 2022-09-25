@@ -16896,3 +16896,4 @@ go.microsoft.com CNAME .
 app.dmws.plus CNAME .
 cms-api.dirk.nl CNAME .
 api.fpjs.io CNAME .
+fqtag.com CNAME .

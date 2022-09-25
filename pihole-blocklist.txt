@@ -14616,7 +14616,7 @@
 0.0.0.0 d3hb14vkzrxvla.cloudfront.net
 0.0.0.0 d3jh9lldskr7se.cloudfront.net
 0.0.0.0 d3jl4o3inrfq6m.cloudfront.net
-0.0.0.0 d3k6pebee3cv6.cloudfront.net
+! allow d3k6pebee3cv6.cloudfront.net reason: CDN
 0.0.0.0 d3khug2sh8iubx.cloudfront.net
 0.0.0.0 d3kuri221qk0z7.cloudfront.net
 0.0.0.0 d3lac2qn3905bt.cloudfront.net

@@ -14508,7 +14508,7 @@ d3gulydsybty16.cloudfront.net CNAME .
 d3hb14vkzrxvla.cloudfront.net CNAME .
 d3jh9lldskr7se.cloudfront.net CNAME .
 d3jl4o3inrfq6m.cloudfront.net CNAME .
-d3k6pebee3cv6.cloudfront.net CNAME .
+; allow d3k6pebee3cv6.cloudfront.net reason: CDN
 d3khug2sh8iubx.cloudfront.net CNAME .
 d3kuri221qk0z7.cloudfront.net CNAME .
 d3lac2qn3905bt.cloudfront.net CNAME .

@@ -16690,3 +16690,4 @@ local-zone: "pstatp.com." always_null
 local-zone: "xlog.tiktokv.com." always_null
 local-zone: "xlog.byteoversea.com." always_null
 local-zone: "xlog-va.musical.ly." always_null
+local-zone: "xlog-va.byteoversea.com." always_null

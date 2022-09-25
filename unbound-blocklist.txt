@@ -16854,3 +16854,4 @@ local-zone: "ads.fashionel.mk." always_null
 local-zone: "ydkwim.targobank.de." always_null
 local-zone: "pixiv.net." always_null
 local-zone: "smoot.apple.cn." always_null
+local-zone: "netease.com." always_null

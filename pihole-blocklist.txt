@@ -16959,3 +16959,4 @@
 0.0.0.0 ydkwim.targobank.de
 0.0.0.0 pixiv.net
 0.0.0.0 smoot.apple.cn
+0.0.0.0 netease.com

@@ -16866,3 +16866,4 @@ local-zone: "189smarthome.com." always_null
 local-zone: "api.weibo.cn." always_null
 local-zone: "uve.weibo.com." always_null
 local-zone: "58cdn.com." always_null
+local-zone: "58.com." always_null

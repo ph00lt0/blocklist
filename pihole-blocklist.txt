@@ -16971,3 +16971,4 @@
 0.0.0.0 api.weibo.cn
 0.0.0.0 uve.weibo.com
 0.0.0.0 58cdn.com
+0.0.0.0 58.com

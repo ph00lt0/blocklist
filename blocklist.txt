@@ -17428,3 +17428,4 @@ mijn.intwente.nl##mijn-feedback
 ||api.weibo.cn^
 ||uve.weibo.com^
 ||58cdn.com^
+||58.com^

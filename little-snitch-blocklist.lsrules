@@ -16432,6 +16432,7 @@
         "telemetry.urs.microsoft.com",
         "telemetry.microsoft.us",
         "data.microsoft.com.akadns.net",
-        "edgeoffer.microsoft.com"
+        "edgeoffer.microsoft.com",
+        "adups.cn"
     ]
 }

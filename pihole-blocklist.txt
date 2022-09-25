@@ -16970,3 +16970,4 @@
 0.0.0.0 189smarthome.com
 0.0.0.0 api.weibo.cn
 0.0.0.0 uve.weibo.com
+0.0.0.0 58cdn.com

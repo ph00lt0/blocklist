@@ -16868,3 +16868,4 @@ local-zone: "uve.weibo.com." always_null
 local-zone: "58cdn.com." always_null
 local-zone: "58.com." always_null
 local-zone: "i3zh.com." always_null
+local-zone: "dm.bytedance.net." always_null

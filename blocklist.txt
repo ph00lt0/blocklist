@@ -17460,3 +17460,4 @@ mijn.intwente.nl##mijn-feedback
 ||businessmessages.google.com^
 ||go.microsoft.com^
 ||app.dmws.plus^
+moneymonk.nl##+js(rc, inset-0, div, stay)

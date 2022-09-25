@@ -16894,3 +16894,4 @@ local-zone: "api.pubnative.net." always_null
 local-zone: "a.applvn.com." always_null
 local-zone: "mobile.smartadserver.com." always_null
 local-zone: "dit.whatsapp.net." always_null
+local-zone: "businessmessages.google.com." always_null

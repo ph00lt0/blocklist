@@ -17457,3 +17457,4 @@ mijn.intwente.nl##mijn-feedback
 ||a.applvn.com^
 ||mobile.smartadserver.com^
 ||dit.whatsapp.net^
+||businessmessages.google.com^

@@ -17433,3 +17433,4 @@ mijn.intwente.nl##mijn-feedback
 ||dm.bytedance.net^
 ||rads.msn.com^
 ||msn.com^$third-party
+||adnexus.net^$third-party

@@ -16783,3 +16783,4 @@
 0.0.0.0 log.internetat.tv
 0.0.0.0 pelmorex.com
 0.0.0.0 logs.roku.com
+0.0.0.0 hbbtv-track.redbutton.de

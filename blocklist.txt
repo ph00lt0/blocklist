@@ -17232,3 +17232,4 @@ mijn.intwente.nl##mijn-feedback
 ||log.internetat.tv^
 ||pelmorex.com^
 ||logs.roku.com^
+||hbbtv-track.redbutton.de^

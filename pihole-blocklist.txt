@@ -16796,3 +16796,4 @@
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 v16-ad.byteoversea.com

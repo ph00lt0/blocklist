@@ -17251,3 +17251,4 @@ mijn.intwente.nl##mijn-feedback
 ||rtlog.isnssdk.com^
 ||rtlog.musical.ly^
 ||rtlog.tiktokv.com^
+||musemuse.cn^

@@ -16686,3 +16686,4 @@ local-zone: "intl.miui.com." always_null
 local-zone: "intl.xiaomi.com." always_null
 local-zone: "corio.com." always_null
 local-zone: "faktor.mk." always_null
+local-zone: "pstatp.com." always_null

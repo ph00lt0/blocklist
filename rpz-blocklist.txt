@@ -16683,3 +16683,4 @@ intl.miui.com CNAME .
 intl.xiaomi.com CNAME .
 corio.com CNAME .
 faktor.mk CNAME .
+pstatp.com CNAME .

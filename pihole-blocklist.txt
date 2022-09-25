@@ -16993,3 +16993,4 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 rules.aatkit.com
+0.0.0.0 rules2.aatkit.com

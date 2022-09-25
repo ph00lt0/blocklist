@@ -17451,3 +17451,4 @@ mijn.intwente.nl##mijn-feedback
 ||tracking.aatkit.com^
 ||reporting.aatkit.com^
 ||rules.aatkit.com^
+||rules2.aatkit.com^

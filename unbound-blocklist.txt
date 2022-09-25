@@ -16675,3 +16675,4 @@ local-zone: "lgsmartad.com." always_null
 local-zone: "rdx2.lgtvsdp.com." always_null
 local-zone: "aic-ngfts.lge.com." always_null
 local-zone: "ad.nettvservices.com." always_null
+local-zone: "log.internetat.tv." always_null

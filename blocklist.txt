@@ -17229,3 +17229,4 @@ mijn.intwente.nl##mijn-feedback
 ||rdx2.lgtvsdp.com^
 ||aic-ngfts.lge.com^
 ||ad.nettvservices.com^
+||log.internetat.tv^

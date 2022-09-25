@@ -16689,3 +16689,4 @@ xlog.byteoversea.com CNAME .
 xlog-va.musical.ly CNAME .
 xlog-va.byteoversea.com CNAME .
 v16-ad.byteoversea.com CNAME .
+test-ads.tiktok.com CNAME .

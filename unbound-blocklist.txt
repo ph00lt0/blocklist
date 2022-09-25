@@ -16692,3 +16692,4 @@ local-zone: "xlog.byteoversea.com." always_null
 local-zone: "xlog-va.musical.ly." always_null
 local-zone: "xlog-va.byteoversea.com." always_null
 local-zone: "v16-ad.byteoversea.com." always_null
+local-zone: "test-ads.tiktok.com." always_null

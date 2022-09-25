@@ -2176,7 +2176,7 @@ local-zone: "cxense.com." always_null
 local-zone: "ezoiccdn.com." always_null
 local-zone: "widgets.trustedshops.com." always_null
 local-zone: "trustedshops.com." always_null
-local-zone: "magentocloud.map.fastly.net." always_null
+# allow magentocloud.map.fastly.net reason: CDN
 local-zone: "itnova.nl." always_null
 local-zone: "static-zeeman.itnova.nl." always_null
 local-zone: "cxense.com." always_null

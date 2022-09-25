@@ -2174,7 +2174,7 @@ cxense.com CNAME .
 ezoiccdn.com CNAME .
 widgets.trustedshops.com CNAME .
 trustedshops.com CNAME .
-magentocloud.map.fastly.net CNAME .
+; allow magentocloud.map.fastly.net reason: CDN
 itnova.nl CNAME .
 static-zeeman.itnova.nl CNAME .
 cxense.com CNAME .

@@ -2221,7 +2221,7 @@
 0.0.0.0 ezoiccdn.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 trustedshops.com
-0.0.0.0 magentocloud.map.fastly.net
+! allow magentocloud.map.fastly.net reason: CDN
 0.0.0.0 itnova.nl
 0.0.0.0 static-zeeman.itnova.nl
 0.0.0.0 cxense.com

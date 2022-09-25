@@ -2224,7 +2224,7 @@
 ||ezoiccdn.com^
 ||widgets.trustedshops.com^
 ||trustedshops.com^
-||magentocloud.map.fastly.net^
+||magentocloud.map.fastly.net^$badfilter  # CDN
 ||itnova.nl^
 ||static-zeeman.itnova.nl^
 ||cxense.com^

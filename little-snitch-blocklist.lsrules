@@ -16436,6 +16436,7 @@
         "adups.cn",
         "amp.cloudflare.com",
         "android-context-data.googleapis.com",
-        "optimizationguide-pa.googleapis.com"
+        "optimizationguide-pa.googleapis.com",
+        "firebaselogging-pa.googleapis.com"
     ]
 }

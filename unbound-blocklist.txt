@@ -14003,7 +14003,7 @@ local-zone: "camsoda1.com." always_null
 local-zone: "candidate-office.s3.amazonaws.com." always_null
 local-zone: "candlefox.com." always_null
 local-zone: "canstrm.com." always_null
-local-zone: "captcha-delivery.com." always_null
+# allow captcha-delivery.com reason: Required for SNCF
 local-zone: "capterra-static.com." always_null
 local-zone: "capterra.com." always_null
 local-zone: "captifymedia.com." always_null

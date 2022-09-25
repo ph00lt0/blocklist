@@ -4487,7 +4487,7 @@ cdiscount.i-wantit.com CNAME .
 cdn.caast.tv CNAME .
 caast.tv CNAME .
 imagesmx.cdscdn.com CNAME .
-geo.captcha-delivery.com CNAME .
+geo.; allow captcha-delivery.com reason: Required for SNCF
 ayads.co CNAME .
 sac.ayads.co CNAME .
 dd.leboncoin.fr CNAME .
@@ -14000,7 +14000,7 @@ camsoda1.com CNAME .
 candidate-office.s3.amazonaws.com CNAME .
 candlefox.com CNAME .
 canstrm.com CNAME .
-captcha-delivery.com CNAME .
+; allow captcha-delivery.com reason: Required for SNCF
 capterra-static.com CNAME .
 capterra.com CNAME .
 captifymedia.com CNAME .

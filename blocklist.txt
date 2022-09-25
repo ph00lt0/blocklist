@@ -14428,7 +14428,7 @@ $removeparam=engagement_type
 ||candidate-office.s3.amazonaws.com^
 ||candlefox.com^
 ||canstrm.com^
-||captcha-delivery.com^
+||captcha-delivery.com^$badfilter  # Required for SNCF
 ||capterra-static.com^
 ||capterra.com^
 ||captifymedia.com^

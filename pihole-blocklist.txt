@@ -14108,7 +14108,7 @@
 0.0.0.0 candidate-office.s3.amazonaws.com
 0.0.0.0 candlefox.com
 0.0.0.0 canstrm.com
-0.0.0.0 captcha-delivery.com
+! allow captcha-delivery.com reason: Required for SNCF
 0.0.0.0 capterra-static.com
 0.0.0.0 capterra.com
 0.0.0.0 captifymedia.com

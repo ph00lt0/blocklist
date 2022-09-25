@@ -16697,3 +16697,15 @@ rtlog.tiktokv.com CNAME .
 musemuse.cn CNAME .
 log.tiktokv.com CNAME .
 ib.tiktokv.com CNAME .
+trends.revcontent.com CNAME .
+tv21macedonia.xyz CNAME .
+vdads2019.com CNAME .
+video-cdn.marketgid.com CNAME .
+vionservices.com CNAME .
+vmads.eu CNAME .
+ads.it.mk CNAME .
+bid.aero CNAME .
+midas-network.com CNAME .
+storygize.net CNAME .
+.smartadserver.com CNAME .
+x.bidswitch.net CNAME .

@@ -16805,3 +16805,15 @@
 0.0.0.0 musemuse.cn
 0.0.0.0 log.tiktokv.com
 0.0.0.0 ib.tiktokv.com
+0.0.0.0 trends.revcontent.com
+0.0.0.0 tv21macedonia.xyz
+0.0.0.0 vdads2019.com
+0.0.0.0 video-cdn.marketgid.com
+0.0.0.0 vionservices.com
+0.0.0.0 vmads.eu
+0.0.0.0 ads.it.mk
+0.0.0.0 bid.aero
+0.0.0.0 midas-network.com
+0.0.0.0 storygize.net
+0.0.0.0 .smartadserver.com
+0.0.0.0 x.bidswitch.net

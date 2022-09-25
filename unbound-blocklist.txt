@@ -16700,3 +16700,15 @@ local-zone: "rtlog.tiktokv.com." always_null
 local-zone: "musemuse.cn." always_null
 local-zone: "log.tiktokv.com." always_null
 local-zone: "ib.tiktokv.com." always_null
+local-zone: "trends.revcontent.com." always_null
+local-zone: "tv21macedonia.xyz." always_null
+local-zone: "vdads2019.com." always_null
+local-zone: "video-cdn.marketgid.com." always_null
+local-zone: "vionservices.com." always_null
+local-zone: "vmads.eu." always_null
+local-zone: "ads.it.mk." always_null
+local-zone: "bid.aero." always_null
+local-zone: "midas-network.com." always_null
+local-zone: "storygize.net." always_null
+local-zone: ".smartadserver.com." always_null
+local-zone: "x.bidswitch.net." always_null

@@ -16435,6 +16435,7 @@
         "edgeoffer.microsoft.com",
         "adups.cn",
         "amp.cloudflare.com",
-        "android-context-data.googleapis.com"
+        "android-context-data.googleapis.com",
+        "optimizationguide-pa.googleapis.com"
     ]
 }

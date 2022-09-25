@@ -16855,3 +16855,4 @@ netease.com CNAME .
 xhscdn.com CNAME .
 mddcloud.com CNAME .
 cloudbae.cn CNAME .
+10086.cn CNAME .

@@ -16668,3 +16668,4 @@ local-zone: "dc.dqa.samsung.com." always_null
 local-zone: "api.samsungtvplus.com." always_null
 local-zone: "flagship.io." always_null
 local-zone: "priv.center." always_null
+local-zone: "d3rtiwh71i0n7r.cloudfront.net." always_null

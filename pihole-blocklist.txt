@@ -16773,3 +16773,4 @@
 0.0.0.0 api.samsungtvplus.com
 0.0.0.0 flagship.io
 0.0.0.0 priv.center
+0.0.0.0 d3rtiwh71i0n7r.cloudfront.net

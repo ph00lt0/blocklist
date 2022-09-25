@@ -17220,3 +17220,4 @@ mijn.intwente.nl##mijn-feedback
 ||oxmvifnvqu.nl^
 ||dc.dqa.samsung.com^
 ||api.samsungtvplus.com^
+||flagship.io^

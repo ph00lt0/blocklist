@@ -16980,3 +16980,4 @@
 0.0.0.0 telemetry.remoteapp.windowsazure.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetry.microsoft.us
+0.0.0.0 data.microsoft.com.akadns.net

@@ -16430,6 +16430,7 @@
         "adnexus.net",
         "telemetry.remoteapp.windowsazure.com",
         "telemetry.urs.microsoft.com",
-        "telemetry.microsoft.us"
+        "telemetry.microsoft.us",
+        "data.microsoft.com.akadns.net"
     ]
 }

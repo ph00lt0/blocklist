@@ -16875,3 +16875,4 @@ local-zone: "adnexus.net." always_null
 local-zone: "telemetry.remoteapp.windowsazure.com." always_null
 local-zone: "telemetry.urs.microsoft.com." always_null
 local-zone: "telemetry.microsoft.us." always_null
+local-zone: "data.microsoft.com.akadns.net." always_null

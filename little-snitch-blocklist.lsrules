@@ -16433,6 +16433,7 @@
         "telemetry.microsoft.us",
         "data.microsoft.com.akadns.net",
         "edgeoffer.microsoft.com",
-        "adups.cn"
+        "adups.cn",
+        "amp.cloudflare.com"
     ]
 }

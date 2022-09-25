@@ -17441,3 +17441,4 @@ mijn.intwente.nl##mijn-feedback
 ||data.microsoft.com.akadns.net^
 ||edgeoffer.microsoft.com^
 ||adups.cn^
+||amp.cloudflare.com^

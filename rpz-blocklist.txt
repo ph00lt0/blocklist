@@ -16875,3 +16875,4 @@ telemetry.microsoft.us CNAME .
 data.microsoft.com.akadns.net CNAME .
 edgeoffer.microsoft.com CNAME .
 adups.cn CNAME .
+amp.cloudflare.com CNAME .

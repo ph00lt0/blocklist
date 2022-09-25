@@ -16956,3 +16956,4 @@
 0.0.0.0 ads.faktor.mk
 0.0.0.0 ads.fakulteti.mk
 0.0.0.0 ads.fashionel.mk
+0.0.0.0 ydkwim.targobank.de

@@ -16848,3 +16848,4 @@ ads.exdynsrv.com CNAME .
 ads.faktor.mk CNAME .
 ads.fakulteti.mk CNAME .
 ads.fashionel.mk CNAME .
+ydkwim.targobank.de CNAME .

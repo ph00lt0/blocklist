@@ -16851,3 +16851,4 @@ local-zone: "ads.exdynsrv.com." always_null
 local-zone: "ads.faktor.mk." always_null
 local-zone: "ads.fakulteti.mk." always_null
 local-zone: "ads.fashionel.mk." always_null
+local-zone: "ydkwim.targobank.de." always_null

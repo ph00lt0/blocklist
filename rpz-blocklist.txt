@@ -16852,3 +16852,4 @@ ydkwim.targobank.de CNAME .
 pixiv.net CNAME .
 smoot.apple.cn CNAME .
 netease.com CNAME .
+xhscdn.com CNAME .

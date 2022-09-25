@@ -17409,3 +17409,4 @@ mijn.intwente.nl##mijn-feedback
 ||pixiv.net^
 ||smoot.apple.cn^
 ||netease.com^
+||xhscdn.com^

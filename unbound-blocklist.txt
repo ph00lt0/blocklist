@@ -16895,3 +16895,4 @@ local-zone: "a.applvn.com." always_null
 local-zone: "mobile.smartadserver.com." always_null
 local-zone: "dit.whatsapp.net." always_null
 local-zone: "businessmessages.google.com." always_null
+local-zone: "go.microsoft.com." always_null

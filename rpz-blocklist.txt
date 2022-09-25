@@ -16892,3 +16892,4 @@ a.applvn.com CNAME .
 mobile.smartadserver.com CNAME .
 dit.whatsapp.net CNAME .
 businessmessages.google.com CNAME .
+go.microsoft.com CNAME .

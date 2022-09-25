@@ -16677,3 +16677,4 @@ local-zone: "aic-ngfts.lge.com." always_null
 local-zone: "ad.nettvservices.com." always_null
 local-zone: "log.internetat.tv." always_null
 local-zone: "pelmorex.com." always_null
+local-zone: "logs.roku.com." always_null

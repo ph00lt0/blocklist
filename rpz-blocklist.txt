@@ -16674,3 +16674,4 @@ aic-ngfts.lge.com CNAME .
 ad.nettvservices.com CNAME .
 log.internetat.tv CNAME .
 pelmorex.com CNAME .
+logs.roku.com CNAME .

@@ -17450,3 +17450,4 @@ mijn.intwente.nl##mijn-feedback
 ||rt.applvn.com^
 ||tracking.aatkit.com^
 ||reporting.aatkit.com^
+||rules.aatkit.com^

@@ -17237,3 +17237,4 @@ mijn.intwente.nl##mijn-feedback
 ||events.cid.samba.tv^
 ||tracksrv.zdf.de^
 ||intl.miui.com^
+||intl.xiaomi.com^

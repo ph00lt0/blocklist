@@ -16680,3 +16680,4 @@ ettoday.net CNAME .
 events.cid.samba.tv CNAME .
 tracksrv.zdf.de CNAME .
 intl.miui.com CNAME .
+intl.xiaomi.com CNAME .

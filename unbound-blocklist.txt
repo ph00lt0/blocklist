@@ -16682,3 +16682,4 @@ local-zone: "hbbtv-track.redbutton.de." always_null
 local-zone: "ettoday.net." always_null
 local-zone: "events.cid.samba.tv." always_null
 local-zone: "tracksrv.zdf.de." always_null
+local-zone: "intl.miui.com." always_null

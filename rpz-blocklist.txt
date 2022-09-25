@@ -16679,3 +16679,4 @@ hbbtv-track.redbutton.de CNAME .
 ettoday.net CNAME .
 events.cid.samba.tv CNAME .
 tracksrv.zdf.de CNAME .
+intl.miui.com CNAME .

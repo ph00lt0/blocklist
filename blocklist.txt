@@ -17437,3 +17437,4 @@ mijn.intwente.nl##mijn-feedback
 ||adnexus.net^
 ||telemetry.remoteapp.windowsazure.com^
 ||telemetry.urs.microsoft.com^
+||telemetry.microsoft.us^

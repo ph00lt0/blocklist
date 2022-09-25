@@ -16871,3 +16871,4 @@ api.cortana.ai CNAME .
 adnexus.net CNAME .
 telemetry.remoteapp.windowsazure.com CNAME .
 telemetry.urs.microsoft.com CNAME .
+telemetry.microsoft.us CNAME .

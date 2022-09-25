@@ -16429,6 +16429,7 @@
         "api.cortana.ai",
         "adnexus.net",
         "telemetry.remoteapp.windowsazure.com",
-        "telemetry.urs.microsoft.com"
+        "telemetry.urs.microsoft.com",
+        "telemetry.microsoft.us"
     ]
 }

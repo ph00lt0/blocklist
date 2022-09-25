@@ -16772,3 +16772,4 @@
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 api.samsungtvplus.com
 0.0.0.0 flagship.io
+0.0.0.0 priv.center

@@ -16664,3 +16664,4 @@ oxmvifnvqu.nl CNAME .
 dc.dqa.samsung.com CNAME .
 api.samsungtvplus.com CNAME .
 flagship.io CNAME .
+priv.center CNAME .

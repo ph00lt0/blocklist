@@ -16699,3 +16699,4 @@ local-zone: "rtlog.musical.ly." always_null
 local-zone: "rtlog.tiktokv.com." always_null
 local-zone: "musemuse.cn." always_null
 local-zone: "log.tiktokv.com." always_null
+local-zone: "ib.tiktokv.com." always_null

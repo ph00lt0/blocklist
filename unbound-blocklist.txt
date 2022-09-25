@@ -16671,3 +16671,4 @@ local-zone: "d3rtiwh71i0n7r.cloudfront.net." always_null
 local-zone: "goeuro.com." always_null
 local-zone: "starpopup.com." always_null
 local-zone: "adro.co." always_null
+local-zone: "lgsmartad.com." always_null

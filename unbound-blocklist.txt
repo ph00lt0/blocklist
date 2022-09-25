@@ -16688,3 +16688,4 @@ local-zone: "corio.com." always_null
 local-zone: "faktor.mk." always_null
 local-zone: "pstatp.com." always_null
 local-zone: "xlog.tiktokv.com." always_null
+local-zone: "xlog.byteoversea.com." always_null

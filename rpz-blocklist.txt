@@ -16685,3 +16685,4 @@ corio.com CNAME .
 faktor.mk CNAME .
 pstatp.com CNAME .
 xlog.tiktokv.com CNAME .
+xlog.byteoversea.com CNAME .

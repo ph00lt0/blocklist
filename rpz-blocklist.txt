@@ -16867,3 +16867,4 @@ uve.weibo.com CNAME .
 i3zh.com CNAME .
 dm.bytedance.net CNAME .
 rads.msn.com CNAME .
+api.cortana.ai CNAME .

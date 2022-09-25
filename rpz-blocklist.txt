@@ -16666,3 +16666,4 @@ flagship.io CNAME .
 priv.center CNAME .
 d3rtiwh71i0n7r.cloudfront.net CNAME .
 goeuro.com CNAME .
+starpopup.com CNAME .

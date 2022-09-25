@@ -17223,3 +17223,4 @@ mijn.intwente.nl##mijn-feedback
 ||priv.center^
 ||d3rtiwh71i0n7r.cloudfront.net^
 ||goeuro.com^
+||starpopup.com^

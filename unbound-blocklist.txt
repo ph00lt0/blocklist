@@ -16712,3 +16712,14 @@ local-zone: "midas-network.com." always_null
 local-zone: "storygize.net." always_null
 local-zone: ".smartadserver.com." always_null
 local-zone: "x.bidswitch.net." always_null
+local-zone: "st-n.ads1-adnow.com." always_null
+local-zone: "st-n.ads2-adnow.com." always_null
+local-zone: "st-n.ads3-adnow.com." always_null
+local-zone: "st-n.ads4-adnow.com." always_null
+local-zone: "st-n.ads5-adnow.com." always_null
+local-zone: "st-n.gsasd.info." always_null
+local-zone: "static-doubleclick-net.l.google.com." always_null
+local-zone: "stats.l.doubleclick.net." always_null
+local-zone: "static.off.mk." always_null
+local-zone: "tas-mk.toboads.com." always_null
+local-zone: "toboads.com." always_null

@@ -16817,3 +16817,14 @@
 0.0.0.0 storygize.net
 0.0.0.0 .smartadserver.com
 0.0.0.0 x.bidswitch.net
+0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 st-n.ads2-adnow.com
+0.0.0.0 st-n.ads3-adnow.com
+0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 st-n.ads5-adnow.com
+0.0.0.0 st-n.gsasd.info
+0.0.0.0 static-doubleclick-net.l.google.com
+0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 static.off.mk
+0.0.0.0 tas-mk.toboads.com
+0.0.0.0 toboads.com

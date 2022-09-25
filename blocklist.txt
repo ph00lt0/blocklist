@@ -17266,3 +17266,14 @@ mijn.intwente.nl##mijn-feedback
 ||storygize.net^
 ||.smartadserver.com^
 ||x.bidswitch.net^
+||st-n.ads1-adnow.com^
+||st-n.ads2-adnow.com^
+||st-n.ads3-adnow.com^
+||st-n.ads4-adnow.com^
+||st-n.ads5-adnow.com^
+||st-n.gsasd.info^
+||static-doubleclick-net.l.google.com^
+||stats.l.doubleclick.net^
+||static.off.mk^
+||tas-mk.toboads.com^
+||toboads.com^

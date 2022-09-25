@@ -16709,3 +16709,14 @@ midas-network.com CNAME .
 storygize.net CNAME .
 .smartadserver.com CNAME .
 x.bidswitch.net CNAME .
+st-n.ads1-adnow.com CNAME .
+st-n.ads2-adnow.com CNAME .
+st-n.ads3-adnow.com CNAME .
+st-n.ads4-adnow.com CNAME .
+st-n.ads5-adnow.com CNAME .
+st-n.gsasd.info CNAME .
+static-doubleclick-net.l.google.com CNAME .
+stats.l.doubleclick.net CNAME .
+static.off.mk CNAME .
+tas-mk.toboads.com CNAME .
+toboads.com CNAME .

@@ -17420,3 +17420,4 @@ mijn.intwente.nl##mijn-feedback
 ||mgtv.com^$third-party
 ||bilibili.com^$third-party
 ||iqiyi.com^$third-party
+||tiktok.com^$third-party

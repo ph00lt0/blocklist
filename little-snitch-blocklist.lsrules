@@ -16427,6 +16427,7 @@
         "dm.bytedance.net",
         "rads.msn.com",
         "api.cortana.ai",
-        "adnexus.net"
+        "adnexus.net",
+        "telemetry.remoteapp.windowsazure.com"
     ]
 }

@@ -17435,3 +17435,4 @@ mijn.intwente.nl##mijn-feedback
 ||msn.com^$third-party
 ||api.cortana.ai^
 ||adnexus.net^
+||telemetry.remoteapp.windowsazure.com^

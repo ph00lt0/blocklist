@@ -16991,3 +16991,4 @@
 0.0.0.0 mobileconfig.sascdn.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 tracking.aatkit.com
+0.0.0.0 reporting.aatkit.com

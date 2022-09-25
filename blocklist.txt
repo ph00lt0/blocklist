@@ -17449,3 +17449,4 @@ mijn.intwente.nl##mijn-feedback
 ||mobileconfig.sascdn.com^
 ||rt.applvn.com^
 ||tracking.aatkit.com^
+||reporting.aatkit.com^

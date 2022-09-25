@@ -16883,3 +16883,4 @@ impression.link CNAME .
 mobileconfig.sascdn.com CNAME .
 rt.applvn.com CNAME .
 tracking.aatkit.com CNAME .
+reporting.aatkit.com CNAME .

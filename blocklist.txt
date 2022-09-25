@@ -17447,3 +17447,4 @@ mijn.intwente.nl##mijn-feedback
 ||firebaselogging-pa.googleapis.com^
 ||impression.link^
 ||mobileconfig.sascdn.com^
+||rt.applvn.com^

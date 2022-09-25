@@ -16803,3 +16803,4 @@
 0.0.0.0 rtlog.musical.ly
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 musemuse.cn
+0.0.0.0 log.tiktokv.com

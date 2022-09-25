@@ -16695,3 +16695,4 @@ rtlog.isnssdk.com CNAME .
 rtlog.musical.ly CNAME .
 rtlog.tiktokv.com CNAME .
 musemuse.cn CNAME .
+log.tiktokv.com CNAME .

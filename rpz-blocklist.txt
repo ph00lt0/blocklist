@@ -16782,3 +16782,12 @@ keepaneyegdemk.hit.gemius.pl CNAME .
 keepaneyemk.adocean.pl CNAME .
 lacmus.mk CNAME .
 live.acads.net CNAME .
+10bet.com CNAME .
+a.kajgana.com CNAME .
+a.sitel.com.mk CNAME .
+a.skopjeinfo.mk CNAME .
+acadv.net CNAME .
+adxbid.info CNAME .
+ad.httpool.com CNAME .
+ad.mox.tv CNAME .
+adexchange.mk CNAME .

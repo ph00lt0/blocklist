@@ -16890,3 +16890,12 @@
 0.0.0.0 keepaneyemk.adocean.pl
 0.0.0.0 lacmus.mk
 0.0.0.0 live.acads.net
+0.0.0.0 10bet.com
+0.0.0.0 a.kajgana.com
+0.0.0.0 a.sitel.com.mk
+0.0.0.0 a.skopjeinfo.mk
+0.0.0.0 acadv.net
+0.0.0.0 adxbid.info
+0.0.0.0 ad.httpool.com
+0.0.0.0 ad.mox.tv
+0.0.0.0 adexchange.mk

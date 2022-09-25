@@ -16785,3 +16785,12 @@ local-zone: "keepaneyegdemk.hit.gemius.pl." always_null
 local-zone: "keepaneyemk.adocean.pl." always_null
 local-zone: "lacmus.mk." always_null
 local-zone: "live.acads.net." always_null
+local-zone: "10bet.com." always_null
+local-zone: "a.kajgana.com." always_null
+local-zone: "a.sitel.com.mk." always_null
+local-zone: "a.skopjeinfo.mk." always_null
+local-zone: "acadv.net." always_null
+local-zone: "adxbid.info." always_null
+local-zone: "ad.httpool.com." always_null
+local-zone: "ad.mox.tv." always_null
+local-zone: "adexchange.mk." always_null

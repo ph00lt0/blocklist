@@ -17445,3 +17445,4 @@ mijn.intwente.nl##mijn-feedback
 ||android-context-data.googleapis.com^
 ||optimizationguide-pa.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
+||impression.link^

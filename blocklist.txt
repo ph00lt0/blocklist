@@ -17419,3 +17419,4 @@ mijn.intwente.nl##mijn-feedback
 ||189smarthome.com^
 ||mgtv.com^$third-party
 ||bilibili.com^$third-party
+||iqiyi.com^$third-party

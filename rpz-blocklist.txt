@@ -16859,3 +16859,4 @@ cloudbae.cn CNAME .
 apicloud.com CNAME .
 gotokeep.com CNAME .
 badmintoncn.com CNAME .
+189smarthome.com CNAME .

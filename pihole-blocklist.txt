@@ -16967,3 +16967,4 @@
 0.0.0.0 apicloud.com
 0.0.0.0 gotokeep.com
 0.0.0.0 badmintoncn.com
+0.0.0.0 189smarthome.com

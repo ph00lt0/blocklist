@@ -16961,3 +16961,4 @@
 0.0.0.0 smoot.apple.cn
 0.0.0.0 netease.com
 0.0.0.0 xhscdn.com
+0.0.0.0 mddcloud.com

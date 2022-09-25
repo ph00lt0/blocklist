@@ -17417,3 +17417,4 @@ mijn.intwente.nl##mijn-feedback
 ||gotokeep.com^
 ||badmintoncn.com^
 ||189smarthome.com^
+||mgtv.com^$third-party

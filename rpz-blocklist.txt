@@ -16670,3 +16670,4 @@ starpopup.com CNAME .
 adro.co CNAME .
 lgsmartad.com CNAME .
 rdx2.lgtvsdp.com CNAME .
+aic-ngfts.lge.com CNAME .

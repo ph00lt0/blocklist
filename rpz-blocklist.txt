@@ -16836,3 +16836,15 @@ c.mgid.com CNAME .
 cdn.adskeeper.co.uk CNAME .
 cdn.mgid.com CNAME .
 cdn.revcontent.com CNAME .
+1cm.com.mk CNAME .
+360stepeni.mk CNAME .
+365.mk CNAME .
+ads.com.mk CNAME .
+crnobelo.mk CNAME .
+deca.mk CNAME .
+ekipa.mk CNAME .
+ads.emedia.mk CNAME .
+ads.exdynsrv.com CNAME .
+ads.faktor.mk CNAME .
+ads.fakulteti.mk CNAME .
+ads.fashionel.mk CNAME .

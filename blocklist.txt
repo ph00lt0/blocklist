@@ -17393,3 +17393,15 @@ mijn.intwente.nl##mijn-feedback
 ||cdn.adskeeper.co.uk^
 ||cdn.mgid.com^
 ||cdn.revcontent.com^
+||1cm.com.mk^
+||360stepeni.mk^
+||365.mk^
+||ads.com.mk^
+||crnobelo.mk^
+||deca.mk^
+||ekipa.mk^
+||ads.emedia.mk^
+||ads.exdynsrv.com^
+||ads.faktor.mk^
+||ads.fakulteti.mk^
+||ads.fashionel.mk^

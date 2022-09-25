@@ -16944,3 +16944,15 @@
 0.0.0.0 cdn.adskeeper.co.uk
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.revcontent.com
+0.0.0.0 1cm.com.mk
+0.0.0.0 360stepeni.mk
+0.0.0.0 365.mk
+0.0.0.0 ads.com.mk
+0.0.0.0 crnobelo.mk
+0.0.0.0 deca.mk
+0.0.0.0 ekipa.mk
+0.0.0.0 ads.emedia.mk
+0.0.0.0 ads.exdynsrv.com
+0.0.0.0 ads.faktor.mk
+0.0.0.0 ads.fakulteti.mk
+0.0.0.0 ads.fashionel.mk

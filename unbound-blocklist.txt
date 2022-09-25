@@ -16839,3 +16839,15 @@ local-zone: "c.mgid.com." always_null
 local-zone: "cdn.adskeeper.co.uk." always_null
 local-zone: "cdn.mgid.com." always_null
 local-zone: "cdn.revcontent.com." always_null
+local-zone: "1cm.com.mk." always_null
+local-zone: "360stepeni.mk." always_null
+local-zone: "365.mk." always_null
+local-zone: "ads.com.mk." always_null
+local-zone: "crnobelo.mk." always_null
+local-zone: "deca.mk." always_null
+local-zone: "ekipa.mk." always_null
+local-zone: "ads.emedia.mk." always_null
+local-zone: "ads.exdynsrv.com." always_null
+local-zone: "ads.faktor.mk." always_null
+local-zone: "ads.fakulteti.mk." always_null
+local-zone: "ads.fashionel.mk." always_null

@@ -17422,3 +17422,5 @@ mijn.intwente.nl##mijn-feedback
 ||iqiyi.com^$third-party
 ||tiktok.com^$third-party
 ||instagram.com^$third-party
+||trwitter.com^$third-party
+||twitter.com^$third-party

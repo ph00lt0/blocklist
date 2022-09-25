@@ -17234,3 +17234,4 @@ mijn.intwente.nl##mijn-feedback
 ||logs.roku.com^
 ||hbbtv-track.redbutton.de^
 ||ettoday.net^
+||events.cid.samba.tv^

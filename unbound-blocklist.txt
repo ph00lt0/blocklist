@@ -16680,3 +16680,4 @@ local-zone: "pelmorex.com." always_null
 local-zone: "logs.roku.com." always_null
 local-zone: "hbbtv-track.redbutton.de." always_null
 local-zone: "ettoday.net." always_null
+local-zone: "events.cid.samba.tv." always_null

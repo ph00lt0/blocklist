@@ -16997,3 +16997,4 @@
 0.0.0.0 rules3.aatkit.com
 0.0.0.0 api.pubnative.net
 0.0.0.0 a.applvn.com
+0.0.0.0 mobile.smartadserver.com

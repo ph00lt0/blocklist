@@ -16892,3 +16892,4 @@ local-zone: "rules2.aatkit.com." always_null
 local-zone: "rules3.aatkit.com." always_null
 local-zone: "api.pubnative.net." always_null
 local-zone: "a.applvn.com." always_null
+local-zone: "mobile.smartadserver.com." always_null

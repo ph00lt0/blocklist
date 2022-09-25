@@ -16889,3 +16889,4 @@ rules2.aatkit.com CNAME .
 rules3.aatkit.com CNAME .
 api.pubnative.net CNAME .
 a.applvn.com CNAME .
+mobile.smartadserver.com CNAME .

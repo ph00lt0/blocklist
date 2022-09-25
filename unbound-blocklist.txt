@@ -16723,3 +16723,14 @@ local-zone: "stats.l.doubleclick.net." always_null
 local-zone: "static.off.mk." always_null
 local-zone: "tas-mk.toboads.com." always_null
 local-zone: "toboads.com." always_null
+local-zone: "rev.balkanmediagroup.com." always_null
+local-zone: "revcontent.com." always_null
+local-zone: "revive.futura.net.mk." always_null
+local-zone: "rtb.mfadsrvr.com." always_null
+local-zone: "s-img.adskeeper.co.uk." always_null
+local-zone: "s-img.mgid.com." always_null
+local-zone: "s2blosh.com." always_null
+local-zone: "sa.daily.mk." always_null
+local-zone: "script.dotmetrics.net." always_null
+local-zone: "servicer.adskeeper.co.uk." always_null
+local-zone: "servicer.mgid.com." always_null

@@ -16720,3 +16720,14 @@ stats.l.doubleclick.net CNAME .
 static.off.mk CNAME .
 tas-mk.toboads.com CNAME .
 toboads.com CNAME .
+rev.balkanmediagroup.com CNAME .
+revcontent.com CNAME .
+revive.futura.net.mk CNAME .
+rtb.mfadsrvr.com CNAME .
+s-img.adskeeper.co.uk CNAME .
+s-img.mgid.com CNAME .
+s2blosh.com CNAME .
+sa.daily.mk CNAME .
+script.dotmetrics.net CNAME .
+servicer.adskeeper.co.uk CNAME .
+servicer.mgid.com CNAME .

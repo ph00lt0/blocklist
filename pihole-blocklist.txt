@@ -16828,3 +16828,14 @@
 0.0.0.0 static.off.mk
 0.0.0.0 tas-mk.toboads.com
 0.0.0.0 toboads.com
+0.0.0.0 rev.balkanmediagroup.com
+0.0.0.0 revcontent.com
+0.0.0.0 revive.futura.net.mk
+0.0.0.0 rtb.mfadsrvr.com
+0.0.0.0 s-img.adskeeper.co.uk
+0.0.0.0 s-img.mgid.com
+0.0.0.0 s2blosh.com
+0.0.0.0 sa.daily.mk
+0.0.0.0 script.dotmetrics.net
+0.0.0.0 servicer.adskeeper.co.uk
+0.0.0.0 servicer.mgid.com

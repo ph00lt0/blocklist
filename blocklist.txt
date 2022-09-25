@@ -17453,3 +17453,4 @@ mijn.intwente.nl##mijn-feedback
 ||rules.aatkit.com^
 ||rules2.aatkit.com^
 ||rules3.aatkit.com^
+||api.pubnative.net^

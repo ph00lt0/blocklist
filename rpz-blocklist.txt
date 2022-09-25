@@ -16693,3 +16693,4 @@ test-ads.tiktok.com CNAME .
 rtlog.byteoversea.com CNAME .
 rtlog.isnssdk.com CNAME .
 rtlog.musical.ly CNAME .
+rtlog.tiktokv.com CNAME .

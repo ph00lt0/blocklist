@@ -17250,3 +17250,4 @@ mijn.intwente.nl##mijn-feedback
 ||rtlog.byteoversea.com^
 ||rtlog.isnssdk.com^
 ||rtlog.musical.ly^
+||rtlog.tiktokv.com^

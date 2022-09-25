@@ -16696,3 +16696,4 @@ local-zone: "test-ads.tiktok.com." always_null
 local-zone: "rtlog.byteoversea.com." always_null
 local-zone: "rtlog.isnssdk.com." always_null
 local-zone: "rtlog.musical.ly." always_null
+local-zone: "rtlog.tiktokv.com." always_null

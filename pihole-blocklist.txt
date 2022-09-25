@@ -16958,3 +16958,4 @@
 0.0.0.0 ads.fashionel.mk
 0.0.0.0 ydkwim.targobank.de
 0.0.0.0 pixiv.net
+0.0.0.0 smoot.apple.cn

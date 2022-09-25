@@ -16897,3 +16897,4 @@ local-zone: "dit.whatsapp.net." always_null
 local-zone: "businessmessages.google.com." always_null
 local-zone: "go.microsoft.com." always_null
 local-zone: "app.dmws.plus." always_null
+local-zone: "cms-api.dirk.nl." always_null

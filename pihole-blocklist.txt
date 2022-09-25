@@ -14928,7 +14928,7 @@
 0.0.0.0 d3or5d0jdz94or.cloudfront.net
 0.0.0.0 d3pce9ddsicpgw.cloudfront.net
 0.0.0.0 d3qtst53kh2p5e.cloudfront.net
-0.0.0.0 d3r3h30p75xj6a.cloudfront.net
+! allow d3r3h30p75xj6a.cloudfront.net reason: CDN
 0.0.0.0 d3tw7elnk2m6f4.cloudfront.net
 0.0.0.0 d41.co
 0.0.0.0 dahta.fr

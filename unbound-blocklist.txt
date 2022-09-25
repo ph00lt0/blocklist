@@ -14823,7 +14823,7 @@ local-zone: "d3odp2r1osuwn0.cloudfront.net." always_null
 local-zone: "d3or5d0jdz94or.cloudfront.net." always_null
 local-zone: "d3pce9ddsicpgw.cloudfront.net." always_null
 local-zone: "d3qtst53kh2p5e.cloudfront.net." always_null
-local-zone: "d3r3h30p75xj6a.cloudfront.net." always_null
+# allow d3r3h30p75xj6a.cloudfront.net reason: CDN
 local-zone: "d3tw7elnk2m6f4.cloudfront.net." always_null
 local-zone: "d41.co." always_null
 local-zone: "dahta.fr." always_null

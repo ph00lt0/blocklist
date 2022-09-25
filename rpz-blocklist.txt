@@ -14820,7 +14820,7 @@ d3odp2r1osuwn0.cloudfront.net CNAME .
 d3or5d0jdz94or.cloudfront.net CNAME .
 d3pce9ddsicpgw.cloudfront.net CNAME .
 d3qtst53kh2p5e.cloudfront.net CNAME .
-d3r3h30p75xj6a.cloudfront.net CNAME .
+; allow d3r3h30p75xj6a.cloudfront.net reason: CDN
 d3tw7elnk2m6f4.cloudfront.net CNAME .
 d41.co CNAME .
 dahta.fr CNAME .

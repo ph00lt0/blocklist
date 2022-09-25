@@ -16849,3 +16849,4 @@ ads.faktor.mk CNAME .
 ads.fakulteti.mk CNAME .
 ads.fashionel.mk CNAME .
 ydkwim.targobank.de CNAME .
+pixiv.net CNAME .

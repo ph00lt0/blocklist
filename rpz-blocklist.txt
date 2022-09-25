@@ -16873,3 +16873,4 @@ telemetry.remoteapp.windowsazure.com CNAME .
 telemetry.urs.microsoft.com CNAME .
 telemetry.microsoft.us CNAME .
 data.microsoft.com.akadns.net CNAME .
+edgeoffer.microsoft.com CNAME .

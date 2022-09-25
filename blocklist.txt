@@ -17439,3 +17439,4 @@ mijn.intwente.nl##mijn-feedback
 ||telemetry.urs.microsoft.com^
 ||telemetry.microsoft.us^
 ||data.microsoft.com.akadns.net^
+||edgeoffer.microsoft.com^

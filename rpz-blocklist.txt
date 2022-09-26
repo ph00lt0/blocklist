@@ -16924,3 +16924,4 @@ lnk.smart-goto-c3.tech CNAME .
 tracking.explorepulse.com CNAME .
 explorepulse.com CNAME .
 email.signupgenius.com CNAME .
+signupgenius.com CNAME .

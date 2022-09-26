@@ -16927,3 +16927,4 @@ local-zone: "lnk.smart-goto-c3.tech." always_null
 local-zone: "tracking.explorepulse.com." always_null
 local-zone: "explorepulse.com." always_null
 local-zone: "email.signupgenius.com." always_null
+local-zone: "signupgenius.com." always_null

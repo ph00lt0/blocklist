@@ -17503,3 +17503,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||ipc.org^$removeparam=_hsenc
 ||ads2.bid^
 ||ulyvjty4rd.com^
+||hirlevel.mostjoaron.hu^

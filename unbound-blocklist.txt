@@ -16929,3 +16929,4 @@ local-zone: "explorepulse.com." always_null
 local-zone: "email.signupgenius.com." always_null
 local-zone: "signupgenius.com." always_null
 local-zone: "mailing.mijndomein.nl." always_null
+local-zone: "affinity.net." always_null

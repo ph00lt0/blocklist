@@ -16926,3 +16926,4 @@ explorepulse.com CNAME .
 email.signupgenius.com CNAME .
 signupgenius.com CNAME .
 mailing.mijndomein.nl CNAME .
+affinity.net CNAME .

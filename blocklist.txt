@@ -17520,3 +17520,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||email.signupgenius.com^
 ||signupgenius.com^
 ||mailing.mijndomein.nl^
+||affinity.net^

@@ -17484,3 +17484,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||info.virtualization-online.org^
 ||gophishacatch.liq.com.br^$removeparam=rid
 ||email.vervemail.com^
+||afternic.com^$removeparam=traffic_id

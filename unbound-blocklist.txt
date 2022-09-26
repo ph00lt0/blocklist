@@ -16925,3 +16925,4 @@ local-zone: "clkmg.com." always_null
 local-zone: "links.new-pro.fr." always_null
 local-zone: "lnk.smart-goto-c3.tech." always_null
 local-zone: "tracking.explorepulse.com." always_null
+local-zone: "explorepulse.com." always_null

@@ -17014,3 +17014,4 @@
 0.0.0.0 survey.clevelandclinic.org
 0.0.0.0 e.lolaliza.com
 0.0.0.0 renouveler-carte-vitale.com
+0.0.0.0 sfr-anti-fraude.fr

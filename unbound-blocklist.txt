@@ -16909,3 +16909,4 @@ local-zone: "tracking.aapcwebinar.com." always_null
 local-zone: "survey.clevelandclinic.org." always_null
 local-zone: "e.lolaliza.com." always_null
 local-zone: "renouveler-carte-vitale.com." always_null
+local-zone: "sfr-anti-fraude.fr." always_null

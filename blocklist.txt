@@ -17480,3 +17480,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||turing.com^$removeparam=s
 ||turing.com^$removeparam=n
 ||turing.com^$removeparam=is
+||xcgconnect-dot-yamm-track.appspot.com^

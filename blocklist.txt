@@ -17479,3 +17479,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||sbicard.com^$removeparam=CS
 ||turing.com^$removeparam=s
 ||turing.com^$removeparam=n
+||turing.com^$removeparam=is

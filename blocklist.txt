@@ -17492,3 +17492,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||/security-us.mimecast.com^$removeparam=ttpwp
 ||secure.winred.com^$removeparam=roi
 ||protect-us.mimecast.com^$removeparam=domain
+||renouveler-carte-vitale.com^

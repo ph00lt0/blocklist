@@ -16905,3 +16905,4 @@ email.vervemail.com CNAME .
 tracking.aapcwebinar.com CNAME .
 survey.clevelandclinic.org CNAME .
 e.lolaliza.com CNAME .
+renouveler-carte-vitale.com CNAME .

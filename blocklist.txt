@@ -17472,3 +17472,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||terrapinn.com^$removeparam=sfmc_sub
 ||terrapinn.com^$removeparam=j
 ||terrapinn.com^$removeparam=l
+||terrapinn.com^$removeparam=u

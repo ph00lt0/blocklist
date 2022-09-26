@@ -14767,7 +14767,7 @@ crazyshit.com CNAME .
 crmservice.eu CNAME .
 ctools.nl CNAME .
 cubic-colors.nl CNAME .
-cuci.nl CNAME .
+; allow cuci.nl reason: CDN
 custobar.com CNAME .
 customersaas.com CNAME .
 cvweu-igs-pr-cdn-001.azureedge.net CNAME .

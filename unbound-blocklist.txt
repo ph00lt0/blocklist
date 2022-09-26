@@ -14770,7 +14770,7 @@ local-zone: "crazyshit.com." always_null
 local-zone: "crmservice.eu." always_null
 local-zone: "ctools.nl." always_null
 local-zone: "cubic-colors.nl." always_null
-local-zone: "cuci.nl." always_null
+# allow cuci.nl reason: CDN
 local-zone: "custobar.com." always_null
 local-zone: "customersaas.com." always_null
 local-zone: "cvweu-igs-pr-cdn-001.azureedge.net." always_null

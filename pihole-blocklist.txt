@@ -14875,7 +14875,7 @@
 0.0.0.0 crmservice.eu
 0.0.0.0 ctools.nl
 0.0.0.0 cubic-colors.nl
-0.0.0.0 cuci.nl
+! allow cuci.nl reason: CDN
 0.0.0.0 custobar.com
 0.0.0.0 customersaas.com
 0.0.0.0 cvweu-igs-pr-cdn-001.azureedge.net

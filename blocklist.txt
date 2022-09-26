@@ -15195,7 +15195,7 @@ $removeparam=engagement_type
 ||crmservice.eu^
 ||ctools.nl^
 ||cubic-colors.nl^
-||cuci.nl^
+||cuci.nl^$badfilter  # CDN
 ||custobar.com^
 ||customersaas.com^
 ||cvweu-igs-pr-cdn-001.azureedge.net^

@@ -17489,7 +17489,7 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||tracking.aapcwebinar.com^
 ||survey.clevelandclinic.org^
 ||e.lolaliza.com^
-||/security-us.mimecast.com^$removeparam=ttpwp
+||security-us.mimecast.com^$removeparam=ttpwp
 ||secure.winred.com^$removeparam=roi
 ||protect-us.mimecast.com^$removeparam=domain
 ||renouveler-carte-vitale.com^
@@ -17517,3 +17517,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||lnk.smart-goto-c3.tech^
 ||tracking.explorepulse.com^
 ||explorepulse.com^
+||email.signupgenius.com^

@@ -16901,3 +16901,4 @@ click.tp2.terrapinn.com CNAME .
 ws.clickup.com CNAME .
 xcgconnect-dot-yamm-track.appspot.com CNAME .
 info.virtualization-online.org CNAME .
+email.vervemail.com CNAME .

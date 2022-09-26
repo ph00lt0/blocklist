@@ -17487,3 +17487,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||afternic.com^$removeparam=traffic_id
 ||afternic.com^$removeparam=traffic_type
 ||tracking.aapcwebinar.com^
+||survey.clevelandclinic.org^

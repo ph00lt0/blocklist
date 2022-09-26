@@ -16914,3 +16914,4 @@ local-zone: "japan-afresh.cyou." always_null
 local-zone: "online-make-money-from-home.store." always_null
 local-zone: "6vu6766zq.cn." always_null
 local-zone: "links.notification.intuit.com." always_null
+local-zone: "go.ipc.org." always_null

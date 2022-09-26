@@ -16901,3 +16901,4 @@ local-zone: "cms-api.dirk.nl." always_null
 local-zone: "api.fpjs.io." always_null
 local-zone: "fqtag.com." always_null
 local-zone: "click.tp2.terrapinn.com." always_null
+local-zone: "ws.clickup.com." always_null

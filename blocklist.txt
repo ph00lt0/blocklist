@@ -17508,3 +17508,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||explore.absorblms.com^
 ||fromsmash.com^$removeparam=source
 ||fromsmash.com^$removeparam=medium
+||startus-insights.com^

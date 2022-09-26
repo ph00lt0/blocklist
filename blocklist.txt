@@ -17514,3 +17514,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||pro-adhesion.sncf.com^$removeparam=canal
 ||pro-adhesion.sncf.com^$removeparam=src
 ||pro-adhesion.sncf.com^$removeparam=qualif25
+||lnk.smart-goto-c3.tech^

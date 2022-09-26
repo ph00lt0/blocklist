@@ -16923,3 +16923,4 @@ local-zone: "explore.absorblms.com." always_null
 local-zone: "startus-insights.com." always_null
 local-zone: "clkmg.com." always_null
 local-zone: "links.new-pro.fr." always_null
+local-zone: "lnk.smart-goto-c3.tech." always_null

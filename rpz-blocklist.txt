@@ -16918,3 +16918,4 @@ hirlevel.mostjoaron.hu CNAME .
 events.bizzabo.com CNAME .
 explore.absorblms.com CNAME .
 startus-insights.com CNAME .
+clkmg.com CNAME .

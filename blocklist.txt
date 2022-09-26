@@ -17501,3 +17501,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||go.ipc.org^
 ||ipc.org^$removeparam=_hsmi
 ||ipc.org^$removeparam=_hsenc
+||ads2.bid^

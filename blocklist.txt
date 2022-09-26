@@ -17469,3 +17469,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||fqtag.com^
 ||worklife.io^$removeparam=of_m
 ||click.tp2.terrapinn.com^
+||terrapinn.com^$removeparam=sfmc_sub

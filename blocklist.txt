@@ -17476,3 +17476,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||terrapinn.com^$removeparam=jb
 ||terrapinn.com^$removeparam=mid
 ||ws.clickup.com^
+||sbicard.com^$removeparam=CS

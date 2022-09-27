@@ -16940,3 +16940,4 @@ local-zone: "Newsletterails..com.." always_null
 local-zone: "rfmquwxods.au." always_null
 local-zone: "cartrawler.com." always_null
 local-zone: "sp.booking.com." always_null
+local-zone: "e.transavia.com." always_null

@@ -17524,3 +17524,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||linknavy.nl^
 ||linknavigator.nl^
 ||bannerstartpagina.nl^
+||mail2.instantcrush.nl^

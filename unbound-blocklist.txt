@@ -16938,3 +16938,4 @@ local-zone: "goedbegin.be." always_null
 local-zone: "jougids.nl." always_null
 local-zone: "Newsletterails..com.." always_null
 local-zone: "rfmquwxods.au." always_null
+local-zone: "cartrawler.com." always_null

@@ -16934,3 +16934,4 @@ local-zone: "linknavy.nl." always_null
 local-zone: "linknavigator.nl." always_null
 local-zone: "bannerstartpagina.nl." always_null
 local-zone: "mail2.instantcrush.nl." always_null
+local-zone: "goedbegin.be." always_null

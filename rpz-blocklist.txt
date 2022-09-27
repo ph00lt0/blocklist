@@ -16936,3 +16936,4 @@ jougids.nl CNAME .
 Newsletterails..com. CNAME .
 rfmquwxods.au CNAME .
 cartrawler.com CNAME .
+sp.booking.com CNAME .

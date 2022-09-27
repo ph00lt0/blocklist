@@ -16944,3 +16944,4 @@ local-zone: "e.transavia.com." always_null
 local-zone: "cdn.msdp1.com." always_null
 local-zone: "surfplezier.nl." always_null
 local-zone: "jouwstartonline.nl." always_null
+local-zone: "jouwvindplaats.nl." always_null

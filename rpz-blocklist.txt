@@ -16944,3 +16944,4 @@ jouwstartonline.nl CNAME .
 jouwvindplaats.nl CNAME .
 handigestart.nl CNAME .
 startpleintje.nl CNAME .
+naturallyhealthymind.com CNAME .

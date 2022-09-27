@@ -16930,3 +16930,4 @@ local-zone: "email.signupgenius.com." always_null
 local-zone: "signupgenius.com." always_null
 local-zone: "mailing.mijndomein.nl." always_null
 local-zone: "affinity.net." always_null
+local-zone: "linknavy.nl." always_null

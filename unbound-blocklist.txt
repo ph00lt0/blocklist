@@ -16955,3 +16955,4 @@ local-zone: "loopme.me." always_null
 local-zone: "iwettefashion.pl." always_null
 local-zone: "engagementboost-upgradeinsta.com." always_null
 local-zone: "engagementboost.com." always_null
+local-zone: "sijoitusrahastot.org." always_null

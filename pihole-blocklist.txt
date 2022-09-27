@@ -17040,3 +17040,4 @@
 0.0.0.0 bannerstartpagina.nl
 0.0.0.0 mail2.instantcrush.nl
 0.0.0.0 goedbegin.be
+0.0.0.0 jougids.nl

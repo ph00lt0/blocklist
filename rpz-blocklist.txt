@@ -16932,3 +16932,4 @@ linknavigator.nl CNAME .
 bannerstartpagina.nl CNAME .
 mail2.instantcrush.nl CNAME .
 goedbegin.be CNAME .
+jougids.nl CNAME .

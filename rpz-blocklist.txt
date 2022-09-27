@@ -16947,3 +16947,4 @@ startpleintje.nl CNAME .
 naturallyhealthymind.com CNAME .
 linkhaven.nl CNAME .
 toplinkjes.com CNAME .
+startupdate.nl CNAME .

@@ -17533,3 +17533,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||sp.booking.com^
 ||e.transavia.com^
 ||cdn.msdp1.com^
+||surfplezier.nl^

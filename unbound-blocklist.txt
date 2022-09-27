@@ -16932,3 +16932,4 @@ local-zone: "mailing.mijndomein.nl." always_null
 local-zone: "affinity.net." always_null
 local-zone: "linknavy.nl." always_null
 local-zone: "linknavigator.nl." always_null
+local-zone: "bannerstartpagina.nl." always_null

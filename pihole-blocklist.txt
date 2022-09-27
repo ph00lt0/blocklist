@@ -17037,3 +17037,4 @@
 0.0.0.0 affinity.net
 0.0.0.0 linknavy.nl
 0.0.0.0 linknavigator.nl
+0.0.0.0 bannerstartpagina.nl

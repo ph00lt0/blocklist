@@ -17548,3 +17548,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||engagementboost.com^
 ||sijoitusrahastot.org^
 ||bol.com^$removeparam=Referrer
+||klantreactie.bol.com^$removeparam=mailing

@@ -16928,3 +16928,4 @@ signupgenius.com CNAME .
 mailing.mijndomein.nl CNAME .
 affinity.net CNAME .
 linknavy.nl CNAME .
+linknavigator.nl CNAME .

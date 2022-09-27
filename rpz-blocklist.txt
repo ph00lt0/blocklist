@@ -16942,3 +16942,4 @@ cdn.msdp1.com CNAME .
 surfplezier.nl CNAME .
 jouwstartonline.nl CNAME .
 jouwvindplaats.nl CNAME .
+handigestart.nl CNAME .

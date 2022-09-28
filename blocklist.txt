@@ -17580,3 +17580,4 @@ debijenkorf.nl##.toast--show.toast
 ||ad.kazakinfo.com^
 ||ad.ourgame.com^
 ||adcdn.pingan.com^
+||advert.kf5.com^

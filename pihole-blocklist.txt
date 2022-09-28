@@ -17091,3 +17091,4 @@
 0.0.0.0 ad.kazakinfo.com
 0.0.0.0 ad.ourgame.com
 0.0.0.0 adcdn.pingan.com
+0.0.0.0 advert.kf5.com

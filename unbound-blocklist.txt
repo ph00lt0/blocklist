@@ -16999,3 +16999,4 @@ local-zone: "track.rutarget.ru." always_null
 local-zone: "str.hit.gemius.pl^." always_null
 local-zone: "href.li." always_null
 local-zone: "ads.tdbank.com." always_null
+local-zone: "adwolf.ru." always_null

@@ -17023,3 +17023,4 @@ local-zone: "durasite.net." always_null
 local-zone: "afl.rakuten.co.jp." always_null
 local-zone: "trafficguard.ai." always_null
 local-zone: "click.trafficguard.ai." always_null
+local-zone: "links.getblueshift.com." always_null

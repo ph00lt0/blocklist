@@ -17578,3 +17578,4 @@ debijenkorf.nl##.toast--show.toast
 ||ad.10010.com^
 ||ad.abchina.com^
 ||ad.kazakinfo.com^
+||ad.ourgame.com^

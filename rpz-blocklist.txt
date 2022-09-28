@@ -17094,3 +17094,4 @@ newpipe.live CNAME .
 gambling.com CNAME .
 casino.org CNAME .
 bovoda.lv CNAME .
+bovoda.com CNAME .

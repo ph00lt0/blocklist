@@ -17097,3 +17097,4 @@ local-zone: "newpipe.live." always_null
 local-zone: "gambling.com." always_null
 local-zone: "casino.org." always_null
 local-zone: "bovoda.lv." always_null
+local-zone: "bovoda.com." always_null

@@ -17692,3 +17692,4 @@ $removeparam=aclk
 ||gambling.com^
 ||casino.org^
 ||bovoda.lv^
+||bovoda.com^

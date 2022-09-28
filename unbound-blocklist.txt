@@ -16967,3 +16967,4 @@ local-zone: "ppcprotect.com." always_null
 local-zone: "monitor.ppcprotect.com." always_null
 local-zone: "info.layertec.nl." always_null
 local-zone: "cdn.retailrocket.net." always_null
+local-zone: "iridion.de." always_null

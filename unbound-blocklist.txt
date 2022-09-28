@@ -16989,3 +16989,4 @@ local-zone: "adcdn.pingan.com." always_null
 local-zone: "advert.kf5.com." always_null
 local-zone: "api.ads.tvb.com." always_null
 local-zone: "app-advertise.zhihuishu.com." always_null
+local-zone: "buyad.bi-xenon.cn." always_null

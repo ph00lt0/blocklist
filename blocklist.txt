@@ -17681,3 +17681,4 @@ $removeparam=aclk
 ||data-analytics.wearetriple.com^
 ||omnichannel-solutions.wearetriple.com^
 ||star.wearetriple.com^
+||chattybadger-wocket.wearetriple.com^

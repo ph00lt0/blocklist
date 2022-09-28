@@ -17083,3 +17083,4 @@ lp.wearetriple.com CNAME .
 data-analytics.wearetriple.com CNAME .
 omnichannel-solutions.wearetriple.com CNAME .
 star.wearetriple.com CNAME .
+chattybadger-wocket.wearetriple.com CNAME .

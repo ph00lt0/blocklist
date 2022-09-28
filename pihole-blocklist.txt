@@ -17183,3 +17183,4 @@
 0.0.0.0 acc-data-analytics.wearetriple.com
 0.0.0.0 acc-gtm.wearetriple.com
 0.0.0.0 acc-preview-gtm.wearetriple.com
+0.0.0.0 acc-omnichannel-solutions.wearetriple.com

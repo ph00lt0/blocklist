@@ -17075,3 +17075,4 @@ face-app.wearetriple.com CNAME .
 acc-data-analytics.wearetriple.com CNAME .
 acc-gtm.wearetriple.com CNAME .
 acc-preview-gtm.wearetriple.com CNAME .
+acc-omnichannel-solutions.wearetriple.com CNAME .

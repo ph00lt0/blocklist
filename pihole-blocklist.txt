@@ -17123,3 +17123,4 @@
 0.0.0.0 sellpoint.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 virt.exacttarget.com
+0.0.0.0 gs.statcounter.com

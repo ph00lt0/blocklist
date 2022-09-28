@@ -17025,3 +17025,4 @@ local-zone: "trafficguard.ai." always_null
 local-zone: "click.trafficguard.ai." always_null
 local-zone: "links.getblueshift.com." always_null
 local-zone: "getblueshift.com." always_null
+local-zone: "go.scorptec.com.au." always_null

@@ -17022,3 +17022,4 @@ trafficguard.ai CNAME .
 click.trafficguard.ai CNAME .
 links.getblueshift.com CNAME .
 getblueshift.com CNAME .
+go.scorptec.com.au CNAME .

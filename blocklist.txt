@@ -17608,3 +17608,4 @@ debijenkorf.nl##.toast--show.toast
 ||taobao.com^
 ||dable.io^
 ||tlaol.com^
+||a.sellpoint.com^

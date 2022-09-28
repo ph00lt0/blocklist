@@ -17633,3 +17633,4 @@ debijenkorf.nl##.toast--show.toast
 ||support-beacon.nakanohito.jp^
 ||promo.gramedia.com^
 ||leadpages.net^
+||health.halodoc.com^

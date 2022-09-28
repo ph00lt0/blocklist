@@ -17071,3 +17071,4 @@
 0.0.0.0 ppcprotect.com
 0.0.0.0 monitor.ppcprotect.com
 0.0.0.0 info.layertec.nl
+0.0.0.0 cdn.retailrocket.net

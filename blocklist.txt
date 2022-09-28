@@ -17559,3 +17559,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||ppcprotect.com^
 ||monitor.ppcprotect.com^
 ||info.layertec.nl^
+||cdn.retailrocket.net^

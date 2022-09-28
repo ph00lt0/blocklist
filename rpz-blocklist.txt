@@ -16963,3 +16963,4 @@ suggestqueries.google.com CNAME .
 ppcprotect.com CNAME .
 monitor.ppcprotect.com CNAME .
 info.layertec.nl CNAME .
+cdn.retailrocket.net CNAME .

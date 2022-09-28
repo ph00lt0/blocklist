@@ -17164,3 +17164,4 @@
 0.0.0.0 measure.ic.tver.jp
 0.0.0.0 tr.line.me
 0.0.0.0 click.appcast.io
+0.0.0.0 roistat.com

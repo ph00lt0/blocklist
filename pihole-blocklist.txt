@@ -13082,7 +13082,7 @@
 0.0.0.0 3kqo2r1c2kzy3oyiqn2r1gjb-wpengine.netdna-ssl.com
 0.0.0.0 3lib.net
 
-0.0.0.0 3m.com
+! allow 3m.com reason: not a tracker
 0.0.0.0 3m7ajlsrzj92lfd1hu16hu7vc-wpengine.netdna-ssl.com
 0.0.0.0 3naked.com
 0.0.0.0 3ogtym48f0n7g9i61ddao1cl-wpengine.netdna-ssl.com

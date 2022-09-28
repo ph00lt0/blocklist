@@ -11062,7 +11062,7 @@ delivery.wasu.cn CNAME .
 desk.cmix.org CNAME .
 detuns.com CNAME .
 dezfu.com CNAME .
-df3n43m.com CNAME .
+df3n4; allow 3m.com reason: not a tracker
 df77.com CNAME .
 dfad.dfdaily.com CNAME .
 dfc1.benbaisteel.com CNAME .
@@ -12974,7 +12974,7 @@ jnn-pa.googleapis.com CNAME .
 3kqo2r1c2kzy3oyiqn2r1gjb-wpengine.netdna-ssl.com CNAME .
 3lib.net CNAME .
 
-3m.com CNAME .
+; allow 3m.com reason: not a tracker
 3m7ajlsrzj92lfd1hu16hu7vc-wpengine.netdna-ssl.com CNAME .
 3naked.com CNAME .
 3ogtym48f0n7g9i61ddao1cl-wpengine.netdna-ssl.com CNAME .

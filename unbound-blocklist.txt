@@ -16970,3 +16970,4 @@ local-zone: "cdn.retailrocket.net." always_null
 local-zone: "iridion.de." always_null
 local-zone: "canda1.iridion.de." always_null
 local-zone: "candac.iridion.de." always_null
+local-zone: "rcom-eu.dynamicyield.com." always_null

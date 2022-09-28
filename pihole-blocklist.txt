@@ -17093,3 +17093,4 @@
 0.0.0.0 adcdn.pingan.com
 0.0.0.0 advert.kf5.com
 0.0.0.0 api.ads.tvb.com
+0.0.0.0 app-advertise.zhihuishu.com

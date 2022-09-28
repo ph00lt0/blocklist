@@ -16985,3 +16985,4 @@ ad.ourgame.com CNAME .
 adcdn.pingan.com CNAME .
 advert.kf5.com CNAME .
 api.ads.tvb.com CNAME .
+app-advertise.zhihuishu.com CNAME .

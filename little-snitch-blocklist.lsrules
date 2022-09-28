@@ -16629,6 +16629,7 @@
         "imatch.wearetriple.com",
         "face-app.wearetriple.com",
         "acc-data-analytics.wearetriple.com",
-        "acc-gtm.wearetriple.com"
+        "acc-gtm.wearetriple.com",
+        "acc-preview-gtm.wearetriple.com"
     ]
 }

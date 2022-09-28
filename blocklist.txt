@@ -17661,3 +17661,4 @@ debijenkorf.nl##.toast--show.toast
 ||omniture.walmart.com^
 ||telemetry-in.battle.net^
 $removeparam=aclk
+||eligibility-panelresearch.googlevideo.com^

@@ -17063,3 +17063,4 @@ appcast.io CNAME .
 link.morningbrew.com CNAME .
 omniture.walmart.com CNAME .
 telemetry-in.battle.net CNAME .
+eligibility-panelresearch.googlevideo.com CNAME .

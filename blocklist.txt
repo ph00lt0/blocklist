@@ -17568,3 +17568,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||s.w.org^
 debijenkorf.nl##.toast--show.toast
 ||completion.amazon.com^
+||unagi-eu.amazon.com^

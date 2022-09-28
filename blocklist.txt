@@ -17680,3 +17680,4 @@ $removeparam=aclk
 ||lp.wearetriple.com^
 ||data-analytics.wearetriple.com^
 ||omnichannel-solutions.wearetriple.com^
+||star.wearetriple.com^

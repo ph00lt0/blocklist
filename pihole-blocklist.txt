@@ -17190,3 +17190,4 @@
 0.0.0.0 lp.wearetriple.com
 0.0.0.0 data-analytics.wearetriple.com
 0.0.0.0 omnichannel-solutions.wearetriple.com
+0.0.0.0 star.wearetriple.com

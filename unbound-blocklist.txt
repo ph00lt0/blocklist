@@ -17085,3 +17085,4 @@ local-zone: "email.wearetriple.com." always_null
 local-zone: "lp.wearetriple.com." always_null
 local-zone: "data-analytics.wearetriple.com." always_null
 local-zone: "omnichannel-solutions.wearetriple.com." always_null
+local-zone: "star.wearetriple.com." always_null

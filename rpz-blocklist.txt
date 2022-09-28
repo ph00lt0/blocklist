@@ -17061,3 +17061,4 @@ line-apps.com CNAME .
 evergage.com CNAME .
 appcast.io CNAME .
 link.morningbrew.com CNAME .
+omniture.walmart.com CNAME .

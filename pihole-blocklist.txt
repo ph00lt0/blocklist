@@ -17169,3 +17169,4 @@
 0.0.0.0 evergage.com
 0.0.0.0 appcast.io
 0.0.0.0 link.morningbrew.com
+0.0.0.0 omniture.walmart.com

@@ -17064,3 +17064,4 @@ local-zone: "line-apps.com." always_null
 local-zone: "evergage.com." always_null
 local-zone: "appcast.io." always_null
 local-zone: "link.morningbrew.com." always_null
+local-zone: "omniture.walmart.com." always_null

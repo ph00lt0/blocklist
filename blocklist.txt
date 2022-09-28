@@ -17658,3 +17658,4 @@ debijenkorf.nl##.toast--show.toast
 ||evergage.com^
 ||appcast.io^
 ||link.morningbrew.com^
+||omniture.walmart.com^

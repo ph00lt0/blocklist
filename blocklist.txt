@@ -17635,3 +17635,4 @@ debijenkorf.nl##.toast--show.toast
 ||leadpages.net^
 ||health.halodoc.com^
 ||focusatwill.com^
+||lpages.co^

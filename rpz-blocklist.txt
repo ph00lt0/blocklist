@@ -17038,3 +17038,4 @@ promo.gramedia.com CNAME .
 leadpages.net CNAME .
 health.halodoc.com CNAME .
 focusatwill.com CNAME .
+lpages.co CNAME .

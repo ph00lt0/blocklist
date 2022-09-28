@@ -17081,3 +17081,4 @@ preview-gtm.wearetriple.com CNAME .
 email.wearetriple.com CNAME .
 lp.wearetriple.com CNAME .
 data-analytics.wearetriple.com CNAME .
+omnichannel-solutions.wearetriple.com CNAME .

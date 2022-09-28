@@ -16960,3 +16960,4 @@ spitzers.nl CNAME .
 a.hcaptcha.com CNAME .
 metrixhub.com CNAME .
 suggestqueries.google.com CNAME .
+ppcprotect.com CNAME .

@@ -17556,3 +17556,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||a.hcaptcha.com^
 ||metrixhub.com^
 ||suggestqueries.google.com^
+||ppcprotect.com^

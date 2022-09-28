@@ -16963,3 +16963,4 @@ local-zone: "spitzers.nl." always_null
 local-zone: "a.hcaptcha.com." always_null
 local-zone: "metrixhub.com." always_null
 local-zone: "suggestqueries.google.com." always_null
+local-zone: "ppcprotect.com." always_null

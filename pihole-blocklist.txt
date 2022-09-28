@@ -17087,3 +17087,4 @@
 0.0.0.0 cj.dotomi.com
 0.0.0.0 10010.com
 0.0.0.0 ad.10010.com
+0.0.0.0 ad.abchina.com

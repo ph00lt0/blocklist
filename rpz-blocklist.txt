@@ -16979,3 +16979,4 @@ jdoqocy.com CNAME .
 cj.dotomi.com CNAME .
 10010.com CNAME .
 ad.10010.com CNAME .
+ad.abchina.com CNAME .

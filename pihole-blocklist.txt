@@ -17151,3 +17151,4 @@
 0.0.0.0 goto.walmart.com
 0.0.0.0 goto.target.com
 0.0.0.0 affiliates.adsterra.com
+0.0.0.0 adsterra.com

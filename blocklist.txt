@@ -17640,3 +17640,4 @@ debijenkorf.nl##.toast--show.toast
 ||goto.walmart.com^
 ||goto.target.com^
 ||affiliates.adsterra.com^
+||adsterra.com^

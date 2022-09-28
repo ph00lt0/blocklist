@@ -17043,3 +17043,4 @@ analytics.edgekey.net CNAME .
 goto.walmart.com CNAME .
 goto.target.com CNAME .
 affiliates.adsterra.com CNAME .
+adsterra.com CNAME .

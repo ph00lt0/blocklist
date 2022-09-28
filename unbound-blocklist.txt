@@ -17046,3 +17046,4 @@ local-zone: "analytics.edgekey.net." always_null
 local-zone: "goto.walmart.com." always_null
 local-zone: "goto.target.com." always_null
 local-zone: "affiliates.adsterra.com." always_null
+local-zone: "adsterra.com." always_null

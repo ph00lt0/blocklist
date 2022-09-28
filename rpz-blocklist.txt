@@ -17041,3 +17041,4 @@ focusatwill.com CNAME .
 lpages.co CNAME .
 analytics.edgekey.net CNAME .
 goto.walmart.com CNAME .
+goto.target.com CNAME .

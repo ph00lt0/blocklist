@@ -17638,3 +17638,4 @@ debijenkorf.nl##.toast--show.toast
 ||lpages.co^
 ||analytics.edgekey.net^
 ||goto.walmart.com^
+||goto.target.com^

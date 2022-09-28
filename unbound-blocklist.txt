@@ -17044,3 +17044,4 @@ local-zone: "focusatwill.com." always_null
 local-zone: "lpages.co." always_null
 local-zone: "analytics.edgekey.net." always_null
 local-zone: "goto.walmart.com." always_null
+local-zone: "goto.target.com." always_null

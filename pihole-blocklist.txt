@@ -17069,3 +17069,4 @@
 0.0.0.0 metrixhub.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 ppcprotect.com
+0.0.0.0 monitor.ppcprotect.com

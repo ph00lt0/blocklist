@@ -17678,3 +17678,4 @@ $removeparam=aclk
 ||preview-gtm.wearetriple.com^
 ||email.wearetriple.com^
 ||lp.wearetriple.com^
+||data-analytics.wearetriple.com^

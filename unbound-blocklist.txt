@@ -17083,3 +17083,4 @@ local-zone: "gtm.wearetriple.com." always_null
 local-zone: "preview-gtm.wearetriple.com." always_null
 local-zone: "email.wearetriple.com." always_null
 local-zone: "lp.wearetriple.com." always_null
+local-zone: "data-analytics.wearetriple.com." always_null

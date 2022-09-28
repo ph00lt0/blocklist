@@ -17059,3 +17059,4 @@ click.appcast.io CNAME .
 roistat.com CNAME .
 line-apps.com CNAME .
 evergage.com CNAME .
+appcast.io CNAME .

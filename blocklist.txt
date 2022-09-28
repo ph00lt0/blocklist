@@ -17656,3 +17656,4 @@ debijenkorf.nl##.toast--show.toast
 ||roistat.com^
 ||line-apps.com^
 ||evergage.com^
+||appcast.io^

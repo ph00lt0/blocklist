@@ -17167,3 +17167,4 @@
 0.0.0.0 roistat.com
 0.0.0.0 line-apps.com
 0.0.0.0 evergage.com
+0.0.0.0 appcast.io

@@ -17562,3 +17562,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||cdn.retailrocket.net^
 ||iridion.de^
 ||canda1.iridion.de^
+||candac.iridion.de^

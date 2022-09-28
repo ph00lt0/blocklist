@@ -17074,3 +17074,4 @@
 0.0.0.0 cdn.retailrocket.net
 0.0.0.0 iridion.de
 0.0.0.0 canda1.iridion.de
+0.0.0.0 candac.iridion.de

@@ -17565,3 +17565,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||candac.iridion.de^
 ||rcom-eu.dynamicyield.com^
 ||st-eu.dynamicyield.com^
+||s.w.org^

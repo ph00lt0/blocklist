@@ -17108,3 +17108,4 @@
 0.0.0.0 logrocket.com
 0.0.0.0 guce.advertising.com
 0.0.0.0 redirect.appmetrica.yandex.com
+0.0.0.0 adrelayer.com

@@ -17639,3 +17639,4 @@ debijenkorf.nl##.toast--show.toast
 ||analytics.edgekey.net^
 ||goto.walmart.com^
 ||goto.target.com^
+||affiliates.adsterra.com^

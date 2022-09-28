@@ -17056,3 +17056,4 @@ local-zone: "i2i.jp." always_null
 local-zone: "e-trend.co.jp." always_null
 local-zone: "valuecommerce.com." always_null
 local-zone: "marketing.net.idealo-partner.com." always_null
+local-zone: "measure.ic.tver.jp." always_null

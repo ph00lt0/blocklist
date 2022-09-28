@@ -17053,3 +17053,4 @@ i2i.jp CNAME .
 e-trend.co.jp CNAME .
 valuecommerce.com CNAME .
 marketing.net.idealo-partner.com CNAME .
+measure.ic.tver.jp CNAME .

@@ -16975,3 +16975,4 @@ unagi-eu.amazon.com CNAME .
 fls-eu.amazon.com CNAME .
 fls.amazon.com CNAME .
 slickdeals.net CNAME .
+jdoqocy.com CNAME .

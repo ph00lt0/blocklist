@@ -17055,3 +17055,4 @@ valuecommerce.com CNAME .
 marketing.net.idealo-partner.com CNAME .
 measure.ic.tver.jp CNAME .
 tr.line.me CNAME .
+click.appcast.io CNAME .

@@ -17652,3 +17652,4 @@ debijenkorf.nl##.toast--show.toast
 ||marketing.net.idealo-partner.com^
 ||measure.ic.tver.jp^
 ||tr.line.me^
+||click.appcast.io^

@@ -17571,3 +17571,4 @@ debijenkorf.nl##.toast--show.toast
 ||unagi-eu.amazon.com^
 ||fls-eu.amazon.com^
 ||fls.amazon.com^
+||slickdeals.net^

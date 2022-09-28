@@ -17082,3 +17082,4 @@
 0.0.0.0 unagi-eu.amazon.com
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls.amazon.com
+0.0.0.0 slickdeals.net

@@ -16965,3 +16965,4 @@ monitor.ppcprotect.com CNAME .
 info.layertec.nl CNAME .
 cdn.retailrocket.net CNAME .
 iridion.de CNAME .
+canda1.iridion.de CNAME .

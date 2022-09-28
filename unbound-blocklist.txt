@@ -17042,3 +17042,4 @@ local-zone: "leadpages.net." always_null
 local-zone: "health.halodoc.com." always_null
 local-zone: "focusatwill.com." always_null
 local-zone: "lpages.co." always_null
+local-zone: "analytics.edgekey.net." always_null

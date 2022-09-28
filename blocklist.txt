@@ -17690,3 +17690,4 @@ $removeparam=aclk
 ||plausible.standardnotes.com^
 ||newpipe.live^
 ||gambling.com^
+||casino.org^

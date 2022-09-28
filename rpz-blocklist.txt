@@ -17092,3 +17092,4 @@ integrations.etrusted.com CNAME .
 plausible.standardnotes.com CNAME .
 newpipe.live CNAME .
 gambling.com CNAME .
+casino.org CNAME .

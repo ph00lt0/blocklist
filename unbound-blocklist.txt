@@ -17095,3 +17095,4 @@ local-zone: "integrations.etrusted.com." always_null
 local-zone: "plausible.standardnotes.com." always_null
 local-zone: "newpipe.live." always_null
 local-zone: "gambling.com." always_null
+local-zone: "casino.org." always_null

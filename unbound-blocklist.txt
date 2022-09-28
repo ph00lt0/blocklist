@@ -17079,3 +17079,4 @@ local-zone: "acc-data-analytics.wearetriple.com." always_null
 local-zone: "acc-gtm.wearetriple.com." always_null
 local-zone: "acc-preview-gtm.wearetriple.com." always_null
 local-zone: "acc-omnichannel-solutions.wearetriple.com." always_null
+local-zone: "gtm.wearetriple.com." always_null

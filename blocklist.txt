@@ -17674,3 +17674,4 @@ $removeparam=aclk
 ||acc-gtm.wearetriple.com^
 ||acc-preview-gtm.wearetriple.com^
 ||acc-omnichannel-solutions.wearetriple.com^
+||gtm.wearetriple.com^

@@ -17107,3 +17107,4 @@
 0.0.0.0 adwolf.ru
 0.0.0.0 logrocket.com
 0.0.0.0 guce.advertising.com
+0.0.0.0 redirect.appmetrica.yandex.com

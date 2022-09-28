@@ -17596,3 +17596,4 @@ debijenkorf.nl##.toast--show.toast
 ||adwolf.ru^
 ||logrocket.com^
 ||guce.advertising.com^
+||redirect.appmetrica.yandex.com^

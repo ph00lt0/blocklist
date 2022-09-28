@@ -17691,3 +17691,4 @@ $removeparam=aclk
 ||newpipe.live^
 ||gambling.com^
 ||casino.org^
+||bovoda.lv^

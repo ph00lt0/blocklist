@@ -17032,3 +17032,4 @@ local-zone: "email.procook.co.uk." always_null
 local-zone: "links.e.theatlantic.com." always_null
 local-zone: "e.theatlantic.com." always_null
 local-zone: "email.elitedangerous.com." always_null
+local-zone: "email.awscloud.com." always_null

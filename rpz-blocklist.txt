@@ -16958,3 +16958,4 @@ mymarketinsight.com CNAME .
 fpnpmcdn.net CNAME .
 spitzers.nl CNAME .
 a.hcaptcha.com CNAME .
+metrixhub.com CNAME .

@@ -17181,3 +17181,4 @@
 0.0.0.0 imatch.wearetriple.com
 0.0.0.0 face-app.wearetriple.com
 0.0.0.0 acc-data-analytics.wearetriple.com
+0.0.0.0 acc-gtm.wearetriple.com

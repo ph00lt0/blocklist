@@ -17050,3 +17050,4 @@ local-zone: "adsterra.com." always_null
 local-zone: "ads.adsterra.com." always_null
 local-zone: "partners.adsterra.com." always_null
 local-zone: "analytics.amplitude.com." always_null
+local-zone: "ia.hit.interia.pl." always_null

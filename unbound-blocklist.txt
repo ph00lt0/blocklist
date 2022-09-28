@@ -17060,3 +17060,4 @@ local-zone: "measure.ic.tver.jp." always_null
 local-zone: "tr.line.me." always_null
 local-zone: "click.appcast.io." always_null
 local-zone: "roistat.com." always_null
+local-zone: "line-apps.com." always_null

@@ -16979,3 +16979,4 @@ local-zone: "fls-eu.amazon.com." always_null
 local-zone: "fls.amazon.com." always_null
 local-zone: "slickdeals.net." always_null
 local-zone: "jdoqocy.com." always_null
+local-zone: "cj.dotomi.com." always_null

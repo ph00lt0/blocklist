@@ -17084,3 +17084,4 @@
 0.0.0.0 fls.amazon.com
 0.0.0.0 slickdeals.net
 0.0.0.0 jdoqocy.com
+0.0.0.0 cj.dotomi.com

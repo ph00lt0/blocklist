@@ -16976,3 +16976,4 @@ fls-eu.amazon.com CNAME .
 fls.amazon.com CNAME .
 slickdeals.net CNAME .
 jdoqocy.com CNAME .
+cj.dotomi.com CNAME .

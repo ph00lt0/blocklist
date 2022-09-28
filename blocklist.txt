@@ -17573,3 +17573,4 @@ debijenkorf.nl##.toast--show.toast
 ||fls.amazon.com^
 ||slickdeals.net^
 ||jdoqocy.com^
+||cj.dotomi.com^

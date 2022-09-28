@@ -16973,3 +16973,4 @@ local-zone: "candac.iridion.de." always_null
 local-zone: "rcom-eu.dynamicyield.com." always_null
 local-zone: "st-eu.dynamicyield.com." always_null
 local-zone: "s.w.org." always_null
+local-zone: "completion.amazon.com." always_null

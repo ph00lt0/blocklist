@@ -17077,3 +17077,4 @@ acc-gtm.wearetriple.com CNAME .
 acc-preview-gtm.wearetriple.com CNAME .
 acc-omnichannel-solutions.wearetriple.com CNAME .
 gtm.wearetriple.com CNAME .
+preview-gtm.wearetriple.com CNAME .

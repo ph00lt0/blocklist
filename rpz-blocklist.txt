@@ -17072,3 +17072,4 @@ marketing.aws.dev CNAME .
 simtracker.triple-it.nl CNAME .
 imatch.wearetriple.com CNAME .
 face-app.wearetriple.com CNAME .
+acc-data-analytics.wearetriple.com CNAME .

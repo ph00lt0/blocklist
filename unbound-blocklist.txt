@@ -17075,3 +17075,4 @@ local-zone: "marketing.aws.dev." always_null
 local-zone: "simtracker.triple-it.nl." always_null
 local-zone: "imatch.wearetriple.com." always_null
 local-zone: "face-app.wearetriple.com." always_null
+local-zone: "acc-data-analytics.wearetriple.com." always_null

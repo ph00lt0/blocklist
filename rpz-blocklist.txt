@@ -17013,3 +17013,4 @@ dable.io CNAME .
 tlaol.com CNAME .
 a.sellpoint.com CNAME .
 sellpoint.com CNAME .
+click.virt.exacttarget.com CNAME .

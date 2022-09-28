@@ -17664,3 +17664,4 @@ $removeparam=aclk
 ||eligibility-panelresearch.googlevideo.com^
 ||lycraservice-pa.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
+||sentry.wearetriple.com^

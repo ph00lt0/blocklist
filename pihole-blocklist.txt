@@ -17174,3 +17174,4 @@
 0.0.0.0 eligibility-panelresearch.googlevideo.com
 0.0.0.0 lycraservice-pa.googleapis.com
 0.0.0.0 semanticlocation-pa.googleapis.com
+0.0.0.0 sentry.wearetriple.com

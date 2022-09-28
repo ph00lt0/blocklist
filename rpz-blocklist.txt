@@ -17019,3 +17019,4 @@ gs.statcounter.com CNAME .
 durasite.net CNAME .
 afl.rakuten.co.jp CNAME .
 trafficguard.ai CNAME .
+click.trafficguard.ai CNAME .

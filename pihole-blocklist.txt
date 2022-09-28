@@ -17127,3 +17127,4 @@
 0.0.0.0 durasite.net
 0.0.0.0 afl.rakuten.co.jp
 0.0.0.0 trafficguard.ai
+0.0.0.0 click.trafficguard.ai

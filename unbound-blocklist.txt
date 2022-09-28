@@ -17006,3 +17006,4 @@ local-zone: "redirect.appmetrica.yandex.com." always_null
 local-zone: "adrelayer.com." always_null
 local-zone: "peerius.com." always_null
 local-zone: "my.tealiumiq.com." always_null
+local-zone: "pagead.l.doubleclick.net." always_null

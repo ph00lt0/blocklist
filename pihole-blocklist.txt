@@ -17153,3 +17153,4 @@
 0.0.0.0 affiliates.adsterra.com
 0.0.0.0 adsterra.com
 0.0.0.0 ads.adsterra.com
+0.0.0.0 partners.adsterra.com

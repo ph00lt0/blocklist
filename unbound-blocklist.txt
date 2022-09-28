@@ -17048,3 +17048,4 @@ local-zone: "goto.target.com." always_null
 local-zone: "affiliates.adsterra.com." always_null
 local-zone: "adsterra.com." always_null
 local-zone: "ads.adsterra.com." always_null
+local-zone: "partners.adsterra.com." always_null

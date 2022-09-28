@@ -17642,3 +17642,4 @@ debijenkorf.nl##.toast--show.toast
 ||affiliates.adsterra.com^
 ||adsterra.com^
 ||ads.adsterra.com^
+||partners.adsterra.com^

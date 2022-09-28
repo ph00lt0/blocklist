@@ -17570,3 +17570,4 @@ debijenkorf.nl##.toast--show.toast
 ||completion.amazon.com^
 ||unagi-eu.amazon.com^
 ||fls-eu.amazon.com^
+||fls.amazon.com^

@@ -16973,3 +16973,4 @@ s.w.org CNAME .
 completion.amazon.com CNAME .
 unagi-eu.amazon.com CNAME .
 fls-eu.amazon.com CNAME .
+fls.amazon.com CNAME .

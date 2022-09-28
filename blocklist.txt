@@ -17628,3 +17628,4 @@ debijenkorf.nl##.toast--show.toast
 ||email.elitedangerous.com^
 ||email.awscloud.com^
 ||afi-b.com^
+||daikoku.ebis.ne.jp^

@@ -17203,3 +17203,4 @@
 0.0.0.0 casino.org
 0.0.0.0 bovoda.lv
 0.0.0.0 bovoda.com
+0.0.0.0 bovoda.net

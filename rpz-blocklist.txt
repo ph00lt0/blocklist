@@ -17095,3 +17095,4 @@ gambling.com CNAME .
 casino.org CNAME .
 bovoda.lv CNAME .
 bovoda.com CNAME .
+bovoda.net CNAME .

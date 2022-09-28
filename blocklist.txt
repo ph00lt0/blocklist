@@ -17627,3 +17627,4 @@ debijenkorf.nl##.toast--show.toast
 ||e.theatlantic.com^
 ||email.elitedangerous.com^
 ||email.awscloud.com^
+||afi-b.com^

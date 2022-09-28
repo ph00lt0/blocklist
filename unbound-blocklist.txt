@@ -12453,7 +12453,7 @@ local-zone: "api-tiger.zoovu.com." always_null
 local-zone: "click.alternate.de." always_null
 local-zone: "chat.alternate.nl." always_null
 # allow lp2.hm.com reason: Image CDN
-local-zone: "e2712.b.akamaiedge.net." always_null
+# allow e2712.b.akamaiedge.net reason: CDN
 local-zone: "lp.weekday.com." always_null
 local-zone: "weekday.com." always_null
 local-zone: "idservice.hm.com." always_null

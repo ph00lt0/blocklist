@@ -12558,7 +12558,7 @@
 0.0.0.0 click.alternate.de
 0.0.0.0 chat.alternate.nl
 ! allow lp2.hm.com reason: Image CDN
-0.0.0.0 e2712.b.akamaiedge.net
+! allow e2712.b.akamaiedge.net reason: CDN
 0.0.0.0 lp.weekday.com
 0.0.0.0 weekday.com
 0.0.0.0 idservice.hm.com

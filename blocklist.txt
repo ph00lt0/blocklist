@@ -12871,7 +12871,7 @@ $removeparam=utm-source
 ||click.alternate.de^
 ||chat.alternate.nl^
 ||lp2.hm.com^$badfilter  # Image CDN
-||e2712.b.akamaiedge.net^
+||e2712.b.akamaiedge.net^$badfilter  # CDN
 ||lp.weekday.com^
 ||weekday.com^
 ||idservice.hm.com^

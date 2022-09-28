@@ -17002,3 +17002,4 @@ guce.advertising.com CNAME .
 redirect.appmetrica.yandex.com CNAME .
 adrelayer.com CNAME .
 peerius.com CNAME .
+my.tealiumiq.com CNAME .

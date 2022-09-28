@@ -17599,3 +17599,4 @@ debijenkorf.nl##.toast--show.toast
 ||redirect.appmetrica.yandex.com^
 ||adrelayer.com^
 ||peerius.com^
+||my.tealiumiq.com^

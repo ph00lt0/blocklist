@@ -17110,3 +17110,4 @@
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 adrelayer.com
 0.0.0.0 peerius.com
+0.0.0.0 my.tealiumiq.com

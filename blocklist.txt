@@ -12571,7 +12571,7 @@ fd.nl##.fd-message
 ||i3f2.net^
 ||infura.io^
 ||sendgrid.net^
-||pinata.cloud^
+||pinata.cloud^$badfilter  # Not a tracker
 ||lottostar24.com^
 ||multilotto.com^
 ||onlinewebfonts.com^

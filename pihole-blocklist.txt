@@ -12279,7 +12279,7 @@
 0.0.0.0 i3f2.net
 0.0.0.0 infura.io
 0.0.0.0 sendgrid.net
-0.0.0.0 pinata.cloud
+! allow pinata.cloud reason: Not a tracker
 0.0.0.0 lottostar24.com
 0.0.0.0 multilotto.com
 0.0.0.0 onlinewebfonts.com

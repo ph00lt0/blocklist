@@ -12172,7 +12172,7 @@ eurojackpot.org CNAME .
 i3f2.net CNAME .
 infura.io CNAME .
 sendgrid.net CNAME .
-pinata.cloud CNAME .
+; allow pinata.cloud reason: Not a tracker
 lottostar24.com CNAME .
 multilotto.com CNAME .
 onlinewebfonts.com CNAME .

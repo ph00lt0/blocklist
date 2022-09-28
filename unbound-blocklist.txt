@@ -12175,7 +12175,7 @@ local-zone: "eurojackpot.org." always_null
 local-zone: "i3f2.net." always_null
 local-zone: "infura.io." always_null
 local-zone: "sendgrid.net." always_null
-local-zone: "pinata.cloud." always_null
+# allow pinata.cloud reason: Not a tracker
 local-zone: "lottostar24.com." always_null
 local-zone: "multilotto.com." always_null
 local-zone: "onlinewebfonts.com." always_null

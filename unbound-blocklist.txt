@@ -17088,3 +17088,4 @@ local-zone: "omnichannel-solutions.wearetriple.com." always_null
 local-zone: "star.wearetriple.com." always_null
 local-zone: "chattybadger-wocket.wearetriple.com." always_null
 local-zone: "mk-api.acc.wearetriple.com." always_null
+local-zone: "gdpr-portal.acc.wearetriple.com." always_null

@@ -13059,7 +13059,7 @@
 
 0.0.0.0 3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com
 ! allow 3cx.com reason: Not a tracker
-0.0.0.0 3cx.us
+! allow 3cx.us reason: not a tracker
 
 0.0.0.0 3djuegos.com
 0.0.0.0 3dlancer.net

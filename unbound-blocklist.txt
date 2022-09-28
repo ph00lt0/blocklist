@@ -12954,7 +12954,7 @@ local-zone: "3c9sm1yzqy518hwx3f6o4c64-wpengine.netdna-ssl.com." always_null
 local-zone: "3ce9978b3da19ffd8bb6454821713d6e.edgekey.net." always_null
 local-zone: "3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com." always_null
 # allow 3cx.com reason: Not a tracker
-local-zone: "3cx.us." always_null
+# allow 3cx.us reason: not a tracker
 local-zone: "3da675411e6ca3321a189752d5185664.edgekey.net." always_null
 local-zone: "3djuegos.com." always_null
 local-zone: "3dlancer.net." always_null

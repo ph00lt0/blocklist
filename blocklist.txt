@@ -13378,7 +13378,7 @@ $removeparam=engagement_type
 
 ||3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com^
 ||3cx.com^$badfilter  # Not a tracker
-||3cx.us^
+||3cx.us^$badfilter  # not a tracker
 
 ||3djuegos.com^
 ||3dlancer.net^

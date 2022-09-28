@@ -16995,3 +16995,4 @@ local-zone: "cm-beacon.nakanohito.jp." always_null
 local-zone: "cm-widget.nakanohito.jp." always_null
 local-zone: "h-sdk.online-metrix.net." always_null
 local-zone: "5471782.fls.doubleclick.net." always_null
+local-zone: "track.rutarget.ru." always_null

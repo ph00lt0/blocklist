@@ -17015,3 +17015,4 @@ local-zone: "taobao.com." always_null
 local-zone: "dable.io." always_null
 local-zone: "tlaol.com." always_null
 local-zone: "a.sellpoint.com." always_null
+local-zone: "sellpoint.com." always_null

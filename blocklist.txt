@@ -17613,3 +17613,4 @@ debijenkorf.nl##.toast--show.toast
 ||click.virt.exacttarget.com^
 ||virt.exacttarget.com^
 ||gs.statcounter.com^
+||durasite.net^

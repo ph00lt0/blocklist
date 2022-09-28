@@ -17016,3 +17016,4 @@ sellpoint.com CNAME .
 click.virt.exacttarget.com CNAME .
 virt.exacttarget.com CNAME .
 gs.statcounter.com CNAME .
+durasite.net CNAME .

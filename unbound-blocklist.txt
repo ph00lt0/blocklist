@@ -16981,3 +16981,4 @@ local-zone: "slickdeals.net." always_null
 local-zone: "jdoqocy.com." always_null
 local-zone: "cj.dotomi.com." always_null
 local-zone: "10010.com." always_null
+local-zone: "ad.10010.com." always_null

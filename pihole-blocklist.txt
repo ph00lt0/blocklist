@@ -17088,3 +17088,4 @@
 0.0.0.0 10010.com
 0.0.0.0 ad.10010.com
 0.0.0.0 ad.abchina.com
+0.0.0.0 ad.kazakinfo.com

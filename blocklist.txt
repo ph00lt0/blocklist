@@ -17577,3 +17577,4 @@ debijenkorf.nl##.toast--show.toast
 ||10010.com^
 ||ad.10010.com^
 ||ad.abchina.com^
+||ad.kazakinfo.com^

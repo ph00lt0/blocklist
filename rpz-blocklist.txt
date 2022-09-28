@@ -17033,3 +17033,4 @@ email.awscloud.com CNAME .
 afi-b.com CNAME .
 daikoku.ebis.ne.jp CNAME .
 support-widget.nakanohito.jp CNAME .
+support-beacon.nakanohito.jp CNAME .

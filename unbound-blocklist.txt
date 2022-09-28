@@ -17036,3 +17036,4 @@ local-zone: "email.awscloud.com." always_null
 local-zone: "afi-b.com." always_null
 local-zone: "daikoku.ebis.ne.jp." always_null
 local-zone: "support-widget.nakanohito.jp." always_null
+local-zone: "support-beacon.nakanohito.jp." always_null

@@ -17630,3 +17630,4 @@ debijenkorf.nl##.toast--show.toast
 ||afi-b.com^
 ||daikoku.ebis.ne.jp^
 ||support-widget.nakanohito.jp^
+||support-beacon.nakanohito.jp^

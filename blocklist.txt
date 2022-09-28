@@ -17646,3 +17646,4 @@ debijenkorf.nl##.toast--show.toast
 ||analytics.amplitude.com^
 ||ia.hit.interia.pl^
 ||clj.valuecommerce.com^
+||i2i.jp^

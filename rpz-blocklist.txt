@@ -17049,3 +17049,4 @@ partners.adsterra.com CNAME .
 analytics.amplitude.com CNAME .
 ia.hit.interia.pl CNAME .
 clj.valuecommerce.com CNAME .
+i2i.jp CNAME .

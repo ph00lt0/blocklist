@@ -17125,3 +17125,4 @@
 0.0.0.0 virt.exacttarget.com
 0.0.0.0 gs.statcounter.com
 0.0.0.0 durasite.net
+0.0.0.0 afl.rakuten.co.jp

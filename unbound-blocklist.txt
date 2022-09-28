@@ -17020,3 +17020,4 @@ local-zone: "click.virt.exacttarget.com." always_null
 local-zone: "virt.exacttarget.com." always_null
 local-zone: "gs.statcounter.com." always_null
 local-zone: "durasite.net." always_null
+local-zone: "afl.rakuten.co.jp." always_null

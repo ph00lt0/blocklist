@@ -17595,3 +17595,4 @@ debijenkorf.nl##.toast--show.toast
 ||ads.tdbank.com^
 ||adwolf.ru^
 ||logrocket.com^
+||guce.advertising.com^

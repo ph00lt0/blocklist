@@ -17687,3 +17687,4 @@ $removeparam=aclk
 ||gdpr.acc.wearetriple.com^
 ||eitservices.co^
 ||integrations.etrusted.com^
+||plausible.standardnotes.com^

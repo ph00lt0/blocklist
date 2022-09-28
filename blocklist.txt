@@ -17581,3 +17581,4 @@ debijenkorf.nl##.toast--show.toast
 ||ad.ourgame.com^
 ||adcdn.pingan.com^
 ||advert.kf5.com^
+||api.ads.tvb.com^

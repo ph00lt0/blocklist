@@ -16987,3 +16987,4 @@ local-zone: "ad.kazakinfo.com." always_null
 local-zone: "ad.ourgame.com." always_null
 local-zone: "adcdn.pingan.com." always_null
 local-zone: "advert.kf5.com." always_null
+local-zone: "api.ads.tvb.com." always_null

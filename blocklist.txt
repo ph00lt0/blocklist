@@ -17586,3 +17586,4 @@ debijenkorf.nl##.toast--show.toast
 ||buyad.bi-xenon.cn^
 ||ads.tvb.com^
 ||cm-beacon.nakanohito.jp^
+||cm-widget.nakanohito.jp^

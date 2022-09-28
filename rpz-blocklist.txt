@@ -16989,3 +16989,4 @@ app-advertise.zhihuishu.com CNAME .
 buyad.bi-xenon.cn CNAME .
 ads.tvb.com CNAME .
 cm-beacon.nakanohito.jp CNAME .
+cm-widget.nakanohito.jp CNAME .

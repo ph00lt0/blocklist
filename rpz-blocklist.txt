@@ -16982,3 +16982,4 @@ ad.10010.com CNAME .
 ad.abchina.com CNAME .
 ad.kazakinfo.com CNAME .
 ad.ourgame.com CNAME .
+adcdn.pingan.com CNAME .

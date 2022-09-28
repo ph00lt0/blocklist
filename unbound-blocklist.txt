@@ -16985,3 +16985,4 @@ local-zone: "ad.10010.com." always_null
 local-zone: "ad.abchina.com." always_null
 local-zone: "ad.kazakinfo.com." always_null
 local-zone: "ad.ourgame.com." always_null
+local-zone: "adcdn.pingan.com." always_null

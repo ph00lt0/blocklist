@@ -17090,3 +17090,4 @@
 0.0.0.0 ad.abchina.com
 0.0.0.0 ad.kazakinfo.com
 0.0.0.0 ad.ourgame.com
+0.0.0.0 adcdn.pingan.com

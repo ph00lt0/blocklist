@@ -16988,3 +16988,4 @@ api.ads.tvb.com CNAME .
 app-advertise.zhihuishu.com CNAME .
 buyad.bi-xenon.cn CNAME .
 ads.tvb.com CNAME .
+cm-beacon.nakanohito.jp CNAME .

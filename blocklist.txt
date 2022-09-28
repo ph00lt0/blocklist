@@ -17623,3 +17623,4 @@ debijenkorf.nl##.toast--show.toast
 ||skyeng.ru^
 ||logentries.com^
 ||email.procook.co.uk^
+||links.e.theatlantic.com^

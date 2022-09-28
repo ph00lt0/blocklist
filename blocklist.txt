@@ -17553,3 +17553,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||mymarketinsight.com^
 ||fpnpmcdn.net^
 ||spitzers.nl^
+||a.hcaptcha.com^

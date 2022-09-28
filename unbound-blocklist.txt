@@ -16993,3 +16993,4 @@ local-zone: "buyad.bi-xenon.cn." always_null
 local-zone: "ads.tvb.com." always_null
 local-zone: "cm-beacon.nakanohito.jp." always_null
 local-zone: "cm-widget.nakanohito.jp." always_null
+local-zone: "h-sdk.online-metrix.net." always_null

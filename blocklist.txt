@@ -17551,3 +17551,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||klantreactie.bol.com^$removeparam=mailing
 ||olvy.co^
 ||mymarketinsight.com^
+||fpnpmcdn.net^

@@ -17689,3 +17689,4 @@ $removeparam=aclk
 ||integrations.etrusted.com^
 ||plausible.standardnotes.com^
 ||newpipe.live^
+||gambling.com^

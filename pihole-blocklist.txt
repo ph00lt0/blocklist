@@ -17199,3 +17199,4 @@
 0.0.0.0 integrations.etrusted.com
 0.0.0.0 plausible.standardnotes.com
 0.0.0.0 newpipe.live
+0.0.0.0 gambling.com

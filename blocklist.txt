@@ -17611,3 +17611,4 @@ debijenkorf.nl##.toast--show.toast
 ||a.sellpoint.com^
 ||sellpoint.com^
 ||click.virt.exacttarget.com^
+||virt.exacttarget.com^

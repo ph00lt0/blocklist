@@ -16977,3 +16977,4 @@ fls.amazon.com CNAME .
 slickdeals.net CNAME .
 jdoqocy.com CNAME .
 cj.dotomi.com CNAME .
+10010.com CNAME .

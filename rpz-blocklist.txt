@@ -17051,3 +17051,4 @@ ia.hit.interia.pl CNAME .
 clj.valuecommerce.com CNAME .
 i2i.jp CNAME .
 e-trend.co.jp CNAME .
+valuecommerce.com CNAME .

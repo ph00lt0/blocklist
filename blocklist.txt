@@ -17688,3 +17688,4 @@ $removeparam=aclk
 ||eitservices.co^
 ||integrations.etrusted.com^
 ||plausible.standardnotes.com^
+||newpipe.live^

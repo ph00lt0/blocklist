@@ -17198,3 +17198,4 @@
 0.0.0.0 eitservices.co
 0.0.0.0 integrations.etrusted.com
 0.0.0.0 plausible.standardnotes.com
+0.0.0.0 newpipe.live

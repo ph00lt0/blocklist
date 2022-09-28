@@ -17084,3 +17084,4 @@ data-analytics.wearetriple.com CNAME .
 omnichannel-solutions.wearetriple.com CNAME .
 star.wearetriple.com CNAME .
 chattybadger-wocket.wearetriple.com CNAME .
+mk-api.acc.wearetriple.com CNAME .

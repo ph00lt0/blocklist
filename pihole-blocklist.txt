@@ -17192,3 +17192,4 @@
 0.0.0.0 omnichannel-solutions.wearetriple.com
 0.0.0.0 star.wearetriple.com
 0.0.0.0 chattybadger-wocket.wearetriple.com
+0.0.0.0 mk-api.acc.wearetriple.com

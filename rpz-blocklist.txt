@@ -1604,7 +1604,7 @@ x-default-stgec.uplynk.com CNAME .
 content.uplynk.com CNAME .
 litix.io CNAME .
 src.litix.io CNAME .
-link.theplatform.com CNAME .
+link.; allow theplatform.com reason: Comcast streaming
 a.foxdcg.com CNAME .
 pix.pub CNAME .
 lytics.io CNAME .
@@ -1769,7 +1769,7 @@ a02342.glasgowtimes.co.uk CNAME .
 widgets.media.weather.com CNAME .
 nbcume.hb.omtrdc.net CNAME .
 nbcume.sc.omtrdc.net CNAME .
-theplatform.com CNAME .
+; allow theplatform.com reason: Comcast streaming
 newslicensing.co.uk CNAME .
 a-ads.com CNAME .
 ad.a-ads.com CNAME .

@@ -1771,7 +1771,7 @@ local-zone: "a02342.glasgowtimes.co.uk." always_null
 local-zone: "widgets.media.weather.com." always_null
 local-zone: "nbcume.hb.omtrdc.net." always_null
 local-zone: "nbcume.sc.omtrdc.net." always_null
-local-zone: "theplatform.com." always_null
+# allow theplatform.com reason: Comcast streaming
 local-zone: "newslicensing.co.uk." always_null
 local-zone: "a-ads.com." always_null
 local-zone: "ad.a-ads.com." always_null

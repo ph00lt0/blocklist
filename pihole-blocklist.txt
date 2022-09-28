@@ -1810,7 +1810,7 @@
 0.0.0.0 widgets.media.weather.com
 0.0.0.0 nbcume.hb.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
-0.0.0.0 theplatform.com
+! allow theplatform.com reason: Comcast streaming
 0.0.0.0 newslicensing.co.uk
 0.0.0.0 a-ads.com
 0.0.0.0 ad.a-ads.com

@@ -17186,3 +17186,4 @@
 0.0.0.0 acc-omnichannel-solutions.wearetriple.com
 0.0.0.0 gtm.wearetriple.com
 0.0.0.0 preview-gtm.wearetriple.com
+0.0.0.0 email.wearetriple.com

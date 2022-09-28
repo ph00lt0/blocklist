@@ -17081,3 +17081,4 @@ local-zone: "acc-preview-gtm.wearetriple.com." always_null
 local-zone: "acc-omnichannel-solutions.wearetriple.com." always_null
 local-zone: "gtm.wearetriple.com." always_null
 local-zone: "preview-gtm.wearetriple.com." always_null
+local-zone: "email.wearetriple.com." always_null

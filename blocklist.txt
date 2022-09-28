@@ -17629,3 +17629,4 @@ debijenkorf.nl##.toast--show.toast
 ||email.awscloud.com^
 ||afi-b.com^
 ||daikoku.ebis.ne.jp^
+||support-widget.nakanohito.jp^

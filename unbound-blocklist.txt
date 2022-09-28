@@ -17053,3 +17053,4 @@ local-zone: "analytics.amplitude.com." always_null
 local-zone: "ia.hit.interia.pl." always_null
 local-zone: "clj.valuecommerce.com." always_null
 local-zone: "i2i.jp." always_null
+local-zone: "e-trend.co.jp." always_null

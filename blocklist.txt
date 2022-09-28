@@ -17621,3 +17621,4 @@ debijenkorf.nl##.toast--show.toast
 ||getblueshift.com^
 ||go.scorptec.com.au^
 ||skyeng.ru^
+||logentries.com^

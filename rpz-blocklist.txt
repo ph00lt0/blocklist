@@ -17079,3 +17079,4 @@ acc-omnichannel-solutions.wearetriple.com CNAME .
 gtm.wearetriple.com CNAME .
 preview-gtm.wearetriple.com CNAME .
 email.wearetriple.com CNAME .
+lp.wearetriple.com CNAME .

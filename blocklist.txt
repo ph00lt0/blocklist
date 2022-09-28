@@ -17662,3 +17662,4 @@ debijenkorf.nl##.toast--show.toast
 ||telemetry-in.battle.net^
 $removeparam=aclk
 ||eligibility-panelresearch.googlevideo.com^
+||lycraservice-pa.googleapis.com^

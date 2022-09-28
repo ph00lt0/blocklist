@@ -17659,3 +17659,4 @@ debijenkorf.nl##.toast--show.toast
 ||appcast.io^
 ||link.morningbrew.com^
 ||omniture.walmart.com^
+||telemetry-in.battle.net^

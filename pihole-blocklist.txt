@@ -17143,3 +17143,4 @@
 0.0.0.0 support-widget.nakanohito.jp
 0.0.0.0 support-beacon.nakanohito.jp
 0.0.0.0 promo.gramedia.com
+0.0.0.0 leadpages.net

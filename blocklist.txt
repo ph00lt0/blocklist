@@ -17632,3 +17632,4 @@ debijenkorf.nl##.toast--show.toast
 ||support-widget.nakanohito.jp^
 ||support-beacon.nakanohito.jp^
 ||promo.gramedia.com^
+||leadpages.net^

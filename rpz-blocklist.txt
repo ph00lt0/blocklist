@@ -17035,3 +17035,4 @@ daikoku.ebis.ne.jp CNAME .
 support-widget.nakanohito.jp CNAME .
 support-beacon.nakanohito.jp CNAME .
 promo.gramedia.com CNAME .
+leadpages.net CNAME .

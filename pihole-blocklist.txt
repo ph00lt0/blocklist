@@ -17129,3 +17129,4 @@
 0.0.0.0 trafficguard.ai
 0.0.0.0 click.trafficguard.ai
 0.0.0.0 links.getblueshift.com
+0.0.0.0 getblueshift.com

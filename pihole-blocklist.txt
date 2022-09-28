@@ -17103,3 +17103,4 @@
 0.0.0.0 track.rutarget.ru
 0.0.0.0 str.hit.gemius.pl^
 0.0.0.0 href.li
+0.0.0.0 ads.tdbank.com

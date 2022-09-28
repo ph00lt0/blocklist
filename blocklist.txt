@@ -17592,3 +17592,4 @@ debijenkorf.nl##.toast--show.toast
 ||track.rutarget.ru^
 ||str.hit.gemius.pl^^
 ||href.li^
+||ads.tdbank.com^

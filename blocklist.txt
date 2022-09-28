@@ -17684,3 +17684,4 @@ $removeparam=aclk
 ||chattybadger-wocket.wearetriple.com^
 ||mk-api.acc.wearetriple.com^
 ||gdpr-portal.acc.wearetriple.com^
+||gdpr.acc.wearetriple.com^

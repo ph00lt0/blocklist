@@ -17040,3 +17040,4 @@ health.halodoc.com CNAME .
 focusatwill.com CNAME .
 lpages.co CNAME .
 analytics.edgekey.net CNAME .
+goto.walmart.com CNAME .

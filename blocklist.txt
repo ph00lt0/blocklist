@@ -17637,3 +17637,4 @@ debijenkorf.nl##.toast--show.toast
 ||focusatwill.com^
 ||lpages.co^
 ||analytics.edgekey.net^
+||goto.walmart.com^

@@ -12950,7 +12950,7 @@ jnn-pa.googleapis.com CNAME .
 3c9sm1yzqy518hwx3f6o4c64-wpengine.netdna-ssl.com CNAME .
 
 3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com CNAME .
-3cx.com CNAME .
+; allow 3cx.com reason: Not a tracker
 3cx.us CNAME .
 
 3djuegos.com CNAME .

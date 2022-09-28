@@ -16392,7 +16392,7 @@ $removeparam=gspk
 ||waitlisted.co^
 ||wickedreports.com^
 ||woopra.com^
-||a.slack-edge.com^
+||a.slack-edge.com^$badfilter  # Required for slack, CDN
 ||engagebay.com^
 ||appon.radiantthemes.com^
 ||funnel.io^

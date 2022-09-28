@@ -15896,7 +15896,7 @@ waitlisted.app CNAME .
 waitlisted.co CNAME .
 wickedreports.com CNAME .
 woopra.com CNAME .
-a.slack-edge.com CNAME .
+; allow a.slack-edge.com reason: Required for slack, CDN
 engagebay.com CNAME .
 appon.radiantthemes.com CNAME .
 funnel.io CNAME .

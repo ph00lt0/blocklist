@@ -17012,3 +17012,4 @@ local-zone: "ias.rakuten.co.jp." always_null
 local-zone: "click.simba.taobao.com." always_null
 local-zone: "log.mmstat.com." always_null
 local-zone: "taobao.com." always_null
+local-zone: "dable.io." always_null

@@ -17552,3 +17552,4 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||olvy.co^
 ||mymarketinsight.com^
 ||fpnpmcdn.net^
+||spitzers.nl^

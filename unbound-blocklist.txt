@@ -17070,3 +17070,4 @@ local-zone: "eligibility-panelresearch.googlevideo.com." always_null
 local-zone: "lycraservice-pa.googleapis.com." always_null
 local-zone: "semanticlocation-pa.googleapis.com." always_null
 local-zone: "sentry.wearetriple.com." always_null
+local-zone: "prod-us-west-2.csp-report.marketing.aws.dev." always_null

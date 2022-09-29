@@ -17697,3 +17697,4 @@ $removeparam=aclk
 ||analytics-script.ad-shield.io^
 ||ad-shield.io^
 ||googleapis.com/spelling^
+||wenxuecity.com^

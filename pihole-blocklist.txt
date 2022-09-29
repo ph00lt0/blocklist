@@ -17210,3 +17210,4 @@
 0.0.0.0 pixel.wenxuecity.com
 0.0.0.0 count.wenxuecity.com
 0.0.0.0 adserver.wenxuecity.com
+0.0.0.0 vitakruid.nl

@@ -17106,3 +17106,4 @@ local-zone: "pixel.wenxuecity.com." always_null
 local-zone: "count.wenxuecity.com." always_null
 local-zone: "adserver.wenxuecity.com." always_null
 local-zone: "vitakruid.nl." always_null
+local-zone: "globalmarketingbridge.nl." always_null

@@ -17702,3 +17702,4 @@ $removeparam=aclk
 ||count.wenxuecity.com^
 ||adserver.wenxuecity.com^
 ||vitakruid.nl^
+||globalmarketingbridge.nl^

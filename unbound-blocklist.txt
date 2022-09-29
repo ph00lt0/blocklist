@@ -17129,3 +17129,4 @@ local-zone: "microsoft-sso.net." always_null
 local-zone: "mlcrosoft.cloud." always_null
 local-zone: "emails-circleci.com." always_null
 local-zone: "circle-cl.com." always_null
+local-zone: "email-circleci.com." always_null

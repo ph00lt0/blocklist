@@ -17126,3 +17126,4 @@ microsoft-sso.net CNAME .
 mlcrosoft.cloud CNAME .
 emails-circleci.com CNAME .
 circle-cl.com CNAME .
+email-circleci.com CNAME .

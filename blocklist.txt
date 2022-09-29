@@ -17700,3 +17700,4 @@ $removeparam=aclk
 ||wenxuecity.com^
 ||pixel.wenxuecity.com^
 ||count.wenxuecity.com^
+||adserver.wenxuecity.com^

@@ -17696,3 +17696,4 @@ $removeparam=aclk
 ||bovoda.net^
 ||analytics-script.ad-shield.io^
 ||ad-shield.io^
+||googleapis.com/spelling^

@@ -17714,3 +17714,4 @@ $removeparam=aclk
 ||pfm-communication.com^
 ||pfm-footfall.com/nl/contact^
 ||pfm-intelligence.com^
+||coretechsol.com^

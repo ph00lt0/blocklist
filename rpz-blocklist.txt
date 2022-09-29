@@ -17115,3 +17115,4 @@ pfmintelligence.com CNAME .
 pfm-communication.com CNAME .
 pfm-footfall.com/nl/contact CNAME .
 pfm-intelligence.com CNAME .
+coretechsol.com CNAME .

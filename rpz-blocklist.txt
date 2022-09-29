@@ -17123,3 +17123,4 @@ steamcomnulinty.ru CNAME .
 rijschoolhoorn.nl CNAME .
 mlcrosoft.info CNAME .
 microsoft-sso.net CNAME .
+mlcrosoft.cloud CNAME .

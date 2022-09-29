@@ -17711,4 +17711,4 @@ $removeparam=aclk
 ||xovis.com^
 ||storescan.eu^
 ||pfmintelligence.com^
-||pfm-communication.com/nl/over-ons^
+||pfm-communication.com^

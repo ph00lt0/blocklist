@@ -17114,3 +17114,4 @@ storescan.eu CNAME .
 pfmintelligence.com CNAME .
 pfm-communication.com CNAME .
 pfm-footfall.com/nl/contact CNAME .
+pfm-intelligence.com CNAME .

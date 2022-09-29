@@ -17713,3 +17713,4 @@ $removeparam=aclk
 ||pfmintelligence.com^
 ||pfm-communication.com^
 ||pfm-footfall.com/nl/contact^
+||pfm-intelligence.com^

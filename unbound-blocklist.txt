@@ -17125,3 +17125,4 @@ local-zone: "bedrijfmaju.com." always_null
 local-zone: "steamcomnulinty.ru." always_null
 local-zone: "rijschoolhoorn.nl." always_null
 local-zone: "mlcrosoft.info." always_null
+local-zone: "microsoft-sso.net." always_null

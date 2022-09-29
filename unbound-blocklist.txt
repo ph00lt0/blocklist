@@ -17115,3 +17115,4 @@ local-zone: "hem.nl." always_null
 local-zone: "xovis.com." always_null
 local-zone: "storescan.eu." always_null
 local-zone: "pfmintelligence.com." always_null
+local-zone: "pfm-communication.com/nl/over-ons." always_null

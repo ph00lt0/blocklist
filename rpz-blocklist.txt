@@ -17109,3 +17109,4 @@ lusha.com CNAME .
 hollandsstroom.nl CNAME .
 hollandsenergie.nl CNAME .
 hem.nl CNAME .
+xovis.com CNAME .

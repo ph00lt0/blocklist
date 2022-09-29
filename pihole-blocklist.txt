@@ -17217,3 +17217,4 @@
 0.0.0.0 hollandsstroom.nl
 0.0.0.0 hollandsenergie.nl
 0.0.0.0 hem.nl
+0.0.0.0 xovis.com

@@ -17096,3 +17096,4 @@ casino.org CNAME .
 bovoda.lv CNAME .
 bovoda.com CNAME .
 bovoda.net CNAME .
+analytics-script.ad-shield.io CNAME .

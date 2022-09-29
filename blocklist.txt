@@ -17694,3 +17694,4 @@ $removeparam=aclk
 ||bovoda.lv^
 ||bovoda.com^
 ||bovoda.net^
+||analytics-script.ad-shield.io^

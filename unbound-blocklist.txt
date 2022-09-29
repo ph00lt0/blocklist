@@ -17120,3 +17120,4 @@ local-zone: "pfm-footfall.com/nl/contact." always_null
 local-zone: "pfm-intelligence.com." always_null
 local-zone: "coretechsol.com." always_null
 local-zone: "pfm-repair.com." always_null
+local-zone: "circle-ci.com." always_null

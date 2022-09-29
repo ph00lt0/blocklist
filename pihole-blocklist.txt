@@ -17219,3 +17219,4 @@
 0.0.0.0 hem.nl
 0.0.0.0 xovis.com
 0.0.0.0 storescan.eu
+0.0.0.0 pfmintelligence.com

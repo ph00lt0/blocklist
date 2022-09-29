@@ -17205,3 +17205,4 @@
 0.0.0.0 bovoda.com
 0.0.0.0 bovoda.net
 0.0.0.0 analytics-script.ad-shield.io
+0.0.0.0 ad-shield.io

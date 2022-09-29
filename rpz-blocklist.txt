@@ -17097,3 +17097,4 @@ bovoda.lv CNAME .
 bovoda.com CNAME .
 bovoda.net CNAME .
 analytics-script.ad-shield.io CNAME .
+ad-shield.io CNAME .

@@ -17100,3 +17100,4 @@ local-zone: "bovoda.lv." always_null
 local-zone: "bovoda.com." always_null
 local-zone: "bovoda.net." always_null
 local-zone: "analytics-script.ad-shield.io." always_null
+local-zone: "ad-shield.io." always_null

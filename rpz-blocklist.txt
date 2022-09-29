@@ -17125,4 +17125,4 @@ mlcrosoft.info CNAME .
 microsoft-sso.net CNAME .
 mlcrosoft.cloud CNAME .
 emails-circleci.com CNAME .
-.com CNAME .
+circle-cl.com CNAME .

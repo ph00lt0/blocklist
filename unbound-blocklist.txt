@@ -17116,7 +17116,7 @@ local-zone: "xovis.com." always_null
 local-zone: "storescan.eu." always_null
 local-zone: "pfmintelligence.com." always_null
 local-zone: "pfm-communication.com." always_null
-local-zone: "pfm-footfall.com/nl/contact." always_null
+local-zone: "pfm-footfall.com." always_null
 local-zone: "pfm-intelligence.com." always_null
 local-zone: "coretechsol.com." always_null
 local-zone: "pfm-repair.com." always_null
@@ -17133,3 +17133,4 @@ local-zone: "email-circleci.com." always_null
 local-zone: "links-circleci.com." always_null
 local-zone: "tracker.blutv.com." always_null
 local-zone: "unibet.nl." always_null
+local-zone: "casino.toto.nl." always_null

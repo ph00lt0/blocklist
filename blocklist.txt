@@ -17712,7 +17712,7 @@ $removeparam=aclk
 ||storescan.eu^
 ||pfmintelligence.com^
 ||pfm-communication.com^
-||pfm-footfall.com/nl/contact^
+||pfm-footfall.com^
 ||pfm-intelligence.com^
 ||coretechsol.com^
 ||pfm-repair.com^
@@ -17729,3 +17729,4 @@ $removeparam=aclk
 ||links-circleci.com^
 ||tracker.blutv.com^
 ||unibet.nl^
+||casino.toto.nl^

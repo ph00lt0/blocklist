@@ -17102,3 +17102,4 @@ local-zone: "bovoda.net." always_null
 local-zone: "analytics-script.ad-shield.io." always_null
 local-zone: "ad-shield.io." always_null
 local-zone: "wenxuecity.com." always_null
+local-zone: "pixel.wenxuecity.com." always_null

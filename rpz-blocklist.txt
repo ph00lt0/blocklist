@@ -17099,3 +17099,4 @@ bovoda.net CNAME .
 analytics-script.ad-shield.io CNAME .
 ad-shield.io CNAME .
 wenxuecity.com CNAME .
+pixel.wenxuecity.com CNAME .

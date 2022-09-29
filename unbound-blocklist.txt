@@ -17116,3 +17116,4 @@ local-zone: "xovis.com." always_null
 local-zone: "storescan.eu." always_null
 local-zone: "pfmintelligence.com." always_null
 local-zone: "pfm-communication.com." always_null
+local-zone: "pfm-footfall.com/nl/contact." always_null

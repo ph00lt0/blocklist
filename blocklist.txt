@@ -17712,3 +17712,4 @@ $removeparam=aclk
 ||storescan.eu^
 ||pfmintelligence.com^
 ||pfm-communication.com^
+||pfm-footfall.com/nl/contact^

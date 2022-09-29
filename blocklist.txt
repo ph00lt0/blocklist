@@ -17699,3 +17699,4 @@ $removeparam=aclk
 ||googleapis.com/spelling^
 ||wenxuecity.com^
 ||pixel.wenxuecity.com^
+||count.wenxuecity.com^

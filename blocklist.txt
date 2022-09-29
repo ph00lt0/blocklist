@@ -17730,3 +17730,4 @@ $removeparam=aclk
 ||tracker.blutv.com^
 ||unibet.nl^
 ||casino.toto.nl^
+||sdk.ad4screen.com^

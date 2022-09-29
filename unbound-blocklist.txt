@@ -17134,3 +17134,4 @@ local-zone: "links-circleci.com." always_null
 local-zone: "tracker.blutv.com." always_null
 local-zone: "unibet.nl." always_null
 local-zone: "casino.toto.nl." always_null
+local-zone: "sdk.ad4screen.com." always_null

@@ -17145,3 +17145,4 @@ scopely.io CNAME .
 iot-eu-logser.realme.com CNAME .
 orangeclickmedia.com CNAME .
 iot-logser.realme.com CNAME .
+heytapmobi.com CNAME .

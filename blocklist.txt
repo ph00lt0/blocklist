@@ -17744,3 +17744,4 @@ $removeparam=aclk
 ||iot-eu-logser.realme.com^
 ||orangeclickmedia.com^
 ||iot-logser.realme.com^
+||heytapmobi.com^

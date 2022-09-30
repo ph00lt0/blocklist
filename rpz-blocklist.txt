@@ -17153,3 +17153,4 @@ appsrv.display.io CNAME .
 obashwmzrfofi.com CNAME .
 visariomedia.com CNAME .
 highperformancecpm.com CNAME .
+marketingcloudapis.com CNAME .

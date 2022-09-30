@@ -17259,3 +17259,4 @@
 0.0.0.0 log.tapatalk.com
 0.0.0.0 appsrv.display.io
 0.0.0.0 obashwmzrfofi.com
+0.0.0.0 visariomedia.com

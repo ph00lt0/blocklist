@@ -17750,3 +17750,4 @@ $removeparam=aclk
 ||log.tapatalk.com^
 ||appsrv.display.io^
 ||obashwmzrfofi.com^
+||visariomedia.com^

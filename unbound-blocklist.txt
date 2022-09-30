@@ -17183,3 +17183,4 @@ local-zone: "asia-exstsdk.vivoglobal.com." always_null
 local-zone: "asia-comort-stsdk.vivoglobal.com." always_null
 local-zone: "asia-comonrt-stsdk.vivoglobal.com." always_null
 local-zone: "serve.nrich.ai." always_null
+local-zone: "stackoom.com." always_null

@@ -17154,3 +17154,4 @@ obashwmzrfofi.com CNAME .
 visariomedia.com CNAME .
 highperformancecpm.com CNAME .
 marketingcloudapis.com CNAME .
+wmcdp.io CNAME .

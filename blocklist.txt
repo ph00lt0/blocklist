@@ -17756,3 +17756,4 @@ $removeparam=aclk
 ||wmcdp.io^
 ||track.wattpad.com^
 ||rewardpumpkin.com^
+||eagllwin.com^

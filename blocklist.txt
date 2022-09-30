@@ -17746,3 +17746,4 @@ $removeparam=aclk
 ||iot-logser.realme.com^
 ||heytapmobi.com^
 ||applog.matrix.easebar.com^
+||easebar.com^

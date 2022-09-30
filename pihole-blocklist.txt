@@ -17255,3 +17255,4 @@
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 heytapmobi.com
 0.0.0.0 applog.matrix.easebar.com
+0.0.0.0 easebar.com

@@ -17158,3 +17158,4 @@ wmcdp.io CNAME .
 track.wattpad.com CNAME .
 rewardpumpkin.com CNAME .
 eagllwin.com CNAME .
+api.hisavana.com CNAME .

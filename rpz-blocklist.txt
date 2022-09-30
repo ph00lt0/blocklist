@@ -17142,3 +17142,4 @@ mon.isnssdk.com CNAME .
 mon-va.byteoversea.com CNAME .
 mon.tiktokv.com CNAME .
 scopely.io CNAME .
+iot-eu-logser.realme.com CNAME .

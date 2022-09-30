@@ -17250,3 +17250,4 @@
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 scopely.io
+0.0.0.0 iot-eu-logser.realme.com

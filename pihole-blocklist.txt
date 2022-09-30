@@ -17271,3 +17271,4 @@
 0.0.0.0 tr-vcode-od.vivoglobal.com
 0.0.0.0 tr-vcode-api.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
+0.0.0.0 tr-domaincfg.vivoglobal.com

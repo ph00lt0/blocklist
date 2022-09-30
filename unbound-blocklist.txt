@@ -17168,3 +17168,4 @@ local-zone: "tr-vcode-api.vivoglobal.com." always_null
 local-zone: "tr-st-sl.vivoglobal.com." always_null
 local-zone: "tr-domaincfg.vivoglobal.com." always_null
 local-zone: "tr-timesync.vivoglobal.com." always_null
+local-zone: "tr-romsp-unifyconfig.vivoglobal.com." always_null

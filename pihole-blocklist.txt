@@ -17273,3 +17273,4 @@
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
 0.0.0.0 tr-timesync.vivoglobal.com
+0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com

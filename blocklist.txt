@@ -17747,3 +17747,4 @@ $removeparam=aclk
 ||heytapmobi.com^
 ||applog.matrix.easebar.com^
 ||easebar.com^
+||log.tapatalk.com^

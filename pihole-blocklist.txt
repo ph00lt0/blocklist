@@ -17256,3 +17256,4 @@
 0.0.0.0 heytapmobi.com
 0.0.0.0 applog.matrix.easebar.com
 0.0.0.0 easebar.com
+0.0.0.0 log.tapatalk.com

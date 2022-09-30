@@ -17745,3 +17745,4 @@ $removeparam=aclk
 ||orangeclickmedia.com^
 ||iot-logser.realme.com^
 ||heytapmobi.com^
+||applog.matrix.easebar.com^

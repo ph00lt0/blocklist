@@ -17152,3 +17152,4 @@ local-zone: "heytapmobi.com." always_null
 local-zone: "applog.matrix.easebar.com." always_null
 local-zone: "easebar.com." always_null
 local-zone: "log.tapatalk.com." always_null
+local-zone: "appsrv.display.io." always_null

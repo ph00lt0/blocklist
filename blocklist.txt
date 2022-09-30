@@ -17735,3 +17735,4 @@ $removeparam=aclk
 ||sctclick2.com^
 ||netperform-is.vodafone.com.tr^
 ||sanalytics.tbs.com^
+||adxserve.com^

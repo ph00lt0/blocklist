@@ -17136,3 +17136,4 @@ amnyescsmgcagjj.com CNAME .
 sctclick2.com CNAME .
 netperform-is.vodafone.com.tr CNAME .
 sanalytics.tbs.com CNAME .
+adxserve.com CNAME .

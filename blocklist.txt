@@ -17732,3 +17732,4 @@ $removeparam=aclk
 ||casino.toto.nl^
 ||sdk.ad4screen.com^
 ||amnyescsmgcagjj.com^
+||sctclick2.com^

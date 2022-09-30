@@ -17140,3 +17140,4 @@ local-zone: "sctclick2.com." always_null
 local-zone: "netperform-is.vodafone.com.tr." always_null
 local-zone: "sanalytics.tbs.com." always_null
 local-zone: "adxserve.com." always_null
+local-zone: "log-va.tiktokv.com." always_null

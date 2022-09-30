@@ -17141,3 +17141,4 @@ log-va.tiktokv.com CNAME .
 mon.isnssdk.com CNAME .
 mon-va.byteoversea.com CNAME .
 mon.tiktokv.com CNAME .
+scopely.io CNAME .

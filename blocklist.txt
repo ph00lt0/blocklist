@@ -17740,3 +17740,4 @@ $removeparam=aclk
 ||mon.isnssdk.com^
 ||mon-va.byteoversea.com^
 ||mon.tiktokv.com^
+||scopely.io^

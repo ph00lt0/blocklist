@@ -17162,3 +17162,4 @@ local-zone: "track.wattpad.com." always_null
 local-zone: "rewardpumpkin.com." always_null
 local-zone: "eagllwin.com." always_null
 local-zone: "api.hisavana.com." always_null
+local-zone: "ims.vodafone.com." always_null

@@ -17166,3 +17166,4 @@ tr-st-sl.vivoglobal.com CNAME .
 tr-domaincfg.vivoglobal.com CNAME .
 tr-timesync.vivoglobal.com CNAME .
 tr-romsp-unifyconfig.vivoglobal.com CNAME .
+advertise.ldplayer.net CNAME .

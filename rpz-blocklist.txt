@@ -17174,3 +17174,4 @@ data.media-lab.ai CNAME .
 grs.dbankcloud.eu CNAME .
 infinitedata-pa.googleapis.com CNAME .
 i18n-pglstatp.com CNAME .
+asia-ex-adlog.vivoglobal.com CNAME .

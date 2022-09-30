@@ -17285,3 +17285,4 @@
 0.0.0.0 asia-ex-adlog.vivoglobal.com
 0.0.0.0 asia-analyzer-appstore.vivoglobal.com
 0.0.0.0 asia-exstsdk.vivoglobal.com
+0.0.0.0 asia-comort-stsdk.vivoglobal.com

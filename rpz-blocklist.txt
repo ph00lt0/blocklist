@@ -17177,3 +17177,4 @@ i18n-pglstatp.com CNAME .
 asia-ex-adlog.vivoglobal.com CNAME .
 asia-analyzer-appstore.vivoglobal.com CNAME .
 asia-exstsdk.vivoglobal.com CNAME .
+asia-comort-stsdk.vivoglobal.com CNAME .

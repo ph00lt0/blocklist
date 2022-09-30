@@ -17168,3 +17168,4 @@ tr-timesync.vivoglobal.com CNAME .
 tr-romsp-unifyconfig.vivoglobal.com CNAME .
 advertise.ldplayer.net CNAME .
 storeen.ldmnq.com CNAME .
+adabdapi.ldmnq.com CNAME .

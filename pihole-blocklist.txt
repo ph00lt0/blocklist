@@ -17276,3 +17276,4 @@
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 advertise.ldplayer.net
 0.0.0.0 storeen.ldmnq.com
+0.0.0.0 adabdapi.ldmnq.com

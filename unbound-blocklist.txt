@@ -17138,3 +17138,4 @@ local-zone: "sdk.ad4screen.com." always_null
 local-zone: "amnyescsmgcagjj.com." always_null
 local-zone: "sctclick2.com." always_null
 local-zone: "netperform-is.vodafone.com.tr." always_null
+local-zone: "sanalytics.tbs.com." always_null

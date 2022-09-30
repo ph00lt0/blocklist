@@ -17755,3 +17755,4 @@ $removeparam=aclk
 ||marketingcloudapis.com^
 ||wmcdp.io^
 ||track.wattpad.com^
+||rewardpumpkin.com^

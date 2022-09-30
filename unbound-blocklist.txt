@@ -17159,3 +17159,4 @@ local-zone: "highperformancecpm.com." always_null
 local-zone: "marketingcloudapis.com." always_null
 local-zone: "wmcdp.io." always_null
 local-zone: "track.wattpad.com." always_null
+local-zone: "rewardpumpkin.com." always_null

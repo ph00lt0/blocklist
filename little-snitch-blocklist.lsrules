@@ -16712,6 +16712,7 @@
         "tr-vcode-od.vivoglobal.com",
         "tr-vcode-api.vivoglobal.com",
         "tr-st-sl.vivoglobal.com",
-        "tr-domaincfg.vivoglobal.com"
+        "tr-domaincfg.vivoglobal.com",
+        "tr-timesync.vivoglobal.com"
     ]
 }

@@ -17763,3 +17763,4 @@ $removeparam=aclk
 ||tr-vcode-api.vivoglobal.com^
 ||tr-st-sl.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
+||tr-timesync.vivoglobal.com^

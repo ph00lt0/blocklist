@@ -17164,3 +17164,4 @@ tr-vcode-od.vivoglobal.com CNAME .
 tr-vcode-api.vivoglobal.com CNAME .
 tr-st-sl.vivoglobal.com CNAME .
 tr-domaincfg.vivoglobal.com CNAME .
+tr-timesync.vivoglobal.com CNAME .

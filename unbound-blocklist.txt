@@ -17173,3 +17173,4 @@ local-zone: "advertise.ldplayer.net." always_null
 local-zone: "storeen.ldmnq.com." always_null
 local-zone: "adabdapi.ldmnq.com." always_null
 local-zone: "storeus.ldmnq.com." always_null
+local-zone: "data.media-lab.ai." always_null

@@ -17269,3 +17269,4 @@
 0.0.0.0 api.hisavana.com
 0.0.0.0 ims.vodafone.com
 0.0.0.0 tr-vcode-od.vivoglobal.com
+0.0.0.0 tr-vcode-api.vivoglobal.com

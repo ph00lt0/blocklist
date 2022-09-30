@@ -17164,3 +17164,4 @@ local-zone: "eagllwin.com." always_null
 local-zone: "api.hisavana.com." always_null
 local-zone: "ims.vodafone.com." always_null
 local-zone: "tr-vcode-od.vivoglobal.com." always_null
+local-zone: "tr-vcode-api.vivoglobal.com." always_null

@@ -16710,6 +16710,7 @@
         "api.hisavana.com",
         "ims.vodafone.com",
         "tr-vcode-od.vivoglobal.com",
-        "tr-vcode-api.vivoglobal.com"
+        "tr-vcode-api.vivoglobal.com",
+        "tr-st-sl.vivoglobal.com"
     ]
 }

@@ -17155,3 +17155,4 @@ visariomedia.com CNAME .
 highperformancecpm.com CNAME .
 marketingcloudapis.com CNAME .
 wmcdp.io CNAME .
+track.wattpad.com CNAME .

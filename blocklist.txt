@@ -17754,3 +17754,4 @@ $removeparam=aclk
 ||highperformancecpm.com^
 ||marketingcloudapis.com^
 ||wmcdp.io^
+||track.wattpad.com^

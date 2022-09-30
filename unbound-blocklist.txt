@@ -17146,3 +17146,4 @@ local-zone: "mon-va.byteoversea.com." always_null
 local-zone: "mon.tiktokv.com." always_null
 local-zone: "scopely.io." always_null
 local-zone: "iot-eu-logser.realme.com." always_null
+local-zone: "orangeclickmedia.com." always_null

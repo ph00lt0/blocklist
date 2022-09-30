@@ -17172,3 +17172,4 @@ local-zone: "tr-romsp-unifyconfig.vivoglobal.com." always_null
 local-zone: "advertise.ldplayer.net." always_null
 local-zone: "storeen.ldmnq.com." always_null
 local-zone: "adabdapi.ldmnq.com." always_null
+local-zone: "storeus.ldmnq.com." always_null

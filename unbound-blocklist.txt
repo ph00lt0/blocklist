@@ -17143,3 +17143,4 @@ local-zone: "adxserve.com." always_null
 local-zone: "log-va.tiktokv.com." always_null
 local-zone: "mon.isnssdk.com." always_null
 local-zone: "mon-va.byteoversea.com." always_null
+local-zone: "mon.tiktokv.com." always_null

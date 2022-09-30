@@ -17248,3 +17248,4 @@
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon.tiktokv.com

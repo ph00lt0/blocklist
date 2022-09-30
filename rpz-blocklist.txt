@@ -17160,3 +17160,4 @@ rewardpumpkin.com CNAME .
 eagllwin.com CNAME .
 api.hisavana.com CNAME .
 ims.vodafone.com CNAME .
+tr-vcode-od.vivoglobal.com CNAME .

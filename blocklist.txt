@@ -17759,3 +17759,4 @@ $removeparam=aclk
 ||eagllwin.com^
 ||api.hisavana.com^
 ||ims.vodafone.com^
+||tr-vcode-od.vivoglobal.com^

@@ -17141,3 +17141,4 @@ local-zone: "netperform-is.vodafone.com.tr." always_null
 local-zone: "sanalytics.tbs.com." always_null
 local-zone: "adxserve.com." always_null
 local-zone: "log-va.tiktokv.com." always_null
+local-zone: "mon.isnssdk.com." always_null

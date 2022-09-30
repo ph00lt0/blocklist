@@ -17286,3 +17286,4 @@
 0.0.0.0 asia-analyzer-appstore.vivoglobal.com
 0.0.0.0 asia-exstsdk.vivoglobal.com
 0.0.0.0 asia-comort-stsdk.vivoglobal.com
+0.0.0.0 asia-comonrt-stsdk.vivoglobal.com

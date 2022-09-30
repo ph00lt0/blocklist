@@ -17181,3 +17181,4 @@ local-zone: "asia-ex-adlog.vivoglobal.com." always_null
 local-zone: "asia-analyzer-appstore.vivoglobal.com." always_null
 local-zone: "asia-exstsdk.vivoglobal.com." always_null
 local-zone: "asia-comort-stsdk.vivoglobal.com." always_null
+local-zone: "asia-comonrt-stsdk.vivoglobal.com." always_null

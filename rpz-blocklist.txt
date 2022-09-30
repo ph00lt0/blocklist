@@ -17134,3 +17134,4 @@ casino.toto.nl CNAME .
 sdk.ad4screen.com CNAME .
 amnyescsmgcagjj.com CNAME .
 sctclick2.com CNAME .
+netperform-is.vodafone.com.tr CNAME .

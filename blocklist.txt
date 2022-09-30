@@ -17733,3 +17733,4 @@ $removeparam=aclk
 ||sdk.ad4screen.com^
 ||amnyescsmgcagjj.com^
 ||sctclick2.com^
+||netperform-is.vodafone.com.tr^

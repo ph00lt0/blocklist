@@ -17185,3 +17185,4 @@ local-zone: "asia-comonrt-stsdk.vivoglobal.com." always_null
 local-zone: "serve.nrich.ai." always_null
 local-zone: "stackoom.com." always_null
 local-zone: "crenionpackaging.com." always_null
+local-zone: "mxhichina.com." always_null

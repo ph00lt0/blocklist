@@ -980,7 +980,7 @@
 ||munchkin.marketo.net^
 ||snap.licdn.com^
 ||media-exp2.licdn.com^$badfilter # Images CDN of LinkedIn
-||dms.licdn.com # Images CDN of LinkedIn
+||dms.licdn.com^$badfilter  # CDN for images
 ||gmass.co^
 ||tallyfy.com^
 ||appdynamics.com^

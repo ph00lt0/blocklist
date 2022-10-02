@@ -17213,3 +17213,4 @@ cvent.com CNAME .
 email.stripe.com CNAME .
 view.trustgram.co CNAME .
 post.spmailtechno.com CNAME .
+lp.logmeininc.com CNAME .

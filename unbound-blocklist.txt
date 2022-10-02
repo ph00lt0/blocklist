@@ -17216,3 +17216,4 @@ local-zone: "cvent.com." always_null
 local-zone: "email.stripe.com." always_null
 local-zone: "view.trustgram.co." always_null
 local-zone: "post.spmailtechno.com." always_null
+local-zone: "lp.logmeininc.com." always_null

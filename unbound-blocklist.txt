@@ -17213,3 +17213,4 @@ local-zone: "survey.apple.com." always_null
 local-zone: "go.dhlparcel.nl." always_null
 local-zone: "link.invitado.nl." always_null
 local-zone: "cvent.com." always_null
+local-zone: "email.stripe.com." always_null

@@ -17207,3 +17207,4 @@ local-zone: "cms.dopper.com." always_null
 local-zone: "awstrack.me." always_null
 local-zone: "taxify.eu." always_null
 local-zone: "d3smpkehiq8afm.cloudfront.net." always_null
+local-zone: "email.uber.com." always_null

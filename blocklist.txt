@@ -17787,3 +17787,4 @@ $removeparam=aclk
 ||sendy.webcurso.org^
 ||webcurso.org^
 ||ywmeiwen.com^
+||johnvktraders.com^

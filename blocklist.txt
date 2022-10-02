@@ -17792,3 +17792,4 @@ $removeparam=aclk
 ||tt.vg^
 ||mrkt360.ca^
 ||ciitizenlab.co^
+||sentry.hq.citizenlab.co^

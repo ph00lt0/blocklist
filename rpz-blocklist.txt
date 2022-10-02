@@ -17192,3 +17192,4 @@ bero-webspace.de CNAME .
 tt.vg CNAME .
 mrkt360.ca CNAME .
 ciitizenlab.co CNAME .
+sentry.hq.citizenlab.co CNAME .

@@ -17215,3 +17215,4 @@ view.trustgram.co CNAME .
 post.spmailtechno.com CNAME .
 lp.logmeininc.com CNAME .
 lp.goto.com CNAME .
+go.lastpass.com CNAME .

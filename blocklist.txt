@@ -17816,3 +17816,4 @@ $removeparam=aclk
 ||post.spmailtechno.com^
 ||lp.logmeininc.com^
 ||lp.goto.com^
+||go.lastpass.com^

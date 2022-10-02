@@ -17188,3 +17188,4 @@ sendy.webcurso.org CNAME .
 webcurso.org CNAME .
 ywmeiwen.com CNAME .
 johnvktraders.com CNAME .
+bero-webspace.de CNAME .

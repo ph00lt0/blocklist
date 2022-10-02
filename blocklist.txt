@@ -17788,3 +17788,4 @@ $removeparam=aclk
 ||webcurso.org^
 ||ywmeiwen.com^
 ||johnvktraders.com^
+||bero-webspace.de^

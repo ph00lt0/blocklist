@@ -17194,3 +17194,4 @@ mrkt360.ca CNAME .
 ; allow ciitizenlab.co reason: not a tracker
 sentry.hq.citizenlab.co CNAME .
 kiwifarms.net CNAME .
+clickless.link CNAME .

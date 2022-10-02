@@ -17302,3 +17302,4 @@
 ! allow ciitizenlab.co reason: not a tracker
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 kiwifarms.net
+0.0.0.0 clickless.link

@@ -17199,3 +17199,4 @@ local-zone: "sentry.hq.citizenlab.co." always_null
 local-zone: "kiwifarms.net." always_null
 local-zone: "clickless.link." always_null
 local-zone: "dabba.fietskoeriers.nl." always_null
+local-zone: "sendibt2.com." always_null

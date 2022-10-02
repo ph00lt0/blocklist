@@ -17193,3 +17193,4 @@ tt.vg CNAME .
 mrkt360.ca CNAME .
 ; allow ciitizenlab.co reason: not a tracker
 sentry.hq.citizenlab.co CNAME .
+kiwifarms.net CNAME .

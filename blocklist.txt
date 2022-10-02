@@ -17794,3 +17794,4 @@ $removeparam=aclk
 ||ciitizenlab.co^$badfilter  # not a tracker
 ||sentry.hq.citizenlab.co^
 ^fastclick.js^
+||kiwifarms.net^

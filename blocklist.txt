@@ -17815,3 +17815,4 @@ $removeparam=aclk
 ||view.trustgram.co^
 ||post.spmailtechno.com^
 ||lp.logmeininc.com^
+||lp.goto.com^

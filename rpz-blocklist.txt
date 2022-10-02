@@ -17219,3 +17219,4 @@ go.lastpass.com CNAME .
 movable-ink-344.com CNAME .
 dialog-mail.com CNAME .
 gif.dialog-mail.com CNAME .
+mc.sendgrid.com CNAME .

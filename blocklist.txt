@@ -17820,3 +17820,4 @@ $removeparam=aclk
 ||movable-ink-344.com^
 ||dialog-mail.com^
 ||gif.dialog-mail.com^
+||mc.sendgrid.com^

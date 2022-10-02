@@ -17191,5 +17191,5 @@ johnvktraders.com CNAME .
 bero-webspace.de CNAME .
 tt.vg CNAME .
 mrkt360.ca CNAME .
-ciitizenlab.co CNAME .
+; allow ciitizenlab.co reason: not a tracker
 sentry.hq.citizenlab.co CNAME .

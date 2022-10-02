@@ -17791,5 +17791,5 @@ $removeparam=aclk
 ||bero-webspace.de^
 ||tt.vg^
 ||mrkt360.ca^
-||ciitizenlab.co^
+||ciitizenlab.co^$badfilter  # not a tracker
 ||sentry.hq.citizenlab.co^

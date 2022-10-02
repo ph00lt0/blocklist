@@ -17804,3 +17804,4 @@ $removeparam=aclk
 ||cms.dopper.com^
 ||awstrack.me^
 ||taxify.eu^
+||d3smpkehiq8afm.cloudfront.net^

@@ -17228,3 +17228,4 @@ local-zone: "reco-mail.bonprix.de." always_null
 local-zone: "marketing-images.gotinder.com." always_null
 local-zone: "info.cloudflare.com." always_null
 local-zone: "click.eml.waitrose.com." always_null
+local-zone: "link.marktplaats.nl." always_null

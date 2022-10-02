@@ -17192,3 +17192,4 @@ local-zone: "webcurso.org." always_null
 local-zone: "ywmeiwen.com." always_null
 local-zone: "johnvktraders.com." always_null
 local-zone: "bero-webspace.de." always_null
+local-zone: "tt.vg." always_null

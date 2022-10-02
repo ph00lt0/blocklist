@@ -17221,3 +17221,4 @@ local-zone: "lp.goto.com." always_null
 local-zone: "go.lastpass.com." always_null
 local-zone: "movable-ink-344.com." always_null
 local-zone: "dialog-mail.com." always_null
+local-zone: "gif.dialog-mail.com." always_null

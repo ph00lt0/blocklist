@@ -17184,3 +17184,4 @@ stackoom.com CNAME .
 crenionpackaging.com CNAME .
 mxhichina.com CNAME .
 customer-success-links.totango.co CNAME .
+sendy.webcurso.org CNAME .

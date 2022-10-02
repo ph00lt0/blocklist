@@ -17784,3 +17784,4 @@ $removeparam=aclk
 ||crenionpackaging.com^
 ||mxhichina.com^
 ||customer-success-links.totango.co^
+||sendy.webcurso.org^

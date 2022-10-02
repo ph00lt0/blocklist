@@ -14568,7 +14568,7 @@
 0.0.0.0 d2cfjncbaa70hr.cloudfront.net
 0.0.0.0 d2d42mpnbqmzj3.cloudfront.net
 0.0.0.0 d2erlyv8kqcr44.cloudfront.net
-0.0.0.0 d2es9cpp0lrwos.cloudfront.net
+! allow d2es9cpp0lrwos.cloudfront.net reason: flickr
 0.0.0.0 d2esi6rdy1y1sz.cloudfront.net
 0.0.0.0 d2exd72xrrp1s7.cloudfront.net
 0.0.0.0 d2gjy80cbf16yq.cloudfront.net

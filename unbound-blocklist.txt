@@ -14463,7 +14463,7 @@ local-zone: "d2c8v52ll5s99u.cloudfront.net." always_null
 local-zone: "d2cfjncbaa70hr.cloudfront.net." always_null
 local-zone: "d2d42mpnbqmzj3.cloudfront.net." always_null
 local-zone: "d2erlyv8kqcr44.cloudfront.net." always_null
-local-zone: "d2es9cpp0lrwos.cloudfront.net." always_null
+# allow d2es9cpp0lrwos.cloudfront.net reason: flickr
 local-zone: "d2esi6rdy1y1sz.cloudfront.net." always_null
 local-zone: "d2exd72xrrp1s7.cloudfront.net." always_null
 local-zone: "d2gjy80cbf16yq.cloudfront.net." always_null

@@ -17785,3 +17785,4 @@ $removeparam=aclk
 ||mxhichina.com^
 ||customer-success-links.totango.co^
 ||sendy.webcurso.org^
+||webcurso.org^

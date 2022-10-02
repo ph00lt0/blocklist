@@ -17315,3 +17315,4 @@
 0.0.0.0 email.uber.com
 0.0.0.0 node.bolt.eu
 0.0.0.0 survey.apple.com
+0.0.0.0 go.dhlparcel.nl

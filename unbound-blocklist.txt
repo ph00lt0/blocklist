@@ -17210,3 +17210,4 @@ local-zone: "d3smpkehiq8afm.cloudfront.net." always_null
 local-zone: "email.uber.com." always_null
 local-zone: "node.bolt.eu." always_null
 local-zone: "survey.apple.com." always_null
+local-zone: "go.dhlparcel.nl." always_null

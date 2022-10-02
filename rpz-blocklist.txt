@@ -17207,3 +17207,4 @@ d3smpkehiq8afm.cloudfront.net CNAME .
 email.uber.com CNAME .
 node.bolt.eu CNAME .
 survey.apple.com CNAME .
+go.dhlparcel.nl CNAME .

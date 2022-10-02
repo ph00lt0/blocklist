@@ -17221,3 +17221,4 @@ dialog-mail.com CNAME .
 gif.dialog-mail.com CNAME .
 mc.sendgrid.com CNAME .
 url5845.paywithmoon.com CNAME .
+reco-mail.bonprix.de CNAME .

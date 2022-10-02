@@ -17224,3 +17224,4 @@ local-zone: "dialog-mail.com." always_null
 local-zone: "gif.dialog-mail.com." always_null
 local-zone: "mc.sendgrid.com." always_null
 local-zone: "url5845.paywithmoon.com." always_null
+local-zone: "reco-mail.bonprix.de." always_null

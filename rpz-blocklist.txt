@@ -17224,3 +17224,4 @@ url5845.paywithmoon.com CNAME .
 reco-mail.bonprix.de CNAME .
 marketing-images.gotinder.com CNAME .
 info.cloudflare.com CNAME .
+click.eml.waitrose.com CNAME .

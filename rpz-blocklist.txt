@@ -17232,3 +17232,4 @@ metricool.com CNAME .
 shalltry.com CNAME .
 ggpoker.nl CNAME .
 kansino.nl CNAME .
+bingoalcasino.be CNAME .

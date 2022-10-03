@@ -17238,3 +17238,4 @@ local-zone: "kansino.nl." always_null
 local-zone: "bingoalcasino.be." always_null
 local-zone: "casinosite.nl." always_null
 local-zone: "weddenonline-nederland.nl." always_null
+local-zone: "bingoxl.nl." always_null

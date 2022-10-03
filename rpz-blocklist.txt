@@ -17235,3 +17235,4 @@ kansino.nl CNAME .
 bingoalcasino.be CNAME .
 casinosite.nl CNAME .
 weddenonline-nederland.nl CNAME .
+bingoxl.nl CNAME .

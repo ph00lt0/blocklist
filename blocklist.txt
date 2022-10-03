@@ -17836,3 +17836,4 @@ $removeparam=aclk
 ||bingoalcasino.be^
 ||casinosite.nl^
 ||weddenonline-nederland.nl^
+||bingoxl.nl^

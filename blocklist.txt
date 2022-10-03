@@ -17829,3 +17829,4 @@ $removeparam=aclk
 ||link.marktplaats.nl^
 ||grouptacking.com^
 ||visitor-analytics.io^
+||metricool.com^

@@ -17231,3 +17231,4 @@ local-zone: "click.eml.waitrose.com." always_null
 local-zone: "link.marktplaats.nl." always_null
 local-zone: "grouptacking.com." always_null
 local-zone: "visitor-analytics.io." always_null
+local-zone: "metricool.com." always_null

@@ -17236,3 +17236,4 @@ bingoalcasino.be CNAME .
 casinosite.nl CNAME .
 weddenonline-nederland.nl CNAME .
 bingoxl.nl CNAME .
+onlinesportwedden.com CNAME .

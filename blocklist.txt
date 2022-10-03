@@ -17837,3 +17837,4 @@ $removeparam=aclk
 ||casinosite.nl^
 ||weddenonline-nederland.nl^
 ||bingoxl.nl^
+||onlinesportwedden.com^

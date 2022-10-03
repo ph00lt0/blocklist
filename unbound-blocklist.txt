@@ -17234,3 +17234,4 @@ local-zone: "visitor-analytics.io." always_null
 local-zone: "metricool.com." always_null
 local-zone: "shalltry.com." always_null
 local-zone: "ggpoker.nl." always_null
+local-zone: "kansino.nl." always_null

@@ -17832,3 +17832,4 @@ $removeparam=aclk
 ||metricool.com^
 ||shalltry.com^
 ||ggpoker.nl^
+||kansino.nl^

@@ -17236,3 +17236,4 @@ local-zone: "shalltry.com." always_null
 local-zone: "ggpoker.nl." always_null
 local-zone: "kansino.nl." always_null
 local-zone: "bingoalcasino.be." always_null
+local-zone: "casinosite.nl." always_null

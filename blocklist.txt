@@ -17838,3 +17838,4 @@ $removeparam=aclk
 ||weddenonline-nederland.nl^
 ||bingoxl.nl^
 ||onlinesportwedden.com^
+||discuss.privacyguides.org^$removeparam=u

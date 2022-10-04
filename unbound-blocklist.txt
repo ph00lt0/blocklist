@@ -17240,3 +17240,4 @@ local-zone: "casinosite.nl." always_null
 local-zone: "weddenonline-nederland.nl." always_null
 local-zone: "bingoxl.nl." always_null
 local-zone: "onlinesportwedden.com." always_null
+local-zone: "comforthousing.co.jp." always_null

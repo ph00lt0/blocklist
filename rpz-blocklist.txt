@@ -16892,7 +16892,7 @@ a.applvn.com CNAME .
 mobile.smartadserver.com CNAME .
 dit.whatsapp.net CNAME .
 businessmessages.google.com CNAME .
-go.microsoft.com CNAME .
+; allow go.microsoft.com reason: required
 app.dmws.plus CNAME .
 cms-api.dirk.nl CNAME .
 api.fpjs.io CNAME .

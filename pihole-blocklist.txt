@@ -17000,7 +17000,7 @@
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 businessmessages.google.com
-0.0.0.0 go.microsoft.com
+! allow go.microsoft.com reason: required
 0.0.0.0 app.dmws.plus
 0.0.0.0 cms-api.dirk.nl
 0.0.0.0 api.fpjs.io

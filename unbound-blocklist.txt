@@ -17256,3 +17256,4 @@ local-zone: "dualsidedapp.com." always_null
 local-zone: "hotjar.dualsidedapp.com." always_null
 local-zone: "fitness-bayern.de." always_null
 local-zone: "wagenfeld-weddings.de." always_null
+local-zone: "fluxus.org." always_null

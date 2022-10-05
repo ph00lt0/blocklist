@@ -17857,3 +17857,4 @@ community.cloudflare.com##.modal-backdrop
 ||hotjar.dualsidedapp.com^
 ||fitness-bayern.de^
 ||wagenfeld-weddings.de^
+||fluxus.org^

@@ -17869,3 +17869,4 @@ community.cloudflare.com##.modal-backdrop
 ||is-samland.de^
 ||shop6.shop^
 ||unitedconsumers.com^
+||flippback.com^

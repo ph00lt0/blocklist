@@ -17855,3 +17855,4 @@ community.cloudflare.com##.modal-backdrop
 ||s.search.naver.com^
 ||dualsidedapp.com^
 ||hotjar.dualsidedapp.com^
+||fitness-bayern.de^

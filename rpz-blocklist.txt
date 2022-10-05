@@ -17251,3 +17251,4 @@ event.impression-neo.naver.com CNAME .
 s.search.naver.com CNAME .
 dualsidedapp.com CNAME .
 hotjar.dualsidedapp.com CNAME .
+fitness-bayern.de CNAME .

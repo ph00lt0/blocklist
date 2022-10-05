@@ -17254,3 +17254,4 @@ local-zone: "event.impression-neo.naver.com." always_null
 local-zone: "s.search.naver.com." always_null
 local-zone: "dualsidedapp.com." always_null
 local-zone: "hotjar.dualsidedapp.com." always_null
+local-zone: "fitness-bayern.de." always_null

@@ -17350,3 +17350,4 @@
 0.0.0.0 opensourcelibs.com
 0.0.0.0 intergient.com
 0.0.0.0 cdn.intergient.com
+0.0.0.0 l.naver.com

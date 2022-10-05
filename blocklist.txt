@@ -17862,3 +17862,4 @@ community.cloudflare.com##.modal-backdrop
 ||teehub.shop^
 ||tinosmarble.com^
 ||hobbykompetenz.de^
+||maverickinter.shop^

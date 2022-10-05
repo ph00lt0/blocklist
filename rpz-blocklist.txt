@@ -17258,3 +17258,4 @@ yukkuri.shop CNAME .
 teehub.shop CNAME .
 tinosmarble.com CNAME .
 hobbykompetenz.de CNAME .
+maverickinter.shop CNAME .

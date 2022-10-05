@@ -17261,3 +17261,4 @@ local-zone: "yukkuri.shop." always_null
 local-zone: "teehub.shop." always_null
 local-zone: "tinosmarble.com." always_null
 local-zone: "hobbykompetenz.de." always_null
+local-zone: "maverickinter.shop." always_null

@@ -17851,3 +17851,4 @@ community.cloudflare.com##.modal-backdrop
 ||er.search.naver.com^
 ||nheos.com^
 ||ac.search.naver.com^
+||event.impression-neo.naver.com^

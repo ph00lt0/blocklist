@@ -17355,3 +17355,4 @@
 0.0.0.0 er.search.naver.com
 0.0.0.0 nheos.com
 0.0.0.0 ac.search.naver.com
+0.0.0.0 event.impression-neo.naver.com

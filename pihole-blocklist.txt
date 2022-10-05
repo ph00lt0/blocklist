@@ -17354,3 +17354,4 @@
 0.0.0.0 cafe.naver.com
 0.0.0.0 er.search.naver.com
 0.0.0.0 nheos.com
+0.0.0.0 ac.search.naver.com

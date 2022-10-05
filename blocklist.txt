@@ -17850,3 +17850,4 @@ community.cloudflare.com##.modal-backdrop
 ||cafe.naver.com^
 ||er.search.naver.com^
 ||nheos.com^
+||ac.search.naver.com^

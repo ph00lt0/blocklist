@@ -17246,3 +17246,4 @@ l.naver.com CNAME .
 cafe.naver.com CNAME .
 er.search.naver.com CNAME .
 nheos.com CNAME .
+ac.search.naver.com CNAME .

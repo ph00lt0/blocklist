@@ -17249,3 +17249,4 @@ local-zone: "l.naver.com." always_null
 local-zone: "cafe.naver.com." always_null
 local-zone: "er.search.naver.com." always_null
 local-zone: "nheos.com." always_null
+local-zone: "ac.search.naver.com." always_null

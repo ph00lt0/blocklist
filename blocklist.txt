@@ -17845,3 +17845,4 @@ community.cloudflare.com##.interstitial-alert-modal
 community.cloudflare.com##.modal-backdrop
 ||opensourcelibs.com^
 ||intergient.com^
+||cdn.intergient.com^

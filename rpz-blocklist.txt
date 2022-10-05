@@ -17261,3 +17261,4 @@ hobbykompetenz.de CNAME .
 maverickinter.shop CNAME .
 magicears.shop CNAME .
 mateuszskorupa.pl CNAME .
+hwkosmetologia.pl CNAME .

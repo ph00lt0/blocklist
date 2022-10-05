@@ -17865,3 +17865,4 @@ community.cloudflare.com##.modal-backdrop
 ||maverickinter.shop^
 ||magicears.shop^
 ||mateuszskorupa.pl^
+||hwkosmetologia.pl^

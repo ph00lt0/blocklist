@@ -17264,3 +17264,4 @@ local-zone: "hobbykompetenz.de." always_null
 local-zone: "maverickinter.shop." always_null
 local-zone: "magicears.shop." always_null
 local-zone: "mateuszskorupa.pl." always_null
+local-zone: "hwkosmetologia.pl." always_null

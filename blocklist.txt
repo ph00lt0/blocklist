@@ -17863,3 +17863,4 @@ community.cloudflare.com##.modal-backdrop
 ||tinosmarble.com^
 ||hobbykompetenz.de^
 ||maverickinter.shop^
+||magicears.shop^

@@ -17260,3 +17260,4 @@ tinosmarble.com CNAME .
 hobbykompetenz.de CNAME .
 maverickinter.shop CNAME .
 magicears.shop CNAME .
+mateuszskorupa.pl CNAME .

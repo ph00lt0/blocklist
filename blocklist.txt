@@ -17864,3 +17864,4 @@ community.cloudflare.com##.modal-backdrop
 ||hobbykompetenz.de^
 ||maverickinter.shop^
 ||magicears.shop^
+||mateuszskorupa.pl^

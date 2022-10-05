@@ -17867,3 +17867,4 @@ community.cloudflare.com##.modal-backdrop
 ||mateuszskorupa.pl^
 ||hwkosmetologia.pl^
 ||is-samland.de^
+||shop6.shop^

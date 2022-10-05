@@ -17263,3 +17263,4 @@ magicears.shop CNAME .
 mateuszskorupa.pl CNAME .
 hwkosmetologia.pl CNAME .
 is-samland.de CNAME .
+shop6.shop CNAME .

@@ -17247,3 +17247,4 @@ local-zone: "intergient.com." always_null
 local-zone: "cdn.intergient.com." always_null
 local-zone: "l.naver.com." always_null
 local-zone: "cafe.naver.com." always_null
+local-zone: "er.search.naver.com." always_null

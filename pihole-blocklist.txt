@@ -17352,3 +17352,4 @@
 0.0.0.0 cdn.intergient.com
 0.0.0.0 l.naver.com
 0.0.0.0 cafe.naver.com
+0.0.0.0 er.search.naver.com

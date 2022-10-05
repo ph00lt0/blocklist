@@ -17262,3 +17262,4 @@ maverickinter.shop CNAME .
 magicears.shop CNAME .
 mateuszskorupa.pl CNAME .
 hwkosmetologia.pl CNAME .
+is-samland.de CNAME .

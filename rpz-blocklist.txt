@@ -17240,3 +17240,4 @@ onlinesportwedden.com CNAME .
 comforthousing.co.jp CNAME .
 lampchat.io CNAME .
 opensourcelibs.com CNAME .
+intergient.com CNAME .

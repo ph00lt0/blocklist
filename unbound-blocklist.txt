@@ -17243,3 +17243,4 @@ local-zone: "onlinesportwedden.com." always_null
 local-zone: "comforthousing.co.jp." always_null
 local-zone: "lampchat.io." always_null
 local-zone: "opensourcelibs.com." always_null
+local-zone: "intergient.com." always_null

@@ -17254,3 +17254,4 @@ hotjar.dualsidedapp.com CNAME .
 fitness-bayern.de CNAME .
 wagenfeld-weddings.de CNAME .
 fluxus.org CNAME .
+yukkuri.shop CNAME .

@@ -17858,3 +17858,4 @@ community.cloudflare.com##.modal-backdrop
 ||fitness-bayern.de^
 ||wagenfeld-weddings.de^
 ||fluxus.org^
+||yukkuri.shop^

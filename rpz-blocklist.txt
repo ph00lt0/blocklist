@@ -17243,3 +17243,4 @@ opensourcelibs.com CNAME .
 intergient.com CNAME .
 cdn.intergient.com CNAME .
 l.naver.com CNAME .
+cafe.naver.com CNAME .

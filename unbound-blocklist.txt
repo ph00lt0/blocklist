@@ -17267,3 +17267,4 @@ local-zone: "mateuszskorupa.pl." always_null
 local-zone: "hwkosmetologia.pl." always_null
 local-zone: "is-samland.de." always_null
 local-zone: "shop6.shop." always_null
+local-zone: "unitedconsumers.com." always_null

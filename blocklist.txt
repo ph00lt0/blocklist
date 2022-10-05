@@ -17842,3 +17842,4 @@ $removeparam=aclk
 ||comforthousing.co.jp^
 ||lampchat.io^
 community.cloudflare.com##.interstitial-alert-modal
+community.cloudflare.com##.modal-backdrop

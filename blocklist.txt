@@ -17870,3 +17870,4 @@ community.cloudflare.com##.modal-backdrop
 ||shop6.shop^
 ||unitedconsumers.com^
 ||flippback.com^
+||beginnerpancake.com^

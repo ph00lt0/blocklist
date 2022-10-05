@@ -17269,3 +17269,4 @@ local-zone: "is-samland.de." always_null
 local-zone: "shop6.shop." always_null
 local-zone: "unitedconsumers.com." always_null
 local-zone: "flippback.com." always_null
+local-zone: "beginnerpancake.com." always_null

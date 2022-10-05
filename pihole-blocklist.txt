@@ -17358,3 +17358,4 @@
 0.0.0.0 event.impression-neo.naver.com
 0.0.0.0 s.search.naver.com
 0.0.0.0 dualsidedapp.com
+0.0.0.0 hotjar.dualsidedapp.com

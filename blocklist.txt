@@ -17854,3 +17854,4 @@ community.cloudflare.com##.modal-backdrop
 ||event.impression-neo.naver.com^
 ||s.search.naver.com^
 ||dualsidedapp.com^
+||hotjar.dualsidedapp.com^

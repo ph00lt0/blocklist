@@ -17861,3 +17861,4 @@ community.cloudflare.com##.modal-backdrop
 ||yukkuri.shop^
 ||teehub.shop^
 ||tinosmarble.com^
+||hobbykompetenz.de^

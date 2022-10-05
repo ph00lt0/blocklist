@@ -17249,3 +17249,4 @@ nheos.com CNAME .
 ac.search.naver.com CNAME .
 event.impression-neo.naver.com CNAME .
 s.search.naver.com CNAME .
+dualsidedapp.com CNAME .

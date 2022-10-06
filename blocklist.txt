@@ -17874,3 +17874,4 @@ community.cloudflare.com##.modal-backdrop
 ||epinion.dk^
 ||bizchat.bizvu.co.uk^
 ||analytics.livestream.com^
+||we-assist.io^

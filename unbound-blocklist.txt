@@ -17273,3 +17273,4 @@ local-zone: "beginnerpancake.com." always_null
 local-zone: "epinion.dk." always_null
 local-zone: "bizchat.bizvu.co.uk." always_null
 local-zone: "analytics.livestream.com." always_null
+local-zone: "we-assist.io." always_null

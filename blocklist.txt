@@ -17876,3 +17876,4 @@ community.cloudflare.com##.modal-backdrop
 ||analytics.livestream.com^
 ||we-assist.io^
 ||analytics.schmid-fehr.ch^
+||koffiekeuzes.nl^

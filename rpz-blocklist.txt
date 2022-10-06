@@ -17274,3 +17274,4 @@ we-assist.io CNAME .
 analytics.schmid-fehr.ch CNAME .
 koffiekeuzes.nl CNAME .
 lanzouo.com CNAME .
+123123pan.com CNAME .

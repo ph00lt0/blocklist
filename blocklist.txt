@@ -17875,3 +17875,4 @@ community.cloudflare.com##.modal-backdrop
 ||bizchat.bizvu.co.uk^
 ||analytics.livestream.com^
 ||we-assist.io^
+||analytics.schmid-fehr.ch^

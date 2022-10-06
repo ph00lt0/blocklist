@@ -17872,3 +17872,4 @@ community.cloudflare.com##.modal-backdrop
 ||flippback.com^
 ||beginnerpancake.com^
 ||epinion.dk^
+||bizchat.bizvu.co.uk^

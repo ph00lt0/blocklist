@@ -17276,3 +17276,4 @@ local-zone: "analytics.livestream.com." always_null
 local-zone: "we-assist.io." always_null
 local-zone: "analytics.schmid-fehr.ch." always_null
 local-zone: "koffiekeuzes.nl." always_null
+local-zone: "lanzouo.com." always_null

@@ -17280,3 +17280,4 @@ intentsoftware.com CNAME .
 prebit.org CNAME .
 mngads.com CNAME .
 invertase.io CNAME .
+ads.amazon.com CNAME .

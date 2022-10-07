@@ -17884,3 +17884,4 @@ community.cloudflare.com##.modal-backdrop
 ||prebit.org^
 ||mngads.com^
 ||invertase.io^
+||ads.amazon.com^

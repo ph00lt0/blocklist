@@ -17887,3 +17887,4 @@ community.cloudflare.com##.modal-backdrop
 ||ads.amazon.com^
 ||ads.device.amazon.com^
 ||prime31.com^
+||iab.com^

@@ -17285,3 +17285,4 @@ local-zone: "mngads.com." always_null
 local-zone: "invertase.io." always_null
 local-zone: "ads.amazon.com." always_null
 local-zone: "ads.device.amazon.com." always_null
+local-zone: "prime31.com." always_null

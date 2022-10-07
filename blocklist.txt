@@ -17886,3 +17886,4 @@ community.cloudflare.com##.modal-backdrop
 ||invertase.io^
 ||ads.amazon.com^
 ||ads.device.amazon.com^
+||prime31.com^

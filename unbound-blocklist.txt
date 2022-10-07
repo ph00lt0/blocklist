@@ -17281,3 +17281,4 @@ local-zone: "123123pan.com." always_null
 local-zone: "deusm.com." always_null
 local-zone: "intentsoftware.com." always_null
 local-zone: "prebit.org." always_null
+local-zone: "mngads.com." always_null

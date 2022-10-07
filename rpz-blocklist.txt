@@ -17278,3 +17278,4 @@ lanzouo.com CNAME .
 deusm.com CNAME .
 intentsoftware.com CNAME .
 prebit.org CNAME .
+mngads.com CNAME .

@@ -17276,3 +17276,4 @@ koffiekeuzes.nl CNAME .
 lanzouo.com CNAME .
 123123pan.com CNAME .
 deusm.com CNAME .
+intentsoftware.com CNAME .

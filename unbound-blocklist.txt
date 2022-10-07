@@ -17279,3 +17279,4 @@ local-zone: "koffiekeuzes.nl." always_null
 local-zone: "lanzouo.com." always_null
 local-zone: "123123pan.com." always_null
 local-zone: "deusm.com." always_null
+local-zone: "intentsoftware.com." always_null

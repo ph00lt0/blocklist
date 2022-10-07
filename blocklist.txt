@@ -17880,3 +17880,4 @@ community.cloudflare.com##.modal-backdrop
 ||lanzouo.com^
 ||123123pan.com^
 ||deusm.com^
+||intentsoftware.com^

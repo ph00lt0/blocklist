@@ -17384,3 +17384,4 @@
 0.0.0.0 lanzouo.com
 0.0.0.0 123123pan.com
 0.0.0.0 deusm.com
+0.0.0.0 intentsoftware.com

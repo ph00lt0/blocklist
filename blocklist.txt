@@ -17883,3 +17883,4 @@ community.cloudflare.com##.modal-backdrop
 ||intentsoftware.com^
 ||prebit.org^
 ||mngads.com^
+||invertase.io^

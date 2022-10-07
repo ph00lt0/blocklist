@@ -17885,3 +17885,4 @@ community.cloudflare.com##.modal-backdrop
 ||mngads.com^
 ||invertase.io^
 ||ads.amazon.com^
+||ads.device.amazon.com^

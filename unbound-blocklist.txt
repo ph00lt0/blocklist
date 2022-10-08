@@ -17288,3 +17288,4 @@ local-zone: "ads.device.amazon.com." always_null
 local-zone: "prime31.com." always_null
 local-zone: "iab.com." always_null
 local-zone: "codepro.info." always_null
+local-zone: "bohny-automobile.com." always_null

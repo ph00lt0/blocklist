@@ -17889,3 +17889,4 @@ community.cloudflare.com##.modal-backdrop
 ||prime31.com^
 ||iab.com^
 ||codepro.info^
+||bohny-automobile.com^

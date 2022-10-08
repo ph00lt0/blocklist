@@ -17285,3 +17285,4 @@ ads.device.amazon.com CNAME .
 prime31.com CNAME .
 iab.com CNAME .
 codepro.info CNAME .
+bohny-automobile.com CNAME .

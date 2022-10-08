@@ -17890,3 +17890,4 @@ community.cloudflare.com##.modal-backdrop
 ||iab.com^
 ||codepro.info^
 ||bohny-automobile.com^
+||fisheries.gov.pg^

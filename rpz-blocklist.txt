@@ -17286,3 +17286,4 @@ prime31.com CNAME .
 iab.com CNAME .
 codepro.info CNAME .
 bohny-automobile.com CNAME .
+fisheries.gov.pg CNAME .

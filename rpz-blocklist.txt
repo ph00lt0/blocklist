@@ -17289,3 +17289,4 @@ bohny-automobile.com CNAME .
 fisheries.gov.pg CNAME .
 tsboi.com CNAME .
 feature-app.io CNAME .
+lighthouselabs.eu CNAME .

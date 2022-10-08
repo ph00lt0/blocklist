@@ -17893,3 +17893,4 @@ community.cloudflare.com##.modal-backdrop
 ||fisheries.gov.pg^
 ||tsboi.com^
 ||feature-app.io^
+||lighthouselabs.eu^

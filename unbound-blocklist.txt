@@ -17298,3 +17298,4 @@ local-zone: "dpmonline.com." always_null
 local-zone: "vriendenloterij.nl." always_null
 local-zone: "postcodelottery.co.uk." always_null
 local-zone: "loten-kopen.nl." always_null
+local-zone: "loten-kopen.com." always_null

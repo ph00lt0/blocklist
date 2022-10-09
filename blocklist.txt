@@ -17899,3 +17899,4 @@ community.cloudflare.com##.modal-backdrop
 ||vriendenloterij.nl^
 ||postcodelottery.co.uk^
 ||loten-kopen.nl^
+||loten-kopen.com^

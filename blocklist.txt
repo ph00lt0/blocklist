@@ -17900,3 +17900,4 @@ community.cloudflare.com##.modal-backdrop
 ||postcodelottery.co.uk^
 ||loten-kopen.nl^
 ||loten-kopen.com^
+||gameloop.com^

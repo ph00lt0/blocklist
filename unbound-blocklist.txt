@@ -17301,3 +17301,4 @@ local-zone: "loten-kopen.nl." always_null
 local-zone: "loten-kopen.com." always_null
 local-zone: "gameloop.com." always_null
 local-zone: "keuzemenu.info." always_null
+local-zone: "pepper.com." always_null

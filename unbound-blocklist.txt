@@ -17295,3 +17295,4 @@ local-zone: "feature-app.io." always_null
 local-zone: "lighthouselabs.eu." always_null
 local-zone: "ekocgrrjn.onmicrosoft.com." always_null
 local-zone: "dpmonline.com." always_null
+local-zone: "vriendenloterij.nl." always_null

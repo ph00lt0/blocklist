@@ -17293,3 +17293,4 @@ lighthouselabs.eu CNAME .
 ekocgrrjn.onmicrosoft.com CNAME .
 dpmonline.com CNAME .
 vriendenloterij.nl CNAME .
+postcodelottery.co.uk CNAME .

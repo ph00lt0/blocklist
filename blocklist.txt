@@ -17897,3 +17897,4 @@ community.cloudflare.com##.modal-backdrop
 ||ekocgrrjn.onmicrosoft.com^
 ||dpmonline.com^
 ||vriendenloterij.nl^
+||postcodelottery.co.uk^

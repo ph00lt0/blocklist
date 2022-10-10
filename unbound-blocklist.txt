@@ -17332,3 +17332,4 @@ local-zone: "js.qualified.com." always_null
 local-zone: "techtarget.com." always_null
 local-zone: "s.pinimg.com." always_null
 local-zone: "pixel.pointmediatracker.com." always_null
+local-zone: "pointmediatracker.com." always_null

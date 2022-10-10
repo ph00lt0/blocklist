@@ -17321,3 +17321,4 @@ mutinyhq.io CNAME .
 api.clickup.com CNAME .
 api.exchangeratesapi.io CNAME .
 exchangeratesapi.io CNAME .
+user-data.mutinycdn.com CNAME .

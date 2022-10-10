@@ -17429,3 +17429,4 @@
 0.0.0.0 api.clickup.com
 0.0.0.0 api.exchangeratesapi.io
 0.0.0.0 exchangeratesapi.io
+0.0.0.0 user-data.mutinycdn.com

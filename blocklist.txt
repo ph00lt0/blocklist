@@ -17916,3 +17916,4 @@ happysocks.com##.cookies-consent-banner
 happysocks.com##+js(rc, lock-scroll, body, stay)
 happysocks.com##+js(rc, disabled, header, stay)
 ||discuss.privacyguides.org/clicks^
+||discuss.grapheneos.org/clicks^

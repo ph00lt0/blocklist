@@ -14519,7 +14519,7 @@
 0.0.0.0 cookiebot.eu
 ! allow coolblue.eu reason: not a tracker
 0.0.0.0 cormes.de
-0.0.0.0 cosstores.com
+! allow cosstores.com reason: it is required for images and content of cos.com
 
 0.0.0.0 cptrack.de
 0.0.0.0 creditreform.de

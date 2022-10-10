@@ -14839,7 +14839,7 @@ $removeparam=engagement_type
 ||cookiebot.eu^
 ||coolblue.eu^$badfilter  # not a tracker
 ||cormes.de^
-||cosstores.com^
+||cosstores.com^$badfilter  # it is required for images and content of cos.com
 
 ||cptrack.de^
 ||creditreform.de^

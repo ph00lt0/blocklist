@@ -14411,7 +14411,7 @@ contentspread.net CNAME .
 cookiebot.eu CNAME .
 ; allow coolblue.eu reason: not a tracker
 cormes.de CNAME .
-cosstores.com CNAME .
+; allow cosstores.com reason: it is required for images and content of cos.com
 
 cptrack.de CNAME .
 creditreform.de CNAME .

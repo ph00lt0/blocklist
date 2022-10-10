@@ -14414,7 +14414,7 @@ local-zone: "contentspread.net." always_null
 local-zone: "cookiebot.eu." always_null
 # allow coolblue.eu reason: not a tracker
 local-zone: "cormes.de." always_null
-local-zone: "cosstores.com." always_null
+# allow cosstores.com reason: it is required for images and content of cos.com
 local-zone: "cosystatic-prod.edgekey.net." always_null
 local-zone: "cptrack.de." always_null
 local-zone: "creditreform.de." always_null

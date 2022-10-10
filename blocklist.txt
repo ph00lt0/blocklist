@@ -17911,3 +17911,4 @@ community.cloudflare.com##.modal-backdrop
 ||analytics.agoda.com^
 ||bento.agoda.com^
 ||help.eurostar.com^$removeparam=intcmp_HP_Header
+||chat.kindlycdn.com^

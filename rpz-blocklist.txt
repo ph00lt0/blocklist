@@ -17306,3 +17306,4 @@ rmtag.com CNAME .
 stchatscripts.blob.core.windows.net CNAME .
 analytics.agoda.com CNAME .
 bento.agoda.com CNAME .
+chat.kindlycdn.com CNAME .

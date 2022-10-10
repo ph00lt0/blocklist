@@ -17920,3 +17920,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||links1.clickup.com^
 ||clickup.com^
 ||thepointyspritesclub.com^
+||trc-events.taboola.com^

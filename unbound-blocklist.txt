@@ -17313,3 +17313,4 @@ local-zone: "chat.kindlycdn.com." always_null
 local-zone: "links1.clickup.com." always_null
 local-zone: "clickup.com." always_null
 local-zone: "thepointyspritesclub.com." always_null
+local-zone: "trc-events.taboola.com." always_null

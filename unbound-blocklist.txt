@@ -17325,3 +17325,4 @@ local-zone: "api.clickup.com." always_null
 local-zone: "api.exchangeratesapi.io." always_null
 local-zone: "exchangeratesapi.io." always_null
 local-zone: "user-data.mutinycdn.com." always_null
+local-zone: "web-sdk-cdn.singular.net." always_null

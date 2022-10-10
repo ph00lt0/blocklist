@@ -17327,3 +17327,4 @@ local-zone: "exchangeratesapi.io." always_null
 local-zone: "user-data.mutinycdn.com." always_null
 local-zone: "web-sdk-cdn.singular.net." always_null
 local-zone: "cdn.pdst.fm." always_null
+local-zone: ".clearbitjs.com." always_null

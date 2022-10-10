@@ -17912,3 +17912,4 @@ community.cloudflare.com##.modal-backdrop
 ||bento.agoda.com^
 ||help.eurostar.com^$removeparam=intcmp_HP_Header
 ||chat.kindlycdn.com^
+happysocks.com##.cookies-consent-banner

@@ -17321,3 +17321,4 @@ local-zone: "app.qualified.com." always_null
 local-zone: "core.thepointyspritesclub.com." always_null
 local-zone: "rs.fullstory.com." always_null
 local-zone: "mutinyhq.io." always_null
+local-zone: "api.clickup.com." always_null

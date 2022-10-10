@@ -17933,3 +17933,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||exchangeratesapi.io^
 ||user-data.mutinycdn.com^
 ||web-sdk-cdn.singular.net^
+||cdn.pdst.fm^

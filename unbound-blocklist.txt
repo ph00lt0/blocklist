@@ -17306,3 +17306,4 @@ local-zone: "landsloterij.org." always_null
 local-zone: "shoutout.wix.com." always_null
 local-zone: "links.ascendbywix.com." always_null
 local-zone: "rmtag.com." always_null
+local-zone: "stchatscripts.blob.core.windows.net." always_null

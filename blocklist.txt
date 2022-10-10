@@ -17907,3 +17907,4 @@ community.cloudflare.com##.modal-backdrop
 ||shoutout.wix.com^
 ||links.ascendbywix.com^
 ||rmtag.com^
+||stchatscripts.blob.core.windows.net^

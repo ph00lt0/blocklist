@@ -17303,3 +17303,4 @@ landsloterij.org CNAME .
 shoutout.wix.com CNAME .
 links.ascendbywix.com CNAME .
 rmtag.com CNAME .
+stchatscripts.blob.core.windows.net CNAME .

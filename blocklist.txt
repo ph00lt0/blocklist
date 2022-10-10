@@ -17910,3 +17910,4 @@ community.cloudflare.com##.modal-backdrop
 ||stchatscripts.blob.core.windows.net^
 ||analytics.agoda.com^
 ||bento.agoda.com^
+||help.eurostar.com^$removeparam=intcmp_HP_Header

@@ -17332,3 +17332,4 @@ pixel.pointmediatracker.com CNAME .
 pointmediatracker.com CNAME .
 apt.techtarget.com CNAME .
 us-central1-adaptive-growth.cloudfunctions.net CNAME .
+lift-ai-js.marketlinc.com CNAME .

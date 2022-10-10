@@ -17335,3 +17335,4 @@ local-zone: "pixel.pointmediatracker.com." always_null
 local-zone: "pointmediatracker.com." always_null
 local-zone: "apt.techtarget.com." always_null
 local-zone: "us-central1-adaptive-growth.cloudfunctions.net." always_null
+local-zone: "lift-ai-js.marketlinc.com." always_null

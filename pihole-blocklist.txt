@@ -17440,3 +17440,4 @@
 0.0.0.0 pointmediatracker.com
 0.0.0.0 apt.techtarget.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
+0.0.0.0 lift-ai-js.marketlinc.com

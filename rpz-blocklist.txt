@@ -17315,3 +17315,4 @@ marketlinc.com CNAME .
 visitor-scoring-c.marketlinc.com CNAME .
 app.clearbit.com CNAME .
 app.qualified.com CNAME .
+core.thepointyspritesclub.com CNAME .

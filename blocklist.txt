@@ -17925,3 +17925,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||visitor-scoring-c.marketlinc.com^
 ||app.clearbit.com^
 ||app.qualified.com^
+||core.thepointyspritesclub.com^

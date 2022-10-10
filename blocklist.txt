@@ -17944,3 +17944,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||us-central1-adaptive-growth.cloudfunctions.net^
 ||facebook.com/tr^
 ||lift-ai-js.marketlinc.com^
+||cnv.event.prod.bidr.io^

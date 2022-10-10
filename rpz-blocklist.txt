@@ -17327,3 +17327,4 @@ cdn.pdst.fm CNAME .
 .clearbitjs.com CNAME .
 js.qualified.com CNAME .
 techtarget.com CNAME .
+s.pinimg.com CNAME .

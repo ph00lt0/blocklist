@@ -17937,3 +17937,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||.clearbitjs.com^
 ||js.qualified.com^
 ||techtarget.com^
+||s.pinimg.com^

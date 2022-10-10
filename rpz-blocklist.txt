@@ -17328,3 +17328,4 @@ cdn.pdst.fm CNAME .
 js.qualified.com CNAME .
 techtarget.com CNAME .
 s.pinimg.com CNAME .
+pixel.pointmediatracker.com CNAME .

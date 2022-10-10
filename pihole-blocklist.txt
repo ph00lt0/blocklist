@@ -17421,3 +17421,4 @@
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 marketlinc.com
 0.0.0.0 visitor-scoring-c.marketlinc.com
+0.0.0.0 app.clearbit.com

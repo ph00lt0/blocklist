@@ -17417,3 +17417,4 @@
 0.0.0.0 chat.kindlycdn.com
 0.0.0.0 links1.clickup.com
 0.0.0.0 clickup.com
+0.0.0.0 thepointyspritesclub.com

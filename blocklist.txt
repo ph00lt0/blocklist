@@ -17919,3 +17919,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||discuss.grapheneos.org/clicks^
 ||links1.clickup.com^
 ||clickup.com^
+||thepointyspritesclub.com^

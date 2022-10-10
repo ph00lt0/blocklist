@@ -17309,3 +17309,4 @@ bento.agoda.com CNAME .
 chat.kindlycdn.com CNAME .
 links1.clickup.com CNAME .
 clickup.com CNAME .
+thepointyspritesclub.com CNAME .

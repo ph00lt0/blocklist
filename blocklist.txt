@@ -17905,3 +17905,4 @@ community.cloudflare.com##.modal-backdrop
 ||pepper.com^
 ||landsloterij.org^
 ||shoutout.wix.com^
+||links.ascendbywix.com^

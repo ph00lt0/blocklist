@@ -17942,3 +17942,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||pointmediatracker.com^
 ||apt.techtarget.com^
 ||us-central1-adaptive-growth.cloudfunctions.net^
+||facebook.com/tr^

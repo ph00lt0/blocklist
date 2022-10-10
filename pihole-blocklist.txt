@@ -17438,3 +17438,4 @@
 0.0.0.0 s.pinimg.com
 0.0.0.0 pixel.pointmediatracker.com
 0.0.0.0 pointmediatracker.com
+0.0.0.0 apt.techtarget.com

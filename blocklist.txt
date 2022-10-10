@@ -17940,3 +17940,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||s.pinimg.com^
 ||pixel.pointmediatracker.com^
 ||pointmediatracker.com^
+||apt.techtarget.com^

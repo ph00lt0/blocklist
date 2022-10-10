@@ -17922,3 +17922,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||thepointyspritesclub.com^
 ||trc-events.taboola.com^
 ||marketlinc.com^
+||visitor-scoring-c.marketlinc.com^

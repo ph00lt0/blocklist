@@ -17420,3 +17420,4 @@
 0.0.0.0 thepointyspritesclub.com
 0.0.0.0 trc-events.taboola.com
 0.0.0.0 marketlinc.com
+0.0.0.0 visitor-scoring-c.marketlinc.com

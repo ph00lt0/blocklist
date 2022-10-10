@@ -17315,3 +17315,4 @@ local-zone: "clickup.com." always_null
 local-zone: "thepointyspritesclub.com." always_null
 local-zone: "trc-events.taboola.com." always_null
 local-zone: "marketlinc.com." always_null
+local-zone: "visitor-scoring-c.marketlinc.com." always_null

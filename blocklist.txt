@@ -17914,3 +17914,4 @@ community.cloudflare.com##.modal-backdrop
 ||chat.kindlycdn.com^
 happysocks.com##.cookies-consent-banner
 happysocks.com##+js(rc, lock-scroll, body, stay)
+happysocks.com##+js(rc, disabled, header, stay)

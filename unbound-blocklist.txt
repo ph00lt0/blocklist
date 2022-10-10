@@ -17311,3 +17311,4 @@ local-zone: "analytics.agoda.com." always_null
 local-zone: "bento.agoda.com." always_null
 local-zone: "chat.kindlycdn.com." always_null
 local-zone: "links1.clickup.com." always_null
+local-zone: "clickup.com." always_null

@@ -17320,3 +17320,4 @@ rs.fullstory.com CNAME .
 mutinyhq.io CNAME .
 api.clickup.com CNAME .
 api.exchangeratesapi.io CNAME .
+exchangeratesapi.io CNAME .

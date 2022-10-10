@@ -17930,3 +17930,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||mutinyhq.io^
 ||api.clickup.com^
 ||api.exchangeratesapi.io^
+||exchangeratesapi.io^

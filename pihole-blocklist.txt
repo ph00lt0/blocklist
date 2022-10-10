@@ -17413,3 +17413,4 @@
 0.0.0.0 rmtag.com
 0.0.0.0 stchatscripts.blob.core.windows.net
 0.0.0.0 analytics.agoda.com
+0.0.0.0 bento.agoda.com

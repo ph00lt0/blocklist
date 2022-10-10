@@ -17308,3 +17308,4 @@ local-zone: "links.ascendbywix.com." always_null
 local-zone: "rmtag.com." always_null
 local-zone: "stchatscripts.blob.core.windows.net." always_null
 local-zone: "analytics.agoda.com." always_null
+local-zone: "bento.agoda.com." always_null

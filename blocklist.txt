@@ -17935,3 +17935,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||web-sdk-cdn.singular.net^
 ||cdn.pdst.fm^
 ||.clearbitjs.com^
+||js.qualified.com^

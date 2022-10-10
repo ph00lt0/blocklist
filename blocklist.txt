@@ -17927,3 +17927,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||app.qualified.com^
 ||core.thepointyspritesclub.com^
 ||rs.fullstory.com^
+||mutinyhq.io^

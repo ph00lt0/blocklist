@@ -17319,3 +17319,4 @@ local-zone: "visitor-scoring-c.marketlinc.com." always_null
 local-zone: "app.clearbit.com." always_null
 local-zone: "app.qualified.com." always_null
 local-zone: "core.thepointyspritesclub.com." always_null
+local-zone: "rs.fullstory.com." always_null

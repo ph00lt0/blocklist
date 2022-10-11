@@ -17954,3 +17954,4 @@ onvz.nl##html:style(overflow: auto!important)
 ||analytics.synchrony.com^
 ||analytics.mysynchrony.com^
 ||securemetrics.mysynchrony.com^
+||iva.synchronycredit.com^

@@ -17343,3 +17343,4 @@ local-zone: "lotingwoning.nl." always_null
 local-zone: "analytics.synchrony.com." always_null
 local-zone: "analytics.mysynchrony.com." always_null
 local-zone: "securemetrics.mysynchrony.com." always_null
+local-zone: "iva.synchronycredit.com." always_null

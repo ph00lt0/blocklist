@@ -17340,3 +17340,4 @@ lotingwoning.nl CNAME .
 analytics.synchrony.com CNAME .
 analytics.mysynchrony.com CNAME .
 securemetrics.mysynchrony.com CNAME .
+iva.synchronycredit.com CNAME .

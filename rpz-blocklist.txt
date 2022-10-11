@@ -17349,3 +17349,4 @@ bits.avcdn.net CNAME .
 ensighten.norton.com CNAME .
 fpt.norton.com CNAME .
 click.emails.avast.com CNAME .
+emails.avast.com CNAME .

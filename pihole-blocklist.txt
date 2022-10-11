@@ -17449,3 +17449,4 @@
 0.0.0.0 analytics.mysynchrony.com
 0.0.0.0 securemetrics.mysynchrony.com
 0.0.0.0 iva.synchronycredit.com
+0.0.0.0 secureanalytics.synchronycredit.com

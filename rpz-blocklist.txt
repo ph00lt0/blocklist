@@ -17342,3 +17342,4 @@ analytics.mysynchrony.com CNAME .
 securemetrics.mysynchrony.com CNAME .
 iva.synchronycredit.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
+s-install.avcdn.net CNAME .

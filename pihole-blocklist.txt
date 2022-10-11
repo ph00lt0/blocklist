@@ -17450,3 +17450,4 @@
 0.0.0.0 securemetrics.mysynchrony.com
 0.0.0.0 iva.synchronycredit.com
 0.0.0.0 secureanalytics.synchronycredit.com
+0.0.0.0 s-install.avcdn.net

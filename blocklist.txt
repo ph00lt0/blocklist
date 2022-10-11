@@ -17961,3 +17961,4 @@ $removeparam=avast
 ||online.fleetcorcards.be^
 ||medallia.eu^
 ||bits.avcdn.net^
+||ensighten.norton.com^

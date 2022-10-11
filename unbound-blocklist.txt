@@ -17339,3 +17339,4 @@ local-zone: "lift-ai-js.marketlinc.com." always_null
 local-zone: "cnv.event.prod.bidr.io." always_null
 local-zone: "mail.clickup.com." always_null
 local-zone: "email.onvz.nl." always_null
+local-zone: "lotingwoning.nl." always_null

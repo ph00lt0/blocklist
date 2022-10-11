@@ -17453,3 +17453,4 @@
 0.0.0.0 s-install.avcdn.net
 0.0.0.0 online.fleetcorcards.be
 0.0.0.0 medallia.eu
+0.0.0.0 bits.avcdn.net

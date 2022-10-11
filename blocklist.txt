@@ -17949,4 +17949,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||email.onvz.nl^
 onvz.nl###ost-btn-accept-all-cookies
 onvz.nl##.usabilla__overlay
-onvz.nl##body:style(overflow: auto!important)
+onvz.nl##html:style(overflow: auto!important)

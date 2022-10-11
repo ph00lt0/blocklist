@@ -17962,3 +17962,4 @@ $removeparam=avast
 ||medallia.eu^
 ||bits.avcdn.net^
 ||ensighten.norton.com^
+||fpt.norton.com^

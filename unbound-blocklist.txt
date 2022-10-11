@@ -17350,3 +17350,4 @@ local-zone: "online.fleetcorcards.be." always_null
 local-zone: "medallia.eu." always_null
 local-zone: "bits.avcdn.net." always_null
 local-zone: "ensighten.norton.com." always_null
+local-zone: "fpt.norton.com." always_null

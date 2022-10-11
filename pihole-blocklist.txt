@@ -17455,3 +17455,4 @@
 0.0.0.0 medallia.eu
 0.0.0.0 bits.avcdn.net
 0.0.0.0 ensighten.norton.com
+0.0.0.0 fpt.norton.com

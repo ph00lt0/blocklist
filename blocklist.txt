@@ -17957,3 +17957,4 @@ onvz.nl##html:style(overflow: auto!important)
 ||iva.synchronycredit.com^
 ||secureanalytics.synchronycredit.com^
 ||s-install.avcdn.net^
+$removeparam=avast

@@ -17339,3 +17339,4 @@ email.onvz.nl CNAME .
 lotingwoning.nl CNAME .
 analytics.synchrony.com CNAME .
 analytics.mysynchrony.com CNAME .
+securemetrics.mysynchrony.com CNAME .

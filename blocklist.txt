@@ -17953,3 +17953,4 @@ onvz.nl##html:style(overflow: auto!important)
 ||lotingwoning.nl^
 ||analytics.synchrony.com^
 ||analytics.mysynchrony.com^
+||securemetrics.mysynchrony.com^

@@ -17341,3 +17341,4 @@ local-zone: "mail.clickup.com." always_null
 local-zone: "email.onvz.nl." always_null
 local-zone: "lotingwoning.nl." always_null
 local-zone: "analytics.synchrony.com." always_null
+local-zone: "analytics.mysynchrony.com." always_null

@@ -17948,3 +17948,4 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||mail.clickup.com^
 ||email.onvz.nl^
 onvz.nl###ost-btn-accept-all-cookies
+onvz.nl##.usabilla__overlay

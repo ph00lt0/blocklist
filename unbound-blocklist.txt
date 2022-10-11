@@ -17347,3 +17347,4 @@ local-zone: "iva.synchronycredit.com." always_null
 local-zone: "secureanalytics.synchronycredit.com." always_null
 local-zone: "s-install.avcdn.net." always_null
 local-zone: "online.fleetcorcards.be." always_null
+local-zone: "medallia.eu." always_null

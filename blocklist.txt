@@ -17959,3 +17959,4 @@ onvz.nl##html:style(overflow: auto!important)
 ||s-install.avcdn.net^
 $removeparam=avast
 ||online.fleetcorcards.be^
+||medallia.eu^

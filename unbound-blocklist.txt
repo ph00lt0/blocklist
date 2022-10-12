@@ -17353,3 +17353,5 @@ local-zone: "ensighten.norton.com." always_null
 local-zone: "fpt.norton.com." always_null
 local-zone: "click.emails.avast.com." always_null
 local-zone: "emails.avast.com." always_null
+local-zone: "t03.h-ams.net." always_null
+local-zone: "pfa.levexis.com." always_null

@@ -17350,3 +17350,5 @@ ensighten.norton.com CNAME .
 fpt.norton.com CNAME .
 click.emails.avast.com CNAME .
 emails.avast.com CNAME .
+t03.h-ams.net CNAME .
+pfa.levexis.com CNAME .

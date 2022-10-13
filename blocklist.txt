@@ -17968,3 +17968,4 @@ $removeparam=avast
 ||t03.h-ams.net^
 ||pfa.levexis.com^
 ||picnik.nl^
+||findingsale.nl^

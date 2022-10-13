@@ -17353,3 +17353,4 @@ emails.avast.com CNAME .
 t03.h-ams.net CNAME .
 pfa.levexis.com CNAME .
 picnik.nl CNAME .
+findingsale.nl CNAME .

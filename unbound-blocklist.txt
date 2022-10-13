@@ -17358,3 +17358,4 @@ local-zone: "pfa.levexis.com." always_null
 local-zone: "picnik.nl." always_null
 local-zone: "findingsale.nl." always_null
 local-zone: "fijdingsale.com." always_null
+local-zone: "nistoresio.co.cz." always_null

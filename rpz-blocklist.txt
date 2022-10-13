@@ -17355,3 +17355,4 @@ pfa.levexis.com CNAME .
 picnik.nl CNAME .
 findingsale.nl CNAME .
 fijdingsale.com CNAME .
+nistoresio.co.cz CNAME .

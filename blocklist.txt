@@ -17967,3 +17967,4 @@ $removeparam=avast
 ||emails.avast.com^
 ||t03.h-ams.net^
 ||pfa.levexis.com^
+||picnik.nl^

@@ -17971,3 +17971,4 @@ $removeparam=avast
 ||findingsale.nl^
 ||fijdingsale.com^
 ||nistoresio.co.cz^
+||barsmtp.monster^

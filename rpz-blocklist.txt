@@ -17356,3 +17356,4 @@ picnik.nl CNAME .
 findingsale.nl CNAME .
 fijdingsale.com CNAME .
 nistoresio.co.cz CNAME .
+barsmtp.monster CNAME .

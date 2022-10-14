@@ -14346,7 +14346,7 @@ local-zone: "chl-network.s3.amazonaws.com." always_null
 local-zone: "chl.ca." always_null
 local-zone: "chlfanbase.ca." always_null
 local-zone: "chooinkya.com." always_null
-local-zone: "cimpress.io." always_null
+# allow cimpress.io reason: required for webshop SKU
 local-zone: "ciqtracking.com." always_null
 local-zone: "citydsp.com." always_null
 local-zone: "clario.cloud." always_null

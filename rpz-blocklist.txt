@@ -14343,7 +14343,7 @@ chl-network.s3.amazonaws.com CNAME .
 chl.ca CNAME .
 chlfanbase.ca CNAME .
 chooinkya.com CNAME .
-cimpress.io CNAME .
+; allow cimpress.io reason: required for webshop SKU
 ciqtracking.com CNAME .
 citydsp.com CNAME .
 clario.cloud CNAME .

@@ -14451,7 +14451,7 @@
 0.0.0.0 chl.ca
 0.0.0.0 chlfanbase.ca
 0.0.0.0 chooinkya.com
-0.0.0.0 cimpress.io
+! allow cimpress.io reason: required for webshop SKU
 0.0.0.0 ciqtracking.com
 0.0.0.0 citydsp.com
 0.0.0.0 clario.cloud

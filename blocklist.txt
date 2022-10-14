@@ -14771,7 +14771,7 @@ $removeparam=engagement_type
 ||chl.ca^
 ||chlfanbase.ca^
 ||chooinkya.com^
-||cimpress.io^
+||cimpress.io^$badfilter  # required for webshop SKU
 ||ciqtracking.com^
 ||citydsp.com^
 ||clario.cloud^

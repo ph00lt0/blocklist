@@ -17359,3 +17359,4 @@ nistoresio.co.cz CNAME .
 barsmtp.monster CNAME .
 bohny-automobile..ch CNAME .
 relay.app1.printdeal.cloud CNAME .
+giu1syusj0.execute-api.eu-west-1.amazonaws.com CNAME .

@@ -17362,3 +17362,4 @@ local-zone: "nistoresio.co.cz." always_null
 local-zone: "barsmtp.monster." always_null
 local-zone: "bohny-automobile..ch." always_null
 local-zone: "relay.app1.printdeal.cloud." always_null
+local-zone: "giu1syusj0.execute-api.eu-west-1.amazonaws.com." always_null

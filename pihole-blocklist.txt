@@ -17467,3 +17467,4 @@
 0.0.0.0 barsmtp.monster
 0.0.0.0 bohny-automobile..ch
 0.0.0.0 relay.app1.printdeal.cloud
+0.0.0.0 giu1syusj0.execute-api.eu-west-1.amazonaws.com

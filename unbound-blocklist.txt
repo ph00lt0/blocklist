@@ -17361,3 +17361,4 @@ local-zone: "fijdingsale.com." always_null
 local-zone: "nistoresio.co.cz." always_null
 local-zone: "barsmtp.monster." always_null
 local-zone: "bohny-automobile..ch." always_null
+local-zone: "relay.app1.printdeal.cloud." always_null

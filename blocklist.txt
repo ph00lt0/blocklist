@@ -17973,3 +17973,4 @@ $removeparam=avast
 ||nistoresio.co.cz^
 ||barsmtp.monster^
 ||bohny-automobile..ch^
+||relay.app1.printdeal.cloud^

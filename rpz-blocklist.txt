@@ -17358,3 +17358,4 @@ fijdingsale.com CNAME .
 nistoresio.co.cz CNAME .
 barsmtp.monster CNAME .
 bohny-automobile..ch CNAME .
+relay.app1.printdeal.cloud CNAME .

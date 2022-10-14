@@ -12214,7 +12214,7 @@ ensighten.postoffice.co.uk CNAME .
 tags.experian.co.uk CNAME .
 sundaysky.com CNAME .
 play.sundaysky.com CNAME .
-wpengine.com CNAME .
+; allow wpengine.com reason: CDN
 livechat-metrics.messagebird.com CNAME .
 headwayapp.co CNAME .
 cdn.headwayapp.co CNAME .

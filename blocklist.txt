@@ -12619,7 +12619,7 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||tags.experian.co.uk^
 ||sundaysky.com^
 ||play.sundaysky.com^
-||wpengine.com^
+||wpengine.com^$badfilter  # CDN
 ||livechat-metrics.messagebird.com^
 ||headwayapp.co^
 ||cdn.headwayapp.co^

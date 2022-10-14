@@ -12217,7 +12217,7 @@ local-zone: "ensighten.postoffice.co.uk." always_null
 local-zone: "tags.experian.co.uk." always_null
 local-zone: "sundaysky.com." always_null
 local-zone: "play.sundaysky.com." always_null
-local-zone: "wpengine.com." always_null
+# allow wpengine.com reason: CDN
 local-zone: "livechat-metrics.messagebird.com." always_null
 local-zone: "headwayapp.co." always_null
 local-zone: "cdn.headwayapp.co." always_null

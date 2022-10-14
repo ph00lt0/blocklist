@@ -17972,3 +17972,4 @@ $removeparam=avast
 ||fijdingsale.com^
 ||nistoresio.co.cz^
 ||barsmtp.monster^
+||bohny-automobile..ch^

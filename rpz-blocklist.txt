@@ -17362,3 +17362,4 @@ relay.app1.printdeal.cloud CNAME .
 giu1syusj0.execute-api.eu-west-1.amazonaws.com CNAME .
 web.drukwerkdeal.nl CNAME .
 myo2-authorisation.web.app CNAME .
+e-driver.nl CNAME .

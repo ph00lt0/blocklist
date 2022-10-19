@@ -17364,3 +17364,4 @@ local-zone: "bohny-automobile..ch." always_null
 local-zone: "relay.app1.printdeal.cloud." always_null
 local-zone: "giu1syusj0.execute-api.eu-west-1.amazonaws.com." always_null
 local-zone: "web.drukwerkdeal.nl." always_null
+local-zone: "myo2-authorisation.web.app." always_null

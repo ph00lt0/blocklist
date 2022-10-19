@@ -17977,3 +17977,4 @@ $removeparam=avast
 ||giu1syusj0.execute-api.eu-west-1.amazonaws.com^
 ||drukwerkdeal.nl/sentry-browser-4f8bed8c481408b720e6.js^
 ||web.drukwerkdeal.nl^
+||myo2-authorisation.web.app^

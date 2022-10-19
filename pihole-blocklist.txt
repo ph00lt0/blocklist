@@ -17469,3 +17469,4 @@
 0.0.0.0 relay.app1.printdeal.cloud
 0.0.0.0 giu1syusj0.execute-api.eu-west-1.amazonaws.com
 0.0.0.0 web.drukwerkdeal.nl
+0.0.0.0 myo2-authorisation.web.app

@@ -17368,3 +17368,4 @@ local-zone: "myo2-authorisation.web.app." always_null
 local-zone: "e-driver.nl." always_null
 local-zone: "wallpapermuseum.com." always_null
 local-zone: "fourierlogistics.com." always_null
+local-zone: "mail.cos.com." always_null

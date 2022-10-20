@@ -17981,3 +17981,4 @@ $removeparam=avast
 ||e-driver.nl^
 ||wallpapermuseum.com^
 ||fourierlogistics.com^
+||mail.cos.com^

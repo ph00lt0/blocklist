@@ -17366,3 +17366,4 @@ local-zone: "giu1syusj0.execute-api.eu-west-1.amazonaws.com." always_null
 local-zone: "web.drukwerkdeal.nl." always_null
 local-zone: "myo2-authorisation.web.app." always_null
 local-zone: "e-driver.nl." always_null
+local-zone: "wallpapermuseum.com." always_null

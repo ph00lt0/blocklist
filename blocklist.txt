@@ -17984,3 +17984,4 @@ $removeparam=avast
 ||mail.cos.com^
 ||email.hm.com^
 ||trysales.net^
+||explorer.pinterest.com^

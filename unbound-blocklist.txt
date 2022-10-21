@@ -17370,3 +17370,4 @@ local-zone: "wallpapermuseum.com." always_null
 local-zone: "fourierlogistics.com." always_null
 local-zone: "mail.cos.com." always_null
 local-zone: "email.hm.com." always_null
+local-zone: "trysales.net." always_null

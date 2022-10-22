@@ -17373,3 +17373,4 @@ local-zone: "email.hm.com." always_null
 local-zone: "trysales.net." always_null
 local-zone: "explorer.pinterest.com." always_null
 local-zone: "mediapvx.com." always_null
+local-zone: "analytics.dashboard.fingerprint.com." always_null

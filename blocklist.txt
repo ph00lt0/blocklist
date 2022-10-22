@@ -17987,3 +17987,4 @@ $removeparam=avast
 ||explorer.pinterest.com^
 $removeparam=cvid
 ||mediapvx.com^
+||analytics.dashboard.fingerprint.com^

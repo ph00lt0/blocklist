@@ -13677,7 +13677,7 @@ $removeparam=engagement_type
 ||a-kmtkmg.net^
 ||a-lehdet.fi^
 ||a-mpd.com^
-||a-msedge.net^
+||a-msedge.net^$badfilter  # CDN
 ||a-mx.com^
 ||a07ab9344ba664701878fcbc535973ec-983232249.eu-central-1.elb.amazonaws.com^
 ||a0e50ef73607b11e79ba902bfc1c6ba7-25949453.ap-southeast-2.elb.amazonaws.com^

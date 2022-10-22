@@ -13358,7 +13358,7 @@
 0.0.0.0 a-kmtkmg.net
 0.0.0.0 a-lehdet.fi
 0.0.0.0 a-mpd.com
-0.0.0.0 a-msedge.net
+! allow a-msedge.net reason: CDN
 0.0.0.0 a-mx.com
 0.0.0.0 a07ab9344ba664701878fcbc535973ec-983232249.eu-central-1.elb.amazonaws.com
 0.0.0.0 a0e50ef73607b11e79ba902bfc1c6ba7-25949453.ap-southeast-2.elb.amazonaws.com

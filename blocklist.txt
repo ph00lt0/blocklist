@@ -17986,3 +17986,4 @@ $removeparam=avast
 ||trysales.net^
 ||explorer.pinterest.com^
 $removeparam=cvid
+||mediapvx.com^

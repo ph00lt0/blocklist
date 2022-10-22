@@ -17985,3 +17985,4 @@ $removeparam=avast
 ||email.hm.com^
 ||trysales.net^
 ||explorer.pinterest.com^
+$removeparam=cvid

@@ -17988,3 +17988,4 @@ $removeparam=avast
 $removeparam=cvid
 ||mediapvx.com^
 ||analytics.dashboard.fingerprint.com^
+||fpa.fingerprint.com^

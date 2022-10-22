@@ -17479,3 +17479,4 @@
 0.0.0.0 explorer.pinterest.com
 0.0.0.0 mediapvx.com
 0.0.0.0 analytics.dashboard.fingerprint.com
+0.0.0.0 fpa.fingerprint.com

@@ -17375,3 +17375,4 @@ local-zone: "explorer.pinterest.com." always_null
 local-zone: "mediapvx.com." always_null
 local-zone: "analytics.dashboard.fingerprint.com." always_null
 local-zone: "fpa.fingerprint.com." always_null
+local-zone: "c.fingerprint.com." always_null

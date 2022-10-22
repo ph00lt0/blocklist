@@ -17372,3 +17372,4 @@ explorer.pinterest.com CNAME .
 mediapvx.com CNAME .
 analytics.dashboard.fingerprint.com CNAME .
 fpa.fingerprint.com CNAME .
+c.fingerprint.com CNAME .

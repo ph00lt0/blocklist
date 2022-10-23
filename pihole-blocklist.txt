@@ -17481,3 +17481,4 @@
 0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 fpa.fingerprint.com
 0.0.0.0 c.fingerprint.com
+0.0.0.0 takemyquote.com

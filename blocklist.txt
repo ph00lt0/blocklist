@@ -17996,3 +17996,4 @@ $removeparam=cvid
 ||weasterhome.cn^
 ||webmasterhome.cn^
 ||go.slalom.com^
+||facechk.com^

@@ -17991,3 +17991,4 @@ $removeparam=cvid
 ||fpa.fingerprint.com^
 ||c.fingerprint.com^
 ||takemyquote.com^
+||trycoupons.net^

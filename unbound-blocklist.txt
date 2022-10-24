@@ -17377,3 +17377,4 @@ local-zone: "analytics.dashboard.fingerprint.com." always_null
 local-zone: "fpa.fingerprint.com." always_null
 local-zone: "c.fingerprint.com." always_null
 local-zone: "takemyquote.com." always_null
+local-zone: "trycoupons.net." always_null

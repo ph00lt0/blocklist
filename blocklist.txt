@@ -18002,3 +18002,4 @@ $removeparam=cvid
 ||audiencr.com^
 ||24bdresults.com^
 ||fcb-sd.com^
+||visiontotalsas.com^

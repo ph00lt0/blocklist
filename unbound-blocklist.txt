@@ -17390,3 +17390,4 @@ local-zone: "24bdresults.com." always_null
 local-zone: "fcb-sd.com." always_null
 local-zone: "visiontotalsas.com." always_null
 local-zone: "links.bringatrailer.com." always_null
+local-zone: "getpixelme.com." always_null

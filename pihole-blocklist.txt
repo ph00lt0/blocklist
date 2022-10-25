@@ -17488,3 +17488,4 @@
 0.0.0.0 webmasterhome.cn
 0.0.0.0 go.slalom.com
 0.0.0.0 facechk.com
+0.0.0.0 pxlme.me

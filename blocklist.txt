@@ -17997,3 +17997,4 @@ $removeparam=cvid
 ||webmasterhome.cn^
 ||go.slalom.com^
 ||facechk.com^
+||pxlme.me^

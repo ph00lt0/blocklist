@@ -17380,3 +17380,4 @@ weasterhome.cn CNAME .
 webmasterhome.cn CNAME .
 go.slalom.com CNAME .
 facechk.com CNAME .
+pxlme.me CNAME .

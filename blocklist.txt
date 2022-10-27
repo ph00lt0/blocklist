@@ -18009,3 +18009,4 @@ $removeparam=cvid
 ||spyenterpri.space^
 ||774.gs^
 ||freesoft.dev^
+||localguidesconnect.com^

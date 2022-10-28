@@ -18011,3 +18011,4 @@ $removeparam=cvid
 ||freesoft.dev^
 ||localguidesconnect.com^
 ||cb.socialblade.com^
+||yeah.net^

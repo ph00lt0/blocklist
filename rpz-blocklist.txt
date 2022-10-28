@@ -17394,3 +17394,4 @@ spyenterpri.space CNAME .
 freesoft.dev CNAME .
 localguidesconnect.com CNAME .
 cb.socialblade.com CNAME .
+yeah.net CNAME .

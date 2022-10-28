@@ -17397,3 +17397,4 @@ local-zone: "774.gs." always_null
 local-zone: "freesoft.dev." always_null
 local-zone: "localguidesconnect.com." always_null
 local-zone: "cb.socialblade.com." always_null
+local-zone: "yeah.net." always_null

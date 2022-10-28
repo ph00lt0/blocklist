@@ -17395,3 +17395,4 @@ freesoft.dev CNAME .
 localguidesconnect.com CNAME .
 cb.socialblade.com CNAME .
 yeah.net CNAME .
+maquipan.cl CNAME .

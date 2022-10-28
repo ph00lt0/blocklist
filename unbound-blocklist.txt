@@ -17398,3 +17398,4 @@ local-zone: "freesoft.dev." always_null
 local-zone: "localguidesconnect.com." always_null
 local-zone: "cb.socialblade.com." always_null
 local-zone: "yeah.net." always_null
+local-zone: "maquipan.cl." always_null

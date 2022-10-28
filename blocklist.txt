@@ -18012,3 +18012,4 @@ $removeparam=cvid
 ||localguidesconnect.com^
 ||cb.socialblade.com^
 ||yeah.net^
+||maquipan.cl^

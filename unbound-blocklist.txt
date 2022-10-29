@@ -17400,3 +17400,4 @@ local-zone: "cb.socialblade.com." always_null
 local-zone: "yeah.net." always_null
 local-zone: "maquipan.cl." always_null
 local-zone: "rhlshipping.com." always_null
+local-zone: "pendroid.site." always_null

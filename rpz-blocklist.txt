@@ -17402,3 +17402,4 @@ i.tct-rom.com CNAME .
 kickdyn.com CNAME .
 autoemail.cos.com CNAME .
 p.notificatie.postnl.nl CNAME .
+open.convertkit-mail2.com CNAME .

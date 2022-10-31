@@ -17399,3 +17399,4 @@ maquipan.cl CNAME .
 rhlshipping.com CNAME .
 pendroid.site CNAME .
 i.tct-rom.com CNAME .
+kickdyn.com CNAME .

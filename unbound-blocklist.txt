@@ -17404,3 +17404,4 @@ local-zone: "pendroid.site." always_null
 local-zone: "i.tct-rom.com." always_null
 local-zone: "kickdyn.com." always_null
 local-zone: "autoemail.cos.com." always_null
+local-zone: "p.notificatie.postnl.nl." always_null

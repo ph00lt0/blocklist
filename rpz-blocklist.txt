@@ -17410,3 +17410,4 @@ snapppt.com CNAME .
 nagich.com CNAME .
 equalweb.com CNAME .
 aff.equalweb.com CNAME .
+trackingplan.com CNAME .

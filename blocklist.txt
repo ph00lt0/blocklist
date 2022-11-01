@@ -18025,3 +18025,4 @@ $removeparam=cvid
 ||beneribeiraopreto.com^
 ||robinhq.com^
 ||snapppt.com^
+||nagich.com^

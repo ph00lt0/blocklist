@@ -17403,3 +17403,4 @@ kickdyn.com CNAME .
 autoemail.cos.com CNAME .
 p.notificatie.postnl.nl CNAME .
 open.convertkit-mail2.com CNAME .
+info.com CNAME .

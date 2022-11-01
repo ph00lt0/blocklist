@@ -18022,3 +18022,4 @@ $removeparam=cvid
 ||open.convertkit-mail2.com^
 ||meet.google.com/_/MeetingsUi/browserinfo^
 ||info.com^
+||beneribeiraopreto.com^

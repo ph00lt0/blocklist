@@ -17411,3 +17411,4 @@ nagich.com CNAME .
 equalweb.com CNAME .
 aff.equalweb.com CNAME .
 trackingplan.com CNAME .
+config.trackingplan.com CNAME .

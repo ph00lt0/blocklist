@@ -17414,3 +17414,4 @@ local-zone: "nagich.com." always_null
 local-zone: "equalweb.com." always_null
 local-zone: "aff.equalweb.com." always_null
 local-zone: "trackingplan.com." always_null
+local-zone: "config.trackingplan.com." always_null

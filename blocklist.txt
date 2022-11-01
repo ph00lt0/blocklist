@@ -18029,3 +18029,4 @@ $removeparam=cvid
 ||equalweb.com^
 ||aff.equalweb.com^
 ||trackingplan.com^
+||config.trackingplan.com^

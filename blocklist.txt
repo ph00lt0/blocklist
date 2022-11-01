@@ -18027,3 +18027,4 @@ $removeparam=cvid
 ||snapppt.com^
 ||nagich.com^
 ||equalweb.com^
+||aff.equalweb.com^

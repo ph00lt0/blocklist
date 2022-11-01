@@ -17411,3 +17411,4 @@ local-zone: "beneribeiraopreto.com." always_null
 local-zone: "robinhq.com." always_null
 local-zone: "snapppt.com." always_null
 local-zone: "nagich.com." always_null
+local-zone: "equalweb.com." always_null

@@ -17408,3 +17408,4 @@ beneribeiraopreto.com CNAME .
 robinhq.com CNAME .
 snapppt.com CNAME .
 nagich.com CNAME .
+equalweb.com CNAME .

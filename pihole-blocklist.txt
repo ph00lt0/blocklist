@@ -17514,3 +17514,4 @@
 0.0.0.0 info.com
 0.0.0.0 beneribeiraopreto.com
 0.0.0.0 robinhq.com
+0.0.0.0 snapppt.com

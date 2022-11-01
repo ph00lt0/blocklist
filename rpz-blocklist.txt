@@ -17406,3 +17406,4 @@ open.convertkit-mail2.com CNAME .
 info.com CNAME .
 beneribeiraopreto.com CNAME .
 robinhq.com CNAME .
+snapppt.com CNAME .

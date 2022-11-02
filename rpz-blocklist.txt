@@ -17418,3 +17418,4 @@ hmimg.com CNAME .
 hubspotlinks.com CNAME .
 ext.frontusercontent.com CNAME .
 analytics.flipperdevices.com CNAME .
+plugin.sendinblue.com CNAME .

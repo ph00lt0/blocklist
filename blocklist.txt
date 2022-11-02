@@ -18036,3 +18036,4 @@ $removeparam=cvid
 ||hubspotlinks.com^
 ||ext.frontusercontent.com^
 ||analytics.flipperdevices.com^
+||plugin.sendinblue.com^

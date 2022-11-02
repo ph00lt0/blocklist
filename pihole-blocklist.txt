@@ -17526,3 +17526,4 @@
 0.0.0.0 hubspotlinks.com
 0.0.0.0 ext.frontusercontent.com
 0.0.0.0 analytics.flipperdevices.com
+0.0.0.0 plugin.sendinblue.com

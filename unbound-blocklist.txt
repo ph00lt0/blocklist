@@ -17422,3 +17422,4 @@ local-zone: "hubspotlinks.com." always_null
 local-zone: "ext.frontusercontent.com." always_null
 local-zone: "analytics.flipperdevices.com." always_null
 local-zone: "plugin.sendinblue.com." always_null
+local-zone: "sst.linda.nl." always_null

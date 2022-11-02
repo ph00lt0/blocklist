@@ -17420,3 +17420,4 @@ local-zone: "justdunnebaking.co.uk." always_null
 local-zone: "hmimg.com." always_null
 local-zone: "hubspotlinks.com." always_null
 local-zone: "ext.frontusercontent.com." always_null
+local-zone: "analytics.flipperdevices.com." always_null

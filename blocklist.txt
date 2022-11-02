@@ -18035,3 +18035,4 @@ $removeparam=cvid
 ||hmimg.com^
 ||hubspotlinks.com^
 ||ext.frontusercontent.com^
+||analytics.flipperdevices.com^

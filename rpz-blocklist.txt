@@ -17415,3 +17415,4 @@ config.trackingplan.com CNAME .
 growth-for-social-media.com CNAME .
 justdunnebaking.co.uk CNAME .
 hmimg.com CNAME .
+hubspotlinks.com CNAME .

@@ -6727,7 +6727,7 @@ local-zone: "size-guides.esc-apps-cdn.com." always_null
 local-zone: "ping-dot-acp-magento.appspot.com." always_null
 local-zone: "cleverecommerce.com." always_null
 local-zone: "nitroapps.co." always_null
-local-zone: "amaicdn.com." always_null
+# allow amaicdn.com reason: CDN
 local-zone: "mydatascript.bubbleup.com." always_null
 local-zone: "bubbleup.com." always_null
 local-zone: "cmp.ad.nl." always_null

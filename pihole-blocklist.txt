@@ -6829,7 +6829,7 @@
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 cleverecommerce.com
 0.0.0.0 nitroapps.co
-0.0.0.0 amaicdn.com
+! allow amaicdn.com reason: CDN
 0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 bubbleup.com
 0.0.0.0 cmp.ad.nl

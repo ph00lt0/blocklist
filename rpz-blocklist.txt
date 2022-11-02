@@ -6724,7 +6724,7 @@ size-guides.esc-apps-cdn.com CNAME .
 ping-dot-acp-magento.appspot.com CNAME .
 cleverecommerce.com CNAME .
 nitroapps.co CNAME .
-amaicdn.com CNAME .
+; allow amaicdn.com reason: CDN
 mydatascript.bubbleup.com CNAME .
 bubbleup.com CNAME .
 cmp.ad.nl CNAME .

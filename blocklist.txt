@@ -6935,7 +6935,7 @@ $removeparam=utm_v
 ||ping-dot-acp-magento.appspot.com^
 ||cleverecommerce.com^
 ||nitroapps.co^
-||amaicdn.com^
+||amaicdn.com^$badfilter  # CDN
 ||mydatascript.bubbleup.com^
 ||bubbleup.com^
 *.ffm.to##.privacy-notice-gdpr

@@ -17421,3 +17421,4 @@ analytics.flipperdevices.com CNAME .
 plugin.sendinblue.com CNAME .
 sst.linda.nl CNAME .
 tk.ilius.net CNAME .
+cdn.judge.me CNAME .

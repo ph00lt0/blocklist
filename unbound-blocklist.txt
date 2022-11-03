@@ -17424,3 +17424,4 @@ local-zone: "analytics.flipperdevices.com." always_null
 local-zone: "plugin.sendinblue.com." always_null
 local-zone: "sst.linda.nl." always_null
 local-zone: "tk.ilius.net." always_null
+local-zone: "cdn.judge.me." always_null

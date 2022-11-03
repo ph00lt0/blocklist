@@ -18043,3 +18043,4 @@ $removeparam=cvid
 ||tabs.stationmade.com^
 ||app.backinstock.org^
 ||gridinbound.blob.core.windows.net^
+||easylist.club^

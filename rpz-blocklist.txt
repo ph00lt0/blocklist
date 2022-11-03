@@ -17427,3 +17427,4 @@ app.backinstock.org CNAME .
 gridinbound.blob.core.windows.net CNAME .
 easylist.club CNAME .
 easylist-to.xyz CNAME .
+polosofa.com CNAME .

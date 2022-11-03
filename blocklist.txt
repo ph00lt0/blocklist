@@ -18044,3 +18044,4 @@ $removeparam=cvid
 ||app.backinstock.org^
 ||gridinbound.blob.core.windows.net^
 ||easylist.club^
+||easylist-to.xyz^

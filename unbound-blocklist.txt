@@ -17429,3 +17429,4 @@ local-zone: "tabs.stationmade.com." always_null
 local-zone: "app.backinstock.org." always_null
 local-zone: "gridinbound.blob.core.windows.net." always_null
 local-zone: "easylist.club." always_null
+local-zone: "easylist-to.xyz." always_null

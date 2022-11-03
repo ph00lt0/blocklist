@@ -17428,3 +17428,4 @@ gridinbound.blob.core.windows.net CNAME .
 easylist.club CNAME .
 easylist-to.xyz CNAME .
 polosofa.com CNAME .
+antara.net.id CNAME .

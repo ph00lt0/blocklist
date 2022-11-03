@@ -18046,3 +18046,4 @@ $removeparam=cvid
 ||easylist.club^
 ||easylist-to.xyz^
 ||polosofa.com^
+||antara.net.id^

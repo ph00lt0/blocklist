@@ -17536,3 +17536,4 @@
 0.0.0.0 easylist.club
 0.0.0.0 easylist-to.xyz
 0.0.0.0 polosofa.com
+0.0.0.0 antara.net.id

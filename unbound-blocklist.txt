@@ -17431,3 +17431,4 @@ local-zone: "gridinbound.blob.core.windows.net." always_null
 local-zone: "easylist.club." always_null
 local-zone: "easylist-to.xyz." always_null
 local-zone: "polosofa.com." always_null
+local-zone: "antara.net.id." always_null

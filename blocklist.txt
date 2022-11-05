@@ -18055,3 +18055,4 @@ $removeparam=cvid
 ||salesfeed.com^
 ||go.sonobi.com^
 ||esurveyapi.asus.com^
+www.linkedin.com##span:has-text(Promoted):upward(6)

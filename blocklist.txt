@@ -18059,3 +18059,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||linkedin.com/sensorCollect^
 ||linkedin.com/li/track^
 ||linkedin.com/realtime/realtimeFrontendClientConnectivityTracking^
+||linkedin.com/voyager/api/voyagerPremiumDashAdvertiseBadge^

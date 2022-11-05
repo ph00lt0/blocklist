@@ -17436,3 +17436,4 @@ echobot.de CNAME .
 gtm.netvlies.nl CNAME .
 salesfeed.com CNAME .
 go.sonobi.com CNAME .
+esurveyapi.asus.com CNAME .

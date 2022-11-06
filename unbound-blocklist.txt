@@ -17441,3 +17441,4 @@ local-zone: "salesfeed.com." always_null
 local-zone: "go.sonobi.com." always_null
 local-zone: "esurveyapi.asus.com." always_null
 local-zone: "instatargeter.com." always_null
+local-zone: "go-vip.net." always_null

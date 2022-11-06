@@ -17438,3 +17438,4 @@ salesfeed.com CNAME .
 go.sonobi.com CNAME .
 esurveyapi.asus.com CNAME .
 instatargeter.com CNAME .
+go-vip.net CNAME .

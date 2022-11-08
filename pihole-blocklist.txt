@@ -17550,3 +17550,4 @@
 0.0.0.0 futy-widget.com
 0.0.0.0 dyfedtelecom.com
 0.0.0.0 soreto.com
+0.0.0.0 api.soreto.com

@@ -17548,3 +17548,4 @@
 0.0.0.0 instatargeter.com
 0.0.0.0 go-vip.net
 0.0.0.0 futy-widget.com
+0.0.0.0 dyfedtelecom.com

@@ -18064,3 +18064,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||instatargeter.com^
 ||go-vip.net^
 ||futy-widget.com^
+||dyfedtelecom.com^

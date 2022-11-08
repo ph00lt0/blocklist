@@ -18063,3 +18063,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||linkedin.com/tscp-serving/dtag^
 ||instatargeter.com^
 ||go-vip.net^
+||futy-widget.com^

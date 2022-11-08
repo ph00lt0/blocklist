@@ -17441,3 +17441,4 @@ instatargeter.com CNAME .
 go-vip.net CNAME .
 futy-widget.com CNAME .
 dyfedtelecom.com CNAME .
+soreto.com CNAME .

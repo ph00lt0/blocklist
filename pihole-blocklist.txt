@@ -17554,3 +17554,4 @@
 0.0.0.0 quividi.com
 0.0.0.0 takingbackjuly.com
 ! allow thirdparty.jumpcloud.com reason: Required for Recaptcha
+0.0.0.0 segmentcdn.jumpcloud.com

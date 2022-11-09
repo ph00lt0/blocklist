@@ -17449,3 +17449,4 @@ local-zone: "api.soreto.com." always_null
 local-zone: "quividi.com." always_null
 local-zone: "takingbackjuly.com." always_null
 # allow thirdparty.jumpcloud.com reason: Required for Recaptcha
+local-zone: "segmentcdn.jumpcloud.com." always_null

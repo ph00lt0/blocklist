@@ -17448,3 +17448,4 @@ local-zone: "soreto.com." always_null
 local-zone: "api.soreto.com." always_null
 local-zone: "quividi.com." always_null
 local-zone: "takingbackjuly.com." always_null
+local-zone: "thirdparty.jumpcloud.com." always_null

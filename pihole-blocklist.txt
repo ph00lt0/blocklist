@@ -17552,3 +17552,4 @@
 0.0.0.0 soreto.com
 0.0.0.0 api.soreto.com
 0.0.0.0 quividi.com
+0.0.0.0 takingbackjuly.com

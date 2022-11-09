@@ -17444,3 +17444,4 @@ dyfedtelecom.com CNAME .
 soreto.com CNAME .
 api.soreto.com CNAME .
 quividi.com CNAME .
+takingbackjuly.com CNAME .

@@ -17447,3 +17447,4 @@ quividi.com CNAME .
 takingbackjuly.com CNAME .
 ; allow thirdparty.jumpcloud.com reason: Required for Recaptcha
 segmentcdn.jumpcloud.com CNAME .
+daxherbal.in CNAME .

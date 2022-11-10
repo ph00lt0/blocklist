@@ -17556,3 +17556,4 @@
 ! allow thirdparty.jumpcloud.com reason: Required for Recaptcha
 0.0.0.0 segmentcdn.jumpcloud.com
 0.0.0.0 daxherbal.in
+0.0.0.0 interpira.com.br

@@ -17452,3 +17452,4 @@ local-zone: "takingbackjuly.com." always_null
 local-zone: "segmentcdn.jumpcloud.com." always_null
 local-zone: "daxherbal.in." always_null
 local-zone: "interpira.com.br." always_null
+local-zone: "affixcrm.com." always_null

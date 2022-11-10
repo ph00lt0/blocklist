@@ -17449,3 +17449,4 @@ takingbackjuly.com CNAME .
 segmentcdn.jumpcloud.com CNAME .
 daxherbal.in CNAME .
 interpira.com.br CNAME .
+affixcrm.com CNAME .

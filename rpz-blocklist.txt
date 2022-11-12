@@ -17456,3 +17456,4 @@ andersins.de CNAME .
 rser.nl CNAME .
 srct.nl CNAME .
 eshopboard.nl CNAME .
+hatix.store CNAME .

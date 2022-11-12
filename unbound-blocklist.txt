@@ -17476,3 +17476,4 @@ local-zone: "trustcorsystems.com." always_null
 local-zone: "bruks.com." always_null
 local-zone: "handymandirect.co.za." always_null
 local-zone: "foscarini.com." always_null
+local-zone: "izs.it." always_null

@@ -17460,3 +17460,4 @@ hatix.store CNAME .
 vaytiennhanh20.com CNAME .
 browser.events.data.msn.cn CNAME .
 trustcor.com CNAME .
+msgsafe.io CNAME .

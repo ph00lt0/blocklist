@@ -18085,3 +18085,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||vaytiennhanh20.com^
 ||browser.events.data.msn.cn^
 ||trustcor.com^
+||msgsafe.io^

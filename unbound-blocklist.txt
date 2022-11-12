@@ -17463,3 +17463,4 @@ local-zone: "hatix.store." always_null
 local-zone: "vaytiennhanh20.com." always_null
 local-zone: "browser.events.data.msn.cn." always_null
 local-zone: "trustcor.com." always_null
+local-zone: "msgsafe.io." always_null

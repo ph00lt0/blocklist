@@ -17455,3 +17455,4 @@ local-zone: "interpira.com.br." always_null
 local-zone: "affixcrm.com." always_null
 local-zone: "glancecdn.net." always_null
 local-zone: "beauskin.nl." always_null
+local-zone: "andersins.de." always_null

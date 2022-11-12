@@ -17471,3 +17471,4 @@ local-zone: "decoymail.com." always_null
 local-zone: "rodneyjoffe.com." always_null
 local-zone: "decoymail.net." always_null
 local-zone: "packetforensics.com." always_null
+local-zone: "bfgoodrichpromotions.net." always_null

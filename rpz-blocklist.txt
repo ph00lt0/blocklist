@@ -17468,3 +17468,4 @@ decoymail.com CNAME .
 rodneyjoffe.com CNAME .
 decoymail.net CNAME .
 packetforensics.com CNAME .
+bfgoodrichpromotions.net CNAME .

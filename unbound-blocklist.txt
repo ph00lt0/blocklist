@@ -17465,3 +17465,4 @@ local-zone: "browser.events.data.msn.cn." always_null
 local-zone: "trustcor.com." always_null
 local-zone: "msgsafe.io." always_null
 local-zone: "hushemail.net." always_null
+local-zone: "protonmails.com." always_null

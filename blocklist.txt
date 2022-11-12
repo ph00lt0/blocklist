@@ -18087,3 +18087,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||trustcor.com^
 ||msgsafe.io^
 ||hushemail.net^
+||protonmails.com^

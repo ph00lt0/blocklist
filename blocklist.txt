@@ -18096,3 +18096,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||bfgoodrichpromotions.net^
 ||trustcorsystems.com^
 ||bruks.com^
+||handymandirect.co.za^

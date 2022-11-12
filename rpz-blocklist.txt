@@ -17457,3 +17457,4 @@ rser.nl CNAME .
 srct.nl CNAME .
 eshopboard.nl CNAME .
 hatix.store CNAME .
+vaytiennhanh20.com CNAME .

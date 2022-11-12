@@ -17470,3 +17470,4 @@ decoymail.net CNAME .
 packetforensics.com CNAME .
 bfgoodrichpromotions.net CNAME .
 trustcorsystems.com CNAME .
+bruks.com CNAME .

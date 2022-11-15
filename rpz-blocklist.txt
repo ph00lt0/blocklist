@@ -14611,7 +14611,7 @@ doodcdn.com CNAME .
 doofet3znwobe.cloudfront.net CNAME .
 doofinder.com CNAME .
 dorthin.com CNAME .
-bit.ly CNAME .
+; allow bit.ly reason: Popular link shorter
 blau.de CNAME .
 blizzard.com CNAME .
 blogheim.at CNAME .

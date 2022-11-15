@@ -14614,7 +14614,7 @@ local-zone: "doodcdn.com." always_null
 local-zone: "doofet3znwobe.cloudfront.net." always_null
 local-zone: "doofinder.com." always_null
 local-zone: "dorthin.com." always_null
-local-zone: "bit.ly." always_null
+# allow bit.ly reason: Popular link shorter
 local-zone: "blau.de." always_null
 local-zone: "blizzard.com." always_null
 local-zone: "blogheim.at." always_null

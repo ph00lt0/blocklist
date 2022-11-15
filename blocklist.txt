@@ -15039,7 +15039,7 @@ $removeparam=engagement_type
 ||doofet3znwobe.cloudfront.net^
 ||doofinder.com^
 ||dorthin.com^
-||bit.ly^
+||bit.ly^$badfilter  # Popular link shorter
 ||blau.de^
 ||blizzard.com^
 ||blogheim.at^

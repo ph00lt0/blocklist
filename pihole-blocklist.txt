@@ -14719,7 +14719,7 @@
 0.0.0.0 doofet3znwobe.cloudfront.net
 0.0.0.0 doofinder.com
 0.0.0.0 dorthin.com
-0.0.0.0 bit.ly
+! allow bit.ly reason: Popular link shorter
 0.0.0.0 blau.de
 0.0.0.0 blizzard.com
 0.0.0.0 blogheim.at

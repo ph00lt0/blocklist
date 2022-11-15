@@ -18103,3 +18103,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||lutheran.hu^
 ||mailgun-dataplane.rudderstack.com^
 ||rudderstack.com^
+||forethought.ai^

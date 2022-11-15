@@ -17482,3 +17482,4 @@ local-zone: "lutheran.hu." always_null
 local-zone: "mailgun-dataplane.rudderstack.com." always_null
 local-zone: "rudderstack.com." always_null
 local-zone: "forethought.ai." always_null
+local-zone: "fring.work." always_null

@@ -17587,3 +17587,4 @@
 0.0.0.0 mailgun-dataplane.rudderstack.com
 0.0.0.0 rudderstack.com
 0.0.0.0 forethought.ai
+0.0.0.0 fring.work

@@ -17475,3 +17475,4 @@ handymandirect.co.za CNAME .
 foscarini.com CNAME .
 izs.it CNAME .
 ijoycig.com CNAME .
+lutheran.hu CNAME .

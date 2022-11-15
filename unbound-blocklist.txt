@@ -17478,3 +17478,4 @@ local-zone: "handymandirect.co.za." always_null
 local-zone: "foscarini.com." always_null
 local-zone: "izs.it." always_null
 local-zone: "ijoycig.com." always_null
+local-zone: "lutheran.hu." always_null

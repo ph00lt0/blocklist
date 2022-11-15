@@ -17589,3 +17589,4 @@
 0.0.0.0 forethought.ai
 0.0.0.0 fring.work
 0.0.0.0 okt.to
+0.0.0.0 ultimatebet.com

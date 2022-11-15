@@ -17481,3 +17481,4 @@ rudderstack.com CNAME .
 forethought.ai CNAME .
 fring.work CNAME .
 okt.to CNAME .
+ultimatebet.com CNAME .

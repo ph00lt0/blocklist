@@ -17487,3 +17487,4 @@ local-zone: "okt.to." always_null
 local-zone: "ultimatebet.com." always_null
 local-zone: "matomo.hetzner.company." always_null
 local-zone: "conductrics.net." always_null
+local-zone: "herefish.com." always_null

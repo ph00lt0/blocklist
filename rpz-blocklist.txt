@@ -17485,3 +17485,4 @@ ultimatebet.com CNAME .
 matomo.hetzner.company CNAME .
 conductrics.net CNAME .
 herefish.com CNAME .
+malihu.github.io CNAME .

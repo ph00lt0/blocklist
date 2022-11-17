@@ -17488,3 +17488,4 @@ herefish.com CNAME .
 malihu.github.io CNAME .
 floriano.pi.gov.br CNAME .
 43.135.153.188 CNAME .
+compsovet.com CNAME .

@@ -17597,3 +17597,4 @@
 0.0.0.0 floriano.pi.gov.br
 0.0.0.0 43.135.153.188
 0.0.0.0 compsovet.com
+0.0.0.0 taiwancivilgovernment.com

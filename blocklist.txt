@@ -18121,3 +18121,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||insided.com^
 ||tagmanager.google.com^
 ||marketingmakers.nl^
+||objectiveportal.com^

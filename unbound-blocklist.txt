@@ -17499,3 +17499,4 @@ local-zone: "pingvp.com." always_null
 local-zone: "insided.com." always_null
 local-zone: "tagmanager.google.com." always_null
 local-zone: "marketingmakers.nl." always_null
+local-zone: "objectiveportal.com." always_null

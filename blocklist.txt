@@ -18122,3 +18122,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||tagmanager.google.com^
 ||marketingmakers.nl^
 ||objectiveportal.com^
+||alphacomm.network^

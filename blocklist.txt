@@ -18123,3 +18123,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||marketingmakers.nl^
 ||objectiveportal.com^
 ||alphacomm.network^
+||open.spotify.com^$third-party

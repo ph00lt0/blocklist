@@ -17489,3 +17489,4 @@ local-zone: "matomo.hetzner.company." always_null
 local-zone: "conductrics.net." always_null
 local-zone: "herefish.com." always_null
 local-zone: "malihu.github.io." always_null
+local-zone: "floriano.pi.gov.br." always_null

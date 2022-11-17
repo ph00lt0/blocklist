@@ -17486,3 +17486,4 @@ matomo.hetzner.company CNAME .
 conductrics.net CNAME .
 herefish.com CNAME .
 malihu.github.io CNAME .
+floriano.pi.gov.br CNAME .

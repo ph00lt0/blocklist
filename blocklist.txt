@@ -18119,3 +18119,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||fourstack.nl^
 ||pingvp.com^
 ||insided.com^
+||tagmanager.google.com^

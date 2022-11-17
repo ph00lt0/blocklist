@@ -17495,3 +17495,4 @@ local-zone: "compsovet.com." always_null
 local-zone: "taiwancivilgovernment.com." always_null
 local-zone: "codesti.com." always_null
 local-zone: "fourstack.nl." always_null
+local-zone: "pingvp.com." always_null

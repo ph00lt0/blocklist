@@ -17600,3 +17600,4 @@
 0.0.0.0 taiwancivilgovernment.com
 0.0.0.0 codesti.com
 0.0.0.0 fourstack.nl
+0.0.0.0 pingvp.com

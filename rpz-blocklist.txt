@@ -17492,3 +17492,4 @@ compsovet.com CNAME .
 taiwancivilgovernment.com CNAME .
 codesti.com CNAME .
 fourstack.nl CNAME .
+pingvp.com CNAME .

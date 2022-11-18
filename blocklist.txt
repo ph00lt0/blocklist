@@ -18143,3 +18143,4 @@ wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.bu
 bluespahaamstede.nl###newsletter
 ||fletcherfanshop.nl^$third-party
 ||errors.stripe.com^
+||t.stripe.com^

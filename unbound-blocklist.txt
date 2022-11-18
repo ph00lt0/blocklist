@@ -17516,3 +17516,4 @@ local-zone: "tag.wetransfer.com." always_null
 local-zone: "nolan.wetransfer.net." always_null
 local-zone: "e.fletcher.nl." always_null
 local-zone: "errors.stripe.com." always_null
+local-zone: "t.stripe.com." always_null

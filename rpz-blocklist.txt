@@ -17513,3 +17513,4 @@ tag.wetransfer.com CNAME .
 nolan.wetransfer.net CNAME .
 e.fletcher.nl CNAME .
 errors.stripe.com CNAME .
+t.stripe.com CNAME .

@@ -17508,3 +17508,4 @@ local-zone: "cm.com." always_null
 local-zone: "gifty.nl." always_null
 # allow xotap.nl reason: CDN
 local-zone: "nieuwsbriefsysteem-static.nl." always_null
+local-zone: "nieuwsbriefsysteem.nl." always_null

@@ -18138,3 +18138,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||tag.wetransfer.com^
 ||nolan.wetransfer.net^
 wetransfer.com##.button--enabled.welcome__button--accept.welcome__button.button
+wetransfer.com##.button--enabled.welcome__button--preferences.welcome__button.button

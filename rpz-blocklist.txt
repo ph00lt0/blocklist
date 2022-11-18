@@ -17507,3 +17507,4 @@ gifty.nl CNAME .
 nieuwsbriefsysteem-static.nl CNAME .
 nieuwsbriefsysteem.nl CNAME .
 via.nieuwsbriefsysteem.nl CNAME .
+gitcdn.link CNAME .

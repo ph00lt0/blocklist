@@ -17502,3 +17502,4 @@ local-zone: "marketingmakers.nl." always_null
 local-zone: "objectiveportal.com." always_null
 local-zone: "alphacomm.network." always_null
 local-zone: "adobeioruntime.net." always_null
+local-zone: "cookies.bratpack.nl." always_null

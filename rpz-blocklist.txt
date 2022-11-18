@@ -17506,3 +17506,4 @@ gifty.nl CNAME .
 ; allow xotap.nl reason: CDN
 nieuwsbriefsysteem-static.nl CNAME .
 nieuwsbriefsysteem.nl CNAME .
+via.nieuwsbriefsysteem.nl CNAME .

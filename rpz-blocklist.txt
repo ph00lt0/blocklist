@@ -17520,3 +17520,4 @@ worm.org CNAME .
 stager.nl CNAME .
 stager.co CNAME .
 lovelygrainstudio.com CNAME .
+detaksumsel.com CNAME .

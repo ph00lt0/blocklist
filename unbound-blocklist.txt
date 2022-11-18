@@ -17523,3 +17523,4 @@ local-zone: "worm.org." always_null
 local-zone: "stager.nl." always_null
 local-zone: "stager.co." always_null
 local-zone: "lovelygrainstudio.com." always_null
+local-zone: "detaksumsel.com." always_null

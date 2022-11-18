@@ -17628,3 +17628,4 @@
 0.0.0.0 stager.nl
 0.0.0.0 stager.co
 0.0.0.0 lovelygrainstudio.com
+0.0.0.0 detaksumsel.com

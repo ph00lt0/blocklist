@@ -17503,4 +17503,4 @@ cookies.bratpack.nl CNAME .
 js.bratpack.nl CNAME .
 cm.com CNAME .
 gifty.nl CNAME .
-xotap.nl CNAME .
+; allow xotap.nl reason: CDN

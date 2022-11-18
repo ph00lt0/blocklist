@@ -17611,4 +17611,4 @@
 0.0.0.0 js.bratpack.nl
 0.0.0.0 cm.com
 0.0.0.0 gifty.nl
-0.0.0.0 xotap.nl
+! allow xotap.nl reason: CDN

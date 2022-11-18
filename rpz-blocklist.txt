@@ -17500,3 +17500,4 @@ objectiveportal.com CNAME .
 alphacomm.network CNAME .
 adobeioruntime.net CNAME .
 cookies.bratpack.nl CNAME .
+js.bratpack.nl CNAME .

@@ -18144,3 +18144,4 @@ bluespahaamstede.nl###newsletter
 ||fletcherfanshop.nl^$third-party
 ||errors.stripe.com^
 ||t.stripe.com^
+||r.stripe.com^

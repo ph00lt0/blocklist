@@ -17513,3 +17513,4 @@ local-zone: "via.nieuwsbriefsysteem.nl." always_null
 local-zone: "gitcdn.link." always_null
 local-zone: "errortracking.deepl.com." always_null
 local-zone: "tag.wetransfer.com." always_null
+local-zone: "nolan.wetransfer.net." always_null

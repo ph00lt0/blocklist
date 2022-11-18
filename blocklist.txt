@@ -18136,3 +18136,4 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||gitcdn.link^
 ||errortracking.deepl.com^
 ||tag.wetransfer.com^
+||nolan.wetransfer.net^

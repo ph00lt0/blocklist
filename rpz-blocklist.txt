@@ -17509,3 +17509,4 @@ nieuwsbriefsysteem.nl CNAME .
 via.nieuwsbriefsysteem.nl CNAME .
 gitcdn.link CNAME .
 errortracking.deepl.com CNAME .
+tag.wetransfer.com CNAME .

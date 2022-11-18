@@ -17505,3 +17505,4 @@ local-zone: "adobeioruntime.net." always_null
 local-zone: "cookies.bratpack.nl." always_null
 local-zone: "js.bratpack.nl." always_null
 local-zone: "cm.com." always_null
+local-zone: "gifty.nl." always_null

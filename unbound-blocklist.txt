@@ -17511,3 +17511,4 @@ local-zone: "nieuwsbriefsysteem-static.nl." always_null
 local-zone: "nieuwsbriefsysteem.nl." always_null
 local-zone: "via.nieuwsbriefsysteem.nl." always_null
 local-zone: "gitcdn.link." always_null
+local-zone: "errortracking.deepl.com." always_null

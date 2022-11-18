@@ -17504,3 +17504,4 @@ js.bratpack.nl CNAME .
 cm.com CNAME .
 gifty.nl CNAME .
 ; allow xotap.nl reason: CDN
+nieuwsbriefsysteem-static.nl CNAME .

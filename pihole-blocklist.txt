@@ -17612,3 +17612,4 @@
 0.0.0.0 cm.com
 0.0.0.0 gifty.nl
 ! allow xotap.nl reason: CDN
+0.0.0.0 nieuwsbriefsysteem-static.nl

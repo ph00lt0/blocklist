@@ -17523,3 +17523,4 @@ lovelygrainstudio.com CNAME .
 detaksumsel.com CNAME .
 tr.jumpcloud.com CNAME .
 feedbacl CNAME .
+feedback.mail.goto.com CNAME .

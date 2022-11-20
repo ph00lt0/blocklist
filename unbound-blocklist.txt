@@ -17527,3 +17527,4 @@ local-zone: "detaksumsel.com." always_null
 local-zone: "tr.jumpcloud.com." always_null
 local-zone: "feedbacl." always_null
 local-zone: "feedback.mail.goto.com." always_null
+local-zone: "graffiti-tags.apple.com." always_null

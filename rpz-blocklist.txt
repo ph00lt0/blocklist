@@ -17522,3 +17522,4 @@ stager.co CNAME .
 lovelygrainstudio.com CNAME .
 detaksumsel.com CNAME .
 tr.jumpcloud.com CNAME .
+feedbacl CNAME .

@@ -17531,3 +17531,4 @@ local-zone: "graffiti-tags.apple.com." always_null
 local-zone: "twil.io." always_null
 local-zone: "sg.booking.com." always_null
 local-zone: "url9644.hopin.com." always_null
+local-zone: "d2fi4ri5dhpqd1.cloudfront.net." always_null

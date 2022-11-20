@@ -17530,3 +17530,4 @@ local-zone: "feedback.mail.goto.com." always_null
 local-zone: "graffiti-tags.apple.com." always_null
 local-zone: "twil.io." always_null
 local-zone: "sg.booking.com." always_null
+local-zone: "url9644.hopin.com." always_null

@@ -17663,3 +17663,4 @@
 0.0.0.0 customer-success-campaigns.zoom.us
 0.0.0.0 wmtech360.com
 0.0.0.0 giantin.com
+0.0.0.0 sa.berty.tech

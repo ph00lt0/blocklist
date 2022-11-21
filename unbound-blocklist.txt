@@ -17558,3 +17558,4 @@ local-zone: "cms2wpress.com." always_null
 local-zone: "customer-success-campaigns.zoom.us." always_null
 local-zone: "wmtech360.com." always_null
 local-zone: "giantin.com." always_null
+local-zone: "sa.berty.tech." always_null

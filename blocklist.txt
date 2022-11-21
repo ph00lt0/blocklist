@@ -18185,3 +18185,4 @@ bluespahaamstede.nl###newsletter
 ||customer-success-campaigns.zoom.us^
 ||wmtech360.com^
 ||giantin.com^
+||sa.berty.tech^

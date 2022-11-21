@@ -17556,3 +17556,4 @@ customer-success-campaigns.zoom.us CNAME .
 wmtech360.com CNAME .
 giantin.com CNAME .
 sa.berty.tech CNAME .
+e205.youngcapital.nl CNAME .

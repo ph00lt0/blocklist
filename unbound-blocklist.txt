@@ -17535,3 +17535,4 @@ local-zone: "d2fi4ri5dhpqd1.cloudfront.net." always_null
 local-zone: "t.contactlab.it." always_null
 local-zone: "gosupportnow.com." always_null
 local-zone: "referrals.zoho.eu." always_null
+local-zone: "promotrades.com." always_null

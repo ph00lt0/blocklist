@@ -17532,3 +17532,4 @@ d2fi4ri5dhpqd1.cloudfront.net CNAME .
 t.contactlab.it CNAME .
 gosupportnow.com CNAME .
 referrals.zoho.eu CNAME .
+promotrades.com CNAME .

@@ -17548,3 +17548,4 @@ seosmoppc.net CNAME .
 vkupon.ru CNAME .
 webril.in CNAME .
 itsbharat.com CNAME .
+intrum.com CNAME .

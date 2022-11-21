@@ -17548,3 +17548,4 @@ local-zone: "jooble.com." always_null
 local-zone: "seoindia.today." always_null
 local-zone: "adroweb.tech." always_null
 local-zone: "seosmoppc.net." always_null
+local-zone: "vkupon.ru." always_null

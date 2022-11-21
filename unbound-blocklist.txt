@@ -17556,3 +17556,4 @@ local-zone: "delkenboot.nl." always_null
 local-zone: "designdevelopment.in." always_null
 local-zone: "cms2wpress.com." always_null
 local-zone: "customer-success-campaigns.zoom.us." always_null
+local-zone: "wmtech360.com." always_null

@@ -17552,3 +17552,4 @@ local-zone: "vkupon.ru." always_null
 local-zone: "webril.in." always_null
 local-zone: "itsbharat.com." always_null
 local-zone: "intrum.com." always_null
+local-zone: "delkenboot.nl." always_null

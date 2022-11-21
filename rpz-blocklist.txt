@@ -17541,3 +17541,4 @@ mobile-xl.nl CNAME .
 clickliv.com CNAME .
 strato-mailcenter.com CNAME .
 mailing-echt-privat.de CNAME .
+jooble.com CNAME .

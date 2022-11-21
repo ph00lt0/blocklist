@@ -17550,3 +17550,4 @@ local-zone: "adroweb.tech." always_null
 local-zone: "seosmoppc.net." always_null
 local-zone: "vkupon.ru." always_null
 local-zone: "webril.in." always_null
+local-zone: "itsbharat.com." always_null

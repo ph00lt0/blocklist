@@ -18188,3 +18188,4 @@ bluespahaamstede.nl###newsletter
 ||sa.berty.tech^
 ||e205.youngcapital.nl^
 ||tags.youngcapital.nl^
+||staticdash.net^

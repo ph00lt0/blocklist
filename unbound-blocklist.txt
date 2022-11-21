@@ -17561,3 +17561,4 @@ local-zone: "giantin.com." always_null
 local-zone: "sa.berty.tech." always_null
 local-zone: "e205.youngcapital.nl." always_null
 local-zone: "tags.youngcapital.nl." always_null
+local-zone: "staticdash.net." always_null

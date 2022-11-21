@@ -17554,3 +17554,4 @@ local-zone: "itsbharat.com." always_null
 local-zone: "intrum.com." always_null
 local-zone: "delkenboot.nl." always_null
 local-zone: "designdevelopment.in." always_null
+local-zone: "cms2wpress.com." always_null

@@ -17545,3 +17545,4 @@ local-zone: "clickliv.com." always_null
 local-zone: "strato-mailcenter.com." always_null
 local-zone: "mailing-echt-privat.de." always_null
 local-zone: "jooble.com." always_null
+local-zone: "seoindia.today." always_null

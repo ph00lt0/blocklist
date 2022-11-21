@@ -18184,3 +18184,4 @@ bluespahaamstede.nl###newsletter
 ||cms2wpress.com^
 ||customer-success-campaigns.zoom.us^
 ||wmtech360.com^
+||giantin.com^

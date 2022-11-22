@@ -4320,7 +4320,7 @@
 ||leadbooster-chat.pipedrive.com^
 ||pagesense.io^
 ||cdn-eu.pagesense.io^
-||salesiq.zoho.eu^
+||salesiq.zoho.eu^$badfilter  # Required for zoho admin
 ||webfonts.zoho.eu^
 ||mh.zoho.eu^
 ||px.srvcs.tumblr.com^

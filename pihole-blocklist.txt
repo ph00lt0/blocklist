@@ -4314,7 +4314,7 @@
 0.0.0.0 leadbooster-chat.pipedrive.com
 0.0.0.0 pagesense.io
 0.0.0.0 cdn-eu.pagesense.io
-0.0.0.0 salesiq.zoho.eu
+! allow salesiq.zoho.eu reason: Required for zoho admin
 0.0.0.0 webfonts.zoho.eu
 0.0.0.0 mh.zoho.eu
 0.0.0.0 px.srvcs.tumblr.com

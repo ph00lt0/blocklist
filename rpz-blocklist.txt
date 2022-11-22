@@ -4238,7 +4238,7 @@ pipedrive.com CNAME .
 leadbooster-chat.pipedrive.com CNAME .
 pagesense.io CNAME .
 cdn-eu.pagesense.io CNAME .
-salesiq.zoho.eu CNAME .
+; allow salesiq.zoho.eu reason: Required for zoho admin
 webfonts.zoho.eu CNAME .
 mh.zoho.eu CNAME .
 px.srvcs.tumblr.com CNAME .

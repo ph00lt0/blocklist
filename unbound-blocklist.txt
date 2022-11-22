@@ -4240,7 +4240,7 @@ local-zone: "pipedrive.com." always_null
 local-zone: "leadbooster-chat.pipedrive.com." always_null
 local-zone: "pagesense.io." always_null
 local-zone: "cdn-eu.pagesense.io." always_null
-local-zone: "salesiq.zoho.eu." always_null
+# allow salesiq.zoho.eu reason: Required for zoho admin
 local-zone: "webfonts.zoho.eu." always_null
 local-zone: "mh.zoho.eu." always_null
 local-zone: "px.srvcs.tumblr.com." always_null

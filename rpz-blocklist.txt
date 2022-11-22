@@ -17559,3 +17559,4 @@ sa.berty.tech CNAME .
 e205.youngcapital.nl CNAME .
 tags.youngcapital.nl CNAME .
 staticdash.net CNAME .
+grupalet.com CNAME .

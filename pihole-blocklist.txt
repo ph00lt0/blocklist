@@ -17669,3 +17669,4 @@
 0.0.0.0 staticdash.net
 0.0.0.0 grupalet.com
 0.0.0.0 rocketit.com
+0.0.0.0 donate.com

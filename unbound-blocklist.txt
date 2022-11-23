@@ -17564,3 +17564,4 @@ local-zone: "tags.youngcapital.nl." always_null
 local-zone: "staticdash.net." always_null
 local-zone: "grupalet.com." always_null
 local-zone: "rocketit.com." always_null
+local-zone: "donate.com." always_null

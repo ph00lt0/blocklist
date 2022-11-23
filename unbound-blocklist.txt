@@ -13656,7 +13656,7 @@ local-zone: "aweprt.com." always_null
 local-zone: "awmads.com." always_null
 local-zone: "aws.dev." always_null
 local-zone: "awsmpsa.com." always_null
-local-zone: "ax4z.com." always_null
+# allow ax4z.com reason: CDN
 local-zone: "ay.delivery." always_null
 local-zone: "aylink.co." always_null
 # allow azure-api.net reason: not a tracker

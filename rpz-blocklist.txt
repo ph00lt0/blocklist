@@ -13653,7 +13653,7 @@ aweprt.com CNAME .
 awmads.com CNAME .
 aws.dev CNAME .
 awsmpsa.com CNAME .
-ax4z.com CNAME .
+; allow ax4z.com reason: CDN
 ay.delivery CNAME .
 aylink.co CNAME .
 ; allow azure-api.net reason: not a tracker

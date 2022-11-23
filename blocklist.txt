@@ -14080,7 +14080,7 @@ $removeparam=engagement_type
 ||awmads.com^
 ||aws.dev^
 ||awsmpsa.com^
-||ax4z.com^
+||ax4z.com^$badfilter  # CDN
 ||ay.delivery^
 ||aylink.co^
 ||azure-api.net^$badfilter  # not a tracker

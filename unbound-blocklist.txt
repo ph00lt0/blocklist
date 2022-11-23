@@ -17572,3 +17572,4 @@ local-zone: "fiduciagad.de." always_null
 local-zone: "thanx.com." always_null
 local-zone: "content.pendo.scopus.com." always_null
 local-zone: "rum.scopus.com." always_null
+local-zone: "widen.net." always_null

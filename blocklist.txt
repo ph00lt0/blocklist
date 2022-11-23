@@ -18207,3 +18207,4 @@ ing.nl##.cookie-description
 ||thanx.com^
 ||content.pendo.scopus.com^
 ||rum.scopus.com^
+||widen.net^

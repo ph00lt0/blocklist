@@ -18201,3 +18201,6 @@ die-raiffeisenbank.de###lightbox--cookie-consent
 die-raiffeisenbank.de##+js(rc, no-scroll, html, stay)
 die-raiffeisenbank.de##+js(rc, no-scroll, body, stay)
 die-raiffeisenbank.de##+js(rc, cookie-consent-is-active, body, stay)
+ing.nl##[name="cookiePreference"][label="Compleet"]
+ing.nl##[name="cookiePreference"][label="Persoonlijk"]
+ing.nl##.cookie-description

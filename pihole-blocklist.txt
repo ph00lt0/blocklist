@@ -17676,3 +17676,4 @@
 0.0.0.0 fiduciagad.de
 0.0.0.0 thanx.com
 0.0.0.0 content.pendo.scopus.com
+0.0.0.0 rum.scopus.com

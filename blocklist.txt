@@ -18205,3 +18205,4 @@ ing.nl##[name="cookiePreference"][label="Compleet"]
 ing.nl##[name="cookiePreference"][label="Persoonlijk"]
 ing.nl##.cookie-description
 ||thanx.com^
+||content.pendo.scopus.com^

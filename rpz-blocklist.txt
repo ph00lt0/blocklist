@@ -17567,3 +17567,4 @@ gfhgk1.rbinternational.com CNAME .
 vr-profibroker.de CNAME .
 fiduciagad.de CNAME .
 thanx.com CNAME .
+content.pendo.scopus.com CNAME .

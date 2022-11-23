@@ -17570,3 +17570,4 @@ local-zone: "gfhgk1.rbinternational.com." always_null
 local-zone: "vr-profibroker.de." always_null
 local-zone: "fiduciagad.de." always_null
 local-zone: "thanx.com." always_null
+local-zone: "content.pendo.scopus.com." always_null

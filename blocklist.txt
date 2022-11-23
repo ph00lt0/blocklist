@@ -18199,3 +18199,4 @@ bluespahaamstede.nl###newsletter
 die-raiffeisenbank.de##.open.darken-layer
 die-raiffeisenbank.de###lightbox--cookie-consent
 die-raiffeisenbank.de##+js(rc, no-scroll, html, stay)
+die-raiffeisenbank.de##+js(rc, no-scroll, body, stay)

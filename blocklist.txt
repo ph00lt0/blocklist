@@ -18215,3 +18215,4 @@ ing.nl##.cookie-description
 ||omnycontent.com^$badfilter  # podcast hosting
 ||posthog.hss.element.io^
 ||sentry.matrix.org^
+||temptation.nu.nl^

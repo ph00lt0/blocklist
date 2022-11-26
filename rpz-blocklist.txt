@@ -17577,3 +17577,4 @@ cookiemanager.parliament.uk CNAME .
 ; allow omnycontent.com reason: podcast hosting
 posthog.hss.element.io CNAME .
 sentry.matrix.org CNAME .
+temptation.nu.nl CNAME .

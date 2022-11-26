@@ -17575,3 +17575,4 @@ track.customer.io CNAME .
 partner.everydays.de CNAME .
 cookiemanager.parliament.uk CNAME .
 ; allow omnycontent.com reason: podcast hosting
+posthog.hss.element.io CNAME .

@@ -18213,3 +18213,4 @@ ing.nl##.cookie-description
 ||partner.everydays.de^
 ||cookiemanager.parliament.uk^
 ||omnycontent.com^$badfilter  # podcast hosting
+||posthog.hss.element.io^

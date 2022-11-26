@@ -17578,3 +17578,4 @@ local-zone: "track.customer.io." always_null
 local-zone: "partner.everydays.de." always_null
 local-zone: "cookiemanager.parliament.uk." always_null
 # allow omnycontent.com reason: podcast hosting
+local-zone: "posthog.hss.element.io." always_null

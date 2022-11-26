@@ -18225,3 +18225,4 @@ ing.nl##.cookie-description
 ||ztedevices.com^
 ||huawei.com^
 ||oneplus.com^
+||oppo.com^

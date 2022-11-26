@@ -17590,3 +17590,4 @@ local-zone: "zte.com.cn." always_null
 local-zone: "ztedevices.com." always_null
 local-zone: "huawei.com." always_null
 local-zone: "oneplus.com." always_null
+local-zone: "oppo.com." always_null

@@ -8516,7 +8516,6 @@ dmc.nico CNAME .
 *.phprcdn.com CNAME .
 *.qobuz.com CNAME .
 *.p-cdn.us CNAME .
-*.sndcdn.com CNAME .
 hamifans.emome.net CNAME .
 *.skyking.com.tw CNAME .
 *.byteoversea.com CNAME .

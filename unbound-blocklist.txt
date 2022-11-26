@@ -8519,7 +8519,6 @@ local-zone: "*.pandora.com." always_null
 local-zone: "*.phprcdn.com." always_null
 local-zone: "*.qobuz.com." always_null
 local-zone: "*.p-cdn.us." always_null
-local-zone: "*.sndcdn.com." always_null
 local-zone: "hamifans.emome.net." always_null
 local-zone: "*.skyking.com.tw." always_null
 local-zone: "*.byteoversea.com." always_null

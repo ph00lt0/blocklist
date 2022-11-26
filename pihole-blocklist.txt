@@ -8624,7 +8624,6 @@
 0.0.0.0 *.phprcdn.com
 0.0.0.0 *.qobuz.com
 0.0.0.0 *.p-cdn.us
-0.0.0.0 *.sndcdn.com
 0.0.0.0 hamifans.emome.net
 0.0.0.0 *.skyking.com.tw
 0.0.0.0 *.byteoversea.com

@@ -18221,3 +18221,4 @@ ing.nl##.cookie-description
 ||hitbox.com^
 ||graph.nu.nl^
 ||zteusa.com^
+||zte.com.cn^

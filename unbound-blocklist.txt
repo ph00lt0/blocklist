@@ -17586,3 +17586,4 @@ local-zone: "trustedsource.org." always_null
 local-zone: "hitbox.com." always_null
 local-zone: "graph.nu.nl." always_null
 local-zone: "zteusa.com." always_null
+local-zone: "zte.com.cn." always_null

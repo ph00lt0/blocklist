@@ -18234,3 +18234,4 @@ ing.nl##.cookie-description
 ||oneplus.cn^
 ||coloros.com^
 ||iqoo.com^
+||vivo.com.cn^

@@ -17599,3 +17599,4 @@ local-zone: "oneplus.in." always_null
 local-zone: "oneplus.cn." always_null
 local-zone: "coloros.com." always_null
 local-zone: "iqoo.com." always_null
+local-zone: "vivo.com.cn." always_null

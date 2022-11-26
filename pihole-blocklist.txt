@@ -17704,3 +17704,4 @@
 0.0.0.0 oneplus.cn
 0.0.0.0 coloros.com
 0.0.0.0 iqoo.com
+0.0.0.0 vivo.com.cn

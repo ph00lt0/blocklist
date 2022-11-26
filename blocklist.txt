@@ -18212,4 +18212,4 @@ ing.nl##.cookie-description
 ||track.customer.io^
 ||partner.everydays.de^
 ||cookiemanager.parliament.uk^
-||omnycontent.com^
+||omnycontent.com^$badfilter  # podcast hosting

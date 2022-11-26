@@ -17574,4 +17574,4 @@ email.triodos.nl CNAME .
 track.customer.io CNAME .
 partner.everydays.de CNAME .
 cookiemanager.parliament.uk CNAME .
-omnycontent.com CNAME .
+; allow omnycontent.com reason: podcast hosting

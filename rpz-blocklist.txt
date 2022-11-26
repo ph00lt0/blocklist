@@ -17572,3 +17572,4 @@ rum.scopus.com CNAME .
 widen.net CNAME .
 email.triodos.nl CNAME .
 track.customer.io CNAME .
+partner.everydays.de CNAME .

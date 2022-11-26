@@ -17575,3 +17575,4 @@ local-zone: "rum.scopus.com." always_null
 local-zone: "widen.net." always_null
 local-zone: "email.triodos.nl." always_null
 local-zone: "track.customer.io." always_null
+local-zone: "partner.everydays.de." always_null

@@ -17433,7 +17433,7 @@
 0.0.0.0 cdn.pdst.fm
 0.0.0.0 .clearbitjs.com
 0.0.0.0 js.qualified.com
-0.0.0.0 techtarget.com
+! allow techtarget.com reason: podcast cdn
 0.0.0.0 s.pinimg.com
 0.0.0.0 pixel.pointmediatracker.com
 0.0.0.0 pointmediatracker.com

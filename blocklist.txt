@@ -17935,7 +17935,7 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||cdn.pdst.fm^
 ||.clearbitjs.com^
 ||js.qualified.com^
-||techtarget.com^
+||techtarget.com^$badfilter  # podcast cdn
 ||s.pinimg.com^
 ||pixel.pointmediatracker.com^
 ||pointmediatracker.com^

@@ -1503,9 +1503,9 @@ pusherapp.com CNAME .
 librato-collector.genius.com CNAME .
 loadus.exelator.com CNAME .
 exelator.com CNAME .
-optimizely.techtarget.com CNAME .
+optimizely.; allow techtarget.com reason: podcast cdn
 ccpa.sp-prod.net CNAME .
-go.techtarget.com CNAME .
+go.; allow techtarget.com reason: podcast cdn
 indexww.com CNAME .
 js-sec.indexww.com CNAME .
 awaps.yandex.ru CNAME .
@@ -6979,7 +6979,7 @@ analytics.onrecruit.net CNAME .
 dt51.net CNAME .
 dt71.net CNAME .
 pixel.mintigo.com CNAME .
-trk.techtarget.com CNAME .
+trk.; allow techtarget.com reason: podcast cdn
 kdl.keywee.co CNAME .
 agconnect.link CNAME .
 sdk.iad-01.braze.com CNAME .
@@ -17325,11 +17325,11 @@ web-sdk-cdn.singular.net CNAME .
 cdn.pdst.fm CNAME .
 .clearbitjs.com CNAME .
 js.qualified.com CNAME .
-techtarget.com CNAME .
+; allow techtarget.com reason: podcast cdn
 s.pinimg.com CNAME .
 pixel.pointmediatracker.com CNAME .
 pointmediatracker.com CNAME .
-apt.techtarget.com CNAME .
+apt.; allow techtarget.com reason: podcast cdn
 us-central1-adaptive-growth.cloudfunctions.net CNAME .
 lift-ai-js.marketlinc.com CNAME .
 cnv.event.prod.bidr.io CNAME .

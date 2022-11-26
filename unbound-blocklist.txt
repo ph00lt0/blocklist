@@ -17328,7 +17328,7 @@ local-zone: "web-sdk-cdn.singular.net." always_null
 local-zone: "cdn.pdst.fm." always_null
 local-zone: ".clearbitjs.com." always_null
 local-zone: "js.qualified.com." always_null
-local-zone: "techtarget.com." always_null
+# allow techtarget.com reason: podcast cdn
 local-zone: "s.pinimg.com." always_null
 local-zone: "pixel.pointmediatracker.com." always_null
 local-zone: "pointmediatracker.com." always_null

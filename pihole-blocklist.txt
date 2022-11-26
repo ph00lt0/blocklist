@@ -17707,3 +17707,4 @@
 0.0.0.0 vivo.com.cn
 0.0.0.0 vivo.com
 0.0.0.0 realme.com
+0.0.0.0 huaweicloud.com

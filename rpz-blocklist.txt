@@ -17599,3 +17599,4 @@ iqoo.com CNAME .
 vivo.com.cn CNAME .
 vivo.com CNAME .
 realme.com CNAME .
+huaweicloud.com CNAME .

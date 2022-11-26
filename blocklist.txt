@@ -18237,3 +18237,4 @@ ing.nl##.cookie-description
 ||vivo.com.cn^
 ||vivo.com^
 ||realme.com^
+||huaweicloud.com^

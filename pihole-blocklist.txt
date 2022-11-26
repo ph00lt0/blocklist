@@ -17681,3 +17681,4 @@
 0.0.0.0 email.triodos.nl
 0.0.0.0 track.customer.io
 0.0.0.0 partner.everydays.de
+0.0.0.0 cookiemanager.parliament.uk

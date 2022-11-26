@@ -17573,3 +17573,4 @@ widen.net CNAME .
 email.triodos.nl CNAME .
 track.customer.io CNAME .
 partner.everydays.de CNAME .
+cookiemanager.parliament.uk CNAME .

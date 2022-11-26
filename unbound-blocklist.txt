@@ -17582,3 +17582,4 @@ local-zone: "sentry.matrix.org." always_null
 local-zone: "temptation.nu.nl." always_null
 local-zone: "dpns-notifications.com." always_null
 local-zone: "alefvanoon.xyz." always_null
+local-zone: "trustedsource.org." always_null

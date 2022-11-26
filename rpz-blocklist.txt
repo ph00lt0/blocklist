@@ -17585,3 +17585,4 @@ graph.nu.nl CNAME .
 zteusa.com CNAME .
 zte.com.cn CNAME .
 ztedevices.com CNAME .
+huawei.com CNAME .

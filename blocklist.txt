@@ -18214,3 +18214,4 @@ ing.nl##.cookie-description
 ||cookiemanager.parliament.uk^
 ||omnycontent.com^$badfilter  # podcast hosting
 ||posthog.hss.element.io^
+||sentry.matrix.org^

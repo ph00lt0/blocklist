@@ -17684,3 +17684,4 @@
 0.0.0.0 cookiemanager.parliament.uk
 ! allow omnycontent.com reason: podcast hosting
 0.0.0.0 posthog.hss.element.io
+0.0.0.0 sentry.matrix.org

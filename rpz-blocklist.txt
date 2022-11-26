@@ -1467,7 +1467,7 @@ variations.brave.com CNAME .
 ads-serve.brave.com CNAME .
 firebase-settings.crashlytics.com CNAME .
 cdn.syndication.twimg.com CNAME .
-pbs.twimg.com CNAME .
+; allow pbs.twimg.com reason: twitter images
 init.push.; allow apple.com reason: not a tnot a tracker
 gruene.matomo.cloud CNAME .
 actionnetwork.org CNAME .

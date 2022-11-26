@@ -1506,7 +1506,7 @@
 ! allow sync-v2.brave.com reason: Not a tracker
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 cdn.syndication.twimg.com
-0.0.0.0 pbs.twimg.com
+! allow pbs.twimg.com reason: twitter images
 0.0.0.0 init.push.apple.com
 0.0.0.0 gruene.matomo.cloud
 0.0.0.0 actionnetwork.org

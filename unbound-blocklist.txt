@@ -13976,7 +13976,7 @@ local-zone: "bungie.net." always_null
 local-zone: "bunnings.com.au." always_null
 local-zone: "bustle.com." always_null
 local-zone: "buzzfeed.com." always_null
-local-zone: "buzzsprout.com." always_null
+# allow buzzsprout.com reason: not a tracker
 local-zone: "bybit.com.edgekey.net." always_null
 local-zone: "bycsi.com." always_null
 local-zone: "bydata.com." always_null

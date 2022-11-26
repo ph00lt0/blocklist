@@ -13973,7 +13973,7 @@ bungie.net CNAME .
 bunnings.com.au CNAME .
 bustle.com CNAME .
 buzzfeed.com CNAME .
-buzzsprout.com CNAME .
+; allow buzzsprout.com reason: not a tracker
 
 bycsi.com CNAME .
 bydata.com CNAME .

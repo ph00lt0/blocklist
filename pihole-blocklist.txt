@@ -14081,7 +14081,7 @@
 0.0.0.0 bunnings.com.au
 0.0.0.0 bustle.com
 0.0.0.0 buzzfeed.com
-0.0.0.0 buzzsprout.com
+! allow buzzsprout.com reason: not a tracker
 
 0.0.0.0 bycsi.com
 0.0.0.0 bydata.com

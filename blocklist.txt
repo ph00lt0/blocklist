@@ -14401,7 +14401,7 @@ $removeparam=engagement_type
 ||bunnings.com.au^
 ||bustle.com^
 ||buzzfeed.com^
-||buzzsprout.com^
+||buzzsprout.com^$badfilter  # not a tracker
 
 ||bycsi.com^
 ||bydata.com^

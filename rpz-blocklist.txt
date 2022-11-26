@@ -17589,3 +17589,4 @@ huawei.com CNAME .
 oneplus.com CNAME .
 oppo.com CNAME .
 oppodigital.com CNAME .
+oppomobilie.com CNAME .

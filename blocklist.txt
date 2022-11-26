@@ -18218,3 +18218,4 @@ ing.nl##.cookie-description
 ||dpns-notifications.com^
 ||alefvanoon.xyz^
 ||trustedsource.org^
+||hitbox.com^

@@ -17574,3 +17574,4 @@ local-zone: "content.pendo.scopus.com." always_null
 local-zone: "rum.scopus.com." always_null
 local-zone: "widen.net." always_null
 local-zone: "email.triodos.nl." always_null
+local-zone: "track.customer.io." always_null

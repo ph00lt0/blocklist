@@ -17696,3 +17696,4 @@
 0.0.0.0 huawei.com
 0.0.0.0 oneplus.com
 0.0.0.0 oppo.com
+0.0.0.0 oppodigital.com

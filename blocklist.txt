@@ -18226,3 +18226,4 @@ ing.nl##.cookie-description
 ||huawei.com^
 ||oneplus.com^
 ||oppo.com^
+||oppodigital.com^

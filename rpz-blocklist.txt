@@ -17578,3 +17578,4 @@ cookiemanager.parliament.uk CNAME .
 posthog.hss.element.io CNAME .
 sentry.matrix.org CNAME .
 temptation.nu.nl CNAME .
+dpns-notifications.com CNAME .

@@ -18219,3 +18219,4 @@ ing.nl##.cookie-description
 ||alefvanoon.xyz^
 ||trustedsource.org^
 ||hitbox.com^
+||graph.nu.nl^

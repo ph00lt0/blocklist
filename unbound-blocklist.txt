@@ -17603,3 +17603,4 @@ local-zone: "vivo.com.cn." always_null
 local-zone: "vivo.com." always_null
 local-zone: "realme.com." always_null
 local-zone: "huaweicloud.com." always_null
+local-zone: "okii.com." always_null

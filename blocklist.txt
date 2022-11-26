@@ -18238,3 +18238,4 @@ ing.nl##.cookie-description
 ||vivo.com^
 ||realme.com^
 ||huaweicloud.com^
+||okii.com^

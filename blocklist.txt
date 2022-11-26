@@ -18233,3 +18233,4 @@ ing.nl##.cookie-description
 ||oneplus.in^
 ||oneplus.cn^
 ||coloros.com^
+||iqoo.com^

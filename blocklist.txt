@@ -18235,3 +18235,4 @@ ing.nl##.cookie-description
 ||coloros.com^
 ||iqoo.com^
 ||vivo.com.cn^
+||vivo.com^

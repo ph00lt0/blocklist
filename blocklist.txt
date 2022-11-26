@@ -18228,3 +18228,4 @@ ing.nl##.cookie-description
 ||oppo.com^
 ||oppodigital.com^
 ||oppomobilie.com^
+||opposhop.cn^

@@ -17595,3 +17595,4 @@ local-zone: "oppodigital.com." always_null
 local-zone: "oppomobilie.com." always_null
 local-zone: "opposhop.cn." always_null
 local-zone: "oppo.cn." always_null
+local-zone: "oneplus.in." always_null

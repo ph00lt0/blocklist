@@ -18236,3 +18236,4 @@ ing.nl##.cookie-description
 ||iqoo.com^
 ||vivo.com.cn^
 ||vivo.com^
+||realme.com^

@@ -18302,3 +18302,4 @@ ing.nl##.cookie-description
 ||jingling.cn^
 ||fromfactory.club^
 ||buzz.app^
+||axis.com^

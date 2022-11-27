@@ -17810,3 +17810,4 @@ local-zone: "analytics.163.com." always_null
 local-zone: "crash.163.com." always_null
 local-zone: "zoomanalytics.co." always_null
 local-zone: "routerahs.asus.com." always_null
+local-zone: "rgom10-en.url.trendmicro.com." always_null

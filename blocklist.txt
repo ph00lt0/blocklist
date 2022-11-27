@@ -18276,3 +18276,4 @@ ing.nl##.cookie-description
 ||cortana-gateway.amazon.com^
 ||digprjsurvey.amazon.eu^
 ||speeddials.opera.com^
+||opera.com^

@@ -17746,3 +17746,4 @@
 0.0.0.0 cortana-gateway.amazon.com
 0.0.0.0 digprjsurvey.amazon.eu
 0.0.0.0 speeddials.opera.com
+0.0.0.0 opera.com

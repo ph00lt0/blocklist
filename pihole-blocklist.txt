@@ -17745,3 +17745,4 @@
 0.0.0.0 ads.pandora.tv.net
 0.0.0.0 cortana-gateway.amazon.com
 0.0.0.0 digprjsurvey.amazon.eu
+0.0.0.0 speeddials.opera.com

@@ -18275,3 +18275,4 @@ ing.nl##.cookie-description
 ||ads.pandora.tv.net^
 ||cortana-gateway.amazon.com^
 ||digprjsurvey.amazon.eu^
+||speeddials.opera.com^

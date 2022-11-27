@@ -17640,3 +17640,4 @@ local-zone: "stats.pandora.com." always_null
 local-zone: "ads.pandora.tv.net." always_null
 local-zone: "cortana-gateway.amazon.com." always_null
 local-zone: "digprjsurvey.amazon.eu." always_null
+local-zone: "speeddials.opera.com." always_null

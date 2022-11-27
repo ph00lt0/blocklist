@@ -17633,3 +17633,4 @@ local-zone: "mistat.intl.xiaomi.com." always_null
 local-zone: "stat.xiaomi.com." always_null
 local-zone: "geofence.sys.miui.com." always_null
 local-zone: "feedback.miui.com." always_null
+local-zone: "admob.xiaomi.com." always_null

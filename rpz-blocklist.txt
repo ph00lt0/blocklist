@@ -17630,3 +17630,4 @@ mistat.intl.xiaomi.com CNAME .
 stat.xiaomi.com CNAME .
 geofence.sys.miui.com CNAME .
 feedback.miui.com CNAME .
+admob.xiaomi.com CNAME .

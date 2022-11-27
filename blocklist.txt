@@ -18244,3 +18244,4 @@ ing.nl##.cookie-description
 ||mi.hr^
 ||xiaomiworld.vn^
 ||xiaomistore.pk^
+||xiaomi.ie^

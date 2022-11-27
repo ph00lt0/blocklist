@@ -17771,3 +17771,4 @@
 0.0.0.0 soulapp.cn
 0.0.0.0 jingling.cn
 0.0.0.0 fromfactory.club
+0.0.0.0 buzz.app

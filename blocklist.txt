@@ -18301,3 +18301,4 @@ ing.nl##.cookie-description
 ||soulapp.cn^
 ||jingling.cn^
 ||fromfactory.club^
+||buzz.app^

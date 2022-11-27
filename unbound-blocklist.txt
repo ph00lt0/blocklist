@@ -17666,3 +17666,4 @@ local-zone: "wps.cn." always_null
 local-zone: "soulapp.cn." always_null
 local-zone: "jingling.cn." always_null
 local-zone: "fromfactory.club." always_null
+local-zone: "buzz.app." always_null

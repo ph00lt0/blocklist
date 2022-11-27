@@ -17753,3 +17753,4 @@
 0.0.0.0 cloud.heytap.com
 0.0.0.0 heytap.com
 0.0.0.0 id.realme.com
+0.0.0.0 caf.com

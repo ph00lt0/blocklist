@@ -18283,3 +18283,4 @@ ing.nl##.cookie-description
 ||cloud.heytap.com^
 ||heytap.com^
 ||id.realme.com^
+||caf.com^

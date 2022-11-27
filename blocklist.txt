@@ -18320,3 +18320,4 @@ ing.nl##.cookie-description
 ||eterno.com^
 ||freecharge.com^
 ||gaana.com^
+||funnypuri.com^

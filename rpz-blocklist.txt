@@ -17682,3 +17682,4 @@ estrongs.com CNAME .
 eterno.com CNAME .
 freecharge.com CNAME .
 gaana.com CNAME .
+funnypuri.com CNAME .

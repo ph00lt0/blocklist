@@ -17685,3 +17685,4 @@ local-zone: "estrongs.com." always_null
 local-zone: "eterno.com." always_null
 local-zone: "freecharge.com." always_null
 local-zone: "gaana.com." always_null
+local-zone: "funnypuri.com." always_null

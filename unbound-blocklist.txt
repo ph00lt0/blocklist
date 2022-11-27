@@ -17653,3 +17653,4 @@ local-zone: "balaji.com." always_null
 local-zone: "bsp.com." always_null
 local-zone: "color.com." always_null
 local-zone: "chinalove.com." always_null
+local-zone: "cardfeed.com." always_null

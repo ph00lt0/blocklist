@@ -18288,3 +18288,4 @@ ing.nl##.cookie-description
 ||bsp.com^
 ||color.com^
 ||chinalove.com^
+||cardfeed.com^

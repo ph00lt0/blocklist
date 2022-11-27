@@ -17650,3 +17650,4 @@ balaji.com CNAME .
 bsp.com CNAME .
 color.com CNAME .
 chinalove.com CNAME .
+cardfeed.com CNAME .

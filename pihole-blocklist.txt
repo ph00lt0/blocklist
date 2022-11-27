@@ -17758,3 +17758,4 @@
 0.0.0.0 bsp.com
 0.0.0.0 color.com
 0.0.0.0 chinalove.com
+0.0.0.0 cardfeed.com

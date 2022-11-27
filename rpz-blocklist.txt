@@ -17644,3 +17644,4 @@ oppomobile.com CNAME .
 cloud.realme.com CNAME .
 cloud.heytap.com CNAME .
 heytap.com CNAME .
+id.realme.com CNAME .

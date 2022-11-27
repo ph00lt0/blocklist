@@ -18246,3 +18246,4 @@ ing.nl##.cookie-description
 ||xiaomistore.pk^
 ||xiaomi.ie^
 ||mi-home.no^
+||xiaomiromania.com^

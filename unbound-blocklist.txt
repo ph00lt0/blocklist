@@ -17611,3 +17611,4 @@ local-zone: "xiaomiworld.vn." always_null
 local-zone: "xiaomistore.pk." always_null
 local-zone: "xiaomi.ie." always_null
 local-zone: "mi-home.no." always_null
+local-zone: "xiaomiromania.com." always_null

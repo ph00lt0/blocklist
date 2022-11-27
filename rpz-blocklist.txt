@@ -17639,3 +17639,4 @@ cortana-gateway.amazon.com CNAME .
 digprjsurvey.amazon.eu CNAME .
 speeddials.opera.com CNAME .
 opera.com CNAME .
+operacdn.com CNAME .

@@ -17642,3 +17642,4 @@ local-zone: "cortana-gateway.amazon.com." always_null
 local-zone: "digprjsurvey.amazon.eu." always_null
 local-zone: "speeddials.opera.com." always_null
 local-zone: "opera.com." always_null
+local-zone: "operacdn.com." always_null

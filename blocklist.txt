@@ -18277,3 +18277,4 @@ ing.nl##.cookie-description
 ||digprjsurvey.amazon.eu^
 ||speeddials.opera.com^
 ||opera.com^
+||operacdn.com^

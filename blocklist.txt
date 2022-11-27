@@ -18295,3 +18295,4 @@ ing.nl##.cookie-description
 ||apusapps.com^
 ||application.com^
 ||alibaba.com^
+||ai.com^

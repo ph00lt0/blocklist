@@ -17610,3 +17610,4 @@ xiaomi.ie CNAME .
 mi-home.no CNAME .
 xiaomiromania.com CNAME .
 miviet.com CNAME .
+mii.is CNAME .

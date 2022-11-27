@@ -17662,3 +17662,4 @@ xender.cn CNAME .
 wps.cn CNAME .
 soulapp.cn CNAME .
 jingling.cn CNAME .
+fromfactory.club CNAME .

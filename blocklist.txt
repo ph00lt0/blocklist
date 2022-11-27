@@ -18300,3 +18300,4 @@ ing.nl##.cookie-description
 ||wps.cn^
 ||soulapp.cn^
 ||jingling.cn^
+||fromfactory.club^

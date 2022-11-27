@@ -18278,3 +18278,4 @@ ing.nl##.cookie-description
 ||speeddials.opera.com^
 ||opera.com^
 ||operacdn.com^
+||oppomobile.com^

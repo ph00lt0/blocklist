@@ -18241,3 +18241,4 @@ ing.nl##.cookie-description
 ||okii.com^
 ||mi.com^
 ||xiaomi.com^
+||mi.hr^

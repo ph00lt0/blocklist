@@ -17675,3 +17675,4 @@ diandian.ccom CNAME .
 dianxinos.com CNAME .
 digilocker.com CNAME .
 dropboxchmod.com CNAME .
+dukaan.com CNAME .

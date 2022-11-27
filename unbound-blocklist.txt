@@ -17678,3 +17678,4 @@ local-zone: "diandian.ccom." always_null
 local-zone: "dianxinos.com." always_null
 local-zone: "digilocker.com." always_null
 local-zone: "dropboxchmod.com." always_null
+local-zone: "dukaan.com." always_null

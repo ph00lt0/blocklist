@@ -17604,3 +17604,4 @@ okii.com CNAME .
 mi.com CNAME .
 xiaomi.com CNAME .
 mi.hr CNAME .
+xiaomiworld.vn CNAME .

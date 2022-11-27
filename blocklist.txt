@@ -18242,3 +18242,4 @@ ing.nl##.cookie-description
 ||mi.com^
 ||xiaomi.com^
 ||mi.hr^
+||xiaomiworld.vn^

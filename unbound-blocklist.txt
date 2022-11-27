@@ -17636,3 +17636,4 @@ local-zone: "feedback.miui.com." always_null
 local-zone: "admob.xiaomi.com." always_null
 local-zone: "vsp-alexa-eu.amazon.com." always_null
 local-zone: "ad.pandora.tv." always_null
+local-zone: "stats.pandora.com." always_null

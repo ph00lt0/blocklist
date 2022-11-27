@@ -17633,3 +17633,4 @@ feedback.miui.com CNAME .
 admob.xiaomi.com CNAME .
 vsp-alexa-eu.amazon.com CNAME .
 ad.pandora.tv CNAME .
+stats.pandora.com CNAME .

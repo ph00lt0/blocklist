@@ -17741,3 +17741,4 @@
 0.0.0.0 admob.xiaomi.com
 0.0.0.0 vsp-alexa-eu.amazon.com
 0.0.0.0 ad.pandora.tv
+0.0.0.0 stats.pandora.com

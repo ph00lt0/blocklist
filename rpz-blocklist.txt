@@ -17647,3 +17647,4 @@ heytap.com CNAME .
 id.realme.com CNAME .
 caf.com CNAME .
 balaji.com CNAME .
+bsp.com CNAME .

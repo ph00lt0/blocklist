@@ -17650,3 +17650,4 @@ local-zone: "heytap.com." always_null
 local-zone: "id.realme.com." always_null
 local-zone: "caf.com." always_null
 local-zone: "balaji.com." always_null
+local-zone: "bsp.com." always_null

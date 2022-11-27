@@ -17163,6 +17163,7 @@
         "stat.xiaomi.com",
         "geofence.sys.miui.com",
         "feedback.miui.com",
-        "admob.xiaomi.com"
+        "admob.xiaomi.com",
+        "vsp-alexa-eu.amazon.com"
     ]
 }

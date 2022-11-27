@@ -17694,3 +17694,4 @@ analysis.heytap.com CNAME .
 habit.heytap.com CNAME .
 hike.com CNAME .
 hunantv.com CNAME .
+huya.com CNAME .

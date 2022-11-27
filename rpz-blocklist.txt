@@ -17757,3 +17757,16 @@ sanskrit.com CNAME .
 singoldating.com CNAME .
 smule.com CNAME .
 socialnmobile.com CNAME .
+superchinese.com CNAME .
+starmakerinteractive.com CNAME .
+superbox.com CNAME .
+szipcs.com CNAME .
+techburner.com CNAME .
+tencent.com CNAME .
+thel.com CNAME .
+thinkyeah.com CNAME .
+titan.com CNAME .
+toogud.com CNAME .
+topjohnwy.com CNAME .
+tru.com CNAME .
+tubit.com CNAME .

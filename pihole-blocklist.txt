@@ -17865,3 +17865,16 @@
 0.0.0.0 singoldating.com
 0.0.0.0 smule.com
 0.0.0.0 socialnmobile.com
+0.0.0.0 superchinese.com
+0.0.0.0 starmakerinteractive.com
+0.0.0.0 superbox.com
+0.0.0.0 szipcs.com
+0.0.0.0 techburner.com
+0.0.0.0 tencent.com
+0.0.0.0 thel.com
+0.0.0.0 thinkyeah.com
+0.0.0.0 titan.com
+0.0.0.0 toogud.com
+0.0.0.0 topjohnwy.com
+0.0.0.0 tru.com
+0.0.0.0 tubit.com

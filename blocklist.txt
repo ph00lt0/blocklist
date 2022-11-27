@@ -18395,3 +18395,16 @@ ing.nl##.cookie-description
 ||singoldating.com^
 ||smule.com^
 ||socialnmobile.com^
+||superchinese.com^
+||starmakerinteractive.com^
+||superbox.com^
+||szipcs.com^
+||techburner.com^
+||tencent.com^
+||thel.com^
+||thinkyeah.com^
+||titan.com^
+||toogud.com^
+||topjohnwy.com^
+||tru.com^
+||tubit.com^

@@ -18281,3 +18281,4 @@ ing.nl##.cookie-description
 ||oppomobile.com^
 ||cloud.realme.com^
 ||cloud.heytap.com^
+||heytap.com^

@@ -18250,3 +18250,4 @@ ing.nl##.cookie-description
 ||miviet.com^
 ||mii.is^
 ||xiaomistorepanama.com^
+||xiaomi-store.sk^

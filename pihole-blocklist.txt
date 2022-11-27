@@ -17720,3 +17720,4 @@
 0.0.0.0 miviet.com
 0.0.0.0 mii.is
 0.0.0.0 xiaomistorepanama.com
+0.0.0.0 xiaomi-store.sk

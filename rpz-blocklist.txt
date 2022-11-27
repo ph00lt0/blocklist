@@ -17659,3 +17659,4 @@ application.com CNAME .
 alibaba.com CNAME .
 ai.com CNAME .
 xender.cn CNAME .
+wps.cn CNAME .

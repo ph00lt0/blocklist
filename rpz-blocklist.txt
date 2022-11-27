@@ -17688,3 +17688,4 @@ graymatrix.com CNAME .
 guysonlydating.com CNAME .
 happyelements.com CNAME .
 browser.heytap.com CNAME .
+datamigration.heytap.com CNAME .

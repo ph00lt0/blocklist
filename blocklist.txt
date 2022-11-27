@@ -18326,3 +18326,4 @@ ing.nl##.cookie-description
 ||guysonlydating.com^
 ||happyelements.com^
 ||browser.heytap.com^
+||datamigration.heytap.com^

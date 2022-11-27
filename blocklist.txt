@@ -18305,3 +18305,4 @@ ing.nl##.cookie-description
 ||axis.com^
 ||datemyage.com^
 ||dc.com^
+||cricbuzz.com^

@@ -17667,3 +17667,4 @@ buzz.app CNAME .
 axis.com CNAME .
 datemyage.com CNAME .
 dc.com CNAME .
+cricbuzz.com CNAME .

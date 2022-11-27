@@ -17620,3 +17620,4 @@ xiaomi.lk CNAME .
 xiaomiflashtool.com CNAME .
 harga-xiaomi.com CNAME .
 tyler.logs.roku.com CNAME .
+giga.logs.roku.com CNAME .

@@ -17724,3 +17724,4 @@
 0.0.0.0 mia.africa.com
 0.0.0.0 official.tools
 0.0.0.0 xiaomi-store.co.ke
+0.0.0.0 xiaomi.lk

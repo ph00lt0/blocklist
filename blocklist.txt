@@ -18254,3 +18254,4 @@ ing.nl##.cookie-description
 ||mia.africa.com^
 ||official.tools^
 ||xiaomi-store.co.ke^
+||xiaomi.lk^

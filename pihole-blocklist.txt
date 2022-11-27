@@ -17732,3 +17732,4 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 gfe.geforce.com
 0.0.0.0 gfe.nvidia.com
+0.0.0.0 ads2.web1tv.de

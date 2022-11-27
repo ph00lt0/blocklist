@@ -18262,3 +18262,4 @@ ing.nl##.cookie-description
 ||cooper.logs.roku.com^
 ||gfe.geforce.com^
 ||gfe.nvidia.com^
+||ads2.web1tv.de^

@@ -17312,7 +17312,7 @@
 0.0.0.0 taxify.eu
 0.0.0.0 d3smpkehiq8afm.cloudfront.net
 0.0.0.0 email.uber.com
-0.0.0.0 node.bolt.eu
+! allow node.bolt.eu reason: bolt taxi service
 0.0.0.0 survey.apple.com
 0.0.0.0 go.dhlparcel.nl
 0.0.0.0 link.invitado.nl

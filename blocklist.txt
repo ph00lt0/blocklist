@@ -17805,7 +17805,7 @@ $removeparam=aclk
 ||taxify.eu^
 ||d3smpkehiq8afm.cloudfront.net^
 ||email.uber.com^
-||node.bolt.eu^
+||node.bolt.eu^$badfilter  # bolt taxi service
 ||survey.apple.com^
 ||go.dhlparcel.nl^
 ||link.invitado.nl^

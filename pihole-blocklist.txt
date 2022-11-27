@@ -17736,3 +17736,4 @@
 0.0.0.0 miui.com
 0.0.0.0 mistat.intl.xiaomi.com
 0.0.0.0 stat.xiaomi.com
+0.0.0.0 geofence.sys.miui.com

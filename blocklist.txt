@@ -18286,3 +18286,4 @@ ing.nl##.cookie-description
 ||caf.com^
 ||balaji.com^
 ||bsp.com^
+||color.com^

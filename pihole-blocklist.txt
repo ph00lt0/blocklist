@@ -17756,3 +17756,4 @@
 0.0.0.0 caf.com
 0.0.0.0 balaji.com
 0.0.0.0 bsp.com
+0.0.0.0 color.com

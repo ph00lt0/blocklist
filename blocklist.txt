@@ -18331,3 +18331,4 @@ ing.nl##.cookie-description
 ||analysis.heytap.com^
 ||habit.heytap.com^
 ||hike.com^
+||hunantv.com^

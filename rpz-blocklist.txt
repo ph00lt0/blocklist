@@ -17693,3 +17693,4 @@ colorfulengine.heytap.com CNAME .
 analysis.heytap.com CNAME .
 habit.heytap.com CNAME .
 hike.com CNAME .
+hunantv.com CNAME .

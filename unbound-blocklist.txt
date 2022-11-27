@@ -17696,3 +17696,4 @@ local-zone: "colorfulengine.heytap.com." always_null
 local-zone: "analysis.heytap.com." always_null
 local-zone: "habit.heytap.com." always_null
 local-zone: "hike.com." always_null
+local-zone: "hunantv.com." always_null

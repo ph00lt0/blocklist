@@ -17628,3 +17628,4 @@ local-zone: "cooper.logs.roku.com." always_null
 local-zone: "gfe.geforce.com." always_null
 local-zone: "gfe.nvidia.com." always_null
 local-zone: "ads2.web1tv.de." always_null
+local-zone: "miui.com." always_null

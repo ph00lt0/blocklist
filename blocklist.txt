@@ -18270,3 +18270,4 @@ ing.nl##.cookie-description
 ||feedback.miui.com^
 ||admob.xiaomi.com^
 ||vsp-alexa-eu.amazon.com^
+||ad.pandora.tv^

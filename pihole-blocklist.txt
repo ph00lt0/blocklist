@@ -17731,3 +17731,4 @@
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 gfe.geforce.com
+0.0.0.0 gfe.nvidia.com

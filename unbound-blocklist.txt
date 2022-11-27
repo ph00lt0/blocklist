@@ -17626,3 +17626,4 @@ local-zone: "tyler.logs.roku.com." always_null
 local-zone: "giga.logs.roku.com." always_null
 local-zone: "cooper.logs.roku.com." always_null
 local-zone: "gfe.geforce.com." always_null
+local-zone: "gfe.nvidia.com." always_null

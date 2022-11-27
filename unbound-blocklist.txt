@@ -17621,3 +17621,4 @@ local-zone: "official.tools." always_null
 local-zone: "xiaomi-store.co.ke." always_null
 local-zone: "xiaomi.lk." always_null
 local-zone: "xiaomiflashtool.com." always_null
+local-zone: "harga-xiaomi.com." always_null

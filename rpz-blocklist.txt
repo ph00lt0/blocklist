@@ -17601,3 +17601,4 @@ vivo.com CNAME .
 realme.com CNAME .
 huaweicloud.com CNAME .
 okii.com CNAME .
+mi.com CNAME .

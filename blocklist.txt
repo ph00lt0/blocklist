@@ -18325,3 +18325,4 @@ ing.nl##.cookie-description
 ||graymatrix.com^
 ||guysonlydating.com^
 ||happyelements.com^
+||browser.heytap.com^

@@ -17661,3 +17661,4 @@ local-zone: "apusapps.com." always_null
 local-zone: "application.com." always_null
 local-zone: "alibaba.com." always_null
 local-zone: "ai.com." always_null
+local-zone: "xender.cn." always_null

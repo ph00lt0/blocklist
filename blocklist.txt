@@ -18296,3 +18296,4 @@ ing.nl##.cookie-description
 ||application.com^
 ||alibaba.com^
 ||ai.com^
+||xender.cn^

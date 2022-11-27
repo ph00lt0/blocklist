@@ -17809,3 +17809,4 @@ local-zone: "creativeon.net." always_null
 local-zone: "analytics.163.com." always_null
 local-zone: "crash.163.com." always_null
 local-zone: "zoomanalytics.co." always_null
+local-zone: "routerahs.asus.com." always_null

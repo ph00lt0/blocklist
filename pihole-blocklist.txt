@@ -17914,3 +17914,4 @@
 0.0.0.0 analytics.163.com
 0.0.0.0 crash.163.com
 0.0.0.0 zoomanalytics.co
+0.0.0.0 routerahs.asus.com

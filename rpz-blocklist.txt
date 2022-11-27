@@ -17626,3 +17626,4 @@ gfe.geforce.com CNAME .
 gfe.nvidia.com CNAME .
 ads2.web1tv.de CNAME .
 miui.com CNAME .
+mistat.intl.xiaomi.com CNAME .

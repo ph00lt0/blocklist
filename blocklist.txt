@@ -18264,3 +18264,4 @@ ing.nl##.cookie-description
 ||gfe.nvidia.com^
 ||ads2.web1tv.de^
 ||miui.com^
+||mistat.intl.xiaomi.com^

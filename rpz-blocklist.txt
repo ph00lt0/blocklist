@@ -17661,3 +17661,4 @@ ai.com CNAME .
 xender.cn CNAME .
 wps.cn CNAME .
 soulapp.cn CNAME .
+jingling.cn CNAME .

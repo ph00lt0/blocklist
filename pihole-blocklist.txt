@@ -17769,3 +17769,4 @@
 0.0.0.0 xender.cn
 0.0.0.0 wps.cn
 0.0.0.0 soulapp.cn
+0.0.0.0 jingling.cn

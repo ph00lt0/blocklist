@@ -18299,3 +18299,4 @@ ing.nl##.cookie-description
 ||xender.cn^
 ||wps.cn^
 ||soulapp.cn^
+||jingling.cn^

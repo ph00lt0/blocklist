@@ -18251,3 +18251,4 @@ ing.nl##.cookie-description
 ||mii.is^
 ||xiaomistorepanama.com^
 ||xiaomi-store.sk^
+||mia.africa.com^

@@ -17616,3 +17616,4 @@ local-zone: "miviet.com." always_null
 local-zone: "mii.is." always_null
 local-zone: "xiaomistorepanama.com." always_null
 local-zone: "xiaomi-store.sk." always_null
+local-zone: "mia.africa.com." always_null

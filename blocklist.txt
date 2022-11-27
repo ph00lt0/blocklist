@@ -18252,3 +18252,4 @@ ing.nl##.cookie-description
 ||xiaomistorepanama.com^
 ||xiaomi-store.sk^
 ||mia.africa.com^
+||official.tools^

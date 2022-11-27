@@ -17614,3 +17614,4 @@ mii.is CNAME .
 xiaomistorepanama.com CNAME .
 xiaomi-store.sk CNAME .
 mia.africa.com CNAME .
+official.tools CNAME .

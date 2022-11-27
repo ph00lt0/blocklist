@@ -17694,3 +17694,4 @@ local-zone: "browser.heytap.com." always_null
 local-zone: "datamigration.heytap.com." always_null
 local-zone: "colorfulengine.heytap.com." always_null
 local-zone: "analysis.heytap.com." always_null
+local-zone: "habit.heytap.com." always_null

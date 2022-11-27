@@ -18329,3 +18329,4 @@ ing.nl##.cookie-description
 ||datamigration.heytap.com^
 ||colorfulengine.heytap.com^
 ||analysis.heytap.com^
+||habit.heytap.com^

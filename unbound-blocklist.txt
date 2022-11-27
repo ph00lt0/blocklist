@@ -17708,8 +17708,7 @@ local-zone: "ixigo.com." always_null
 local-zone: "jio.com." always_null
 local-zone: "jellyblast.com." always_null
 local-zone: "koovs.com." always_null
-local-zone: "ksmobile." always_null
-local-zone: "com." always_null
+local-zone: "ksmobile.com" always_null
 local-zone: "ktcp.com." always_null
 local-zone: "kwai.com." always_null
 local-zone: "lalamove.com." always_null

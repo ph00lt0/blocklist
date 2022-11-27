@@ -17813,8 +17813,7 @@
 0.0.0.0 jio.com
 0.0.0.0 jellyblast.com
 0.0.0.0 koovs.com
-0.0.0.0 ksmobile
-0.0.0.0 com
+0.0.0.0 ksmobile.com
 0.0.0.0 ktcp.com
 0.0.0.0 kwai.com
 0.0.0.0 lalamove.com

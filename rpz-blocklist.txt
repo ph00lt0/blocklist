@@ -17705,8 +17705,7 @@ ixigo.com CNAME .
 jio.com CNAME .
 jellyblast.com CNAME .
 koovs.com CNAME .
-ksmobile CNAME .
-com CNAME .
+ksmobile.com CNAME .
 ktcp.com CNAME .
 kwai.com CNAME .
 lalamove.com CNAME .

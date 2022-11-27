@@ -18280,3 +18280,4 @@ ing.nl##.cookie-description
 ||operacdn.com^
 ||oppomobile.com^
 ||cloud.realme.com^
+||cloud.heytap.com^

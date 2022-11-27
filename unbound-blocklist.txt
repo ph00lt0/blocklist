@@ -17645,3 +17645,4 @@ local-zone: "opera.com." always_null
 local-zone: "operacdn.com." always_null
 local-zone: "oppomobile.com." always_null
 local-zone: "cloud.realme.com." always_null
+local-zone: "cloud.heytap.com." always_null

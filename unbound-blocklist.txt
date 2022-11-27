@@ -17605,3 +17605,4 @@ local-zone: "realme.com." always_null
 local-zone: "huaweicloud.com." always_null
 local-zone: "okii.com." always_null
 local-zone: "mi.com." always_null
+local-zone: "xiaomi.com." always_null

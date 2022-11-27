@@ -18260,3 +18260,4 @@ ing.nl##.cookie-description
 ||tyler.logs.roku.com^
 ||giga.logs.roku.com^
 ||cooper.logs.roku.com^
+||gfe.geforce.com^

@@ -17622,3 +17622,4 @@ harga-xiaomi.com CNAME .
 tyler.logs.roku.com CNAME .
 giga.logs.roku.com CNAME .
 cooper.logs.roku.com CNAME .
+gfe.geforce.com CNAME .

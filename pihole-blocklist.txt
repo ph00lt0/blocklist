@@ -17730,3 +17730,4 @@
 0.0.0.0 tyler.logs.roku.com
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 cooper.logs.roku.com
+0.0.0.0 gfe.geforce.com

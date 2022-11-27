@@ -18289,3 +18289,4 @@ ing.nl##.cookie-description
 ||color.com^
 ||chinalove.com^
 ||cardfeed.com^
+||camerasideas.com^

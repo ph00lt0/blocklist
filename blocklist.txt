@@ -18255,3 +18255,4 @@ ing.nl##.cookie-description
 ||official.tools^
 ||xiaomi-store.co.ke^
 ||xiaomi.lk^
+||xiaomiflashtool.com^

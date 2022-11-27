@@ -17617,3 +17617,4 @@ mia.africa.com CNAME .
 official.tools CNAME .
 xiaomi-store.co.ke CNAME .
 xiaomi.lk CNAME .
+xiaomiflashtool.com CNAME .

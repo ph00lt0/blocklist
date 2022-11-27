@@ -17690,3 +17690,4 @@ happyelements.com CNAME .
 browser.heytap.com CNAME .
 datamigration.heytap.com CNAME .
 colorfulengine.heytap.com CNAME .
+analysis.heytap.com CNAME .

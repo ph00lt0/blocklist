@@ -18328,3 +18328,4 @@ ing.nl##.cookie-description
 ||browser.heytap.com^
 ||datamigration.heytap.com^
 ||colorfulengine.heytap.com^
+||analysis.heytap.com^

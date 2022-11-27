@@ -17715,3 +17715,4 @@
 0.0.0.0 xiaomiworld.vn
 0.0.0.0 xiaomistore.pk
 0.0.0.0 xiaomi.ie
+0.0.0.0 mi-home.no

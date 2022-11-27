@@ -17607,3 +17607,4 @@ mi.hr CNAME .
 xiaomiworld.vn CNAME .
 xiaomistore.pk CNAME .
 xiaomi.ie CNAME .
+mi-home.no CNAME .

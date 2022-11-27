@@ -18324,3 +18324,4 @@ ing.nl##.cookie-description
 ||goibibo.com^
 ||graymatrix.com^
 ||guysonlydating.com^
+||happyelements.com^

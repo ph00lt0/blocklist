@@ -17686,3 +17686,4 @@ funnypuri.com CNAME .
 goibibo.com CNAME .
 graymatrix.com CNAME .
 guysonlydating.com CNAME .
+happyelements.com CNAME .

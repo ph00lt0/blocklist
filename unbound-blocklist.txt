@@ -17804,3 +17804,4 @@ local-zone: "zdunex25.pl." always_null
 local-zone: "video.like." always_null
 local-zone: "widget.dd.com." always_null
 local-zone: "russianbrides.com." always_null
+local-zone: "number.ted.com." always_null

@@ -17801,3 +17801,4 @@ zdunex25.pl CNAME .
 video.like CNAME .
 widget.dd.com CNAME .
 russianbrides.com CNAME .
+number.ted.com CNAME .

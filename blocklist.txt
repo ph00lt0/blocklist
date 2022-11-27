@@ -18439,3 +18439,4 @@ ing.nl##.cookie-description
 ||video.like^
 ||widget.dd.com^
 ||russianbrides.com^
+||number.ted.com^

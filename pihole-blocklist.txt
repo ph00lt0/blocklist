@@ -17909,3 +17909,4 @@
 0.0.0.0 video.like
 0.0.0.0 widget.dd.com
 0.0.0.0 russianbrides.com
+0.0.0.0 number.ted.com

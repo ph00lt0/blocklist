@@ -17624,3 +17624,4 @@ local-zone: "xiaomiflashtool.com." always_null
 local-zone: "harga-xiaomi.com." always_null
 local-zone: "tyler.logs.roku.com." always_null
 local-zone: "giga.logs.roku.com." always_null
+local-zone: "cooper.logs.roku.com." always_null

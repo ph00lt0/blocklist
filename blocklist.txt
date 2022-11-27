@@ -18259,3 +18259,4 @@ ing.nl##.cookie-description
 ||harga-xiaomi.com^
 ||tyler.logs.roku.com^
 ||giga.logs.roku.com^
+||cooper.logs.roku.com^

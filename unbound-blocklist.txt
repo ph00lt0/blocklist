@@ -17638,3 +17638,4 @@ local-zone: "vsp-alexa-eu.amazon.com." always_null
 local-zone: "ad.pandora.tv." always_null
 local-zone: "stats.pandora.com." always_null
 local-zone: "ads.pandora.tv.net." always_null
+local-zone: "cortana-gateway.amazon.com." always_null

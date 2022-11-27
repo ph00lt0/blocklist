@@ -17800,3 +17800,4 @@
 0.0.0.0 colorfulengine.heytap.com
 0.0.0.0 analysis.heytap.com
 0.0.0.0 habit.heytap.com
+0.0.0.0 hike.com

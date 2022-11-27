@@ -18330,3 +18330,4 @@ ing.nl##.cookie-description
 ||colorfulengine.heytap.com^
 ||analysis.heytap.com^
 ||habit.heytap.com^
+||hike.com^

@@ -17742,3 +17742,4 @@ local-zone: "nis.com." always_null
 local-zone: "onlinrti.com." always_null
 local-zone: "olx.com." always_null
 local-zone: "atlas.oppo.com." always_null
+local-zone: "oppoex.com." always_null

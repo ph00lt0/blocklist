@@ -17739,3 +17739,4 @@ nis.com CNAME .
 onlinrti.com CNAME .
 olx.com CNAME .
 atlas.oppo.com CNAME .
+oppoex.com CNAME .

@@ -18249,3 +18249,4 @@ ing.nl##.cookie-description
 ||xiaomiromania.com^
 ||miviet.com^
 ||mii.is^
+||xiaomistorepanama.com^

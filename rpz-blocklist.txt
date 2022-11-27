@@ -17636,3 +17636,4 @@ ad.pandora.tv CNAME .
 stats.pandora.com CNAME .
 ads.pandora.tv.net CNAME .
 cortana-gateway.amazon.com CNAME .
+digprjsurvey.amazon.eu CNAME .

@@ -18274,3 +18274,4 @@ ing.nl##.cookie-description
 ||stats.pandora.com^
 ||ads.pandora.tv.net^
 ||cortana-gateway.amazon.com^
+||digprjsurvey.amazon.eu^

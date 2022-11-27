@@ -17692,3 +17692,4 @@ local-zone: "guysonlydating.com." always_null
 local-zone: "happyelements.com." always_null
 local-zone: "browser.heytap.com." always_null
 local-zone: "datamigration.heytap.com." always_null
+local-zone: "colorfulengine.heytap.com." always_null

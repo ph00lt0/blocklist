@@ -18327,3 +18327,4 @@ ing.nl##.cookie-description
 ||happyelements.com^
 ||browser.heytap.com^
 ||datamigration.heytap.com^
+||colorfulengine.heytap.com^

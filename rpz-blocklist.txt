@@ -17802,3 +17802,4 @@ video.like CNAME .
 widget.dd.com CNAME .
 russianbrides.com CNAME .
 number.ted.com CNAME .
+sp-server.net CNAME .

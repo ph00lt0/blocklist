@@ -17749,3 +17749,4 @@
 0.0.0.0 opera.com
 0.0.0.0 operacdn.com
 0.0.0.0 oppomobile.com
+0.0.0.0 cloud.realme.com

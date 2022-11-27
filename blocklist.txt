@@ -18279,3 +18279,4 @@ ing.nl##.cookie-description
 ||opera.com^
 ||operacdn.com^
 ||oppomobile.com^
+||cloud.realme.com^

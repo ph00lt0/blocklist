@@ -17644,3 +17644,4 @@ local-zone: "speeddials.opera.com." always_null
 local-zone: "opera.com." always_null
 local-zone: "operacdn.com." always_null
 local-zone: "oppomobile.com." always_null
+local-zone: "cloud.realme.com." always_null

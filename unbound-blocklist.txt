@@ -17657,3 +17657,4 @@ local-zone: "cardfeed.com." always_null
 local-zone: "camerasideas.com." always_null
 local-zone: "cam001.com." always_null
 local-zone: "asiandate.com." always_null
+local-zone: "apusapps.com." always_null

@@ -17654,3 +17654,4 @@ cardfeed.com CNAME .
 camerasideas.com CNAME .
 cam001.com CNAME .
 asiandate.com CNAME .
+apusapps.com CNAME .

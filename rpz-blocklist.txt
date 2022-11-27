@@ -17634,3 +17634,4 @@ admob.xiaomi.com CNAME .
 vsp-alexa-eu.amazon.com CNAME .
 ad.pandora.tv CNAME .
 stats.pandora.com CNAME .
+ads.pandora.tv.net CNAME .

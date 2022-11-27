@@ -17742,3 +17742,4 @@
 0.0.0.0 vsp-alexa-eu.amazon.com
 0.0.0.0 ad.pandora.tv
 0.0.0.0 stats.pandora.com
+0.0.0.0 ads.pandora.tv.net

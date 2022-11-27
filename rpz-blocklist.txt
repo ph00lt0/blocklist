@@ -17660,3 +17660,4 @@ alibaba.com CNAME .
 ai.com CNAME .
 xender.cn CNAME .
 wps.cn CNAME .
+soulapp.cn CNAME .

@@ -17663,3 +17663,4 @@ local-zone: "alibaba.com." always_null
 local-zone: "ai.com." always_null
 local-zone: "xender.cn." always_null
 local-zone: "wps.cn." always_null
+local-zone: "soulapp.cn." always_null

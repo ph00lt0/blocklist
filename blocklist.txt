@@ -18298,3 +18298,4 @@ ing.nl##.cookie-description
 ||ai.com^
 ||xender.cn^
 ||wps.cn^
+||soulapp.cn^

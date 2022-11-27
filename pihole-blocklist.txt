@@ -17761,3 +17761,4 @@
 0.0.0.0 cardfeed.com
 0.0.0.0 camerasideas.com
 0.0.0.0 cam001.com
+0.0.0.0 asiandate.com

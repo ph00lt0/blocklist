@@ -17717,3 +17717,4 @@
 0.0.0.0 xiaomi.ie
 0.0.0.0 mi-home.no
 0.0.0.0 xiaomiromania.com
+0.0.0.0 miviet.com

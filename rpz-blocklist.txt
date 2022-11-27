@@ -17609,3 +17609,4 @@ xiaomistore.pk CNAME .
 xiaomi.ie CNAME .
 mi-home.no CNAME .
 xiaomiromania.com CNAME .
+miviet.com CNAME .

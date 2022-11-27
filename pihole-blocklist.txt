@@ -17803,3 +17803,12 @@
 0.0.0.0 hike.com
 0.0.0.0 hunantv.com
 0.0.0.0 huya.com
+0.0.0.0 pictorial.heytap.com
+0.0.0.0 openid.heytap.com
+0.0.0.0 mcs.heytap.com
+0.0.0.0 hw.com
+0.0.0.0 indymobileapp.com
+0.0.0.0 intsig.com
+0.0.0.0 ixigo.com
+0.0.0.0 jio.com
+0.0.0.0 jellyblast.com

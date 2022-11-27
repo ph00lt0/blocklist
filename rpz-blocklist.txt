@@ -17695,3 +17695,12 @@ habit.heytap.com CNAME .
 hike.com CNAME .
 hunantv.com CNAME .
 huya.com CNAME .
+pictorial.heytap.com CNAME .
+openid.heytap.com CNAME .
+mcs.heytap.com CNAME .
+hw.com CNAME .
+indymobileapp.com CNAME .
+intsig.com CNAME .
+ixigo.com CNAME .
+jio.com CNAME .
+jellyblast.com CNAME .

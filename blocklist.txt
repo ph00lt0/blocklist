@@ -18452,3 +18452,4 @@ ing.nl##.cookie-description
 ||fengkongcloud.com^
 ||telemetry.bluedot.io^
 ||stocks-analytics-events.news.apple-dns.net^
+||chinacloudapi.cn^

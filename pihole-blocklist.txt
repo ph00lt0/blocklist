@@ -17922,3 +17922,4 @@
 0.0.0.0 fengkongcloud.com
 0.0.0.0 telemetry.bluedot.io
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 chinacloudapi.cn

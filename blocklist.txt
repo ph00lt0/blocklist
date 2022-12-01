@@ -18448,3 +18448,4 @@ ing.nl##.cookie-description
 ||rgom10-en.url.trendmicro.com^
 ||nwsrv-ns1.asus.com^
 ||mktdplp102neda.azureedge.net^
+||transact.lastpass.com^

@@ -17919,3 +17919,4 @@
 0.0.0.0 nwsrv-ns1.asus.com
 0.0.0.0 mktdplp102neda.azureedge.net
 0.0.0.0 transact.lastpass.com
+0.0.0.0 fengkongcloud.com

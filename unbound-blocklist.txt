@@ -17814,3 +17814,4 @@ local-zone: "rgom10-en.url.trendmicro.com." always_null
 local-zone: "nwsrv-ns1.asus.com." always_null
 local-zone: "mktdplp102neda.azureedge.net." always_null
 local-zone: "transact.lastpass.com." always_null
+local-zone: "fengkongcloud.com." always_null

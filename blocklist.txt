@@ -18451,3 +18451,4 @@ ing.nl##.cookie-description
 ||transact.lastpass.com^
 ||fengkongcloud.com^
 ||telemetry.bluedot.io^
+||stocks-analytics-events.news.apple-dns.net^

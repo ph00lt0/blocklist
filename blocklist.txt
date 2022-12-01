@@ -18450,3 +18450,4 @@ ing.nl##.cookie-description
 ||mktdplp102neda.azureedge.net^
 ||transact.lastpass.com^
 ||fengkongcloud.com^
+||telemetry.bluedot.io^

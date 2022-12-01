@@ -17812,3 +17812,4 @@ nwsrv-ns1.asus.com CNAME .
 mktdplp102neda.azureedge.net CNAME .
 transact.lastpass.com CNAME .
 fengkongcloud.com CNAME .
+telemetry.bluedot.io CNAME .

@@ -17819,3 +17819,4 @@ local-zone: "telemetry.bluedot.io." always_null
 local-zone: "stocks-analytics-events.news.apple-dns.net." always_null
 local-zone: "chinacloudapi.cn." always_null
 local-zone: "saleslabs.org." always_null
+local-zone: "alfa-hotel.free.hr." always_null

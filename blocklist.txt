@@ -18454,3 +18454,4 @@ ing.nl##.cookie-description
 ||stocks-analytics-events.news.apple-dns.net^
 ||chinacloudapi.cn^
 ||saleslabs.org^
+||alfa-hotel.free.hr^

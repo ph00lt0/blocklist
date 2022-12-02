@@ -17817,3 +17817,4 @@ stocks-analytics-events.news.apple-dns.net CNAME .
 chinacloudapi.cn CNAME .
 saleslabs.org CNAME .
 alfa-hotel.free.hr CNAME .
+wellkart.comr CNAME .

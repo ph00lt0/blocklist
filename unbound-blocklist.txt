@@ -17818,3 +17818,4 @@ local-zone: "fengkongcloud.com." always_null
 local-zone: "telemetry.bluedot.io." always_null
 local-zone: "stocks-analytics-events.news.apple-dns.net." always_null
 local-zone: "chinacloudapi.cn." always_null
+local-zone: "saleslabs.org." always_null

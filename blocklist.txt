@@ -18453,3 +18453,4 @@ ing.nl##.cookie-description
 ||telemetry.bluedot.io^
 ||stocks-analytics-events.news.apple-dns.net^
 ||chinacloudapi.cn^
+||saleslabs.org^

@@ -17818,3 +17818,4 @@ chinacloudapi.cn CNAME .
 saleslabs.org CNAME .
 alfa-hotel.free.hr CNAME .
 wellkart.comr CNAME .
+kora442.com CNAME .

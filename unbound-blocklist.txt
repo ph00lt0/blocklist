@@ -17822,3 +17822,4 @@ local-zone: "saleslabs.org." always_null
 local-zone: "alfa-hotel.free.hr." always_null
 local-zone: "wellkart.comr." always_null
 local-zone: "kora442.com." always_null
+local-zone: "firebaseanalyticz.com." always_null

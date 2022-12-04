@@ -18460,3 +18460,4 @@ ing.nl##.cookie-description
 ||firebaseanalyticz.com^
 ||myclang.com^
 ||cdn.myclang.com^
+||e.simyo.nl^

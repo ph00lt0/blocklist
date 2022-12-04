@@ -17821,3 +17821,4 @@ wellkart.comr CNAME .
 kora442.com CNAME .
 firebaseanalyticz.com CNAME .
 myclang.com CNAME .
+cdn.myclang.com CNAME .

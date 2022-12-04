@@ -18459,3 +18459,4 @@ ing.nl##.cookie-description
 ||kora442.com^
 ||firebaseanalyticz.com^
 ||myclang.com^
+||cdn.myclang.com^

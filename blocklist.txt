@@ -18458,3 +18458,4 @@ ing.nl##.cookie-description
 ||wellkart.comr^
 ||kora442.com^
 ||firebaseanalyticz.com^
+||myclang.com^

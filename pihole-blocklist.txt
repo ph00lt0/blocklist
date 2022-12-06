@@ -790,7 +790,7 @@
 0.0.0.0 workdrive.zoho.eu
 0.0.0.0 contacts.zoho.eu
 0.0.0.0 phonebridge.zoho.eu
-0.0.0.0 webfonts.zoho.com
+! allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without
 0.0.0.0 mailws.zoho.eu
 0.0.0.0 ostats.mozilla.com
 0.0.0.0 sostats.mozilla.com

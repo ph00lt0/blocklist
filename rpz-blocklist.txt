@@ -755,7 +755,7 @@ wms*.zoho.eu CNAME .
 workdrive.zoho.eu CNAME .
 contacts.zoho.eu CNAME .
 phonebridge.zoho.eu CNAME .
-webfonts.zoho.com CNAME .
+; allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without
 mailws.zoho.eu CNAME .
 ostats.mozilla.com CNAME .
 sostats.mozilla.com CNAME .

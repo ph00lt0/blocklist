@@ -756,7 +756,7 @@ local-zone: "wms*.zoho.eu." always_null
 local-zone: "workdrive.zoho.eu." always_null
 local-zone: "contacts.zoho.eu." always_null
 local-zone: "phonebridge.zoho.eu." always_null
-local-zone: "webfonts.zoho.com." always_null
+# allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without
 local-zone: "mailws.zoho.eu." always_null
 local-zone: "ostats.mozilla.com." always_null
 local-zone: "sostats.mozilla.com." always_null

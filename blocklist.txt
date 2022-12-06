@@ -791,7 +791,7 @@
 ||workdrive.zoho.eu^
 ||contacts.zoho.eu^
 ||phonebridge.zoho.eu^
-||webfonts.zoho.com^
+||webfonts.zoho.com^$badfilter  # Required for zoho admin, loading breaks without
 ||mailws.zoho.eu^
 ||ostats.mozilla.com^
 ||sostats.mozilla.com^

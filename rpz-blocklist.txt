@@ -17823,3 +17823,4 @@ firebaseanalyticz.com CNAME .
 myclang.com CNAME .
 cdn.myclang.com CNAME .
 e.simyo.nl CNAME .
+surveymyopinion.researchnow.com CNAME .

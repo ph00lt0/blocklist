@@ -18462,3 +18462,4 @@ ing.nl##.cookie-description
 ||cdn.myclang.com^
 ||e.simyo.nl^
 ||surveymyopinion.researchnow.com^
+||netcoresmartech.com^

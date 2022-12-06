@@ -17824,3 +17824,4 @@ myclang.com CNAME .
 cdn.myclang.com CNAME .
 e.simyo.nl CNAME .
 surveymyopinion.researchnow.com CNAME .
+netcoresmartech.com CNAME .

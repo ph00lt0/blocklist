@@ -18463,3 +18463,4 @@ ing.nl##.cookie-description
 ||e.simyo.nl^
 ||surveymyopinion.researchnow.com^
 ||netcoresmartech.com^
+||deapi.afreecatv.com^

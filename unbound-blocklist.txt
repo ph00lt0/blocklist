@@ -17828,3 +17828,4 @@ local-zone: "cdn.myclang.com." always_null
 local-zone: "e.simyo.nl." always_null
 local-zone: "surveymyopinion.researchnow.com." always_null
 local-zone: "netcoresmartech.com." always_null
+local-zone: "deapi.afreecatv.com." always_null

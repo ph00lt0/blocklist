@@ -17933,3 +17933,4 @@
 0.0.0.0 e.simyo.nl
 0.0.0.0 surveymyopinion.researchnow.com
 0.0.0.0 netcoresmartech.com
+0.0.0.0 deapi.afreecatv.com

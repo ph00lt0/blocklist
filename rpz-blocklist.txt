@@ -2309,7 +2309,7 @@ publikaan.nl CNAME .
 dimml.io CNAME .
 cdn.dimml.io CNAME .
 svb.containers.piwik.pro CNAME .
-open.spotify.com CNAME .
+; allow open.spotify.com reason: it is just a link to Spotify
 consentcdn.cookiebot.com CNAME .
 analytics.knmp.nl CNAME .
 cookieconsent.vruchtvlees.com CNAME .

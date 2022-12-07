@@ -2356,7 +2356,7 @@
 0.0.0.0 dimml.io
 0.0.0.0 cdn.dimml.io
 0.0.0.0 svb.containers.piwik.pro
-0.0.0.0 open.spotify.com
+! allow open.spotify.com reason: it is just a link to Spotify
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 analytics.knmp.nl
 0.0.0.0 cookieconsent.vruchtvlees.com

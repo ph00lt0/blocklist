@@ -2360,7 +2360,7 @@
 ||dimml.io^
 ||cdn.dimml.io^
 ||svb.containers.piwik.pro^
-||open.spotify.com^
+||open.spotify.com^$badfilter  # it is just a link to Spotify
 ||consentcdn.cookiebot.com^
 ||analytics.knmp.nl^
 ||cookieconsent.vruchtvlees.com^
@@ -18122,7 +18122,7 @@ www.linkedin.com##span:has-text(Promoted):upward(6)
 ||marketingmakers.nl^
 ||objectiveportal.com^
 ||alphacomm.network^
-||open.spotify.com^$third-party
+||open.spotify.com^$badfilter  # it is just a link to Spotify$third-party
 ||adobeioruntime.net^
 ||cookies.bratpack.nl^
 ||js.bratpack.nl^

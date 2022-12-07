@@ -2311,7 +2311,7 @@ local-zone: "publikaan.nl." always_null
 local-zone: "dimml.io." always_null
 local-zone: "cdn.dimml.io." always_null
 local-zone: "svb.containers.piwik.pro." always_null
-local-zone: "open.spotify.com." always_null
+# allow open.spotify.com reason: it is just a link to Spotify
 local-zone: "consentcdn.cookiebot.com." always_null
 local-zone: "analytics.knmp.nl." always_null
 local-zone: "cookieconsent.vruchtvlees.com." always_null

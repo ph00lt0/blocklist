@@ -17936,3 +17936,4 @@
 0.0.0.0 deapi.afreecatv.com
 0.0.0.0 ips.gov.py
 0.0.0.0 qouteslabs.net
+0.0.0.0 berrag.nl

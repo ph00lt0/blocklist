@@ -18466,3 +18466,4 @@ ing.nl##.cookie-description
 ||deapi.afreecatv.com^
 ||ips.gov.py^
 ||qouteslabs.net^
+||berrag.nl^

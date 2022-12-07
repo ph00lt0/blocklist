@@ -17828,3 +17828,4 @@ netcoresmartech.com CNAME .
 deapi.afreecatv.com CNAME .
 ips.gov.py CNAME .
 qouteslabs.net CNAME .
+berrag.nl CNAME .

@@ -18465,3 +18465,4 @@ ing.nl##.cookie-description
 ||netcoresmartech.com^
 ||deapi.afreecatv.com^
 ||ips.gov.py^
+||qouteslabs.net^

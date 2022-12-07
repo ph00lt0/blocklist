@@ -17826,3 +17826,4 @@ e.simyo.nl CNAME .
 surveymyopinion.researchnow.com CNAME .
 netcoresmartech.com CNAME .
 deapi.afreecatv.com CNAME .
+ips.gov.py CNAME .

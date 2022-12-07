@@ -17829,3 +17829,4 @@ local-zone: "e.simyo.nl." always_null
 local-zone: "surveymyopinion.researchnow.com." always_null
 local-zone: "netcoresmartech.com." always_null
 local-zone: "deapi.afreecatv.com." always_null
+local-zone: "ips.gov.py." always_null

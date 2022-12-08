@@ -17849,3 +17849,4 @@ myclang.org CNAME .
 click.edm.postnl.nl CNAME .
 marketing.kpn.com CNAME .
 links.twilio.com CNAME .
+novastills.de CNAME .

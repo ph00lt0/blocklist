@@ -7,15 +7,17 @@ We recommend against using the AdGuard DNS filter, they whitellist many tracking
 This blocklists aims at blocking:
 - Stats and analytics (including privacy preserving ones such as Matomo) 
 - Lottery and gambling companies
-- Data brokers and data collecting companies
+- Data brokers and data collecting companies such as surveys
 - Debugging trackers
 - Ads
 - Font content delivery networks
-- Consent/cookie managment platforms
+- Consent/cookie management platforms
 - Malware
 - Spyware
 - Remote Desktop Software
 - Scam and fraud
+- Phishing attempts
+- Domains used in email spam activity
 <br>
 
 Depending on where the list is used it will also block:

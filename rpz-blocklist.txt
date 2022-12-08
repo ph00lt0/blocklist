@@ -17861,3 +17861,4 @@ kostenloseerotik.org CNAME .
 topcams.life CNAME .
 spokanevalleyseo.com CNAME .
 callbacktracker.com CNAME .
+pokersoftwarepal.com CNAME .

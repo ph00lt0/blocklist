@@ -17840,3 +17840,4 @@ local-zone: "lunchboxfactory.de." always_null
 local-zone: "puszczanskizielnikterencjusza.pl." always_null
 local-zone: "aussievitamin.com." always_null
 local-zone: "churchrez.org." always_null
+local-zone: "fashionstube.de." always_null

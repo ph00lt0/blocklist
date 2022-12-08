@@ -17839,3 +17839,4 @@ aussievitamin.com CNAME .
 churchrez.org CNAME .
 fashionstube.de CNAME .
 info-rebo.eu CNAME .
+servmedu.pl CNAME .

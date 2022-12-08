@@ -18477,3 +18477,4 @@ ing.nl##.cookie-description
 ||churchrez.org^
 ||fashionstube.de^
 ||info-rebo.eu^
+||servmedu.pl^

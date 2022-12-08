@@ -17947,3 +17947,4 @@
 0.0.0.0 churchrez.org
 0.0.0.0 fashionstube.de
 0.0.0.0 info-rebo.eu
+0.0.0.0 servmedu.pl

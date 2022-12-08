@@ -18489,3 +18489,4 @@ ing.nl##.cookie-description
 ||links.twilio.com^
 ||novastills.de^
 ||quoteslabs.net^
+www.vliegtickets.nl##[class^="CookieBanner"]

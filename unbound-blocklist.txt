@@ -17849,3 +17849,4 @@ local-zone: "e.eurostar.com." always_null
 local-zone: "click.e.eurostar.com." always_null
 local-zone: "click.email.mollie.com." always_null
 local-zone: "myclang.org." always_null
+local-zone: "click.edm.postnl.nl." always_null

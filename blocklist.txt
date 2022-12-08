@@ -18484,3 +18484,4 @@ ing.nl##.cookie-description
 ||click.e.eurostar.com^
 ||click.email.mollie.com^
 ||myclang.org^
+||click.edm.postnl.nl^

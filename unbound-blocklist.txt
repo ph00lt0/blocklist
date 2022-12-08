@@ -17846,3 +17846,4 @@ local-zone: "servmedu.pl." always_null
 local-zone: "alfa145.com." always_null
 local-zone: "lightcars.de." always_null
 local-zone: "e.eurostar.com." always_null
+local-zone: "click.e.eurostar.com." always_null

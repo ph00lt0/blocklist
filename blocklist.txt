@@ -18481,3 +18481,4 @@ ing.nl##.cookie-description
 ||alfa145.com^
 ||lightcars.de^
 ||e.eurostar.com^
+||click.e.eurostar.com^

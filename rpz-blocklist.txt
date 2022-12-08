@@ -17843,3 +17843,4 @@ servmedu.pl CNAME .
 alfa145.com CNAME .
 lightcars.de CNAME .
 e.eurostar.com CNAME .
+click.e.eurostar.com CNAME .

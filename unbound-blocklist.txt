@@ -17868,3 +17868,4 @@ local-zone: "pokersoftwarepal.com." always_null
 local-zone: "rapidplay.me." always_null
 local-zone: "chat-insights.getstream.io." always_null
 local-zone: "sdk.arengu.com." always_null
+local-zone: "profile-counter.glitch.me." always_null

@@ -18485,3 +18485,4 @@ ing.nl##.cookie-description
 ||click.email.mollie.com^
 ||myclang.org^
 ||click.edm.postnl.nl^
+||marketing.kpn.com^

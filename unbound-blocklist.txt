@@ -17843,3 +17843,4 @@ local-zone: "churchrez.org." always_null
 local-zone: "fashionstube.de." always_null
 local-zone: "info-rebo.eu." always_null
 local-zone: "servmedu.pl." always_null
+local-zone: "alfa145.com." always_null

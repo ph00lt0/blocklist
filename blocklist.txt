@@ -18511,3 +18511,4 @@ learn.microsoft.com###cookie-consent-holder
 bing.com##.bnp_btn_accept
 nuget.org###cookie-banner
 ||pixel.app.returnpath.net^
+||roundprincethere.com^

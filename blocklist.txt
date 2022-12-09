@@ -18509,3 +18509,4 @@ www.vliegtickets.nl##[class^="Overlay_overlay__"]
 ||profile-counter.glitch.me^
 learn.microsoft.com###cookie-consent-holder
 bing.com##.bnp_btn_accept
+nuget.org###cookie-banner

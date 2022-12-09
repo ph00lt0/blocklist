@@ -14589,7 +14589,7 @@ local-zone: "digitaltarget.ru." always_null
 local-zone: "digitru.st." always_null
 local-zone: "dimdi.de." always_null
 local-zone: "dipf.de." always_null
-local-zone: "directferries.com." always_null
+# allow directferries.com reason: not a tracker
 local-zone: "disco-api.com." always_null
 # allow discord.com reason: not a tracker
 # allow disqus.com reason: disqus platform

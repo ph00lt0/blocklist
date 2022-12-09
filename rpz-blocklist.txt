@@ -14586,7 +14586,7 @@ digitaltarget.ru CNAME .
 digitru.st CNAME .
 dimdi.de CNAME .
 dipf.de CNAME .
-directferries.com CNAME .
+; allow directferries.com reason: not a tracker
 disco-api.com CNAME .
 ; allow discord.com reason: not a tracker
 ; allow disqus.com reason: disqus platform

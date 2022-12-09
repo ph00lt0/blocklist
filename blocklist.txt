@@ -15015,7 +15015,7 @@ $removeparam=engagement_type
 ||digitru.st^
 ||dimdi.de^
 ||dipf.de^
-||directferries.com^
+||directferries.com^$badfilter  # not a tracker
 ||disco-api.com^
 ||discord.com^$badfilter  # not a tracker
 ||disqus.com^$badfilter  # disqus platform

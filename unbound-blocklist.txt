@@ -17869,3 +17869,4 @@ local-zone: "rapidplay.me." always_null
 local-zone: "chat-insights.getstream.io." always_null
 local-zone: "sdk.arengu.com." always_null
 local-zone: "profile-counter.glitch.me." always_null
+local-zone: "pixel.app.returnpath.net." always_null

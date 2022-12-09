@@ -17866,3 +17866,4 @@ rapidplay.me CNAME .
 chat-insights.getstream.io CNAME .
 sdk.arengu.com CNAME .
 profile-counter.glitch.me CNAME .
+pixel.app.returnpath.net CNAME .

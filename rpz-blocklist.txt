@@ -17870,3 +17870,4 @@ pixel.app.returnpath.net CNAME .
 roundprincethere.com CNAME .
 direct-email.nl CNAME .
 getbee.io CNAME .
+open.mkt61.net CNAME .

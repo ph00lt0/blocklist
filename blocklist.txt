@@ -18513,3 +18513,4 @@ nuget.org###cookie-banner
 ||pixel.app.returnpath.net^
 ||roundprincethere.com^
 ||direct-email.nl^
+||getbee.io^

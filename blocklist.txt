@@ -18519,3 +18519,4 @@ nuget.org###cookie-banner
 ||stm.suitsupply.com^
 ||bairkj.com^
 ||kiss-sbb.com^
+||stats.computop.com^

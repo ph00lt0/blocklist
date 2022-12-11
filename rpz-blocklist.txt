@@ -17873,3 +17873,4 @@ getbee.io CNAME .
 open.mkt61.net CNAME .
 a.suitsupplycdn.com CNAME .
 stm.suitsupply.com CNAME .
+bairkj.com CNAME .

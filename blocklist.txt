@@ -18517,3 +18517,4 @@ nuget.org###cookie-banner
 ||open.mkt61.net^
 ||a.suitsupplycdn.com^
 ||stm.suitsupply.com^
+||bairkj.com^

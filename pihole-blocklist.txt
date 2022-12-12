@@ -17987,3 +17987,4 @@
 0.0.0.0 prf.hn
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 strack.shaw.ca
+0.0.0.0 shaw.demdex.net

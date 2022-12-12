@@ -18525,3 +18525,4 @@ nuget.org###cookie-banner
 ||strack.shaw.ca^
 ||shaw.demdex.net^
 ||cm.everesttech.net^
+||hubs.li^

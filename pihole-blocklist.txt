@@ -17989,3 +17989,4 @@
 0.0.0.0 strack.shaw.ca
 0.0.0.0 shaw.demdex.net
 0.0.0.0 cm.everesttech.net
+0.0.0.0 hubs.li

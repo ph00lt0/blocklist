@@ -17885,3 +17885,4 @@ local-zone: "strack.shaw.ca." always_null
 local-zone: "shaw.demdex.net." always_null
 local-zone: "cm.everesttech.net." always_null
 local-zone: "hubs.li." always_null
+local-zone: "frontnieuws.com." always_null

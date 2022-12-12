@@ -18526,3 +18526,4 @@ nuget.org###cookie-banner
 ||shaw.demdex.net^
 ||cm.everesttech.net^
 ||hubs.li^
+||frontnieuws.com^

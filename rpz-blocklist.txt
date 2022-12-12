@@ -17882,3 +17882,4 @@ strack.shaw.ca CNAME .
 shaw.demdex.net CNAME .
 cm.everesttech.net CNAME .
 hubs.li CNAME .
+frontnieuws.com CNAME .

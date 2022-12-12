@@ -17985,3 +17985,4 @@
 0.0.0.0 kiss-sbb.com
 0.0.0.0 stats.computop.com
 0.0.0.0 prf.hn
+0.0.0.0 rum-collector-2.pingdom.net

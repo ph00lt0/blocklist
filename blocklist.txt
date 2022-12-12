@@ -18521,3 +18521,4 @@ nuget.org###cookie-banner
 ||kiss-sbb.com^
 ||stats.computop.com^
 ||prf.hn^
+||rum-collector-2.pingdom.net^

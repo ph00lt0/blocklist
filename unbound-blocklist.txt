@@ -17880,3 +17880,4 @@ local-zone: "bairkj.com." always_null
 local-zone: "kiss-sbb.com." always_null
 local-zone: "stats.computop.com." always_null
 local-zone: "prf.hn." always_null
+local-zone: "rum-collector-2.pingdom.net." always_null

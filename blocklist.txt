@@ -18524,3 +18524,4 @@ nuget.org###cookie-banner
 ||rum-collector-2.pingdom.net^
 ||strack.shaw.ca^
 ||shaw.demdex.net^
+||cm.everesttech.net^

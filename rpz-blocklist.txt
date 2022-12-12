@@ -17878,3 +17878,4 @@ kiss-sbb.com CNAME .
 stats.computop.com CNAME .
 prf.hn CNAME .
 rum-collector-2.pingdom.net CNAME .
+strack.shaw.ca CNAME .

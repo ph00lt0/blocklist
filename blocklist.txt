@@ -18522,3 +18522,4 @@ nuget.org###cookie-banner
 ||stats.computop.com^
 ||prf.hn^
 ||rum-collector-2.pingdom.net^
+||strack.shaw.ca^

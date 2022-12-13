@@ -18528,4 +18528,3 @@ nuget.org###cookie-banner
 ||hubs.li^
 ||frontnieuws.com^
 ||lagravelle.com^
-||detaksumatatera.com^

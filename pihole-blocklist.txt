@@ -17992,3 +17992,4 @@
 0.0.0.0 hubs.li
 0.0.0.0 frontnieuws.com
 0.0.0.0 lagravelle.com
+0.0.0.0 detaksumatatera.com

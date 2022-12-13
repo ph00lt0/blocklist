@@ -4285,7 +4285,7 @@ local-zone: "webyze.com." always_null
 local-zone: "s-pc.webyze.com." always_null
 local-zone: "theraptormedia.com." always_null
 local-zone: "d1buj3lvc9ukyl.cloudfront.net." always_null
-local-zone: "cdn.sanity.io." always_null
+# allow cdn.sanity.io reason: used to serve images
 local-zone: "sanity.io." always_null
 local-zone: "o100763.ingest.sentry.io." always_null
 local-zone: "traffic.ctemplar.net." always_null

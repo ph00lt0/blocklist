@@ -4359,7 +4359,7 @@
 0.0.0.0 s-pc.webyze.com
 0.0.0.0 theraptormedia.com
 0.0.0.0 d1buj3lvc9ukyl.cloudfront.net
-0.0.0.0 cdn.sanity.io
+! allow cdn.sanity.io reason: used to serve images
 0.0.0.0 sanity.io
 0.0.0.0 o100763.ingest.sentry.io
 0.0.0.0 traffic.ctemplar.net

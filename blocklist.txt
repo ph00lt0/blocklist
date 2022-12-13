@@ -4366,7 +4366,7 @@
 ||s-pc.webyze.com^
 ||theraptormedia.com^
 ||d1buj3lvc9ukyl.cloudfront.net^
-||cdn.sanity.io^
+||cdn.sanity.io^$badfilter  # used to serve images
 ||sanity.io^
 ||o100763.ingest.sentry.io^
 ||traffic.ctemplar.net^

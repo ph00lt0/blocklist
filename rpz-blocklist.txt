@@ -4283,7 +4283,7 @@ webyze.com CNAME .
 s-pc.webyze.com CNAME .
 theraptormedia.com CNAME .
 d1buj3lvc9ukyl.cloudfront.net CNAME .
-cdn.sanity.io CNAME .
+; allow cdn.sanity.io reason: used to serve images
 sanity.io CNAME .
 o100763.ingest.sentry.io CNAME .
 traffic.ctemplar.net CNAME .

@@ -18530,3 +18530,4 @@ nuget.org###cookie-banner
 ||lagravelle.com^
 ||detaksumatera.com^
 ||confidentialityemail.com^
+||stats.macosicons.com^

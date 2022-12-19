@@ -17889,3 +17889,4 @@ local-zone: "frontnieuws.com." always_null
 local-zone: "lagravelle.com." always_null
 local-zone: "detaksumatera.com." always_null
 local-zone: "confidentialityemail.com." always_null
+local-zone: "stats.macosicons.com." always_null

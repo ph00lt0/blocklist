@@ -18538,4 +18538,5 @@ nuget.org###cookie-banner
 ||statica.akamai.odsp.cdn.office.net^
 ^activitymonitor.js^
 ||yammer.com/api/v1/yamalytics^
-||eur.loki.delve.office.com/stikontakt.ws^
+||eur.loki.delve.office.com/stikkontakt.ws^
+||loki.delve.office.com/stikkontakt.ws^

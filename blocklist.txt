@@ -18531,3 +18531,4 @@ nuget.org###cookie-banner
 ||detaksumatera.com^
 ||confidentialityemail.com^
 ||stats.macosicons.com^
+||yammer.com/api/*/events^

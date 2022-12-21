@@ -17888,3 +17888,4 @@ detaksumatera.com CNAME .
 confidentialityemail.com CNAME .
 stats.macosicons.com CNAME .
 rt.yammer.com CNAME .
+statica.akamai.odsp.cdn.office.net CNAME .

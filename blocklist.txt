@@ -18535,3 +18535,4 @@ nuget.org###cookie-banner
 ||yammer.com/api/*/yamaltyics/*^
 ||rt.yammer.com^
 ^officebrowserfeedbackstrings.js^
+||statica.akamai.odsp.cdn.office.net^

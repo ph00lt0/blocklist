@@ -18537,3 +18537,4 @@ nuget.org###cookie-banner
 ^officebrowserfeedbackstrings.js^
 ||statica.akamai.odsp.cdn.office.net^
 ^activitymonitor.js^
+||yammer.com/api/v1/yamalytics^

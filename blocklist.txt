@@ -18533,3 +18533,4 @@ nuget.org###cookie-banner
 ||stats.macosicons.com^
 ||yammer.com/api/*/events^
 ||yammer.com/api/*/yamaltyics/*^
+||rt.yammer.com^

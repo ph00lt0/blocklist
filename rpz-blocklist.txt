@@ -17887,3 +17887,4 @@ lagravelle.com CNAME .
 detaksumatera.com CNAME .
 confidentialityemail.com CNAME .
 stats.macosicons.com CNAME .
+rt.yammer.com CNAME .

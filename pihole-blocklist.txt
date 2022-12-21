@@ -17995,3 +17995,4 @@
 0.0.0.0 detaksumatera.com
 0.0.0.0 confidentialityemail.com
 0.0.0.0 stats.macosicons.com
+0.0.0.0 rt.yammer.com

@@ -18534,3 +18534,4 @@ nuget.org###cookie-banner
 ||yammer.com/api/*/events^
 ||yammer.com/api/*/yamaltyics/*^
 ||rt.yammer.com^
+^officebrowserfeedbackstrings.js^

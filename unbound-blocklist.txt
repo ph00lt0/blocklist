@@ -17892,3 +17892,4 @@ local-zone: "confidentialityemail.com." always_null
 local-zone: "stats.macosicons.com." always_null
 local-zone: "rt.yammer.com." always_null
 local-zone: "statica.akamai.odsp.cdn.office.net." always_null
+local-zone: "link.kraken.com." always_null

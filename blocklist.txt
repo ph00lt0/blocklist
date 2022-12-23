@@ -18552,3 +18552,4 @@ nuget.org###cookie-banner
 ||bioclear.nl^
 ||colorschemedesigner.com^
 ||yocverse.com^
+||myname.club^

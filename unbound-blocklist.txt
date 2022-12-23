@@ -17896,3 +17896,4 @@ local-zone: "link.kraken.com." always_null
 local-zone: "microanalytics.io." always_null
 local-zone: "r.mailjet.com." always_null
 local-zone: "theigsocial.com." always_null
+local-zone: "dafaerse.makeup." always_null

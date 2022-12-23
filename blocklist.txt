@@ -18544,3 +18544,4 @@ nuget.org###cookie-banner
 ||microanalytics.io^
 ||r.mailjet.com^
 ||theigsocial.com^
+||dafaerse.makeup^

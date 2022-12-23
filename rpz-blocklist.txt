@@ -17894,3 +17894,4 @@ microanalytics.io CNAME .
 r.mailjet.com CNAME .
 theigsocial.com CNAME .
 dafaerse.makeup CNAME .
+tfactorys.com CNAME .

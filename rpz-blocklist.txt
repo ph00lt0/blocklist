@@ -17892,3 +17892,4 @@ statica.akamai.odsp.cdn.office.net CNAME .
 link.kraken.com CNAME .
 microanalytics.io CNAME .
 r.mailjet.com CNAME .
+theigsocial.com CNAME .

@@ -18543,3 +18543,4 @@ nuget.org###cookie-banner
 ||link.kraken.com^
 ||microanalytics.io^
 ||r.mailjet.com^
+||theigsocial.com^

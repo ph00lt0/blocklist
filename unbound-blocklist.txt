@@ -17899,3 +17899,4 @@ local-zone: "theigsocial.com." always_null
 local-zone: "dafaerse.makeup." always_null
 local-zone: "tfactorys.com." always_null
 local-zone: "classicposters.com." always_null
+local-zone: "kitzsteinhorn.at." always_null

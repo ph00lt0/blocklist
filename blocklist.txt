@@ -18553,3 +18553,4 @@ nuget.org###cookie-banner
 ||colorschemedesigner.com^
 ||yocverse.com^
 ||myname.club^
+||dicverse.com^

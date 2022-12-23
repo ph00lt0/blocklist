@@ -17905,3 +17905,4 @@ local-zone: "bioclear.nl." always_null
 local-zone: "colorschemedesigner.com." always_null
 local-zone: "yocverse.com." always_null
 local-zone: "myname.club." always_null
+local-zone: "dicverse.com." always_null

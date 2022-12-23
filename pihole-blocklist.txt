@@ -18010,3 +18010,4 @@
 0.0.0.0 colorschemedesigner.com
 0.0.0.0 yocverse.com
 0.0.0.0 myname.club
+0.0.0.0 dicverse.com

@@ -18546,3 +18546,4 @@ nuget.org###cookie-banner
 ||theigsocial.com^
 ||dafaerse.makeup^
 ||tfactorys.com^
+||classicposters.com^

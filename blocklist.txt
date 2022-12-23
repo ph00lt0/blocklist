@@ -18551,3 +18551,4 @@ nuget.org###cookie-banner
 ||web4africa.net^
 ||bioclear.nl^
 ||colorschemedesigner.com^
+||yocverse.com^

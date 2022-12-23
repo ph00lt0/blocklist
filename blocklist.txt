@@ -18550,3 +18550,4 @@ nuget.org###cookie-banner
 ||kitzsteinhorn.at^
 ||web4africa.net^
 ||bioclear.nl^
+||colorschemedesigner.com^

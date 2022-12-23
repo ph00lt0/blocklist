@@ -18542,3 +18542,4 @@ nuget.org###cookie-banner
 ||loki.delve.office.com/stikkontakt.ws^
 ||link.kraken.com^
 ||microanalytics.io^
+||r.mailjet.com^

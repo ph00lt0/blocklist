@@ -17894,3 +17894,4 @@ local-zone: "rt.yammer.com." always_null
 local-zone: "statica.akamai.odsp.cdn.office.net." always_null
 local-zone: "link.kraken.com." always_null
 local-zone: "microanalytics.io." always_null
+local-zone: "r.mailjet.com." always_null

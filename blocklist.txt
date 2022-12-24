@@ -18557,3 +18557,4 @@ nuget.org###cookie-banner
 ||kiss-ssb.com^
 ||onetrust.io^
 ||crackload.net^
+||hellofresh.com/gw/otlp/traces^

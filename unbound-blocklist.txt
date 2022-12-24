@@ -17908,3 +17908,4 @@ local-zone: "myname.club." always_null
 local-zone: "dicverse.com." always_null
 local-zone: "kiss-ssb.com." always_null
 local-zone: "onetrust.io." always_null
+local-zone: "crackload.net." always_null

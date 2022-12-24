@@ -18556,3 +18556,4 @@ nuget.org###cookie-banner
 ||dicverse.com^
 ||kiss-ssb.com^
 ||onetrust.io^
+||crackload.net^

@@ -17905,3 +17905,4 @@ myname.club CNAME .
 dicverse.com CNAME .
 kiss-ssb.com CNAME .
 onetrust.io CNAME .
+crackload.net CNAME .

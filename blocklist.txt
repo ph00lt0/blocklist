@@ -18563,3 +18563,4 @@ nuget.org###cookie-banner
 ||scorecardreasearch.com^
 ||gnar.grammerly.com^
 ||bevr.nl^
+||f1prospects.com^

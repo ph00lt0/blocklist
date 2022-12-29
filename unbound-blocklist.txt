@@ -17914,3 +17914,4 @@ local-zone: "sb.scorecardreasearch.com." always_null
 local-zone: "scorecardreasearch.com." always_null
 local-zone: "gnar.grammerly.com." always_null
 local-zone: "bevr.nl." always_null
+local-zone: "f1prospects.com." always_null

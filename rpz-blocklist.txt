@@ -17910,3 +17910,4 @@ espaceducoeur.com CNAME .
 sb.scorecardreasearch.com CNAME .
 scorecardreasearch.com CNAME .
 gnar.grammerly.com CNAME .
+bevr.nl CNAME .

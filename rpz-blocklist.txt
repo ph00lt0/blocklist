@@ -17908,3 +17908,4 @@ onetrust.io CNAME .
 crackload.net CNAME .
 espaceducoeur.com CNAME .
 sb.scorecardreasearch.com CNAME .
+scorecardreasearch.com CNAME .

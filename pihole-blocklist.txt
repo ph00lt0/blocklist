@@ -18016,3 +18016,4 @@
 0.0.0.0 crackload.net
 0.0.0.0 espaceducoeur.com
 0.0.0.0 sb.scorecardreasearch.com
+0.0.0.0 scorecardreasearch.com

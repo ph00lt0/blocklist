@@ -18560,3 +18560,4 @@ nuget.org###cookie-banner
 ||hellofresh.com/gw/otlp/traces^
 ||espaceducoeur.com^
 ||sb.scorecardreasearch.com^
+||scorecardreasearch.com^

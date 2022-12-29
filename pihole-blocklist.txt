@@ -18020,3 +18020,4 @@
 0.0.0.0 gnar.grammerly.com
 0.0.0.0 bevr.nl
 0.0.0.0 f1prospects.com
+0.0.0.0 brightprom.com

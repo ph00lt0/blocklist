@@ -18564,3 +18564,4 @@ nuget.org###cookie-banner
 ||gnar.grammerly.com^
 ||bevr.nl^
 ||f1prospects.com^
+||brightprom.com^

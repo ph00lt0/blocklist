@@ -18558,3 +18558,4 @@ nuget.org###cookie-banner
 ||onetrust.io^
 ||crackload.net^
 ||hellofresh.com/gw/otlp/traces^
+||espaceducoeur.com^

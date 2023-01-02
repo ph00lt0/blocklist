@@ -18583,3 +18583,4 @@ nuget.org###cookie-banner
 ||nellie.booking.com^
 ||booking.com/js_tracking^
 ||booking.com/c360/*^
+||cf.bstatic.com/libs/perimeterx/*^

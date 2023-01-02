@@ -18576,3 +18576,4 @@ nuget.org###cookie-banner
 ||go.jabatsoftware.com^
 ||mail-contact-unsub.eu^
 ||clck.ru^
+||app.com^

@@ -17927,3 +17927,4 @@ local-zone: "jabatsoftware.com." always_null
 local-zone: "go.jabatsoftware.com." always_null
 local-zone: "mail-contact-unsub.eu." always_null
 local-zone: "clck.ru." always_null
+local-zone: "app.com." always_null

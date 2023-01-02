@@ -17921,3 +17921,4 @@ local-zone: "mediaprogroup.pl." always_null
 local-zone: "jerlpack.cn." always_null
 local-zone: "theokex.com." always_null
 local-zone: "eu.com." always_null
+local-zone: "wijkopenautos.nl." always_null

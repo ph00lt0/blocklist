@@ -18572,3 +18572,4 @@ nuget.org###cookie-banner
 ||eu.com^
 ||wijkopenautos.nl^
 ||fg.com^
+||jabatsoftware.com^

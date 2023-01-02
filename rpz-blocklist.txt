@@ -1853,8 +1853,8 @@ d1bs4b7zdgd8l3.cloudfront.net CNAME .
 cdn.raygun.io CNAME .
 reclamefolder.org CNAME .
 cdn.reclamefolder.org CNAME .
-aff.bstatic.com CNAME .
-bstatic.com CNAME .
+aff.; allow bstatic.com reason: Booking.com cdn
+; allow bstatic.com reason: Booking.com cdn
 insurads.com CNAME .
 cdn.insurads.com CNAME .
 snigelweb.com CNAME .
@@ -3979,7 +3979,7 @@ juicer.io CNAME .
 assets.juicer.io CNAME .
 app-sj16.marketo.com CNAME .
 iplocation.zoho.com CNAME .
-fonts.zohowebstatic.com CNAME .
+fonts.zohowe; allow bstatic.com reason: Booking.com cdn
 bizographics.com CNAME .
 bizographics.com CNAME .
 6967988f564f4347b438eea799712c33.js.ubembed.com CNAME .
@@ -4401,7 +4401,7 @@ useinsider.com CNAME .
 corendonairlines.api.useinsider.com CNAME .
 ct.pinterest.com CNAME .
 5308433.fls.doubleclick.net CNAME .
-q-xx.bstatic.com CNAME .
+q-xx.; allow bstatic.com reason: Booking.com cdn
 collector-pxikkul2rm.px-cdn.net CNAME .
 collector-pxikkul2rm.px-cloud.net CNAME .
 collector-pxikkul2rm.pxchk.net CNAME .
@@ -13916,7 +13916,7 @@ bluecore.com CNAME .
 
 bluemix.net CNAME .
 blueplanetcertificate.com CNAME .
-bnbstatic.com CNAME .
+bn; allow bstatic.com reason: Booking.com cdn
 bncloudfl.com CNAME .
 bngdyn.com CNAME .
 bngpt.com CNAME .

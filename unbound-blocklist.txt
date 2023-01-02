@@ -1856,7 +1856,7 @@ local-zone: "cdn.raygun.io." always_null
 local-zone: "reclamefolder.org." always_null
 local-zone: "cdn.reclamefolder.org." always_null
 local-zone: "aff.bstatic.com." always_null
-local-zone: "bstatic.com." always_null
+# allow bstatic.com reason: Booking.com cdn
 local-zone: "insurads.com." always_null
 local-zone: "cdn.insurads.com." always_null
 local-zone: "snigelweb.com." always_null

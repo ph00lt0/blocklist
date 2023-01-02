@@ -1900,7 +1900,7 @@
 ||reclamefolder.org^
 ||cdn.reclamefolder.org^
 ||aff.bstatic.com^
-||bstatic.com^
+||bstatic.com^$badfilter  # Booking.com cdn
 ||insurads.com^
 ||cdn.insurads.com^
 ||snigelweb.com^

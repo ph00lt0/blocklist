@@ -4490,7 +4490,7 @@
 ||ct.pinterest.com^
 ||5308433.fls.doubleclick.net^
 ||cf.bstatic.com^$badfilter  # Content
-||q-xx.bstatic.com^
+||q-xx.bstatic.com^$badfilter  # Image cdn
 ||collector-pxikkul2rm.px-cdn.net^
 ||collector-pxikkul2rm.px-cloud.net^
 ||collector-pxikkul2rm.pxchk.net^

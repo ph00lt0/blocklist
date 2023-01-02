@@ -4403,7 +4403,7 @@ local-zone: "useinsider.com." always_null
 local-zone: "corendonairlines.api.useinsider.com." always_null
 local-zone: "ct.pinterest.com." always_null
 local-zone: "5308433.fls.doubleclick.net." always_null
-local-zone: "q-xx.bstatic.com." always_null
+# allow q-xx.bstatic.com reason: Image cdn
 local-zone: "collector-pxikkul2rm.px-cdn.net." always_null
 local-zone: "collector-pxikkul2rm.px-cloud.net." always_null
 local-zone: "collector-pxikkul2rm.pxchk.net." always_null

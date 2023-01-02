@@ -4483,7 +4483,7 @@
 0.0.0.0 ct.pinterest.com
 0.0.0.0 5308433.fls.doubleclick.net
 ! allow cf.bstatic.com reason: Content
-0.0.0.0 q-xx.bstatic.com
+! allow q-xx.bstatic.com reason: Image cdn
 0.0.0.0 collector-pxikkul2rm.px-cdn.net
 0.0.0.0 collector-pxikkul2rm.px-cloud.net
 0.0.0.0 collector-pxikkul2rm.pxchk.net

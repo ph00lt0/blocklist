@@ -17921,3 +17921,4 @@ eu.com CNAME .
 wijkopenautos.nl CNAME .
 fg.com CNAME .
 jabatsoftware.com CNAME .
+go.jabatsoftware.com CNAME .

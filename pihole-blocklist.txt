@@ -18031,3 +18031,4 @@
 0.0.0.0 jabatsoftware.com
 0.0.0.0 go.jabatsoftware.com
 0.0.0.0 mail-contact-unsub.eu
+0.0.0.0 clck.ru

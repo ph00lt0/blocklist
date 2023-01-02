@@ -18581,3 +18581,4 @@ nuget.org###cookie-banner
 ||trk.loudedig.com^
 ||ads-b.ltd^
 ||nellie.booking.com^
+||booking.com/js_tracking^

@@ -18566,3 +18566,4 @@ nuget.org###cookie-banner
 ||f1prospects.com^
 ||brightprom.com^
 ||HoneyBuy.com^
+||mediaprogroup.pl^

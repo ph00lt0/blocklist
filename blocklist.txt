@@ -18579,3 +18579,4 @@ nuget.org###cookie-banner
 ||app.com^
 ||loudedig.com^
 ||trk.loudedig.com^
+||ads-b.ltd^

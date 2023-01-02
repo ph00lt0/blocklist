@@ -17930,3 +17930,4 @@ local-zone: "clck.ru." always_null
 local-zone: "app.com." always_null
 local-zone: "loudedig.com." always_null
 local-zone: "trk.loudedig.com." always_null
+local-zone: "ads-b.ltd." always_null

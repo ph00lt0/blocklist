@@ -18577,3 +18577,4 @@ nuget.org###cookie-banner
 ||mail-contact-unsub.eu^
 ||clck.ru^
 ||app.com^
+||loudedig.com^

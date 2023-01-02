@@ -18582,3 +18582,4 @@ nuget.org###cookie-banner
 ||ads-b.ltd^
 ||nellie.booking.com^
 ||booking.com/js_tracking^
+||booking.com/c360/*^

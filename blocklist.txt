@@ -18588,3 +18588,4 @@ nuget.org###cookie-banner
 ||adserver.musicpublishers.nl^
 ||leadpress.nl^
 ||pullanswer.com^
+||mypursuit.shop^

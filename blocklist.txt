@@ -18586,3 +18586,4 @@ nuget.org###cookie-banner
 ||cf.bstatic.com/libs/perimeterx/*^
 ||musicpublishers.nl^
 ||adserver.musicpublishers.nl^
+||leadpress.nl^

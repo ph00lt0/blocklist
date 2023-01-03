@@ -18584,3 +18584,4 @@ nuget.org###cookie-banner
 ||booking.com/js_tracking^
 ||booking.com/c360/*^
 ||cf.bstatic.com/libs/perimeterx/*^
+||musicpublishers.nl^

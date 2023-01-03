@@ -18585,3 +18585,4 @@ nuget.org###cookie-banner
 ||booking.com/c360/*^
 ||cf.bstatic.com/libs/perimeterx/*^
 ||musicpublishers.nl^
+||adserver.musicpublishers.nl^

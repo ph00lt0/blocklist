@@ -18598,3 +18598,4 @@ nuget.org###cookie-banner
 ||pegasusintelligence.com^
 ||keytechnologies.ae^
 ||iotshow.in^
+||redinent.com^

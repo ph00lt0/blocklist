@@ -17946,3 +17946,4 @@ local-zone: "area.it." always_null
 local-zone: "pegasusintelligence.com." always_null
 local-zone: "keytechnologies.ae." always_null
 local-zone: "iotshow.in." always_null
+local-zone: "redinent.com." always_null

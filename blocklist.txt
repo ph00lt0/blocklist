@@ -18589,3 +18589,4 @@ nuget.org###cookie-banner
 ||leadpress.nl^
 ||pullanswer.com^
 ||mypursuit.shop^
+||webbolt.biz^

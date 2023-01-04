@@ -17937,3 +17937,4 @@ local-zone: "adserver.musicpublishers.nl." always_null
 local-zone: "leadpress.nl." always_null
 local-zone: "pullanswer.com." always_null
 local-zone: "mypursuit.shop." always_null
+local-zone: "webbolt.biz." always_null

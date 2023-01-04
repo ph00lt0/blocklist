@@ -18608,3 +18608,4 @@ nuget.org###cookie-banner
 ||kinetic6iot.com^
 ||kinetic6tracks.com^
 ||kinetic6.com.au^
+||jtol.co.uk^

@@ -17944,3 +17944,4 @@ local-zone: "culytics.com." always_null
 local-zone: "intellicagroup.com." always_null
 local-zone: "area.it." always_null
 local-zone: "pegasusintelligence.com." always_null
+local-zone: "keytechnologies.ae." always_null

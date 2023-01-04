@@ -18596,3 +18596,4 @@ nuget.org###cookie-banner
 ||intellicagroup.com^
 ||area.it^
 ||pegasusintelligence.com^
+||keytechnologies.ae^

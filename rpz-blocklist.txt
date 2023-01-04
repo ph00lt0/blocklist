@@ -17958,3 +17958,4 @@ forensicsguru.com CNAME .
 sytech-consultants.com CNAME .
 adsinc.com CNAME .
 ttelectronics.com CNAME .
+intellexa.com CNAME .

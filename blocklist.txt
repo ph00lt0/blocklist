@@ -18613,3 +18613,4 @@ nuget.org###cookie-banner
 ||sytech-consultants.com^
 ||adsinc.com^
 ||ttelectronics.com^
+||intellexa.com^

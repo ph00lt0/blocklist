@@ -18615,3 +18615,4 @@ nuget.org###cookie-banner
 ||ttelectronics.com^
 ||intellexa.com^
 ||nebula.org^
+||yieldbird.com^

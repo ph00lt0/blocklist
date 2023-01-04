@@ -18601,3 +18601,4 @@ nuget.org###cookie-banner
 ||redinent.com^
 ||sunartek.com^
 ||ips-intelligence.com^
+||mollitiamindustries.com^

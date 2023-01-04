@@ -17946,3 +17946,4 @@ iotshow.in CNAME .
 redinent.com CNAME .
 sunartek.com CNAME .
 ips-intelligence.com CNAME .
+mollitiamindustries.com CNAME .

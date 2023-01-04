@@ -17949,3 +17949,4 @@ local-zone: "iotshow.in." always_null
 local-zone: "redinent.com." always_null
 local-zone: "sunartek.com." always_null
 local-zone: "ips-intelligence.com." always_null
+local-zone: "mollitiamindustries.com." always_null

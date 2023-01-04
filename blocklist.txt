@@ -18595,3 +18595,4 @@ nuget.org###cookie-banner
 ||culytics.com^
 ||intellicagroup.com^
 ||area.it^
+||pegasusintelligence.com^

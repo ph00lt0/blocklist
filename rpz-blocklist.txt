@@ -17940,3 +17940,4 @@ api.ning.com CNAME .
 culytics.com CNAME .
 intellicagroup.com CNAME .
 area.it CNAME .
+pegasusintelligence.com CNAME .

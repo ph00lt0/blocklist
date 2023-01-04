@@ -17949,3 +17949,4 @@ ips-intelligence.com CNAME .
 mollitiamindustries.com CNAME .
 cy4gate.com CNAME .
 kinetic6.com CNAME .
+kinetic6.co.ke CNAME .

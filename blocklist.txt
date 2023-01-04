@@ -18604,3 +18604,4 @@ nuget.org###cookie-banner
 ||mollitiamindustries.com^
 ||cy4gate.com^
 ||kinetic6.com^
+||kinetic6.co.ke^

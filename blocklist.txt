@@ -18617,3 +18617,4 @@ nuget.org###cookie-banner
 ||nebula.org^
 ||yieldbird.com^
 ||tjekditnet.dk^
+||sparenergi.dk^

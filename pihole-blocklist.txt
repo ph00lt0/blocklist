@@ -18070,3 +18070,4 @@
 0.0.0.0 nebula.org
 0.0.0.0 yieldbird.com
 0.0.0.0 tjekditnet.dk
+0.0.0.0 sparenergi.dk

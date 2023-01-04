@@ -17951,3 +17951,4 @@ local-zone: "sunartek.com." always_null
 local-zone: "ips-intelligence.com." always_null
 local-zone: "mollitiamindustries.com." always_null
 local-zone: "cy4gate.com." always_null
+local-zone: "kinetic6.com." always_null

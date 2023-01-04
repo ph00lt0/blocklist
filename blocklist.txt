@@ -18603,3 +18603,4 @@ nuget.org###cookie-banner
 ||ips-intelligence.com^
 ||mollitiamindustries.com^
 ||cy4gate.com^
+||kinetic6.com^

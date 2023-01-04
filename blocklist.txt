@@ -18590,3 +18590,4 @@ nuget.org###cookie-banner
 ||pullanswer.com^
 ||mypursuit.shop^
 ||webbolt.biz^
+||danishlaw.biz^

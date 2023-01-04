@@ -17959,3 +17959,4 @@ local-zone: "kinetic6.com.au." always_null
 local-zone: "jtol.co.uk." always_null
 local-zone: "forensicsguru.com." always_null
 local-zone: "sytech-consultants.com." always_null
+local-zone: "adsinc.com." always_null

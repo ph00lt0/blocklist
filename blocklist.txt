@@ -18593,3 +18593,4 @@ nuget.org###cookie-banner
 ||danishlaw.biz^
 ||api.ning.com^
 ||culytics.com^
+||intellicagroup.com^

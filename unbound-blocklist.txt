@@ -17941,3 +17941,4 @@ local-zone: "webbolt.biz." always_null
 local-zone: "danishlaw.biz." always_null
 local-zone: "api.ning.com." always_null
 local-zone: "culytics.com." always_null
+local-zone: "intellicagroup.com." always_null

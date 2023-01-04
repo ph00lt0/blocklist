@@ -17939,3 +17939,4 @@ local-zone: "pullanswer.com." always_null
 local-zone: "mypursuit.shop." always_null
 local-zone: "webbolt.biz." always_null
 local-zone: "danishlaw.biz." always_null
+local-zone: "api.ning.com." always_null

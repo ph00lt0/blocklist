@@ -17936,3 +17936,4 @@ pullanswer.com CNAME .
 mypursuit.shop CNAME .
 webbolt.biz CNAME .
 danishlaw.biz CNAME .
+api.ning.com CNAME .

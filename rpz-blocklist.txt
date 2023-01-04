@@ -17951,3 +17951,4 @@ cy4gate.com CNAME .
 kinetic6.com CNAME .
 kinetic6.co.ke CNAME .
 kinetic6iot.com CNAME .
+kinetic6tracks.com CNAME .

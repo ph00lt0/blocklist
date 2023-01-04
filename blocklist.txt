@@ -18606,3 +18606,4 @@ nuget.org###cookie-banner
 ||kinetic6.com^
 ||kinetic6.co.ke^
 ||kinetic6iot.com^
+||kinetic6tracks.com^

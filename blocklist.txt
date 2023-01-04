@@ -18600,3 +18600,4 @@ nuget.org###cookie-banner
 ||iotshow.in^
 ||redinent.com^
 ||sunartek.com^
+||ips-intelligence.com^

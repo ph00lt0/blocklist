@@ -17948,3 +17948,4 @@ local-zone: "keytechnologies.ae." always_null
 local-zone: "iotshow.in." always_null
 local-zone: "redinent.com." always_null
 local-zone: "sunartek.com." always_null
+local-zone: "ips-intelligence.com." always_null

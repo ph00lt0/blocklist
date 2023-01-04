@@ -17945,3 +17945,4 @@ keytechnologies.ae CNAME .
 iotshow.in CNAME .
 redinent.com CNAME .
 sunartek.com CNAME .
+ips-intelligence.com CNAME .

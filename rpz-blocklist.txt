@@ -17954,3 +17954,4 @@ kinetic6iot.com CNAME .
 kinetic6tracks.com CNAME .
 kinetic6.com.au CNAME .
 jtol.co.uk CNAME .
+forensicsguru.com CNAME .

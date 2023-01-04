@@ -17964,3 +17964,4 @@ local-zone: "ttelectronics.com." always_null
 local-zone: "intellexa.com." always_null
 local-zone: "nebula.org." always_null
 local-zone: "yieldbird.com." always_null
+local-zone: "tjekditnet.dk." always_null

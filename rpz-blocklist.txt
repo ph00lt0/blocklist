@@ -17961,3 +17961,4 @@ ttelectronics.com CNAME .
 intellexa.com CNAME .
 nebula.org CNAME .
 yieldbird.com CNAME .
+tjekditnet.dk CNAME .

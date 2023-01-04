@@ -18058,3 +18058,4 @@
 0.0.0.0 cy4gate.com
 0.0.0.0 kinetic6.com
 0.0.0.0 kinetic6.co.ke
+0.0.0.0 kinetic6iot.com

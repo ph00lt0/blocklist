@@ -18594,3 +18594,4 @@ nuget.org###cookie-banner
 ||api.ning.com^
 ||culytics.com^
 ||intellicagroup.com^
+||area.it^

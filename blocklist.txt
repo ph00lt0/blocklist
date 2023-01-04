@@ -18602,3 +18602,4 @@ nuget.org###cookie-banner
 ||sunartek.com^
 ||ips-intelligence.com^
 ||mollitiamindustries.com^
+||cy4gate.com^

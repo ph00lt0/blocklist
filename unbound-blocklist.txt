@@ -17955,3 +17955,4 @@ local-zone: "kinetic6.com." always_null
 local-zone: "kinetic6.co.ke." always_null
 local-zone: "kinetic6iot.com." always_null
 local-zone: "kinetic6tracks.com." always_null
+local-zone: "kinetic6.com.au." always_null

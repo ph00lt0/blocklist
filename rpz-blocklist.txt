@@ -17963,3 +17963,4 @@ nebula.org CNAME .
 yieldbird.com CNAME .
 tjekditnet.dk CNAME .
 sparenergi.dk CNAME .
+jezuskomtspoedig.nl CNAME .

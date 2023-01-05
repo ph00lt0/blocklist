@@ -18619,3 +18619,4 @@ nuget.org###cookie-banner
 ||tjekditnet.dk^
 ||sparenergi.dk^
 ||jezuskomtspoedig.nl^
+||jezuskomtspoedig.com^

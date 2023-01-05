@@ -17965,3 +17965,4 @@ tjekditnet.dk CNAME .
 sparenergi.dk CNAME .
 jezuskomtspoedig.nl CNAME .
 jezuskomtspoedig.com CNAME .
+jezuskomtspoedig.blogspot.com CNAME .

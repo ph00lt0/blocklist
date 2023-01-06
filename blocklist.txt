@@ -18627,3 +18627,4 @@ nuget.org###cookie-banner
 ||collector.raisin.com^
 ||apm.bigbank.eu^
 ||channel.io^
+||sygic.com^

@@ -18078,3 +18078,4 @@
 0.0.0.0 financeads.net
 0.0.0.0 homefinance.nl
 0.0.0.0 collector.raisin.com
+0.0.0.0 apm.bigbank.eu

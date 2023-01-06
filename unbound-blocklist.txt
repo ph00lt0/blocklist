@@ -17974,3 +17974,4 @@ local-zone: "financeads.net." always_null
 local-zone: "homefinance.nl." always_null
 local-zone: "collector.raisin.com." always_null
 local-zone: "apm.bigbank.eu." always_null
+local-zone: "channel.io." always_null

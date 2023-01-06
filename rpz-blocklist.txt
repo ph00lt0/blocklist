@@ -17971,3 +17971,4 @@ financeads.net CNAME .
 homefinance.nl CNAME .
 collector.raisin.com CNAME .
 apm.bigbank.eu CNAME .
+channel.io CNAME .

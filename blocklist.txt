@@ -18626,3 +18626,4 @@ nuget.org###cookie-banner
 ||homefinance.nl^
 ||collector.raisin.com^
 ||apm.bigbank.eu^
+||channel.io^

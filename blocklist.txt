@@ -18645,3 +18645,4 @@ nuget.org###cookie-banner
 ||mail.ru^$third-party
 ||bitrix.info^
 ||cloud.roistat.com^
+||api.yclients.com^

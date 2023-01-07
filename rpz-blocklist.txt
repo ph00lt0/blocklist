@@ -18008,3 +18008,4 @@ headsway.org CNAME .
 affplus.com CNAME .
 coordinape.com CNAME .
 vodafonespring.it CNAME .
+strongmind.it CNAME .

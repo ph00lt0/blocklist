@@ -18665,3 +18665,4 @@ nuget.org###cookie-banner
 ||affplus.com^
 ||coordinape.com^
 ||vodafonespring.it^
+||strongmind.it^

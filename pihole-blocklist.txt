@@ -18139,3 +18139,4 @@
 0.0.0.0 hooklogic.com
 0.0.0.0 federatedmedia.net
 0.0.0.0 blogher.com
+0.0.0.0 speedshiftmedia.com

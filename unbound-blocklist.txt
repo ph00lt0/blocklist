@@ -18034,3 +18034,4 @@ local-zone: "adkontekst.pl." always_null
 local-zone: "hooklogic.com." always_null
 local-zone: "federatedmedia.net." always_null
 local-zone: "blogher.com." always_null
+local-zone: "speedshiftmedia.com." always_null

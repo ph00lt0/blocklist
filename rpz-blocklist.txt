@@ -18035,3 +18035,4 @@ speedshiftmedia.com CNAME .
 traffichaus.com CNAME .
 aidata.me CNAME .
 140proof.com CNAME .
+yieldbuild.com CNAME .

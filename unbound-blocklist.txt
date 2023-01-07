@@ -17985,3 +17985,4 @@ local-zone: "get.optad360.io." always_null
 local-zone: "cmp-static.springer.com." always_null
 local-zone: "advego.com." always_null
 local-zone: "callbackhunter.us." always_null
+local-zone: "callbackhunter.com." always_null

@@ -18142,3 +18142,4 @@
 0.0.0.0 speedshiftmedia.com
 0.0.0.0 traffichaus.com
 0.0.0.0 aidata.me
+0.0.0.0 140proof.com

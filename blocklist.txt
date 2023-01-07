@@ -18691,3 +18691,4 @@ nuget.org###cookie-banner
 ||speedshiftmedia.com^
 ||traffichaus.com^
 ||aidata.me^
+||140proof.com^

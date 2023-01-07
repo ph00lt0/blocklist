@@ -18037,3 +18037,4 @@ local-zone: "blogher.com." always_null
 local-zone: "speedshiftmedia.com." always_null
 local-zone: "traffichaus.com." always_null
 local-zone: "aidata.me." always_null
+local-zone: "140proof.com." always_null

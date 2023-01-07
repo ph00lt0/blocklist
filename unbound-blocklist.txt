@@ -18015,3 +18015,4 @@ local-zone: "strongmind.it." always_null
 local-zone: "reviveservers.com." always_null
 local-zone: "revive-adserver.com." always_null
 local-zone: "openxadserver.nl." always_null
+local-zone: "opten.eu." always_null

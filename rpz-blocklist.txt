@@ -18012,3 +18012,4 @@ strongmind.it CNAME .
 reviveservers.com CNAME .
 revive-adserver.com CNAME .
 openxadserver.nl CNAME .
+opten.eu CNAME .

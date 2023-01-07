@@ -18120,3 +18120,4 @@
 0.0.0.0 reviveservers.com
 0.0.0.0 revive-adserver.com
 0.0.0.0 openxadserver.nl
+0.0.0.0 opten.eu

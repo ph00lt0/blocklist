@@ -17976,3 +17976,4 @@ local-zone: "collector.raisin.com." always_null
 local-zone: "apm.bigbank.eu." always_null
 local-zone: "channel.io." always_null
 local-zone: "sygic.com." always_null
+local-zone: "stats.thuisarts.nl." always_null

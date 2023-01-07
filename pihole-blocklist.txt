@@ -18081,3 +18081,4 @@
 0.0.0.0 apm.bigbank.eu
 0.0.0.0 channel.io
 0.0.0.0 sygic.com
+0.0.0.0 stats.thuisarts.nl

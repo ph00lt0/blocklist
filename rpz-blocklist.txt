@@ -17973,3 +17973,4 @@ collector.raisin.com CNAME .
 apm.bigbank.eu CNAME .
 channel.io CNAME .
 sygic.com CNAME .
+stats.thuisarts.nl CNAME .

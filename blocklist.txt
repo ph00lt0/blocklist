@@ -18652,3 +18652,4 @@ nuget.org###cookie-banner
 ||teal.openbank.nl^
 ||neoviafinancial.tt.omtrdc.net^
 ||jbhivi.store^
+||rewardsgiant-au.com^

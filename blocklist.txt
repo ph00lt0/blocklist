@@ -18696,3 +18696,4 @@ nuget.org###cookie-banner
 ||metrigo.com^
 ||realvu.net^
 ||rhythmone.com^
+||spotexchange.com^

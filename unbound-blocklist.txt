@@ -18031,3 +18031,4 @@ local-zone: "bizo.com." always_null
 local-zone: "adbrite.com." always_null
 local-zone: "adnow.com." always_null
 local-zone: "adkontekst.pl." always_null
+local-zone: "hooklogic.com." always_null

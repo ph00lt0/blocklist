@@ -18685,3 +18685,4 @@ nuget.org###cookie-banner
 ||adbrite.com^
 ||adnow.com^
 ||adkontekst.pl^
+||hooklogic.com^

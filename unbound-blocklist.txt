@@ -18003,3 +18003,4 @@ local-zone: "clicken.us." always_null
 local-zone: "ratrck.com." always_null
 local-zone: "trustedform.com." always_null
 local-zone: "lidstatic.com." always_null
+local-zone: "rewardsgiantau.com." always_null

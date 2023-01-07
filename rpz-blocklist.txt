@@ -18000,3 +18000,4 @@ clicken.us CNAME .
 ratrck.com CNAME .
 trustedform.com CNAME .
 lidstatic.com CNAME .
+rewardsgiantau.com CNAME .

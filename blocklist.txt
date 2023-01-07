@@ -18657,3 +18657,4 @@ nuget.org###cookie-banner
 ||ratrck.com^
 ||trustedform.com^
 ||lidstatic.com^
+||rewardsgiantau.com^

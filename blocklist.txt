@@ -18659,3 +18659,4 @@ nuget.org###cookie-banner
 ||lidstatic.com^
 ||rewardsgiantau.com^
 ||newyork-company.com^
+||flashrewardspin.com^

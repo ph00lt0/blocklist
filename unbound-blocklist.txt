@@ -18005,3 +18005,4 @@ local-zone: "trustedform.com." always_null
 local-zone: "lidstatic.com." always_null
 local-zone: "rewardsgiantau.com." always_null
 local-zone: "newyork-company.com." always_null
+local-zone: "flashrewardspin.com." always_null

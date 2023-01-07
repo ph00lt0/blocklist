@@ -18643,3 +18643,4 @@ nuget.org###cookie-banner
 ||qmrktng.com^
 ||vk.com^$third-party
 ||mail.ru^$third-party
+||bitrix.info^

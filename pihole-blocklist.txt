@@ -18093,3 +18093,4 @@
 0.0.0.0 callbackhunter.com
 0.0.0.0 calltouch.net
 0.0.0.0 qacademy.ru
+0.0.0.0 qmrktng.com

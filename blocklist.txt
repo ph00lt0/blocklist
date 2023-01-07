@@ -18640,3 +18640,4 @@ nuget.org###cookie-banner
 ||callbackhunter.com^
 ||calltouch.net^
 ||qacademy.ru^
+||qmrktng.com^

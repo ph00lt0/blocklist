@@ -18690,3 +18690,4 @@ nuget.org###cookie-banner
 ||blogher.com^
 ||speedshiftmedia.com^
 ||traffichaus.com^
+||aidata.me^

@@ -18682,3 +18682,4 @@ nuget.org###cookie-banner
 ||partner-ads.com^
 ||media6degrees.com^
 ||bizo.com^
+||adbrite.com^

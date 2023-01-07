@@ -18646,3 +18646,4 @@ nuget.org###cookie-banner
 ||bitrix.info^
 ||cloud.roistat.com^
 ||api.yclients.com^
+||api.alteg.io^

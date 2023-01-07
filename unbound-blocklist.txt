@@ -17992,3 +17992,4 @@ local-zone: "qmrktng.com." always_null
 local-zone: "bitrix.info." always_null
 local-zone: "cloud.roistat.com." always_null
 local-zone: "api.yclients.com." always_null
+local-zone: "api.alteg.io." always_null

@@ -18041,3 +18041,4 @@ realvu.net CNAME .
 rhythmone.com CNAME .
 spotexchange.com CNAME .
 emxdgt.com CNAME .
+tremorvideo.com CNAME .

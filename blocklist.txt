@@ -18698,3 +18698,4 @@ nuget.org###cookie-banner
 ||rhythmone.com^
 ||spotexchange.com^
 ||emxdgt.com^
+||tremorvideo.com^

@@ -17997,3 +17997,4 @@ local-zone: "skrill.com." always_null
 local-zone: "cdn1.skrill.com." always_null
 local-zone: "teal.openbank.nl." always_null
 local-zone: "neoviafinancial.tt.omtrdc.net." always_null
+local-zone: "jbhivi.store." always_null

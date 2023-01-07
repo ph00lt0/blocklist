@@ -17976,3 +17976,4 @@ sygic.com CNAME .
 stats.thuisarts.nl CNAME .
 astro-selections.com CNAME .
 edu-academia.com CNAME .
+toplist.cz CNAME .

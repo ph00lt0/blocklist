@@ -18644,3 +18644,4 @@ nuget.org###cookie-banner
 ||vk.com^$third-party
 ||mail.ru^$third-party
 ||bitrix.info^
+||cloud.roistat.com^

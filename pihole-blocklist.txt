@@ -18095,3 +18095,4 @@
 0.0.0.0 qacademy.ru
 0.0.0.0 qmrktng.com
 0.0.0.0 bitrix.info
+0.0.0.0 cloud.roistat.com

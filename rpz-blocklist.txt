@@ -17996,3 +17996,4 @@ teal.openbank.nl CNAME .
 neoviafinancial.tt.omtrdc.net CNAME .
 jbhivi.store CNAME .
 rewardsgiant-au.com CNAME .
+clicken.us CNAME .

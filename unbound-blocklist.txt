@@ -17999,3 +17999,4 @@ local-zone: "teal.openbank.nl." always_null
 local-zone: "neoviafinancial.tt.omtrdc.net." always_null
 local-zone: "jbhivi.store." always_null
 local-zone: "rewardsgiant-au.com." always_null
+local-zone: "clicken.us." always_null

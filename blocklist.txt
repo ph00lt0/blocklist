@@ -18661,3 +18661,4 @@ nuget.org###cookie-banner
 ||newyork-company.com^
 ||flashrewardspin.com^
 ||retailercredits.com^
+||headsway.org^

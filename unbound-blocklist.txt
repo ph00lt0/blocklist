@@ -17978,3 +17978,4 @@ local-zone: "channel.io." always_null
 local-zone: "sygic.com." always_null
 local-zone: "stats.thuisarts.nl." always_null
 local-zone: "astro-selections.com." always_null
+local-zone: "edu-academia.com." always_null

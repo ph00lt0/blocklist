@@ -18634,3 +18634,4 @@ nuget.org###cookie-banner
 ||toplist.cz^
 ||cmp.optad360.io^
 ||get.optad360.io^
+||cmp-static.springer.com^

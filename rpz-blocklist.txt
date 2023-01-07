@@ -17979,3 +17979,4 @@ edu-academia.com CNAME .
 toplist.cz CNAME .
 cmp.optad360.io CNAME .
 get.optad360.io CNAME .
+cmp-static.springer.com CNAME .

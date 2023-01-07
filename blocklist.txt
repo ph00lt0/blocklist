@@ -18654,3 +18654,4 @@ nuget.org###cookie-banner
 ||jbhivi.store^
 ||rewardsgiant-au.com^
 ||clicken.us^
+||ratrck.com^

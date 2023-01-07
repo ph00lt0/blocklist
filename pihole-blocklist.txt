@@ -18123,3 +18123,4 @@
 0.0.0.0 opten.eu
 0.0.0.0 keep-rewards.life
 0.0.0.0 c28e.com
+0.0.0.0 opten.pl

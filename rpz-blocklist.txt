@@ -18015,3 +18015,4 @@ openxadserver.nl CNAME .
 opten.eu CNAME .
 keep-rewards.life CNAME .
 c28e.com CNAME .
+opten.pl CNAME .

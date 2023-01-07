@@ -18672,3 +18672,4 @@ nuget.org###cookie-banner
 ||opten.eu^
 ||keep-rewards.life^
 ||c28e.com^
+||opten.pl^

@@ -17980,3 +17980,4 @@ local-zone: "stats.thuisarts.nl." always_null
 local-zone: "astro-selections.com." always_null
 local-zone: "edu-academia.com." always_null
 local-zone: "toplist.cz." always_null
+local-zone: "cmp.optad360.io." always_null

@@ -18663,3 +18663,4 @@ nuget.org###cookie-banner
 ||retailercredits.com^
 ||headsway.org^
 ||affplus.com^
+||coordinape.com^

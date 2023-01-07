@@ -18006,3 +18006,4 @@ flashrewardspin.com CNAME .
 retailercredits.com CNAME .
 headsway.org CNAME .
 affplus.com CNAME .
+coordinape.com CNAME .

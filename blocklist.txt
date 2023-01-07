@@ -18677,3 +18677,4 @@ nuget.org###cookie-banner
 ||iovation.com^
 ||first.iovation.com^
 ||atlassolutions.com^
+||openads.org^

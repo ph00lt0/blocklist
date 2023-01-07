@@ -18020,3 +18020,4 @@ shasta-collector-production.upwork.com CNAME .
 iovation.com CNAME .
 first.iovation.com CNAME .
 atlassolutions.com CNAME .
+openads.org CNAME .

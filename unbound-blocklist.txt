@@ -18023,3 +18023,4 @@ local-zone: "shasta-collector-production.upwork.com." always_null
 local-zone: "iovation.com." always_null
 local-zone: "first.iovation.com." always_null
 local-zone: "atlassolutions.com." always_null
+local-zone: "openads.org." always_null

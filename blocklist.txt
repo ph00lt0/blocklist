@@ -18678,3 +18678,4 @@ nuget.org###cookie-banner
 ||first.iovation.com^
 ||atlassolutions.com^
 ||openads.org^
+||content.ad^

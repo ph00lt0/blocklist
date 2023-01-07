@@ -18021,3 +18021,4 @@ iovation.com CNAME .
 first.iovation.com CNAME .
 atlassolutions.com CNAME .
 openads.org CNAME .
+content.ad CNAME .

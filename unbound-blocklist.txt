@@ -18017,3 +18017,4 @@ local-zone: "revive-adserver.com." always_null
 local-zone: "openxadserver.nl." always_null
 local-zone: "opten.eu." always_null
 local-zone: "keep-rewards.life." always_null
+local-zone: "c28e.com." always_null

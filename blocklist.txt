@@ -18679,3 +18679,4 @@ nuget.org###cookie-banner
 ||atlassolutions.com^
 ||openads.org^
 ||content.ad^
+||partner-ads.com^

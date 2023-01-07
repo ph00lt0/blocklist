@@ -18022,3 +18022,4 @@ first.iovation.com CNAME .
 atlassolutions.com CNAME .
 openads.org CNAME .
 content.ad CNAME .
+partner-ads.com CNAME .

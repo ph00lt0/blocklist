@@ -18025,3 +18025,4 @@ local-zone: "first.iovation.com." always_null
 local-zone: "atlassolutions.com." always_null
 local-zone: "openads.org." always_null
 local-zone: "content.ad." always_null
+local-zone: "partner-ads.com." always_null

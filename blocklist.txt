@@ -18641,3 +18641,4 @@ nuget.org###cookie-banner
 ||calltouch.net^
 ||qacademy.ru^
 ||qmrktng.com^
+||vk.com^$third-party

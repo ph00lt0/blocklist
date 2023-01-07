@@ -17987,3 +17987,4 @@ local-zone: "advego.com." always_null
 local-zone: "callbackhunter.us." always_null
 local-zone: "callbackhunter.com." always_null
 local-zone: "calltouch.net." always_null
+local-zone: "qacademy.ru." always_null

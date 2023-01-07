@@ -17984,3 +17984,4 @@ advego.com CNAME .
 callbackhunter.us CNAME .
 callbackhunter.com CNAME .
 calltouch.net CNAME .
+qacademy.ru CNAME .

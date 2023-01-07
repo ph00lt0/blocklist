@@ -18639,3 +18639,4 @@ nuget.org###cookie-banner
 ||callbackhunter.us^
 ||callbackhunter.com^
 ||calltouch.net^
+||qacademy.ru^

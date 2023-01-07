@@ -17993,3 +17993,4 @@ api.alteg.io CNAME .
 skrill.com CNAME .
 cdn1.skrill.com CNAME .
 teal.openbank.nl CNAME .
+neoviafinancial.tt.omtrdc.net CNAME .

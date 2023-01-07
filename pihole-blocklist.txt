@@ -18113,3 +18113,4 @@
 0.0.0.0 flashrewardspin.com
 0.0.0.0 retailercredits.com
 0.0.0.0 headsway.org
+0.0.0.0 affplus.com

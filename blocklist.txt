@@ -18662,3 +18662,4 @@ nuget.org###cookie-banner
 ||flashrewardspin.com^
 ||retailercredits.com^
 ||headsway.org^
+||affplus.com^

@@ -18005,3 +18005,4 @@ newyork-company.com CNAME .
 flashrewardspin.com CNAME .
 retailercredits.com CNAME .
 headsway.org CNAME .
+affplus.com CNAME .

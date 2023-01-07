@@ -18135,3 +18135,4 @@
 0.0.0.0 bizo.com
 0.0.0.0 adbrite.com
 0.0.0.0 adnow.com
+0.0.0.0 adkontekst.pl

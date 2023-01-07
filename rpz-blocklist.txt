@@ -18027,3 +18027,4 @@ media6degrees.com CNAME .
 bizo.com CNAME .
 adbrite.com CNAME .
 adnow.com CNAME .
+adkontekst.pl CNAME .

@@ -18684,3 +18684,4 @@ nuget.org###cookie-banner
 ||bizo.com^
 ||adbrite.com^
 ||adnow.com^
+||adkontekst.pl^

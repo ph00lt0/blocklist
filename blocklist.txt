@@ -18629,3 +18629,4 @@ nuget.org###cookie-banner
 ||channel.io^
 ||sygic.com^
 ||stats.thuisarts.nl^
+||astro-selections.com^

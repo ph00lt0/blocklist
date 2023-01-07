@@ -17977,3 +17977,4 @@ local-zone: "apm.bigbank.eu." always_null
 local-zone: "channel.io." always_null
 local-zone: "sygic.com." always_null
 local-zone: "stats.thuisarts.nl." always_null
+local-zone: "astro-selections.com." always_null

@@ -18636,3 +18636,4 @@ nuget.org###cookie-banner
 ||get.optad360.io^
 ||cmp-static.springer.com^
 ||advego.com^
+||callbackhunter.us^

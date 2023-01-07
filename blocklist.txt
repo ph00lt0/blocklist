@@ -18638,3 +18638,4 @@ nuget.org###cookie-banner
 ||advego.com^
 ||callbackhunter.us^
 ||callbackhunter.com^
+||calltouch.net^

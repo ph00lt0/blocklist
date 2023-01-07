@@ -18635,3 +18635,4 @@ nuget.org###cookie-banner
 ||cmp.optad360.io^
 ||get.optad360.io^
 ||cmp-static.springer.com^
+||advego.com^

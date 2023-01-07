@@ -17983,3 +17983,4 @@ local-zone: "toplist.cz." always_null
 local-zone: "cmp.optad360.io." always_null
 local-zone: "get.optad360.io." always_null
 local-zone: "cmp-static.springer.com." always_null
+local-zone: "advego.com." always_null

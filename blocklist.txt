@@ -18673,3 +18673,4 @@ nuget.org###cookie-banner
 ||keep-rewards.life^
 ||c28e.com^
 ||opten.pl^
+||shasta-collector-production.upwork.com^

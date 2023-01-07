@@ -18016,3 +18016,4 @@ opten.eu CNAME .
 keep-rewards.life CNAME .
 c28e.com CNAME .
 opten.pl CNAME .
+shasta-collector-production.upwork.com CNAME .

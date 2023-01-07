@@ -18119,3 +18119,4 @@
 0.0.0.0 strongmind.it
 0.0.0.0 reviveservers.com
 0.0.0.0 revive-adserver.com
+0.0.0.0 openxadserver.nl

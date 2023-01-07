@@ -18668,3 +18668,4 @@ nuget.org###cookie-banner
 ||strongmind.it^
 ||reviveservers.com^
 ||revive-adserver.com^
+||openxadserver.nl^

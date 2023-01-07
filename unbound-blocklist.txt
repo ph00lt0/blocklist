@@ -18012,3 +18012,4 @@ local-zone: "affplus.com." always_null
 local-zone: "coordinape.com." always_null
 local-zone: "vodafonespring.it." always_null
 local-zone: "strongmind.it." always_null
+local-zone: "reviveservers.com." always_null

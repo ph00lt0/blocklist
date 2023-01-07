@@ -18666,3 +18666,4 @@ nuget.org###cookie-banner
 ||coordinape.com^
 ||vodafonespring.it^
 ||strongmind.it^
+||reviveservers.com^

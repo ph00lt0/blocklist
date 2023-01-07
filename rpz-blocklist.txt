@@ -18009,3 +18009,4 @@ affplus.com CNAME .
 coordinape.com CNAME .
 vodafonespring.it CNAME .
 strongmind.it CNAME .
+reviveservers.com CNAME .

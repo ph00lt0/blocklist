@@ -18658,3 +18658,4 @@ nuget.org###cookie-banner
 ||trustedform.com^
 ||lidstatic.com^
 ||rewardsgiantau.com^
+||newyork-company.com^

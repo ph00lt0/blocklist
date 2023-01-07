@@ -18675,3 +18675,4 @@ nuget.org###cookie-banner
 ||opten.pl^
 ||shasta-collector-production.upwork.com^
 ||iovation.com^
+||first.iovation.com^

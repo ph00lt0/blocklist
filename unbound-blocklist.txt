@@ -18001,3 +18001,4 @@ local-zone: "jbhivi.store." always_null
 local-zone: "rewardsgiant-au.com." always_null
 local-zone: "clicken.us." always_null
 local-zone: "ratrck.com." always_null
+local-zone: "trustedform.com." always_null

@@ -18655,3 +18655,4 @@ nuget.org###cookie-banner
 ||rewardsgiant-au.com^
 ||clicken.us^
 ||ratrck.com^
+||trustedform.com^

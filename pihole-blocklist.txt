@@ -18111,3 +18111,4 @@
 0.0.0.0 rewardsgiantau.com
 0.0.0.0 newyork-company.com
 0.0.0.0 flashrewardspin.com
+0.0.0.0 retailercredits.com

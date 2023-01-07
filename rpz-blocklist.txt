@@ -18003,3 +18003,4 @@ lidstatic.com CNAME .
 rewardsgiantau.com CNAME .
 newyork-company.com CNAME .
 flashrewardspin.com CNAME .
+retailercredits.com CNAME .

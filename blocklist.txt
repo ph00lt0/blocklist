@@ -18693,3 +18693,4 @@ nuget.org###cookie-banner
 ||aidata.me^
 ||140proof.com^
 ||yieldbuild.com^
+||metrigo.com^

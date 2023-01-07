@@ -18670,3 +18670,4 @@ nuget.org###cookie-banner
 ||revive-adserver.com^
 ||openxadserver.nl^
 ||opten.eu^
+||keep-rewards.life^

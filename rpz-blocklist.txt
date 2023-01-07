@@ -18010,3 +18010,4 @@ coordinape.com CNAME .
 vodafonespring.it CNAME .
 strongmind.it CNAME .
 reviveservers.com CNAME .
+revive-adserver.com CNAME .

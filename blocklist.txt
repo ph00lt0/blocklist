@@ -18667,3 +18667,4 @@ nuget.org###cookie-banner
 ||vodafonespring.it^
 ||strongmind.it^
 ||reviveservers.com^
+||revive-adserver.com^

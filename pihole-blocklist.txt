@@ -18118,3 +18118,4 @@
 0.0.0.0 vodafonespring.it
 0.0.0.0 strongmind.it
 0.0.0.0 reviveservers.com
+0.0.0.0 revive-adserver.com

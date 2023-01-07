@@ -18674,3 +18674,4 @@ nuget.org###cookie-banner
 ||c28e.com^
 ||opten.pl^
 ||shasta-collector-production.upwork.com^
+||iovation.com^

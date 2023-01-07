@@ -18007,3 +18007,4 @@ retailercredits.com CNAME .
 headsway.org CNAME .
 affplus.com CNAME .
 coordinape.com CNAME .
+vodafonespring.it CNAME .

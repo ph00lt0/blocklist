@@ -18664,3 +18664,4 @@ nuget.org###cookie-banner
 ||headsway.org^
 ||affplus.com^
 ||coordinape.com^
+||vodafonespring.it^

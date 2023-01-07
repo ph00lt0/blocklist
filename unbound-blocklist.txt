@@ -18010,3 +18010,4 @@ local-zone: "retailercredits.com." always_null
 local-zone: "headsway.org." always_null
 local-zone: "affplus.com." always_null
 local-zone: "coordinape.com." always_null
+local-zone: "vodafonespring.it." always_null

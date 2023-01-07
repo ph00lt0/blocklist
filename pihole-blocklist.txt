@@ -18107,3 +18107,4 @@
 0.0.0.0 clicken.us
 0.0.0.0 ratrck.com
 0.0.0.0 trustedform.com
+0.0.0.0 lidstatic.com

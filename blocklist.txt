@@ -18656,3 +18656,4 @@ nuget.org###cookie-banner
 ||clicken.us^
 ||ratrck.com^
 ||trustedform.com^
+||lidstatic.com^

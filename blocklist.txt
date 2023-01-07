@@ -18642,3 +18642,4 @@ nuget.org###cookie-banner
 ||qacademy.ru^
 ||qmrktng.com^
 ||vk.com^$third-party
+||mail.ru^$third-party

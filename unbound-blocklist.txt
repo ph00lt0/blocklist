@@ -18027,3 +18027,4 @@ local-zone: "openads.org." always_null
 local-zone: "content.ad." always_null
 local-zone: "partner-ads.com." always_null
 local-zone: "media6degrees.com." always_null
+local-zone: "bizo.com." always_null

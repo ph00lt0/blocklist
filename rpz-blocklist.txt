@@ -17978,3 +17978,4 @@ astro-selections.com CNAME .
 edu-academia.com CNAME .
 toplist.cz CNAME .
 cmp.optad360.io CNAME .
+get.optad360.io CNAME .

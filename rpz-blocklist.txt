@@ -17990,3 +17990,4 @@ bitrix.info CNAME .
 cloud.roistat.com CNAME .
 api.yclients.com CNAME .
 api.alteg.io CNAME .
+skrill.com CNAME .

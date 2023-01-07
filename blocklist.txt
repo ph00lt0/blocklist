@@ -18647,3 +18647,4 @@ nuget.org###cookie-banner
 ||cloud.roistat.com^
 ||api.yclients.com^
 ||api.alteg.io^
+||skrill.com^

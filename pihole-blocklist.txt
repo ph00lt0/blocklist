@@ -18100,3 +18100,4 @@
 0.0.0.0 api.alteg.io
 0.0.0.0 skrill.com
 0.0.0.0 cdn1.skrill.com
+0.0.0.0 teal.openbank.nl

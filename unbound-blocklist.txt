@@ -17995,3 +17995,4 @@ local-zone: "api.yclients.com." always_null
 local-zone: "api.alteg.io." always_null
 local-zone: "skrill.com." always_null
 local-zone: "cdn1.skrill.com." always_null
+local-zone: "teal.openbank.nl." always_null

@@ -18649,3 +18649,4 @@ nuget.org###cookie-banner
 ||api.alteg.io^
 ||skrill.com^
 ||cdn1.skrill.com^
+||teal.openbank.nl^

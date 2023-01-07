@@ -18686,3 +18686,4 @@ nuget.org###cookie-banner
 ||adnow.com^
 ||adkontekst.pl^
 ||hooklogic.com^
+||federatedmedia.net^

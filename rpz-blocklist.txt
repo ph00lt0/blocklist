@@ -18042,3 +18042,4 @@ rhythmone.com CNAME .
 spotexchange.com CNAME .
 emxdgt.com CNAME .
 tremorvideo.com CNAME .
+vitaepro.nl CNAME .

@@ -18150,3 +18150,4 @@
 0.0.0.0 spotexchange.com
 0.0.0.0 emxdgt.com
 0.0.0.0 tremorvideo.com
+0.0.0.0 vitaepro.nl

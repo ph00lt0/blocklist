@@ -18047,3 +18047,4 @@ local-zone: "emxdgt.com." always_null
 local-zone: "tremorvideo.com." always_null
 local-zone: "vitaepro.nl." always_null
 local-zone: "trustpid.com." always_null
+local-zone: "emails.pexels.com." always_null

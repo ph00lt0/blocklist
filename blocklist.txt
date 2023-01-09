@@ -18700,3 +18700,4 @@ nuget.org###cookie-banner
 ||emxdgt.com^
 ||tremorvideo.com^
 ||vitaepro.nl^
+||trustpid.com^

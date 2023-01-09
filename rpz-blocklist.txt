@@ -18043,3 +18043,4 @@ spotexchange.com CNAME .
 emxdgt.com CNAME .
 tremorvideo.com CNAME .
 vitaepro.nl CNAME .
+trustpid.com CNAME .

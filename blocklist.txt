@@ -18705,3 +18705,4 @@ nuget.org###cookie-banner
 ||acemlna.com^
 ||guidelines.lt.acemlna.com^
 ||inspirationclan.com^
+||startupfundingbook.com^

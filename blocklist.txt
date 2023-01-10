@@ -18707,3 +18707,4 @@ nuget.org###cookie-banner
 ||inspirationclan.com^
 ||startupfundingbook.com^
 ||marketing.skiff.org^
+||funnelback.com^

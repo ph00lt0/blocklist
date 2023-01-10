@@ -18708,3 +18708,4 @@ nuget.org###cookie-banner
 ||startupfundingbook.com^
 ||marketing.skiff.org^
 ||funnelback.com^
+||transurban-search.clients.funnelback.com^

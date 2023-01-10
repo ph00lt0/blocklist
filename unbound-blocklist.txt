@@ -18054,3 +18054,4 @@ local-zone: "inspirationclan.com." always_null
 local-zone: "startupfundingbook.com." always_null
 local-zone: "marketing.skiff.org." always_null
 local-zone: "funnelback.com." always_null
+local-zone: "transurban-search.clients.funnelback.com." always_null

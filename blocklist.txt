@@ -18716,3 +18716,4 @@ nuget.org###cookie-banner
 ||matrix-ott.tv^
 ||optout-nvrw.net^
 ||omniscrienttow.com^
+||averaract.life^

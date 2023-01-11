@@ -18082,3 +18082,4 @@ ghost-recon.app CNAME .
 shjrinld.ml CNAME .
 constaschool.icu CNAME .
 bestvacompanies.com CNAME .
+greitatv.com CNAME .

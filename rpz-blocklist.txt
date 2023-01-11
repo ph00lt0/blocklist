@@ -18072,3 +18072,4 @@ ads.mediaprogroup.pl CNAME .
 crystalarcs.org CNAME .
 farn.crystalarcs.org CNAME .
 policr.hahahaaaa.icu CNAME .
+hahahaaaa.icu CNAME .

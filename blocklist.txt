@@ -18729,3 +18729,4 @@ nuget.org###cookie-banner
 ||crystalarcs.org^
 ||farn.crystalarcs.org^
 ||policr.hahahaaaa.icu^
+||hahahaaaa.icu^

@@ -18180,3 +18180,4 @@
 0.0.0.0 crystalarcs.org
 0.0.0.0 farn.crystalarcs.org
 0.0.0.0 policr.hahahaaaa.icu
+0.0.0.0 hahahaaaa.icu

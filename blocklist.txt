@@ -18791,3 +18791,4 @@ nuget.org###cookie-banner
 ||segment.com.^
 ||flxpxl.com^
 ||visualdna.com^
+||stats.gridsuite.net^

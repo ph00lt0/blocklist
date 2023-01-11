@@ -18813,3 +18813,4 @@ nuget.org###cookie-banner
 ||tracxn.com^
 ||ab-api.tracxn.com^
 ||wjs.wurflcloud.com^
+||calltouch.ru^

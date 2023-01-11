@@ -18061,3 +18061,4 @@ optout-nvrw.net CNAME .
 omniscrienttow.com CNAME .
 averaract.life CNAME .
 salepower.nl CNAME .
+zoom121.site CNAME .

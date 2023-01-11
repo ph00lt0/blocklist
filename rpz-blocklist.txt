@@ -18064,3 +18064,4 @@ salepower.nl CNAME .
 zoom121.site CNAME .
 fushionstyle.store CNAME .
 foodhomee.store CNAME .
+allsysnet.com CNAME .

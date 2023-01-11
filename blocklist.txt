@@ -18721,3 +18721,4 @@ nuget.org###cookie-banner
 ||zoom121.site^
 ||fushionstyle.store^
 ||foodhomee.store^
+||allsysnet.com^

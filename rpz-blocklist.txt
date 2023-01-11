@@ -18102,3 +18102,4 @@ adspeed.net CNAME .
 g.adspeed.net CNAME .
 cert.sc CNAME .
 alsycon.net CNAME .
+events.facebook.com CNAME .

@@ -18759,3 +18759,4 @@ nuget.org###cookie-banner
 ||g.adspeed.net^
 ||cert.sc^
 ||alsycon.net^
+||events.facebook.com^

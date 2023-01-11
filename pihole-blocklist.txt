@@ -18210,3 +18210,4 @@
 0.0.0.0 g.adspeed.net
 0.0.0.0 cert.sc
 0.0.0.0 alsycon.net
+0.0.0.0 events.facebook.com

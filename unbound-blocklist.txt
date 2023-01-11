@@ -18076,3 +18076,4 @@ local-zone: "crystalarcs.org." always_null
 local-zone: "farn.crystalarcs.org." always_null
 local-zone: "policr.hahahaaaa.icu." always_null
 local-zone: "hahahaaaa.icu." always_null
+local-zone: "netbox.allsysnet.com." always_null

@@ -18181,3 +18181,4 @@
 0.0.0.0 farn.crystalarcs.org
 0.0.0.0 policr.hahahaaaa.icu
 0.0.0.0 hahahaaaa.icu
+0.0.0.0 netbox.allsysnet.com

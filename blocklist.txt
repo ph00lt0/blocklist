@@ -18811,3 +18811,4 @@ nuget.org###cookie-banner
 ||formalyzer.com^
 ||firmalyzer.com^
 ||tracxn.com^
+||ab-api.tracxn.com^

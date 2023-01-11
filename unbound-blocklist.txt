@@ -18073,3 +18073,4 @@ local-zone: "info.promojungle.nl." always_null
 local-zone: "egiodev.com." always_null
 local-zone: "ads.mediaprogroup.pl." always_null
 local-zone: "crystalarcs.org." always_null
+local-zone: "farn.crystalarcs.org." always_null

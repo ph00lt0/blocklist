@@ -18727,3 +18727,4 @@ nuget.org###cookie-banner
 ||egiodev.com^
 ||ads.mediaprogroup.pl^
 ||crystalarcs.org^
+||farn.crystalarcs.org^

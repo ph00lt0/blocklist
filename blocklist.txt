@@ -18770,3 +18770,5 @@ nuget.org###cookie-banner
 ||adrevolver.com^
 ||advertising.in^
 ||brightroll.com^
+||admngronline.com^
+||advertise.com^

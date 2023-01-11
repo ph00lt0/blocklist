@@ -18221,3 +18221,5 @@
 0.0.0.0 adrevolver.com
 0.0.0.0 advertising.in
 0.0.0.0 brightroll.com
+0.0.0.0 admngronline.com
+0.0.0.0 advertise.com

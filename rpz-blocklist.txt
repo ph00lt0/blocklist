@@ -18113,3 +18113,5 @@ advertising.kr CNAME .
 adrevolver.com CNAME .
 advertising.in CNAME .
 brightroll.com CNAME .
+admngronline.com CNAME .
+advertise.com CNAME .

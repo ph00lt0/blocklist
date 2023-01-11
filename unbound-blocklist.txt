@@ -18116,3 +18116,5 @@ local-zone: "advertising.kr." always_null
 local-zone: "adrevolver.com." always_null
 local-zone: "advertising.in." always_null
 local-zone: "brightroll.com." always_null
+local-zone: "admngronline.com." always_null
+local-zone: "advertise.com." always_null

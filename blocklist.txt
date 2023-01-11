@@ -18732,3 +18732,4 @@ nuget.org###cookie-banner
 ||hahahaaaa.icu^
 ||netbox.allsysnet.com^
 ||It7.namai.tv^
+||namai.tv^

@@ -18782,3 +18782,9 @@ nuget.org###cookie-banner
 ||gj.qq.com^
 ||stat.g.163.com^
 ||analytics.cn.yahoo.com^
+||matomo.org^
+||openstat.net^
+||clicky.com^
+||clickmeter.com^
+||goatcounter.com^
+||googleanalytics.com^

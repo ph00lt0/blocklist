@@ -18125,3 +18125,9 @@ cnzz.net CNAME .
 gj.qq.com CNAME .
 stat.g.163.com CNAME .
 analytics.cn.yahoo.com CNAME .
+matomo.org CNAME .
+openstat.net CNAME .
+clicky.com CNAME .
+clickmeter.com CNAME .
+goatcounter.com CNAME .
+googleanalytics.com CNAME .

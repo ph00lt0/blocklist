@@ -18128,3 +18128,9 @@ local-zone: "cnzz.net." always_null
 local-zone: "gj.qq.com." always_null
 local-zone: "stat.g.163.com." always_null
 local-zone: "analytics.cn.yahoo.com." always_null
+local-zone: "matomo.org." always_null
+local-zone: "openstat.net." always_null
+local-zone: "clicky.com." always_null
+local-zone: "clickmeter.com." always_null
+local-zone: "goatcounter.com." always_null
+local-zone: "googleanalytics.com." always_null

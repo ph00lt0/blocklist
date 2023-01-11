@@ -18233,3 +18233,9 @@
 0.0.0.0 gj.qq.com
 0.0.0.0 stat.g.163.com
 0.0.0.0 analytics.cn.yahoo.com
+0.0.0.0 matomo.org
+0.0.0.0 openstat.net
+0.0.0.0 clicky.com
+0.0.0.0 clickmeter.com
+0.0.0.0 goatcounter.com
+0.0.0.0 googleanalytics.com

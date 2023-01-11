@@ -18223,3 +18223,9 @@
 0.0.0.0 brightroll.com
 0.0.0.0 admngronline.com
 0.0.0.0 advertise.com
+0.0.0.0 tracker.tiktok.com
+0.0.0.0 log.tiktok.com
+0.0.0.0 event.tiktok.com
+0.0.0.0 ad.tiktok.com
+0.0.0.0 test-log.tiktok.com
+0.0.0.0 cn-log.tiktok.com

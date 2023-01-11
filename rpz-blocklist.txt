@@ -18115,3 +18115,9 @@ advertising.in CNAME .
 brightroll.com CNAME .
 admngronline.com CNAME .
 advertise.com CNAME .
+tracker.tiktok.com CNAME .
+log.tiktok.com CNAME .
+event.tiktok.com CNAME .
+ad.tiktok.com CNAME .
+test-log.tiktok.com CNAME .
+cn-log.tiktok.com CNAME .

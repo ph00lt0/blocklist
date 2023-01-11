@@ -18118,3 +18118,9 @@ local-zone: "advertising.in." always_null
 local-zone: "brightroll.com." always_null
 local-zone: "admngronline.com." always_null
 local-zone: "advertise.com." always_null
+local-zone: "tracker.tiktok.com." always_null
+local-zone: "log.tiktok.com." always_null
+local-zone: "event.tiktok.com." always_null
+local-zone: "ad.tiktok.com." always_null
+local-zone: "test-log.tiktok.com." always_null
+local-zone: "cn-log.tiktok.com." always_null

@@ -18772,3 +18772,9 @@ nuget.org###cookie-banner
 ||brightroll.com^
 ||admngronline.com^
 ||advertise.com^
+||tracker.tiktok.com^
+||log.tiktok.com^
+||event.tiktok.com^
+||ad.tiktok.com^
+||test-log.tiktok.com^
+||cn-log.tiktok.com^

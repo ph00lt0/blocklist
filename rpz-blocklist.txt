@@ -18149,3 +18149,4 @@ insights.hotjar.com CNAME .
 surveys.hotjar.com CNAME .
 confection.io CNAME .
 scientiamobile.com CNAME .
+t.sf14g.com CNAME .

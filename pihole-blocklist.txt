@@ -18257,3 +18257,4 @@
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 confection.io
 0.0.0.0 scientiamobile.com
+0.0.0.0 t.sf14g.com

@@ -18806,3 +18806,4 @@ nuget.org###cookie-banner
 ||surveys.hotjar.com^
 ||confection.io^
 ||scientiamobile.com^
+||t.sf14g.com^

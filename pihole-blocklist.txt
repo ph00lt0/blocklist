@@ -18186,3 +18186,4 @@
 0.0.0.0 namai.tv
 0.0.0.0 as49870.net
 0.0.0.0 jooule.com
+0.0.0.0 ghost-recon.app

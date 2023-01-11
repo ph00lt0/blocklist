@@ -18735,3 +18735,4 @@ nuget.org###cookie-banner
 ||namai.tv^
 ||as49870.net^
 ||jooule.com^
+||ghost-recon.app^

@@ -18067,3 +18067,4 @@ foodhomee.store CNAME .
 allsysnet.com CNAME .
 ads.promojungle.nl CNAME .
 info.promojungle.nl CNAME .
+egiodev.com CNAME .

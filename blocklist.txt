@@ -18724,3 +18724,4 @@ nuget.org###cookie-banner
 ||allsysnet.com^
 ||ads.promojungle.nl^
 ||info.promojungle.nl^
+||egiodev.com^

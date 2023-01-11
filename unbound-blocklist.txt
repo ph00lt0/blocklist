@@ -18106,3 +18106,13 @@ local-zone: "g.adspeed.net." always_null
 local-zone: "cert.sc." always_null
 local-zone: "alsycon.net." always_null
 local-zone: "events.facebook.com." always_null
+local-zone: "aol.com." always_null
+local-zone: "mydmp.com." always_null
+local-zone: "adblade.net." always_null
+local-zone: "komoona.com." always_null
+local-zone: "advertising.cn." always_null
+local-zone: "advertising.jp." always_null
+local-zone: "advertising.kr." always_null
+local-zone: "adrevolver.com." always_null
+local-zone: "advertising.in." always_null
+local-zone: "brightroll.com." always_null

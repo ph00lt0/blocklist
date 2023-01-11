@@ -18211,3 +18211,13 @@
 0.0.0.0 cert.sc
 0.0.0.0 alsycon.net
 0.0.0.0 events.facebook.com
+0.0.0.0 aol.com
+0.0.0.0 mydmp.com
+0.0.0.0 adblade.net
+0.0.0.0 komoona.com
+0.0.0.0 advertising.cn
+0.0.0.0 advertising.jp
+0.0.0.0 advertising.kr
+0.0.0.0 adrevolver.com
+0.0.0.0 advertising.in
+0.0.0.0 brightroll.com

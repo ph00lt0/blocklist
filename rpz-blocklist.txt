@@ -18103,3 +18103,13 @@ g.adspeed.net CNAME .
 cert.sc CNAME .
 alsycon.net CNAME .
 events.facebook.com CNAME .
+aol.com CNAME .
+mydmp.com CNAME .
+adblade.net CNAME .
+komoona.com CNAME .
+advertising.cn CNAME .
+advertising.jp CNAME .
+advertising.kr CNAME .
+adrevolver.com CNAME .
+advertising.in CNAME .
+brightroll.com CNAME .

@@ -18760,3 +18760,13 @@ nuget.org###cookie-banner
 ||cert.sc^
 ||alsycon.net^
 ||events.facebook.com^
+||aol.com^
+||mydmp.com^
+||adblade.net^
+||komoona.com^
+||advertising.cn^
+||advertising.jp^
+||advertising.kr^
+||adrevolver.com^
+||advertising.in^
+||brightroll.com^

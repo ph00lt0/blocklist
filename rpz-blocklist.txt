@@ -18065,3 +18065,4 @@ zoom121.site CNAME .
 fushionstyle.store CNAME .
 foodhomee.store CNAME .
 allsysnet.com CNAME .
+ads.promojungle.nl CNAME .

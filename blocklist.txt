@@ -18722,3 +18722,4 @@ nuget.org###cookie-banner
 ||fushionstyle.store^
 ||foodhomee.store^
 ||allsysnet.com^
+||ads.promojungle.nl^

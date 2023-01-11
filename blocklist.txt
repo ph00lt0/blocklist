@@ -18738,3 +18738,4 @@ nuget.org###cookie-banner
 ||ghost-recon.app^
 ||shjrinld.ml^
 ||constaschool.icu^
+||bestvacompanies.com^

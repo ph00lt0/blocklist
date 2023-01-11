@@ -18081,3 +18081,4 @@ jooule.com CNAME .
 ghost-recon.app CNAME .
 shjrinld.ml CNAME .
 constaschool.icu CNAME .
+bestvacompanies.com CNAME .

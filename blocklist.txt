@@ -18757,3 +18757,4 @@ nuget.org###cookie-banner
 ||sltv.nl^
 ||adspeed.net^
 ||g.adspeed.net^
+||cert.sc^

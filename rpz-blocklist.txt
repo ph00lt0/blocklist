@@ -18100,3 +18100,4 @@ otn20.com CNAME .
 sltv.nl CNAME .
 adspeed.net CNAME .
 g.adspeed.net CNAME .
+cert.sc CNAME .

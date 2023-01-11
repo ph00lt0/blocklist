@@ -18103,3 +18103,4 @@ local-zone: "otn20.com." always_null
 local-zone: "sltv.nl." always_null
 local-zone: "adspeed.net." always_null
 local-zone: "g.adspeed.net." always_null
+local-zone: "cert.sc." always_null

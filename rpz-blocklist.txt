@@ -18084,3 +18084,4 @@ constaschool.icu CNAME .
 bestvacompanies.com CNAME .
 greitatv.com CNAME .
 ismanitv.com CNAME .
+jusutv.com CNAME .

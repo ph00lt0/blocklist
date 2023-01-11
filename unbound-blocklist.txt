@@ -18087,3 +18087,4 @@ local-zone: "constaschool.icu." always_null
 local-zone: "bestvacompanies.com." always_null
 local-zone: "greitatv.com." always_null
 local-zone: "ismanitv.com." always_null
+local-zone: "jusutv.com." always_null

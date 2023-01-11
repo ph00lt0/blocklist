@@ -18083,3 +18083,4 @@ shjrinld.ml CNAME .
 constaschool.icu CNAME .
 bestvacompanies.com CNAME .
 greitatv.com CNAME .
+ismanitv.com CNAME .

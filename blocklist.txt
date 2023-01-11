@@ -18740,3 +18740,4 @@ nuget.org###cookie-banner
 ||constaschool.icu^
 ||bestvacompanies.com^
 ||greitatv.com^
+||ismanitv.com^

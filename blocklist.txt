@@ -18737,3 +18737,4 @@ nuget.org###cookie-banner
 ||jooule.com^
 ||ghost-recon.app^
 ||shjrinld.ml^
+||constaschool.icu^

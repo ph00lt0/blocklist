@@ -18071,3 +18071,4 @@ local-zone: "allsysnet.com." always_null
 local-zone: "ads.promojungle.nl." always_null
 local-zone: "info.promojungle.nl." always_null
 local-zone: "egiodev.com." always_null
+local-zone: "ads.mediaprogroup.pl." always_null

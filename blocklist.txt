@@ -18725,3 +18725,4 @@ nuget.org###cookie-banner
 ||ads.promojungle.nl^
 ||info.promojungle.nl^
 ||egiodev.com^
+||ads.mediaprogroup.pl^

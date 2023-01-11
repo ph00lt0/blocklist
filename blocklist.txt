@@ -18742,3 +18742,4 @@ nuget.org###cookie-banner
 ||greitatv.com^
 ||ismanitv.com^
 ||jusutv.com^
+||simorqunix.ml^

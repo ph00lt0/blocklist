@@ -18193,3 +18193,4 @@
 0.0.0.0 greitatv.com
 0.0.0.0 ismanitv.com
 0.0.0.0 jusutv.com
+0.0.0.0 simorqunix.ml

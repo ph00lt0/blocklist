@@ -18088,3 +18088,4 @@ local-zone: "bestvacompanies.com." always_null
 local-zone: "greitatv.com." always_null
 local-zone: "ismanitv.com." always_null
 local-zone: "jusutv.com." always_null
+local-zone: "simorqunix.ml." always_null

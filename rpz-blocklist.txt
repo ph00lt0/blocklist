@@ -18054,3 +18054,4 @@ funnelback.com CNAME .
 transurban-search.clients.funnelback.com CNAME .
 promojungle.nl CNAME .
 vipertv.vip CNAME .
+poyraz67.com CNAME .

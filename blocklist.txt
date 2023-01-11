@@ -18744,3 +18744,4 @@ nuget.org###cookie-banner
 ||jusutv.com^
 ||simorqunix.ml^
 ||cprapid.com^
+||morke.uk^

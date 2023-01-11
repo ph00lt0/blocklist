@@ -18148,3 +18148,4 @@ polling.hotjar.com CNAME .
 insights.hotjar.com CNAME .
 surveys.hotjar.com CNAME .
 confection.io CNAME .
+scientiamobile.com CNAME .

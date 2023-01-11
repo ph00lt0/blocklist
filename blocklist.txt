@@ -18805,3 +18805,4 @@ nuget.org###cookie-banner
 ||insights.hotjar.com^
 ||surveys.hotjar.com^
 ||confection.io^
+||scientiamobile.com^

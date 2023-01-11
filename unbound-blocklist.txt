@@ -18151,3 +18151,4 @@ local-zone: "polling.hotjar.com." always_null
 local-zone: "insights.hotjar.com." always_null
 local-zone: "surveys.hotjar.com." always_null
 local-zone: "confection.io." always_null
+local-zone: "scientiamobile.com." always_null

@@ -18086,3 +18086,4 @@ greitatv.com CNAME .
 ismanitv.com CNAME .
 jusutv.com CNAME .
 simorqunix.ml CNAME .
+cprapid.com CNAME .

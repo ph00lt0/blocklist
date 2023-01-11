@@ -18743,3 +18743,4 @@ nuget.org###cookie-banner
 ||ismanitv.com^
 ||jusutv.com^
 ||simorqunix.ml^
+||cprapid.com^

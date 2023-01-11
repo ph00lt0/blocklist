@@ -18161,3 +18161,4 @@ local-zone: "ab-api.tracxn.com." always_null
 local-zone: "wjs.wurflcloud.com." always_null
 local-zone: "calltouch.ru." always_null
 local-zone: "doitonlinemedia.nl." always_null
+local-zone: "getbynder.com." always_null

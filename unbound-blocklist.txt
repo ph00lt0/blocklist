@@ -18134,3 +18134,4 @@ local-zone: "clicky.com." always_null
 local-zone: "clickmeter.com." always_null
 local-zone: "goatcounter.com." always_null
 local-zone: "googleanalytics.com." always_null
+local-zone: "segment.com.." always_null

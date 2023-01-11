@@ -18131,3 +18131,4 @@ clicky.com CNAME .
 clickmeter.com CNAME .
 goatcounter.com CNAME .
 googleanalytics.com CNAME .
+segment.com. CNAME .

@@ -18239,3 +18239,4 @@
 0.0.0.0 clickmeter.com
 0.0.0.0 goatcounter.com
 0.0.0.0 googleanalytics.com
+0.0.0.0 segment.com.

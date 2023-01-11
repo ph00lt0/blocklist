@@ -18788,3 +18788,4 @@ nuget.org###cookie-banner
 ||clickmeter.com^
 ||goatcounter.com^
 ||googleanalytics.com^
+||segment.com.^

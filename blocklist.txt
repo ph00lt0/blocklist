@@ -18728,3 +18728,4 @@ nuget.org###cookie-banner
 ||ads.mediaprogroup.pl^
 ||crystalarcs.org^
 ||farn.crystalarcs.org^
+||policr.hahahaaaa.icu^

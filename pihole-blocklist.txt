@@ -18179,3 +18179,4 @@
 0.0.0.0 ads.mediaprogroup.pl
 0.0.0.0 crystalarcs.org
 0.0.0.0 farn.crystalarcs.org
+0.0.0.0 policr.hahahaaaa.icu

@@ -18121,3 +18121,7 @@ event.tiktok.com CNAME .
 ad.tiktok.com CNAME .
 test-log.tiktok.com CNAME .
 cn-log.tiktok.com CNAME .
+cnzz.net CNAME .
+gj.qq.com CNAME .
+stat.g.163.com CNAME .
+analytics.cn.yahoo.com CNAME .

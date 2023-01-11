@@ -18124,3 +18124,7 @@ local-zone: "event.tiktok.com." always_null
 local-zone: "ad.tiktok.com." always_null
 local-zone: "test-log.tiktok.com." always_null
 local-zone: "cn-log.tiktok.com." always_null
+local-zone: "cnzz.net." always_null
+local-zone: "gj.qq.com." always_null
+local-zone: "stat.g.163.com." always_null
+local-zone: "analytics.cn.yahoo.com." always_null

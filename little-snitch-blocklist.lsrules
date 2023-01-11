@@ -17646,6 +17646,10 @@
         "event.tiktok.com",
         "ad.tiktok.com",
         "test-log.tiktok.com",
-        "cn-log.tiktok.com"
+        "cn-log.tiktok.com",
+        "cnzz.net",
+        "gj.qq.com",
+        "stat.g.163.com",
+        "analytics.cn.yahoo.com"
     ]
 }

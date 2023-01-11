@@ -18229,3 +18229,7 @@
 0.0.0.0 ad.tiktok.com
 0.0.0.0 test-log.tiktok.com
 0.0.0.0 cn-log.tiktok.com
+0.0.0.0 cnzz.net
+0.0.0.0 gj.qq.com
+0.0.0.0 stat.g.163.com
+0.0.0.0 analytics.cn.yahoo.com

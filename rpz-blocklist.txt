@@ -18097,3 +18097,4 @@ kinoplex.ml CNAME .
 relaxy.vip CNAME .
 neroiptv.xyz CNAME .
 otn20.com CNAME .
+sltv.nl CNAME .

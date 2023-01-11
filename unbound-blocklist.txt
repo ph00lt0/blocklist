@@ -18100,3 +18100,4 @@ local-zone: "kinoplex.ml." always_null
 local-zone: "relaxy.vip." always_null
 local-zone: "neroiptv.xyz." always_null
 local-zone: "otn20.com." always_null
+local-zone: "sltv.nl." always_null

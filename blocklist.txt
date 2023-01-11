@@ -18734,3 +18734,4 @@ nuget.org###cookie-banner
 ||It7.namai.tv^
 ||namai.tv^
 ||as49870.net^
+||jooule.com^

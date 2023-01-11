@@ -18077,3 +18077,4 @@ netbox.allsysnet.com CNAME .
 It7.namai.tv CNAME .
 namai.tv CNAME .
 as49870.net CNAME .
+jooule.com CNAME .

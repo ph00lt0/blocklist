@@ -18151,3 +18151,4 @@ confection.io CNAME .
 scientiamobile.com CNAME .
 t.sf14g.com CNAME .
 sf14g.com CNAME .
+formalyzer.com CNAME .

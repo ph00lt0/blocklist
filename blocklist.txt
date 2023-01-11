@@ -18823,3 +18823,4 @@ nuget.org###cookie-banner
 ||cdn-expoints.nl^
 ||bratpack.nl^
 ||rpxnow.com^
+||yourbrand.com^

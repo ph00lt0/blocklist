@@ -18069,3 +18069,4 @@ local-zone: "fushionstyle.store." always_null
 local-zone: "foodhomee.store." always_null
 local-zone: "allsysnet.com." always_null
 local-zone: "ads.promojungle.nl." always_null
+local-zone: "info.promojungle.nl." always_null

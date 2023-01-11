@@ -18709,3 +18709,4 @@ nuget.org###cookie-banner
 ||marketing.skiff.org^
 ||funnelback.com^
 ||transurban-search.clients.funnelback.com^
+||promojungle.nl^

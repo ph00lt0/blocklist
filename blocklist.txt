@@ -18821,3 +18821,4 @@ nuget.org###cookie-banner
 ||janrainsso.com^
 ||widget-cdn.janraincapture.com^
 ||cdn-expoints.nl^
+||bratpack.nl^

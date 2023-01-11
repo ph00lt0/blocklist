@@ -18207,3 +18207,4 @@
 0.0.0.0 otn20.com
 0.0.0.0 sltv.nl
 0.0.0.0 adspeed.net
+0.0.0.0 g.adspeed.net

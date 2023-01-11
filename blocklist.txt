@@ -18756,3 +18756,4 @@ nuget.org###cookie-banner
 ||otn20.com^
 ||sltv.nl^
 ||adspeed.net^
+||g.adspeed.net^

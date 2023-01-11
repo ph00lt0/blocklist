@@ -18057,3 +18057,4 @@ vipertv.vip CNAME .
 poyraz67.com CNAME .
 liveline.at CNAME .
 matrix-ott.tv CNAME .
+optout-nvrw.net CNAME .

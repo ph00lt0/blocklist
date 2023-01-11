@@ -18267,3 +18267,4 @@
 0.0.0.0 calltouch.ru
 0.0.0.0 doitonlinemedia.nl
 0.0.0.0 getbynder.com
+0.0.0.0 bynder.com

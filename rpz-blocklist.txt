@@ -18159,3 +18159,4 @@ wjs.wurflcloud.com CNAME .
 calltouch.ru CNAME .
 doitonlinemedia.nl CNAME .
 getbynder.com CNAME .
+bynder.com CNAME .

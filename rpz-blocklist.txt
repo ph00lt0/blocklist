@@ -11009,7 +11009,7 @@ mackeeper.com CNAME .
 mackeeperapp.mackeeper.com CNAME .
 mad.m.maxthon.cn CNAME .
 mads.; allow amazon.com reason: not a tracker
-mads.aol.com CNAME .
+mads.; allow aol.com reason: Not just ads
 mads.dailymail.co.uk CNAME .
 magnetic.t.domdex.com CNAME .
 maibahe300cc.com CNAME .
@@ -17009,7 +17009,7 @@ click.simba.taobao.com CNAME .
 log.mmstat.com CNAME .
 taobao.com CNAME .
 dable.io CNAME .
-tlaol.com CNAME .
+tl; allow aol.com reason: Not just ads
 a.sellpoint.com CNAME .
 sellpoint.com CNAME .
 click.virt.exacttarget.com CNAME .
@@ -18103,7 +18103,7 @@ g.adspeed.net CNAME .
 cert.sc CNAME .
 alsycon.net CNAME .
 events.facebook.com CNAME .
-aol.com CNAME .
+; allow aol.com reason: Not just ads
 mydmp.com CNAME .
 adblade.net CNAME .
 komoona.com CNAME .

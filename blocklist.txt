@@ -18760,7 +18760,7 @@ nuget.org###cookie-banner
 ||cert.sc^
 ||alsycon.net^
 ||events.facebook.com^
-||aol.com^
+||aol.com^$badfilter  # Not just ads
 ||mydmp.com^
 ||adblade.net^
 ||komoona.com^

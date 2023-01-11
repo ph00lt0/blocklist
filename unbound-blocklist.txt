@@ -18106,7 +18106,7 @@ local-zone: "g.adspeed.net." always_null
 local-zone: "cert.sc." always_null
 local-zone: "alsycon.net." always_null
 local-zone: "events.facebook.com." always_null
-local-zone: "aol.com." always_null
+# allow aol.com reason: Not just ads
 local-zone: "mydmp.com." always_null
 local-zone: "adblade.net." always_null
 local-zone: "komoona.com." always_null

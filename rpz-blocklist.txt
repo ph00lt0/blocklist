@@ -18094,3 +18094,4 @@ relin.sc CNAME .
 icrg.info CNAME .
 motabet.email CNAME .
 kinoplex.ml CNAME .
+relaxy.vip CNAME .

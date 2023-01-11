@@ -18165,3 +18165,4 @@ local-zone: "getbynder.com." always_null
 local-zone: "bynder.com." always_null
 local-zone: "janraincapture.com." always_null
 local-zone: "janrainsso.com." always_null
+local-zone: "widget-cdn.janraincapture.com." always_null

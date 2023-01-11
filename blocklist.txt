@@ -18804,3 +18804,4 @@ nuget.org###cookie-banner
 ||polling.hotjar.com^
 ||insights.hotjar.com^
 ||surveys.hotjar.com^
+||confection.io^

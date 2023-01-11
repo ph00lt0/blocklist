@@ -18147,3 +18147,4 @@ recordings.hotjar.com CNAME .
 polling.hotjar.com CNAME .
 insights.hotjar.com CNAME .
 surveys.hotjar.com CNAME .
+confection.io CNAME .

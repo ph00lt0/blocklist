@@ -18255,3 +18255,4 @@
 0.0.0.0 polling.hotjar.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 surveys.hotjar.com
+0.0.0.0 confection.io

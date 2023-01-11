@@ -18163,3 +18163,4 @@ local-zone: "calltouch.ru." always_null
 local-zone: "doitonlinemedia.nl." always_null
 local-zone: "getbynder.com." always_null
 local-zone: "bynder.com." always_null
+local-zone: "janraincapture.com." always_null

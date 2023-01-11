@@ -18160,3 +18160,4 @@ calltouch.ru CNAME .
 doitonlinemedia.nl CNAME .
 getbynder.com CNAME .
 bynder.com CNAME .
+janraincapture.com CNAME .

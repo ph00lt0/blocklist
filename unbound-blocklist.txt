@@ -18058,3 +18058,4 @@ local-zone: "transurban-search.clients.funnelback.com." always_null
 local-zone: "promojungle.nl." always_null
 local-zone: "vipertv.vip." always_null
 local-zone: "poyraz67.com." always_null
+local-zone: "liveline.at." always_null

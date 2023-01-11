@@ -18168,3 +18168,4 @@
 0.0.0.0 optout-nvrw.net
 0.0.0.0 omniscrienttow.com
 0.0.0.0 averaract.life
+0.0.0.0 salepower.nl

@@ -18060,3 +18060,4 @@ matrix-ott.tv CNAME .
 optout-nvrw.net CNAME .
 omniscrienttow.com CNAME .
 averaract.life CNAME .
+salepower.nl CNAME .

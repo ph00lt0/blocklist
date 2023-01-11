@@ -18717,3 +18717,4 @@ nuget.org###cookie-banner
 ||optout-nvrw.net^
 ||omniscrienttow.com^
 ||averaract.life^
+||salepower.nl^

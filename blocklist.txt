@@ -18748,3 +18748,4 @@ nuget.org###cookie-banner
 ||alsycon.nl^
 ||heliosdax.email^
 ||relin.sc^
+||icrg.info^

@@ -18809,3 +18809,4 @@ nuget.org###cookie-banner
 ||t.sf14g.com^
 ||sf14g.com^
 ||formalyzer.com^
+||firmalyzer.com^

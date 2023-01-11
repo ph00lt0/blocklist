@@ -18249,3 +18249,9 @@
 0.0.0.0 mailchimp.com
 0.0.0.0 postmarkapp.com
 0.0.0.0 mandrill.com
+0.0.0.0 heatmaps.me
+0.0.0.0 feedback.hotjar.com
+0.0.0.0 recordings.hotjar.com
+0.0.0.0 polling.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com

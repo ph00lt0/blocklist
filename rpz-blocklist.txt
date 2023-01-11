@@ -18141,3 +18141,9 @@ sendgrid.com CNAME .
 mailchimp.com CNAME .
 postmarkapp.com CNAME .
 mandrill.com CNAME .
+heatmaps.me CNAME .
+feedback.hotjar.com CNAME .
+recordings.hotjar.com CNAME .
+polling.hotjar.com CNAME .
+insights.hotjar.com CNAME .
+surveys.hotjar.com CNAME .

@@ -18144,3 +18144,9 @@ local-zone: "sendgrid.com." always_null
 local-zone: "mailchimp.com." always_null
 local-zone: "postmarkapp.com." always_null
 local-zone: "mandrill.com." always_null
+local-zone: "heatmaps.me." always_null
+local-zone: "feedback.hotjar.com." always_null
+local-zone: "recordings.hotjar.com." always_null
+local-zone: "polling.hotjar.com." always_null
+local-zone: "insights.hotjar.com." always_null
+local-zone: "surveys.hotjar.com." always_null

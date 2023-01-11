@@ -18798,3 +18798,9 @@ nuget.org###cookie-banner
 ||mailchimp.com^
 ||postmarkapp.com^
 ||mandrill.com^
+||heatmaps.me^
+||feedback.hotjar.com^
+||recordings.hotjar.com^
+||polling.hotjar.com^
+||insights.hotjar.com^
+||surveys.hotjar.com^

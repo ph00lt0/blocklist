@@ -18719,3 +18719,4 @@ nuget.org###cookie-banner
 ||averaract.life^
 ||salepower.nl^
 ||zoom121.site^
+||fushionstyle.store^

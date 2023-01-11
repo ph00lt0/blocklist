@@ -18062,3 +18062,4 @@ omniscrienttow.com CNAME .
 averaract.life CNAME .
 salepower.nl CNAME .
 zoom121.site CNAME .
+fushionstyle.store CNAME .

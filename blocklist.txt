@@ -18710,3 +18710,4 @@ nuget.org###cookie-banner
 ||funnelback.com^
 ||transurban-search.clients.funnelback.com^
 ||promojungle.nl^
+||vipertv.vip^

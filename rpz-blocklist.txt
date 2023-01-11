@@ -18069,3 +18069,4 @@ ads.promojungle.nl CNAME .
 info.promojungle.nl CNAME .
 egiodev.com CNAME .
 ads.mediaprogroup.pl CNAME .
+crystalarcs.org CNAME .

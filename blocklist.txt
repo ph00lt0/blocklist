@@ -18818,3 +18818,4 @@ nuget.org###cookie-banner
 ||getbynder.com^
 ||bynder.com^
 ||janraincapture.com^
+||janrainsso.com^

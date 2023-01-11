@@ -18755,3 +18755,4 @@ nuget.org###cookie-banner
 ||neroiptv.xyz^
 ||otn20.com^
 ||sltv.nl^
+||adspeed.net^

@@ -18789,3 +18789,5 @@ nuget.org###cookie-banner
 ||goatcounter.com^
 ||googleanalytics.com^
 ||segment.com.^
+||flxpxl.com^
+||visualdna.com^

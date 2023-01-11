@@ -18135,3 +18135,5 @@ local-zone: "clickmeter.com." always_null
 local-zone: "goatcounter.com." always_null
 local-zone: "googleanalytics.com." always_null
 local-zone: "segment.com.." always_null
+local-zone: "flxpxl.com." always_null
+local-zone: "visualdna.com." always_null

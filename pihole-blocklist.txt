@@ -18240,3 +18240,5 @@
 0.0.0.0 goatcounter.com
 0.0.0.0 googleanalytics.com
 0.0.0.0 segment.com.
+0.0.0.0 flxpxl.com
+0.0.0.0 visualdna.com

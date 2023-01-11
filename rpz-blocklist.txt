@@ -18132,3 +18132,5 @@ clickmeter.com CNAME .
 goatcounter.com CNAME .
 googleanalytics.com CNAME .
 segment.com. CNAME .
+flxpxl.com CNAME .
+visualdna.com CNAME .

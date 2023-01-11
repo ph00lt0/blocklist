@@ -18792,3 +18792,9 @@ nuget.org###cookie-banner
 ||flxpxl.com^
 ||visualdna.com^
 ||stats.gridsuite.net^
+||mailgun.com^
+||mailjet.com^
+||sendgrid.com^
+||mailchimp.com^
+||postmarkapp.com^
+||mandrill.com^

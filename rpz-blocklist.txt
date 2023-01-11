@@ -18079,3 +18079,4 @@ namai.tv CNAME .
 as49870.net CNAME .
 jooule.com CNAME .
 ghost-recon.app CNAME .
+shjrinld.ml CNAME .

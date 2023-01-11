@@ -18736,3 +18736,4 @@ nuget.org###cookie-banner
 ||as49870.net^
 ||jooule.com^
 ||ghost-recon.app^
+||shjrinld.ml^

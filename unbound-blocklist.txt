@@ -18082,3 +18082,4 @@ local-zone: "namai.tv." always_null
 local-zone: "as49870.net." always_null
 local-zone: "jooule.com." always_null
 local-zone: "ghost-recon.app." always_null
+local-zone: "shjrinld.ml." always_null

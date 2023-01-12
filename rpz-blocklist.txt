@@ -18172,3 +18172,4 @@ cf.appdrag.com CNAME .
 linkt-help.top CNAME .
 linkt-transport.top CNAME .
 alert-bendigobank.com CNAME .
+anz-shield-secure.com CNAME .

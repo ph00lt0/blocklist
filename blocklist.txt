@@ -710,7 +710,7 @@
 ||githubapp.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
 ||checkappexec.microsoft.com^
-||storeedgefd.dsx.mp.microsoft.com^
+||storeedgefd.dsx.mp.microsoft.com^$badfilter  # Microsoft Store
 ||nexusrules.officeapps.live.com^
 ||client-office365-tas.msedge.net^
 ||nexus.officeapps.live.com^

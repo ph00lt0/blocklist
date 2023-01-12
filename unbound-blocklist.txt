@@ -675,7 +675,7 @@ local-zone: "live.github.com." always_null
 local-zone: "githubapp.com." always_null
 local-zone: "geover.prod.do.dsp.mp.microsoft.com." always_null
 local-zone: "checkappexec.microsoft.com." always_null
-local-zone: "storeedgefd.dsx.mp.microsoft.com." always_null
+# allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
 local-zone: "nexusrules.officeapps.live.com." always_null
 local-zone: "client-office365-tas.msedge.net." always_null
 local-zone: "nexus.officeapps.live.com." always_null

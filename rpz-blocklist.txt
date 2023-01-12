@@ -674,7 +674,7 @@ live.github.com CNAME .
 githubapp.com CNAME .
 geover.prod.do.dsp.mp.microsoft.com CNAME .
 checkappexec.microsoft.com CNAME .
-storeedgefd.dsx.mp.microsoft.com CNAME .
+; allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
 nexusrules.officeapps.live.com CNAME .
 client-office365-tas.msedge.net CNAME .
 nexus.officeapps.live.com CNAME .

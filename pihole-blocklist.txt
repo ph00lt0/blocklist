@@ -709,7 +709,7 @@
 0.0.0.0 githubapp.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
-0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+! allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 nexus.officeapps.live.com

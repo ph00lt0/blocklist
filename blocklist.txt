@@ -18826,3 +18826,4 @@ nuget.org###cookie-banner
 ||yourbrand.com^
 ||dosvak.com^
 ||statuspal.io^$third-party
+||cf.appdrag.com^

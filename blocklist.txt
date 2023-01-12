@@ -18829,3 +18829,4 @@ nuget.org###cookie-banner
 ||cf.appdrag.com^
 ||linkt-help.top^
 ||linkt-transport.top^
+||alert-bendigobank.com^

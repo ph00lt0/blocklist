@@ -18174,3 +18174,4 @@ local-zone: "dosvak.com." always_null
 local-zone: "cf.appdrag.com." always_null
 local-zone: "linkt-help.top." always_null
 local-zone: "linkt-transport.top." always_null
+local-zone: "alert-bendigobank.com." always_null

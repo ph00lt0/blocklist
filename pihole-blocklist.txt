@@ -18279,3 +18279,4 @@
 0.0.0.0 cf.appdrag.com
 0.0.0.0 linkt-help.top
 0.0.0.0 linkt-transport.top
+0.0.0.0 alert-bendigobank.com

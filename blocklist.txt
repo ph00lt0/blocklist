@@ -18825,3 +18825,4 @@ nuget.org###cookie-banner
 ||rpxnow.com^
 ||yourbrand.com^
 ||dosvak.com^
+||statuspal.io^$third-party

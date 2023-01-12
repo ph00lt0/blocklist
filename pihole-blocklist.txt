@@ -18282,3 +18282,4 @@
 0.0.0.0 alert-bendigobank.com
 0.0.0.0 anz-shield-secure.com
 0.0.0.0 linkmn.gr
+0.0.0.0 klantnr804920.ddns.net

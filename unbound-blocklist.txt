@@ -18172,3 +18172,4 @@ local-zone: "rpxnow.com." always_null
 local-zone: "yourbrand.com." always_null
 local-zone: "dosvak.com." always_null
 local-zone: "cf.appdrag.com." always_null
+local-zone: "linkt-help.top." always_null

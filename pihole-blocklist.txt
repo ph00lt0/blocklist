@@ -18277,3 +18277,4 @@
 0.0.0.0 yourbrand.com
 0.0.0.0 dosvak.com
 0.0.0.0 cf.appdrag.com
+0.0.0.0 linkt-help.top

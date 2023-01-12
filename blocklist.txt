@@ -18827,3 +18827,4 @@ nuget.org###cookie-banner
 ||dosvak.com^
 ||statuspal.io^$third-party
 ||cf.appdrag.com^
+||linkt-help.top^

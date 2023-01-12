@@ -18170,3 +18170,4 @@ yourbrand.com CNAME .
 dosvak.com CNAME .
 cf.appdrag.com CNAME .
 linkt-help.top CNAME .
+linkt-transport.top CNAME .

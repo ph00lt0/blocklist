@@ -18828,3 +18828,4 @@ nuget.org###cookie-banner
 ||statuspal.io^$third-party
 ||cf.appdrag.com^
 ||linkt-help.top^
+||linkt-transport.top^

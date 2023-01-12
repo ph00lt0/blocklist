@@ -18831,3 +18831,4 @@ nuget.org###cookie-banner
 ||linkt-transport.top^
 ||alert-bendigobank.com^
 ||anz-shield-secure.com^
+||linkmn.gr^

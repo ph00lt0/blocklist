@@ -18179,3 +18179,4 @@ local-zone: "anz-shield-secure.com." always_null
 local-zone: "linkmn.gr." always_null
 local-zone: "klantnr804920.ddns.net." always_null
 local-zone: "fundacionculturalbcb.gob.bo." always_null
+local-zone: "endorsal.io." always_null

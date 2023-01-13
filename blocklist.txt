@@ -18861,3 +18861,4 @@ nuget.org###cookie-banner
 ||kmail-lists.com^
 ||coudal.com^
 ||higverse.com^
+||link-sharepoint.com^

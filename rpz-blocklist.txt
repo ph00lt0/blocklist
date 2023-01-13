@@ -18203,3 +18203,4 @@ klclick1.com CNAME .
 kmail-lists.com CNAME .
 coudal.com CNAME .
 higverse.com CNAME .
+link-sharepoint.com CNAME .

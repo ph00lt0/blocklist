@@ -5174,7 +5174,7 @@ $removeparam=afftrack
 ||987967.xyz^
 ||mail-ads.google.com^
 ||signaler-pa.clients6.google.com^
-||aa.google.com^
+||aa.google.com^$badfilter  # Required CDN
 ||id.google.co.uk^
 ||id.google.it^
 ||id.google.pl^

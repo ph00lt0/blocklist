@@ -5017,7 +5017,7 @@ local-zone: "i.987967.xyz." always_null
 local-zone: "987967.xyz." always_null
 local-zone: "mail-ads.google.com." always_null
 local-zone: "signaler-pa.clients6.google.com." always_null
-local-zone: "aa.google.com." always_null
+# allow aa.google.com reason: Required CDN
 local-zone: "id.google.co.uk." always_null
 local-zone: "id.google.it." always_null
 local-zone: "id.google.pl." always_null

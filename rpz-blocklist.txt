@@ -5014,7 +5014,7 @@ i.987967.xyz CNAME .
 987967.xyz CNAME .
 mail-ads.google.com CNAME .
 signaler-pa.clients6.google.com CNAME .
-aa.google.com CNAME .
+; allow aa.google.com reason: Required CDN
 id.google.co.uk CNAME .
 id.google.it CNAME .
 id.google.pl CNAME .

@@ -18860,3 +18860,4 @@ nuget.org###cookie-banner
 ||footprintdns.com^
 ||insights-collector.gog.com^
 ||aa.google.com^
+||fonts.gstatic.com^$third-party

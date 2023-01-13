@@ -17710,6 +17710,7 @@
         "speech.googleapis.com",
         "remotedesktop-pa.googleapis.com",
         "voilatile-pa.googleapis.com",
-        "embeddedassistant.googleapis.com"
+        "embeddedassistant.googleapis.com",
+        "geller-pa.googleapis.com"
     ]
 }

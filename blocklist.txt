@@ -18844,3 +18844,4 @@ nuget.org###cookie-banner
 ||remotedesktop-pa.googleapis.com^
 ||voilatile-pa.googleapis.com^
 ||embeddedassistant.googleapis.com^
+||geller-pa.googleapis.com^

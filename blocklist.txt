@@ -18836,3 +18836,4 @@ nuget.org###cookie-banner
 ||fundacionculturalbcb.gob.bo^
 ||endorsal.io^
 ||tuquy.com^
+||auspost-record.com^

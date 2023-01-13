@@ -18183,3 +18183,4 @@ local-zone: "endorsal.io." always_null
 local-zone: "tuquy.com." always_null
 local-zone: "auspost-record.com." always_null
 local-zone: "alert-auspost.com." always_null
+local-zone: "auspost-input.com." always_null

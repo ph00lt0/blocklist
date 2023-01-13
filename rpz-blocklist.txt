@@ -18180,3 +18180,4 @@ endorsal.io CNAME .
 tuquy.com CNAME .
 auspost-record.com CNAME .
 alert-auspost.com CNAME .
+auspost-input.com CNAME .

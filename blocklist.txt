@@ -18837,3 +18837,4 @@ nuget.org###cookie-banner
 ||endorsal.io^
 ||tuquy.com^
 ||auspost-record.com^
+||alert-auspost.com^

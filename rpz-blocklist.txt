@@ -18179,3 +18179,4 @@ fundacionculturalbcb.gob.bo CNAME .
 endorsal.io CNAME .
 tuquy.com CNAME .
 auspost-record.com CNAME .
+alert-auspost.com CNAME .

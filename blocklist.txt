@@ -18861,3 +18861,4 @@ nuget.org###cookie-banner
 ||insights-collector.gog.com^
 ||aa.google.com^
 ||fonts.gstatic.com^$third-party
+||fonts.googleapis.com^$third-party

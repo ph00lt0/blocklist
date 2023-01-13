@@ -17714,6 +17714,7 @@
         "geller-pa.googleapis.com",
         "wirelessdevicestats.googleapis.com",
         "fpv5.googleapis.com",
-        "analyticssuitefrontend-pa.googleapis.com"
+        "analyticssuitefrontend-pa.googleapis.com",
+        "mothershiptestservice-pa.googleapis.com"
     ]
 }

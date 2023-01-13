@@ -18851,3 +18851,4 @@ nuget.org###cookie-banner
 ||mothershiptestservice-pa.googleapis.com^
 ||fitcoaching-pa.googleapis.com^
 ||datamixer-pa.googleapis.com^
+||paisadatamixer-pa.googleapis.com^

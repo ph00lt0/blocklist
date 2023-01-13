@@ -16054,7 +16054,7 @@ instagram.com##.bIiDR.aOOlW
 youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog ytd-button-renderer.size-default.style-primary.ytd-consent-bump-v2-lightbox.style-scope:nth-of-type(2)
 google.com###L2AGLb > .sy4vM.QS5gu
 consent.google.*##.saveButtonContainer > form:nth-of-type(2) > .searchButton.button.basebutton
-||google.*/xjs/_/js/*^
+||google.*/xjs/_/js/*^$third-party 
 ||theme.autience.com^
 ||add:theme.autience.com^
 ||autience.com^

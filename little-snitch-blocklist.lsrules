@@ -17713,6 +17713,7 @@
         "embeddedassistant.googleapis.com",
         "geller-pa.googleapis.com",
         "wirelessdevicestats.googleapis.com",
-        "fpv5.googleapis.com"
+        "fpv5.googleapis.com",
+        "analyticssuitefrontend-pa.googleapis.com"
     ]
 }

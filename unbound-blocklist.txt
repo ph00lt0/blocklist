@@ -18192,3 +18192,4 @@ local-zone: "embeddedassistant.googleapis.com." always_null
 local-zone: "geller-pa.googleapis.com." always_null
 local-zone: "wirelessdevicestats.googleapis.com." always_null
 local-zone: "fpv5.googleapis.com." always_null
+local-zone: "analyticssuitefrontend-pa.googleapis.com." always_null

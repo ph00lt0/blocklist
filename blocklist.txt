@@ -137,7 +137,6 @@
 ||pagead2.googlesyndication.com^
 ||google-analytics.com^
 ||google-analytics.com^
-||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||platform.twitter.com^
 ||carbonads.com^
@@ -617,7 +616,6 @@
 ||myfonts.net^
 ||fonts.net^
 ||typekit.net^
-||fonts.googleapis.com^
 ||safebrowsing.google.com^
 ||safebrowsing.clients.google.com^
 ||safebrowsing.googleapis.com^

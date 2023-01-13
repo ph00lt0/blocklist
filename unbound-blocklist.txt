@@ -139,7 +139,6 @@ local-zone: "googlesyndication.com." always_null
 local-zone: "pagead2.googlesyndication.com." always_null
 local-zone: "google-analytics.com." always_null
 local-zone: "google-analytics.com." always_null
-local-zone: "fonts.googleapis.com." always_null
 local-zone: "fonts.gstatic.com." always_null
 local-zone: "platform.twitter.com." always_null
 local-zone: "carbonads.com." always_null
@@ -588,7 +587,6 @@ local-zone: "fonts.gstatic.com." always_null
 local-zone: "myfonts.net." always_null
 local-zone: "fonts.net." always_null
 local-zone: "typekit.net." always_null
-local-zone: "fonts.googleapis.com." always_null
 local-zone: "safebrowsing.google.com." always_null
 local-zone: "safebrowsing.clients.google.com." always_null
 local-zone: "safebrowsing.googleapis.com." always_null

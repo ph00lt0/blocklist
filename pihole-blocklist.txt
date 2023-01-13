@@ -136,7 +136,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-analytics.com
-0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 carbonads.com
@@ -616,7 +615,6 @@
 0.0.0.0 myfonts.net
 0.0.0.0 fonts.net
 0.0.0.0 typekit.net
-0.0.0.0 fonts.googleapis.com
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing.clients.google.com
 0.0.0.0 safebrowsing.googleapis.com

@@ -18863,3 +18863,4 @@ nuget.org###cookie-banner
 ||higverse.com^
 ||link-sharepoint.com^
 ||footprintdns.com^
+||insights-collector.gog.com^

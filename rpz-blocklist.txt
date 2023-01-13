@@ -18205,3 +18205,4 @@ coudal.com CNAME .
 higverse.com CNAME .
 link-sharepoint.com CNAME .
 footprintdns.com CNAME .
+insights-collector.gog.com CNAME .

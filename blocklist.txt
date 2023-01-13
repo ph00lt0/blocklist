@@ -18845,3 +18845,4 @@ nuget.org###cookie-banner
 ||voilatile-pa.googleapis.com^
 ||embeddedassistant.googleapis.com^
 ||geller-pa.googleapis.com^
+||wirelessdevicestats.googleapis.com^

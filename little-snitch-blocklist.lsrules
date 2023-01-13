@@ -17719,6 +17719,7 @@
         "fitcoaching-pa.googleapis.com",
         "datamixer-pa.googleapis.com",
         "paisadatamixer-pa.googleapis.com",
-        "plusmixer-pa.googleapis.com"
+        "plusmixer-pa.googleapis.com",
+        "clientmetrics-pa.googleapis.com"
     ]
 }

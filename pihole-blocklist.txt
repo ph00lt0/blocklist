@@ -18312,3 +18312,4 @@
 0.0.0.0 coudal.com
 0.0.0.0 higverse.com
 0.0.0.0 link-sharepoint.com
+0.0.0.0 footprintdns.com

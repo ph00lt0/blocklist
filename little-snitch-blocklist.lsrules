@@ -17706,6 +17706,7 @@
         "auspost-record.com",
         "alert-auspost.com",
         "auspost-input.com",
-        "photosdata-pa.googleapis.com"
+        "photosdata-pa.googleapis.com",
+        "speech.googleapis.com"
     ]
 }

@@ -18185,3 +18185,4 @@ local-zone: "auspost-record.com." always_null
 local-zone: "alert-auspost.com." always_null
 local-zone: "auspost-input.com." always_null
 local-zone: "photosdata-pa.googleapis.com." always_null
+local-zone: "speech.googleapis.com." always_null

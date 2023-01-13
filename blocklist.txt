@@ -18840,3 +18840,4 @@ nuget.org###cookie-banner
 ||alert-auspost.com^
 ||auspost-input.com^
 ||photosdata-pa.googleapis.com^
+||speech.googleapis.com^

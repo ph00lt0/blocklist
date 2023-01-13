@@ -18290,3 +18290,4 @@
 0.0.0.0 alert-auspost.com
 0.0.0.0 auspost-input.com
 0.0.0.0 photosdata-pa.googleapis.com
+0.0.0.0 speech.googleapis.com

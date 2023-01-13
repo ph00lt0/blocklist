@@ -137,7 +137,6 @@
 ||pagead2.googlesyndication.com^
 ||google-analytics.com^
 ||google-analytics.com^
-||fonts.gstatic.com^
 ||platform.twitter.com^
 ||carbonads.com^
 ||cdn.carbonads.com^
@@ -612,7 +611,6 @@
 ||fbcdn-sphotos-l-a.akamaihd.net^$badfilter  # Photos CDN
 ||fbcdn-sphotos-m-a.akamaihd.net^$badfilter  # Photos CDN
 ||fbcdn-sphotos-n-a.akamaihd.net^$badfilter  # Photos CDN
-||fonts.gstatic.com^
 ||myfonts.net^
 ||fonts.net^
 ||typekit.net^

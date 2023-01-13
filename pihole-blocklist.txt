@@ -136,7 +136,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-analytics.com
-0.0.0.0 fonts.gstatic.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 carbonads.com
 0.0.0.0 cdn.carbonads.com
@@ -611,7 +610,6 @@
 ! allow fbcdn-sphotos-l-a.akamaihd.net reason: Photos CDN
 ! allow fbcdn-sphotos-m-a.akamaihd.net reason: Photos CDN
 ! allow fbcdn-sphotos-n-a.akamaihd.net reason: Photos CDN
-0.0.0.0 fonts.gstatic.com
 0.0.0.0 myfonts.net
 0.0.0.0 fonts.net
 0.0.0.0 typekit.net

@@ -138,7 +138,6 @@ googlesyndication.com CNAME .
 pagead2.googlesyndication.com CNAME .
 google-analytics.com CNAME .
 google-analytics.com CNAME .
-fonts.gstatic.com CNAME .
 platform.twitter.com CNAME .
 carbonads.com CNAME .
 cdn.carbonads.com CNAME .
@@ -582,7 +581,6 @@ collector.githubapp.com CNAME .
 ip-geolocation.netcraft.com CNAME .
 facebook.net CNAME .
 fbexternal-a.akamaihd.net CNAME .
-fonts.gstatic.com CNAME .
 myfonts.net CNAME .
 fonts.net CNAME .
 typekit.net CNAME .

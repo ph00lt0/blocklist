@@ -18296,3 +18296,4 @@
 0.0.0.0 embeddedassistant.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 wirelessdevicestats.googleapis.com
+0.0.0.0 fpv5.googleapis.com

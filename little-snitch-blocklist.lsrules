@@ -17712,6 +17712,7 @@
         "voilatile-pa.googleapis.com",
         "embeddedassistant.googleapis.com",
         "geller-pa.googleapis.com",
-        "wirelessdevicestats.googleapis.com"
+        "wirelessdevicestats.googleapis.com",
+        "fpv5.googleapis.com"
     ]
 }

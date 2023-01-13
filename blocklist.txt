@@ -18846,3 +18846,4 @@ nuget.org###cookie-banner
 ||embeddedassistant.googleapis.com^
 ||geller-pa.googleapis.com^
 ||wirelessdevicestats.googleapis.com^
+||fpv5.googleapis.com^

@@ -18843,3 +18843,4 @@ nuget.org###cookie-banner
 ||speech.googleapis.com^
 ||remotedesktop-pa.googleapis.com^
 ||voilatile-pa.googleapis.com^
+||embeddedassistant.googleapis.com^

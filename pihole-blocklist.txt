@@ -18293,3 +18293,4 @@
 0.0.0.0 speech.googleapis.com
 0.0.0.0 remotedesktop-pa.googleapis.com
 0.0.0.0 voilatile-pa.googleapis.com
+0.0.0.0 embeddedassistant.googleapis.com

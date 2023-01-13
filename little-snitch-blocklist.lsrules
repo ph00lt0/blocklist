@@ -17709,6 +17709,7 @@
         "photosdata-pa.googleapis.com",
         "speech.googleapis.com",
         "remotedesktop-pa.googleapis.com",
-        "voilatile-pa.googleapis.com"
+        "voilatile-pa.googleapis.com",
+        "embeddedassistant.googleapis.com"
     ]
 }

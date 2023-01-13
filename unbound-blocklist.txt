@@ -18194,3 +18194,4 @@ local-zone: "wirelessdevicestats.googleapis.com." always_null
 local-zone: "fpv5.googleapis.com." always_null
 local-zone: "analyticssuitefrontend-pa.googleapis.com." always_null
 local-zone: "mothershiptestservice-pa.googleapis.com." always_null
+local-zone: "fitcoaching-pa.googleapis.com." always_null

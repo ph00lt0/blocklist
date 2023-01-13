@@ -18201,3 +18201,4 @@ app-ab10.marketo.com CNAME .
 trk.klclick1.com CNAME .
 klclick1.com CNAME .
 kmail-lists.com CNAME .
+coudal.com CNAME .

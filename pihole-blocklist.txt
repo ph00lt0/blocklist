@@ -18309,3 +18309,4 @@
 0.0.0.0 trk.klclick1.com
 0.0.0.0 klclick1.com
 0.0.0.0 kmail-lists.com
+0.0.0.0 coudal.com

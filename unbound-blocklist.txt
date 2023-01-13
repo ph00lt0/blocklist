@@ -18205,3 +18205,4 @@ local-zone: "trk.klclick1.com." always_null
 local-zone: "klclick1.com." always_null
 local-zone: "kmail-lists.com." always_null
 local-zone: "coudal.com." always_null
+local-zone: "higverse.com." always_null

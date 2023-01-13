@@ -18177,3 +18177,4 @@ linkmn.gr CNAME .
 klantnr804920.ddns.net CNAME .
 fundacionculturalbcb.gob.bo CNAME .
 endorsal.io CNAME .
+tuquy.com CNAME .

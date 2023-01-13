@@ -18835,3 +18835,4 @@ nuget.org###cookie-banner
 ||klantnr804920.ddns.net^
 ||fundacionculturalbcb.gob.bo^
 ||endorsal.io^
+||tuquy.com^

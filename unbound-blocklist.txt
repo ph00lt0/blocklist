@@ -18180,3 +18180,4 @@ local-zone: "linkmn.gr." always_null
 local-zone: "klantnr804920.ddns.net." always_null
 local-zone: "fundacionculturalbcb.gob.bo." always_null
 local-zone: "endorsal.io." always_null
+local-zone: "tuquy.com." always_null

@@ -17708,6 +17708,7 @@
         "auspost-input.com",
         "photosdata-pa.googleapis.com",
         "speech.googleapis.com",
-        "remotedesktop-pa.googleapis.com"
+        "remotedesktop-pa.googleapis.com",
+        "voilatile-pa.googleapis.com"
     ]
 }

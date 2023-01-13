@@ -18862,7 +18862,6 @@ nuget.org###cookie-banner
 ||aa.google.com^
 ||fonts.gstatic.com^$third-party
 ||fonts.googleapis.com^$third-party
-@@||fonts.googlapis.com^$domain=google.com
-@@||fonts.googleapis.com^$domain=gmail.com
-@@||fonts.gstatic.com^$domain=google.com
-@@||fonts.gstatic.com^$domain=gmail.com
+@@||fonts.googleapis.com^$stylesheet,domain=google.com
+@@||fonts.gstatic.com^$font,domain=google.com
+@@||fonts.gstatic.com^$font,domain=gmail.com

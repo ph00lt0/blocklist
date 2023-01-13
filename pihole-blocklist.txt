@@ -18306,3 +18306,4 @@
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 app-ab10.marketo.com
+0.0.0.0 trk.klclick1.com

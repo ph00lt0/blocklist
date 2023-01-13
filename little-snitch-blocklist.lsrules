@@ -17722,6 +17722,7 @@
         "plusmixer-pa.googleapis.com",
         "clientmetrics-pa.googleapis.com",
         "geomobileservices-pa.googleapis.com",
-        "app-ab10.marketo.com"
+        "app-ab10.marketo.com",
+        "trk.klclick1.com"
     ]
 }

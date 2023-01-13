@@ -18856,3 +18856,4 @@ nuget.org###cookie-banner
 ||clientmetrics-pa.googleapis.com^
 ||geomobileservices-pa.googleapis.com^
 ||app-ab10.marketo.com^
+||trk.klclick1.com^

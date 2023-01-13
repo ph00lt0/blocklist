@@ -17716,6 +17716,7 @@
         "fpv5.googleapis.com",
         "analyticssuitefrontend-pa.googleapis.com",
         "mothershiptestservice-pa.googleapis.com",
-        "fitcoaching-pa.googleapis.com"
+        "fitcoaching-pa.googleapis.com",
+        "datamixer-pa.googleapis.com"
     ]
 }

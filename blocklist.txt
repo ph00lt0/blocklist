@@ -18866,3 +18866,4 @@ nuget.org###cookie-banner
 @@||fonts.gstatic.com^$font,domain=google.com
 @@||fonts.gstatic.com^$font,domain=gmail.com
 ||peoplestackwebexperiments-pa.clients6.google.com^
+||helderepromotie.nl^

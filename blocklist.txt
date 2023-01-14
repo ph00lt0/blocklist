@@ -2497,7 +2497,7 @@
 ||cedexis-radar.net^
 ||cedexis-test.com^
 ||cedexis.fastlylb.net^
-||cedexis.net^
+||cedexis.net^$badfilter  # CDN
 ||coinzillatag.com^
 ||impactradius.com^
 ||7eer.net^

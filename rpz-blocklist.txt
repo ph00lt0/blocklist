@@ -2442,7 +2442,7 @@ improvedigital.com CNAME .
 cedexis-radar.net CNAME .
 cedexis-test.com CNAME .
 cedexis.fastlylb.net CNAME .
-cedexis.net CNAME .
+; allow cedexis.net reason: CDN
 coinzillatag.com CNAME .
 impactradius.com CNAME .
 7eer.net CNAME .

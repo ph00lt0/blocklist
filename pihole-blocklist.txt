@@ -2492,7 +2492,7 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis-test.com
 0.0.0.0 cedexis.fastlylb.net
-0.0.0.0 cedexis.net
+! allow cedexis.net reason: CDN
 0.0.0.0 coinzillatag.com
 0.0.0.0 impactradius.com
 0.0.0.0 7eer.net

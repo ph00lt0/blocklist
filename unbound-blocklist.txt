@@ -2444,7 +2444,7 @@ local-zone: "360yield.com." always_null
 local-zone: "cedexis-radar.net." always_null
 local-zone: "cedexis-test.com." always_null
 local-zone: "cedexis.fastlylb.net." always_null
-local-zone: "cedexis.net." always_null
+# allow cedexis.net reason: CDN
 local-zone: "coinzillatag.com." always_null
 local-zone: "impactradius.com." always_null
 local-zone: "7eer.net." always_null

@@ -18208,3 +18208,4 @@ local-zone: "insights-collector.gog.com." always_null
 local-zone: "aa.google.com." always_null
 local-zone: "peoplestackwebexperiments-pa.clients6.google.com." always_null
 local-zone: "helderepromotie.nl." always_null
+local-zone: "dy-api.com." always_null

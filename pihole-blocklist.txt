@@ -14285,7 +14285,7 @@
 0.0.0.0 csp-central.appspot.com
 0.0.0.0 cstwpush.com
 0.0.0.0 ctctcdn.com
-0.0.0.0 ctfassets.net
+! allow ctfassets.net reason: CDN
 0.0.0.0 ctnsnet.com
 0.0.0.0 ctripgslb.com
 0.0.0.0 cudasvc.com

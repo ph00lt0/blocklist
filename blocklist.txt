@@ -14605,7 +14605,7 @@ $removeparam=engagement_type
 ||csp-central.appspot.com^
 ||cstwpush.com^
 ||ctctcdn.com^
-||ctfassets.net^
+||ctfassets.net^$badfilter  # CDN
 ||ctnsnet.com^
 ||ctripgslb.com^
 ||cudasvc.com^

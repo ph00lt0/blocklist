@@ -14180,7 +14180,7 @@ local-zone: "csnstatic.com." always_null
 local-zone: "csp-central.appspot.com." always_null
 local-zone: "cstwpush.com." always_null
 local-zone: "ctctcdn.com." always_null
-local-zone: "ctfassets.net." always_null
+# allow ctfassets.net reason: CDN
 local-zone: "ctnsnet.com." always_null
 local-zone: "ctripgslb.com." always_null
 local-zone: "cudasvc.com." always_null

@@ -14177,7 +14177,7 @@ csnstatic.com CNAME .
 csp-central.appspot.com CNAME .
 cstwpush.com CNAME .
 ctctcdn.com CNAME .
-ctfassets.net CNAME .
+; allow ctfassets.net reason: CDN
 ctnsnet.com CNAME .
 ctripgslb.com CNAME .
 cudasvc.com CNAME .

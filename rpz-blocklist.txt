@@ -18210,3 +18210,4 @@ direct.dy-api.com CNAME .
 telemetry.microsoft.com CNAME .
 data.moori.net CNAME .
 mpeasylink.com CNAME .
+thetruth7.com CNAME .

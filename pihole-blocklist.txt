@@ -18318,3 +18318,4 @@
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 data.moori.net
 0.0.0.0 mpeasylink.com
+0.0.0.0 thetruth7.com

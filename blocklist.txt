@@ -18869,3 +18869,4 @@ nuget.org###cookie-banner
 ||helderepromotie.nl^
 ||dy-api.com^
 ||direct.dy-api.com^
+||telemetry.microsoft.com^

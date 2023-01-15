@@ -18315,3 +18315,4 @@
 0.0.0.0 helderepromotie.nl
 0.0.0.0 dy-api.com
 0.0.0.0 direct.dy-api.com
+0.0.0.0 telemetry.microsoft.com

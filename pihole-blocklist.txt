@@ -5482,7 +5482,7 @@
 0.0.0.0 iubenda.com
 0.0.0.0 geniussports.com
 0.0.0.0 onnetwork.tv
-0.0.0.0 tritondigital.com
+! allow tritondigital.com reason: podcast delivery
 0.0.0.0 samba.tv
 0.0.0.0 converge-digital.com
 0.0.0.0 communicationads.net

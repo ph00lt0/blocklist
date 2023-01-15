@@ -5554,7 +5554,7 @@ $removeparam=afftrack
 ||iubenda.com^
 ||geniussports.com^
 ||onnetwork.tv^
-||tritondigital.com^
+||tritondigital.com^$badfilter  # podcast delivery
 ||samba.tv^
 ||converge-digital.com^
 ||communicationads.net^

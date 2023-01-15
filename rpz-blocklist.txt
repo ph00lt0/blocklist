@@ -5394,7 +5394,7 @@ ezoic.com CNAME .
 iubenda.com CNAME .
 geniussports.com CNAME .
 onnetwork.tv CNAME .
-tritondigital.com CNAME .
+; allow tritondigital.com reason: podcast delivery
 samba.tv CNAME .
 converge-digital.com CNAME .
 communicationads.net CNAME .

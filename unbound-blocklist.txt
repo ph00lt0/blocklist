@@ -5397,7 +5397,7 @@ local-zone: "ezoic.com." always_null
 local-zone: "iubenda.com." always_null
 local-zone: "geniussports.com." always_null
 local-zone: "onnetwork.tv." always_null
-local-zone: "tritondigital.com." always_null
+# allow tritondigital.com reason: podcast delivery
 local-zone: "samba.tv." always_null
 local-zone: "converge-digital.com." always_null
 local-zone: "communicationads.net." always_null

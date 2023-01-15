@@ -18870,3 +18870,4 @@ nuget.org###cookie-banner
 ||dy-api.com^
 ||direct.dy-api.com^
 ||telemetry.microsoft.com^
+||data.moori.net^

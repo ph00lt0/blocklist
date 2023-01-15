@@ -18316,3 +18316,4 @@
 0.0.0.0 dy-api.com
 0.0.0.0 direct.dy-api.com
 0.0.0.0 telemetry.microsoft.com
+0.0.0.0 data.moori.net

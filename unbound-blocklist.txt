@@ -18211,3 +18211,4 @@ local-zone: "helderepromotie.nl." always_null
 local-zone: "dy-api.com." always_null
 local-zone: "direct.dy-api.com." always_null
 local-zone: "telemetry.microsoft.com." always_null
+local-zone: "data.moori.net." always_null

@@ -18875,3 +18875,4 @@ nuget.org###cookie-banner
 ||thetruth7.com^
 ||data.indianexpress.com^
 ||lookaside.fbsbx.com^
+||ds3.biz^

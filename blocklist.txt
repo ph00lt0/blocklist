@@ -18876,3 +18876,4 @@ nuget.org###cookie-banner
 ||data.indianexpress.com^
 ||lookaside.fbsbx.com^
 ||ds3.biz^
+||instagramscraperapi.com^

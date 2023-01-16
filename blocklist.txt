@@ -18878,3 +18878,4 @@ nuget.org###cookie-banner
 ||ds3.biz^
 ||instagramscraperapi.com^
 ||telemetrics.klaviyo.com^
+||static-tracking.klaviyo.com^

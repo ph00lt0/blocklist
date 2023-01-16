@@ -18216,3 +18216,4 @@ lookaside.fbsbx.com CNAME .
 ds3.biz CNAME .
 instagramscraperapi.com CNAME .
 telemetrics.klaviyo.com CNAME .
+static-tracking.klaviyo.com CNAME .

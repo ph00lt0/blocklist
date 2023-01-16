@@ -18219,3 +18219,4 @@ local-zone: "lookaside.fbsbx.com." always_null
 local-zone: "ds3.biz." always_null
 local-zone: "instagramscraperapi.com." always_null
 local-zone: "telemetrics.klaviyo.com." always_null
+local-zone: "static-tracking.klaviyo.com." always_null

@@ -17739,6 +17739,7 @@
         "lookaside.fbsbx.com",
         "ds3.biz",
         "instagramscraperapi.com",
-        "telemetrics.klaviyo.com"
+        "telemetrics.klaviyo.com",
+        "static-tracking.klaviyo.com"
     ]
 }

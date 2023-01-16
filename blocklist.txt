@@ -18873,3 +18873,4 @@ nuget.org###cookie-banner
 ||data.moori.net^
 ||mpeasylink.com^
 ||thetruth7.com^
+||data.indianexpress.com^

@@ -18215,3 +18215,4 @@ data.indianexpress.com CNAME .
 lookaside.fbsbx.com CNAME .
 ds3.biz CNAME .
 instagramscraperapi.com CNAME .
+telemetrics.klaviyo.com CNAME .

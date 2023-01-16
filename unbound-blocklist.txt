@@ -18218,3 +18218,4 @@ local-zone: "data.indianexpress.com." always_null
 local-zone: "lookaside.fbsbx.com." always_null
 local-zone: "ds3.biz." always_null
 local-zone: "instagramscraperapi.com." always_null
+local-zone: "telemetrics.klaviyo.com." always_null

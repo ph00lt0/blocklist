@@ -18323,3 +18323,4 @@
 0.0.0.0 lookaside.fbsbx.com
 0.0.0.0 ds3.biz
 0.0.0.0 instagramscraperapi.com
+0.0.0.0 telemetrics.klaviyo.com

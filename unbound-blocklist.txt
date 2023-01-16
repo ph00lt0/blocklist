@@ -13690,7 +13690,7 @@ local-zone: "belboon.de." always_null
 local-zone: "belgiantrain.azureedge.net." always_null
 local-zone: "bemail.it." always_null
 local-zone: "benonblkd.xyz." always_null
-local-zone: "bergfex.at." always_null
+# allow bergfex.at reason: not a trackr
 local-zone: "besafe.global." always_null
 local-zone: "bestcontentfood.top." always_null
 local-zone: "bestcontentsystem.top." always_null

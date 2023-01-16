@@ -12321,8 +12321,8 @@ pv-apps.web.oebb.at CNAME .
 imagesrv.adition.com CNAME .
 kurier.activehosted.com CNAME .
 ; allow efs.kurier.at reason: Website router
-data-44a005f23c.bergfex.at CNAME .
-partner.bergfex.at CNAME .
+data-44a005f23c.; allow bergfex.at reason: not a trackr
+partner.; allow bergfex.at reason: not a trackr
 ; allow vod-at.mdn.ors.at reason: Required for video playback
 wa.gmx.net CNAME .
 web.de CNAME .
@@ -13687,7 +13687,7 @@ belboon.de CNAME .
 belgiantrain.azureedge.net CNAME .
 bemail.it CNAME .
 benonblkd.xyz CNAME .
-bergfex.at CNAME .
+; allow bergfex.at reason: not a trackr
 besafe.global CNAME .
 bestcontentfood.top CNAME .
 bestcontentsystem.top CNAME .

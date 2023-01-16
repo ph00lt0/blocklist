@@ -14114,7 +14114,7 @@ $removeparam=engagement_type
 ||belgiantrain.azureedge.net^
 ||bemail.it^
 ||benonblkd.xyz^
-||bergfex.at^
+||bergfex.at^$badfilter  # not a trackr
 ||besafe.global^
 ||bestcontentfood.top^
 ||bestcontentsystem.top^

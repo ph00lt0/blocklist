@@ -13795,7 +13795,7 @@
 0.0.0.0 belgiantrain.azureedge.net
 0.0.0.0 bemail.it
 0.0.0.0 benonblkd.xyz
-0.0.0.0 bergfex.at
+! allow bergfex.at reason: not a trackr
 0.0.0.0 besafe.global
 0.0.0.0 bestcontentfood.top
 0.0.0.0 bestcontentsystem.top

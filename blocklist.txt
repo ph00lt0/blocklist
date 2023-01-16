@@ -14080,7 +14080,7 @@ $removeparam=engagement_type
 ||aylink.co^
 ||azure-api.net^$badfilter  # not a tracker
 ||azure.com^$badfilter  # not a tracker
-||azurefd.net^
+||azurefd.net^$badfilter  # CDN
 ||b0oie4xjeb4ite.com^
 ||ba-content.de^
 ||babbel.io^

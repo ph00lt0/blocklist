@@ -13761,7 +13761,7 @@
 0.0.0.0 aylink.co
 ! allow azure-api.net reason: not a tracker
 ! allow azure.com reason: not a tracker
-0.0.0.0 azurefd.net
+! allow azurefd.net reason: CDN
 0.0.0.0 b0oie4xjeb4ite.com
 0.0.0.0 ba-content.de
 0.0.0.0 babbel.io

@@ -13653,7 +13653,7 @@ ay.delivery CNAME .
 aylink.co CNAME .
 ; allow azure-api.net reason: not a tracker
 ; allow azure.com reason: not a tracker
-azurefd.net CNAME .
+; allow azurefd.net reason: CDN
 b0oie4xjeb4ite.com CNAME .
 ba-content.de CNAME .
 babbel.io CNAME .

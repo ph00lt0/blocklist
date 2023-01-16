@@ -18215,3 +18215,4 @@ local-zone: "data.moori.net." always_null
 local-zone: "mpeasylink.com." always_null
 local-zone: "thetruth7.com." always_null
 local-zone: "data.indianexpress.com." always_null
+local-zone: "lookaside.fbsbx.com." always_null

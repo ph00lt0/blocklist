@@ -18874,3 +18874,4 @@ nuget.org###cookie-banner
 ||mpeasylink.com^
 ||thetruth7.com^
 ||data.indianexpress.com^
+||lookaside.fbsbx.com^

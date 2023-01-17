@@ -18225,3 +18225,4 @@ eigenrichting.eu CNAME .
 buyverticals.com CNAME .
 bexcommunicatie.nl CNAME .
 asia-fashions-wholesale.com CNAME .
+pieceauto-discount.com CNAME .

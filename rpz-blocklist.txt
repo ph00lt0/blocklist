@@ -17197,7 +17197,7 @@ trustgram.co CNAME .
 ucattachment.freshdesk.com CNAME .
 cms.dopper.com CNAME .
 awstrack.me CNAME .
-taxify.eu CNAME .
+; allow taxify.eu reason: Bolt
 d3smpkehiq8afm.cloudfront.net CNAME .
 email.uber.com CNAME .
 ; allow node.bolt.eu reason: bolt taxi service

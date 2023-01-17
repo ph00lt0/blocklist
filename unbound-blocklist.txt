@@ -17200,7 +17200,7 @@ local-zone: "trustgram.co." always_null
 local-zone: "ucattachment.freshdesk.com." always_null
 local-zone: "cms.dopper.com." always_null
 local-zone: "awstrack.me." always_null
-local-zone: "taxify.eu." always_null
+# allow taxify.eu reason: Bolt
 local-zone: "d3smpkehiq8afm.cloudfront.net." always_null
 local-zone: "email.uber.com." always_null
 # allow node.bolt.eu reason: bolt taxi service

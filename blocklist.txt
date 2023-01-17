@@ -17798,7 +17798,7 @@ $removeparam=aclk
 ||ucattachment.freshdesk.com^
 ||cms.dopper.com^
 ||awstrack.me^
-||taxify.eu^
+||taxify.eu^$badfilter  # Bolt
 ||d3smpkehiq8afm.cloudfront.net^
 ||email.uber.com^
 ||node.bolt.eu^$badfilter  # bolt taxi service

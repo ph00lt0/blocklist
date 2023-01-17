@@ -17305,7 +17305,7 @@
 0.0.0.0 ucattachment.freshdesk.com
 0.0.0.0 cms.dopper.com
 0.0.0.0 awstrack.me
-0.0.0.0 taxify.eu
+! allow taxify.eu reason: Bolt
 0.0.0.0 d3smpkehiq8afm.cloudfront.net
 0.0.0.0 email.uber.com
 ! allow node.bolt.eu reason: bolt taxi service

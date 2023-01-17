@@ -18221,3 +18221,4 @@ chp4.io CNAME .
 internxt.com CNAME .
 savba.sk CNAME .
 bestverticals.com CNAME .
+eigenrichting.eu CNAME .

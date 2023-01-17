@@ -18329,3 +18329,4 @@
 0.0.0.0 internxt.com
 0.0.0.0 savba.sk
 0.0.0.0 bestverticals.com
+0.0.0.0 eigenrichting.eu

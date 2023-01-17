@@ -18222,3 +18222,4 @@ local-zone: "telemetrics.klaviyo.com." always_null
 local-zone: "static-tracking.klaviyo.com." always_null
 local-zone: "chp4.io." always_null
 local-zone: "internxt.com." always_null
+local-zone: "savba.sk." always_null

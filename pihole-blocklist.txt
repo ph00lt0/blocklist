@@ -18327,3 +18327,4 @@
 0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 chp4.io
 0.0.0.0 internxt.com
+0.0.0.0 savba.sk

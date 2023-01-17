@@ -18218,3 +18218,4 @@ instagramscraperapi.com CNAME .
 telemetrics.klaviyo.com CNAME .
 static-tracking.klaviyo.com CNAME .
 chp4.io CNAME .
+internxt.com CNAME .

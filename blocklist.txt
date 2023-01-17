@@ -18880,3 +18880,4 @@ nuget.org###cookie-banner
 ||telemetrics.klaviyo.com^
 ||static-tracking.klaviyo.com^
 ||chp4.io^
+||internxt.com^

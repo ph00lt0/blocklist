@@ -18220,3 +18220,4 @@ static-tracking.klaviyo.com CNAME .
 chp4.io CNAME .
 internxt.com CNAME .
 savba.sk CNAME .
+bestverticals.com CNAME .

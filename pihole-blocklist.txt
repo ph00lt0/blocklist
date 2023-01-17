@@ -18328,3 +18328,4 @@
 0.0.0.0 chp4.io
 0.0.0.0 internxt.com
 0.0.0.0 savba.sk
+0.0.0.0 bestverticals.com

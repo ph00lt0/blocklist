@@ -18882,3 +18882,4 @@ nuget.org###cookie-banner
 ||chp4.io^
 ||internxt.com^
 ||savba.sk^
+||bestverticals.com^

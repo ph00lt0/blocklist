@@ -3927,7 +3927,7 @@
 ||path2.xtracloud.net^
 ||path1.xtracloud.net^
 ||manifest.localytics.com^
-||swoogo.com^
+||swoogo.com^$badfilter  # Event marketing platform, used by websites of events
 ||get.swoogo.com^
 ||serve.albacross.com^
 ||albacross.com^

@@ -3850,7 +3850,7 @@ local-zone: "path3.xtracloud.net." always_null
 local-zone: "path2.xtracloud.net." always_null
 local-zone: "path1.xtracloud.net." always_null
 local-zone: "manifest.localytics.com." always_null
-local-zone: "swoogo.com." always_null
+# allow swoogo.com reason: Event marketing platform, used by websites of events
 local-zone: "get.swoogo.com." always_null
 local-zone: "serve.albacross.com." always_null
 local-zone: "albacross.com." always_null

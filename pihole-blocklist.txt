@@ -3921,7 +3921,7 @@
 0.0.0.0 path2.xtracloud.net
 0.0.0.0 path1.xtracloud.net
 0.0.0.0 manifest.localytics.com
-0.0.0.0 swoogo.com
+! allow swoogo.com reason: Event marketing platform, used by websites of events
 0.0.0.0 get.swoogo.com
 0.0.0.0 serve.albacross.com
 0.0.0.0 albacross.com

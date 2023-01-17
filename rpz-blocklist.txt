@@ -3848,8 +3848,8 @@ path3.xtracloud.net CNAME .
 path2.xtracloud.net CNAME .
 path1.xtracloud.net CNAME .
 manifest.localytics.com CNAME .
-swoogo.com CNAME .
-get.swoogo.com CNAME .
+; allow swoogo.com reason: Event marketing platform, used by websites of events
+get.; allow swoogo.com reason: Event marketing platform, used by websites of events
 serve.albacross.com CNAME .
 albacross.com CNAME .
 milet11111.pcapredict.com CNAME .

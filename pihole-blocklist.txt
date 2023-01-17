@@ -18331,3 +18331,4 @@
 0.0.0.0 bestverticals.com
 0.0.0.0 eigenrichting.eu
 0.0.0.0 buyverticals.com
+0.0.0.0 bexcommunicatie.nl

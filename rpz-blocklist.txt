@@ -18223,3 +18223,4 @@ savba.sk CNAME .
 bestverticals.com CNAME .
 eigenrichting.eu CNAME .
 buyverticals.com CNAME .
+bexcommunicatie.nl CNAME .

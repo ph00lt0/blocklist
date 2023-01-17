@@ -18330,3 +18330,4 @@
 0.0.0.0 savba.sk
 0.0.0.0 bestverticals.com
 0.0.0.0 eigenrichting.eu
+0.0.0.0 buyverticals.com

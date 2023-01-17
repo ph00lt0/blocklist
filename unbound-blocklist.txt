@@ -18225,3 +18225,4 @@ local-zone: "internxt.com." always_null
 local-zone: "savba.sk." always_null
 local-zone: "bestverticals.com." always_null
 local-zone: "eigenrichting.eu." always_null
+local-zone: "buyverticals.com." always_null

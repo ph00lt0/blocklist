@@ -18884,3 +18884,4 @@ nuget.org###cookie-banner
 ||savba.sk^
 ||bestverticals.com^
 ||eigenrichting.eu^
+||buyverticals.com^

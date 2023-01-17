@@ -18224,3 +18224,4 @@ bestverticals.com CNAME .
 eigenrichting.eu CNAME .
 buyverticals.com CNAME .
 bexcommunicatie.nl CNAME .
+asia-fashions-wholesale.com CNAME .

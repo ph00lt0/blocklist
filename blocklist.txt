@@ -18890,3 +18890,4 @@ nuget.org###cookie-banner
 ||pieceauto-discount.com^
 ||affiliatebrand.net^
 ||bendegroot-pim.nl^
+||blackmagic.so^

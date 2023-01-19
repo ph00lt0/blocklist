@@ -18232,3 +18232,4 @@ local-zone: "pieceauto-discount.com." always_null
 local-zone: "affiliatebrand.net." always_null
 local-zone: "bendegroot-pim.nl." always_null
 local-zone: "blackmagic.so." always_null
+local-zone: "api.id.nl." always_null

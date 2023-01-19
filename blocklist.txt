@@ -18892,4 +18892,5 @@ nuget.org###cookie-banner
 ||bendegroot-pim.nl^
 ||blackmagic.so^
 id.nl##body:style(overflow: auto!important)
-id.nl##.block.w-full.h-full.p-3.bg-opacity-50.bg-gray-600.z-[900].inset-0.justify-center.items-center.flex.fixed
+id.nl##.block.w-full.fixed
+||api.id.nl^

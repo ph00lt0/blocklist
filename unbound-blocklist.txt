@@ -18234,3 +18234,4 @@ local-zone: "bendegroot-pim.nl." always_null
 local-zone: "blackmagic.so." always_null
 local-zone: "api.id.nl." always_null
 local-zone: "feiernundflair.de." always_null
+local-zone: "locale.online." always_null

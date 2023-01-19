@@ -18233,3 +18233,4 @@ local-zone: "affiliatebrand.net." always_null
 local-zone: "bendegroot-pim.nl." always_null
 local-zone: "blackmagic.so." always_null
 local-zone: "api.id.nl." always_null
+local-zone: "feiernundflair.de." always_null

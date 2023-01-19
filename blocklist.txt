@@ -18896,3 +18896,4 @@ id.nl##.block.w-full.fixed
 ||api.id.nl^
 ||feiernundflair.de^
 ||locale.online^
+||click.ru^

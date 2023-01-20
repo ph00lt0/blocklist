@@ -18898,3 +18898,4 @@ id.nl##.block.w-full.fixed
 ||locale.online^
 ||click.ru^
 ||edu.cn^
+||cs.sjtu.edu.cn^

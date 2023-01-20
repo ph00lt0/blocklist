@@ -18237,3 +18237,4 @@ local-zone: "feiernundflair.de." always_null
 local-zone: "locale.online." always_null
 local-zone: "click.ru." always_null
 local-zone: "edu.cn." always_null
+local-zone: "cs.sjtu.edu.cn." always_null

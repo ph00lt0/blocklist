@@ -18342,3 +18342,4 @@
 0.0.0.0 locale.online
 0.0.0.0 click.ru
 0.0.0.0 edu.cn
+0.0.0.0 cs.sjtu.edu.cn

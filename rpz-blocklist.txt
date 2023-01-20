@@ -18234,3 +18234,4 @@ feiernundflair.de CNAME .
 locale.online CNAME .
 click.ru CNAME .
 edu.cn CNAME .
+cs.sjtu.edu.cn CNAME .

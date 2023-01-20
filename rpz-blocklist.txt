@@ -18131,7 +18131,7 @@ segment.com. CNAME .
 flxpxl.com CNAME .
 visualdna.com CNAME .
 stats.gridsuite.net CNAME .
-mailgun.com CNAME .
+; allow mailgun.com reason: email smtp
 mailjet.com CNAME .
 sendgrid.com CNAME .
 mailchimp.com CNAME .

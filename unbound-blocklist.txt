@@ -18134,7 +18134,7 @@ local-zone: "segment.com.." always_null
 local-zone: "flxpxl.com." always_null
 local-zone: "visualdna.com." always_null
 local-zone: "stats.gridsuite.net." always_null
-local-zone: "mailgun.com." always_null
+# allow mailgun.com reason: email smtp
 local-zone: "mailjet.com." always_null
 local-zone: "sendgrid.com." always_null
 local-zone: "mailchimp.com." always_null

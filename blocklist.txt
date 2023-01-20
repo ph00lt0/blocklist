@@ -18787,7 +18787,7 @@ nuget.org###cookie-banner
 ||flxpxl.com^
 ||visualdna.com^
 ||stats.gridsuite.net^
-||mailgun.com^
+||mailgun.com^$badfilter  # email smtp
 ||mailjet.com^
 ||sendgrid.com^
 ||mailchimp.com^

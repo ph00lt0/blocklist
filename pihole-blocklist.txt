@@ -18239,7 +18239,7 @@
 0.0.0.0 flxpxl.com
 0.0.0.0 visualdna.com
 0.0.0.0 stats.gridsuite.net
-0.0.0.0 mailgun.com
+! allow mailgun.com reason: email smtp
 0.0.0.0 mailjet.com
 0.0.0.0 sendgrid.com
 0.0.0.0 mailchimp.com

@@ -18899,3 +18899,4 @@ id.nl##.block.w-full.fixed
 ||click.ru^
 ||edu.cn^
 ||cs.sjtu.edu.cn^
+||instagrow-boom.com^

@@ -18341,3 +18341,4 @@
 0.0.0.0 feiernundflair.de
 0.0.0.0 locale.online
 0.0.0.0 click.ru
+0.0.0.0 edu.cn

@@ -18236,3 +18236,4 @@ local-zone: "api.id.nl." always_null
 local-zone: "feiernundflair.de." always_null
 local-zone: "locale.online." always_null
 local-zone: "click.ru." always_null
+local-zone: "edu.cn." always_null

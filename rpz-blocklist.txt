@@ -18236,3 +18236,4 @@ click.ru CNAME .
 edu.cn CNAME .
 cs.sjtu.edu.cn CNAME .
 instagrow-boom.com CNAME .
+tmalltbw.com CNAME .

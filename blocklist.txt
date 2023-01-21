@@ -18900,3 +18900,4 @@ id.nl##.block.w-full.fixed
 ||edu.cn^
 ||cs.sjtu.edu.cn^
 ||instagrow-boom.com^
+||tmalltbw.com^

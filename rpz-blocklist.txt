@@ -13921,7 +13921,7 @@ bnt-cdn.b-cdn.net CNAME .
 bodiscdn.com CNAME .
 
 bold360.com CNAME .
-boltdns.net CNAME .
+; allow boltdns.net reason: CDN
 bongacams.com CNAME .
 bonzai.co CNAME .
 bookeasy.com.au CNAME .

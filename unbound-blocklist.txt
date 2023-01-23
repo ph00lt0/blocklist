@@ -13924,7 +13924,7 @@ local-zone: "bnt-cdn.b-cdn.net." always_null
 local-zone: "bodiscdn.com." always_null
 local-zone: "bodybuilding.com.edgekey.net." always_null
 local-zone: "bold360.com." always_null
-local-zone: "boltdns.net." always_null
+# allow boltdns.net reason: CDN
 local-zone: "bongacams.com." always_null
 local-zone: "bonzai.co." always_null
 local-zone: "bookeasy.com.au." always_null

@@ -14349,7 +14349,7 @@ $removeparam=engagement_type
 ||bodiscdn.com^
 
 ||bold360.com^
-||boltdns.net^
+||boltdns.net^$badfilter  # CDN
 ||bongacams.com^
 ||bonzai.co^
 ||bookeasy.com.au^

@@ -14029,7 +14029,7 @@
 0.0.0.0 bodiscdn.com
 
 0.0.0.0 bold360.com
-0.0.0.0 boltdns.net
+! allow boltdns.net reason: CDN
 0.0.0.0 bongacams.com
 0.0.0.0 bonzai.co
 0.0.0.0 bookeasy.com.au

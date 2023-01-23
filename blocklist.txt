@@ -18904,3 +18904,4 @@ id.nl##.block.w-full.fixed
 ||stats.sa-as.com^
 ||exp-tas.com^
 ||geoip.cookieyes.com^
+||webwinkelkeur.nl^$third-party

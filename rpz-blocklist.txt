@@ -18246,3 +18246,4 @@ minstory.beauty CNAME .
 jackpot-selections.com CNAME .
 nlaanbiedingen.nl CNAME .
 trckacbm.com CNAME .
+offerz.uk CNAME .

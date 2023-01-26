@@ -18240,3 +18240,4 @@ tmalltbw.com CNAME .
 stats.sa-as.com CNAME .
 exp-tas.com CNAME .
 geoip.cookieyes.com CNAME .
+login.gv CNAME .

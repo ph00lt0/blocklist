@@ -18243,3 +18243,4 @@ geoip.cookieyes.com CNAME .
 login.gv CNAME .
 betonlookspecialist.nl CNAME .
 minstory.beauty CNAME .
+jackpot-selections.com CNAME .

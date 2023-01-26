@@ -18907,3 +18907,4 @@ id.nl##.block.w-full.fixed
 ||webwinkelkeur.nl^$third-party
 estunt.nl##+js(aopr, document.title)
 ||login.gv^
+||betonlookspecialist.nl^

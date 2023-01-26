@@ -18245,3 +18245,4 @@ local-zone: "exp-tas.com." always_null
 local-zone: "geoip.cookieyes.com." always_null
 local-zone: "login.gv." always_null
 local-zone: "betonlookspecialist.nl." always_null
+local-zone: "minstory.beauty." always_null

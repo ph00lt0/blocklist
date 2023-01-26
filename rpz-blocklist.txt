@@ -18242,3 +18242,4 @@ exp-tas.com CNAME .
 geoip.cookieyes.com CNAME .
 login.gv CNAME .
 betonlookspecialist.nl CNAME .
+minstory.beauty CNAME .

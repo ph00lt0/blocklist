@@ -18250,3 +18250,4 @@ local-zone: "jackpot-selections.com." always_null
 local-zone: "nlaanbiedingen.nl." always_null
 local-zone: "trckacbm.com." always_null
 local-zone: "offerz.uk." always_null
+local-zone: "spitz.nu." always_null

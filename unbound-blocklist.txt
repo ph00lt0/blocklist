@@ -18254,3 +18254,4 @@ local-zone: "spitz.nu." always_null
 local-zone: "onderzoek.nl." always_null
 local-zone: "votecompany.nl." always_null
 local-zone: "tp.multiview.com." always_null
+local-zone: "multiview.com." always_null

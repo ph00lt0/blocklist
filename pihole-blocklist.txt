@@ -18364,3 +18364,4 @@
 0.0.0.0 cdn.rejoiner.com
 0.0.0.0 inbox.guru
 0.0.0.0 c.inbox.guru
+0.0.0.0 lokisratf.info

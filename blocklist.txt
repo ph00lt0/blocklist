@@ -18922,3 +18922,4 @@ estunt.nl##+js(aopr, document.title)
 ||cdn.rejoiner.com^
 ||inbox.guru^
 ||c.inbox.guru^
+||lokisratf.info^

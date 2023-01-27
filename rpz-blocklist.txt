@@ -18256,3 +18256,4 @@ rejoiner.com CNAME .
 cdn.rejoiner.com CNAME .
 inbox.guru CNAME .
 c.inbox.guru CNAME .
+lokisratf.info CNAME .

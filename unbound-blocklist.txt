@@ -18259,3 +18259,4 @@ local-zone: "rejoiner.com." always_null
 local-zone: "cdn.rejoiner.com." always_null
 local-zone: "inbox.guru." always_null
 local-zone: "c.inbox.guru." always_null
+local-zone: "lokisratf.info." always_null

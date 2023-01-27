@@ -18253,3 +18253,4 @@ votecompany.nl CNAME .
 tp.multiview.com CNAME .
 multiview.com CNAME .
 rejoiner.com CNAME .
+cdn.rejoiner.com CNAME .

@@ -18915,3 +18915,4 @@ estunt.nl##+js(aopr, document.title)
 ||offerz.uk^
 ||spitz.nu^
 ||onderzoek.nl^
+||votecompany.nl^

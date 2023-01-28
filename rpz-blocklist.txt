@@ -18263,3 +18263,4 @@ nigga.click CNAME .
 adriel.com CNAME .
 userflow.com CNAME .
 mtmo.nl CNAME .
+ads CNAME .

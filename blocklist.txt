@@ -18932,3 +18932,4 @@ estunt.nl##+js(aopr, document.title)
 ||ads^
 ||analytics^
 ||analytics.andritz.com^
+||analytics.seneca.nl^

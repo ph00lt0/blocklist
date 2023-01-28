@@ -18272,3 +18272,4 @@ local-zone: "analytics.andritz.com." always_null
 local-zone: "analytics.seneca.nl." always_null
 local-zone: "analytics.element43.ch." always_null
 local-zone: "analytics.dronepanorama.nl." always_null
+local-zone: "analytics-acc.cjib.nl." always_null

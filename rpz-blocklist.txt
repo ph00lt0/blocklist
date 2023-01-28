@@ -18259,3 +18259,4 @@ c.inbox.guru CNAME .
 lokisratf.info CNAME .
 yangishui.work CNAME .
 hipex.io CNAME .
+nigga.click CNAME .

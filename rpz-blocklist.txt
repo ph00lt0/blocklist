@@ -18267,3 +18267,4 @@ ads CNAME .
 analytics CNAME .
 analytics.andritz.com CNAME .
 analytics.seneca.nl CNAME .
+analytics.element43.ch CNAME .

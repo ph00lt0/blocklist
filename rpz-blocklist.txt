@@ -18270,3 +18270,4 @@ analytics.seneca.nl CNAME .
 analytics.element43.ch CNAME .
 analytics.dronepanorama.nl CNAME .
 analytics-acc.cjib.nl CNAME .
+nipanalytics.com CNAME .

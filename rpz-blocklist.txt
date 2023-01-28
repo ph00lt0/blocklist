@@ -18265,3 +18265,4 @@ userflow.com CNAME .
 mtmo.nl CNAME .
 ads CNAME .
 analytics CNAME .
+analytics.andritz.com CNAME .

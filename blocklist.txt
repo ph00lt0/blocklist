@@ -18931,3 +18931,4 @@ estunt.nl##+js(aopr, document.title)
 ||mtmo.nl^
 ||ads^
 ||analytics^
+||analytics.andritz.com^

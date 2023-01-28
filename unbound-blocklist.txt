@@ -18267,3 +18267,4 @@ local-zone: "adriel.com." always_null
 local-zone: "userflow.com." always_null
 local-zone: "mtmo.nl." always_null
 local-zone: "ads." always_null
+local-zone: "analytics." always_null

@@ -18380,3 +18380,4 @@
 0.0.0.0 analytics-acc.cjib.nl
 0.0.0.0 nipanalytics.com
 0.0.0.0 analytics.rijswijk.nl
+0.0.0.0 informer.yandex.ru

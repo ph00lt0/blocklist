@@ -18938,3 +18938,4 @@ estunt.nl##+js(aopr, document.title)
 ||analytics-acc.cjib.nl^
 ||nipanalytics.com^
 ||analytics.rijswijk.nl^
+||informer.yandex.ru^

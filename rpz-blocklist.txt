@@ -18272,3 +18272,4 @@ analytics.dronepanorama.nl CNAME .
 analytics-acc.cjib.nl CNAME .
 nipanalytics.com CNAME .
 analytics.rijswijk.nl CNAME .
+informer.yandex.ru CNAME .

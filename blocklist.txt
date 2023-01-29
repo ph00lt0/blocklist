@@ -18940,3 +18940,4 @@ estunt.nl##+js(aopr, document.title)
 ||analytics.rijswijk.nl^
 ||informer.yandex.ru^
 ||yandex.ru^$third-party
+||facebook.com^$third-party

@@ -18276,3 +18276,4 @@ local-zone: "analytics-acc.cjib.nl." always_null
 local-zone: "nipanalytics.com." always_null
 local-zone: "analytics.rijswijk.nl." always_null
 local-zone: "informer.yandex.ru." always_null
+local-zone: "poool.fr." always_null

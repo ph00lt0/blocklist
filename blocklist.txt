@@ -18941,3 +18941,4 @@ estunt.nl##+js(aopr, document.title)
 ||informer.yandex.ru^
 ||yandex.ru^$third-party
 ||facebook.com^$third-party
+||poool.fr^

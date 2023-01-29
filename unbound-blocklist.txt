@@ -14197,7 +14197,7 @@ local-zone: "cybba.solutions." always_null
 local-zone: "czilladx.com." always_null
 local-zone: "czx5eyk0exbhwp43ya.biz." always_null
 local-zone: "d.shared.global.fastly.net." always_null
-local-zone: "d.sni.global.fastly.net." always_null
+# allow d.sni.global.fastly.net reason: Image CDN
 local-zone: "d1011j0lbv5k1u.cloudfront.net." always_null
 local-zone: "d10hvlz45hq89f.cloudfront.net." always_null
 local-zone: "d12oh2gzettinl.cloudfront.net." always_null

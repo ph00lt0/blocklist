@@ -14194,7 +14194,7 @@ cybba.solutions CNAME .
 czilladx.com CNAME .
 czx5eyk0exbhwp43ya.biz CNAME .
 d.shared.global.fastly.net CNAME .
-d.sni.global.fastly.net CNAME .
+; allow d.sni.global.fastly.net reason: Image CDN
 d1011j0lbv5k1u.cloudfront.net CNAME .
 d10hvlz45hq89f.cloudfront.net CNAME .
 d12oh2gzettinl.cloudfront.net CNAME .

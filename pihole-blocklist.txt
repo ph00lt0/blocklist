@@ -14302,7 +14302,7 @@
 0.0.0.0 czilladx.com
 0.0.0.0 czx5eyk0exbhwp43ya.biz
 0.0.0.0 d.shared.global.fastly.net
-0.0.0.0 d.sni.global.fastly.net
+! allow d.sni.global.fastly.net reason: Image CDN
 0.0.0.0 d1011j0lbv5k1u.cloudfront.net
 0.0.0.0 d10hvlz45hq89f.cloudfront.net
 0.0.0.0 d12oh2gzettinl.cloudfront.net

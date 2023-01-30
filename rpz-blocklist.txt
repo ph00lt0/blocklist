@@ -18274,3 +18274,4 @@ nipanalytics.com CNAME .
 analytics.rijswijk.nl CNAME .
 informer.yandex.ru CNAME .
 poool.fr CNAME .
+insta-co.com CNAME .

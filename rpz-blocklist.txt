@@ -18276,3 +18276,4 @@ informer.yandex.ru CNAME .
 poool.fr CNAME .
 insta-co.com CNAME .
 fixthephoto.com CNAME .
+trackfixthephoto.one CNAME .

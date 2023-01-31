@@ -18278,3 +18278,4 @@ local-zone: "analytics.rijswijk.nl." always_null
 local-zone: "informer.yandex.ru." always_null
 local-zone: "poool.fr." always_null
 local-zone: "insta-co.com." always_null
+local-zone: "fixthephoto.com." always_null

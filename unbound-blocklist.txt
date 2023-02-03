@@ -18137,7 +18137,7 @@ local-zone: "stats.gridsuite.net." always_null
 # allow mailgun.com reason: email smtp
 local-zone: "mailjet.com." always_null
 local-zone: "sendgrid.com." always_null
-local-zone: "mailchimp.com." always_null
+# allow mailchimp.com reason: platform required
 local-zone: "postmarkapp.com." always_null
 local-zone: "mandrill.com." always_null
 local-zone: "heatmaps.me." always_null

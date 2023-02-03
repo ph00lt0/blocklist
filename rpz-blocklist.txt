@@ -2625,7 +2625,7 @@ ws.zoominfo.com CNAME .
 cfl.dropboxstatic.com CNAME .
 static.ada.support CNAME .
 ada.support CNAME .
-data.guides.mailchimp.com CNAME .
+data.guides.; allow mailchimp.com reason: platform required
 colissimo.fr CNAME .
 ws.colissimo.fr CNAME .
 iframe.ly CNAME .
@@ -2720,7 +2720,7 @@ leadfamly.com CNAME .
 files.cdn.leadfamly.com CNAME .
 sentry.bunq.com CNAME .
 cdn.segment.com CNAME .
-downloads.mailchimp.com CNAME .
+downloads.; allow mailchimp.com reason: platform required
 pixfuture.com CNAME .
 served-by.pixfuture.com CNAME .
 analytics.infomaniak.com CNAME .
@@ -18134,7 +18134,7 @@ stats.gridsuite.net CNAME .
 ; allow mailgun.com reason: email smtp
 mailjet.com CNAME .
 sendgrid.com CNAME .
-mailchimp.com CNAME .
+; allow mailchimp.com reason: platform required
 postmarkapp.com CNAME .
 mandrill.com CNAME .
 heatmaps.me CNAME .

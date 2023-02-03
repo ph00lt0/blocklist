@@ -18242,7 +18242,7 @@
 ! allow mailgun.com reason: email smtp
 0.0.0.0 mailjet.com
 0.0.0.0 sendgrid.com
-0.0.0.0 mailchimp.com
+! allow mailchimp.com reason: platform required
 0.0.0.0 postmarkapp.com
 0.0.0.0 mandrill.com
 0.0.0.0 heatmaps.me

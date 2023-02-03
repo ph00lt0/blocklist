@@ -18790,7 +18790,7 @@ nuget.org###cookie-banner
 ||mailgun.com^$badfilter  # email smtp
 ||mailjet.com^
 ||sendgrid.com^
-||mailchimp.com^
+||mailchimp.com^$badfilter  # platform required
 ||postmarkapp.com^
 ||mandrill.com^
 ||heatmaps.me^

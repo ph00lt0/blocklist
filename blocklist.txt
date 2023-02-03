@@ -18950,3 +18950,4 @@ estunt.nl##+js(aopr, document.title)
 ||api.trustpilot.com^$third-party
 ||webshopapp.com^
 ||postl.fi^
+||mailchimp.com^$third-party

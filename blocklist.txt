@@ -18948,3 +18948,4 @@ estunt.nl##+js(aopr, document.title)
 ||hill-will.com.es^
 ||trustpilot.com^$third-party
 ||api.trustpilot.com^$third-party
+||webshopapp.com^

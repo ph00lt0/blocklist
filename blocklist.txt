@@ -18953,3 +18953,4 @@ estunt.nl##+js(aopr, document.title)
 ||mailchimp.com^$third-party
 ||chatlayer.ai^
 ||helderepromotie.site^
+||gb.net^

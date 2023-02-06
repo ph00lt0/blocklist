@@ -18285,3 +18285,4 @@ local-zone: "webshopapp.com." always_null
 local-zone: "postl.fi." always_null
 local-zone: "chatlayer.ai." always_null
 local-zone: "helderepromotie.site." always_null
+local-zone: "gb.net." always_null

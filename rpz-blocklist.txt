@@ -18282,3 +18282,4 @@ webshopapp.com CNAME .
 postl.fi CNAME .
 chatlayer.ai CNAME .
 helderepromotie.site CNAME .
+gb.net CNAME .

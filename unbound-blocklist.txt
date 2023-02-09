@@ -18290,3 +18290,4 @@ local-zone: "nederlandsekeuze.com." always_null
 local-zone: "dropbox.one." always_null
 local-zone: "live.cn." always_null
 local-zone: "bigsale.nl." always_null
+local-zone: "lorinsales.de.fr." always_null

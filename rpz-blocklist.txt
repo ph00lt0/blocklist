@@ -18287,3 +18287,4 @@ nederlandsekeuze.com CNAME .
 dropbox.one CNAME .
 live.cn CNAME .
 bigsale.nl CNAME .
+lorinsales.de.fr CNAME .

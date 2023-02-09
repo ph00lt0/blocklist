@@ -18290,3 +18290,4 @@ bigsale.nl CNAME .
 lorinsales.de.fr CNAME .
 de.fr CNAME .
 chatkagagatka.pl CNAME .
+whotwi.com CNAME .

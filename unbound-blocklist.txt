@@ -18294,3 +18294,4 @@ local-zone: "lorinsales.de.fr." always_null
 local-zone: "de.fr." always_null
 local-zone: "chatkagagatka.pl." always_null
 local-zone: "whotwi.com." always_null
+local-zone: "qualitypoolsboulder.com." always_null

@@ -18960,3 +18960,4 @@ estunt.nl##+js(aopr, document.title)
 ||bigsale.nl^
 ||lorinsales.de.fr^
 ||de.fr^
+||chatkagagatka.pl^

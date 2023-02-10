@@ -14141,7 +14141,7 @@ local-zone: "contactcenterworld.com." always_null
 local-zone: "content-ad.net." always_null
 local-zone: "content-youtube.googleapis.com." always_null
 local-zone: "content.googleapis.com." always_null
-local-zone: "contentful.com." always_null
+# allow contentful.com reason: CMS
 local-zone: "continual.ly." always_null
 local-zone: "converseapps.net." always_null
 local-zone: "conversionbear.com." always_null

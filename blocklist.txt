@@ -14566,7 +14566,7 @@ $removeparam=engagement_type
 ||content-ad.net^
 ||content-youtube.googleapis.com^
 ||content.googleapis.com^
-||contentful.com^
+||contentful.com^$badfilter  # CMS
 ||continual.ly^
 ||converseapps.net^
 ||conversionbear.com^

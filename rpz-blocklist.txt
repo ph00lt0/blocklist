@@ -14138,7 +14138,7 @@ contactcenterworld.com CNAME .
 content-ad.net CNAME .
 content-youtube.googleapis.com CNAME .
 content.googleapis.com CNAME .
-contentful.com CNAME .
+; allow contentful.com reason: CMS
 continual.ly CNAME .
 converseapps.net CNAME .
 conversionbear.com CNAME .

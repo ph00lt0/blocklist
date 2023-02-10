@@ -14246,7 +14246,7 @@
 0.0.0.0 content-ad.net
 0.0.0.0 content-youtube.googleapis.com
 0.0.0.0 content.googleapis.com
-0.0.0.0 contentful.com
+! allow contentful.com reason: CMS
 0.0.0.0 continual.ly
 0.0.0.0 converseapps.net
 0.0.0.0 conversionbear.com

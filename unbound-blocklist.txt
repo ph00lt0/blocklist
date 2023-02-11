@@ -18295,3 +18295,4 @@ local-zone: "de.fr." always_null
 local-zone: "chatkagagatka.pl." always_null
 local-zone: "whotwi.com." always_null
 local-zone: "qualitypoolsboulder.com." always_null
+local-zone: "jean.live." always_null

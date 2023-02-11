@@ -18292,3 +18292,4 @@ de.fr CNAME .
 chatkagagatka.pl CNAME .
 whotwi.com CNAME .
 qualitypoolsboulder.com CNAME .
+jean.live CNAME .

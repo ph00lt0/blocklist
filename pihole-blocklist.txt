@@ -18409,3 +18409,4 @@
 0.0.0.0 log-collector.shopee.com.br
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 flash.sec.intl.miui.com

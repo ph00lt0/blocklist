@@ -18302,3 +18302,4 @@ local-zone: "brittanyday.com." always_null
 local-zone: "kycuser6996414.com." always_null
 local-zone: "sluice.ru." always_null
 local-zone: "log-collector.shopee.com.br." always_null
+local-zone: "api.sec.intl.miui.com." always_null

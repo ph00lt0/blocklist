@@ -18969,3 +18969,4 @@ estunt.nl##+js(aopr, document.title)
 ||brittanyday.com^
 ||kycuser6996414.com^
 ||sluice.ru^
+||log-collector.shopee.com.br^

@@ -18298,3 +18298,4 @@ xxx888.com CNAME .
 brittanyday.com CNAME .
 kycuser6996414.com CNAME .
 sluice.ru CNAME .
+log-collector.shopee.com.br CNAME .

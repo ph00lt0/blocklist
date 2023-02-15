@@ -18305,3 +18305,4 @@ local-zone: "log-collector.shopee.com.br." always_null
 local-zone: "api.sec.intl.miui.com." always_null
 local-zone: "authbe.sec.intl.miui.com." always_null
 local-zone: "flash.sec.intl.miui.com." always_null
+local-zone: "api.setting.intl.miui.com." always_null

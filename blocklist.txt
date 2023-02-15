@@ -18973,3 +18973,4 @@ estunt.nl##+js(aopr, document.title)
 ||api.sec.intl.miui.com^
 ||authbe.sec.intl.miui.com^
 ||flash.sec.intl.miui.com^
+||api.setting.intl.miui.com^

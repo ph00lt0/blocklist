@@ -18308,3 +18308,4 @@ local-zone: "flash.sec.intl.miui.com." always_null
 local-zone: "api.setting.intl.miui.com." always_null
 local-zone: "data.sec.intl.miui.com." always_null
 local-zone: "poperblocker.com." always_null
+local-zone: "leadmaid.com." always_null

@@ -18306,3 +18306,4 @@ api.setting.intl.miui.com CNAME .
 data.sec.intl.miui.com CNAME .
 poperblocker.com CNAME .
 leadmaid.com CNAME .
+gthub.com CNAME .

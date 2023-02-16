@@ -18414,3 +18414,4 @@
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 poperblocker.com
 0.0.0.0 leadmaid.com
+0.0.0.0 gthub.com

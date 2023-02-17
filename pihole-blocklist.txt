@@ -14708,7 +14708,7 @@
 0.0.0.0 dnlgm0m0r44nl.cloudfront.net
 0.0.0.0 dnsv1.com
 0.0.0.0 dolphin-featur-959dff-1596521323-137501366.eu-west-1.elb.amazonaws.com
-0.0.0.0 dood.video
+! allow dood.video reason: cdn
 0.0.0.0 doodcdn.co
 0.0.0.0 doodcdn.com
 0.0.0.0 doofet3znwobe.cloudfront.net

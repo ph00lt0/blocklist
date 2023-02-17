@@ -14603,7 +14603,7 @@ local-zone: "dmxleo.com." always_null
 local-zone: "dnlgm0m0r44nl.cloudfront.net." always_null
 local-zone: "dnsv1.com." always_null
 local-zone: "dolphin-featur-959dff-1596521323-137501366.eu-west-1.elb.amazonaws.com." always_null
-local-zone: "dood.video." always_null
+# allow dood.video reason: cdn
 local-zone: "doodcdn.co." always_null
 local-zone: "doodcdn.com." always_null
 local-zone: "doofet3znwobe.cloudfront.net." always_null

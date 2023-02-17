@@ -15028,7 +15028,7 @@ $removeparam=engagement_type
 ||dnlgm0m0r44nl.cloudfront.net^
 ||dnsv1.com^
 ||dolphin-featur-959dff-1596521323-137501366.eu-west-1.elb.amazonaws.com^
-||dood.video^
+||dood.video^$badfilter  # cdn
 ||doodcdn.co^
 ||doodcdn.com^
 ||doofet3znwobe.cloudfront.net^

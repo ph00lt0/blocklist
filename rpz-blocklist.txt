@@ -14600,7 +14600,7 @@ dmxleo.com CNAME .
 dnlgm0m0r44nl.cloudfront.net CNAME .
 dnsv1.com CNAME .
 dolphin-featur-959dff-1596521323-137501366.eu-west-1.elb.amazonaws.com CNAME .
-dood.video CNAME .
+; allow dood.video reason: cdn
 doodcdn.co CNAME .
 doodcdn.com CNAME .
 doofet3znwobe.cloudfront.net CNAME .

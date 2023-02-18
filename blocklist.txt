@@ -18998,3 +18998,4 @@ estunt.nl##+js(aopr, document.title)
 ||candycrushsoda.king.com^
 ||star-mini.c10r.facebook.com^
 ||wildcard.twimg.com^
+||oem.twimg.com/windows/tile.xml^

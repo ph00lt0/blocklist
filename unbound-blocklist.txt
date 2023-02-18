@@ -18322,3 +18322,4 @@ local-zone: "cy2.settings.data.microsoft.com.akadns.net." always_null
 local-zone: "location-inference-westus.cloudapp.net." always_null
 local-zone: "modern.watson.data.microsoft.com.akadns.net." always_null
 local-zone: "vortex.data.microsoft.com.akadns.net." always_null
+local-zone: "metaservices.microsoft.com." always_null

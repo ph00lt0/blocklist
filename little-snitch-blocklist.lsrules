@@ -17830,6 +17830,7 @@
         "cy2.settings.data.microsoft.com.akadns.net",
         "location-inference-westus.cloudapp.net",
         "modern.watson.data.microsoft.com.akadns.net",
-        "vortex.data.microsoft.com.akadns.net"
+        "vortex.data.microsoft.com.akadns.net",
+        "metaservices.microsoft.com"
     ]
 }

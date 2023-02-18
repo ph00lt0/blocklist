@@ -18990,3 +18990,4 @@ estunt.nl##+js(aopr, document.title)
 ||location-inference-westus.cloudapp.net^
 ||modern.watson.data.microsoft.com.akadns.net^
 ||vortex.data.microsoft.com.akadns.net^
+||metaservices.microsoft.com^

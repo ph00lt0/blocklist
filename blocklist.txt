@@ -18985,3 +18985,4 @@ estunt.nl##+js(aopr, document.title)
 ||g.msn.com.nsatc.net^
 ||*.search.msn.com^
 ||ris.api.iris.microsoft.com^
+||query.prod.cms.rt.microsoft.com^

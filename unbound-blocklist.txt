@@ -18317,3 +18317,4 @@ local-zone: "life360.com." always_null
 local-zone: "g.msn.com.nsatc.net." always_null
 local-zone: "*.search.msn.com." always_null
 local-zone: "ris.api.iris.microsoft.com." always_null
+local-zone: "query.prod.cms.rt.microsoft.com." always_null

@@ -18422,3 +18422,4 @@
 0.0.0.0 g.msn.com.nsatc.net
 0.0.0.0 *.search.msn.com
 0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 query.prod.cms.rt.microsoft.com

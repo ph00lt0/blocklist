@@ -17825,6 +17825,7 @@
         "life360.com",
         "g.msn.com.nsatc.net",
         "*.search.msn.com",
-        "ris.api.iris.microsoft.com"
+        "ris.api.iris.microsoft.com",
+        "query.prod.cms.rt.microsoft.com"
     ]
 }

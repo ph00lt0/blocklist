@@ -18311,3 +18311,4 @@ local-zone: "poperblocker.com." always_null
 local-zone: "leadmaid.com." always_null
 local-zone: "gthub.com." always_null
 local-zone: "igaccountfinder.com." always_null
+local-zone: "location.microsoft.com." always_null

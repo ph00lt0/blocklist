@@ -18979,3 +18979,4 @@ estunt.nl##+js(aopr, document.title)
 ||leadmaid.com^
 ||gthub.com^
 ||igaccountfinder.com^
+||location.microsoft.com^

@@ -18419,3 +18419,4 @@
 0.0.0.0 location.microsoft.com
 0.0.0.0 optiadsmedia.com
 0.0.0.0 life360.com
+0.0.0.0 g.msn.com.nsatc.net

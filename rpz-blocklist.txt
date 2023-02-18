@@ -18323,3 +18323,4 @@ metaservices.microsoft.com CNAME .
 metaservices.microsoft.com.akadns.net CNAME .
 bing.com/threshold/xls.aspx CNAME .
 candycrushsoda.king.com CNAME .
+star-mini.c10r.facebook.com CNAME .

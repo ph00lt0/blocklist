@@ -18326,3 +18326,4 @@ local-zone: "metaservices.microsoft.com." always_null
 local-zone: "metaservices.microsoft.com.akadns.net." always_null
 local-zone: "bing.com/threshold/xls.aspx." always_null
 local-zone: "candycrushsoda.king.com." always_null
+local-zone: "star-mini.c10r.facebook.com." always_null

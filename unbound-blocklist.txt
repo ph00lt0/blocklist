@@ -18319,3 +18319,4 @@ local-zone: "*.search.msn.com." always_null
 local-zone: "ris.api.iris.microsoft.com." always_null
 local-zone: "query.prod.cms.rt.microsoft.com." always_null
 local-zone: "cy2.settings.data.microsoft.com.akadns.net." always_null
+local-zone: "location-inference-westus.cloudapp.net." always_null

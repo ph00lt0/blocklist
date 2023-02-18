@@ -18316,3 +18316,4 @@ g.msn.com.nsatc.net CNAME .
 ris.api.iris.microsoft.com CNAME .
 query.prod.cms.rt.microsoft.com CNAME .
 cy2.settings.data.microsoft.com.akadns.net CNAME .
+location-inference-westus.cloudapp.net CNAME .

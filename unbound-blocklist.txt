@@ -18329,3 +18329,4 @@ local-zone: "candycrushsoda.king.com." always_null
 local-zone: "star-mini.c10r.facebook.com." always_null
 local-zone: "wildcard.twimg.com." always_null
 local-zone: "oem.twimg.com." always_null
+local-zone: "slickstream.com." always_null

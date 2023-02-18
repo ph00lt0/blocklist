@@ -18983,3 +18983,4 @@ estunt.nl##+js(aopr, document.title)
 ||optiadsmedia.com^
 ||life360.com^
 ||g.msn.com.nsatc.net^
+||*.search.msn.com^

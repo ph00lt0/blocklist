@@ -18312,3 +18312,4 @@ location.microsoft.com CNAME .
 optiadsmedia.com CNAME .
 life360.com CNAME .
 g.msn.com.nsatc.net CNAME .
+*.search.msn.com CNAME .

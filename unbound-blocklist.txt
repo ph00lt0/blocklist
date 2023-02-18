@@ -670,7 +670,7 @@ local-zone: "alive.github.com." always_null
 local-zone: "live.github.com." always_null
 local-zone: "githubapp.com." always_null
 local-zone: "geover.prod.do.dsp.mp.microsoft.com." always_null
-local-zone: "checkappexec.microsoft.com." always_null
+# allow checkappexec.microsoft.com reason: Defender
 # allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
 local-zone: "nexusrules.officeapps.live.com." always_null
 local-zone: "client-office365-tas.msedge.net." always_null
@@ -16630,7 +16630,7 @@ local-zone: "edge.activity.windows.com." always_null
 # allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
 local-zone: "manage.devcenter.microsoft.com." always_null
 local-zone: "settings.data.microsoft.com." always_null
-local-zone: "wdcp.microsoft.com." always_null
+# allow wdcp.microsoft.com reason: Windows Defender
 local-zone: "quickconnect.to." always_null
 local-zone: "beacons.gvt2.com." always_null
 local-zone: "services.gfe.nvidia.com." always_null

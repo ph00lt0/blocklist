@@ -669,7 +669,7 @@ alive.github.com CNAME .
 live.github.com CNAME .
 githubapp.com CNAME .
 geover.prod.do.dsp.mp.microsoft.com CNAME .
-checkappexec.microsoft.com CNAME .
+; allow checkappexec.microsoft.com reason: Defender
 ; allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
 nexusrules.officeapps.live.com CNAME .
 client-office365-tas.msedge.net CNAME .
@@ -16627,7 +16627,7 @@ edge.activity.windows.com CNAME .
 ; allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
 manage.devcenter.microsoft.com CNAME .
 settings.data.microsoft.com CNAME .
-wdcp.microsoft.com CNAME .
+; allow wdcp.microsoft.com reason: Windows Defender
 quickconnect.to CNAME .
 beacons.gvt2.com CNAME .
 services.gfe.nvidia.com CNAME .

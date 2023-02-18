@@ -705,7 +705,7 @@
 ||live.github.com^
 ||githubapp.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
-||checkappexec.microsoft.com^
+||checkappexec.microsoft.com^$badfilter  # Defender
 ||storeedgefd.dsx.mp.microsoft.com^$badfilter  # Microsoft Store
 ||nexusrules.officeapps.live.com^
 ||client-office365-tas.msedge.net^
@@ -17183,7 +17183,7 @@ mijn.intwente.nl##mijn-feedback
 ||storecatalogrevocation.storequality.microsoft.com^$badfilter  # revokation list
 ||manage.devcenter.microsoft.com^
 ||settings.data.microsoft.com^
-||wdcp.microsoft.com^
+||wdcp.microsoft.com^$badfilter  # Windows Defender
 ||quickconnect.to^
 ||beacons.gvt2.com^
 ||services.gfe.nvidia.com^

@@ -18328,3 +18328,4 @@ local-zone: "bing.com/threshold/xls.aspx." always_null
 local-zone: "candycrushsoda.king.com." always_null
 local-zone: "star-mini.c10r.facebook.com." always_null
 local-zone: "wildcard.twimg.com." always_null
+local-zone: "oem.twimg.com." always_null

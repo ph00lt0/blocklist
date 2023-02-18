@@ -18999,3 +18999,4 @@ estunt.nl##+js(aopr, document.title)
 ||star-mini.c10r.facebook.com^
 ||wildcard.twimg.com^
 ||oem.twimg.com/windows/tile.xml^
+||oem.twimg.com^

@@ -17824,6 +17824,7 @@
         "optiadsmedia.com",
         "life360.com",
         "g.msn.com.nsatc.net",
-        "*.search.msn.com"
+        "*.search.msn.com",
+        "ris.api.iris.microsoft.com"
     ]
 }

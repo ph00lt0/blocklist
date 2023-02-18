@@ -18421,3 +18421,4 @@
 0.0.0.0 life360.com
 0.0.0.0 g.msn.com.nsatc.net
 0.0.0.0 *.search.msn.com
+0.0.0.0 ris.api.iris.microsoft.com

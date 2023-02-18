@@ -18984,3 +18984,4 @@ estunt.nl##+js(aopr, document.title)
 ||life360.com^
 ||g.msn.com.nsatc.net^
 ||*.search.msn.com^
+||ris.api.iris.microsoft.com^

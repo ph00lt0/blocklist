@@ -18310,3 +18310,4 @@ gthub.com CNAME .
 igaccountfinder.com CNAME .
 location.microsoft.com CNAME .
 optiadsmedia.com CNAME .
+life360.com CNAME .

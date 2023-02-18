@@ -18313,3 +18313,4 @@ local-zone: "gthub.com." always_null
 local-zone: "igaccountfinder.com." always_null
 local-zone: "location.microsoft.com." always_null
 local-zone: "optiadsmedia.com." always_null
+local-zone: "life360.com." always_null

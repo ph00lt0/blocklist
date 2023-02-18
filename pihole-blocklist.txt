@@ -683,7 +683,7 @@
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com
 0.0.0.0 g.live.com
-0.0.0.0 displaycatalog.mp.microsoft.com
+! allow displaycatalog.mp.microsoft.com reason: MS Store
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 sa.symcb.com

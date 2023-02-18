@@ -684,7 +684,7 @@
 ||mobile.pipe.aria.microsoft.com^
 ||statsfe2.update.microsoft.com^
 ||g.live.com^
-||displaycatalog.mp.microsoft.com^
+||displaycatalog.mp.microsoft.com^$badfilter  # MS Store
 ||s.gateway.messenger.live.com^
 ||pricelist.skype.com^
 ||sa.symcb.com^

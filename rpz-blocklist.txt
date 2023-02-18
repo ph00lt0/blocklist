@@ -650,7 +650,7 @@ geover-prod.do.dsp.mp.microsoft.com CNAME .
 mobile.pipe.aria.microsoft.com CNAME .
 statsfe2.update.microsoft.com CNAME .
 g.live.com CNAME .
-displaycatalog.mp.microsoft.com CNAME .
+; allow displaycatalog.mp.microsoft.com reason: MS Store
 s.gateway.messenger.live.com CNAME .
 pricelist.skype.com CNAME .
 sa.symcb.com CNAME .

@@ -651,7 +651,7 @@ local-zone: "geover-prod.do.dsp.mp.microsoft.com." always_null
 local-zone: "mobile.pipe.aria.microsoft.com." always_null
 local-zone: "statsfe2.update.microsoft.com." always_null
 local-zone: "g.live.com." always_null
-local-zone: "displaycatalog.mp.microsoft.com." always_null
+# allow displaycatalog.mp.microsoft.com reason: MS Store
 local-zone: "s.gateway.messenger.live.com." always_null
 local-zone: "pricelist.skype.com." always_null
 local-zone: "sa.symcb.com." always_null

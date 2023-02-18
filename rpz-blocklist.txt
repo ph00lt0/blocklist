@@ -18315,3 +18315,4 @@ g.msn.com.nsatc.net CNAME .
 *.search.msn.com CNAME .
 ris.api.iris.microsoft.com CNAME .
 query.prod.cms.rt.microsoft.com CNAME .
+cy2.settings.data.microsoft.com.akadns.net CNAME .

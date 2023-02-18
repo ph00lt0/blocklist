@@ -18986,3 +18986,4 @@ estunt.nl##+js(aopr, document.title)
 ||*.search.msn.com^
 ||ris.api.iris.microsoft.com^
 ||query.prod.cms.rt.microsoft.com^
+||cy2.settings.data.microsoft.com.akadns.net^

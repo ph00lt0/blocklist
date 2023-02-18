@@ -18997,3 +18997,4 @@ estunt.nl##+js(aopr, document.title)
 ||bing.com/client^
 ||candycrushsoda.king.com^
 ||star-mini.c10r.facebook.com^
+||wildcard.twimg.com^

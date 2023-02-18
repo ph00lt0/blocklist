@@ -18318,3 +18318,4 @@ query.prod.cms.rt.microsoft.com CNAME .
 cy2.settings.data.microsoft.com.akadns.net CNAME .
 location-inference-westus.cloudapp.net CNAME .
 modern.watson.data.microsoft.com.akadns.net CNAME .
+vortex.data.microsoft.com.akadns.net CNAME .

@@ -18995,3 +18995,4 @@ estunt.nl##+js(aopr, document.title)
 ||bing.com/threshold/xls.aspx^
 ||bing.com/proactive^
 ||bing.com/client^
+||candycrushsoda.king.com^

@@ -18429,3 +18429,4 @@
 0.0.0.0 vortex.data.microsoft.com.akadns.net
 0.0.0.0 metaservices.microsoft.com
 0.0.0.0 metaservices.microsoft.com.akadns.net
+0.0.0.0 bing.com/threshold/xls.aspx

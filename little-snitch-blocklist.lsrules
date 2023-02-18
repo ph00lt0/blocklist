@@ -17832,6 +17832,7 @@
         "modern.watson.data.microsoft.com.akadns.net",
         "vortex.data.microsoft.com.akadns.net",
         "metaservices.microsoft.com",
-        "metaservices.microsoft.com.akadns.net"
+        "metaservices.microsoft.com.akadns.net",
+        "bing.com/threshold/xls.aspx"
     ]
 }

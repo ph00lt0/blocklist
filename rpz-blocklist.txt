@@ -18321,3 +18321,4 @@ modern.watson.data.microsoft.com.akadns.net CNAME .
 vortex.data.microsoft.com.akadns.net CNAME .
 metaservices.microsoft.com CNAME .
 metaservices.microsoft.com.akadns.net CNAME .
+bing.com/threshold/xls.aspx CNAME .

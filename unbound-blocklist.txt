@@ -18324,3 +18324,4 @@ local-zone: "modern.watson.data.microsoft.com.akadns.net." always_null
 local-zone: "vortex.data.microsoft.com.akadns.net." always_null
 local-zone: "metaservices.microsoft.com." always_null
 local-zone: "metaservices.microsoft.com.akadns.net." always_null
+local-zone: "bing.com/threshold/xls.aspx." always_null

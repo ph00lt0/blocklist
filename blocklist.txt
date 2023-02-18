@@ -18992,3 +18992,5 @@ estunt.nl##+js(aopr, document.title)
 ||vortex.data.microsoft.com.akadns.net^
 ||metaservices.microsoft.com^
 ||metaservices.microsoft.com.akadns.net^
+||bing.com/threshold/xls.aspx^
+||bing.com/proactive^

@@ -18347,3 +18347,4 @@ local-zone: "vulcan2.branch.io." always_null
 local-zone: "vulcan5.branch.io." always_null
 local-zone: "adv.r7.com." always_null
 local-zone: "audid-api.taobao.com." always_null
+local-zone: "adashx4ae.ut.taobao.com." always_null

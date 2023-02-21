@@ -17850,6 +17850,7 @@
         "aax-us-east-retail-direct.amazon.com",
         "sdkv2.imaginationunwired.com",
         "api.us-east-1.aiv-delivery.net",
-        "api-js.mixpanel.com"
+        "api-js.mixpanel.com",
+        "launches.appsflyer.com"
     ]
 }

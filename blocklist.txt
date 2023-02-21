@@ -19013,3 +19013,4 @@ estunt.nl##+js(aopr, document.title)
 ||sdkv2.imaginationunwired.com^
 ||api.us-east-1.aiv-delivery.net^
 ||api-js.mixpanel.com^
+||launches.appsflyer.com^

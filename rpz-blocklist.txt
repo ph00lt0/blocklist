@@ -18339,3 +18339,4 @@ aax-us-east-retail-direct.amazon.com CNAME .
 sdkv2.imaginationunwired.com CNAME .
 api.us-east-1.aiv-delivery.net CNAME .
 api-js.mixpanel.com CNAME .
+launches.appsflyer.com CNAME .

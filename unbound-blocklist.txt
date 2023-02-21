@@ -18341,3 +18341,4 @@ local-zone: "aic.cdpbeacon.lgtvcommon.com." always_null
 local-zone: "aax-us-east-retail-direct.amazon.com." always_null
 local-zone: "sdkv2.imaginationunwired.com." always_null
 local-zone: "api.us-east-1.aiv-delivery.net." always_null
+local-zone: "api-js.mixpanel.com." always_null

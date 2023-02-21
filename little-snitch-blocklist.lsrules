@@ -17858,6 +17858,7 @@
         "audid-api.taobao.com",
         "adashx4ae.ut.taobao.com",
         "abtest.alibaba.com",
-        "httpdns-sc.aliyuncs.com"
+        "httpdns-sc.aliyuncs.com",
+        "beacon-api.aliyuncs.com"
     ]
 }

@@ -18455,3 +18455,4 @@
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 httpdns-sc.aliyuncs.com
+0.0.0.0 beacon-api.aliyuncs.com

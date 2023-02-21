@@ -18439,3 +18439,4 @@
 0.0.0.0 rpi-imager-stats.raspberrypi.com
 0.0.0.0 szuskiewicz.de
 0.0.0.0 merchantfabricsbd.com
+0.0.0.0 analytics.ff.avast.com

@@ -18333,3 +18333,4 @@ local-zone: "slickstream.com." always_null
 local-zone: "announcekit.app." always_null
 local-zone: "rpi-imager-stats.raspberrypi.com." always_null
 local-zone: "szuskiewicz.de." always_null
+local-zone: "merchantfabricsbd.com." always_null

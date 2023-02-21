@@ -17857,6 +17857,7 @@
         "adv.r7.com",
         "audid-api.taobao.com",
         "adashx4ae.ut.taobao.com",
-        "abtest.alibaba.com"
+        "abtest.alibaba.com",
+        "httpdns-sc.aliyuncs.com"
     ]
 }

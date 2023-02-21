@@ -18337,3 +18337,4 @@ local-zone: "merchantfabricsbd.com." always_null
 local-zone: "analytics.ff.avast.com." always_null
 local-zone: "ipm-provider.ff.avast.com." always_null
 local-zone: "shepherd.ff.avast.com." always_null
+local-zone: "aic.cdpbeacon.lgtvcommon.com." always_null

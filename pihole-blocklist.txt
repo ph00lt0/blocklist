@@ -18442,3 +18442,4 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 aic.cdpbeacon.lgtvcommon.com

@@ -17845,6 +17845,7 @@
         "merchantfabricsbd.com",
         "analytics.ff.avast.com",
         "ipm-provider.ff.avast.com",
-        "shepherd.ff.avast.com"
+        "shepherd.ff.avast.com",
+        "aic.cdpbeacon.lgtvcommon.com"
     ]
 }

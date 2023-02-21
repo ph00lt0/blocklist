@@ -18352,3 +18352,4 @@ local-zone: "abtest.alibaba.com." always_null
 local-zone: "httpdns-sc.aliyuncs.com." always_null
 local-zone: "beacon-api.aliyuncs.com." always_null
 local-zone: "pistrboot.com." always_null
+local-zone: "joinowow.fun." always_null

@@ -18457,3 +18457,4 @@
 0.0.0.0 httpdns-sc.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 pistrboot.com
+0.0.0.0 joinowow.fun

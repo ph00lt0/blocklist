@@ -19016,3 +19016,4 @@ estunt.nl##+js(aopr, document.title)
 ||launches.appsflyer.com^
 ||vulcan2.branch.io^
 ||vulcan5.branch.io^
+||adv.r7.com^

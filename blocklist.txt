@@ -19007,3 +19007,4 @@ estunt.nl##+js(aopr, document.title)
 ||merchantfabricsbd.com^
 ||analytics.ff.avast.com^
 ||ipm-provider.ff.avast.com^
+||shepherd.ff.avast.com^

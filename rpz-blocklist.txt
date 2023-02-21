@@ -18333,3 +18333,4 @@ szuskiewicz.de CNAME .
 merchantfabricsbd.com CNAME .
 analytics.ff.avast.com CNAME .
 ipm-provider.ff.avast.com CNAME .
+shepherd.ff.avast.com CNAME .

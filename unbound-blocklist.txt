@@ -18343,3 +18343,4 @@ local-zone: "sdkv2.imaginationunwired.com." always_null
 local-zone: "api.us-east-1.aiv-delivery.net." always_null
 local-zone: "api-js.mixpanel.com." always_null
 local-zone: "launches.appsflyer.com." always_null
+local-zone: "vulcan2.branch.io." always_null

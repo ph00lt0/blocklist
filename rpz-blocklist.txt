@@ -18328,3 +18328,4 @@ wildcard.twimg.com CNAME .
 oem.twimg.com CNAME .
 slickstream.com CNAME .
 announcekit.app CNAME .
+rpi-imager-stats.raspberrypi.com CNAME .

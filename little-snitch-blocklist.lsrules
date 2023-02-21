@@ -17839,6 +17839,7 @@
         "wildcard.twimg.com",
         "oem.twimg.com",
         "slickstream.com",
-        "announcekit.app"
+        "announcekit.app",
+        "rpi-imager-stats.raspberrypi.com"
     ]
 }

@@ -19002,3 +19002,4 @@ estunt.nl##+js(aopr, document.title)
 ||oem.twimg.com^
 ||slickstream.com^
 ||announcekit.app^
+||rpi-imager-stats.raspberrypi.com^

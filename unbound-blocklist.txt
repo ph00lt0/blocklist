@@ -18331,3 +18331,4 @@ local-zone: "wildcard.twimg.com." always_null
 local-zone: "oem.twimg.com." always_null
 local-zone: "slickstream.com." always_null
 local-zone: "announcekit.app." always_null
+local-zone: "rpi-imager-stats.raspberrypi.com." always_null

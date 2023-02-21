@@ -18436,3 +18436,4 @@
 0.0.0.0 oem.twimg.com
 0.0.0.0 slickstream.com
 0.0.0.0 announcekit.app
+0.0.0.0 rpi-imager-stats.raspberrypi.com

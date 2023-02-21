@@ -18345,3 +18345,4 @@ vulcan5.branch.io CNAME .
 adv.r7.com CNAME .
 audid-api.taobao.com CNAME .
 adashx4ae.ut.taobao.com CNAME .
+abtest.alibaba.com CNAME .

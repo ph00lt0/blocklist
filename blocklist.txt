@@ -19011,3 +19011,4 @@ estunt.nl##+js(aopr, document.title)
 ||aic.cdpbeacon.lgtvcommon.com^
 ||aax-us-east-retail-direct.amazon.com^
 ||sdkv2.imaginationunwired.com^
+||api.us-east-1.aiv-delivery.net^

@@ -18336,3 +18336,4 @@ ipm-provider.ff.avast.com CNAME .
 shepherd.ff.avast.com CNAME .
 aic.cdpbeacon.lgtvcommon.com CNAME .
 aax-us-east-retail-direct.amazon.com CNAME .
+sdkv2.imaginationunwired.com CNAME .

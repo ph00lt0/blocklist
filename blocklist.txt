@@ -19006,3 +19006,4 @@ estunt.nl##+js(aopr, document.title)
 ||szuskiewicz.de^
 ||merchantfabricsbd.com^
 ||analytics.ff.avast.com^
+||ipm-provider.ff.avast.com^

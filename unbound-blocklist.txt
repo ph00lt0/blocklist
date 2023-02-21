@@ -18335,3 +18335,4 @@ local-zone: "rpi-imager-stats.raspberrypi.com." always_null
 local-zone: "szuskiewicz.de." always_null
 local-zone: "merchantfabricsbd.com." always_null
 local-zone: "analytics.ff.avast.com." always_null
+local-zone: "ipm-provider.ff.avast.com." always_null

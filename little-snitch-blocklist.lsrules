@@ -17843,6 +17843,7 @@
         "rpi-imager-stats.raspberrypi.com",
         "szuskiewicz.de",
         "merchantfabricsbd.com",
-        "analytics.ff.avast.com"
+        "analytics.ff.avast.com",
+        "ipm-provider.ff.avast.com"
     ]
 }

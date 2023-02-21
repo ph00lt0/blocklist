@@ -19009,3 +19009,4 @@ estunt.nl##+js(aopr, document.title)
 ||ipm-provider.ff.avast.com^
 ||shepherd.ff.avast.com^
 ||aic.cdpbeacon.lgtvcommon.com^
+||aax-us-east-retail-direct.amazon.com^

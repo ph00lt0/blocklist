@@ -17846,6 +17846,7 @@
         "analytics.ff.avast.com",
         "ipm-provider.ff.avast.com",
         "shepherd.ff.avast.com",
-        "aic.cdpbeacon.lgtvcommon.com"
+        "aic.cdpbeacon.lgtvcommon.com",
+        "aax-us-east-retail-direct.amazon.com"
     ]
 }

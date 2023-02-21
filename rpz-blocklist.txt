@@ -18350,3 +18350,4 @@ httpdns-sc.aliyuncs.com CNAME .
 beacon-api.aliyuncs.com CNAME .
 pistrboot.com CNAME .
 joinowow.fun CNAME .
+sentry.invoicing.co CNAME .

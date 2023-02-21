@@ -18348,3 +18348,4 @@ adashx4ae.ut.taobao.com CNAME .
 abtest.alibaba.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
 beacon-api.aliyuncs.com CNAME .
+pistrboot.com CNAME .

@@ -19022,3 +19022,4 @@ estunt.nl##+js(aopr, document.title)
 ||abtest.alibaba.com^
 ||httpdns-sc.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
+||pistrboot.com^

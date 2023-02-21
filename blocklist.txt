@@ -19015,3 +19015,4 @@ estunt.nl##+js(aopr, document.title)
 ||api-js.mixpanel.com^
 ||launches.appsflyer.com^
 ||vulcan2.branch.io^
+||vulcan5.branch.io^

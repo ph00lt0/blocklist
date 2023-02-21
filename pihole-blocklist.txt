@@ -18449,3 +18449,4 @@
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 vulcan2.branch.io
+0.0.0.0 vulcan5.branch.io

@@ -18459,3 +18459,4 @@
 0.0.0.0 pistrboot.com
 0.0.0.0 joinowow.fun
 0.0.0.0 sentry.invoicing.co
+0.0.0.0 hypeness.com.br

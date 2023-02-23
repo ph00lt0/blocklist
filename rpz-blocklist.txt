@@ -18351,3 +18351,4 @@ beacon-api.aliyuncs.com CNAME .
 pistrboot.com CNAME .
 joinowow.fun CNAME .
 sentry.invoicing.co CNAME .
+hypeness.com.br CNAME .

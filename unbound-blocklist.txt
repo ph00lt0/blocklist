@@ -18354,3 +18354,4 @@ local-zone: "beacon-api.aliyuncs.com." always_null
 local-zone: "pistrboot.com." always_null
 local-zone: "joinowow.fun." always_null
 local-zone: "sentry.invoicing.co." always_null
+local-zone: "hypeness.com.br." always_null

@@ -18355,3 +18355,4 @@ local-zone: "pistrboot.com." always_null
 local-zone: "joinowow.fun." always_null
 local-zone: "sentry.invoicing.co." always_null
 local-zone: "hypeness.com.br." always_null
+local-zone: "msg.email." always_null

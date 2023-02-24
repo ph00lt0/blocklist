@@ -18358,3 +18358,4 @@ local-zone: "hypeness.com.br." always_null
 local-zone: "msg.email." always_null
 local-zone: "adnoco.com." always_null
 local-zone: "ipsllc-usa.info." always_null
+local-zone: "device-metrics-us-2.amazon.com^." always_null

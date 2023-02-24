@@ -18463,3 +18463,4 @@
 0.0.0.0 msg.email
 0.0.0.0 adnoco.com
 0.0.0.0 ipsllc-usa.info
+0.0.0.0 device-metrics-us-2.amazon.com^

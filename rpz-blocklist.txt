@@ -18355,3 +18355,4 @@ hypeness.com.br CNAME .
 msg.email CNAME .
 adnoco.com CNAME .
 ipsllc-usa.info CNAME .
+device-metrics-us-2.amazon.com^ CNAME .

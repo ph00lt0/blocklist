@@ -18356,3 +18356,4 @@ msg.email CNAME .
 adnoco.com CNAME .
 ipsllc-usa.info CNAME .
 feedback.closealert.com CNAME .
+device-metrics-us-2.amazon.com CNAME .

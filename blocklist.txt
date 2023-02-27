@@ -19031,3 +19031,4 @@ estunt.nl##+js(aopr, document.title)
 ||ipsllc-usa.info^
 ||device-metrics-us-2.amazon.com^^
 ||feedback.closealert.com^
+^ads.min.js^

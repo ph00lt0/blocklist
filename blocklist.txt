@@ -19029,6 +19029,5 @@ estunt.nl##+js(aopr, document.title)
 ||msg.email^
 ||adnoco.com^
 ||ipsllc-usa.info^
-||device-metrics-us-2.amazon.com^^
 ||feedback.closealert.com^
 ^ads.min.js^

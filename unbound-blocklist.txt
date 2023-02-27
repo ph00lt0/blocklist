@@ -18362,3 +18362,4 @@ local-zone: "feedback.closealert.com." always_null
 local-zone: "device-metrics-us-2.amazon.com." always_null
 local-zone: "acgvip.com." always_null
 local-zone: "lbit.ly." always_null
+local-zone: "niferstall.de." always_null

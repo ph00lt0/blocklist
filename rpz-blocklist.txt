@@ -18359,3 +18359,4 @@ feedback.closealert.com CNAME .
 device-metrics-us-2.amazon.com CNAME .
 acgvip.com CNAME .
 lbit.ly CNAME .
+niferstall.de CNAME .

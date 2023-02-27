@@ -19033,3 +19033,4 @@ estunt.nl##+js(aopr, document.title)
 ^ads.min.js^
 ||device-metrics-us-2.amazon.com^
 ||acgvip.com^
+||lbit.ly^

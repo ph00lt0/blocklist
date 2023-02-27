@@ -18465,3 +18465,4 @@
 0.0.0.0 ipsllc-usa.info
 0.0.0.0 feedback.closealert.com
 0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 acgvip.com

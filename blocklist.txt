@@ -19032,3 +19032,4 @@ estunt.nl##+js(aopr, document.title)
 ||feedback.closealert.com^
 ^ads.min.js^
 ||device-metrics-us-2.amazon.com^
+||acgvip.com^

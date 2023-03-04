@@ -19032,3 +19032,4 @@ estunt.nl##+js(aopr, document.title)
 ||acgvip.com^
 ||lbit.ly^
 ||niferstall.de^
+||app.adjust.io^

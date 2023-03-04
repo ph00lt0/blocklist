@@ -18465,3 +18465,4 @@
 0.0.0.0 acgvip.com
 0.0.0.0 lbit.ly
 0.0.0.0 niferstall.de
+0.0.0.0 app.adjust.io

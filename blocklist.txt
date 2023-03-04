@@ -16266,7 +16266,6 @@ ovh.com##+js(rc, modal-backdrop, div, stay)
 ||lp-cdn.lastpass.com^
 ||odr.mookie1.com^
 ||ads.travelaudience.com^
-||api-partner.spotify.com^
 ||tracking.prd.mz.internal.unity3d.com^
 ||pixel.spotify.com^
 ||adpushup-d.openx.net^
@@ -17172,7 +17171,6 @@ mijn.intwente.nl##mijn-feedback
 ||sstats.adobe.com^
 ||ans.oobesaas.adobe.com^
 ||evoke-windowsservices-tas.msedge.net^
-||spclient.wg.spotify.com^
 ||fp.msedge.net^
 ||k-ring.msedge.net^
 ||b-ring.msedge.net^

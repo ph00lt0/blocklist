@@ -1637,7 +1637,7 @@ local-zone: "pym.nprapps.org." always_null
 local-zone: "6635101.fls.doubleclick.net." always_null
 local-zone: "pixel.ad." always_null
 local-zone: "centro.pixel.ad." always_null
-local-zone: "scdn.co." always_null
+# allow scdn.co reason: CDN spotify
 local-zone: "i.scdn.co." always_null
 local-zone: "interactive.guim.co.uk." always_null
 local-zone: "cmpv2.independent.co.uk." always_null

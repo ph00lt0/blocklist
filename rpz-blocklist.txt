@@ -1635,8 +1635,8 @@ pym.nprapps.org CNAME .
 6635101.fls.doubleclick.net CNAME .
 pixel.ad CNAME .
 centro.pixel.ad CNAME .
-scdn.co CNAME .
-i.scdn.co CNAME .
+; allow scdn.co reason: CDN spotify
+i.; allow scdn.co reason: CDN spotify
 interactive.guim.co.uk CNAME .
 cmpv2.independent.co.uk CNAME .
 dotmetrics.net CNAME .

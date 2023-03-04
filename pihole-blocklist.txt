@@ -1676,7 +1676,7 @@
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 pixel.ad
 0.0.0.0 centro.pixel.ad
-0.0.0.0 scdn.co
+! allow scdn.co reason: CDN spotify
 0.0.0.0 i.scdn.co
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 cmpv2.independent.co.uk

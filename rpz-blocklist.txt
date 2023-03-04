@@ -197,7 +197,7 @@ adsrvr.org CNAME .
 omniture.com CNAME .
 my.omniture.com CNAME .
 www5.omniture.com CNAME .
-nocookie.net CNAME .
+; allow nocookie.net reason: CDN
 vercel-insights.com CNAME .
 vitals.vercel-insights.com CNAME .
 mixpanel.com CNAME .
@@ -8517,8 +8517,6 @@ hamifans.emome.net CNAME .
 *.byteoversea.com CNAME .
 *.ibytedtos.com CNAME .
 *.ipstatp.com CNAME .
-*.jtvnw.net CNAME .
-*.ttvnw.net CNAME .
 api.viu.now.com CNAME .
 d1k2us671qcoau.cloudfront.net CNAME .
 d2anahhhmp1ffz.cloudfront.net CNAME .
@@ -8553,7 +8551,6 @@ dfp6rglgjqszk.cloudfront.net CNAME .
 *.gongm.in CNAME .
 *.io.io CNAME .
 *.ixquick.com CNAME .
-*.jtvnw.net CNAME .
 *.kat.cr CNAME .
 *.live.net CNAME .
 *.livefilestore.com CNAME .

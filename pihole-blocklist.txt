@@ -195,7 +195,7 @@
 0.0.0.0 omniture.com
 0.0.0.0 my.omniture.com
 0.0.0.0 www5.omniture.com
-0.0.0.0 nocookie.net
+! allow nocookie.net reason: CDN
 0.0.0.0 vercel-insights.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 mixpanel.com
@@ -8625,8 +8625,6 @@
 0.0.0.0 *.byteoversea.com
 0.0.0.0 *.ibytedtos.com
 0.0.0.0 *.ipstatp.com
-0.0.0.0 *.jtvnw.net
-0.0.0.0 *.ttvnw.net
 0.0.0.0 api.viu.now.com
 0.0.0.0 d1k2us671qcoau.cloudfront.net
 0.0.0.0 d2anahhhmp1ffz.cloudfront.net
@@ -8661,7 +8659,6 @@
 0.0.0.0 *.gongm.in
 0.0.0.0 *.io.io
 0.0.0.0 *.ixquick.com
-0.0.0.0 *.jtvnw.net
 0.0.0.0 *.kat.cr
 0.0.0.0 *.live.net
 0.0.0.0 *.livefilestore.com

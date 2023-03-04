@@ -196,7 +196,7 @@
 ||omniture.com^
 ||my.omniture.com^
 ||www5.omniture.com^
-||nocookie.net^
+||nocookie.net^$badfilter  # CDN
 ||vercel-insights.com^
 ||vitals.vercel-insights.com^
 ||mixpanel.com^
@@ -8913,8 +8913,6 @@ fd.nl##.fd-message
 ||*.byteoversea.com^
 ||*.ibytedtos.com^
 ||*.ipstatp.com^
-||*.jtvnw.net^
-||*.ttvnw.net^
 ||api.viu.now.com^
 ||d1k2us671qcoau.cloudfront.net^
 ||d2anahhhmp1ffz.cloudfront.net^
@@ -8950,7 +8948,6 @@ fd.nl##.fd-message
 ||*.gongm.in^
 ||*.io.io^
 ||*.ixquick.com^
-||*.jtvnw.net^
 ||*.kat.cr^
 ||*.live.net^
 ||*.livefilestore.com^

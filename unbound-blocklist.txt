@@ -18364,3 +18364,4 @@ local-zone: "app.adjust.io." always_null
 local-zone: "customerview.nl." always_null
 local-zone: "afdb.org." always_null
 local-zone: "filotropic.com." always_null
+local-zone: "fenaloa.info." always_null

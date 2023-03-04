@@ -18359,3 +18359,4 @@ lbit.ly CNAME .
 niferstall.de CNAME .
 app.adjust.io CNAME .
 customerview.nl CNAME .
+afdb.org CNAME .

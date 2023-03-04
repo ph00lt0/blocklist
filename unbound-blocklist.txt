@@ -18362,3 +18362,4 @@ local-zone: "lbit.ly." always_null
 local-zone: "niferstall.de." always_null
 local-zone: "app.adjust.io." always_null
 local-zone: "customerview.nl." always_null
+local-zone: "afdb.org." always_null

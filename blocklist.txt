@@ -1680,7 +1680,7 @@
 ||pixel.ad^
 ||centro.pixel.ad^
 ||scdn.co^$badfilter  # CDN spotify
-||i.scdn.co^
+||i.scdn.co^$badfilter  # CDN spotify images
 ||interactive.guim.co.uk^
 ||cmpv2.independent.co.uk^
 ||dotmetrics.net^

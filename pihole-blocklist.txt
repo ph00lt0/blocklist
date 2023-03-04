@@ -1677,7 +1677,7 @@
 0.0.0.0 pixel.ad
 0.0.0.0 centro.pixel.ad
 ! allow scdn.co reason: CDN spotify
-0.0.0.0 i.scdn.co
+! allow i.scdn.co reason: CDN spotify images
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 cmpv2.independent.co.uk
 0.0.0.0 dotmetrics.net

@@ -18471,3 +18471,4 @@
 0.0.0.0 filotropic.com
 0.0.0.0 fenaloa.info
 0.0.0.0 bridgetrack.com
+0.0.0.0 go2jump.org

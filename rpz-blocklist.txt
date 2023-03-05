@@ -2803,7 +2803,7 @@ goodworld.me CNAME .
 widget.zola.com CNAME .
 bbox.blackbaudhosting.com CNAME .
 d2vig74li2resi.cloudfront.net CNAME .
-a.storyblok.com CNAME .
+a.; allow storyblok.com reason: CDN
 fonts.storage.infomaniak.com CNAME .
 safetracing.infomaniak.com CNAME .
 adblock.ee  # Installs cookies and is not being updated. CNAME .
@@ -12304,8 +12304,8 @@ at-config.sensic.net CNAME .
 sensic.net CNAME .
 mpianalytics.com CNAME .
 sdk.mpianalytics.com CNAME .
-storyblok.com CNAME .
-app.storyblok.com CNAME .
+; allow storyblok.com reason: CDN
+app.; allow storyblok.com reason: CDN
 iocnt.net CNAME .
 coral.heute.at CNAME .
 px.staticfiles.at CNAME .

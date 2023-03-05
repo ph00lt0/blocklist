@@ -12412,7 +12412,7 @@
 0.0.0.0 sensic.net
 0.0.0.0 mpianalytics.com
 0.0.0.0 sdk.mpianalytics.com
-0.0.0.0 storyblok.com
+! allow storyblok.com reason: CDN
 0.0.0.0 app.storyblok.com
 0.0.0.0 iocnt.net
 0.0.0.0 coral.heute.at

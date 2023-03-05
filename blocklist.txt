@@ -12710,7 +12710,7 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||sensic.net^
 ||mpianalytics.com^
 ||sdk.mpianalytics.com^
-||storyblok.com^
+||storyblok.com^$badfilter  # CDN
 ||app.storyblok.com^
 ||iocnt.net^
 ||coral.heute.at^

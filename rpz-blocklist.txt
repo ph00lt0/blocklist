@@ -18372,3 +18372,4 @@ afs.googleusercontent.com CNAME .
 newwhatsapp.com CNAME .
 viewstalk.com CNAME .
 pointi.jp CNAME .
+anymind360.com CNAME .

@@ -17886,6 +17886,7 @@
         "familysafetyproduction.com",
         "amplitude-life360-com-207526384.us-east-1.elb.amazonaws.com",
         "bonus.ly",
-        "screencloud-apps-production.herokuapp.com"
+        "screencloud-apps-production.herokuapp.com",
+        "screencloud.auth0.com"
     ]
 }

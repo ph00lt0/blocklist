@@ -18479,3 +18479,4 @@
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 newwhatsapp.com
 0.0.0.0 viewstalk.com
+0.0.0.0 pointi.jp

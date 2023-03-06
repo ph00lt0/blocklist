@@ -19046,3 +19046,4 @@ estunt.nl##+js(aopr, document.title)
 ||afs.googleusercontent.com^
 ||newwhatsapp.com^
 ||viewstalk.com^
+||pointi.jp^

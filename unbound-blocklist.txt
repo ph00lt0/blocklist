@@ -18374,3 +18374,4 @@ local-zone: "worldaccelerator.com." always_null
 local-zone: "afs.googleusercontent.com." always_null
 local-zone: "newwhatsapp.com." always_null
 local-zone: "viewstalk.com." always_null
+local-zone: "pointi.jp." always_null

@@ -18377,3 +18377,4 @@ mejora-empresas.com CNAME .
 familysafetyproduction.com CNAME .
 amplitude-life360-com-207526384.us-east-1.elb.amazonaws.com CNAME .
 bonus.ly CNAME .
+screencloud-apps-production.herokuapp.com CNAME .

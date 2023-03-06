@@ -19055,3 +19055,4 @@ estunt.nl##+js(aopr, document.title)
 ||screencloud-apps-production.herokuapp.com^
 ||screencloud.auth0.com^
 ||biorxiv.org^
+||sinter-collect.com^

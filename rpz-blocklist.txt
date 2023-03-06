@@ -18380,3 +18380,4 @@ bonus.ly CNAME .
 screencloud-apps-production.herokuapp.com CNAME .
 screencloud.auth0.com CNAME .
 biorxiv.org CNAME .
+sinter-collect.com CNAME .

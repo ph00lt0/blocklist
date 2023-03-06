@@ -18387,3 +18387,4 @@ local-zone: "sinter-collect.com." always_null
 local-zone: "analytics.google.com." always_null
 local-zone: "bigdata-promotion.site." always_null
 local-zone: "videosorveglianzagv-vision.it." always_null
+local-zone: "thedragonsecurity.it." always_null

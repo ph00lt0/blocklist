@@ -18392,3 +18392,4 @@ local-zone: "oltreconsulenza.it." always_null
 local-zone: "kservizi.info." always_null
 local-zone: "rustichelli.com." always_null
 local-zone: "lfc-cfr.com." always_null
+local-zone: "vriendenlotterij.nl." always_null

@@ -18389,3 +18389,4 @@ local-zone: "bigdata-promotion.site." always_null
 local-zone: "videosorveglianzagv-vision.it." always_null
 local-zone: "thedragonsecurity.it." always_null
 local-zone: "oltreconsulenza.it." always_null
+local-zone: "kservizi.info." always_null

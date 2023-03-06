@@ -18382,3 +18382,4 @@ screencloud.auth0.com CNAME .
 biorxiv.org CNAME .
 sinter-collect.com CNAME .
 analytics.google.com CNAME .
+bigdata-promotion.site CNAME .

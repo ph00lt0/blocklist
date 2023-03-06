@@ -18376,3 +18376,4 @@ local-zone: "newwhatsapp.com." always_null
 local-zone: "viewstalk.com." always_null
 local-zone: "pointi.jp." always_null
 local-zone: "anymind360.com." always_null
+local-zone: "mejora-empresas.com." always_null

@@ -18384,3 +18384,4 @@ local-zone: "screencloud-apps-production.herokuapp.com." always_null
 local-zone: "screencloud.auth0.com." always_null
 local-zone: "biorxiv.org." always_null
 local-zone: "sinter-collect.com." always_null
+local-zone: "analytics.google.com." always_null

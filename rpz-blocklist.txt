@@ -18381,3 +18381,4 @@ screencloud-apps-production.herokuapp.com CNAME .
 screencloud.auth0.com CNAME .
 biorxiv.org CNAME .
 sinter-collect.com CNAME .
+analytics.google.com CNAME .

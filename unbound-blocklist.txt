@@ -18371,3 +18371,4 @@ local-zone: "cleaning-service-sloos.nl." always_null
 local-zone: "post.com." always_null
 local-zone: "tech-center.com." always_null
 local-zone: "worldaccelerator.com." always_null
+local-zone: "afs.googleusercontent.com." always_null

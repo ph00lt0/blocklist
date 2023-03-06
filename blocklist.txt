@@ -19045,3 +19045,4 @@ estunt.nl##+js(aopr, document.title)
 ||worldaccelerator.com^
 ||afs.googleusercontent.com^
 ||newwhatsapp.com^
+||viewstalk.com^

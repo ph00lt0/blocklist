@@ -18370,3 +18370,4 @@ tech-center.com CNAME .
 worldaccelerator.com CNAME .
 afs.googleusercontent.com CNAME .
 newwhatsapp.com CNAME .
+viewstalk.com CNAME .

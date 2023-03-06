@@ -19044,3 +19044,4 @@ estunt.nl##+js(aopr, document.title)
 ||tech-center.com^
 ||worldaccelerator.com^
 ||afs.googleusercontent.com^
+||newwhatsapp.com^

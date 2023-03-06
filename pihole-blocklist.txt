@@ -18477,3 +18477,4 @@
 0.0.0.0 tech-center.com
 0.0.0.0 worldaccelerator.com
 0.0.0.0 afs.googleusercontent.com
+0.0.0.0 newwhatsapp.com

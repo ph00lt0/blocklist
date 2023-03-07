@@ -19070,3 +19070,4 @@ linkedin.com##.update-components-survey
 ||abee.com.br^
 ||financier.com^
 ||hospedagemdesites.ws^
+||2su.cc^

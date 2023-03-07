@@ -18417,3 +18417,4 @@ local-zone: "fermson.com." always_null
 local-zone: "asdfghjkl.ovh." always_null
 local-zone: "lkjhgfdsa.pl." always_null
 local-zone: "muguguestbook.com." always_null
+local-zone: "card.beneficiary." always_null

@@ -18414,3 +18414,4 @@ fermson.com CNAME .
 asdfghjkl.ovh CNAME .
 lkjhgfdsa.pl CNAME .
 muguguestbook.com CNAME .
+card.beneficiary CNAME .

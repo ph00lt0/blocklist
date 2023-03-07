@@ -19094,3 +19094,4 @@ linkedin.com##.update-components-survey
 ||only.we^
 ||only.you^
 ||usa.org^
+||getopta.com^

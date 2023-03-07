@@ -19086,3 +19086,4 @@ linkedin.com##.update-components-survey
 ||scotlandmail.com^
 ||atheist.com^
 ||pacificalliancebank.com^
+||fermson.com^

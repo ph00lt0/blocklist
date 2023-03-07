@@ -19095,3 +19095,4 @@ linkedin.com##.update-components-survey
 ||only.you^
 ||usa.org^
 ||getopta.com^
+||sansprimary.com^

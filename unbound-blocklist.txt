@@ -18422,3 +18422,4 @@ local-zone: "only.we." always_null
 local-zone: "only.you." always_null
 local-zone: "usa.org." always_null
 local-zone: "getopta.com." always_null
+local-zone: "sansprimary.com." always_null

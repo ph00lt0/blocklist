@@ -18419,3 +18419,4 @@ only.we CNAME .
 only.you CNAME .
 usa.org CNAME .
 getopta.com CNAME .
+sansprimary.com CNAME .

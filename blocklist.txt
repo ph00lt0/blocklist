@@ -19089,3 +19089,4 @@ linkedin.com##.update-components-survey
 ||fermson.com^
 ||asdfghjkl.ovh^
 ||lkjhgfdsa.pl^
+||muguguestbook.com^

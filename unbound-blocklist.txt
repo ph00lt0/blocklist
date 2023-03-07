@@ -18407,3 +18407,4 @@ local-zone: "cybergal.com." always_null
 local-zone: "fastservice.com." always_null
 local-zone: "safrica.com." always_null
 local-zone: "therapist.net." always_null
+local-zone: "photographer.net." always_null

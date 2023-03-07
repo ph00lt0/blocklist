@@ -19092,3 +19092,4 @@ linkedin.com##.update-components-survey
 ||muguguestbook.com^
 ||card.beneficiary^
 ||only.we^
+||only.you^

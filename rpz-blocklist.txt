@@ -18416,3 +18416,4 @@ lkjhgfdsa.pl CNAME .
 muguguestbook.com CNAME .
 card.beneficiary CNAME .
 only.we CNAME .
+only.you CNAME .

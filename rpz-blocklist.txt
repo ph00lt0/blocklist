@@ -18397,3 +18397,4 @@ hospedagemdesites.ws CNAME .
 2su.cc CNAME .
 81box.cn CNAME .
 victory.com CNAME .
+pumaskill.com CNAME .

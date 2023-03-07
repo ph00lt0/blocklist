@@ -19072,3 +19072,4 @@ linkedin.com##.update-components-survey
 ||hospedagemdesites.ws^
 ||2su.cc^
 ||81box.cn^
+||victory.com^

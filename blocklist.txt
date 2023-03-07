@@ -19075,3 +19075,4 @@ linkedin.com##.update-components-survey
 ||victory.com^
 ||pumaskill.com^
 ||futureinterest.org^
+||bigger.com^

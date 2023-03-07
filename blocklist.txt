@@ -19078,3 +19078,4 @@ linkedin.com##.update-components-survey
 ||bigger.com^
 ||cybergal.com^
 ||fastservice.com^
+||safrica.com^

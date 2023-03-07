@@ -18400,3 +18400,4 @@ victory.com CNAME .
 pumaskill.com CNAME .
 futureinterest.org CNAME .
 bigger.com CNAME .
+cybergal.com CNAME .

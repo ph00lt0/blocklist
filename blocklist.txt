@@ -19076,3 +19076,4 @@ linkedin.com##.update-components-survey
 ||pumaskill.com^
 ||futureinterest.org^
 ||bigger.com^
+||cybergal.com^

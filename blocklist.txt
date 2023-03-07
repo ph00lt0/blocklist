@@ -19074,3 +19074,4 @@ linkedin.com##.update-components-survey
 ||81box.cn^
 ||victory.com^
 ||pumaskill.com^
+||futureinterest.org^

@@ -18401,3 +18401,4 @@ local-zone: "2su.cc." always_null
 local-zone: "81box.cn." always_null
 local-zone: "victory.com." always_null
 local-zone: "pumaskill.com." always_null
+local-zone: "futureinterest.org." always_null

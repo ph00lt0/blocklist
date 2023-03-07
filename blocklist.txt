@@ -19079,3 +19079,4 @@ linkedin.com##.update-components-survey
 ||cybergal.com^
 ||fastservice.com^
 ||safrica.com^
+||therapist.net^

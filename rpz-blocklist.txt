@@ -18403,3 +18403,4 @@ bigger.com CNAME .
 cybergal.com CNAME .
 fastservice.com CNAME .
 safrica.com CNAME .
+therapist.net CNAME .

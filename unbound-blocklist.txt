@@ -18410,3 +18410,4 @@ local-zone: "therapist.net." always_null
 local-zone: "photographer.net." always_null
 local-zone: "who.net." always_null
 local-zone: "religious.com." always_null
+local-zone: "scotlandmail.com." always_null

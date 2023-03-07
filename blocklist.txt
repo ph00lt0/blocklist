@@ -19091,3 +19091,4 @@ linkedin.com##.update-components-survey
 ||lkjhgfdsa.pl^
 ||muguguestbook.com^
 ||card.beneficiary^
+||only.we^

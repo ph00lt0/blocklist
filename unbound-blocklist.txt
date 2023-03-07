@@ -18414,3 +18414,4 @@ local-zone: "scotlandmail.com." always_null
 local-zone: "atheist.com." always_null
 local-zone: "pacificalliancebank.com." always_null
 local-zone: "fermson.com." always_null
+local-zone: "asdfghjkl.ovh." always_null

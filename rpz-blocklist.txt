@@ -14785,7 +14785,7 @@ d2brahfheou67n.cloudfront.net CNAME .
 d2d7do8qaecbru.cloudfront.net CNAME .
 d2ghehhx11czsj.cloudfront.net CNAME .
 d2gqkshisthvn1.cloudfront.net CNAME .
-d2i2wahzwrm1n5.cloudfront.net CNAME .
+; allow d2i2wahzwrm1n5.cloudfront.net reason: cdn
 d2iq7kcocq4ytp.cloudfront.net CNAME .
 d2j0vvmolb3275.cloudfront.net CNAME .
 d2oh4tlt9mrke9.cloudfront.net CNAME .

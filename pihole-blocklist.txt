@@ -14893,7 +14893,7 @@
 0.0.0.0 d2d7do8qaecbru.cloudfront.net
 0.0.0.0 d2ghehhx11czsj.cloudfront.net
 0.0.0.0 d2gqkshisthvn1.cloudfront.net
-0.0.0.0 d2i2wahzwrm1n5.cloudfront.net
+! allow d2i2wahzwrm1n5.cloudfront.net reason: cdn
 0.0.0.0 d2iq7kcocq4ytp.cloudfront.net
 0.0.0.0 d2j0vvmolb3275.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net

@@ -18725,3 +18725,14 @@
 0.0.0.0 pega.com
 0.0.0.0 crowdtwist.com
 0.0.0.0 rusmedserv.com
+0.0.0.0 streamplay.to
+0.0.0.0 vxcash.net
+0.0.0.0 nicequest.com
+0.0.0.0 91mobiles.com
+0.0.0.0 epl.paypal-communication.com
+0.0.0.0 proofpoint.com
+0.0.0.0 zmctrack.net
+0.0.0.0 localbitcoins.com
+0.0.0.0 bigmir.net
+0.0.0.0 linksynergy.com
+0.0.0.0 jango.com

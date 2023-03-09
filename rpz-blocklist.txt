@@ -18617,3 +18617,14 @@ thecounter.com CNAME .
 pega.com CNAME .
 crowdtwist.com CNAME .
 rusmedserv.com CNAME .
+streamplay.to CNAME .
+vxcash.net CNAME .
+nicequest.com CNAME .
+91mobiles.com CNAME .
+epl.paypal-communication.com CNAME .
+proofpoint.com CNAME .
+zmctrack.net CNAME .
+localbitcoins.com CNAME .
+bigmir.net CNAME .
+linksynergy.com CNAME .
+jango.com CNAME .

@@ -18620,3 +18620,14 @@ local-zone: "thecounter.com." always_null
 local-zone: "pega.com." always_null
 local-zone: "crowdtwist.com." always_null
 local-zone: "rusmedserv.com." always_null
+local-zone: "streamplay.to." always_null
+local-zone: "vxcash.net." always_null
+local-zone: "nicequest.com." always_null
+local-zone: "91mobiles.com." always_null
+local-zone: "epl.paypal-communication.com." always_null
+local-zone: "proofpoint.com." always_null
+local-zone: "zmctrack.net." always_null
+local-zone: "localbitcoins.com." always_null
+local-zone: "bigmir.net." always_null
+local-zone: "linksynergy.com." always_null
+local-zone: "jango.com." always_null

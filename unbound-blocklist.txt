@@ -18631,3 +18631,6 @@ local-zone: "localbitcoins.com." always_null
 local-zone: "bigmir.net." always_null
 local-zone: "linksynergy.com." always_null
 local-zone: "jango.com." always_null
+local-zone: "onecount.net." always_null
+local-zone: "apptimize.com." always_null
+local-zone: "olymptrade.com." always_null

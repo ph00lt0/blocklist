@@ -18628,3 +18628,6 @@ localbitcoins.com CNAME .
 bigmir.net CNAME .
 linksynergy.com CNAME .
 jango.com CNAME .
+onecount.net CNAME .
+apptimize.com CNAME .
+olymptrade.com CNAME .

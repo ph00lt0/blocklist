@@ -19304,3 +19304,6 @@ linkedin.com##.update-components-survey
 ||bigmir.net^
 ||linksynergy.com^
 ||jango.com^
+||onecount.net^
+||apptimize.com^
+||olymptrade.com^

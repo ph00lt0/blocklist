@@ -18454,3 +18454,4 @@ hellywood.ru CNAME .
 heroeswm.ru CNAME .
 onvix.tv CNAME .
 smartredirect.de CNAME .
+wipe.de CNAME .

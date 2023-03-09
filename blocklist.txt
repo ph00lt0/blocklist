@@ -19130,3 +19130,4 @@ linkedin.com##.update-components-survey
 ||heroeswm.ru^
 ||onvix.tv^
 ||smartredirect.de^
+||wipe.de^

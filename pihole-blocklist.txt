@@ -18562,3 +18562,4 @@
 0.0.0.0 heroeswm.ru
 0.0.0.0 onvix.tv
 0.0.0.0 smartredirect.de
+0.0.0.0 wipe.de

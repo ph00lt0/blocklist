@@ -18170,6 +18170,25 @@
         "help-advertisers.adsterra.com",
         "cdnbc-wup.hsbc.com.hk",
         "wup-7b4df495.santander.cl",
-        "contents*.00110.citi.com"
+        "contents*.00110.citi.com",
+        "px.a8.net",
+        "app-cdn.minepi.com",
+        "crm-cdn.peek-cloppenburg.com",
+        "c.office.com",
+        "public-cis.exponea.com",
+        "anwb.webpower.eu",
+        "eum-blue-saas.instana.io",
+        "torimochi.line-apps.com",
+        "core.crazyegg.com",
+        "app.crazyegg.com",
+        "oa.tr.line.me",
+        "stash.roistat.com",
+        "brm-core-*.brsrvr.com",
+        "affex.org",
+        "netatmo.commander1.com",
+        "vcentry3.valuecommerce.ne.jp",
+        "id.i2i.jp",
+        "thumbnail.thench.net",
+        "validate.perfdrive.com"
     ]
 }

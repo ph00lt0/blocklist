@@ -18639,3 +18639,10 @@ local-zone: "nineto5mac-d.openx.net." always_null
 local-zone: "redir.tradedoubler.com." always_null
 local-zone: "artifactory.appodeal.com." always_null
 local-zone: "cutcaptcha.com." always_null
+local-zone: "official.paymaya.com." always_null
+local-zone: "click.virt.s*.exacttarget.com." always_null
+local-zone: "a.sellpoint.net." always_null
+local-zone: "admin.dable.io." always_null
+local-zone: "cs.silverpop.com." always_null
+local-zone: "grp07.ias.rakuten.co.jp." always_null
+local-zone: "cindyholbrook.lpages.co." always_null

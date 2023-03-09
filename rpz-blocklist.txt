@@ -18636,3 +18636,10 @@ nineto5mac-d.openx.net CNAME .
 redir.tradedoubler.com CNAME .
 artifactory.appodeal.com CNAME .
 cutcaptcha.com CNAME .
+official.paymaya.com CNAME .
+click.virt.s*.exacttarget.com CNAME .
+a.sellpoint.net CNAME .
+admin.dable.io CNAME .
+cs.silverpop.com CNAME .
+grp07.ias.rakuten.co.jp CNAME .
+cindyholbrook.lpages.co CNAME .

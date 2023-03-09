@@ -18744,3 +18744,10 @@
 0.0.0.0 redir.tradedoubler.com
 0.0.0.0 artifactory.appodeal.com
 0.0.0.0 cutcaptcha.com
+0.0.0.0 official.paymaya.com
+0.0.0.0 click.virt.s*.exacttarget.com
+0.0.0.0 a.sellpoint.net
+0.0.0.0 admin.dable.io
+0.0.0.0 cs.silverpop.com
+0.0.0.0 grp07.ias.rakuten.co.jp
+0.0.0.0 cindyholbrook.lpages.co

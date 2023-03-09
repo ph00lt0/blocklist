@@ -18654,3 +18654,12 @@ ma135-r.analytics.edgekey.net CNAME .
 classliving.lpages.co CNAME .
 home.focusatwill.com CNAME .
 ac.ebis.ne.jp CNAME .
+r.sascdn.com CNAME .
+publishers.adsterra.com CNAME .
+beta.publishers.adsterra.com CNAME .
+beta.partners.adsterra.com CNAME .
+beta.affiliates.adsterra.com CNAME .
+help-advertisers.adsterra.com CNAME .
+cdnbc-wup.hsbc.com.hk CNAME .
+wup-7b4df495.santander.cl CNAME .
+contents*.00110.citi.com CNAME .

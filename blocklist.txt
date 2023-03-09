@@ -19330,3 +19330,12 @@ linkedin.com##.update-components-survey
 ||classliving.lpages.co^
 ||home.focusatwill.com^
 ||ac.ebis.ne.jp^
+||r.sascdn.com^
+||publishers.adsterra.com^
+||beta.publishers.adsterra.com^
+||beta.partners.adsterra.com^
+||beta.affiliates.adsterra.com^
+||help-advertisers.adsterra.com^
+||cdnbc-wup.hsbc.com.hk^
+||wup-7b4df495.santander.cl^
+||contents*.00110.citi.com^

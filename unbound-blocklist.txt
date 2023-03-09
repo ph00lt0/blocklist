@@ -18657,3 +18657,12 @@ local-zone: "79423.analytics.edgekey.net." always_null
 local-zone: "classliving.lpages.co." always_null
 local-zone: "home.focusatwill.com." always_null
 local-zone: "ac.ebis.ne.jp." always_null
+local-zone: "r.sascdn.com." always_null
+local-zone: "publishers.adsterra.com." always_null
+local-zone: "beta.publishers.adsterra.com." always_null
+local-zone: "beta.partners.adsterra.com." always_null
+local-zone: "beta.affiliates.adsterra.com." always_null
+local-zone: "help-advertisers.adsterra.com." always_null
+local-zone: "cdnbc-wup.hsbc.com.hk." always_null
+local-zone: "wup-7b4df495.santander.cl." always_null
+local-zone: "contents*.00110.citi.com." always_null

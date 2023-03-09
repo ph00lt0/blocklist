@@ -18762,3 +18762,12 @@
 0.0.0.0 classliving.lpages.co
 0.0.0.0 home.focusatwill.com
 0.0.0.0 ac.ebis.ne.jp
+0.0.0.0 r.sascdn.com
+0.0.0.0 publishers.adsterra.com
+0.0.0.0 beta.publishers.adsterra.com
+0.0.0.0 beta.partners.adsterra.com
+0.0.0.0 beta.affiliates.adsterra.com
+0.0.0.0 help-advertisers.adsterra.com
+0.0.0.0 cdnbc-wup.hsbc.com.hk
+0.0.0.0 wup-7b4df495.santander.cl
+0.0.0.0 contents*.00110.citi.com

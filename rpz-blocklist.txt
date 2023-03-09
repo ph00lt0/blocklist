@@ -18634,3 +18634,5 @@ olymptrade.com CNAME .
 a.adwolf.ru CNAME .
 nineto5mac-d.openx.net CNAME .
 redir.tradedoubler.com CNAME .
+artifactory.appodeal.com CNAME .
+cutcaptcha.com CNAME .

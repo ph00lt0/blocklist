@@ -18742,3 +18742,5 @@
 0.0.0.0 a.adwolf.ru
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 redir.tradedoubler.com
+0.0.0.0 artifactory.appodeal.com
+0.0.0.0 cutcaptcha.com

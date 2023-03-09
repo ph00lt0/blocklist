@@ -18637,3 +18637,5 @@ local-zone: "olymptrade.com." always_null
 local-zone: "a.adwolf.ru." always_null
 local-zone: "nineto5mac-d.openx.net." always_null
 local-zone: "redir.tradedoubler.com." always_null
+local-zone: "artifactory.appodeal.com." always_null
+local-zone: "cutcaptcha.com." always_null

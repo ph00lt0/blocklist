@@ -18427,3 +18427,14 @@ appsflyer-report.honkaiimpact3.com CNAME .
 24smi.info CNAME .
 beanstock.com CNAME .
 nsi.activity.api.bbc.co.uk CNAME .
+ksmobile.net CNAME .
+georiot.com CNAME .
+ospserver.net CNAME .
+analytics.podtrac.com CNAME .
+gate.hockeyapp.net CNAME .
+v3cdn.net CNAME .
+bnc.lt CNAME .
+g17media.com CNAME .
+alipromo.com CNAME .
+dw.cbsi.com CNAME .
+r.mail.ru CNAME .

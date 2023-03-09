@@ -18430,3 +18430,14 @@ local-zone: "appsflyer-report.honkaiimpact3.com." always_null
 local-zone: "24smi.info." always_null
 local-zone: "beanstock.com." always_null
 local-zone: "nsi.activity.api.bbc.co.uk." always_null
+local-zone: "ksmobile.net." always_null
+local-zone: "georiot.com." always_null
+local-zone: "ospserver.net." always_null
+local-zone: "analytics.podtrac.com." always_null
+local-zone: "gate.hockeyapp.net." always_null
+local-zone: "v3cdn.net." always_null
+local-zone: "bnc.lt." always_null
+local-zone: "g17media.com." always_null
+local-zone: "alipromo.com." always_null
+local-zone: "dw.cbsi.com." always_null
+local-zone: "r.mail.ru." always_null

@@ -18535,3 +18535,14 @@
 0.0.0.0 24smi.info
 0.0.0.0 beanstock.com
 0.0.0.0 nsi.activity.api.bbc.co.uk
+0.0.0.0 ksmobile.net
+0.0.0.0 georiot.com
+0.0.0.0 ospserver.net
+0.0.0.0 analytics.podtrac.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 v3cdn.net
+0.0.0.0 bnc.lt
+0.0.0.0 g17media.com
+0.0.0.0 alipromo.com
+0.0.0.0 dw.cbsi.com
+0.0.0.0 r.mail.ru

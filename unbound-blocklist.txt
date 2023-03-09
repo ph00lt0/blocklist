@@ -18428,3 +18428,4 @@ local-zone: "plausible.safing.io." always_null
 local-zone: "wpa.b.qq.com." always_null
 local-zone: "appsflyer-report.honkaiimpact3.com." always_null
 local-zone: "24smi.info." always_null
+local-zone: "beanstock.com." always_null

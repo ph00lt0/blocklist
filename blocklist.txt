@@ -19101,3 +19101,4 @@ linkedin.com##.update-components-survey
 ||wpa.b.qq.com^
 ||appsflyer-report.honkaiimpact3.com^
 ||24smi.info^
+||beanstock.com^

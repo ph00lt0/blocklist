@@ -18530,3 +18530,4 @@
 0.0.0.0 sansprimary.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 plausible.safing.io
+0.0.0.0 wpa.b.qq.com

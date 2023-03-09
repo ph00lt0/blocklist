@@ -18425,3 +18425,4 @@ local-zone: "getopta.com." always_null
 local-zone: "sansprimary.com." always_null
 local-zone: "self.events.data.microsoft.com." always_null
 local-zone: "plausible.safing.io." always_null
+local-zone: "wpa.b.qq.com." always_null

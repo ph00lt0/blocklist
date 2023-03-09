@@ -19098,3 +19098,4 @@ linkedin.com##.update-components-survey
 ||sansprimary.com^
 ||self.events.data.microsoft.com^
 ||plausible.safing.io^
+||wpa.b.qq.com^

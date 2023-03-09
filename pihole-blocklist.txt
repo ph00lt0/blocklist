@@ -18531,3 +18531,4 @@
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 plausible.safing.io
 0.0.0.0 wpa.b.qq.com
+0.0.0.0 appsflyer-report.honkaiimpact3.com

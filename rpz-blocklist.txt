@@ -18631,3 +18631,6 @@ jango.com CNAME .
 onecount.net CNAME .
 apptimize.com CNAME .
 olymptrade.com CNAME .
+a.adwolf.ru CNAME .
+nineto5mac-d.openx.net CNAME .
+redir.tradedoubler.com CNAME .

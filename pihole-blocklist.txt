@@ -18739,3 +18739,6 @@
 0.0.0.0 onecount.net
 0.0.0.0 apptimize.com
 0.0.0.0 olymptrade.com
+0.0.0.0 a.adwolf.ru
+0.0.0.0 nineto5mac-d.openx.net
+0.0.0.0 redir.tradedoubler.com

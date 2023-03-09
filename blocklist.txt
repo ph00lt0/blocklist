@@ -19097,3 +19097,4 @@ linkedin.com##.update-components-survey
 ||getopta.com^
 ||sansprimary.com^
 ||self.events.data.microsoft.com^
+||plausible.safing.io^

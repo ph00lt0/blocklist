@@ -18421,3 +18421,4 @@ usa.org CNAME .
 getopta.com CNAME .
 sansprimary.com CNAME .
 self.events.data.microsoft.com CNAME .
+plausible.safing.io CNAME .

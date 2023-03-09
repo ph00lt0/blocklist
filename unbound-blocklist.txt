@@ -18498,3 +18498,13 @@ local-zone: "anura.io." always_null
 local-zone: "fireworkapi.com." always_null
 local-zone: "fireworktv.com." always_null
 local-zone: "adcr.naver.com." always_null
+local-zone: "coralogix.com." always_null
+local-zone: "tollfreeforwarding.com." always_null
+local-zone: "fastly-analytics.com." always_null
+local-zone: "ipdata.co." always_null
+local-zone: "remind.me." always_null
+local-zone: "d231vab146qzfb.cloudfront.net." always_null
+local-zone: "threatbook.cn." always_null
+local-zone: "productsup.com." always_null
+local-zone: "micpn.com." always_null
+local-zone: "kqzyfj.com." always_null

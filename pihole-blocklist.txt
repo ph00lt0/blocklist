@@ -18603,3 +18603,13 @@
 0.0.0.0 fireworkapi.com
 0.0.0.0 fireworktv.com
 0.0.0.0 adcr.naver.com
+0.0.0.0 coralogix.com
+0.0.0.0 tollfreeforwarding.com
+0.0.0.0 fastly-analytics.com
+0.0.0.0 ipdata.co
+0.0.0.0 remind.me
+0.0.0.0 d231vab146qzfb.cloudfront.net
+0.0.0.0 threatbook.cn
+0.0.0.0 productsup.com
+0.0.0.0 micpn.com
+0.0.0.0 kqzyfj.com

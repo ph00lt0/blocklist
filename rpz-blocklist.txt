@@ -18495,3 +18495,13 @@ anura.io CNAME .
 fireworkapi.com CNAME .
 fireworktv.com CNAME .
 adcr.naver.com CNAME .
+coralogix.com CNAME .
+tollfreeforwarding.com CNAME .
+fastly-analytics.com CNAME .
+ipdata.co CNAME .
+remind.me CNAME .
+d231vab146qzfb.cloudfront.net CNAME .
+threatbook.cn CNAME .
+productsup.com CNAME .
+micpn.com CNAME .
+kqzyfj.com CNAME .

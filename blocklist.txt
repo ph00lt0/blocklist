@@ -19171,3 +19171,13 @@ linkedin.com##.update-components-survey
 ||fireworkapi.com^
 ||fireworktv.com^
 ||adcr.naver.com^
+||coralogix.com^
+||tollfreeforwarding.com^
+||fastly-analytics.com^
+||ipdata.co^
+||remind.me^
+||d231vab146qzfb.cloudfront.net^
+||threatbook.cn^
+||productsup.com^
+||micpn.com^
+||kqzyfj.com^

@@ -18449,3 +18449,4 @@ local-zone: "0fmm.com." always_null
 local-zone: "0mme.com." always_null
 local-zone: "1enm.com." always_null
 local-zone: "rpts.org." always_null
+local-zone: "freegeoip.net." always_null

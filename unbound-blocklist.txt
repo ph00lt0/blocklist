@@ -18450,3 +18450,10 @@ local-zone: "0mme.com." always_null
 local-zone: "1enm.com." always_null
 local-zone: "rpts.org." always_null
 local-zone: "freegeoip.net." always_null
+local-zone: "piguiqproxy.com." always_null
+local-zone: "amgload.net." always_null
+local-zone: "neobux.com." always_null
+local-zone: "hellywood.ru." always_null
+local-zone: "heroeswm.ru." always_null
+local-zone: "onvix.tv." always_null
+local-zone: "smartredirect.de." always_null

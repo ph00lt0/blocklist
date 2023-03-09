@@ -18447,3 +18447,10 @@ smartmediarep.com CNAME .
 1enm.com CNAME .
 rpts.org CNAME .
 freegeoip.net CNAME .
+piguiqproxy.com CNAME .
+amgload.net CNAME .
+neobux.com CNAME .
+hellywood.ru CNAME .
+heroeswm.ru CNAME .
+onvix.tv CNAME .
+smartredirect.de CNAME .

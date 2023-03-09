@@ -18555,3 +18555,10 @@
 0.0.0.0 1enm.com
 0.0.0.0 rpts.org
 0.0.0.0 freegeoip.net
+0.0.0.0 piguiqproxy.com
+0.0.0.0 amgload.net
+0.0.0.0 neobux.com
+0.0.0.0 hellywood.ru
+0.0.0.0 heroeswm.ru
+0.0.0.0 onvix.tv
+0.0.0.0 smartredirect.de

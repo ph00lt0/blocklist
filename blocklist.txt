@@ -19123,3 +19123,10 @@ linkedin.com##.update-components-survey
 ||1enm.com^
 ||rpts.org^
 ||freegeoip.net^
+||piguiqproxy.com^
+||amgload.net^
+||neobux.com^
+||hellywood.ru^
+||heroeswm.ru^
+||onvix.tv^
+||smartredirect.de^

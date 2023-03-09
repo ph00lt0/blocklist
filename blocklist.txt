@@ -19096,3 +19096,4 @@ linkedin.com##.update-components-survey
 ||usa.org^
 ||getopta.com^
 ||sansprimary.com^
+||self.events.data.microsoft.com^

@@ -19255,3 +19255,4 @@ linkedin.com##.update-components-survey
 ||pladform.ru^
 ||tmearn.com^
 ||emjcd.com^
+||forexprostools.com^

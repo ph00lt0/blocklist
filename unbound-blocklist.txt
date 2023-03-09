@@ -18646,3 +18646,8 @@ local-zone: "admin.dable.io." always_null
 local-zone: "cs.silverpop.com." always_null
 local-zone: "grp07.ias.rakuten.co.jp." always_null
 local-zone: "cindyholbrook.lpages.co." always_null
+local-zone: "cloud.notification-naviextras.com." always_null
+local-zone: "cdn.rozetka.com.ua." always_null
+local-zone: "hb.afl.rakuten.co.jp." always_null
+local-zone: "pt.afl.rakuten.co.jp." always_null
+local-zone: "proto2ad.durasite.net." always_null

@@ -18751,3 +18751,8 @@
 0.0.0.0 cs.silverpop.com
 0.0.0.0 grp07.ias.rakuten.co.jp
 0.0.0.0 cindyholbrook.lpages.co
+0.0.0.0 cloud.notification-naviextras.com
+0.0.0.0 cdn.rozetka.com.ua
+0.0.0.0 hb.afl.rakuten.co.jp
+0.0.0.0 pt.afl.rakuten.co.jp
+0.0.0.0 proto2ad.durasite.net

@@ -18651,3 +18651,9 @@ local-zone: "cdn.rozetka.com.ua." always_null
 local-zone: "hb.afl.rakuten.co.jp." always_null
 local-zone: "pt.afl.rakuten.co.jp." always_null
 local-zone: "proto2ad.durasite.net." always_null
+local-zone: "citiintl.122.2o7.net." always_null
+local-zone: "ma135-r.analytics.edgekey.net." always_null
+local-zone: "79423.analytics.edgekey.net." always_null
+local-zone: "classliving.lpages.co." always_null
+local-zone: "home.focusatwill.com." always_null
+local-zone: "ac.ebis.ne.jp." always_null

@@ -18648,3 +18648,9 @@ cdn.rozetka.com.ua CNAME .
 hb.afl.rakuten.co.jp CNAME .
 pt.afl.rakuten.co.jp CNAME .
 proto2ad.durasite.net CNAME .
+citiintl.122.2o7.net CNAME .
+ma135-r.analytics.edgekey.net CNAME .
+79423.analytics.edgekey.net CNAME .
+classliving.lpages.co CNAME .
+home.focusatwill.com CNAME .
+ac.ebis.ne.jp CNAME .

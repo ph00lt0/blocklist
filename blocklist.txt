@@ -19115,3 +19115,10 @@ linkedin.com##.update-components-survey
 ||dw.cbsi.com^
 ||r.mail.ru^
 ||eboundservices.com^
+||hxtrack.com^
+||smartmediarep.com^
+||0emn.com^
+||0fmm.com^
+||0mme.com^
+||1enm.com^
+||rpts.org^

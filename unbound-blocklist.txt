@@ -18442,3 +18442,10 @@ local-zone: "alipromo.com." always_null
 local-zone: "dw.cbsi.com." always_null
 local-zone: "r.mail.ru." always_null
 local-zone: "eboundservices.com." always_null
+local-zone: "hxtrack.com." always_null
+local-zone: "smartmediarep.com." always_null
+local-zone: "0emn.com." always_null
+local-zone: "0fmm.com." always_null
+local-zone: "0mme.com." always_null
+local-zone: "1enm.com." always_null
+local-zone: "rpts.org." always_null

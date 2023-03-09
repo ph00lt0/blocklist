@@ -18439,3 +18439,10 @@ alipromo.com CNAME .
 dw.cbsi.com CNAME .
 r.mail.ru CNAME .
 eboundservices.com CNAME .
+hxtrack.com CNAME .
+smartmediarep.com CNAME .
+0emn.com CNAME .
+0fmm.com CNAME .
+0mme.com CNAME .
+1enm.com CNAME .
+rpts.org CNAME .

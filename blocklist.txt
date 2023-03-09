@@ -19102,3 +19102,4 @@ linkedin.com##.update-components-survey
 ||appsflyer-report.honkaiimpact3.com^
 ||24smi.info^
 ||beanstock.com^
+||nsi.activity.api.bbc.co.uk^

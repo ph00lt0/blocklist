@@ -18647,3 +18647,4 @@
 0.0.0.0 tracking.magnetmail.net
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 datafront.co
+0.0.0.0 clck.yandex.ru

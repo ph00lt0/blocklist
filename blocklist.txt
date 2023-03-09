@@ -19215,3 +19215,4 @@ linkedin.com##.update-components-survey
 ||tracking.magnetmail.net^
 ||adc.api.nine.com.au^
 ||datafront.co^
+||clck.yandex.ru^

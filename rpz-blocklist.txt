@@ -18539,3 +18539,4 @@ trafficmanager.net CNAME .
 tracking.magnetmail.net CNAME .
 adc.api.nine.com.au CNAME .
 datafront.co CNAME .
+clck.yandex.ru CNAME .

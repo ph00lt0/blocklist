@@ -18542,3 +18542,4 @@ local-zone: "trafficmanager.net." always_null
 local-zone: "tracking.magnetmail.net." always_null
 local-zone: "adc.api.nine.com.au." always_null
 local-zone: "datafront.co." always_null
+local-zone: "clck.yandex.ru." always_null

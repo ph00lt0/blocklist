@@ -18455,3 +18455,13 @@ heroeswm.ru CNAME .
 onvix.tv CNAME .
 smartredirect.de CNAME .
 wipe.de CNAME .
+comagic.ru CNAME .
+estream.to CNAME .
+statuscake.com CNAME .
+impact-ad.jp CNAME .
+webclicks24.com CNAME .
+loader.adrelayer.com CNAME .
+ssp.rambler.ru CNAME .
+rtoaster.jp CNAME .
+seosprint.net CNAME .
+eroterest.net CNAME .

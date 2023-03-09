@@ -18458,3 +18458,13 @@ local-zone: "heroeswm.ru." always_null
 local-zone: "onvix.tv." always_null
 local-zone: "smartredirect.de." always_null
 local-zone: "wipe.de." always_null
+local-zone: "comagic.ru." always_null
+local-zone: "estream.to." always_null
+local-zone: "statuscake.com." always_null
+local-zone: "impact-ad.jp." always_null
+local-zone: "webclicks24.com." always_null
+local-zone: "loader.adrelayer.com." always_null
+local-zone: "ssp.rambler.ru." always_null
+local-zone: "rtoaster.jp." always_null
+local-zone: "seosprint.net." always_null
+local-zone: "eroterest.net." always_null

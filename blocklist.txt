@@ -19131,3 +19131,13 @@ linkedin.com##.update-components-survey
 ||onvix.tv^
 ||smartredirect.de^
 ||wipe.de^
+||comagic.ru^
+||estream.to^
+||statuscake.com^
+||impact-ad.jp^
+||webclicks24.com^
+||loader.adrelayer.com^
+||ssp.rambler.ru^
+||rtoaster.jp^
+||seosprint.net^
+||eroterest.net^

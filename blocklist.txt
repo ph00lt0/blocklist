@@ -16199,6 +16199,7 @@ $removeparam=af_adset
 ||cb.run^
 ||w3-reporting.reddit.com^
 @@fingerprinted*.js$domain=js.stripe.com ## Required for stripe to load
+@@||js.stripe.com/v3/fingerprinted/js/*$script,domain=js.stripe.com # Required for stripe to load
 ||clicks.careerbits.com^
 ||go.sentinelone.com^
 ||res-geo.cdn.office.net^

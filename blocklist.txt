@@ -19366,3 +19366,4 @@ linkedin.com##.update-components-survey
 ||saintbonnetdemure.com^
 ||saintfrancoislongchamp.com^
 ||labellemontagne.com^
+||idfuse.fr^

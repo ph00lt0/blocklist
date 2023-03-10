@@ -19359,3 +19359,4 @@ linkedin.com##.update-components-survey
 ||thumbnail.thench.net^
 ||validate.perfdrive.com^
 ||viteezy.nl^
+||lucovitaal.nl^

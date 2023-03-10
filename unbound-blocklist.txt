@@ -18686,3 +18686,4 @@ local-zone: "id.i2i.jp." always_null
 local-zone: "thumbnail.thench.net." always_null
 local-zone: "validate.perfdrive.com." always_null
 local-zone: "viteezy.nl." always_null
+local-zone: "lucovitaal.nl." always_null

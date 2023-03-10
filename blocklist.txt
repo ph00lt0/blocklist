@@ -19365,3 +19365,4 @@ linkedin.com##.update-components-survey
 ||vitaminesperpost.nl^
 ||saintbonnetdemure.com^
 ||saintfrancoislongchamp.com^
+||labellemontagne.com^

@@ -18689,3 +18689,4 @@ vitaminstore.nl CNAME .
 vitaminesperpost.nl CNAME .
 saintbonnetdemure.com CNAME .
 saintfrancoislongchamp.com CNAME .
+labellemontagne.com CNAME .

@@ -18692,3 +18692,4 @@ local-zone: "vitaminstore.nl." always_null
 local-zone: "vitaminesperpost.nl." always_null
 local-zone: "saintbonnetdemure.com." always_null
 local-zone: "saintfrancoislongchamp.com." always_null
+local-zone: "labellemontagne.com." always_null

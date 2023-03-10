@@ -19364,3 +19364,4 @@ linkedin.com##.update-components-survey
 ||vitaminstore.nl^
 ||vitaminesperpost.nl^
 ||saintbonnetdemure.com^
+||saintfrancoislongchamp.com^

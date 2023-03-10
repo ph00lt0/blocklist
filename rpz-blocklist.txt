@@ -18688,3 +18688,4 @@ flinndal.nl CNAME .
 vitaminstore.nl CNAME .
 vitaminesperpost.nl CNAME .
 saintbonnetdemure.com CNAME .
+saintfrancoislongchamp.com CNAME .

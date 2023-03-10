@@ -7323,6 +7323,7 @@ armemberplugin.com##.social-share-icons-list
 ||api.usercentrics.eu^
 ^*/usercentrics/*.js^
 ^*/fingerprint*.js^
+@@||js.stripe.com/v3/fingerprinted/js/* # Required for stripe to load
 ||abnamro.nl/nl/retail/pr/static/aab-analytics-event-handler/*/aab-analytics-event-handler.js^
 ||abnamro.nl/nl/retail/pr/static/aab-vendor/analytics/deq/aab-analytics-body.js^
 ^piwik-*.js^
@@ -16198,8 +16199,6 @@ $removeparam=af_adset
 ||cb.click^
 ||cb.run^
 ||w3-reporting.reddit.com^
-@@fingerprinted*.js$domain=js.stripe.com ## Required for stripe to load
-@@||js.stripe.com/v3/fingerprinted/js/*$script,domain=js.stripe.com # Required for stripe to load
 ||clicks.careerbits.com^
 ||go.sentinelone.com^
 ||res-geo.cdn.office.net^

@@ -18687,3 +18687,4 @@ lucovitaal.nl CNAME .
 flinndal.nl CNAME .
 vitaminstore.nl CNAME .
 vitaminesperpost.nl CNAME .
+saintbonnetdemure.com CNAME .

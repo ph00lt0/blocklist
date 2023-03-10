@@ -19363,3 +19363,4 @@ linkedin.com##.update-components-survey
 ||flinndal.nl^
 ||vitaminstore.nl^
 ||vitaminesperpost.nl^
+||saintbonnetdemure.com^

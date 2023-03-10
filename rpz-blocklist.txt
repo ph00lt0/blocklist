@@ -18682,3 +18682,4 @@ vcentry3.valuecommerce.ne.jp CNAME .
 id.i2i.jp CNAME .
 thumbnail.thench.net CNAME .
 validate.perfdrive.com CNAME .
+viteezy.nl CNAME .

@@ -19362,3 +19362,4 @@ linkedin.com##.update-components-survey
 ||lucovitaal.nl^
 ||flinndal.nl^
 ||vitaminstore.nl^
+||vitaminesperpost.nl^

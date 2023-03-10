@@ -18686,3 +18686,4 @@ viteezy.nl CNAME .
 lucovitaal.nl CNAME .
 flinndal.nl CNAME .
 vitaminstore.nl CNAME .
+vitaminesperpost.nl CNAME .

@@ -19367,3 +19367,4 @@ linkedin.com##.update-components-survey
 ||saintfrancoislongchamp.com^
 ||labellemontagne.com^
 ||idfuse.fr^
+||astrokam.com^

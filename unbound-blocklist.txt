@@ -18694,3 +18694,4 @@ local-zone: "saintbonnetdemure.com." always_null
 local-zone: "saintfrancoislongchamp.com." always_null
 local-zone: "labellemontagne.com." always_null
 local-zone: "idfuse.fr." always_null
+local-zone: "astrokam.com." always_null

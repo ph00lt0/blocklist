@@ -18691,3 +18691,4 @@ saintbonnetdemure.com CNAME .
 saintfrancoislongchamp.com CNAME .
 labellemontagne.com CNAME .
 idfuse.fr CNAME .
+astrokam.com CNAME .

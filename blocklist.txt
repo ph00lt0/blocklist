@@ -19368,3 +19368,4 @@ linkedin.com##.update-components-survey
 ||labellemontagne.com^
 ||idfuse.fr^
 ||astrokam.com^
+||walkerssresearch.com^

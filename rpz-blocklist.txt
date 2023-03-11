@@ -18692,3 +18692,4 @@ saintfrancoislongchamp.com CNAME .
 labellemontagne.com CNAME .
 idfuse.fr CNAME .
 astrokam.com CNAME .
+walkerssresearch.com CNAME .

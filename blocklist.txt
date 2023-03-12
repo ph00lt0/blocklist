@@ -19373,3 +19373,4 @@ linkedin.com##.update-components-survey
 ||seeger-seeger.li^
 ||qrfy.com^
 ||clarity.microsoft.com^
+||vurpillat.org^

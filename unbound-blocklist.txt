@@ -18703,3 +18703,4 @@ local-zone: "clarity.microsoft.com." always_null
 local-zone: "vurpillat.org." always_null
 local-zone: "travelcenter.uk." always_null
 local-zone: "atlasfisio.es." always_null
+local-zone: "pi.gov.br." always_null

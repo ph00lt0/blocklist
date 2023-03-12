@@ -19372,3 +19372,4 @@ linkedin.com##.update-components-survey
 ||plastfab.com^
 ||seeger-seeger.li^
 ||qrfy.com^
+||clarity.microsoft.com^

@@ -18696,3 +18696,4 @@ walkerssresearch.com CNAME .
 plastfab.com CNAME .
 seeger-seeger.li CNAME .
 qrfy.com CNAME .
+clarity.microsoft.com CNAME .

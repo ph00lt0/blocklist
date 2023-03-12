@@ -18804,3 +18804,4 @@
 0.0.0.0 plastfab.com
 0.0.0.0 seeger-seeger.li
 0.0.0.0 qrfy.com
+0.0.0.0 clarity.microsoft.com

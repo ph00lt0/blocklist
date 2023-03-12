@@ -18701,3 +18701,4 @@ local-zone: "seeger-seeger.li." always_null
 local-zone: "qrfy.com." always_null
 local-zone: "clarity.microsoft.com." always_null
 local-zone: "vurpillat.org." always_null
+local-zone: "travelcenter.uk." always_null

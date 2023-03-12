@@ -4445,7 +4445,7 @@ sa.opo-server.com CNAME .
 opo-server.com CNAME .
 connect.ekomi.de CNAME .
 ekomi.de CNAME .
-sundio-media.azureedge.net CNAME .
+; allow sundio-media.azureedge.net reason: image CDN
 country-blocker.zend-apps.com CNAME .
 foursixty.com CNAME .
 ecommplugins-trustboxsettings.trustpilot.com CNAME .

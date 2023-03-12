@@ -4531,7 +4531,7 @@
 0.0.0.0 opo-server.com
 0.0.0.0 connect.ekomi.de
 0.0.0.0 ekomi.de
-0.0.0.0 sundio-media.azureedge.net
+! allow sundio-media.azureedge.net reason: image CDN
 0.0.0.0 country-blocker.zend-apps.com
 0.0.0.0 foursixty.com
 0.0.0.0 ecommplugins-trustboxsettings.trustpilot.com

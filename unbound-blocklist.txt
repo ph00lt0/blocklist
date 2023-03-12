@@ -4448,7 +4448,7 @@ local-zone: "sa.opo-server.com." always_null
 local-zone: "opo-server.com." always_null
 local-zone: "connect.ekomi.de." always_null
 local-zone: "ekomi.de." always_null
-local-zone: "sundio-media.azureedge.net." always_null
+# allow sundio-media.azureedge.net reason: image CDN
 local-zone: "country-blocker.zend-apps.com." always_null
 local-zone: "foursixty.com." always_null
 local-zone: "ecommplugins-trustboxsettings.trustpilot.com." always_null

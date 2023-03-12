@@ -4538,7 +4538,7 @@
 ||opo-server.com^
 ||connect.ekomi.de^
 ||ekomi.de^
-||sundio-media.azureedge.net^
+||sundio-media.azureedge.net^$badfilter  # image CDN
 ||country-blocker.zend-apps.com^
 ||foursixty.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^

@@ -19375,3 +19375,4 @@ linkedin.com##.update-components-survey
 ||clarity.microsoft.com^
 ||vurpillat.org^
 ||travelcenter.uk^
+||atlasfisio.es^

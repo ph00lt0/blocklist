@@ -18695,3 +18695,4 @@ astrokam.com CNAME .
 walkerssresearch.com CNAME .
 plastfab.com CNAME .
 seeger-seeger.li CNAME .
+qrfy.com CNAME .

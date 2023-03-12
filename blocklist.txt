@@ -19371,3 +19371,4 @@ linkedin.com##.update-components-survey
 ||walkerssresearch.com^
 ||plastfab.com^
 ||seeger-seeger.li^
+||qrfy.com^

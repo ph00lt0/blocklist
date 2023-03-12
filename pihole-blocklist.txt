@@ -18803,3 +18803,4 @@
 0.0.0.0 walkerssresearch.com
 0.0.0.0 plastfab.com
 0.0.0.0 seeger-seeger.li
+0.0.0.0 qrfy.com

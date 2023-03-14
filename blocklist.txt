@@ -19381,3 +19381,4 @@ linkedin.com##.update-components-survey
 ||tenziq.com^
 ||f11-ads.com^
 ||thelivesales.com^
+||couponslabs.com^

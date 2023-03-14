@@ -18708,3 +18708,4 @@ local-zone: "siteimproveanalytics.io." always_null
 local-zone: "tenziq.com." always_null
 local-zone: "f11-ads.com." always_null
 local-zone: "thelivesales.com." always_null
+local-zone: "couponslabs.com." always_null

@@ -19379,3 +19379,4 @@ linkedin.com##.update-components-survey
 ||pi.gov.br^
 ||siteimproveanalytics.io^
 ||tenziq.com^
+||f11-ads.com^

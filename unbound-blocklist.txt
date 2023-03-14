@@ -18706,3 +18706,4 @@ local-zone: "atlasfisio.es." always_null
 local-zone: "pi.gov.br." always_null
 local-zone: "siteimproveanalytics.io." always_null
 local-zone: "tenziq.com." always_null
+local-zone: "f11-ads.com." always_null

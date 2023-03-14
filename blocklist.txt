@@ -19382,3 +19382,4 @@ linkedin.com##.update-components-survey
 ||f11-ads.com^
 ||thelivesales.com^
 ||couponslabs.com^
+||programmer.net^

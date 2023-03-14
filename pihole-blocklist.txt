@@ -18810,3 +18810,4 @@
 0.0.0.0 atlasfisio.es
 0.0.0.0 pi.gov.br
 0.0.0.0 siteimproveanalytics.io
+0.0.0.0 tenziq.com

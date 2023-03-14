@@ -18702,3 +18702,4 @@ travelcenter.uk CNAME .
 atlasfisio.es CNAME .
 pi.gov.br CNAME .
 siteimproveanalytics.io CNAME .
+tenziq.com CNAME .

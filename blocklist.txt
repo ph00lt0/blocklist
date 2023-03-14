@@ -19378,3 +19378,4 @@ linkedin.com##.update-components-survey
 ||atlasfisio.es^
 ||pi.gov.br^
 ||siteimproveanalytics.io^
+||tenziq.com^

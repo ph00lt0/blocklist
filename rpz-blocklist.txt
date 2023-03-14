@@ -18704,3 +18704,4 @@ pi.gov.br CNAME .
 siteimproveanalytics.io CNAME .
 tenziq.com CNAME .
 f11-ads.com CNAME .
+thelivesales.com CNAME .

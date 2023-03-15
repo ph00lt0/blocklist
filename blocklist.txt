@@ -19383,3 +19383,4 @@ linkedin.com##.update-components-survey
 ||thelivesales.com^
 ||couponslabs.com^
 ||programmer.net^
+||counter.dev^

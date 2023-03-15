@@ -18707,3 +18707,4 @@ f11-ads.com CNAME .
 thelivesales.com CNAME .
 couponslabs.com CNAME .
 programmer.net CNAME .
+counter.dev CNAME .

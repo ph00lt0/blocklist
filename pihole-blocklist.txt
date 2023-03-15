@@ -18818,3 +18818,4 @@
 0.0.0.0 counter.dev
 0.0.0.0 email-zoom.com
 0.0.0.0 getcookiestxt.com
+0.0.0.0 advertis1.com

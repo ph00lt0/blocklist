@@ -19386,4 +19386,5 @@ linkedin.com##.update-components-survey
 ||counter.dev^
 ||email-zoom.com^
 ||getcookiestxt.com^
-||fburl.com/debugjs.^
+||fburl.com/debugjs^
+||advertis1.com^

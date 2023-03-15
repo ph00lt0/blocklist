@@ -18709,3 +18709,4 @@ couponslabs.com CNAME .
 programmer.net CNAME .
 counter.dev CNAME .
 email-zoom.com CNAME .
+getcookiestxt.com CNAME .

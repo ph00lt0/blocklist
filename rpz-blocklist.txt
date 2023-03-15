@@ -18708,3 +18708,4 @@ thelivesales.com CNAME .
 couponslabs.com CNAME .
 programmer.net CNAME .
 counter.dev CNAME .
+email-zoom.com CNAME .

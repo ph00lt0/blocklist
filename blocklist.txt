@@ -14200,7 +14200,7 @@ $removeparam=engagement_type
 ||allbud.s3.amazonaws.com^
 ||allorigins.win^
 ||alocdn.com^
-||alphacdn.net^
+||alphacdn.net^$badfilter  # CDN
 ||amazon.co.jp^$badfilter  # not a tracker
 ||ambientdsp.com^
 ||americanairlines.com.au^$badfilter  # not a tracker

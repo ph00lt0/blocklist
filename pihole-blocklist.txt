@@ -13880,7 +13880,7 @@
 0.0.0.0 allbud.s3.amazonaws.com
 0.0.0.0 allorigins.win
 0.0.0.0 alocdn.com
-0.0.0.0 alphacdn.net
+! allow alphacdn.net reason: CDN
 ! allow amazon.co.jp reason: not a tracker
 0.0.0.0 ambientdsp.com
 ! allow americanairlines.com.au reason: not a tracker

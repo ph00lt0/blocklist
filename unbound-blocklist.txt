@@ -13775,7 +13775,7 @@ local-zone: "all-gtm-bjhk.akadns.net." always_null
 local-zone: "allbud.s3.amazonaws.com." always_null
 local-zone: "allorigins.win." always_null
 local-zone: "alocdn.com." always_null
-local-zone: "alphacdn.net." always_null
+# allow alphacdn.net reason: CDN
 # allow amazon.co.jp reason: not a tracker
 local-zone: "ambientdsp.com." always_null
 # allow americanairlines.com.au reason: not a tracker

@@ -13772,7 +13772,7 @@ all-gtm-bjhk.akadns.net CNAME .
 allbud.s3.amazonaws.com CNAME .
 allorigins.win CNAME .
 alocdn.com CNAME .
-alphacdn.net CNAME .
+; allow alphacdn.net reason: CDN
 ; allow amazon.co.jp reason: not a tracker
 ambientdsp.com CNAME .
 ; allow americanairlines.com.au reason: not a tracker

@@ -19398,3 +19398,4 @@ linkedin.com##.update-components-survey
 ||yareviews.ru^
 ||otziv.top^
 ||firststat.ru^
+||dnvmaster.ru^

@@ -19390,3 +19390,4 @@ linkedin.com##.update-components-survey
 ||advertis1.com^
 ||basismonitoringwadden.waddenzee.nl/matomo^
 ||preproductie.rudzeeland.nl/matomo^
+||777.nl^

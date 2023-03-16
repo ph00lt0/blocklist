@@ -18714,3 +18714,4 @@ local-zone: "counter.dev." always_null
 local-zone: "email-zoom.com." always_null
 local-zone: "getcookiestxt.com." always_null
 local-zone: "advertis1.com." always_null
+local-zone: "777.nl." always_null

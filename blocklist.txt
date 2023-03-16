@@ -19388,3 +19388,4 @@ linkedin.com##.update-components-survey
 ||getcookiestxt.com^
 ||fburl.com/debugjs^
 ||advertis1.com^
+||basismonitoringwadden.waddenzee.nl/matomo^

@@ -18718,3 +18718,4 @@ local-zone: "777.nl." always_null
 local-zone: "casino777.nl." always_null
 local-zone: "kalmykia.su." always_null
 local-zone: "exepto.ru." always_null
+local-zone: "webnames.ru." always_null

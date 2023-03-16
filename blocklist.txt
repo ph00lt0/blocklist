@@ -19396,3 +19396,4 @@ linkedin.com##.update-components-survey
 ||exepto.ru^
 ||webnames.ru^
 ||yareviews.ru^
+||otziv.top^

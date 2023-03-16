@@ -18717,3 +18717,4 @@ kalmykia.su CNAME .
 exepto.ru CNAME .
 webnames.ru CNAME .
 yareviews.ru CNAME .
+otziv.top CNAME .

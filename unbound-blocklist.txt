@@ -18720,3 +18720,4 @@ local-zone: "kalmykia.su." always_null
 local-zone: "exepto.ru." always_null
 local-zone: "webnames.ru." always_null
 local-zone: "yareviews.ru." always_null
+local-zone: "otziv.top." always_null

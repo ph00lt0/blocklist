@@ -19399,3 +19399,4 @@ linkedin.com##.update-components-survey
 ||otziv.top^
 ||firststat.ru^
 ||dnvmaster.ru^
+||bestsbuy.ca^

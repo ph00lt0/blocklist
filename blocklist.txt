@@ -19395,3 +19395,4 @@ linkedin.com##.update-components-survey
 ||kalmykia.su^
 ||exepto.ru^
 ||webnames.ru^
+||yareviews.ru^

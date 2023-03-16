@@ -19397,3 +19397,4 @@ linkedin.com##.update-components-survey
 ||webnames.ru^
 ||yareviews.ru^
 ||otziv.top^
+||firststat.ru^

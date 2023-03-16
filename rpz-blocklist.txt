@@ -18713,3 +18713,4 @@ getcookiestxt.com CNAME .
 advertis1.com CNAME .
 777.nl CNAME .
 casino777.nl CNAME .
+kalmykia.su CNAME .

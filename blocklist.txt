@@ -19391,3 +19391,4 @@ linkedin.com##.update-components-survey
 ||basismonitoringwadden.waddenzee.nl/matomo^
 ||preproductie.rudzeeland.nl/matomo^
 ||777.nl^
+||casino777.nl^

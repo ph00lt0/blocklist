@@ -19401,3 +19401,4 @@ linkedin.com##.update-components-survey
 ||dnvmaster.ru^
 ||bestsbuy.ca^
 ||joinhoney.com^
+||honey.io^

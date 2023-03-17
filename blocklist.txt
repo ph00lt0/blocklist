@@ -19400,3 +19400,4 @@ linkedin.com##.update-components-survey
 ||firststat.ru^
 ||dnvmaster.ru^
 ||bestsbuy.ca^
+||joinhoney.com^

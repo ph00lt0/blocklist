@@ -18724,3 +18724,4 @@ local-zone: "otziv.top." always_null
 local-zone: "firststat.ru." always_null
 local-zone: "dnvmaster.ru." always_null
 local-zone: "bestsbuy.ca." always_null
+local-zone: "joinhoney.com." always_null

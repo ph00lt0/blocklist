@@ -19402,3 +19402,4 @@ linkedin.com##.update-components-survey
 ||bestsbuy.ca^
 ||joinhoney.com^
 ||honey.io^
+||clicks.mlsend2.com^

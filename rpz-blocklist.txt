@@ -19042,3 +19042,4 @@ games.tipwin.de CNAME .
 ggpoker.de CNAME .
 socialchain.app CNAME .
 log.cookieyes.com CNAME .
+minepi.com CNAME .

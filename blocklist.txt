@@ -19721,3 +19721,4 @@ linkedin.com##.update-components-survey
 ||ggpoker.de^
 ||socialchain.app^
 ||log.cookieyes.com^
+||minepi.com^

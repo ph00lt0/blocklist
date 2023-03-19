@@ -19062,3 +19062,4 @@ appbay.in CNAME .
 besttv.club CNAME .
 worldshare.nl CNAME .
 imjgrp.club CNAME .
+tv-live.world CNAME .

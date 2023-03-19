@@ -19073,3 +19073,4 @@ adsgraphy.com CNAME .
 affiliatemedia.com CNAME .
 fusetracking.com CNAME .
 affiliatemedia.fusetracking.com CNAME .
+fuseclick.com CNAME .

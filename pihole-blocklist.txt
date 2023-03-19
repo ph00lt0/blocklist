@@ -19181,3 +19181,4 @@
 0.0.0.0 affiliatemedia.com
 0.0.0.0 fusetracking.com
 0.0.0.0 affiliatemedia.fusetracking.com
+0.0.0.0 fuseclick.com

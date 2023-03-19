@@ -19064,3 +19064,4 @@ worldshare.nl CNAME .
 imjgrp.club CNAME .
 tv-live.world CNAME .
 erdin1.com CNAME .
+maxhd.vip CNAME .

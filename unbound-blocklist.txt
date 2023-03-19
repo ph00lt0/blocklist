@@ -19091,3 +19091,4 @@ local-zone: "nzm.one." always_null
 local-zone: "zk5.co." always_null
 local-zone: "ej3.xyz." always_null
 local-zone: "03s30.com." always_null
+local-zone: "k1n.club." always_null

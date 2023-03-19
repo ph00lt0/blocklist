@@ -19061,3 +19061,4 @@ freshfinds24.com CNAME .
 appbay.in CNAME .
 besttv.club CNAME .
 worldshare.nl CNAME .
+imjgrp.club CNAME .

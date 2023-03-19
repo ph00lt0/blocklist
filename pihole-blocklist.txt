@@ -19154,3 +19154,6 @@
 0.0.0.0 picn.cc
 0.0.0.0 7w.ro
 0.0.0.0 cdn.slots.baxter.olx.org
+0.0.0.0 ninja.data.olxcdn.com
+0.0.0.0 trader.olxgroup.com
+0.0.0.0 eu-sharedservices.olxcdn.com

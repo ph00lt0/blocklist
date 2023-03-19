@@ -19725,3 +19725,6 @@ linkedin.com##.update-components-survey
 ||picn.cc^
 ||7w.ro^
 ||cdn.slots.baxter.olx.org^
+||ninja.data.olxcdn.com^
+||trader.olxgroup.com^
+||eu-sharedservices.olxcdn.com^

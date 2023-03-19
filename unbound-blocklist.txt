@@ -19049,3 +19049,6 @@ local-zone: "minepi.com." always_null
 local-zone: "picn.cc." always_null
 local-zone: "7w.ro." always_null
 local-zone: "cdn.slots.baxter.olx.org." always_null
+local-zone: "ninja.data.olxcdn.com." always_null
+local-zone: "trader.olxgroup.com." always_null
+local-zone: "eu-sharedservices.olxcdn.com." always_null

@@ -19724,3 +19724,4 @@ linkedin.com##.update-components-survey
 ||minepi.com^
 ||picn.cc^
 ||7w.ro^
+||cdn.slots.baxter.olx.org^

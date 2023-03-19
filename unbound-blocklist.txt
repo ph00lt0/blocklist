@@ -19048,3 +19048,4 @@ local-zone: "log.cookieyes.com." always_null
 local-zone: "minepi.com." always_null
 local-zone: "picn.cc." always_null
 local-zone: "7w.ro." always_null
+local-zone: "cdn.slots.baxter.olx.org." always_null

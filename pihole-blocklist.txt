@@ -19153,3 +19153,4 @@
 0.0.0.0 minepi.com
 0.0.0.0 picn.cc
 0.0.0.0 7w.ro
+0.0.0.0 cdn.slots.baxter.olx.org

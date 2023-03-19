@@ -18275,7 +18275,7 @@ insta-co.com CNAME .
 fixthephoto.com CNAME .
 trackfixthephoto.one CNAME .
 hill-will.com.es CNAME .
-webshopapp.com CNAME .
+; allow webshopapp.com reason: Webshop CDN by lightspeed
 postl.fi CNAME .
 chatlayer.ai CNAME .
 helderepromotie.site CNAME .

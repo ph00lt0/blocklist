@@ -18383,7 +18383,7 @@
 0.0.0.0 fixthephoto.com
 0.0.0.0 trackfixthephoto.one
 0.0.0.0 hill-will.com.es
-0.0.0.0 webshopapp.com
+! allow webshopapp.com reason: Webshop CDN by lightspeed
 0.0.0.0 postl.fi
 0.0.0.0 chatlayer.ai
 0.0.0.0 helderepromotie.site

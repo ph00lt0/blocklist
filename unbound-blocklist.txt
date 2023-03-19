@@ -18278,7 +18278,7 @@ local-zone: "insta-co.com." always_null
 local-zone: "fixthephoto.com." always_null
 local-zone: "trackfixthephoto.one." always_null
 local-zone: "hill-will.com.es." always_null
-local-zone: "webshopapp.com." always_null
+# allow webshopapp.com reason: Webshop CDN by lightspeed
 local-zone: "postl.fi." always_null
 local-zone: "chatlayer.ai." always_null
 local-zone: "helderepromotie.site." always_null

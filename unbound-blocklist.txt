@@ -19073,3 +19073,4 @@ local-zone: "powerip.be." always_null
 local-zone: "yazex.com." always_null
 local-zone: "mypython.xyz." always_null
 local-zone: "adsgraphy.com." always_null
+local-zone: "affiliatemedia.com." always_null

@@ -19749,3 +19749,4 @@ linkedin.com##.update-components-survey
 ||yazex.com^
 ||mypython.xyz^
 ||adsgraphy.com^
+||affiliatemedia.com^

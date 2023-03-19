@@ -19178,3 +19178,4 @@
 0.0.0.0 yazex.com
 0.0.0.0 mypython.xyz
 0.0.0.0 adsgraphy.com
+0.0.0.0 affiliatemedia.com

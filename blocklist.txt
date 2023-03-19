@@ -19736,3 +19736,4 @@ linkedin.com##.update-components-survey
 ||bugs.launchpad.net^
 ||12rus.ru^
 ||5bir.xyz^
+||freshfinds24.com^

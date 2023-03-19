@@ -19197,3 +19197,4 @@
 0.0.0.0 ej3.xyz
 0.0.0.0 03s30.com
 0.0.0.0 k1n.club
+0.0.0.0 getmyfile.link

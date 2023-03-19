@@ -19722,3 +19722,4 @@ linkedin.com##.update-components-survey
 ||socialchain.app^
 ||log.cookieyes.com^
 ||minepi.com^
+||picn.cc^

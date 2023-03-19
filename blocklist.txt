@@ -19729,3 +19729,4 @@ linkedin.com##.update-components-survey
 ||trader.olxgroup.com^
 ||eu-sharedservices.olxcdn.com^
 ||adtrace.io^
+||universaloffer.online^

@@ -19050,3 +19050,4 @@ ninja.data.olxcdn.com CNAME .
 trader.olxgroup.com CNAME .
 eu-sharedservices.olxcdn.com CNAME .
 adtrace.io CNAME .
+universaloffer.online CNAME .

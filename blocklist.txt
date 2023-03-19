@@ -19728,3 +19728,4 @@ linkedin.com##.update-components-survey
 ||ninja.data.olxcdn.com^
 ||trader.olxgroup.com^
 ||eu-sharedservices.olxcdn.com^
+||adtrace.io^

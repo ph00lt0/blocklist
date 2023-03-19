@@ -19049,3 +19049,4 @@ cdn.slots.baxter.olx.org CNAME .
 ninja.data.olxcdn.com CNAME .
 trader.olxgroup.com CNAME .
 eu-sharedservices.olxcdn.com CNAME .
+adtrace.io CNAME .

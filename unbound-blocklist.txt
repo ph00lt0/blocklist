@@ -19052,3 +19052,4 @@ local-zone: "cdn.slots.baxter.olx.org." always_null
 local-zone: "ninja.data.olxcdn.com." always_null
 local-zone: "trader.olxgroup.com." always_null
 local-zone: "eu-sharedservices.olxcdn.com." always_null
+local-zone: "adtrace.io." always_null

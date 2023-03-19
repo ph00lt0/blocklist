@@ -19070,3 +19070,4 @@ local-zone: "erdin1.com." always_null
 local-zone: "maxhd.vip." always_null
 local-zone: "king-cobra.eu." always_null
 local-zone: "powerip.be." always_null
+local-zone: "yazex.com." always_null

@@ -19175,3 +19175,4 @@
 0.0.0.0 maxhd.vip
 0.0.0.0 king-cobra.eu
 0.0.0.0 powerip.be
+0.0.0.0 yazex.com

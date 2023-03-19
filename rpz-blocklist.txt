@@ -19058,3 +19058,4 @@ bugs.launchpad.net CNAME .
 12rus.ru CNAME .
 5bir.xyz CNAME .
 freshfinds24.com CNAME .
+appbay.in CNAME .

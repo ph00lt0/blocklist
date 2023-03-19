@@ -19094,3 +19094,4 @@ getmyfile.click CNAME .
 empiresames.com CNAME .
 inovatik.com CNAME .
 rokokgratis.com CNAME .
+sgpjpslot.net CNAME .

@@ -19097,3 +19097,4 @@ local-zone: "getmyfile.click." always_null
 local-zone: "empiresames.com." always_null
 local-zone: "inovatik.com." always_null
 local-zone: "rokokgratis.com." always_null
+local-zone: "sgpjpslot.net." always_null

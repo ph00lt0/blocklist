@@ -19088,3 +19088,4 @@ local-zone: "getmyfile.eu." always_null
 local-zone: "ri7.biz." always_null
 local-zone: "s8.cx." always_null
 local-zone: "nzm.one." always_null
+local-zone: "zk5.co." always_null

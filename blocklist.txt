@@ -19733,3 +19733,4 @@ linkedin.com##.update-components-survey
 ||belco.io^
 ||medianews24.nl^
 ||leadpartners24.nl^
+||bugs.launchpad.net^

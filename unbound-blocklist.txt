@@ -19057,3 +19057,4 @@ local-zone: "universaloffer.online." always_null
 local-zone: "belco.io." always_null
 local-zone: "medianews24.nl." always_null
 local-zone: "leadpartners24.nl." always_null
+local-zone: "bugs.launchpad.net." always_null

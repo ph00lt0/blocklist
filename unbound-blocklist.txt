@@ -19044,3 +19044,4 @@ local-zone: "games.tipwin.de." always_null
 local-zone: "888poker.de." always_null
 local-zone: "ggpoker.de." always_null
 local-zone: "socialchain.app." always_null
+local-zone: "log.cookieyes.com." always_null

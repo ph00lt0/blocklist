@@ -19720,3 +19720,4 @@ linkedin.com##.update-components-survey
 ||888poker.de^
 ||ggpoker.de^
 ||socialchain.app^
+||log.cookieyes.com^

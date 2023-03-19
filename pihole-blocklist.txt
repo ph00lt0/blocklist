@@ -19149,3 +19149,4 @@
 0.0.0.0 888poker.de
 0.0.0.0 ggpoker.de
 0.0.0.0 socialchain.app
+0.0.0.0 log.cookieyes.com

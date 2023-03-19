@@ -19723,3 +19723,4 @@ linkedin.com##.update-components-survey
 ||log.cookieyes.com^
 ||minepi.com^
 ||picn.cc^
+||7w.ro^

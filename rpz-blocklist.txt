@@ -19044,3 +19044,4 @@ socialchain.app CNAME .
 log.cookieyes.com CNAME .
 minepi.com CNAME .
 picn.cc CNAME .
+7w.ro CNAME .

@@ -19152,3 +19152,4 @@
 0.0.0.0 log.cookieyes.com
 0.0.0.0 minepi.com
 0.0.0.0 picn.cc
+0.0.0.0 7w.ro

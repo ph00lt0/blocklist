@@ -19062,3 +19062,4 @@ local-zone: "12rus.ru." always_null
 local-zone: "5bir.xyz." always_null
 local-zone: "freshfinds24.com." always_null
 local-zone: "appbay.in." always_null
+local-zone: "besttv.club." always_null

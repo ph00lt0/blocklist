@@ -19059,3 +19059,4 @@ bugs.launchpad.net CNAME .
 5bir.xyz CNAME .
 freshfinds24.com CNAME .
 appbay.in CNAME .
+besttv.club CNAME .

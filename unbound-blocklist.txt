@@ -18727,3 +18727,4 @@ local-zone: "bestsbuy.ca." always_null
 local-zone: "joinhoney.com." always_null
 local-zone: "honey.io." always_null
 local-zone: "clicks.mlsend2.com." always_null
+local-zone: "staatsloterijtrekking.nl." always_null

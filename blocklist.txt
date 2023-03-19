@@ -19405,3 +19405,4 @@ linkedin.com##.update-components-survey
 ||clicks.mlsend2.com^
 ||staatsloterijtrekking.nl^
 ||uitslagstaatsloterij.com^
+||werkendoejebij.nl^

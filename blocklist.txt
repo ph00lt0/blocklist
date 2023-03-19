@@ -19751,3 +19751,4 @@ linkedin.com##.update-components-survey
 ||adsgraphy.com^
 ||affiliatemedia.com^
 ||fusetracking.com^
+||affiliatemedia.fusetracking.com^

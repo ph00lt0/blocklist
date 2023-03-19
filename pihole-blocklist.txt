@@ -19180,3 +19180,4 @@
 0.0.0.0 adsgraphy.com
 0.0.0.0 affiliatemedia.com
 0.0.0.0 fusetracking.com
+0.0.0.0 affiliatemedia.fusetracking.com

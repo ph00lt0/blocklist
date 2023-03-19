@@ -19075,3 +19075,4 @@ local-zone: "mypython.xyz." always_null
 local-zone: "adsgraphy.com." always_null
 local-zone: "affiliatemedia.com." always_null
 local-zone: "fusetracking.com." always_null
+local-zone: "affiliatemedia.fusetracking.com." always_null

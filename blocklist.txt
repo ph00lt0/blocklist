@@ -19440,3 +19440,17 @@ linkedin.com##.update-components-survey
 ||vindercasino.dk^
 ||mrgreen.dk^
 ||mrgreen.com^
+||pip.dk^
+||onecasino.com^
+||betstars.dk^
+||pokerstars.dk^
+||pokerstarscasino.dk^
+||pokerstarssports.dk^
+||royalcasino.dk^
+||kapowcasino.dk^
+||sifa-online.dk^
+||tvbingo.dk^
+||casinohouse.dk^
+||spilhuset.dk^
+||spilhuset.com^
+||danskspil.net^

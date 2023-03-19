@@ -18764,3 +18764,17 @@ local-zone: "marathonbet.dk." always_null
 local-zone: "vindercasino.dk." always_null
 local-zone: "mrgreen.dk." always_null
 local-zone: "mrgreen.com." always_null
+local-zone: "pip.dk." always_null
+local-zone: "onecasino.com." always_null
+local-zone: "betstars.dk." always_null
+local-zone: "pokerstars.dk." always_null
+local-zone: "pokerstarscasino.dk." always_null
+local-zone: "pokerstarssports.dk." always_null
+local-zone: "royalcasino.dk." always_null
+local-zone: "kapowcasino.dk." always_null
+local-zone: "sifa-online.dk." always_null
+local-zone: "tvbingo.dk." always_null
+local-zone: "casinohouse.dk." always_null
+local-zone: "spilhuset.dk." always_null
+local-zone: "spilhuset.com." always_null
+local-zone: "danskspil.net." always_null

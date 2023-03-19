@@ -18761,3 +18761,17 @@ marathonbet.dk CNAME .
 vindercasino.dk CNAME .
 mrgreen.dk CNAME .
 mrgreen.com CNAME .
+pip.dk CNAME .
+onecasino.com CNAME .
+betstars.dk CNAME .
+pokerstars.dk CNAME .
+pokerstarscasino.dk CNAME .
+pokerstarssports.dk CNAME .
+royalcasino.dk CNAME .
+kapowcasino.dk CNAME .
+sifa-online.dk CNAME .
+tvbingo.dk CNAME .
+casinohouse.dk CNAME .
+spilhuset.dk CNAME .
+spilhuset.com CNAME .
+danskspil.net CNAME .

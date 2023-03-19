@@ -18869,3 +18869,17 @@
 0.0.0.0 vindercasino.dk
 0.0.0.0 mrgreen.dk
 0.0.0.0 mrgreen.com
+0.0.0.0 pip.dk
+0.0.0.0 onecasino.com
+0.0.0.0 betstars.dk
+0.0.0.0 pokerstars.dk
+0.0.0.0 pokerstarscasino.dk
+0.0.0.0 pokerstarssports.dk
+0.0.0.0 royalcasino.dk
+0.0.0.0 kapowcasino.dk
+0.0.0.0 sifa-online.dk
+0.0.0.0 tvbingo.dk
+0.0.0.0 casinohouse.dk
+0.0.0.0 spilhuset.dk
+0.0.0.0 spilhuset.com
+0.0.0.0 danskspil.net

@@ -19186,3 +19186,4 @@
 0.0.0.0 affiliatenetwork.com
 0.0.0.0 veransys.kr
 0.0.0.0 hamoda.me
+0.0.0.0 recruitveterans.net

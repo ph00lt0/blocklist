@@ -19078,3 +19078,4 @@ dobre-pozycjonowanie.pl CNAME .
 affiliatenetwork.com CNAME .
 veransys.kr CNAME .
 hamoda.me CNAME .
+recruitveterans.net CNAME .

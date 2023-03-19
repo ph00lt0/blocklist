@@ -19757,3 +19757,4 @@ linkedin.com##.update-components-survey
 ||affiliatenetwork.com^
 ||veransys.kr^
 ||hamoda.me^
+||recruitveterans.net^

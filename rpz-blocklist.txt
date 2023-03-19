@@ -19090,3 +19090,4 @@ ej3.xyz CNAME .
 03s30.com CNAME .
 k1n.club CNAME .
 getmyfile.link CNAME .
+getmyfile.click CNAME .

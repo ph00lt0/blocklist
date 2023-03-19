@@ -19770,3 +19770,4 @@ linkedin.com##.update-components-survey
 ||k1n.club^
 ||getmyfile.link^
 ||getmyfile.click^
+||empiresames.com^

@@ -19199,3 +19199,4 @@
 0.0.0.0 k1n.club
 0.0.0.0 getmyfile.link
 0.0.0.0 getmyfile.click
+0.0.0.0 empiresames.com

@@ -19091,3 +19091,4 @@ ej3.xyz CNAME .
 k1n.club CNAME .
 getmyfile.link CNAME .
 getmyfile.click CNAME .
+empiresames.com CNAME .

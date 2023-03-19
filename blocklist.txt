@@ -19734,3 +19734,4 @@ linkedin.com##.update-components-survey
 ||medianews24.nl^
 ||leadpartners24.nl^
 ||bugs.launchpad.net^
+||12rus.ru^

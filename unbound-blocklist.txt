@@ -19055,3 +19055,4 @@ local-zone: "eu-sharedservices.olxcdn.com." always_null
 local-zone: "adtrace.io." always_null
 local-zone: "universaloffer.online." always_null
 local-zone: "belco.io." always_null
+local-zone: "medianews24.nl." always_null

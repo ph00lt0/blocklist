@@ -19731,3 +19731,4 @@ linkedin.com##.update-components-survey
 ||adtrace.io^
 ||universaloffer.online^
 ||belco.io^
+||medianews24.nl^

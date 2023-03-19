@@ -19160,3 +19160,4 @@
 0.0.0.0 adtrace.io
 0.0.0.0 universaloffer.online
 0.0.0.0 belco.io
+0.0.0.0 medianews24.nl

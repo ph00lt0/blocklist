@@ -19748,3 +19748,4 @@ linkedin.com##.update-components-survey
 ||powerip.be^
 ||yazex.com^
 ||mypython.xyz^
+||adsgraphy.com^

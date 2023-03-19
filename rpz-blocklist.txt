@@ -19069,3 +19069,4 @@ king-cobra.eu CNAME .
 powerip.be CNAME .
 yazex.com CNAME .
 mypython.xyz CNAME .
+adsgraphy.com CNAME .

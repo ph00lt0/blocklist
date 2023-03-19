@@ -19747,3 +19747,4 @@ linkedin.com##.update-components-survey
 ||king-cobra.eu^
 ||powerip.be^
 ||yazex.com^
+||mypython.xyz^

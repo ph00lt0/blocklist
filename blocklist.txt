@@ -19739,3 +19739,4 @@ linkedin.com##.update-components-survey
 ||freshfinds24.com^
 ||appbay.in^
 ||besttv.club^
+||worldshare.nl^

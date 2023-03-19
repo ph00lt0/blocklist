@@ -19406,3 +19406,4 @@ linkedin.com##.update-components-survey
 ||staatsloterijtrekking.nl^
 ||uitslagstaatsloterij.com^
 ||werkendoejebij.nl^
+||danskspil.info^

@@ -18730,3 +18730,4 @@ local-zone: "clicks.mlsend2.com." always_null
 local-zone: "staatsloterijtrekking.nl." always_null
 local-zone: "uitslagstaatsloterij.com." always_null
 local-zone: "werkendoejebij.nl." always_null
+local-zone: "danskspil.info." always_null

@@ -19066,3 +19066,4 @@ tv-live.world CNAME .
 erdin1.com CNAME .
 maxhd.vip CNAME .
 king-cobra.eu CNAME .
+powerip.be CNAME .

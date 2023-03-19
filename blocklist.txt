@@ -19745,3 +19745,4 @@ linkedin.com##.update-components-survey
 ||erdin1.com^
 ||maxhd.vip^
 ||king-cobra.eu^
+||powerip.be^

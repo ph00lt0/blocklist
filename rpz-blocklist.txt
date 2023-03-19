@@ -19040,3 +19040,4 @@ original-slots.de CNAME .
 games.tipwin.de CNAME .
 888poker.de CNAME .
 ggpoker.de CNAME .
+socialchain.app CNAME .

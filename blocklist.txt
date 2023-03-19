@@ -19719,3 +19719,4 @@ linkedin.com##.update-components-survey
 ||games.tipwin.de^
 ||888poker.de^
 ||ggpoker.de^
+||socialchain.app^

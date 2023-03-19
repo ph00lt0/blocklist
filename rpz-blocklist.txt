@@ -18734,3 +18734,14 @@ casinoGo.dk CNAME .
 derby25.dk CNAME .
 rod25.dk CNAME .
 roed25.dk CNAME .
+casinoaction.dk CNAME .
+betfair.dk CNAME .
+bingo.dk CNAME .
+casino.dk CNAME .
+nordicbet.dk CNAME .
+cashpoint.dk CNAME .
+comeon.com CNAME .
+tivolicasino.dk CNAME .
+betinia.dk CNAME .
+cadabrus.dk CNAME .
+chanz.com CNAME .

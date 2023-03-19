@@ -18737,3 +18737,14 @@ local-zone: "casinoGo.dk." always_null
 local-zone: "derby25.dk." always_null
 local-zone: "rod25.dk." always_null
 local-zone: "roed25.dk." always_null
+local-zone: "casinoaction.dk." always_null
+local-zone: "betfair.dk." always_null
+local-zone: "bingo.dk." always_null
+local-zone: "casino.dk." always_null
+local-zone: "nordicbet.dk." always_null
+local-zone: "cashpoint.dk." always_null
+local-zone: "comeon.com." always_null
+local-zone: "tivolicasino.dk." always_null
+local-zone: "betinia.dk." always_null
+local-zone: "cadabrus.dk." always_null
+local-zone: "chanz.com." always_null

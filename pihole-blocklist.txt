@@ -18842,3 +18842,14 @@
 0.0.0.0 derby25.dk
 0.0.0.0 rod25.dk
 0.0.0.0 roed25.dk
+0.0.0.0 casinoaction.dk
+0.0.0.0 betfair.dk
+0.0.0.0 bingo.dk
+0.0.0.0 casino.dk
+0.0.0.0 nordicbet.dk
+0.0.0.0 cashpoint.dk
+0.0.0.0 comeon.com
+0.0.0.0 tivolicasino.dk
+0.0.0.0 betinia.dk
+0.0.0.0 cadabrus.dk
+0.0.0.0 chanz.com

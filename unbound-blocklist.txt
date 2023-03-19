@@ -19054,3 +19054,4 @@ local-zone: "trader.olxgroup.com." always_null
 local-zone: "eu-sharedservices.olxcdn.com." always_null
 local-zone: "adtrace.io." always_null
 local-zone: "universaloffer.online." always_null
+local-zone: "belco.io." always_null

@@ -19730,3 +19730,4 @@ linkedin.com##.update-components-survey
 ||eu-sharedservices.olxcdn.com^
 ||adtrace.io^
 ||universaloffer.online^
+||belco.io^

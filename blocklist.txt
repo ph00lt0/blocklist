@@ -19755,3 +19755,4 @@ linkedin.com##.update-components-survey
 ||fuseclick.com^
 ||dobre-pozycjonowanie.pl^
 ||affiliatenetwork.com^
+||veransys.kr^

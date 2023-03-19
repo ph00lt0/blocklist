@@ -19076,3 +19076,4 @@ affiliatemedia.fusetracking.com CNAME .
 fuseclick.com CNAME .
 dobre-pozycjonowanie.pl CNAME .
 affiliatenetwork.com CNAME .
+veransys.kr CNAME .

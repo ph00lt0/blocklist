@@ -19080,3 +19080,4 @@ local-zone: "fuseclick.com." always_null
 local-zone: "dobre-pozycjonowanie.pl." always_null
 local-zone: "affiliatenetwork.com." always_null
 local-zone: "veransys.kr." always_null
+local-zone: "hamoda.me." always_null

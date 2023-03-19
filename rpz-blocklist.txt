@@ -19084,3 +19084,4 @@ hssound.de CNAME .
 getmyfile.eu CNAME .
 ri7.biz CNAME .
 s8.cx CNAME .
+nzm.one CNAME .

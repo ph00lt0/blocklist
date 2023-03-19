@@ -19407,3 +19407,4 @@ linkedin.com##.update-components-survey
 ||uitslagstaatsloterij.com^
 ||werkendoejebij.nl^
 ||danskspil.info^
+||rød25.dk^

@@ -19173,3 +19173,4 @@
 0.0.0.0 tv-live.world
 0.0.0.0 erdin1.com
 0.0.0.0 maxhd.vip
+0.0.0.0 king-cobra.eu

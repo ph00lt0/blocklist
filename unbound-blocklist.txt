@@ -19077,3 +19077,4 @@ local-zone: "affiliatemedia.com." always_null
 local-zone: "fusetracking.com." always_null
 local-zone: "affiliatemedia.fusetracking.com." always_null
 local-zone: "fuseclick.com." always_null
+local-zone: "dobre-pozycjonowanie.pl." always_null

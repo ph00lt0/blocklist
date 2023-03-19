@@ -19753,3 +19753,4 @@ linkedin.com##.update-components-survey
 ||fusetracking.com^
 ||affiliatemedia.fusetracking.com^
 ||fuseclick.com^
+||dobre-pozycjonowanie.pl^

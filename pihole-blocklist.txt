@@ -18837,3 +18837,8 @@
 0.0.0.0 werkendoejebij.nl
 0.0.0.0 danskspil.info
 0.0.0.0 rød25.dk
+0.0.0.0 bet25.dk
+0.0.0.0 casinoGo.dk
+0.0.0.0 derby25.dk
+0.0.0.0 rod25.dk
+0.0.0.0 roed25.dk

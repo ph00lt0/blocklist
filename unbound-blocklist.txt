@@ -18732,3 +18732,8 @@ local-zone: "uitslagstaatsloterij.com." always_null
 local-zone: "werkendoejebij.nl." always_null
 local-zone: "danskspil.info." always_null
 local-zone: "rød25.dk." always_null
+local-zone: "bet25.dk." always_null
+local-zone: "casinoGo.dk." always_null
+local-zone: "derby25.dk." always_null
+local-zone: "rod25.dk." always_null
+local-zone: "roed25.dk." always_null

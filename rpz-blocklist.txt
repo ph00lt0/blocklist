@@ -18729,3 +18729,8 @@ uitslagstaatsloterij.com CNAME .
 werkendoejebij.nl CNAME .
 danskspil.info CNAME .
 rød25.dk CNAME .
+bet25.dk CNAME .
+casinoGo.dk CNAME .
+derby25.dk CNAME .
+rod25.dk CNAME .
+roed25.dk CNAME .

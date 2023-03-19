@@ -19056,3 +19056,4 @@ medianews24.nl CNAME .
 leadpartners24.nl CNAME .
 bugs.launchpad.net CNAME .
 12rus.ru CNAME .
+5bir.xyz CNAME .

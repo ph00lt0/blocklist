@@ -19059,3 +19059,4 @@ local-zone: "medianews24.nl." always_null
 local-zone: "leadpartners24.nl." always_null
 local-zone: "bugs.launchpad.net." always_null
 local-zone: "12rus.ru." always_null
+local-zone: "5bir.xyz." always_null

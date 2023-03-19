@@ -18725,3 +18725,4 @@ joinhoney.com CNAME .
 honey.io CNAME .
 clicks.mlsend2.com CNAME .
 staatsloterijtrekking.nl CNAME .
+uitslagstaatsloterij.com CNAME .

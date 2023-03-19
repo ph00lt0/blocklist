@@ -19771,3 +19771,4 @@ linkedin.com##.update-components-survey
 ||getmyfile.link^
 ||getmyfile.click^
 ||empiresames.com^
+||inovatik.com^

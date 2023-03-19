@@ -19095,3 +19095,4 @@ local-zone: "k1n.club." always_null
 local-zone: "getmyfile.link." always_null
 local-zone: "getmyfile.click." always_null
 local-zone: "empiresames.com." always_null
+local-zone: "inovatik.com." always_null

@@ -19092,3 +19092,4 @@ k1n.club CNAME .
 getmyfile.link CNAME .
 getmyfile.click CNAME .
 empiresames.com CNAME .
+inovatik.com CNAME .

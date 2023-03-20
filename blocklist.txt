@@ -19776,3 +19776,4 @@ linkedin.com##.update-components-survey
 ||sgpjpslot.net^
 ||pcanada-ebulletin.ca^
 desk.zoho.eu##.micsTop
+desk.zoho.com##.micsTop

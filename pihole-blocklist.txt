@@ -19240,3 +19240,4 @@
 0.0.0.0 crakmedia.com
 0.0.0.0 zanalytics.zoho.com
 0.0.0.0 usequote.net
+0.0.0.0 nikosales.de

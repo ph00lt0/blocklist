@@ -19132,3 +19132,4 @@ logz.io CNAME .
 crakmedia.com CNAME .
 zanalytics.zoho.com CNAME .
 usequote.net CNAME .
+nikosales.de CNAME .

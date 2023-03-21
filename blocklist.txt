@@ -19818,3 +19818,4 @@ desk.zoho.in##.micsTop
 ||helloretail.com^
 ||linkedin.com^$third-party
 ||oribi.io^
+||vc.hotjar.io^

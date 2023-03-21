@@ -19135,3 +19135,4 @@ usequote.net CNAME .
 nikosales.de CNAME .
 helloretail.com CNAME .
 oribi.io CNAME .
+vc.hotjar.io CNAME .

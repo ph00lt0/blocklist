@@ -19132,3 +19132,4 @@ local-zone: "mm.tencent.com." always_null
 local-zone: "freebuf.com." always_null
 local-zone: "seebug.org." always_null
 local-zone: "logz.io." always_null
+local-zone: "crakmedia.com." always_null

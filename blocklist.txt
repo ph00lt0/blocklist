@@ -19822,3 +19822,4 @@ desk.zoho.in##.micsTop
 ||futy.io^
 ||heytapmobile.com^
 ||heytapdl.com^
+||allawnos.com^

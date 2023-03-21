@@ -19247,3 +19247,4 @@
 0.0.0.0 futy.io
 0.0.0.0 heytapmobile.com
 0.0.0.0 heytapdl.com
+0.0.0.0 allawnos.com

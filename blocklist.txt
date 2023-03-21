@@ -19820,3 +19820,4 @@ desk.zoho.in##.micsTop
 ||oribi.io^
 ||vc.hotjar.io^
 ||futy.io^
+||heytapmobile.com^

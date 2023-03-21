@@ -19137,3 +19137,4 @@ helloretail.com CNAME .
 oribi.io CNAME .
 vc.hotjar.io CNAME .
 futy.io CNAME .
+heytapmobile.com CNAME .

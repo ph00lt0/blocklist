@@ -19815,3 +19815,4 @@ desk.zoho.in##.micsTop
 ||zanalytics.zoho.com^
 ||usequote.net^
 ||nikosales.de^
+||helloretail.com^

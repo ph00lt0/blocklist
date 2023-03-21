@@ -19136,3 +19136,4 @@ local-zone: "crakmedia.com." always_null
 local-zone: "zanalytics.zoho.com." always_null
 local-zone: "usequote.net." always_null
 local-zone: "nikosales.de." always_null
+local-zone: "helloretail.com." always_null

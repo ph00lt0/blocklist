@@ -19805,3 +19805,8 @@ desk.zoho.in##.micsTop
 ||wegamedeveloper.com^
 ||weui.io^
 ||apis.map.qq.com^
+||gt.qq.com^
+||wstt.tencent.com^
+||mm.tencent.com^
+||freebuf.com^
+||seebug.org^

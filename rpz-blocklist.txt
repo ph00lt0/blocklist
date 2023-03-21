@@ -19123,3 +19123,8 @@ tjstats.com CNAME .
 wegamedeveloper.com CNAME .
 weui.io CNAME .
 apis.map.qq.com CNAME .
+gt.qq.com CNAME .
+wstt.tencent.com CNAME .
+mm.tencent.com CNAME .
+freebuf.com CNAME .
+seebug.org CNAME .

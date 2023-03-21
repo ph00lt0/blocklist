@@ -19231,3 +19231,8 @@
 0.0.0.0 wegamedeveloper.com
 0.0.0.0 weui.io
 0.0.0.0 apis.map.qq.com
+0.0.0.0 gt.qq.com
+0.0.0.0 wstt.tencent.com
+0.0.0.0 mm.tencent.com
+0.0.0.0 freebuf.com
+0.0.0.0 seebug.org

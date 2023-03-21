@@ -19144,3 +19144,4 @@ local-zone: "heytapmobile.com." always_null
 local-zone: "heytapdl.com." always_null
 local-zone: "allawnos.com." always_null
 local-zone: "allawntech.com." always_null
+local-zone: "moa-upload-online.coloros.com." always_null

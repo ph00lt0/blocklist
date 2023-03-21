@@ -19141,3 +19141,4 @@ heytapmobile.com CNAME .
 heytapdl.com CNAME .
 allawnos.com CNAME .
 allawntech.com CNAME .
+moa-upload-online.coloros.com CNAME .

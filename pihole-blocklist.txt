@@ -19236,3 +19236,4 @@
 0.0.0.0 mm.tencent.com
 0.0.0.0 freebuf.com
 0.0.0.0 seebug.org
+0.0.0.0 logz.io

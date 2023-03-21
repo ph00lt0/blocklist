@@ -19244,3 +19244,4 @@
 0.0.0.0 helloretail.com
 0.0.0.0 oribi.io
 0.0.0.0 vc.hotjar.io
+0.0.0.0 futy.io

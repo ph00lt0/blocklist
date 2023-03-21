@@ -19819,3 +19819,4 @@ desk.zoho.in##.micsTop
 ||linkedin.com^$third-party
 ||oribi.io^
 ||vc.hotjar.io^
+||futy.io^

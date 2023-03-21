@@ -19821,3 +19821,4 @@ desk.zoho.in##.micsTop
 ||vc.hotjar.io^
 ||futy.io^
 ||heytapmobile.com^
+||heytapdl.com^

@@ -19252,3 +19252,4 @@
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 confe.dc.oppomobile.com

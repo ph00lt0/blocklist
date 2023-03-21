@@ -19144,3 +19144,4 @@ allawntech.com CNAME .
 moa-upload-online.coloros.com CNAME .
 dragate.dc.oppomobile.com CNAME .
 conff.dc.oppomobile.com CNAME .
+confe.dc.oppomobile.com CNAME .

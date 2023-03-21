@@ -19255,3 +19255,4 @@
 0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 apsrgeo.amap.com
 0.0.0.0 esa-reg-eup.myoppo.com
+0.0.0.0 data.sms.heytapmobi.com

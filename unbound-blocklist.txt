@@ -19125,3 +19125,4 @@ local-zone: "tencent.design." always_null
 local-zone: "tjstats.com." always_null
 local-zone: "wegamedeveloper.com." always_null
 local-zone: "weui.io." always_null
+local-zone: "apis.map.qq.com." always_null

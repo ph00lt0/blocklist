@@ -19122,3 +19122,4 @@ tencent.design CNAME .
 tjstats.com CNAME .
 wegamedeveloper.com CNAME .
 weui.io CNAME .
+apis.map.qq.com CNAME .

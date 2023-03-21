@@ -19142,3 +19142,4 @@ heytapdl.com CNAME .
 allawnos.com CNAME .
 allawntech.com CNAME .
 moa-upload-online.coloros.com CNAME .
+dragate.dc.oppomobile.com CNAME .

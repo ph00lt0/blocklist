@@ -19248,3 +19248,4 @@
 0.0.0.0 heytapmobile.com
 0.0.0.0 heytapdl.com
 0.0.0.0 allawnos.com
+0.0.0.0 allawntech.com

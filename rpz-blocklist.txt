@@ -19140,3 +19140,4 @@ futy.io CNAME .
 heytapmobile.com CNAME .
 heytapdl.com CNAME .
 allawnos.com CNAME .
+allawntech.com CNAME .

@@ -19823,3 +19823,4 @@ desk.zoho.in##.micsTop
 ||heytapmobile.com^
 ||heytapdl.com^
 ||allawnos.com^
+||allawntech.com^

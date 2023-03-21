@@ -19817,3 +19817,4 @@ desk.zoho.in##.micsTop
 ||nikosales.de^
 ||helloretail.com^
 ||linkedin.com^$third-party
+||oribi.io^

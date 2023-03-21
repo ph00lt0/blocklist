@@ -19137,3 +19137,4 @@ local-zone: "zanalytics.zoho.com." always_null
 local-zone: "usequote.net." always_null
 local-zone: "nikosales.de." always_null
 local-zone: "helloretail.com." always_null
+local-zone: "oribi.io." always_null

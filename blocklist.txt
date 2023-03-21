@@ -19778,3 +19778,4 @@ linkedin.com##.update-components-survey
 desk.zoho.eu##.micsTop
 desk.zoho.com##.micsTop
 desk.zoho.in##.micsTop
+||mta.tencent.com^

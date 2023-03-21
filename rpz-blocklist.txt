@@ -19146,3 +19146,4 @@ dragate.dc.oppomobile.com CNAME .
 conff.dc.oppomobile.com CNAME .
 confe.dc.oppomobile.com CNAME .
 apsrgeo.amap.com CNAME .
+esa-reg-eup.myoppo.com CNAME .

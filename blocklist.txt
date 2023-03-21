@@ -19829,3 +19829,4 @@ desk.zoho.in##.micsTop
 ||conff.dc.oppomobile.com^
 ||confe.dc.oppomobile.com^
 ||apsrgeo.amap.com^
+||esa-reg-eup.myoppo.com^

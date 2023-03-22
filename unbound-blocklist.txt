@@ -19158,3 +19158,4 @@ local-zone: "strato.es." always_null
 local-zone: "strato.nl." always_null
 local-zone: "strato.de." always_null
 local-zone: "cronon.net." always_null
+local-zone: "sltv.pw." always_null

@@ -19155,3 +19155,4 @@ strato.es CNAME .
 strato.nl CNAME .
 strato.de CNAME .
 cronon.net CNAME .
+sltv.pw CNAME .

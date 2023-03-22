@@ -19151,3 +19151,7 @@ local-zone: "confe.dc.oppomobile.com." always_null
 local-zone: "apsrgeo.amap.com." always_null
 local-zone: "esa-reg-eup.myoppo.com." always_null
 local-zone: "data.sms.heytapmobi.com." always_null
+local-zone: "strato.se." always_null
+local-zone: "strato-hosting.co.uk." always_null
+local-zone: "strato.fr." always_null
+local-zone: "strato.es." always_null

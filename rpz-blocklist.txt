@@ -19148,3 +19148,7 @@ confe.dc.oppomobile.com CNAME .
 apsrgeo.amap.com CNAME .
 esa-reg-eup.myoppo.com CNAME .
 data.sms.heytapmobi.com CNAME .
+strato.se CNAME .
+strato-hosting.co.uk CNAME .
+strato.fr CNAME .
+strato.es CNAME .

@@ -19179,3 +19179,4 @@ squeaky.ai CNAME .
 stormly.com CNAME .
 sealmetrics.com CNAME .
 analyzati.com CNAME .
+hypestat.com CNAME .

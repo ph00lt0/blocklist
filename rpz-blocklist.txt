@@ -19170,3 +19170,4 @@ meatfriends.nl CNAME .
 koloskys.de CNAME .
 nilly.io CNAME .
 telemetrydeck.com CNAME .
+wideangle.co CNAME .

@@ -19865,3 +19865,4 @@ desk.zoho.in##.micsTop
 ||analyzati.com^
 ||hypestat.com^
 ||bilgenart.com^
+||sigmacert.com.tr^

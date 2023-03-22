@@ -19181,3 +19181,4 @@ sealmetrics.com CNAME .
 analyzati.com CNAME .
 hypestat.com CNAME .
 bilgenart.com CNAME .
+sigmacert.com.tr CNAME .

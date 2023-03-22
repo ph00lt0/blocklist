@@ -19164,3 +19164,7 @@ mmqs10.top CNAME .
 api.share.baidu.com CNAME .
 vote.dbw.cn CNAME .
 special.dbw.cn CNAME .
+klclick.com CNAME .
+mastersione.de CNAME .
+meatfriends.nl CNAME .
+koloskys.de CNAME .

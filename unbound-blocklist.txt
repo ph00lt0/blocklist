@@ -19167,3 +19167,7 @@ local-zone: "17686.me." always_null
 local-zone: "api.share.baidu.com." always_null
 local-zone: "vote.dbw.cn." always_null
 local-zone: "special.dbw.cn." always_null
+local-zone: "klclick.com." always_null
+local-zone: "mastersione.de." always_null
+local-zone: "meatfriends.nl." always_null
+local-zone: "koloskys.de." always_null

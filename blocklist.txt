@@ -19848,3 +19848,7 @@ desk.zoho.in##.micsTop
 ||api.share.baidu.com^
 ||vote.dbw.cn^
 ||special.dbw.cn^
+||klclick.com^
+||mastersione.de^
+||meatfriends.nl^
+||koloskys.de^

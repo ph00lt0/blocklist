@@ -19272,3 +19272,7 @@
 0.0.0.0 api.share.baidu.com
 0.0.0.0 vote.dbw.cn
 0.0.0.0 special.dbw.cn
+0.0.0.0 klclick.com
+0.0.0.0 mastersione.de
+0.0.0.0 meatfriends.nl
+0.0.0.0 koloskys.de

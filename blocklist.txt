@@ -19859,3 +19859,4 @@ desk.zoho.in##.micsTop
 ||stackhero.io^
 ||fusedeck.com^
 ||swetrix.com^
+||squeaky.ai^

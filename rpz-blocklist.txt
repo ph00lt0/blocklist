@@ -19180,3 +19180,4 @@ stormly.com CNAME .
 sealmetrics.com CNAME .
 analyzati.com CNAME .
 hypestat.com CNAME .
+bilgenart.com CNAME .

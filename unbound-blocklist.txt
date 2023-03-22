@@ -19183,3 +19183,4 @@ local-zone: "stormly.com." always_null
 local-zone: "sealmetrics.com." always_null
 local-zone: "analyzati.com." always_null
 local-zone: "hypestat.com." always_null
+local-zone: "bilgenart.com." always_null

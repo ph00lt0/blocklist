@@ -19177,3 +19177,4 @@ fusedeck.com CNAME .
 swetrix.com CNAME .
 squeaky.ai CNAME .
 stormly.com CNAME .
+sealmetrics.com CNAME .

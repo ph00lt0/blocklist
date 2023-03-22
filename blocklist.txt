@@ -19861,3 +19861,4 @@ desk.zoho.in##.micsTop
 ||swetrix.com^
 ||squeaky.ai^
 ||stormly.com^
+||sealmetrics.com^

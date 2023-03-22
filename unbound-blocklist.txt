@@ -19155,3 +19155,5 @@ local-zone: "strato.se." always_null
 local-zone: "strato-hosting.co.uk." always_null
 local-zone: "strato.fr." always_null
 local-zone: "strato.es." always_null
+local-zone: "strato.nl." always_null
+local-zone: "strato.de." always_null

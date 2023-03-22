@@ -19260,3 +19260,5 @@
 0.0.0.0 strato-hosting.co.uk
 0.0.0.0 strato.fr
 0.0.0.0 strato.es
+0.0.0.0 strato.nl
+0.0.0.0 strato.de

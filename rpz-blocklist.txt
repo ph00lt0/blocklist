@@ -19152,3 +19152,5 @@ strato.se CNAME .
 strato-hosting.co.uk CNAME .
 strato.fr CNAME .
 strato.es CNAME .
+strato.nl CNAME .
+strato.de CNAME .

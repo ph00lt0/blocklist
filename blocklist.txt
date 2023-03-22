@@ -19835,3 +19835,5 @@ desk.zoho.in##.micsTop
 ||strato-hosting.co.uk^
 ||strato.fr^
 ||strato.es^
+||strato.nl^
+||strato.de^

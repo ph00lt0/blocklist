@@ -19174,3 +19174,4 @@ local-zone: "koloskys.de." always_null
 local-zone: "nilly.io." always_null
 local-zone: "telemetrydeck.com." always_null
 local-zone: "wideangle.co." always_null
+local-zone: "dreamdata.io." always_null

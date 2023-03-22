@@ -19171,3 +19171,4 @@ local-zone: "klclick.com." always_null
 local-zone: "mastersione.de." always_null
 local-zone: "meatfriends.nl." always_null
 local-zone: "koloskys.de." always_null
+local-zone: "nilly.io." always_null

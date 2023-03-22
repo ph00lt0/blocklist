@@ -19165,3 +19165,5 @@ local-zone: "mmqs10.top." always_null
 local-zone: "72017.vip." always_null
 local-zone: "17686.me." always_null
 local-zone: "api.share.baidu.com." always_null
+local-zone: "vote.dbw.cn." always_null
+local-zone: "special.dbw.cn." always_null

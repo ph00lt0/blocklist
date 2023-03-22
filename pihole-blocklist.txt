@@ -19270,3 +19270,5 @@
 0.0.0.0 72017.vip
 0.0.0.0 17686.me
 0.0.0.0 api.share.baidu.com
+0.0.0.0 vote.dbw.cn
+0.0.0.0 special.dbw.cn

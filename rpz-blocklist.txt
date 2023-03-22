@@ -19162,3 +19162,5 @@ mmqs10.top CNAME .
 72017.vip CNAME .
 17686.me CNAME .
 api.share.baidu.com CNAME .
+vote.dbw.cn CNAME .
+special.dbw.cn CNAME .

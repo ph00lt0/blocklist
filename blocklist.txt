@@ -19846,3 +19846,5 @@ desk.zoho.in##.micsTop
 ||72017.vip^
 ||17686.me^
 ||api.share.baidu.com^
+||vote.dbw.cn^
+||special.dbw.cn^

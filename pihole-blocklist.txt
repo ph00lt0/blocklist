@@ -19282,3 +19282,4 @@
 0.0.0.0 dreamdata.io
 0.0.0.0 stackhero.io
 0.0.0.0 fusedeck.com
+0.0.0.0 swetrix.com

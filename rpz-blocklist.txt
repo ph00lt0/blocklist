@@ -19174,3 +19174,4 @@ wideangle.co CNAME .
 dreamdata.io CNAME .
 stackhero.io CNAME .
 fusedeck.com CNAME .
+swetrix.com CNAME .

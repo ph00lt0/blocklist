@@ -19177,3 +19177,4 @@ local-zone: "wideangle.co." always_null
 local-zone: "dreamdata.io." always_null
 local-zone: "stackhero.io." always_null
 local-zone: "fusedeck.com." always_null
+local-zone: "swetrix.com." always_null

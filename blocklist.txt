@@ -19858,3 +19858,4 @@ desk.zoho.in##.micsTop
 ||dreamdata.io^
 ||stackhero.io^
 ||fusedeck.com^
+||swetrix.com^

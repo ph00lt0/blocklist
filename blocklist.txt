@@ -19862,3 +19862,4 @@ desk.zoho.in##.micsTop
 ||squeaky.ai^
 ||stormly.com^
 ||sealmetrics.com^
+||analyzati.com^

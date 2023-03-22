@@ -19262,3 +19262,4 @@
 0.0.0.0 strato.es
 0.0.0.0 strato.nl
 0.0.0.0 strato.de
+0.0.0.0 cronon.net

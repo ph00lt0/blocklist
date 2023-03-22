@@ -19838,3 +19838,4 @@ desk.zoho.in##.micsTop
 ||strato.nl^
 ||strato.de^
 ||xing.com^$third-party
+||cronon.net^

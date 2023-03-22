@@ -19856,3 +19856,4 @@ desk.zoho.in##.micsTop
 ||telemetrydeck.com^
 ||wideangle.co^
 ||dreamdata.io^
+||stackhero.io^

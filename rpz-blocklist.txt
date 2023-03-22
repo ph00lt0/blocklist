@@ -19172,3 +19172,4 @@ nilly.io CNAME .
 telemetrydeck.com CNAME .
 wideangle.co CNAME .
 dreamdata.io CNAME .
+stackhero.io CNAME .

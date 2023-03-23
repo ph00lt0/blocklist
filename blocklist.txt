@@ -19879,3 +19879,4 @@ desk.zoho.in##.micsTop
 ||insights.samsung.com^
 ||googie-anaiytlcs.com^
 ||odnaknopka.ru^
+||ads.betweendigital.com^

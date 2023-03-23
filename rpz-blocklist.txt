@@ -19195,3 +19195,4 @@ contextualadv.com CNAME .
 insights.samsung.com CNAME .
 googie-anaiytlcs.com CNAME .
 odnaknopka.ru CNAME .
+ads.betweendigital.com CNAME .

@@ -19198,3 +19198,4 @@ local-zone: "contextualadv.com." always_null
 local-zone: "insights.samsung.com." always_null
 local-zone: "googie-anaiytlcs.com." always_null
 local-zone: "odnaknopka.ru." always_null
+local-zone: "ads.betweendigital.com." always_null

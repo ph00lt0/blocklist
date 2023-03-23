@@ -19182,3 +19182,8 @@ analyzati.com CNAME .
 hypestat.com CNAME .
 bilgenart.com CNAME .
 sigmacert.com.tr CNAME .
+gonamod.com CNAME .
+siekis.com CNAME .
+navernnail.com CNAME .
+onlinewebshop.net CNAME .
+pzs.kr CNAME .

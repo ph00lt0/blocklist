@@ -19866,3 +19866,8 @@ desk.zoho.in##.micsTop
 ||hypestat.com^
 ||bilgenart.com^
 ||sigmacert.com.tr^
+||gonamod.com^
+||siekis.com^
+||navernnail.com^
+||onlinewebshop.net^
+||pzs.kr^

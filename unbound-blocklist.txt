@@ -19185,3 +19185,8 @@ local-zone: "analyzati.com." always_null
 local-zone: "hypestat.com." always_null
 local-zone: "bilgenart.com." always_null
 local-zone: "sigmacert.com.tr." always_null
+local-zone: "gonamod.com." always_null
+local-zone: "siekis.com." always_null
+local-zone: "navernnail.com." always_null
+local-zone: "onlinewebshop.net." always_null
+local-zone: "pzs.kr." always_null

@@ -19190,3 +19190,4 @@ local-zone: "siekis.com." always_null
 local-zone: "navernnail.com." always_null
 local-zone: "onlinewebshop.net." always_null
 local-zone: "pzs.kr." always_null
+local-zone: "tesla-online.net." always_null

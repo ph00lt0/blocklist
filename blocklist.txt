@@ -19873,3 +19873,4 @@ desk.zoho.in##.micsTop
 ||pzs.kr^
 ||tesla-online.net^
 ||smartsupp.com^
+||tesla-ltt.com^

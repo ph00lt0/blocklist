@@ -19298,3 +19298,4 @@
 0.0.0.0 tesla-online.net
 0.0.0.0 smartsupp.com
 0.0.0.0 tesla-ltt.com
+0.0.0.0 full-house.nl

@@ -19194,3 +19194,4 @@ full-house.nl CNAME .
 contextualadv.com CNAME .
 insights.samsung.com CNAME .
 googie-anaiytlcs.com CNAME .
+odnaknopka.ru CNAME .

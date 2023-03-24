@@ -19308,3 +19308,4 @@
 0.0.0.0 tesla2ai.net
 0.0.0.0 dateforyou.life
 0.0.0.0 prephe.ro
+0.0.0.0 kopernio.com

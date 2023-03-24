@@ -19204,3 +19204,4 @@ local-zone: "tesla2ai.net." always_null
 local-zone: "dateforyou.life." always_null
 local-zone: "prephe.ro." always_null
 local-zone: "kopernio.com." always_null
+local-zone: "endnote.com." always_null

@@ -19891,3 +19891,4 @@ desk.zoho.in##.micsTop
 ||openzurich.com^
 ||votecompany.com^
 ||clubcollect.com^
+||stato-mailcenter.com^

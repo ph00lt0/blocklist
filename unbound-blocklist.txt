@@ -19210,3 +19210,4 @@ local-zone: "crxsoso.com." always_null
 local-zone: "openzurich.com." always_null
 local-zone: "votecompany.com." always_null
 local-zone: "clubcollect.com." always_null
+local-zone: "stato-mailcenter.com." always_null

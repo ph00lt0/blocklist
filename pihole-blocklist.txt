@@ -19315,3 +19315,4 @@
 0.0.0.0 openzurich.com
 0.0.0.0 votecompany.com
 0.0.0.0 clubcollect.com
+0.0.0.0 stato-mailcenter.com

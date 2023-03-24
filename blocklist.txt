@@ -19886,3 +19886,4 @@ desk.zoho.in##.micsTop
 ||prephe.ro^
 ||kopernio.com^
 ||endnote.com^
+||clarivate.com^

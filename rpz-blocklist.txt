@@ -19206,3 +19206,4 @@ clarivate.com CNAME .
 crxsoso.com CNAME .
 openzurich.com CNAME .
 votecompany.com CNAME .
+clubcollect.com CNAME .

@@ -19314,3 +19314,4 @@
 0.0.0.0 crxsoso.com
 0.0.0.0 openzurich.com
 0.0.0.0 votecompany.com
+0.0.0.0 clubcollect.com

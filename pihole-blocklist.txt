@@ -19305,3 +19305,4 @@
 0.0.0.0 odnaknopka.ru
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 directadvert.ru
+0.0.0.0 tesla2ai.net

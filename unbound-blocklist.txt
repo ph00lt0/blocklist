@@ -19200,3 +19200,4 @@ local-zone: "googie-anaiytlcs.com." always_null
 local-zone: "odnaknopka.ru." always_null
 local-zone: "ads.betweendigital.com." always_null
 local-zone: "directadvert.ru." always_null
+local-zone: "tesla2ai.net." always_null

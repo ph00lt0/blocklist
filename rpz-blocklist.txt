@@ -19198,3 +19198,4 @@ odnaknopka.ru CNAME .
 ads.betweendigital.com CNAME .
 directadvert.ru CNAME .
 tesla2ai.net CNAME .
+dateforyou.life CNAME .

@@ -19202,3 +19202,4 @@ local-zone: "ads.betweendigital.com." always_null
 local-zone: "directadvert.ru." always_null
 local-zone: "tesla2ai.net." always_null
 local-zone: "dateforyou.life." always_null
+local-zone: "prephe.ro." always_null

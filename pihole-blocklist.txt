@@ -19313,3 +19313,4 @@
 0.0.0.0 clarivate.com
 0.0.0.0 crxsoso.com
 0.0.0.0 openzurich.com
+0.0.0.0 votecompany.com

@@ -19889,3 +19889,4 @@ desk.zoho.in##.micsTop
 ||clarivate.com^
 ||crxsoso.com^
 ||openzurich.com^
+||votecompany.com^

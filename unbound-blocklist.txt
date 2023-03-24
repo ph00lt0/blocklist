@@ -19208,3 +19208,4 @@ local-zone: "endnote.com." always_null
 local-zone: "clarivate.com." always_null
 local-zone: "crxsoso.com." always_null
 local-zone: "openzurich.com." always_null
+local-zone: "votecompany.com." always_null

@@ -19204,3 +19204,4 @@ kopernio.com CNAME .
 endnote.com CNAME .
 clarivate.com CNAME .
 crxsoso.com CNAME .
+openzurich.com CNAME .

@@ -19312,3 +19312,4 @@
 0.0.0.0 endnote.com
 0.0.0.0 clarivate.com
 0.0.0.0 crxsoso.com
+0.0.0.0 openzurich.com

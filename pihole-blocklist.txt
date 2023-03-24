@@ -19311,3 +19311,4 @@
 0.0.0.0 kopernio.com
 0.0.0.0 endnote.com
 0.0.0.0 clarivate.com
+0.0.0.0 crxsoso.com

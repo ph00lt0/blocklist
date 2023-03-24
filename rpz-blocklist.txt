@@ -19203,3 +19203,4 @@ prephe.ro CNAME .
 kopernio.com CNAME .
 endnote.com CNAME .
 clarivate.com CNAME .
+crxsoso.com CNAME .

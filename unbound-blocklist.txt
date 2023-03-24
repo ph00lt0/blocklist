@@ -19206,3 +19206,4 @@ local-zone: "prephe.ro." always_null
 local-zone: "kopernio.com." always_null
 local-zone: "endnote.com." always_null
 local-zone: "clarivate.com." always_null
+local-zone: "crxsoso.com." always_null

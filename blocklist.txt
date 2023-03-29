@@ -19897,3 +19897,4 @@ desk.zoho.in##.micsTop
 ||couponlabs.net^
 ||freshset.pl^
 ||yourdailyhealthpack.com^
+||pinduoduo.com^

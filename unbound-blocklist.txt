@@ -19216,3 +19216,4 @@ local-zone: "couponlabs.eu." always_null
 local-zone: "couponlabs.net." always_null
 local-zone: "freshset.pl." always_null
 local-zone: "yourdailyhealthpack.com." always_null
+local-zone: "pinduoduo.com." always_null

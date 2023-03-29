@@ -19225,3 +19225,4 @@ dapresy.com CNAME .
 bhnrewards.com CNAME .
 initova.com CNAME .
 selected-offers.com CNAME .
+timetravelpromotion.com CNAME .

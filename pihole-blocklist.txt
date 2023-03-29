@@ -19362,3 +19362,11 @@
 0.0.0.0 cs.agency2.ru
 0.0.0.0 uuidksinc.net
 0.0.0.0 clearme.com
+0.0.0.0 krxd.nte
+0.0.0.0 eyeota.net
+0.0.0.0 yieldlab.net
+0.0.0.0 ernxdgt.com
+0.0.0.0 ib-ibi.com
+0.0.0.0 eyeviewads.com
+0.0.0.0 mashape.com
+0.0.0.0 w55c.net

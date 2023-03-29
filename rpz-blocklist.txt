@@ -19254,3 +19254,11 @@ belesta1024.ru CNAME .
 cs.agency2.ru CNAME .
 uuidksinc.net CNAME .
 clearme.com CNAME .
+krxd.nte CNAME .
+eyeota.net CNAME .
+yieldlab.net CNAME .
+ernxdgt.com CNAME .
+ib-ibi.com CNAME .
+eyeviewads.com CNAME .
+mashape.com CNAME .
+w55c.net CNAME .

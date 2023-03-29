@@ -19257,3 +19257,11 @@ local-zone: "belesta1024.ru." always_null
 local-zone: "cs.agency2.ru." always_null
 local-zone: "uuidksinc.net." always_null
 local-zone: "clearme.com." always_null
+local-zone: "krxd.nte." always_null
+local-zone: "eyeota.net." always_null
+local-zone: "yieldlab.net." always_null
+local-zone: "ernxdgt.com." always_null
+local-zone: "ib-ibi.com." always_null
+local-zone: "eyeviewads.com." always_null
+local-zone: "mashape.com." always_null
+local-zone: "w55c.net." always_null

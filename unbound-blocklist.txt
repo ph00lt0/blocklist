@@ -19219,3 +19219,4 @@ local-zone: "yourdailyhealthpack.com." always_null
 local-zone: "pinduoduo.com." always_null
 local-zone: "reglement-info-netflix.com." always_null
 local-zone: "buzinessware.ir." always_null
+local-zone: "comericacoreward.com." always_null

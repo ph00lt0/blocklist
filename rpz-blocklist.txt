@@ -19209,3 +19209,4 @@ votecompany.com CNAME .
 clubcollect.com CNAME .
 stato-mailcenter.com CNAME .
 engagementboost-specialist.com CNAME .
+couponlabs.eu CNAME .

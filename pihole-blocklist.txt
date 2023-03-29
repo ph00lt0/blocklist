@@ -19317,3 +19317,4 @@
 0.0.0.0 clubcollect.com
 0.0.0.0 stato-mailcenter.com
 0.0.0.0 engagementboost-specialist.com
+0.0.0.0 couponlabs.eu

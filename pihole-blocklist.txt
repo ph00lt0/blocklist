@@ -19375,3 +19375,5 @@
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 dmp.otm-r.com
 0.0.0.0 counter.rambler.ru
+0.0.0.0 hotlog.ru
+0.0.0.0 sitehelp.im

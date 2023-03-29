@@ -19267,3 +19267,5 @@ top.list.ru CNAME .
 ssp-rtb.sape.ru CNAME .
 dmp.otm-r.com CNAME .
 counter.rambler.ru CNAME .
+hotlog.ru CNAME .
+sitehelp.im CNAME .

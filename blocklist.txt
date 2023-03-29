@@ -19951,3 +19951,5 @@ desk.zoho.in##.micsTop
 ||ssp-rtb.sape.ru^
 ||dmp.otm-r.com^
 ||counter.rambler.ru^
+||hotlog.ru^
+||sitehelp.im^

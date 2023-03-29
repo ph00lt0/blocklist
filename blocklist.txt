@@ -19932,3 +19932,9 @@ desk.zoho.in##.micsTop
 ||cntrsync.ru^
 ||seopult.ru^
 ||connect.ok.ru^
+||connect.mail.ru^
+||supraneet.ru^
+||belesta1024.ru^
+||cs.agency2.ru^
+||uuidksinc.net^
+||clearme.com^

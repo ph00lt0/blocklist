@@ -19248,3 +19248,9 @@ upravel.com CNAME .
 cntrsync.ru CNAME .
 seopult.ru CNAME .
 connect.ok.ru CNAME .
+connect.mail.ru CNAME .
+supraneet.ru CNAME .
+belesta1024.ru CNAME .
+cs.agency2.ru CNAME .
+uuidksinc.net CNAME .
+clearme.com CNAME .

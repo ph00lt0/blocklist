@@ -19356,3 +19356,9 @@
 0.0.0.0 cntrsync.ru
 0.0.0.0 seopult.ru
 0.0.0.0 connect.ok.ru
+0.0.0.0 connect.mail.ru
+0.0.0.0 supraneet.ru
+0.0.0.0 belesta1024.ru
+0.0.0.0 cs.agency2.ru
+0.0.0.0 uuidksinc.net
+0.0.0.0 clearme.com

@@ -19251,3 +19251,9 @@ local-zone: "upravel.com." always_null
 local-zone: "cntrsync.ru." always_null
 local-zone: "seopult.ru." always_null
 local-zone: "connect.ok.ru." always_null
+local-zone: "connect.mail.ru." always_null
+local-zone: "supraneet.ru." always_null
+local-zone: "belesta1024.ru." always_null
+local-zone: "cs.agency2.ru." always_null
+local-zone: "uuidksinc.net." always_null
+local-zone: "clearme.com." always_null

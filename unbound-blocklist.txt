@@ -19282,3 +19282,15 @@ local-zone: "u22088.com." always_null
 local-zone: "u25022.com." always_null
 local-zone: "sitrey.com." always_null
 local-zone: "aoattsetp.vip." always_null
+local-zone: "tupkku.top." always_null
+local-zone: "toutiaoimg.com." always_null
+local-zone: "market71.com." always_null
+local-zone: "thtdms.com." always_null
+local-zone: "kzett.com." always_null
+local-zone: "hudie2.cc." always_null
+local-zone: "bitcoin-powersupply.com." always_null
+local-zone: "360buyimg.com." always_null
+local-zone: "kvthhh.top." always_null
+local-zone: "ezfxpuo.cn." always_null
+local-zone: "u33011.com." always_null
+local-zone: "n33033.com." always_null

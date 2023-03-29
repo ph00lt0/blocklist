@@ -19217,3 +19217,4 @@ pinduoduo.com CNAME .
 reglement-info-netflix.com CNAME .
 buzinessware.ir CNAME .
 comericacoreward.com CNAME .
+jioo.com CNAME .

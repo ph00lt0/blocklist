@@ -19910,3 +19910,4 @@ desk.zoho.in##.micsTop
 ||initova.com^
 ||selected-offers.com^
 ||timetravelpromotion.com^
+||tryoffer.net^

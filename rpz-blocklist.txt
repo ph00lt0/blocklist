@@ -19226,3 +19226,4 @@ bhnrewards.com CNAME .
 initova.com CNAME .
 selected-offers.com CNAME .
 timetravelpromotion.com CNAME .
+tryoffer.net CNAME .

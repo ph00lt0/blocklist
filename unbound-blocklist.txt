@@ -19265,3 +19265,8 @@ local-zone: "ib-ibi.com." always_null
 local-zone: "eyeviewads.com." always_null
 local-zone: "mashape.com." always_null
 local-zone: "w55c.net." always_null
+local-zone: "bestssp.com." always_null
+local-zone: "top.list.ru." always_null
+local-zone: "ssp-rtb.sape.ru." always_null
+local-zone: "dmp.otm-r.com." always_null
+local-zone: "counter.rambler.ru." always_null

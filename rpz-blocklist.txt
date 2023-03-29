@@ -19262,3 +19262,8 @@ ib-ibi.com CNAME .
 eyeviewads.com CNAME .
 mashape.com CNAME .
 w55c.net CNAME .
+bestssp.com CNAME .
+top.list.ru CNAME .
+ssp-rtb.sape.ru CNAME .
+dmp.otm-r.com CNAME .
+counter.rambler.ru CNAME .

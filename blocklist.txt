@@ -19954,3 +19954,4 @@ desk.zoho.in##.micsTop
 ||hotlog.ru^
 ||sitehelp.im^
 ||cobanoir.site^
+||cardclaim.live^

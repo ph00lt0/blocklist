@@ -19273,3 +19273,4 @@ local-zone: "counter.rambler.ru." always_null
 local-zone: "hotlog.ru." always_null
 local-zone: "sitehelp.im." always_null
 local-zone: "cobanoir.site." always_null
+local-zone: "cardclaim.live." always_null

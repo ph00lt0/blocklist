@@ -19378,3 +19378,4 @@
 0.0.0.0 hotlog.ru
 0.0.0.0 sitehelp.im
 0.0.0.0 cobanoir.site
+0.0.0.0 cardclaim.live

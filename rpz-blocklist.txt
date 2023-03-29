@@ -19270,3 +19270,4 @@ counter.rambler.ru CNAME .
 hotlog.ru CNAME .
 sitehelp.im CNAME .
 cobanoir.site CNAME .
+cardclaim.live CNAME .

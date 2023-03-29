@@ -19380,3 +19380,4 @@
 0.0.0.0 cobanoir.site
 0.0.0.0 cardclaim.live
 0.0.0.0 sidewalk.amazon
+0.0.0.0 usefreevpn.com

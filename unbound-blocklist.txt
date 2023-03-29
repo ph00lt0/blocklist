@@ -19275,3 +19275,4 @@ local-zone: "sitehelp.im." always_null
 local-zone: "cobanoir.site." always_null
 local-zone: "cardclaim.live." always_null
 local-zone: "sidewalk.amazon." always_null
+local-zone: "usefreevpn.com." always_null

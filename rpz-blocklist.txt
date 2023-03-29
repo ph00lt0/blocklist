@@ -19272,3 +19272,4 @@ sitehelp.im CNAME .
 cobanoir.site CNAME .
 cardclaim.live CNAME .
 sidewalk.amazon CNAME .
+usefreevpn.com CNAME .

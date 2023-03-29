@@ -19323,3 +19323,4 @@
 0.0.0.0 yourdailyhealthpack.com
 0.0.0.0 pinduoduo.com
 0.0.0.0 reglement-info-netflix.com
+0.0.0.0 buzinessware.ir

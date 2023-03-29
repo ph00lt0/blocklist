@@ -19215,3 +19215,4 @@ freshset.pl CNAME .
 yourdailyhealthpack.com CNAME .
 pinduoduo.com CNAME .
 reglement-info-netflix.com CNAME .
+buzinessware.ir CNAME .

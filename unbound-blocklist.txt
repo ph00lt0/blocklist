@@ -19213,3 +19213,4 @@ local-zone: "clubcollect.com." always_null
 local-zone: "stato-mailcenter.com." always_null
 local-zone: "engagementboost-specialist.com." always_null
 local-zone: "couponlabs.eu." always_null
+local-zone: "couponlabs.net." always_null

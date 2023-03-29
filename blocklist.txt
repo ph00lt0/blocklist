@@ -19894,3 +19894,4 @@ desk.zoho.in##.micsTop
 ||stato-mailcenter.com^
 ||engagementboost-specialist.com^
 ||couponlabs.eu^
+||couponlabs.net^

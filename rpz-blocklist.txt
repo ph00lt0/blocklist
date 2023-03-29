@@ -19219,3 +19219,4 @@ buzinessware.ir CNAME .
 comericacoreward.com CNAME .
 jioo.com CNAME .
 paymentsupportep.com CNAME .
+emporiaresearch.com CNAME .

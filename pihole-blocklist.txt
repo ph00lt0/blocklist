@@ -19381,3 +19381,9 @@
 0.0.0.0 cardclaim.live
 0.0.0.0 sidewalk.amazon
 0.0.0.0 usefreevpn.com
+0.0.0.0 tukky.vip
+0.0.0.0 abankbonus.com
+0.0.0.0 u22088.com
+0.0.0.0 u25022.com
+0.0.0.0 sitrey.com
+0.0.0.0 aoattsetp.vip

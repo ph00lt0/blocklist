@@ -19276,3 +19276,9 @@ local-zone: "cobanoir.site." always_null
 local-zone: "cardclaim.live." always_null
 local-zone: "sidewalk.amazon." always_null
 local-zone: "usefreevpn.com." always_null
+local-zone: "tukky.vip." always_null
+local-zone: "abankbonus.com." always_null
+local-zone: "u22088.com." always_null
+local-zone: "u25022.com." always_null
+local-zone: "sitrey.com." always_null
+local-zone: "aoattsetp.vip." always_null

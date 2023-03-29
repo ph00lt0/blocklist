@@ -19273,3 +19273,9 @@ cobanoir.site CNAME .
 cardclaim.live CNAME .
 sidewalk.amazon CNAME .
 usefreevpn.com CNAME .
+tukky.vip CNAME .
+abankbonus.com CNAME .
+u22088.com CNAME .
+u25022.com CNAME .
+sitrey.com CNAME .
+aoattsetp.vip CNAME .

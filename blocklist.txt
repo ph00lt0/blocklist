@@ -19955,3 +19955,4 @@ desk.zoho.in##.micsTop
 ||sitehelp.im^
 ||cobanoir.site^
 ||cardclaim.live^
+||sidewalk.amazon^

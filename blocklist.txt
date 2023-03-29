@@ -19908,3 +19908,4 @@ desk.zoho.in##.micsTop
 ||dapresy.com^
 ||bhnrewards.com^
 ||initova.com^
+||selected-offers.com^

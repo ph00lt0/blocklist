@@ -19227,3 +19227,4 @@ local-zone: "nebu.com." always_null
 local-zone: "dapresy.com." always_null
 local-zone: "bhnrewards.com." always_null
 local-zone: "initova.com." always_null
+local-zone: "selected-offers.com." always_null

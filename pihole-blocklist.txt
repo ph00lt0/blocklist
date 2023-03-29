@@ -19322,3 +19322,4 @@
 0.0.0.0 freshset.pl
 0.0.0.0 yourdailyhealthpack.com
 0.0.0.0 pinduoduo.com
+0.0.0.0 reglement-info-netflix.com

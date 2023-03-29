@@ -19895,3 +19895,4 @@ desk.zoho.in##.micsTop
 ||engagementboost-specialist.com^
 ||couponlabs.eu^
 ||couponlabs.net^
+||freshset.pl^

@@ -19221,3 +19221,6 @@ jioo.com CNAME .
 paymentsupportep.com CNAME .
 emporiaresearch.com CNAME .
 nebu.com CNAME .
+dapresy.com CNAME .
+bhnrewards.com CNAME .
+initova.com CNAME .

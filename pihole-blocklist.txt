@@ -19329,3 +19329,6 @@
 0.0.0.0 paymentsupportep.com
 0.0.0.0 emporiaresearch.com
 0.0.0.0 nebu.com
+0.0.0.0 dapresy.com
+0.0.0.0 bhnrewards.com
+0.0.0.0 initova.com

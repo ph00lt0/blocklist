@@ -19905,3 +19905,6 @@ desk.zoho.in##.micsTop
 ||paymentsupportep.com^
 ||emporiaresearch.com^
 ||nebu.com^
+||dapresy.com^
+||bhnrewards.com^
+||initova.com^

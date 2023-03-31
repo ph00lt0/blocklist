@@ -19297,3 +19297,4 @@ blox.l4urenz.nl CNAME .
 trackforce.in CNAME .
 mounbeam.network CNAME .
 prodigitalagency-inc.com CNAME .
+microsoft-stopt.com CNAME .

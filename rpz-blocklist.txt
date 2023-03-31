@@ -14418,7 +14418,7 @@ d13b8te57b1mih.cloudfront.net CNAME .
 d146hssdam8yqh.cloudfront.net CNAME .
 d167dmkkzosnsj.cloudfront.net CNAME .
 d16mn2gxspkaop.cloudfront.net CNAME .
-d18z4g4dosh1xa.cloudfront.net CNAME .
+; allow d18z4g4dosh1xa.cloudfront.net reason: cdn
 d191gucnqqinu5.cloudfront.net CNAME .
 d1c96urnla7s2u.cloudfront.net CNAME .
 d1cp3mofwcwjr3.cloudfront.net CNAME .

@@ -14847,7 +14847,7 @@ $removeparam=engagement_type
 ||d146hssdam8yqh.cloudfront.net^
 ||d167dmkkzosnsj.cloudfront.net^
 ||d16mn2gxspkaop.cloudfront.net^
-||d18z4g4dosh1xa.cloudfront.net^
+||d18z4g4dosh1xa.cloudfront.net^$badfilter  # cdn
 ||d191gucnqqinu5.cloudfront.net^
 ||d1c96urnla7s2u.cloudfront.net^
 ||d1cp3mofwcwjr3.cloudfront.net^

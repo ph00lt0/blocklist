@@ -14526,7 +14526,7 @@
 0.0.0.0 d146hssdam8yqh.cloudfront.net
 0.0.0.0 d167dmkkzosnsj.cloudfront.net
 0.0.0.0 d16mn2gxspkaop.cloudfront.net
-0.0.0.0 d18z4g4dosh1xa.cloudfront.net
+! allow d18z4g4dosh1xa.cloudfront.net reason: cdn
 0.0.0.0 d191gucnqqinu5.cloudfront.net
 0.0.0.0 d1c96urnla7s2u.cloudfront.net
 0.0.0.0 d1cp3mofwcwjr3.cloudfront.net

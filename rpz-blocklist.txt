@@ -14463,7 +14463,7 @@ d2icrmvj8iw6h.cloudfront.net CNAME .
 d2k0w1g454zk4u.cloudfront.net CNAME .
 d2knphq6m6mz66.cloudfront.net CNAME .
 d2licdfz31ol73.cloudfront.net CNAME .
-d2mubj7afuiaat.cloudfront.net CNAME .
+; allow d2mubj7afuiaat.cloudfront.net reason: cdn
 d2oqqqa5ijtcmo.cloudfront.net CNAME .
 d2phoofh5prykf.cloudfront.net CNAME .
 d2q4ga9yb53uwq.cloudfront.net CNAME .

@@ -14466,7 +14466,7 @@ local-zone: "d2icrmvj8iw6h.cloudfront.net." always_null
 local-zone: "d2k0w1g454zk4u.cloudfront.net." always_null
 local-zone: "d2knphq6m6mz66.cloudfront.net." always_null
 local-zone: "d2licdfz31ol73.cloudfront.net." always_null
-local-zone: "d2mubj7afuiaat.cloudfront.net." always_null
+# allow d2mubj7afuiaat.cloudfront.net reason: cdn
 local-zone: "d2oqqqa5ijtcmo.cloudfront.net." always_null
 local-zone: "d2phoofh5prykf.cloudfront.net." always_null
 local-zone: "d2q4ga9yb53uwq.cloudfront.net." always_null

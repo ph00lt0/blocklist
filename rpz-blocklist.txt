@@ -19300,3 +19300,4 @@ prodigitalagency-inc.com CNAME .
 microsoft-stopt.com CNAME .
 ooplogic.com CNAME .
 getsocialmediafame.com CNAME .
+remedyhhc.com CNAME .

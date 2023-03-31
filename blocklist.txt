@@ -19982,3 +19982,4 @@ desk.zoho.in##.micsTop
 ||mounbeam.network^
 ||prodigitalagency-inc.com^
 ||microsoft-stopt.com^
+||ooplogic.com^

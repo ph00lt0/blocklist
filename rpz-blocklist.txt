@@ -19299,3 +19299,4 @@ mounbeam.network CNAME .
 prodigitalagency-inc.com CNAME .
 microsoft-stopt.com CNAME .
 ooplogic.com CNAME .
+getsocialmediafame.com CNAME .

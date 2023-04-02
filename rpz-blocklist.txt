@@ -19356,3 +19356,5 @@ mordorintelligence.com CNAME .
 rothco.ie CNAME .
 ptools.com CNAME .
 mii.ie CNAME .
+cfernandes.com.br CNAME .
+clickbank.net CNAME .

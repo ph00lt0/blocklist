@@ -19359,3 +19359,5 @@ local-zone: "mordorintelligence.com." always_null
 local-zone: "rothco.ie." always_null
 local-zone: "ptools.com." always_null
 local-zone: "mii.ie." always_null
+local-zone: "cfernandes.com.br." always_null
+local-zone: "clickbank.net." always_null

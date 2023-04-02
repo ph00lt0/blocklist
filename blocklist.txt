@@ -20040,3 +20040,5 @@ desk.zoho.in##.micsTop
 ||rothco.ie^
 ||ptools.com^
 ||mii.ie^
+||cfernandes.com.br^
+||clickbank.net^

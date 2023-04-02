@@ -19464,3 +19464,5 @@
 0.0.0.0 rothco.ie
 0.0.0.0 ptools.com
 0.0.0.0 mii.ie
+0.0.0.0 cfernandes.com.br
+0.0.0.0 clickbank.net

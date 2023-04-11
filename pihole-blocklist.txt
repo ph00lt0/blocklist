@@ -19470,3 +19470,4 @@
 0.0.0.0 testwe.eu
 0.0.0.0 kinderattraktie.nl
 0.0.0.0 winstalle.gb.net
+0.0.0.0 mqtt-mini.facebook.com

@@ -19366,3 +19366,4 @@ local-zone: "testwe.eu." always_null
 local-zone: "kinderattraktie.nl." always_null
 local-zone: "winstalle.gb.net." always_null
 local-zone: "mqtt-mini.facebook.com." always_null
+local-zone: "bellagio.nl." always_null

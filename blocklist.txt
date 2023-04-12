@@ -20050,3 +20050,4 @@ desk.zoho.in##.micsTop
 ||bellagio.nl^
 ||foreverliving.com^
 ||thesocial-ig.com^
+||uservoice.com^$third-party

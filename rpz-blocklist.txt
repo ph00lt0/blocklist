@@ -634,7 +634,7 @@ c.bing.com CNAME .
 bat.bing.com CNAME .
 rink.hockeyapp.net CNAME .
 OneDrive-Collection.device.mobileengagement.windows.net CNAME .
-by.uservoice.com CNAME .
+by.; allow uservoice.com reason: Platform
 ransomwaretracker.abuse.ch CNAME .
 m.weeklyad.target.com CNAME .
 weeklyad.target.com.edgesuite.net CNAME .
@@ -3655,8 +3655,8 @@ stats.medeastcloud.com CNAME .
 getsitecontrol.com CNAME .
 l.getsitecontrol.com CNAME .
 services.vlitag.com CNAME .
-widget.uservoice.com CNAME .
-uservoice.com CNAME .
+widget.; allow uservoice.com reason: Platform
+; allow uservoice.com reason: Platform
 stats.converter.app CNAME .
 lustre.ai CNAME .
 ws-na.amazon-adsystem.com CNAME .

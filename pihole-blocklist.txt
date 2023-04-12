@@ -3720,7 +3720,7 @@
 0.0.0.0 l.getsitecontrol.com
 0.0.0.0 services.vlitag.com
 0.0.0.0 widget.uservoice.com
-0.0.0.0 uservoice.com
+! allow uservoice.com reason: Platform
 0.0.0.0 stats.converter.app
 0.0.0.0 lustre.ai
 0.0.0.0 ws-na.amazon-adsystem.com

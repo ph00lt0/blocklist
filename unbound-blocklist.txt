@@ -3658,7 +3658,7 @@ local-zone: "getsitecontrol.com." always_null
 local-zone: "l.getsitecontrol.com." always_null
 local-zone: "services.vlitag.com." always_null
 local-zone: "widget.uservoice.com." always_null
-local-zone: "uservoice.com." always_null
+# allow uservoice.com reason: Platform
 local-zone: "stats.converter.app." always_null
 local-zone: "lustre.ai." always_null
 local-zone: "ws-na.amazon-adsystem.com." always_null

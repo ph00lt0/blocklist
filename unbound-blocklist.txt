@@ -19372,3 +19372,4 @@ local-zone: "thesocial-ig.com." always_null
 local-zone: "tryforsale.com." always_null
 local-zone: "leesmanindex.co.uk." always_null
 local-zone: "leesmanindex.com." always_null
+local-zone: "ofertino.net." always_null

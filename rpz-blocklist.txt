@@ -19367,3 +19367,5 @@ bellagio.nl CNAME .
 foreverliving.com CNAME .
 thesocial-ig.com CNAME .
 tryforsale.com CNAME .
+leesmanindex.co.uk CNAME .
+leesmanindex.com CNAME .

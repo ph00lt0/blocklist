@@ -20052,3 +20052,5 @@ desk.zoho.in##.micsTop
 ||thesocial-ig.com^
 ||uservoice.com^$third-party
 ||tryforsale.com^
+||leesmanindex.co.uk^
+||leesmanindex.com^

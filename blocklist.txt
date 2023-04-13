@@ -20051,3 +20051,4 @@ desk.zoho.in##.micsTop
 ||foreverliving.com^
 ||thesocial-ig.com^
 ||uservoice.com^$third-party
+||tryforsale.com^

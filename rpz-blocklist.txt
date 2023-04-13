@@ -19371,3 +19371,4 @@ leesmanindex.co.uk CNAME .
 leesmanindex.com CNAME .
 ofertino.net CNAME .
 viraloninsta.com CNAME .
+share.pluso.ru CNAME .

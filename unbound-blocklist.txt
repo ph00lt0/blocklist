@@ -19374,3 +19374,4 @@ local-zone: "leesmanindex.co.uk." always_null
 local-zone: "leesmanindex.com." always_null
 local-zone: "ofertino.net." always_null
 local-zone: "viraloninsta.com." always_null
+local-zone: "share.pluso.ru." always_null

@@ -19436,3 +19436,4 @@ toolsfortrails.com CNAME .
 pjewelry.com CNAME .
 mediaprogroup.pl> CNAME .
 wowdigital.go2cloud.org CNAME .
+szakaldesign.hu CNAME .

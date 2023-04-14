@@ -19394,3 +19394,4 @@ mygovernment.cyou CNAME .
 geldanforderung-hennrike.de CNAME .
 trust23wallet.art CNAME .
 ltsme-webservice.ddns.net CNAME .
+hopto.org CNAME .

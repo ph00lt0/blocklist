@@ -19445,3 +19445,4 @@ local-zone: "outspot.nl." always_null
 local-zone: "novusenergie.nl." always_null
 local-zone: "zwemmershop.nl." always_null
 local-zone: "serimika.nl." always_null
+local-zone: "ndncollective.org." always_null

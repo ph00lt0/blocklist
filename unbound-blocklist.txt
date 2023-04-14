@@ -19376,3 +19376,4 @@ local-zone: "ofertino.net." always_null
 local-zone: "viraloninsta.com." always_null
 local-zone: "share.pluso.ru." always_null
 local-zone: "lcscards-klantnr-49289182.com." always_null
+local-zone: "mijnics-actualisatie.com." always_null

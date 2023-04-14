@@ -19379,3 +19379,4 @@ local-zone: "lcscards-klantnr-49289182.com." always_null
 local-zone: "mijnics-actualisatie.com." always_null
 local-zone: "itsme-form.info." always_null
 local-zone: "michilore.sbs." always_null
+local-zone: "yorksurveyors.co.uk." always_null

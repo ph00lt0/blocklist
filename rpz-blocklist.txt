@@ -19428,3 +19428,4 @@ idevelopweb.com CNAME .
 onlinetrck.com CNAME .
 onsmail.nl CNAME .
 shopboard.ltd CNAME .
+waterstons.info CNAME .

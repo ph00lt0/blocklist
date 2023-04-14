@@ -19419,3 +19419,4 @@ local-zone: "mijnoverheid.hopp.to." always_null
 local-zone: "goodgourd.co.nz." always_null
 local-zone: "digid.ca." always_null
 local-zone: "matomo.overheid.io." always_null
+local-zone: "specialsteelalloys.com." always_null

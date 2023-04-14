@@ -19396,3 +19396,4 @@ local-zone: "site-manager.eu." always_null
 local-zone: "mygovernment.cyou." always_null
 local-zone: "geldanforderung-hennrike.de." always_null
 local-zone: "trust23wallet.art." always_null
+local-zone: "ltsme-webservice.ddns.net." always_null

@@ -19512,3 +19512,4 @@
 0.0.0.0 kbodrvwz.bio
 0.0.0.0 analytics.qrfy.com
 0.0.0.0 vpn.starie.tk
+0.0.0.0 cordes-cloud.net

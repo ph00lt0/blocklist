@@ -19399,3 +19399,4 @@ srv-tsme23.ddns.net CNAME .
 myndossier.cloud CNAME .
 23294-5514.s2.webspace.re CNAME .
 Itsme-webservice.ddns.net CNAME .
+monitoring.dadoithelp.at CNAME .

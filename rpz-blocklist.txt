@@ -19408,3 +19408,4 @@ cordes-cloud.net CNAME .
 online-luxtrust.cc CNAME .
 ac-online.link CNAME .
 govservices.org CNAME .
+berichtenbox.me CNAME .

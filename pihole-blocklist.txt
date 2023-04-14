@@ -19516,3 +19516,4 @@
 0.0.0.0 online-luxtrust.cc
 0.0.0.0 ac-online.link
 0.0.0.0 govservices.org
+0.0.0.0 berichtenbox.me

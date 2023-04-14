@@ -19432,3 +19432,4 @@ waterstons.info CNAME .
 multiaccess.co CNAME .
 host-care.com CNAME .
 versenderbuero.com CNAME .
+toolsfortrails.com CNAME .

@@ -19396,3 +19396,4 @@ trust23wallet.art CNAME .
 ltsme-webservice.ddns.net CNAME .
 hopto.org CNAME .
 srv-tsme23.ddns.net CNAME .
+myndossier.cloud CNAME .

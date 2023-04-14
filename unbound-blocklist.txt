@@ -19399,3 +19399,4 @@ local-zone: "trust23wallet.art." always_null
 local-zone: "ltsme-webservice.ddns.net." always_null
 local-zone: "hopto.org." always_null
 local-zone: "srv-tsme23.ddns.net." always_null
+local-zone: "myndossier.cloud." always_null

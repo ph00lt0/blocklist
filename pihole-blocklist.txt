@@ -19541,3 +19541,4 @@
 0.0.0.0 host-care.com
 0.0.0.0 versenderbuero.com
 0.0.0.0 toolsfortrails.com
+0.0.0.0 pjewelry.com

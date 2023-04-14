@@ -19433,3 +19433,4 @@ multiaccess.co CNAME .
 host-care.com CNAME .
 versenderbuero.com CNAME .
 toolsfortrails.com CNAME .
+pjewelry.com CNAME .

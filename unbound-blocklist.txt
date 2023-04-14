@@ -19436,3 +19436,4 @@ local-zone: "multiaccess.co." always_null
 local-zone: "host-care.com." always_null
 local-zone: "versenderbuero.com." always_null
 local-zone: "toolsfortrails.com." always_null
+local-zone: "pjewelry.com." always_null

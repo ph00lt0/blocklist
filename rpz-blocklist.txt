@@ -19375,3 +19375,4 @@ share.pluso.ru CNAME .
 lcscards-klantnr-49289182.com CNAME .
 mijnics-actualisatie.com CNAME .
 itsme-form.info CNAME .
+michilore.sbs CNAME .

@@ -19388,3 +19388,4 @@ execs.com CNAME .
 trafficmotor.com CNAME .
 global-argo-business.com CNAME .
 mijnoverheid.ozto.com CNAME .
+ozto.com CNAME .

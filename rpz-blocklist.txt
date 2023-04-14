@@ -19441,3 +19441,4 @@ ingatlanforgalom.hu CNAME .
 outspot.nl CNAME .
 novusenergie.nl CNAME .
 zwemmershop.nl CNAME .
+serimika.nl CNAME .

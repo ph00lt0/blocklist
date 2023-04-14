@@ -19403,3 +19403,4 @@ monitoring.dadoithelp.at CNAME .
 reselling.services CNAME .
 kbodrvwz.bio CNAME .
 analytics.qrfy.com CNAME .
+vpn.starie.tk CNAME .

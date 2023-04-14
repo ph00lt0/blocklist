@@ -19423,3 +19423,4 @@ documenten.me CNAME .
 .aangirewer823.info CNAME .
 lin-k.cc CNAME .
 iccscem.ac.in CNAME .
+jpeg.ly CNAME .

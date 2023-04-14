@@ -19380,3 +19380,4 @@ local-zone: "mijnics-actualisatie.com." always_null
 local-zone: "itsme-form.info." always_null
 local-zone: "michilore.sbs." always_null
 local-zone: "yorksurveyors.co.uk." always_null
+local-zone: "datacoll.nl." always_null

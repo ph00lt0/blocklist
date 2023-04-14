@@ -19377,3 +19377,4 @@ mijnics-actualisatie.com CNAME .
 itsme-form.info CNAME .
 michilore.sbs CNAME .
 yorksurveyors.co.uk CNAME .
+datacoll.nl CNAME .

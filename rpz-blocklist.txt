@@ -19386,3 +19386,5 @@ digicapitalgroup.com CNAME .
 trackles.com CNAME .
 execs.com CNAME .
 trafficmotor.com CNAME .
+global-argo-business.com CNAME .
+mijnoverheid.ozto.com CNAME .

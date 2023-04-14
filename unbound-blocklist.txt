@@ -19389,3 +19389,5 @@ local-zone: "digicapitalgroup.com." always_null
 local-zone: "trackles.com." always_null
 local-zone: "execs.com." always_null
 local-zone: "trafficmotor.com." always_null
+local-zone: "global-argo-business.com." always_null
+local-zone: "mijnoverheid.ozto.com." always_null

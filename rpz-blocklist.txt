@@ -19414,3 +19414,4 @@ mo-energietoeslag.com CNAME .
 188-93-233-169.plesk.page CNAME .
 mijnoverheid.hopp.to CNAME .
 goodgourd.co.nz CNAME .
+digid.ca CNAME .

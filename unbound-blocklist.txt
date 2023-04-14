@@ -19417,3 +19417,4 @@ local-zone: "mo-energietoeslag.com." always_null
 local-zone: "188-93-233-169.plesk.page." always_null
 local-zone: "mijnoverheid.hopp.to." always_null
 local-zone: "goodgourd.co.nz." always_null
+local-zone: "digid.ca." always_null

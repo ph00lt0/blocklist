@@ -19522,3 +19522,4 @@
 0.0.0.0 188-93-233-169.plesk.page
 0.0.0.0 mijnoverheid.hopp.to
 0.0.0.0 goodgourd.co.nz
+0.0.0.0 digid.ca

@@ -19415,3 +19415,4 @@ mo-energietoeslag.com CNAME .
 mijnoverheid.hopp.to CNAME .
 goodgourd.co.nz CNAME .
 digid.ca CNAME .
+matomo.overheid.io CNAME .

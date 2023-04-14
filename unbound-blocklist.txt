@@ -19408,3 +19408,4 @@ local-zone: "kbodrvwz.bio." always_null
 local-zone: "analytics.qrfy.com." always_null
 local-zone: "vpn.starie.tk." always_null
 local-zone: "cordes-cloud.net." always_null
+local-zone: "online-luxtrust.cc." always_null

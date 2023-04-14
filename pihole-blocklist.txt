@@ -19538,3 +19538,4 @@
 0.0.0.0 shopboard.ltd
 0.0.0.0 waterstons.info
 0.0.0.0 multiaccess.co
+0.0.0.0 host-care.com

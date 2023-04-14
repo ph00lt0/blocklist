@@ -19442,3 +19442,4 @@ local-zone: "wowdigital.go2cloud.org." always_null
 local-zone: "szakaldesign.hu." always_null
 local-zone: "ingatlanforgalom.hu." always_null
 local-zone: "outspot.nl." always_null
+local-zone: "novusenergie.nl." always_null

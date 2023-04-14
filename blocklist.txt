@@ -20124,3 +20124,4 @@ desk.zoho.in##.micsTop
 ||szakaldesign.hu^
 ||ingatlanforgalom.hu^
 ||outspot.nl^
+||novusenergie.nl^

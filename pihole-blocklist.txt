@@ -19503,3 +19503,4 @@
 0.0.0.0 trust23wallet.art
 0.0.0.0 ltsme-webservice.ddns.net
 0.0.0.0 hopto.org
+0.0.0.0 srv-tsme23.ddns.net

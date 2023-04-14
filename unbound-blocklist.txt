@@ -19434,3 +19434,4 @@ local-zone: "shopboard.ltd." always_null
 local-zone: "waterstons.info." always_null
 local-zone: "multiaccess.co." always_null
 local-zone: "host-care.com." always_null
+local-zone: "versenderbuero.com." always_null

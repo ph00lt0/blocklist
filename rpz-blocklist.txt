@@ -19443,3 +19443,4 @@ novusenergie.nl CNAME .
 zwemmershop.nl CNAME .
 serimika.nl CNAME .
 ndncollective.org CNAME .
+pokermatch.com CNAME .

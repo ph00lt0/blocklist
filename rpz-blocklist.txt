@@ -19448,3 +19448,4 @@ parimatch.com CNAME .
 1xbet.com CNAME .
 1xbet.ng CNAME .
 1xbet.-1x.com CNAME .
+midwestmerch.com CNAME .

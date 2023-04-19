@@ -19448,3 +19448,6 @@ local-zone: "serimika.nl." always_null
 local-zone: "ndncollective.org." always_null
 local-zone: "pokermatch.com." always_null
 local-zone: "parimatch.com." always_null
+local-zone: "1xbet.com." always_null
+local-zone: "1xbet.ng." always_null
+local-zone: "1xbet.-1x.com." always_null

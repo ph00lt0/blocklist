@@ -19445,3 +19445,6 @@ serimika.nl CNAME .
 ndncollective.org CNAME .
 pokermatch.com CNAME .
 parimatch.com CNAME .
+1xbet.com CNAME .
+1xbet.ng CNAME .
+1xbet.-1x.com CNAME .

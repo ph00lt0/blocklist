@@ -19452,3 +19452,4 @@ local-zone: "1xbet.com." always_null
 local-zone: "1xbet.ng." always_null
 local-zone: "1xbet.-1x.com." always_null
 local-zone: "midwestmerch.com." always_null
+local-zone: "useblackbox.io." always_null

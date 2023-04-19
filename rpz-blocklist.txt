@@ -19444,3 +19444,4 @@ zwemmershop.nl CNAME .
 serimika.nl CNAME .
 ndncollective.org CNAME .
 pokermatch.com CNAME .
+parimatch.com CNAME .

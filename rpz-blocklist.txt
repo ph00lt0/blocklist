@@ -19456,3 +19456,4 @@ ecomtechworld.com CNAME .
 ecomtechworl111d.com CNAME .
 gerstobes.cc CNAME .
 gen.tr CNAME .
+booksaners.de CNAME .

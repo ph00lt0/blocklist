@@ -19459,3 +19459,4 @@ local-zone: "ecomtechworld.com." always_null
 local-zone: "ecomtechworl111d.com." always_null
 local-zone: "gerstobes.cc." always_null
 local-zone: "gen.tr." always_null
+local-zone: "booksaners.de." always_null

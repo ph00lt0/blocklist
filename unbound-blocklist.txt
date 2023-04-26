@@ -19463,3 +19463,4 @@ local-zone: "booksaners.de." always_null
 local-zone: "fastiones.eu." always_null
 local-zone: "bitstudio.nl." always_null
 local-zone: "toptechninjas.com." always_null
+local-zone: "lettow.nl." always_null

@@ -20146,3 +20146,4 @@ desk.zoho.in##.micsTop
 ||bitstudio.nl^
 ||toptechninjas.com^
 ||lettow.nl^
+||telemetry.swe.quicinc.com^

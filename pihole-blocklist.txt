@@ -19570,3 +19570,8 @@
 0.0.0.0 toptechninjas.com
 0.0.0.0 lettow.nl
 0.0.0.0 telemetry.swe.quicinc.com
+0.0.0.0 icenikem.de
+0.0.0.0 webbusinessmarket.com
+0.0.0.0 bervoets-installaties.nl
+0.0.0.0 armenia.su
+0.0.0.0 bgf.nl

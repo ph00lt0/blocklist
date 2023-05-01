@@ -19462,3 +19462,8 @@ bitstudio.nl CNAME .
 toptechninjas.com CNAME .
 lettow.nl CNAME .
 telemetry.swe.quicinc.com CNAME .
+icenikem.de CNAME .
+webbusinessmarket.com CNAME .
+bervoets-installaties.nl CNAME .
+armenia.su CNAME .
+bgf.nl CNAME .

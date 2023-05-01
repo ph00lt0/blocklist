@@ -19465,3 +19465,8 @@ local-zone: "bitstudio.nl." always_null
 local-zone: "toptechninjas.com." always_null
 local-zone: "lettow.nl." always_null
 local-zone: "telemetry.swe.quicinc.com." always_null
+local-zone: "icenikem.de." always_null
+local-zone: "webbusinessmarket.com." always_null
+local-zone: "bervoets-installaties.nl." always_null
+local-zone: "armenia.su." always_null
+local-zone: "bgf.nl." always_null

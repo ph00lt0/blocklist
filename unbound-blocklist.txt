@@ -19485,3 +19485,4 @@ local-zone: "udcm.yahoo.com." always_null
 local-zone: "udc.yahoo.com." always_null
 local-zone: "adtech.yahooinc.com." always_null
 local-zone: "log.fc.yahoo.com." always_null
+local-zone: "bdapi-in-ads.realmemobile.com." always_null

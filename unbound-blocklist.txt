@@ -19480,3 +19480,4 @@ local-zone: "yimp.cc." always_null
 local-zone: "beststartup.us." always_null
 local-zone: "editorcontent.com." always_null
 local-zone: "analytics.s3.amazonaws.com." always_null
+local-zone: "log.byteoversea.com." always_null

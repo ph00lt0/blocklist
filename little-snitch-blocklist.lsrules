@@ -18984,6 +18984,7 @@
         "udc.yahoo.com",
         "adtech.yahooinc.com",
         "log.fc.yahoo.com",
-        "bdapi-in-ads.realmemobile.com"
+        "bdapi-in-ads.realmemobile.com",
+        "notes-analytics-events.apple.com"
     ]
 }

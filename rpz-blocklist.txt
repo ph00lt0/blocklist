@@ -19483,3 +19483,4 @@ udc.yahoo.com CNAME .
 adtech.yahooinc.com CNAME .
 log.fc.yahoo.com CNAME .
 bdapi-in-ads.realmemobile.com CNAME .
+notes-analytics-events.apple.com CNAME .

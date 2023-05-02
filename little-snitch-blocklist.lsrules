@@ -18989,6 +18989,7 @@
         "books-analytics-events.apple.com",
         "api-adservices.apple.com",
         "advertising.apple.com",
-        "log.tailscale.io"
+        "log.tailscale.io",
+        "appsflyersdk.com"
     ]
 }

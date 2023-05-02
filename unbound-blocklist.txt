@@ -19491,3 +19491,4 @@ local-zone: "books-analytics-events.apple.com." always_null
 local-zone: "api-adservices.apple.com." always_null
 local-zone: "advertising.apple.com." always_null
 local-zone: "log.tailscale.io." always_null
+local-zone: "appsflyersdk.com." always_null

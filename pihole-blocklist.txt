@@ -19596,3 +19596,4 @@
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 log.tailscale.io
+0.0.0.0 appsflyersdk.com

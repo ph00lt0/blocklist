@@ -20173,3 +20173,4 @@ desk.zoho.in##.micsTop
 ||api-adservices.apple.com^
 ||advertising.apple.com^
 ||log.tailscale.io^
+||appsflyersdk.com^

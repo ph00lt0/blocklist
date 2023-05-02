@@ -19482,3 +19482,4 @@ local-zone: "editorcontent.com." always_null
 local-zone: "analytics.s3.amazonaws.com." always_null
 local-zone: "log.byteoversea.com." always_null
 local-zone: "udcm.yahoo.com." always_null
+local-zone: "udc.yahoo.com." always_null

@@ -19587,3 +19587,4 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 udcm.yahoo.com
+0.0.0.0 udc.yahoo.com

@@ -19484,3 +19484,4 @@ adtech.yahooinc.com CNAME .
 log.fc.yahoo.com CNAME .
 bdapi-in-ads.realmemobile.com CNAME .
 notes-analytics-events.apple.com CNAME .
+books-analytics-events.apple.com CNAME .

@@ -20169,3 +20169,4 @@ desk.zoho.in##.micsTop
 ||log.fc.yahoo.com^
 ||bdapi-in-ads.realmemobile.com^
 ||notes-analytics-events.apple.com^
+||books-analytics-events.apple.com^

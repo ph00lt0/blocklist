@@ -19471,3 +19471,4 @@ bdapi-ads.realmemobile.com CNAME .
 igfollowerfinder.com CNAME .
 vistall.hz.cz CNAME .
 bijkon.nl CNAME .
+smartphonehoesjes.nl CNAME .

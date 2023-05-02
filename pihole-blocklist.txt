@@ -19593,3 +19593,4 @@
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 api-adservices.apple.com

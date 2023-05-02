@@ -20166,3 +20166,4 @@ desk.zoho.in##.micsTop
 ||udcm.yahoo.com^
 ||udc.yahoo.com^
 ||adtech.yahooinc.com^
+||log.fc.yahoo.com^

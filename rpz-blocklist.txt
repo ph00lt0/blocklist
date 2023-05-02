@@ -19481,3 +19481,4 @@ log.byteoversea.com CNAME .
 udcm.yahoo.com CNAME .
 udc.yahoo.com CNAME .
 adtech.yahooinc.com CNAME .
+log.fc.yahoo.com CNAME .

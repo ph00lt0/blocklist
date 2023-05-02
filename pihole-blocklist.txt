@@ -19589,3 +19589,4 @@
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 adtech.yahooinc.com
+0.0.0.0 log.fc.yahoo.com

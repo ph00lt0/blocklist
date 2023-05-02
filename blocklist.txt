@@ -20165,3 +20165,4 @@ desk.zoho.in##.micsTop
 ||log.byteoversea.com^
 ||udcm.yahoo.com^
 ||udc.yahoo.com^
+||adtech.yahooinc.com^

@@ -19480,3 +19480,4 @@ analytics.s3.amazonaws.com CNAME .
 log.byteoversea.com CNAME .
 udcm.yahoo.com CNAME .
 udc.yahoo.com CNAME .
+adtech.yahooinc.com CNAME .

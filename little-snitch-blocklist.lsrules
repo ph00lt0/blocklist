@@ -18981,6 +18981,7 @@
         "analytics.s3.amazonaws.com",
         "log.byteoversea.com",
         "udcm.yahoo.com",
-        "udc.yahoo.com"
+        "udc.yahoo.com",
+        "adtech.yahooinc.com"
     ]
 }

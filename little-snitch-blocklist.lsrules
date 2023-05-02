@@ -18987,6 +18987,7 @@
         "bdapi-in-ads.realmemobile.com",
         "notes-analytics-events.apple.com",
         "books-analytics-events.apple.com",
-        "api-adservices.apple.com"
+        "api-adservices.apple.com",
+        "advertising.apple.com"
     ]
 }

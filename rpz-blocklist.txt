@@ -19486,3 +19486,4 @@ bdapi-in-ads.realmemobile.com CNAME .
 notes-analytics-events.apple.com CNAME .
 books-analytics-events.apple.com CNAME .
 api-adservices.apple.com CNAME .
+advertising.apple.com CNAME .

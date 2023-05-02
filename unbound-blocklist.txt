@@ -19489,3 +19489,4 @@ local-zone: "bdapi-in-ads.realmemobile.com." always_null
 local-zone: "notes-analytics-events.apple.com." always_null
 local-zone: "books-analytics-events.apple.com." always_null
 local-zone: "api-adservices.apple.com." always_null
+local-zone: "advertising.apple.com." always_null

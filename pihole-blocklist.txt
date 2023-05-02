@@ -19576,3 +19576,6 @@
 0.0.0.0 armenia.su
 0.0.0.0 bgf.nl
 0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 igfollowerfinder.com
+0.0.0.0 vistall.hz.cz
+0.0.0.0 bijkon.nl

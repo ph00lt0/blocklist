@@ -19468,3 +19468,6 @@ bervoets-installaties.nl CNAME .
 armenia.su CNAME .
 bgf.nl CNAME .
 bdapi-ads.realmemobile.com CNAME .
+igfollowerfinder.com CNAME .
+vistall.hz.cz CNAME .
+bijkon.nl CNAME .

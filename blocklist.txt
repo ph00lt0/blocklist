@@ -20172,3 +20172,4 @@ desk.zoho.in##.micsTop
 ||books-analytics-events.apple.com^
 ||api-adservices.apple.com^
 ||advertising.apple.com^
+||log.tailscale.io^

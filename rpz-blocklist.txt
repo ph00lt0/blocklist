@@ -19487,3 +19487,4 @@ notes-analytics-events.apple.com CNAME .
 books-analytics-events.apple.com CNAME .
 api-adservices.apple.com CNAME .
 advertising.apple.com CNAME .
+log.tailscale.io CNAME .

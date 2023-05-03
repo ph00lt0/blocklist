@@ -19494,3 +19494,4 @@ local-zone: "log.tailscale.io." always_null
 local-zone: "appsflyersdk.com." always_null
 local-zone: "mpluswf.ims.vodaphone.com." always_null
 local-zone: "mplusps.ims.vodafone.com." always_null
+local-zone: "report-svc-vmc.vodafone.com." always_null

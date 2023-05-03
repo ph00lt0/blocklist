@@ -18992,6 +18992,7 @@
         "log.tailscale.io",
         "appsflyersdk.com",
         "mpluswf.ims.vodaphone.com",
-        "mplusps.ims.vodafone.com"
+        "mplusps.ims.vodafone.com",
+        "report-svc-vmc.vodafone.com"
     ]
 }

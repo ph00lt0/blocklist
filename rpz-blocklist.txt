@@ -19491,3 +19491,4 @@ log.tailscale.io CNAME .
 appsflyersdk.com CNAME .
 mpluswf.ims.vodaphone.com CNAME .
 mplusps.ims.vodafone.com CNAME .
+report-svc-vmc.vodafone.com CNAME .

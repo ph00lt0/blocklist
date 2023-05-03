@@ -19599,3 +19599,4 @@
 0.0.0.0 appsflyersdk.com
 0.0.0.0 mpluswf.ims.vodaphone.com
 0.0.0.0 mplusps.ims.vodafone.com
+0.0.0.0 report-svc-vmc.vodafone.com

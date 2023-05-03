@@ -19489,3 +19489,4 @@ api-adservices.apple.com CNAME .
 advertising.apple.com CNAME .
 log.tailscale.io CNAME .
 appsflyersdk.com CNAME .
+mpluswf.ims.vodaphone.com CNAME .

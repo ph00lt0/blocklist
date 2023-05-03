@@ -18990,6 +18990,7 @@
         "api-adservices.apple.com",
         "advertising.apple.com",
         "log.tailscale.io",
-        "appsflyersdk.com"
+        "appsflyersdk.com",
+        "mpluswf.ims.vodaphone.com"
     ]
 }

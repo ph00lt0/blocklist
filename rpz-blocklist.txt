@@ -19490,3 +19490,4 @@ advertising.apple.com CNAME .
 log.tailscale.io CNAME .
 appsflyersdk.com CNAME .
 mpluswf.ims.vodaphone.com CNAME .
+mplusps.ims.vodafone.com CNAME .

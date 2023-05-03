@@ -19493,3 +19493,4 @@ mpluswf.ims.vodaphone.com CNAME .
 mplusps.ims.vodafone.com CNAME .
 report-svc-vmc.vodafone.com CNAME .
 fincron.com CNAME .
+scottrmackenzie.foundation CNAME .

@@ -20192,3 +20192,4 @@ computable.nl##.footNB
 ||hammer-intel.com^
 ||forumbusinessresearch.com^
 ||winnou.com^
+||forumresearch.com^

@@ -19613,3 +19613,4 @@
 0.0.0.0 hammer-intel.com
 0.0.0.0 forumbusinessresearch.com
 0.0.0.0 winnou.com
+0.0.0.0 forumresearch.com

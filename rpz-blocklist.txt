@@ -19504,3 +19504,4 @@ mira.co.ao CNAME .
 wua.cx CNAME .
 hammer-intel.com CNAME .
 forumbusinessresearch.com CNAME .
+winnou.com CNAME .

@@ -19514,3 +19514,4 @@ local-zone: "upsiide.com." always_null
 local-zone: "hotspex.com." always_null
 local-zone: "explorerresearch.com." always_null
 local-zone: "environics.ca." always_null
+local-zone: "ingest.sentry.io." always_null

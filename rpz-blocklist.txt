@@ -19506,3 +19506,4 @@ hammer-intel.com CNAME .
 forumbusinessresearch.com CNAME .
 winnou.com CNAME .
 forumresearch.com CNAME .
+diginsights.com CNAME .

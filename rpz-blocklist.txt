@@ -19495,3 +19495,4 @@ report-svc-vmc.vodafone.com CNAME .
 fincron.com CNAME .
 scottrmackenzie.foundation CNAME .
 monto.io CNAME .
+p-pan.triodos.com CNAME .

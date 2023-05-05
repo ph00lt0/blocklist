@@ -19503,3 +19503,4 @@ local-zone: "performitor.net." always_null
 local-zone: "performitor.com." always_null
 local-zone: "forumpm.nl." always_null
 local-zone: "keyresearch-ao.com." always_null
+local-zone: "mira.co.ao." always_null

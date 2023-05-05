@@ -19500,3 +19500,4 @@ performitor.net CNAME .
 performitor.com CNAME .
 forumpm.nl CNAME .
 keyresearch-ao.com CNAME .
+mira.co.ao CNAME .

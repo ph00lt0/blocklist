@@ -19616,3 +19616,4 @@
 0.0.0.0 forumresearch.com
 0.0.0.0 diginsights.com
 0.0.0.0 upsiide.com
+0.0.0.0 hotspex.com

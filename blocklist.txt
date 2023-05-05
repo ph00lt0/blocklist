@@ -20195,3 +20195,4 @@ computable.nl##.footNB
 ||forumresearch.com^
 ||diginsights.com^
 ||upsiide.com^
+||hotspex.com^

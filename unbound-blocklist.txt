@@ -19511,3 +19511,4 @@ local-zone: "winnou.com." always_null
 local-zone: "forumresearch.com." always_null
 local-zone: "diginsights.com." always_null
 local-zone: "upsiide.com." always_null
+local-zone: "hotspex.com." always_null

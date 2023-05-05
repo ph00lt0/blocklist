@@ -16616,7 +16616,7 @@ local-zone: "hbrt.adobe.com." always_null
 local-zone: "sstats.adobe.com." always_null
 local-zone: "ans.oobesaas.adobe.com." always_null
 local-zone: "evoke-windowsservices-tas.msedge.net." always_null
-local-zone: "spclient.wg.spotify.com." always_null
+# allow spclient.wg.spotify.com reason: Spotify
 local-zone: "fp.msedge.net." always_null
 local-zone: "k-ring.msedge.net." always_null
 local-zone: "b-ring.msedge.net." always_null

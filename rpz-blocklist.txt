@@ -16613,7 +16613,7 @@ hbrt.adobe.com CNAME .
 sstats.adobe.com CNAME .
 ans.oobesaas.adobe.com CNAME .
 evoke-windowsservices-tas.msedge.net CNAME .
-spclient.wg.spotify.com CNAME .
+; allow spclient.wg.spotify.com reason: Spotify
 fp.msedge.net CNAME .
 k-ring.msedge.net CNAME .
 b-ring.msedge.net CNAME .

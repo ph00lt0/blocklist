@@ -16721,7 +16721,7 @@
 0.0.0.0 sstats.adobe.com
 0.0.0.0 ans.oobesaas.adobe.com
 0.0.0.0 evoke-windowsservices-tas.msedge.net
-0.0.0.0 spclient.wg.spotify.com
+! allow spclient.wg.spotify.com reason: Spotify
 0.0.0.0 fp.msedge.net
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 b-ring.msedge.net

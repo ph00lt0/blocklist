@@ -19618,3 +19618,4 @@
 0.0.0.0 upsiide.com
 0.0.0.0 hotspex.com
 0.0.0.0 explorerresearch.com
+0.0.0.0 environics.ca

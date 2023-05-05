@@ -20197,3 +20197,4 @@ computable.nl##.footNB
 ||upsiide.com^
 ||hotspex.com^
 ||explorerresearch.com^
+||environics.ca^

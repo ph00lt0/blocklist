@@ -19512,3 +19512,4 @@ hotspex.com CNAME .
 explorerresearch.com CNAME .
 environics.ca CNAME .
 ingest.sentry.io CNAME .
+lokinmarte.cc CNAME .

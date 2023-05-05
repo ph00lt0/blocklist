@@ -19507,3 +19507,4 @@ forumbusinessresearch.com CNAME .
 winnou.com CNAME .
 forumresearch.com CNAME .
 diginsights.com CNAME .
+upsiide.com CNAME .

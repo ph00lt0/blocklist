@@ -19499,3 +19499,4 @@ local-zone: "fincron.com." always_null
 local-zone: "scottrmackenzie.foundation." always_null
 local-zone: "monto.io." always_null
 local-zone: "p-pan.triodos.com." always_null
+local-zone: "performitor.net." always_null

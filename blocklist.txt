@@ -20183,3 +20183,4 @@ desk.zoho.in##.micsTop
 ||p-pan.triodos.com^
 ||performitor.net^
 computable.nl##.ce-banner
+computable.nl##.footNB

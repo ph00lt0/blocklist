@@ -19509,3 +19509,4 @@ forumresearch.com CNAME .
 diginsights.com CNAME .
 upsiide.com CNAME .
 hotspex.com CNAME .
+explorerresearch.com CNAME .

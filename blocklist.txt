@@ -20189,3 +20189,4 @@ computable.nl##.footNB
 ||keyresearch-ao.com^
 ||mira.co.ao^
 ||wua.cx^
+||hammer-intel.com^

@@ -19506,3 +19506,4 @@ local-zone: "keyresearch-ao.com." always_null
 local-zone: "mira.co.ao." always_null
 local-zone: "wua.cx." always_null
 local-zone: "hammer-intel.com." always_null
+local-zone: "forumbusinessresearch.com." always_null

@@ -19515,3 +19515,4 @@ ingest.sentry.io CNAME .
 lokinmarte.cc CNAME .
 beo-exel.nl CNAME .
 mailssenders.com CNAME .
+gob.ve CNAME .

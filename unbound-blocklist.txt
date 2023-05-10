@@ -19518,3 +19518,4 @@ local-zone: "ingest.sentry.io." always_null
 local-zone: "lokinmarte.cc." always_null
 local-zone: "beo-exel.nl." always_null
 local-zone: "mailssenders.com." always_null
+local-zone: "gob.ve." always_null

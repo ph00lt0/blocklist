@@ -19517,3 +19517,4 @@ beo-exel.nl CNAME .
 mailssenders.com CNAME .
 gob.ve CNAME .
 lilink.sbs CNAME .
+uni-oldenburg.de CNAME .

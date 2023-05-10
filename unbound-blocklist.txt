@@ -19520,3 +19520,4 @@ local-zone: "beo-exel.nl." always_null
 local-zone: "mailssenders.com." always_null
 local-zone: "gob.ve." always_null
 local-zone: "lilink.sbs." always_null
+local-zone: "uni-oldenburg.de." always_null

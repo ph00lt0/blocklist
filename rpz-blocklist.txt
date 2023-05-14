@@ -19518,3 +19518,10 @@ mailssenders.com CNAME .
 gob.ve CNAME .
 lilink.sbs CNAME .
 uni-oldenburg.de CNAME .
+braincandymail.ru.com CNAME .
+otedfru.de CNAME .
+bestiggrowth.com CNAME .
+pb25cold.de CNAME .
+germany-on.ru.com CNAME .
+iavilciadeg.eu.com CNAME .
+ljmgg.us CNAME .

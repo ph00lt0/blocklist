@@ -19521,3 +19521,10 @@ local-zone: "mailssenders.com." always_null
 local-zone: "gob.ve." always_null
 local-zone: "lilink.sbs." always_null
 local-zone: "uni-oldenburg.de." always_null
+local-zone: "braincandymail.ru.com." always_null
+local-zone: "otedfru.de." always_null
+local-zone: "bestiggrowth.com." always_null
+local-zone: "pb25cold.de." always_null
+local-zone: "germany-on.ru.com." always_null
+local-zone: "iavilciadeg.eu.com." always_null
+local-zone: "ljmgg.us." always_null

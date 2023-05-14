@@ -19528,3 +19528,8 @@ local-zone: "pb25cold.de." always_null
 local-zone: "germany-on.ru.com." always_null
 local-zone: "iavilciadeg.eu.com." always_null
 local-zone: "ljmgg.us." always_null
+local-zone: "forsalelabs.com." always_null
+local-zone: "bechthum.nl." always_null
+local-zone: "bestprevco.nl." always_null
+local-zone: "fcu.edu.tw." always_null
+local-zone: "lokinmart.cc." always_null

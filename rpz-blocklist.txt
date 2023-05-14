@@ -19525,3 +19525,8 @@ pb25cold.de CNAME .
 germany-on.ru.com CNAME .
 iavilciadeg.eu.com CNAME .
 ljmgg.us CNAME .
+forsalelabs.com CNAME .
+bechthum.nl CNAME .
+bestprevco.nl CNAME .
+fcu.edu.tw CNAME .
+lokinmart.cc CNAME .

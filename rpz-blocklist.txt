@@ -19536,3 +19536,4 @@ bakaw.top CNAME .
 a.oqmtdbzpe.ru CNAME .
 oqmtdbzpe.ru CNAME .
 emizexpi.today CNAME .
+apptics.zoho.com CNAME .

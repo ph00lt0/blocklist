@@ -19532,3 +19532,4 @@ fcu.edu.tw CNAME .
 lokinmart.cc CNAME .
 optimizeywebs.com CNAME .
 marketingman10.com CNAME .
+bakaw.top CNAME .

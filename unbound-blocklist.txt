@@ -19540,3 +19540,4 @@ local-zone: "a.oqmtdbzpe.ru." always_null
 local-zone: "oqmtdbzpe.ru." always_null
 local-zone: "emizexpi.today." always_null
 local-zone: "apptics.zoho.com." always_null
+local-zone: "rutor.org.in." always_null

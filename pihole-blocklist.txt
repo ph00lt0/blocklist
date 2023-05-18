@@ -19650,3 +19650,4 @@
 0.0.0.0 inkvk.nl
 0.0.0.0 hm.ru
 0.0.0.0 ingridvanderveen.com
+0.0.0.0 novusenergie.org

@@ -19542,3 +19542,4 @@ wondertechserve.com CNAME .
 inkvk.nl CNAME .
 hm.ru CNAME .
 ingridvanderveen.com CNAME .
+novusenergie.org CNAME .

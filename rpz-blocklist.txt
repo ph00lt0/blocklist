@@ -19548,3 +19548,4 @@ kocaelibarisgazetesi.com CNAME .
 ytemplate.com CNAME .
 xmsnet.nl> CNAME .
 xmsnet.nl CNAME .
+tremorhub.com CNAME .

@@ -19551,3 +19551,4 @@ local-zone: "kocaelibarisgazetesi.com." always_null
 local-zone: "ytemplate.com." always_null
 local-zone: "xmsnet.nl>." always_null
 local-zone: "xmsnet.nl." always_null
+local-zone: "tremorhub.com." always_null

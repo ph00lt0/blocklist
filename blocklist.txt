@@ -20240,3 +20240,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||tremorhub.com^
 ||ivitrack.com^
 ||cm.adform.net^
+||outspot.be^

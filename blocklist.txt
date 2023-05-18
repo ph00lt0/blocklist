@@ -20234,3 +20234,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||novusenergie.org^
 ||invkvk.nl^
 ||kocaelibarisgazetesi.com^
+||ytemplate.com^

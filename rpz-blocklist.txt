@@ -19545,3 +19545,4 @@ ingridvanderveen.com CNAME .
 novusenergie.org CNAME .
 invkvk.nl CNAME .
 kocaelibarisgazetesi.com CNAME .
+ytemplate.com CNAME .

@@ -19553,3 +19553,4 @@ local-zone: "xmsnet.nl>." always_null
 local-zone: "xmsnet.nl." always_null
 local-zone: "tremorhub.com." always_null
 local-zone: "ivitrack.com." always_null
+local-zone: "cm.adform.net." always_null

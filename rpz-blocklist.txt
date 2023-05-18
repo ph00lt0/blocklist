@@ -19538,3 +19538,4 @@ oqmtdbzpe.ru CNAME .
 emizexpi.today CNAME .
 apptics.zoho.com CNAME .
 rutor.org.in CNAME .
+wondertechserve.com CNAME .

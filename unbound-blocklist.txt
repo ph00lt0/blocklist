@@ -19550,3 +19550,4 @@ local-zone: "invkvk.nl." always_null
 local-zone: "kocaelibarisgazetesi.com." always_null
 local-zone: "ytemplate.com." always_null
 local-zone: "xmsnet.nl>." always_null
+local-zone: "xmsnet.nl." always_null

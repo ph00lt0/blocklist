@@ -19661,3 +19661,4 @@
 0.0.0.0 cm.adform.net
 0.0.0.0 outspot.be
 0.0.0.0 m6web.fr
+0.0.0.0 panelresearch.googlevideo.com

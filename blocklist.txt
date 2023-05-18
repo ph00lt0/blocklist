@@ -20243,3 +20243,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||outspot.be^
 ||m6web.fr^
 ||panelresearch.googlevideo.com^
+||seconded.net^

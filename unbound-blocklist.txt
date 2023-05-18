@@ -19557,3 +19557,4 @@ local-zone: "cm.adform.net." always_null
 local-zone: "outspot.be." always_null
 local-zone: "m6web.fr." always_null
 local-zone: "panelresearch.googlevideo.com." always_null
+local-zone: "seconded.net." always_null

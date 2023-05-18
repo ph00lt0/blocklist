@@ -19546,3 +19546,4 @@ local-zone: "inkvk.nl." always_null
 local-zone: "hm.ru." always_null
 local-zone: "ingridvanderveen.com." always_null
 local-zone: "novusenergie.org." always_null
+local-zone: "invkvk.nl." always_null

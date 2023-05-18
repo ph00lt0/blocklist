@@ -19543,3 +19543,4 @@ inkvk.nl CNAME .
 hm.ru CNAME .
 ingridvanderveen.com CNAME .
 novusenergie.org CNAME .
+invkvk.nl CNAME .

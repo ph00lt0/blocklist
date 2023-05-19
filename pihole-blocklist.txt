@@ -19666,3 +19666,4 @@
 0.0.0.0 bruemail.com
 0.0.0.0 ignaciob.com
 0.0.0.0 east-kazakhstan.su
+0.0.0.0 faitid.org

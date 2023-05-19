@@ -19561,3 +19561,4 @@ local-zone: "seconded.net." always_null
 local-zone: "bruemail.com." always_null
 local-zone: "ignaciob.com." always_null
 local-zone: "east-kazakhstan.su." always_null
+local-zone: "faitid.org." always_null

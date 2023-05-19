@@ -19558,3 +19558,4 @@ seconded.net CNAME .
 bruemail.com CNAME .
 ignaciob.com CNAME .
 east-kazakhstan.su CNAME .
+faitid.org CNAME .

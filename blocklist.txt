@@ -20261,3 +20261,7 @@ hypotheek.nl###cookielaw_idf_overlay
 ||onlineactivity.nl^
 ||republish-pixel.nl^
 ||acbllnk..com^
+||jbprivacy2021.com^
+||acumbamail.com^
+||clicks.re^
+||sbbimmo.be^

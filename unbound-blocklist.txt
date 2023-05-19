@@ -19584,3 +19584,6 @@ local-zone: "republish1.nl." always_null
 local-zone: "the-advisr.com." always_null
 local-zone: "theadvisrguide.com." always_null
 local-zone: "lijsbertus.nl." always_null
+local-zone: "best-sending.com." always_null
+local-zone: "unbounce.com." always_null
+local-zone: "talos360.co.uk." always_null

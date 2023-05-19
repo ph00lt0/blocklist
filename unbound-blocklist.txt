@@ -19565,3 +19565,4 @@ local-zone: "faitid.org." always_null
 local-zone: "ruclid.ru." always_null
 local-zone: "eclid.eu." always_null
 local-zone: "flexireg.net." always_null
+local-zone: "neexii.su." always_null

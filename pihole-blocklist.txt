@@ -19667,3 +19667,4 @@
 0.0.0.0 ignaciob.com
 0.0.0.0 east-kazakhstan.su
 0.0.0.0 faitid.org
+0.0.0.0 ruclid.ru

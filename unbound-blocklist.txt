@@ -19562,3 +19562,4 @@ local-zone: "bruemail.com." always_null
 local-zone: "ignaciob.com." always_null
 local-zone: "east-kazakhstan.su." always_null
 local-zone: "faitid.org." always_null
+local-zone: "ruclid.ru." always_null

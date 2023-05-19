@@ -19570,3 +19570,5 @@ klantactie.nl CNAME .
 folina.nl CNAME .
 republish.nl CNAME .
 onlineactivity.nl CNAME .
+republish-pixel.nl CNAME .
+acbllnk..com CNAME .

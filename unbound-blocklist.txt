@@ -19573,3 +19573,5 @@ local-zone: "klantactie.nl." always_null
 local-zone: "folina.nl." always_null
 local-zone: "republish.nl." always_null
 local-zone: "onlineactivity.nl." always_null
+local-zone: "republish-pixel.nl." always_null
+local-zone: "acbllnk..com." always_null

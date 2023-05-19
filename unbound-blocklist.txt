@@ -19568,3 +19568,7 @@ local-zone: "flexireg.net." always_null
 local-zone: "neexii.su." always_null
 local-zone: "npaw.com." always_null
 local-zone: "uk-home-improvement.co.uk." always_null
+local-zone: "verbeterthuis.nl." always_null
+local-zone: "klantactie.nl." always_null
+local-zone: "folina.nl." always_null
+local-zone: "republish.nl." always_null

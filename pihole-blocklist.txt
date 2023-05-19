@@ -19669,3 +19669,4 @@
 0.0.0.0 faitid.org
 0.0.0.0 ruclid.ru
 0.0.0.0 eclid.eu
+0.0.0.0 flexireg.net

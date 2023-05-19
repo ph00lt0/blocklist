@@ -19561,3 +19561,4 @@ east-kazakhstan.su CNAME .
 faitid.org CNAME .
 ruclid.ru CNAME .
 eclid.eu CNAME .
+flexireg.net CNAME .

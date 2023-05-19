@@ -19563,3 +19563,4 @@ ruclid.ru CNAME .
 eclid.eu CNAME .
 flexireg.net CNAME .
 neexii.su CNAME .
+npaw.com CNAME .

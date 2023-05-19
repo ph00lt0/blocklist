@@ -19579,3 +19579,8 @@ local-zone: "jbprivacy2021.com." always_null
 local-zone: "acumbamail.com." always_null
 local-zone: "clicks.re." always_null
 local-zone: "sbbimmo.be." always_null
+local-zone: "republish0.nl." always_null
+local-zone: "republish1.nl." always_null
+local-zone: "the-advisr.com." always_null
+local-zone: "theadvisrguide.com." always_null
+local-zone: "lijsbertus.nl." always_null

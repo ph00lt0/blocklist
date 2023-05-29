@@ -20119,7 +20119,7 @@ desk.zoho.in##.micsTop
 ||versenderbuero.com^
 ||toolsfortrails.com^
 ||pjewelry.com^
-||mediaprogroup.pl>^
+||mediaprogroup.pl^
 ||wowdigital.go2cloud.org^
 ||szakaldesign.hu^
 ||ingatlanforgalom.hu^
@@ -20281,3 +20281,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||nasamlinkes.nl^
 ||matsudden.com^
 ||julieanduwe.com^
+||ads.onlinetrck.com^

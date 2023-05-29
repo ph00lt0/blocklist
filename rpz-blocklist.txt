@@ -19434,7 +19434,7 @@ host-care.com CNAME .
 versenderbuero.com CNAME .
 toolsfortrails.com CNAME .
 pjewelry.com CNAME .
-mediaprogroup.pl> CNAME .
+mediaprogroup.pl CNAME .
 wowdigital.go2cloud.org CNAME .
 szakaldesign.hu CNAME .
 ingatlanforgalom.hu CNAME .
@@ -19592,3 +19592,4 @@ benthemcrouwel.nl CNAME .
 nasamlinkes.nl CNAME .
 matsudden.com CNAME .
 julieanduwe.com CNAME .
+ads.onlinetrck.com CNAME .

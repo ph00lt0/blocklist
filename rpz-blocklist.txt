@@ -19595,3 +19595,4 @@ julieanduwe.com CNAME .
 ads.onlinetrck.com CNAME .
 dotmediadgtl.com CNAME .
 dweb.link CNAME .
+uclck.ru CNAME .

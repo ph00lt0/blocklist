@@ -19703,3 +19703,4 @@
 0.0.0.0 ads.onlinetrck.com
 0.0.0.0 dotmediadgtl.com
 0.0.0.0 dweb.link
+0.0.0.0 uclck.ru

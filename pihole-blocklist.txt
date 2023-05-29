@@ -19701,3 +19701,4 @@
 0.0.0.0 matsudden.com
 0.0.0.0 julieanduwe.com
 0.0.0.0 ads.onlinetrck.com
+0.0.0.0 dotmediadgtl.com

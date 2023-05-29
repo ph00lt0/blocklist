@@ -19596,3 +19596,4 @@ local-zone: "nasamlinkes.nl." always_null
 local-zone: "matsudden.com." always_null
 local-zone: "julieanduwe.com." always_null
 local-zone: "ads.onlinetrck.com." always_null
+local-zone: "dotmediadgtl.com." always_null

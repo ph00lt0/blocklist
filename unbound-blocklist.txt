@@ -19600,3 +19600,4 @@ local-zone: "dotmediadgtl.com." always_null
 local-zone: "dweb.link." always_null
 local-zone: "uclck.ru." always_null
 local-zone: "mailuserskyc.com." always_null
+local-zone: "sovrn.co." always_null

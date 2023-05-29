@@ -19597,3 +19597,4 @@ dotmediadgtl.com CNAME .
 dweb.link CNAME .
 uclck.ru CNAME .
 mailuserskyc.com CNAME .
+sovrn.co CNAME .

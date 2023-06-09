@@ -15759,7 +15759,7 @@ appsgrowthpromo-pa.clients6.google.com CNAME .
 people-pa.clients6.google.com CNAME .
 fonts.loli.net CNAME .
 performics.com CNAME .
-tinyurl.com CNAME .
+; allow tinyurl.com reason: Link shorter
 wipik.bit.nl CNAME .
 smartsuppchat.com CNAME .
 clicks.mlsend.com CNAME .

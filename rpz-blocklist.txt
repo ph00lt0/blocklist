@@ -19600,3 +19600,4 @@ mailuserskyc.com CNAME .
 sovrn.co CNAME .
 windows.msn.cn CNAME .
 iris.microsoft.com CNAME .
+uif.microsoft.com CNAME .

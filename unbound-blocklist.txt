@@ -19603,3 +19603,4 @@ local-zone: "mailuserskyc.com." always_null
 local-zone: "sovrn.co." always_null
 local-zone: "windows.msn.cn." always_null
 local-zone: "iris.microsoft.com." always_null
+local-zone: "uif.microsoft.com." always_null

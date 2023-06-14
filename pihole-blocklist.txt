@@ -19708,3 +19708,4 @@
 0.0.0.0 sovrn.co
 0.0.0.0 windows.msn.cn
 0.0.0.0 iris.microsoft.com
+0.0.0.0 uif.microsoft.com

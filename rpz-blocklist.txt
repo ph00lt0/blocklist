@@ -19599,3 +19599,4 @@ uclck.ru CNAME .
 mailuserskyc.com CNAME .
 sovrn.co CNAME .
 windows.msn.cn CNAME .
+iris.microsoft.com CNAME .

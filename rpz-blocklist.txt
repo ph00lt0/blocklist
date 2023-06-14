@@ -19603,3 +19603,4 @@ iris.microsoft.com CNAME .
 uif.microsoft.com CNAME .
 cxcs.microsoft.net CNAME .
 t.en25.com CNAME .
+relx.com CNAME .

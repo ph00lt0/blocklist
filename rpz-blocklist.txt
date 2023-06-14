@@ -19601,3 +19601,4 @@ sovrn.co CNAME .
 windows.msn.cn CNAME .
 iris.microsoft.com CNAME .
 uif.microsoft.com CNAME .
+cxcs.microsoft.net CNAME .

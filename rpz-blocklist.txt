@@ -19606,3 +19606,4 @@ t.en25.com CNAME .
 relx.com CNAME .
 spotler.com CNAME .
 townmail.nl CNAME .
+avetica.net CNAME .

@@ -19608,3 +19608,4 @@ local-zone: "cxcs.microsoft.net." always_null
 local-zone: "t.en25.com." always_null
 local-zone: "relx.com." always_null
 local-zone: "spotler.com." always_null
+local-zone: "townmail.nl." always_null

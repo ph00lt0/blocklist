@@ -19604,3 +19604,4 @@ uif.microsoft.com CNAME .
 cxcs.microsoft.net CNAME .
 t.en25.com CNAME .
 relx.com CNAME .
+spotler.com CNAME .

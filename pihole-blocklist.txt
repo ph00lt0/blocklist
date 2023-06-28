@@ -19712,3 +19712,4 @@
 0.0.0.0 cxcs.microsoft.net
 0.0.0.0 t.en25.com
 0.0.0.0 relx.com
+0.0.0.0 spotler.com

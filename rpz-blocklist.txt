@@ -19607,3 +19607,4 @@ relx.com CNAME .
 spotler.com CNAME .
 townmail.nl CNAME .
 avetica.net CNAME .
+momentive.com CNAME .

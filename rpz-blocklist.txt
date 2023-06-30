@@ -19608,3 +19608,4 @@ spotler.com CNAME .
 townmail.nl CNAME .
 avetica.net CNAME .
 momentive.com CNAME .
+momentive.ai CNAME .

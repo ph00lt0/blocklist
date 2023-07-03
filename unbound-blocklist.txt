@@ -749,7 +749,7 @@ local-zone: "sentry.openbook.social." always_null
 local-zone: "sentry.svc.tfw.io." always_null
 local-zone: "sentry.lbry.tech." always_null
 local-zone: "wms*.zoho.eu." always_null
-local-zone: "workdrive.zoho.eu." always_null
+# allow workdrive.zoho.eu reason: Zoho Product
 local-zone: "contacts.zoho.eu." always_null
 local-zone: "phonebridge.zoho.eu." always_null
 # allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without

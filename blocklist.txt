@@ -784,7 +784,7 @@
 ||sentry.svc.tfw.io^
 ||sentry.lbry.tech^
 ||wms*.zoho.eu^
-||workdrive.zoho.eu^
+||workdrive.zoho.eu^$badfilter  # Zoho Product
 ||contacts.zoho.eu^
 ||phonebridge.zoho.eu^
 ||webfonts.zoho.com^$badfilter  # Required for zoho admin, loading breaks without

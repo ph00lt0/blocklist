@@ -783,7 +783,7 @@
 0.0.0.0 sentry.svc.tfw.io
 0.0.0.0 sentry.lbry.tech
 0.0.0.0 wms*.zoho.eu
-0.0.0.0 workdrive.zoho.eu
+! allow workdrive.zoho.eu reason: Zoho Product
 0.0.0.0 contacts.zoho.eu
 0.0.0.0 phonebridge.zoho.eu
 ! allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without

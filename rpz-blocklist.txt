@@ -748,7 +748,7 @@ sentry.openbook.social CNAME .
 sentry.svc.tfw.io CNAME .
 sentry.lbry.tech CNAME .
 wms*.zoho.eu CNAME .
-workdrive.zoho.eu CNAME .
+; allow workdrive.zoho.eu reason: Zoho Product
 contacts.zoho.eu CNAME .
 phonebridge.zoho.eu CNAME .
 ; allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without

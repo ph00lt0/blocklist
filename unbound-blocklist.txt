@@ -12536,7 +12536,7 @@ local-zone: "1083328646.rsc.cdn77.org." always_null
 local-zone: "1085610534.rsc.cdn77.org." always_null
 local-zone: "1087935514.rsc.cdn77.org." always_null
 local-zone: "1087c8879deade6339e4462ced839163.edgekey.net." always_null
-local-zone: "1088045785.rsc.cdn77.org." always_null
+# allow 1088045785.rsc.cdn77.org reason: CDN KDE
 local-zone: "1094578850.rsc.cdn77.org." always_null
 local-zone: "10upmanaged.com." always_null
 local-zone: "10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com." always_null

@@ -12641,7 +12641,7 @@
 0.0.0.0 1085610534.rsc.cdn77.org
 0.0.0.0 1087935514.rsc.cdn77.org
 
-0.0.0.0 1088045785.rsc.cdn77.org
+! allow 1088045785.rsc.cdn77.org reason: CDN KDE
 0.0.0.0 1094578850.rsc.cdn77.org
 0.0.0.0 10upmanaged.com
 0.0.0.0 10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com

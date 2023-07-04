@@ -12961,7 +12961,7 @@ $removeparam=engagement_type
 ||1085610534.rsc.cdn77.org^
 ||1087935514.rsc.cdn77.org^
 
-||1088045785.rsc.cdn77.org^
+||1088045785.rsc.cdn77.org^$badfilter  # CDN KDE
 ||1094578850.rsc.cdn77.org^
 ||10upmanaged.com^
 ||10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com^

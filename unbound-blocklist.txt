@@ -12325,7 +12325,7 @@ local-zone: "data-44a005f23c.bergfex.at." always_null
 local-zone: "partner.bergfex.at." always_null
 # allow vod-at.mdn.ors.at reason: Required for video playback
 local-zone: "wa.gmx.net." always_null
-local-zone: "web.de." always_null
+# allow web.de reason: Email service
 local-zone: "dpa-tools.ui-portal.de." always_null
 local-zone: "nct.ui-portal.de." always_null
 local-zone: "uim.tifbs.net." always_null

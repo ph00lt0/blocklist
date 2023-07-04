@@ -12734,7 +12734,7 @@ www.yeeuu.com##+js(rc, modal-open, html, stay)
 ||partner.bergfex.at^
 ||vod-at.mdn.ors.at^$badfilter  # Required for video playback
 ||wa.gmx.net^
-||web.de^
+||web.de^$badfilter  # Email service
 ||dpa-tools.ui-portal.de^
 ||nct.ui-portal.de^
 ||uim.tifbs.net^

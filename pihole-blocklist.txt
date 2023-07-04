@@ -12430,7 +12430,7 @@
 0.0.0.0 partner.bergfex.at
 ! allow vod-at.mdn.ors.at reason: Required for video playback
 0.0.0.0 wa.gmx.net
-0.0.0.0 web.de
+! allow web.de reason: Email service
 0.0.0.0 dpa-tools.ui-portal.de
 0.0.0.0 nct.ui-portal.de
 0.0.0.0 uim.tifbs.net

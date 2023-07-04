@@ -12322,7 +12322,7 @@ data-44a005f23c.; allow bergfex.at reason: not a trackr
 partner.; allow bergfex.at reason: not a trackr
 ; allow vod-at.mdn.ors.at reason: Required for video playback
 wa.gmx.net CNAME .
-web.de CNAME .
+; allow web.de reason: Email service
 dpa-tools.ui-portal.de CNAME .
 nct.ui-portal.de CNAME .
 uim.tifbs.net CNAME .
@@ -18870,7 +18870,7 @@ lotto-sh.de CNAME .
 lotto-thueringen.de CNAME .
 fernsehlotterie.de CNAME .
 lotto24.de CNAME .
-lotto.web.de CNAME .
+lotto.; allow web.de reason: Email service
 lotto.gmx.de CNAME .
 tipp24.de CNAME .
 aidfive.org CNAME .

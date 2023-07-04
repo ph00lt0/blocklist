@@ -723,7 +723,7 @@
 0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
-0.0.0.0 location.services.mozilla.com
+! allow location.services.mozilla.com reason: location service of mozilla
 0.0.0.0 samen.npostart.nl
 0.0.0.0 tellerapi.npo.nl
 0.0.0.0 kljei27asdkj.nl
@@ -799,7 +799,7 @@
 0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
-0.0.0.0 location.services.mozilla.com
+! allow location.services.mozilla.com reason: location service of mozilla
 0.0.0.0 cdns.eu1.gigya.com
 0.0.0.0 gigya.com
 0.0.0.0 firebaselogging.googleapis.com

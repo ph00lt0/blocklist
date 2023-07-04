@@ -724,7 +724,7 @@
 ||qsurvey.mozilla.com^
 ||telemetry.mozilla.org^
 ||telemetry-experiment.cdn.mozilla.net^
-||location.services.mozilla.com^
+||location.services.mozilla.com^$badfilter  # location service of mozilla
 ||samen.npostart.nl^
 ||tellerapi.npo.nl^
 ||kljei27asdkj.nl^
@@ -800,7 +800,7 @@
 ||qsurvey.mozilla.com^
 ||telemetry.mozilla.org^
 ||telemetry-experiment.cdn.mozilla.net^
-||location.services.mozilla.com^
+||location.services.mozilla.com^$badfilter  # location service of mozilla
 ||cdns.eu1.gigya.com^
 ||gigya.com^
 ||firebaselogging.googleapis.com^

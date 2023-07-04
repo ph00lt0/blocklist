@@ -688,7 +688,7 @@ getpocket.cdn.mozilla.net CNAME .
 qsurvey.mozilla.com CNAME .
 telemetry.mozilla.org CNAME .
 telemetry-experiment.cdn.mozilla.net CNAME .
-location.services.mozilla.com CNAME .
+; allow location.services.mozilla.com reason: location service of mozilla
 samen.npostart.nl CNAME .
 tellerapi.npo.nl CNAME .
 kljei27asdkj.nl CNAME .
@@ -764,7 +764,7 @@ getpocket.cdn.mozilla.net CNAME .
 qsurvey.mozilla.com CNAME .
 telemetry.mozilla.org CNAME .
 telemetry-experiment.cdn.mozilla.net CNAME .
-location.services.mozilla.com CNAME .
+; allow location.services.mozilla.com reason: location service of mozilla
 cdns.eu1.gigya.com CNAME .
 gigya.com CNAME .
 firebaselogging.googleapis.com CNAME .

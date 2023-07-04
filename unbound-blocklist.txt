@@ -689,7 +689,7 @@ local-zone: "getpocket.cdn.mozilla.net." always_null
 local-zone: "qsurvey.mozilla.com." always_null
 local-zone: "telemetry.mozilla.org." always_null
 local-zone: "telemetry-experiment.cdn.mozilla.net." always_null
-local-zone: "location.services.mozilla.com." always_null
+# allow location.services.mozilla.com reason: location service of mozilla
 local-zone: "samen.npostart.nl." always_null
 local-zone: "tellerapi.npo.nl." always_null
 local-zone: "kljei27asdkj.nl." always_null
@@ -765,7 +765,7 @@ local-zone: "getpocket.cdn.mozilla.net." always_null
 local-zone: "qsurvey.mozilla.com." always_null
 local-zone: "telemetry.mozilla.org." always_null
 local-zone: "telemetry-experiment.cdn.mozilla.net." always_null
-local-zone: "location.services.mozilla.com." always_null
+# allow location.services.mozilla.com reason: location service of mozilla
 local-zone: "cdns.eu1.gigya.com." always_null
 local-zone: "gigya.com." always_null
 local-zone: "firebaselogging.googleapis.com." always_null

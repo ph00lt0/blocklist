@@ -17467,7 +17467,6 @@ moneymonk.nl##.block.opacity-70.z-100.bg-gray-700.fixed.inset-0
 ||terrapinn.com^$removeparam=u
 ||terrapinn.com^$removeparam=jb
 ||terrapinn.com^$removeparam=mid
-||ws.clickup.com^
 ||sbicard.com^$removeparam=CS
 ||turing.com^$removeparam=s
 ||turing.com^$removeparam=n
@@ -17909,8 +17908,6 @@ happysocks.com##+js(rc, lock-scroll, body, stay)
 happysocks.com##+js(rc, disabled, header, stay)
 ||discuss.privacyguides.org/clicks^
 ||discuss.grapheneos.org/clicks^
-||links1.clickup.com^
-||clickup.com^
 ||thepointyspritesclub.com^
 ||trc-events.taboola.com^
 ||marketlinc.com^
@@ -17920,7 +17917,6 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||core.thepointyspritesclub.com^
 ||rs.fullstory.com^
 ||mutinyhq.io^
-||api.clickup.com^
 ||api.exchangeratesapi.io^
 ||exchangeratesapi.io^
 ||user-data.mutinycdn.com^
@@ -17937,7 +17933,6 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||facebook.com/tr^
 ||lift-ai-js.marketlinc.com^
 ||cnv.event.prod.bidr.io^
-||mail.clickup.com^
 ||email.onvz.nl^
 onvz.nl###ost-btn-accept-all-cookies
 onvz.nl##.usabilla__overlay

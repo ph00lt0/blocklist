@@ -20299,3 +20299,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||momentive.com^
 ||momentive.ai^
 ||web.de^$third-party
+||ruigrok.nl^

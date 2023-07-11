@@ -19612,3 +19612,4 @@ local-zone: "townmail.nl." always_null
 local-zone: "avetica.net." always_null
 local-zone: "momentive.com." always_null
 local-zone: "momentive.ai." always_null
+local-zone: "ruigrok.nl." always_null

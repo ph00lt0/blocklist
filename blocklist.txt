@@ -20300,3 +20300,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||momentive.ai^
 ||web.de^$third-party
 ||ruigrok.nl^
+||clickmarkteffect.nl^

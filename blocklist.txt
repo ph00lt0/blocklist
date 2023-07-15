@@ -3910,7 +3910,7 @@
 ||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
 ||dbl.spamhaus.org^$badfilter  # not a tracker
 ||zen.spamhaus.org^$badfilter  # bl.spamcop.net
-||bl.spamcop.net^
+||bl.spamcop.net^$badfilter  # not a tracker
 ||ngpweb.com^
 ||gnpfesdk-pa.googleapis.com^
 ||fairsconsult.webpower.eu^

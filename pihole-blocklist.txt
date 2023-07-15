@@ -3904,7 +3904,7 @@
 ! allow gmail.com.dbl.spamhaus.org reason: no a tracker
 ! allow dbl.spamhaus.org reason: not a tracker
 ! allow zen.spamhaus.org reason: bl.spamcop.net
-0.0.0.0 bl.spamcop.net
+! allow bl.spamcop.net reason: not a tracker
 0.0.0.0 ngpweb.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 fairsconsult.webpower.eu

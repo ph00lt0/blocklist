@@ -3834,7 +3834,7 @@ local-zone: "analytics.sketchup.com." always_null
 # allow gmail.com.dbl.spamhaus.org reason: no a tracker
 # allow dbl.spamhaus.org reason: not a tracker
 # allow zen.spamhaus.org reason: bl.spamcop.net
-local-zone: "bl.spamcop.net." always_null
+# allow bl.spamcop.net reason: not a tracker
 local-zone: "ngpweb.com." always_null
 local-zone: "gnpfesdk-pa.googleapis.com." always_null
 local-zone: "fairsconsult.webpower.eu." always_null

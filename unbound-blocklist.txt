@@ -3831,7 +3831,7 @@ local-zone: "writing.chelseakomlo.com." always_null
 local-zone: "in.appcenter.ms." always_null
 local-zone: "win10-trt.msedge.net." always_null
 local-zone: "analytics.sketchup.com." always_null
-local-zone: "gmail.com.dbl.spamhaus.org." always_null
+# allow gmail.com.dbl.spamhaus.org reason: no a tracker
 local-zone: "dbl.spamhaus.org." always_null
 local-zone: "zen.spamhaus.org." always_null
 local-zone: "bl.spamcop.net." always_null

@@ -3907,7 +3907,7 @@
 ||in.appcenter.ms^
 ||win10-trt.msedge.net^
 ||analytics.sketchup.com^
-||gmail.com.dbl.spamhaus.org^
+||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
 ||dbl.spamhaus.org^
 ||zen.spamhaus.org^
 ||bl.spamcop.net^

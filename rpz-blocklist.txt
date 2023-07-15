@@ -3829,7 +3829,7 @@ writing.chelseakomlo.com CNAME .
 in.; allow appcenter.ms reason: Azure app store
 win10-trt.msedge.net CNAME .
 analytics.sketchup.com CNAME .
-gmail.com.dbl.spamhaus.org CNAME .
+; allow gmail.com.dbl.spamhaus.org reason: no a tracker
 dbl.spamhaus.org CNAME .
 zen.spamhaus.org CNAME .
 bl.spamcop.net CNAME .

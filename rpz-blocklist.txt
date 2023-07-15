@@ -14776,7 +14776,7 @@ d1pna5l3xsntoj.cloudfront.net CNAME .
 d1q21flwrme95o.cloudfront.net CNAME .
 d1wxoezmgmbkmb.cloudfront.net CNAME .
 d1ygc727n2d4ey.cloudfront.net CNAME .
-d1z9autcf703pk.cloudfront.net CNAME .
+; allow d1z9autcf703pk.cloudfront.net reason: CDN
 d1zoy6udo0cq8f.cloudfront.net CNAME .
 d20ohkaloyme4g.cloudfront.net CNAME .
 d258lu9myqkejp.cloudfront.net CNAME .

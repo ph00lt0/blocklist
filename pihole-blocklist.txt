@@ -3902,7 +3902,7 @@
 0.0.0.0 win10-trt.msedge.net
 0.0.0.0 analytics.sketchup.com
 ! allow gmail.com.dbl.spamhaus.org reason: no a tracker
-0.0.0.0 dbl.spamhaus.org
+! allow dbl.spamhaus.org reason: not a tracker
 0.0.0.0 zen.spamhaus.org
 0.0.0.0 bl.spamcop.net
 0.0.0.0 ngpweb.com

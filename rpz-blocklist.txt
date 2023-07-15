@@ -3830,7 +3830,7 @@ in.; allow appcenter.ms reason: Azure app store
 win10-trt.msedge.net CNAME .
 analytics.sketchup.com CNAME .
 ; allow gmail.com.dbl.spamhaus.org reason: no a tracker
-dbl.spamhaus.org CNAME .
+; allow dbl.spamhaus.org reason: not a tracker
 zen.spamhaus.org CNAME .
 bl.spamcop.net CNAME .
 ngpweb.com CNAME .
@@ -3840,7 +3840,7 @@ mailzgbaag.mail.webpower.eu CNAME .
 mail.secondhome.nl CNAME .
 omappapi.com CNAME .
 a.omappapi.com CNAME .
-secure.avaaz.org.dbl.spamhaus.org CNAME .
+secure.avaaz.org.; allow dbl.spamhaus.org reason: not a tracker
 analytics.localytics.com CNAME .
 profile.localytics.com CNAME .
 xtracloud.net CNAME .

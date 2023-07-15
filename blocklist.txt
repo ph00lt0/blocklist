@@ -3908,7 +3908,7 @@
 ||win10-trt.msedge.net^
 ||analytics.sketchup.com^
 ||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
-||dbl.spamhaus.org^
+||dbl.spamhaus.org^$badfilter  # not a tracker
 ||zen.spamhaus.org^
 ||bl.spamcop.net^
 ||ngpweb.com^

@@ -616,7 +616,7 @@
 ||typekit.net^
 ||safebrowsing.google.com^
 ||safebrowsing.clients.google.com^
-||safebrowsing.googleapis.com^
+||safebrowsing.googleapis.com^$badfilter  # security over privacy i guess
 ||userlocation.googleapis.com^
 ||*-pa.googleapis.com^$third-party
 ||googleadservices.com^

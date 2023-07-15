@@ -586,7 +586,7 @@ fonts.net CNAME .
 typekit.net CNAME .
 safebrowsing.google.com CNAME .
 safebrowsing.clients.google.com CNAME .
-safebrowsing.googleapis.com CNAME .
+; allow safebrowsing.googleapis.com reason: security over privacy i guess
 userlocation.googleapis.com CNAME .
 googleadservices.com CNAME .
 smartlock.google.com CNAME .

@@ -587,7 +587,7 @@ local-zone: "fonts.net." always_null
 local-zone: "typekit.net." always_null
 local-zone: "safebrowsing.google.com." always_null
 local-zone: "safebrowsing.clients.google.com." always_null
-local-zone: "safebrowsing.googleapis.com." always_null
+# allow safebrowsing.googleapis.com reason: security over privacy i guess
 local-zone: "userlocation.googleapis.com." always_null
 local-zone: "googleadservices.com." always_null
 local-zone: "smartlock.google.com." always_null

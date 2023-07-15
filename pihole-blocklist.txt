@@ -615,7 +615,7 @@
 0.0.0.0 typekit.net
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing.clients.google.com
-0.0.0.0 safebrowsing.googleapis.com
+! allow safebrowsing.googleapis.com reason: security over privacy i guess
 0.0.0.0 userlocation.googleapis.com
 ! allow *-pa.googleapis.com reason: Required for functionality of Google Apps
 0.0.0.0 googleadservices.com

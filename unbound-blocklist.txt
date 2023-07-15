@@ -3842,7 +3842,7 @@ local-zone: "mailzgbaag.mail.webpower.eu." always_null
 local-zone: "mail.secondhome.nl." always_null
 local-zone: "omappapi.com." always_null
 local-zone: "a.omappapi.com." always_null
-local-zone: "secure.avaaz.org.dbl.spamhaus.org." always_null
+# allow secure.avaaz.org.dbl.spamhaus.org reason: not a trackr
 local-zone: "analytics.localytics.com." always_null
 local-zone: "profile.localytics.com." always_null
 local-zone: "xtracloud.net." always_null

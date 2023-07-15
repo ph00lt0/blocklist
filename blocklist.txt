@@ -3918,7 +3918,7 @@
 ||mail.secondhome.nl^
 ||omappapi.com^
 ||a.omappapi.com^
-||secure.avaaz.org.dbl.spamhaus.org^
+||secure.avaaz.org.dbl.spamhaus.org^$badfilter  # not a trackr
 ||outlook.htrhosting.nl^$badfilter  # Not just email tracking
 ||analytics.localytics.com^
 ||profile.localytics.com^

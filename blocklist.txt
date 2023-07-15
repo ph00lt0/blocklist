@@ -13995,7 +13995,7 @@ $removeparam=engagement_type
 ||amavalet.com^
 ||amazon.co.uk^$badfilter  # not a tracker
 ||amazon.com^$badfilter  # not a tracker
-||amazon.de^
+||amazon.de^$badfilter  # Amazon store
 ||amp.akamaized.net^
 ||amplifoninternal.com^
 ||ams-pageview-public.s3.amazonaws.com^

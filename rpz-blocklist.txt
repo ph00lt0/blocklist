@@ -13567,7 +13567,7 @@ am-static.com CNAME .
 amavalet.com CNAME .
 ; allow amazon.co.uk reason: not a tracker
 ; allow amazon.com reason: not a tracker
-amazon.de CNAME .
+; allow amazon.de reason: Amazon store
 amp.akamaized.net CNAME .
 amplifoninternal.com CNAME .
 ams-pageview-public.s3.amazonaws.com CNAME .
@@ -13608,7 +13608,7 @@ aso1.net CNAME .
 assemblyexchange.com CNAME .
 assertcom.de CNAME .
 assertive.workers.dev CNAME .
-assoc-amazon.de CNAME .
+assoc-; allow amazon.de reason: Amazon store
 at-o.net CNAME .
 
 

@@ -13675,7 +13675,7 @@
 0.0.0.0 amavalet.com
 ! allow amazon.co.uk reason: not a tracker
 ! allow amazon.com reason: not a tracker
-0.0.0.0 amazon.de
+! allow amazon.de reason: Amazon store
 0.0.0.0 amp.akamaized.net
 0.0.0.0 amplifoninternal.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com

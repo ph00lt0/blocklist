@@ -3909,7 +3909,7 @@
 ||analytics.sketchup.com^
 ||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
 ||dbl.spamhaus.org^$badfilter  # not a tracker
-||zen.spamhaus.org^
+||zen.spamhaus.org^$badfilter  # bl.spamcop.net
 ||bl.spamcop.net^
 ||ngpweb.com^
 ||gnpfesdk-pa.googleapis.com^

@@ -1877,7 +1877,7 @@ pixel.archive.ph CNAME .
 top-fwz1.mail.ru CNAME .
 a-mo.net CNAME .
 assets.a-mo.net CNAME .
-i0.wp.com CNAME .
+; allow i0.wp.com reason: CDN
 consent-cdn.zeit.de CNAME .
 interactive.zeit.de CNAME .
 k5a.io CNAME .

@@ -1879,7 +1879,7 @@ local-zone: "pixel.archive.ph." always_null
 local-zone: "top-fwz1.mail.ru." always_null
 local-zone: "a-mo.net." always_null
 local-zone: "assets.a-mo.net." always_null
-local-zone: "i0.wp.com." always_null
+# allow i0.wp.com reason: CDN
 local-zone: "consent-cdn.zeit.de." always_null
 local-zone: "interactive.zeit.de." always_null
 local-zone: "k5a.io." always_null

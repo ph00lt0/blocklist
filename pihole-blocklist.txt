@@ -19720,3 +19720,4 @@
 0.0.0.0 ruigrok.nl
 0.0.0.0 clickmarkteffect.nl
 0.0.0.0 avcdn.net
+0.0.0.0 jumpshot.com

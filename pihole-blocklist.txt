@@ -17427,7 +17427,7 @@
 0.0.0.0 .clearbitjs.com
 0.0.0.0 js.qualified.com
 ! allow techtarget.com reason: podcast cdn
-0.0.0.0 s.pinimg.com
+! allow s.pinimg.com reason: Pinterest
 0.0.0.0 pixel.pointmediatracker.com
 0.0.0.0 pointmediatracker.com
 0.0.0.0 apt.techtarget.com

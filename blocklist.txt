@@ -17929,7 +17929,7 @@ happysocks.com##+js(rc, disabled, header, stay)
 ||.clearbitjs.com^
 ||js.qualified.com^
 ||techtarget.com^$badfilter  # podcast cdn
-||s.pinimg.com^
+||s.pinimg.com^$badfilter  # Pinterest
 ||pixel.pointmediatracker.com^
 ||pointmediatracker.com^
 ||apt.techtarget.com^
@@ -20301,7 +20301,7 @@ hypotheek.nl###cookielaw_idf_overlay
 ||web.de^$third-party
 ||ruigrok.nl^
 ||clickmarkteffect.nl^
-||s.pinimg.com^$third-party
-@@||s.pinimg.com^$domain=www.pinterest.com
+||s.pinimg.com^$badfilter  # Pinterest$third-party
+@@||s.pinimg.com^$badfilter  # Pinterest$domain=www.pinterest.com
 ||i.pinimg.com^$third-party
 @@||i.pinimg.com^$domain=www.pinterest.com

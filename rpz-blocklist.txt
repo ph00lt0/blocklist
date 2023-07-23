@@ -17319,7 +17319,7 @@ cdn.pdst.fm CNAME .
 .clearbitjs.com CNAME .
 js.qualified.com CNAME .
 ; allow techtarget.com reason: podcast cdn
-s.pinimg.com CNAME .
+; allow s.pinimg.com reason: Pinterest
 pixel.pointmediatracker.com CNAME .
 pointmediatracker.com CNAME .
 apt.; allow techtarget.com reason: podcast cdn

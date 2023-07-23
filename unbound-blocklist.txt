@@ -17322,7 +17322,7 @@ local-zone: "cdn.pdst.fm." always_null
 local-zone: ".clearbitjs.com." always_null
 local-zone: "js.qualified.com." always_null
 # allow techtarget.com reason: podcast cdn
-local-zone: "s.pinimg.com." always_null
+# allow s.pinimg.com reason: Pinterest
 local-zone: "pixel.pointmediatracker.com." always_null
 local-zone: "pointmediatracker.com." always_null
 local-zone: "apt.techtarget.com." always_null

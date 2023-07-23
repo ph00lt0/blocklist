@@ -20305,3 +20305,4 @@ hypotheek.nl###cookielaw_idf_overlay
 @@||s.pinimg.com^$domain=www.pinterest.com
 ||i.pinimg.com^$third-party
 @@||i.pinimg.com^$domain=www.pinterest.com
+||avcdn.net^

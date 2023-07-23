@@ -19614,3 +19614,4 @@ local-zone: "momentive.com." always_null
 local-zone: "momentive.ai." always_null
 local-zone: "ruigrok.nl." always_null
 local-zone: "clickmarkteffect.nl." always_null
+local-zone: "avcdn.net." always_null

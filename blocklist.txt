@@ -2142,7 +2142,7 @@
 ||cdn.provesrc.com^
 ||pushcrew.com^
 ||cdn.pushcrew.com^
-||i.pinimg.com^
+||i.pinimg.com^$badfilter  # Pinterest
 ||diffuser-cdn.app-us1.com^
 ||app-us1.com^
 ||qodeinteractive.com^

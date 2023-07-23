@@ -2139,7 +2139,7 @@
 0.0.0.0 cdn.provesrc.com
 0.0.0.0 pushcrew.com
 0.0.0.0 cdn.pushcrew.com
-0.0.0.0 i.pinimg.com
+! allow i.pinimg.com reason: Pinterest
 0.0.0.0 diffuser-cdn.app-us1.com
 0.0.0.0 app-us1.com
 0.0.0.0 qodeinteractive.com

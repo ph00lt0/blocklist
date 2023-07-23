@@ -2093,7 +2093,7 @@ provesrc.com CNAME .
 cdn.provesrc.com CNAME .
 pushcrew.com CNAME .
 cdn.pushcrew.com CNAME .
-i.pinimg.com CNAME .
+; allow i.pinimg.com reason: Pinterest
 diffuser-cdn.app-us1.com CNAME .
 app-us1.com CNAME .
 qodeinteractive.com CNAME .

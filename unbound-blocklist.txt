@@ -2095,7 +2095,7 @@ local-zone: "provesrc.com." always_null
 local-zone: "cdn.provesrc.com." always_null
 local-zone: "pushcrew.com." always_null
 local-zone: "cdn.pushcrew.com." always_null
-local-zone: "i.pinimg.com." always_null
+# allow i.pinimg.com reason: Pinterest
 local-zone: "diffuser-cdn.app-us1.com." always_null
 local-zone: "app-us1.com." always_null
 local-zone: "qodeinteractive.com." always_null

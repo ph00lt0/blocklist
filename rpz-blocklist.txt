@@ -19614,3 +19614,4 @@ clickmarkteffect.nl CNAME .
 avcdn.net CNAME .
 jumpshot.com CNAME .
 analyz-it.be CNAME .
+priormail.analyz-it.be CNAME .

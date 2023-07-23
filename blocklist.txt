@@ -20302,3 +20302,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||ruigrok.nl^
 ||clickmarkteffect.nl^
 ||i.pinimg.com^$third-party
+@@||s.pinimg.com^$domain=www.pinterest.com

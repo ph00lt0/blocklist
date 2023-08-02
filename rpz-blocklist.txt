@@ -4947,7 +4947,7 @@ beacons.gcp.gvt2.com CNAME .
 s2s.singular.net CNAME .
 cc-api-data.adobe.io CNAME .
 activity.windows.com CNAME .
-gllto.glpals.com CNAME .
+; allow gllto.glpals.com reason: It's an A-GPS domain from Broadcom
 footprints-pa.googleapis.com CNAME .
 events.data.microsoft.com CNAME .
 api2.branch.io CNAME .

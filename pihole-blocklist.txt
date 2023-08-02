@@ -5034,7 +5034,7 @@
 0.0.0.0 s2s.singular.net
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 activity.windows.com
-0.0.0.0 gllto.glpals.com
+! allow gllto.glpals.com reason: It's an A-GPS domain from Broadcom
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 api2.branch.io

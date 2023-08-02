@@ -5064,7 +5064,7 @@ merkur.dk##body:style(overflow: auto!important)
 ||s2s.singular.net^
 ||cc-api-data.adobe.io^
 ||activity.windows.com^
-||gllto.glpals.com^
+||gllto.glpals.com^$badfilter  # It's an A-GPS domain from Broadcom
 ||footprints-pa.googleapis.com^
 ||events.data.microsoft.com^
 ||api2.branch.io^

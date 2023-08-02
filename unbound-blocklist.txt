@@ -4950,7 +4950,7 @@ local-zone: "beacons.gcp.gvt2.com." always_null
 local-zone: "s2s.singular.net." always_null
 local-zone: "cc-api-data.adobe.io." always_null
 local-zone: "activity.windows.com." always_null
-local-zone: "gllto.glpals.com." always_null
+# allow gllto.glpals.com reason: It's an A-GPS domain from Broadcom
 local-zone: "footprints-pa.googleapis.com." always_null
 local-zone: "events.data.microsoft.com." always_null
 local-zone: "api2.branch.io." always_null

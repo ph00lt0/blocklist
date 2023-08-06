@@ -1,6 +1,6 @@
 # Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 
-Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources) and activively added trackers from [Tracker Radar](https://github.com/duckduckgo/tracker-radar/) by DuckDuckGo. The trackers listed by DDG contain a lot of false postives, which we try to whitelist to the best of our ability. This blocklists aims at not breaking the exerpience of apps, if this occurs please report so.
+Blocklist of analytics and annoyances found by our own research (either discovery or found by collecting sources). The trackers listed by DDG contain a lot of false postives, which we try to whitelist to the best of our ability. This blocklists aims at not breaking the exerpience of apps, if this occurs please report so.
 
 We recommend against using the AdGuard DNS filter, they whitellist many tracking domains using @@ which overwrite your settings in the name of functionality. They allow for trackers in emails links and page ads in search results, something we do not compromise for.
 

@@ -19616,3 +19616,4 @@ jumpshot.com CNAME .
 analyz-it.be CNAME .
 priormail.analyz-it.be CNAME .
 priormail.eu CNAME .
+shippinghero.vip CNAME .

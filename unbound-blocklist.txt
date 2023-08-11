@@ -19619,3 +19619,4 @@ local-zone: "jumpshot.com." always_null
 local-zone: "analyz-it.be." always_null
 local-zone: "priormail.analyz-it.be." always_null
 local-zone: "priormail.eu." always_null
+local-zone: "shippinghero.vip." always_null

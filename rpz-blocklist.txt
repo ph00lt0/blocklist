@@ -2033,8 +2033,8 @@ cdn.vuukle.com CNAME .
 locations.api.yle.fi CNAME .
 design-system.cdn.yle.fi CNAME .
 yle-consent-sdk.yle.fi CNAME .
-cdnapisec.kaltura.com CNAME .
-kaltura.com CNAME .
+cdnapisec.; allow kaltura.com reason: Kaltura video streaming
+; allow kaltura.com reason: Kaltura video streaming
 tag-manager.yle.fi CNAME .
 tunnus-sdk.yle.fi CNAME .
 dax.yle.fi CNAME .
@@ -2298,7 +2298,7 @@ sscict.piwik.prisma-it.com CNAME .
 stats.ilumy.com CNAME .
 ilumy.com CNAME .
 cbs.containers.piwik.pro CNAME .
-api.eu.kaltura.com CNAME .
+api.eu.; allow kaltura.com reason: Kaltura video streaming
 tweakwise.com CNAME .
 img.publikaan.nl CNAME .
 publikaan.nl CNAME .

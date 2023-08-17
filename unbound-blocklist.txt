@@ -2035,7 +2035,7 @@ local-zone: "cdn.vuukle.com." always_null
 local-zone: "locations.api.yle.fi." always_null
 local-zone: "design-system.cdn.yle.fi." always_null
 local-zone: "yle-consent-sdk.yle.fi." always_null
-local-zone: "cdnapisec.kaltura.com." always_null
+# allow cdnapisec.kaltura.com reason: Kaltura video stream
 # allow kaltura.com reason: Kaltura video streaming
 local-zone: "tag-manager.yle.fi." always_null
 local-zone: "tunnus-sdk.yle.fi." always_null

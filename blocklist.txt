@@ -2079,7 +2079,7 @@
 ||locations.api.yle.fi^
 ||design-system.cdn.yle.fi^
 ||yle-consent-sdk.yle.fi^
-||cdnapisec.kaltura.com^
+||cdnapisec.kaltura.com^$badfilter  # Kaltura video stream
 ||kaltura.com^$badfilter  # Kaltura video streaming
 ||tag-manager.yle.fi^
 ||tunnus-sdk.yle.fi^

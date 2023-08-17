@@ -2076,7 +2076,7 @@
 0.0.0.0 locations.api.yle.fi
 0.0.0.0 design-system.cdn.yle.fi
 0.0.0.0 yle-consent-sdk.yle.fi
-0.0.0.0 cdnapisec.kaltura.com
+! allow cdnapisec.kaltura.com reason: Kaltura video stream
 ! allow kaltura.com reason: Kaltura video streaming
 0.0.0.0 tag-manager.yle.fi
 0.0.0.0 tunnus-sdk.yle.fi

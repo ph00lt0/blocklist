@@ -19618,3 +19618,4 @@ priormail.analyz-it.be CNAME .
 priormail.eu CNAME .
 shippinghero.vip CNAME .
 bright-sdk.com CNAME .
+brightvpn.com CNAME .

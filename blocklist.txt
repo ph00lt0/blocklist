@@ -15018,7 +15018,7 @@ $removeparam=engagement_type
 ||djiops.com^
 ||dk0fkjygbn9vu.cloudfront.net^
 ||dl8.me^
-||dld6x5yyx2pqw.cloudfront.net^
+||dld6x5yyx2pqw.cloudfront.net^$badfilter  # Image CDN
 ||dm-event.net^
 ||dm-static.com^
 ||dmm.co.jp^

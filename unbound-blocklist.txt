@@ -14592,7 +14592,7 @@ local-zone: "divibib.com." always_null
 local-zone: "djiops.com." always_null
 local-zone: "dk0fkjygbn9vu.cloudfront.net." always_null
 local-zone: "dl8.me." always_null
-local-zone: "dld6x5yyx2pqw.cloudfront.net." always_null
+# allow dld6x5yyx2pqw.cloudfront.net reason: Image CDN
 local-zone: "dm-event.net." always_null
 local-zone: "dm-static.com." always_null
 local-zone: "dmm.co.jp." always_null

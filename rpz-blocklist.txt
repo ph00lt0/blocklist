@@ -14589,7 +14589,7 @@ divibib.com CNAME .
 djiops.com CNAME .
 dk0fkjygbn9vu.cloudfront.net CNAME .
 dl8.me CNAME .
-dld6x5yyx2pqw.cloudfront.net CNAME .
+; allow dld6x5yyx2pqw.cloudfront.net reason: Image CDN
 dm-event.net CNAME .
 dm-static.com CNAME .
 dmm.co.jp CNAME .

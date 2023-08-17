@@ -14697,7 +14697,7 @@
 0.0.0.0 djiops.com
 0.0.0.0 dk0fkjygbn9vu.cloudfront.net
 0.0.0.0 dl8.me
-0.0.0.0 dld6x5yyx2pqw.cloudfront.net
+! allow dld6x5yyx2pqw.cloudfront.net reason: Image CDN
 0.0.0.0 dm-event.net
 0.0.0.0 dm-static.com
 0.0.0.0 dmm.co.jp

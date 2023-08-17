@@ -19725,3 +19725,4 @@
 0.0.0.0 priormail.analyz-it.be
 0.0.0.0 priormail.eu
 0.0.0.0 shippinghero.vip
+0.0.0.0 bright-sdk.com

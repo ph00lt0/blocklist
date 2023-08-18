@@ -20313,3 +20313,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||shippinghero.vip^
 ||bright-sdk.com^
 ||brightvpn.com^
+||foursquare.com^

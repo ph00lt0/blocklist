@@ -19727,3 +19727,4 @@
 0.0.0.0 shippinghero.vip
 0.0.0.0 bright-sdk.com
 0.0.0.0 brightvpn.com
+0.0.0.0 foursquare.com

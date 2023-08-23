@@ -19621,3 +19621,4 @@ bright-sdk.com CNAME .
 brightvpn.com CNAME .
 foursquare.com CNAME .
 venpath.net CNAME .
+bookyourdata.com CNAME .

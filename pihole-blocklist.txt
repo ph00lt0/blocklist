@@ -19729,3 +19729,4 @@
 0.0.0.0 brightvpn.com
 0.0.0.0 foursquare.com
 0.0.0.0 venpath.net
+0.0.0.0 bookyourdata.com

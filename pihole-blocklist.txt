@@ -19732,3 +19732,4 @@
 0.0.0.0 bookyourdata.com
 0.0.0.0 lighthouselist.com
 0.0.0.0 ekata.com
+0.0.0.0 datafetcher.com

@@ -19627,3 +19627,4 @@ local-zone: "venpath.net." always_null
 local-zone: "bookyourdata.com." always_null
 local-zone: "lighthouselist.com." always_null
 local-zone: "ekata.com." always_null
+local-zone: "datafetcher.com." always_null

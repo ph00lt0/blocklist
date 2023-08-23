@@ -20316,3 +20316,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||foursquare.com^
 ||venpath.net^
 ||bookyourdata.com^
+||lighthouselist.com^

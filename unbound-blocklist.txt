@@ -19623,3 +19623,4 @@ local-zone: "shippinghero.vip." always_null
 local-zone: "bright-sdk.com." always_null
 local-zone: "brightvpn.com." always_null
 local-zone: "foursquare.com." always_null
+local-zone: "venpath.net." always_null

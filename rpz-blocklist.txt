@@ -19623,3 +19623,4 @@ foursquare.com CNAME .
 venpath.net CNAME .
 bookyourdata.com CNAME .
 lighthouselist.com CNAME .
+ekata.com CNAME .

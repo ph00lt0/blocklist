@@ -19630,3 +19630,4 @@ beacons3.gvt2.com CNAME .
 beacons2.gvt2.com CNAME .
 beacon.shazam.com CNAME .
 api.helpshift.com CNAME .
+sdk.out.usbla.net CNAME .

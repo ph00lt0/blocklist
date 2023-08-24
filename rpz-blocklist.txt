@@ -19625,3 +19625,4 @@ bookyourdata.com CNAME .
 lighthouselist.com CNAME .
 ekata.com CNAME .
 datafetcher.com CNAME .
+setapp.click CNAME .

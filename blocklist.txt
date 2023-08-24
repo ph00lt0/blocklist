@@ -20319,3 +20319,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||lighthouselist.com^
 ||ekata.com^
 ||datafetcher.com^
+||setapp.click^

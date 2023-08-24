@@ -19739,3 +19739,4 @@
 0.0.0.0 beacon.shazam.com
 0.0.0.0 api.helpshift.com
 0.0.0.0 sdk.out.usbla.net
+0.0.0.0 rum-http-intake.logs.datadoghq.eu

@@ -19111,6 +19111,7 @@
         "beacons2.gvt2.com",
         "beacon.shazam.com",
         "api.helpshift.com",
-        "sdk.out.usbla.net"
+        "sdk.out.usbla.net",
+        "rum-http-intake.logs.datadoghq.eu"
     ]
 }

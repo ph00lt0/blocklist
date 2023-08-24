@@ -19735,3 +19735,4 @@
 0.0.0.0 datafetcher.com
 0.0.0.0 setapp.click
 0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons2.gvt2.com

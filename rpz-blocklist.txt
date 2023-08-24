@@ -19627,3 +19627,4 @@ ekata.com CNAME .
 datafetcher.com CNAME .
 setapp.click CNAME .
 beacons3.gvt2.com CNAME .
+beacons2.gvt2.com CNAME .

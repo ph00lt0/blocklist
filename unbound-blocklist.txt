@@ -19632,3 +19632,4 @@ local-zone: "setapp.click." always_null
 local-zone: "beacons3.gvt2.com." always_null
 local-zone: "beacons2.gvt2.com." always_null
 local-zone: "beacon.shazam.com." always_null
+local-zone: "api.helpshift.com." always_null

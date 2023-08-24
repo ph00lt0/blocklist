@@ -19629,3 +19629,4 @@ local-zone: "lighthouselist.com." always_null
 local-zone: "ekata.com." always_null
 local-zone: "datafetcher.com." always_null
 local-zone: "setapp.click." always_null
+local-zone: "beacons3.gvt2.com." always_null

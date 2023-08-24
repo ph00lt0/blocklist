@@ -19636,3 +19636,4 @@ local-zone: "api.helpshift.com." always_null
 local-zone: "sdk.out.usbla.net." always_null
 local-zone: "rum-http-intake.logs.datadoghq.eu." always_null
 local-zone: "heartbeat-us.gamesbean.net." always_null
+local-zone: "prism-us.gamesbean.net." always_null

@@ -19113,6 +19113,7 @@
         "api.helpshift.com",
         "sdk.out.usbla.net",
         "rum-http-intake.logs.datadoghq.eu",
-        "heartbeat-us.gamesbean.net"
+        "heartbeat-us.gamesbean.net",
+        "prism-us.gamesbean.net"
     ]
 }

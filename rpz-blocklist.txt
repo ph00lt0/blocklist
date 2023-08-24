@@ -19633,3 +19633,4 @@ api.helpshift.com CNAME .
 sdk.out.usbla.net CNAME .
 rum-http-intake.logs.datadoghq.eu CNAME .
 heartbeat-us.gamesbean.net CNAME .
+prism-us.gamesbean.net CNAME .

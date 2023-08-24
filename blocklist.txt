@@ -20327,3 +20327,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||sdk.out.usbla.net^
 ||rum-http-intake.logs.datadoghq.eu^
 ||heartbeat-us.gamesbean.net^
+||prism-us.gamesbean.net^

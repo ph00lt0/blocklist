@@ -19632,3 +19632,4 @@ beacon.shazam.com CNAME .
 api.helpshift.com CNAME .
 sdk.out.usbla.net CNAME .
 rum-http-intake.logs.datadoghq.eu CNAME .
+heartbeat-us.gamesbean.net CNAME .

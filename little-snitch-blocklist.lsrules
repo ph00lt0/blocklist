@@ -19112,6 +19112,7 @@
         "beacon.shazam.com",
         "api.helpshift.com",
         "sdk.out.usbla.net",
-        "rum-http-intake.logs.datadoghq.eu"
+        "rum-http-intake.logs.datadoghq.eu",
+        "heartbeat-us.gamesbean.net"
     ]
 }

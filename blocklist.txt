@@ -20329,3 +20329,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||heartbeat-us.gamesbean.net^
 ||prism-us.gamesbean.net^
 ||kelkoogroup.net^
+||redirekted.com^

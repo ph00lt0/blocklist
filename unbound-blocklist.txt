@@ -19638,3 +19638,4 @@ local-zone: "rum-http-intake.logs.datadoghq.eu." always_null
 local-zone: "heartbeat-us.gamesbean.net." always_null
 local-zone: "prism-us.gamesbean.net." always_null
 local-zone: "kelkoogroup.net." always_null
+local-zone: "redirekted.com." always_null

@@ -20331,3 +20331,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||kelkoogroup.net^
 ||redirekted.com^
 ||liinkedin.com^
+||dekansvanvandaag.com^

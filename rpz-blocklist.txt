@@ -19637,3 +19637,4 @@ prism-us.gamesbean.net CNAME .
 kelkoogroup.net CNAME .
 redirekted.com CNAME .
 liinkedin.com CNAME .
+dekansvanvandaag.com CNAME .

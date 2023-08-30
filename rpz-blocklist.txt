@@ -19638,3 +19638,4 @@ kelkoogroup.net CNAME .
 redirekted.com CNAME .
 liinkedin.com CNAME .
 dekansvanvandaag.com CNAME .
+bigdatanederland.com CNAME .

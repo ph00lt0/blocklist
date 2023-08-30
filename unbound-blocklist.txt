@@ -19641,3 +19641,4 @@ local-zone: "kelkoogroup.net." always_null
 local-zone: "redirekted.com." always_null
 local-zone: "liinkedin.com." always_null
 local-zone: "dekansvanvandaag.com." always_null
+local-zone: "bigdatanederland.com." always_null

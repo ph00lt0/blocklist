@@ -19641,3 +19641,4 @@ dekansvanvandaag.com CNAME .
 bigdatanederland.com CNAME .
 bigdata-contest.eu CNAME .
 goddelijkedag.com CNAME .
+profiteren.eu CNAME .

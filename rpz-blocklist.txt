@@ -19653,3 +19653,4 @@ ib.isappcloud.com CNAME .
 fingerfun.com CNAME .
 gamesbean.net CNAME .
 sentry.ente.io CNAME .
+sentry-reporter.ente.io CNAME .

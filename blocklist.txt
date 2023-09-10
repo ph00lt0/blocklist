@@ -20347,3 +20347,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||fingerfun.com^
 ||gamesbean.net^
 ||sentry.ente.io^
+||sentry-reporter.ente.io^

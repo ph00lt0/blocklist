@@ -19133,6 +19133,7 @@
         "1.datadog.pool.ntp.org",
         "fingerfun.com",
         "gamesbean.net",
-        "sentry.ente.io"
+        "sentry.ente.io",
+        "sentry-reporter.ente.io"
     ]
 }

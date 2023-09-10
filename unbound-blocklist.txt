@@ -19653,3 +19653,4 @@ local-zone: "ib.isappcloud.com." always_null
 local-zone: "2.datadog.pool.ntp.org." always_null
 local-zone: "3.datadog.pool.ntp.org." always_null
 local-zone: "1.datadog.pool.ntp.org." always_null
+local-zone: "fingerfun.com." always_null

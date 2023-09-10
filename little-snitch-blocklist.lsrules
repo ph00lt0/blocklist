@@ -19130,6 +19130,7 @@
         "ib.isappcloud.com",
         "2.datadog.pool.ntp.org",
         "3.datadog.pool.ntp.org",
-        "1.datadog.pool.ntp.org"
+        "1.datadog.pool.ntp.org",
+        "fingerfun.com"
     ]
 }

@@ -19756,3 +19756,4 @@
 0.0.0.0 google.com.onion
 0.0.0.0 ib.isappcloud.com
 0.0.0.0 2.datadog.pool.ntp.org
+0.0.0.0 3.datadog.pool.ntp.org

@@ -19645,3 +19645,4 @@ local-zone: "bigdatanederland.com." always_null
 local-zone: "bigdata-contest.eu." always_null
 local-zone: "goddelijkedag.com." always_null
 local-zone: "profiteren.eu." always_null
+local-zone: "enviso.io." always_null

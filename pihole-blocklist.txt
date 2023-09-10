@@ -19760,3 +19760,4 @@
 0.0.0.0 1.datadog.pool.ntp.org
 0.0.0.0 fingerfun.com
 0.0.0.0 gamesbean.net
+0.0.0.0 sentry.ente.io

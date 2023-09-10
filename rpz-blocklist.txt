@@ -19652,3 +19652,4 @@ ib.isappcloud.com CNAME .
 1.datadog.pool.ntp.org CNAME .
 fingerfun.com CNAME .
 gamesbean.net CNAME .
+sentry.ente.io CNAME .

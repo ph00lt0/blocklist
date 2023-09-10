@@ -19754,3 +19754,4 @@
 0.0.0.0 datadog.pool.ntp.org
 0.0.0.0 getutm.app
 0.0.0.0 google.com.onion
+0.0.0.0 ib.isappcloud.com

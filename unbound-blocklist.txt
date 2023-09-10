@@ -19649,3 +19649,4 @@ local-zone: "enviso.io." always_null
 local-zone: "datadog.pool.ntp.org." always_null
 local-zone: "getutm.app." always_null
 local-zone: "google.com.onion." always_null
+local-zone: "ib.isappcloud.com." always_null

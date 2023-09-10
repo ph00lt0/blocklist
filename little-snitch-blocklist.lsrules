@@ -19126,6 +19126,7 @@
         "enviso.io",
         "datadog.pool.ntp.org",
         "getutm.app",
-        "google.com.onion"
+        "google.com.onion",
+        "ib.isappcloud.com"
     ]
 }

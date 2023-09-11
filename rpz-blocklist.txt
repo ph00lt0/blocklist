@@ -19654,3 +19654,4 @@ fingerfun.com CNAME .
 gamesbean.net CNAME .
 sentry.ente.io CNAME .
 sentry-reporter.ente.io CNAME .
+illusionblack.com CNAME .

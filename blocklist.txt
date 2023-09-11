@@ -7009,7 +7009,7 @@ $removeparam=utm_v
 ||api.craftyclicks.co.uk^
 ||craftyclicks.co.uk^
 ||analitik.edevlet.gov.tr^
-||js.arcgis.com^
+||js.arcgis.com^$badfilter  # Map provider
 ||logs1407.xiti.com^
 ||logs2.xiti.com^
 ||tarteaucitron.io^

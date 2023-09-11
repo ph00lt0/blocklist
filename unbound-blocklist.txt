@@ -6772,7 +6772,7 @@ local-zone: "swogo.net." always_null
 local-zone: "api.craftyclicks.co.uk." always_null
 local-zone: "craftyclicks.co.uk." always_null
 local-zone: "analitik.edevlet.gov.tr." always_null
-local-zone: "js.arcgis.com." always_null
+# allow js.arcgis.com reason: Map provider
 local-zone: "logs1407.xiti.com." always_null
 local-zone: "logs2.xiti.com." always_null
 local-zone: "tarteaucitron.io." always_null

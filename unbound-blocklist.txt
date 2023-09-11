@@ -19658,3 +19658,4 @@ local-zone: "gamesbean.net." always_null
 local-zone: "sentry.ente.io." always_null
 local-zone: "sentry-reporter.ente.io." always_null
 local-zone: "illusionblack.com." always_null
+local-zone: "pure.cloud." always_null

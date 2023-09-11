@@ -19763,3 +19763,4 @@
 0.0.0.0 sentry.ente.io
 0.0.0.0 sentry-reporter.ente.io
 0.0.0.0 illusionblack.com
+0.0.0.0 pure.cloud

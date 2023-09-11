@@ -6366,7 +6366,7 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 eulerian.com
 0.0.0.0 estimote.com
-0.0.0.0 arcgis.com
+! allow arcgis.com reason: Map provider
 0.0.0.0 duapps.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 dov-e.com

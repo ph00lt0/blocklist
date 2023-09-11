@@ -6268,7 +6268,7 @@ local-zone: "fbflipper.com." always_null
 local-zone: "exacttarget.com." always_null
 local-zone: "eulerian.com." always_null
 local-zone: "estimote.com." always_null
-local-zone: "arcgis.com." always_null
+# allow arcgis.com reason: Map provider
 local-zone: "duapps.com." always_null
 local-zone: "ad.duapps.com." always_null
 local-zone: "dov-e.com." always_null

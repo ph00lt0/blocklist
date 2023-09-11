@@ -6265,7 +6265,7 @@ fbflipper.com CNAME .
 exacttarget.com CNAME .
 eulerian.com CNAME .
 estimote.com CNAME .
-arcgis.com CNAME .
+; allow arcgis.com reason: Map provider
 duapps.com CNAME .
 ad.duapps.com CNAME .
 dov-e.com CNAME .
@@ -6769,7 +6769,7 @@ swogo.net CNAME .
 api.craftyclicks.co.uk CNAME .
 craftyclicks.co.uk CNAME .
 analitik.edevlet.gov.tr CNAME .
-js.arcgis.com CNAME .
+js.; allow arcgis.com reason: Map provider
 logs1407.xiti.com CNAME .
 logs2.xiti.com CNAME .
 tarteaucitron.io CNAME .

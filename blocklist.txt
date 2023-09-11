@@ -6437,7 +6437,7 @@ $removeparam=afftrack
 ||exacttarget.com^
 ||eulerian.com^
 ||estimote.com^
-||arcgis.com^
+||arcgis.com^$badfilter  # Map provider
 ||duapps.com^
 ||ad.duapps.com^
 ||dov-e.com^

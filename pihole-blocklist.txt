@@ -13705,7 +13705,7 @@
 0.0.0.0 aquaplatform.com
 0.0.0.0 arcpublishing.com
 0.0.0.0 arcspire.io
-0.0.0.0 ard.de
+! allow ard.de reason: German Media
 0.0.0.0 arenaev.com
 ! allow art19.com reason: required for podcasts
 0.0.0.0 artefact.com

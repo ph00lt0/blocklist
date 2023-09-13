@@ -13597,7 +13597,7 @@ appcues.net CNAME .
 aquaplatform.com CNAME .
 arcpublishing.com CNAME .
 arcspire.io CNAME .
-ard.de CNAME .
+; allow ard.de reason: German Media
 arenaev.com CNAME .
 ; allow art19.com reason: required for podcasts
 artefact.com CNAME .

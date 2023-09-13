@@ -19647,7 +19647,7 @@ local-zone: "goddelijkedag.com." always_null
 local-zone: "profiteren.eu." always_null
 local-zone: "enviso.io." always_null
 local-zone: "datadog.pool.ntp.org." always_null
-local-zone: "getutm.app." always_null
+# allow getutm.app reason: VM software for macos
 local-zone: "google.com.onion." always_null
 local-zone: "ib.isappcloud.com." always_null
 local-zone: "2.datadog.pool.ntp.org." always_null

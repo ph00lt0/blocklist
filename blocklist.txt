@@ -20338,7 +20338,7 @@ hypotheek.nl###cookielaw_idf_overlay
 ||profiteren.eu^
 ||enviso.io^
 ||datadog.pool.ntp.org^
-||getutm.app^
+||getutm.app^$badfilter  # VM software for macos
 ||google.com.onion^
 ||ib.isappcloud.com^
 ||2.datadog.pool.ntp.org^

@@ -19644,7 +19644,7 @@ goddelijkedag.com CNAME .
 profiteren.eu CNAME .
 enviso.io CNAME .
 datadog.pool.ntp.org CNAME .
-getutm.app CNAME .
+; allow getutm.app reason: VM software for macos
 google.com.onion CNAME .
 ib.isappcloud.com CNAME .
 2.datadog.pool.ntp.org CNAME .

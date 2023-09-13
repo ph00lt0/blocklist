@@ -20350,3 +20350,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||sentry-reporter.ente.io^
 ||illusionblack.com^
 ||pure.cloud^
+||eu-v20.events.data.microsoft.com^

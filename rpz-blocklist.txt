@@ -19656,3 +19656,4 @@ sentry.ente.io CNAME .
 sentry-reporter.ente.io CNAME .
 illusionblack.com CNAME .
 pure.cloud CNAME .
+eu-v20.events.data.microsoft.com CNAME .

@@ -19766,3 +19766,4 @@
 0.0.0.0 pure.cloud
 0.0.0.0 eu-v20.events.data.microsoft.com
 0.0.0.0 eu-office.events.data.microsoft.com
+0.0.0.0 windows.msn.com

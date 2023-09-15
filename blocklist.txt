@@ -20360,3 +20360,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||hellodialog.com^
 ||dslreports.com^
 ||enterprise-eudb.activity.windows.com^
+||euc-powerpoint-telemetry.officeapps.live.com^

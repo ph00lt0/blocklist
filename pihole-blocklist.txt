@@ -19774,3 +19774,4 @@
 0.0.0.0 hellodialog.com
 0.0.0.0 dslreports.com
 0.0.0.0 enterprise-eudb.activity.windows.com
+0.0.0.0 euc-powerpoint-telemetry.officeapps.live.com

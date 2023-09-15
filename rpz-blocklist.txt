@@ -19664,3 +19664,4 @@ avaya.com CNAME .
 avayacloud.com CNAME .
 eu-mobile.events.data.microsoft.com CNAME .
 hellodialog.com CNAME .
+dslreports.com CNAME .

@@ -19661,3 +19661,4 @@ eu-office.events.data.microsoft.com CNAME .
 windows.msn.com CNAME .
 measure.office.net CNAME .
 avaya.com CNAME .
+avayacloud.com CNAME .

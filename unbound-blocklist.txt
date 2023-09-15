@@ -19668,3 +19668,4 @@ local-zone: "avayacloud.com." always_null
 local-zone: "eu-mobile.events.data.microsoft.com." always_null
 local-zone: "hellodialog.com." always_null
 local-zone: "dslreports.com." always_null
+local-zone: "enterprise-eudb.activity.windows.com." always_null

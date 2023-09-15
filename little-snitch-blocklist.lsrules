@@ -19135,6 +19135,7 @@
         "pure.cloud",
         "eu-v20.events.data.microsoft.com",
         "eu-office.events.data.microsoft.com",
-        "windows.msn.com"
+        "windows.msn.com",
+        "measure.office.net"
     ]
 }

@@ -20361,3 +20361,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||dslreports.com^
 ||enterprise-eudb.activity.windows.com^
 ||euc-powerpoint-telemetry.officeapps.live.com^
+||lgmsapeweu.blob.core.windows.net^

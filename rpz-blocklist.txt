@@ -19667,3 +19667,4 @@ hellodialog.com CNAME .
 dslreports.com CNAME .
 enterprise-eudb.activity.windows.com CNAME .
 euc-powerpoint-telemetry.officeapps.live.com CNAME .
+lgmsapeweu.blob.core.windows.net CNAME .

@@ -19670,3 +19670,4 @@ local-zone: "hellodialog.com." always_null
 local-zone: "dslreports.com." always_null
 local-zone: "enterprise-eudb.activity.windows.com." always_null
 local-zone: "euc-powerpoint-telemetry.officeapps.live.com." always_null
+local-zone: "lgmsapeweu.blob.core.windows.net." always_null

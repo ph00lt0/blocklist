@@ -19665,3 +19665,4 @@ local-zone: "windows.msn.com." always_null
 local-zone: "measure.office.net." always_null
 local-zone: "avaya.com." always_null
 local-zone: "avayacloud.com." always_null
+local-zone: "eu-mobile.events.data.microsoft.com." always_null

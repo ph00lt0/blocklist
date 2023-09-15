@@ -19660,3 +19660,4 @@ eu-v20.events.data.microsoft.com CNAME .
 eu-office.events.data.microsoft.com CNAME .
 windows.msn.com CNAME .
 measure.office.net CNAME .
+avaya.com CNAME .

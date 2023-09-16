@@ -50,11 +50,11 @@ else
             echo "$domain rule delisted before you"
       else
             sed -i '' "s/$blocklistRule/$allowedRule  # $reason/g" $blocklist
-            sed -i '' "s/$piholeBlocklistRule/! allow $domain reason: $reason/g" $piholeBlocklist
+            sed -i '' "s/$piholeBlocklistRule/# allow $domain reason: $reason/g" $piholeBlocklist
             sed -i '' "s/$rpzBlocklistRule/; allow $domain reason: $reason/g" $rpzBlocklist
             sed -i '' "s/$unboundBlocklistRule/# allow $domain reason: $reason/g" $unboundBlocklist
             python3 ./ls-delete.py $domain
-           git commit -am "delisted $domain in blocklist" && git push origin master && git push github master
+            git commit -am "delisted $domain in blocklist" && git push origin master && git push github master
       fi
   else
       echo "$domain domain not present"

@@ -195,7 +195,7 @@
 0.0.0.0 omniture.com
 0.0.0.0 my.omniture.com
 0.0.0.0 www5.omniture.com
-! allow nocookie.net reason: CDN
+# allow nocookie.net reason: CDN
 0.0.0.0 vercel-insights.com
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 mixpanel.com
@@ -219,49 +219,49 @@
 0.0.0.0 accessibilityinsights.io
 0.0.0.0 static-eu.payments-amazon.com
 0.0.0.0 static.payments-amazon.com
-! allow m.media-amazon.com reason: Required for loading of images on amazon.com
+# allow m.media-amazon.com reason: Required for loading of images on amazon.com
 0.0.0.0 payments-*.amazon.com
 0.0.0.0 payments.amazon.com
 0.0.0.0 pndsn.com
 0.0.0.0 files.acrobat.com
 0.0.0.0 createpdf.acrobat.com
-! allow adobe.io reason: rdc.adobe.io is used for download of software
+# allow adobe.io reason: rdc.adobe.io is used for download of software
 0.0.0.0 genuine.adobe.com
-! allow itunes.com reason: Required for app store and apple music
-! allow itunes.apple.com reason: Required for app store and apple music
-! allow 0.0.0.0 downloaddispatch.itunes.apple.com reason: Required for app store and apple music
-! allow apple.co reason: not a tracker
-! allow aaplimg.com reason: not a tracker'
+# allow itunes.com reason: Required for app store and apple music
+# allow itunes.apple.com reason: Required for app store and apple music
+# allow 0.0.0.0 downloaddispatch.itunes.apple.com reason: Required for app store and apple music
+# allow apple.co reason: not a tracker
+# allow aaplimg.com reason: not a tracker'
 0.0.0.0 weather-analytics-events.apple.com
-! allow apple.com reason: not a tnot a trackerscoreresearch.com
+# allow apple.com reason: not a tnot a trackerscoreresearch.com
 0.0.0.0 news-edge.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 apple.news
-! allow apple-dns.net reason: not a tracke
+# allow apple-dns.net reason: not a tracke
 0.0.0.0 xp.apple.com
-! allow help.apple.com reason: Not a tracker
+# allow help.apple.com reason: Not a tracker
 0.0.0.0 iphonesubmissions.apple.com
-! allow icloud-content.com reason: Not a tracker
-! allow me.com reason: Required for icloud
-! allow apple-cloudkit.com reason: icloud
+# allow icloud-content.com reason: Not a tracker
+# allow me.com reason: Required for icloud
+# allow apple-cloudkit.com reason: icloud
 0.0.0.0 valid.apple.com
-! allow gateway.icloud.com reason: Not a tracker
-! allow sonos-music.apple.com reason: not a tracker
+# allow gateway.icloud.com reason: Not a tracker
+# allow sonos-music.apple.com reason: not a tracker
 0.0.0.0 pancake.apple.com
 0.0.0.0 ess.apple.com
-! allow ls.apple.com reason: apple maps
+# allow ls.apple.com reason: apple maps
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 lcdn-registration.apple.com
 0.0.0.0 s-loc.apple.com
-! allow ls.apple.com reason: apple maps.akadns.net
-! allow ls.apple.com reason: apple maps.edgesuite.net
+# allow ls.apple.com reason: apple maps.akadns.net
+# allow ls.apple.com reason: apple maps.edgesuite.net
 0.0.0.0 reserve-prime.apple.com
 0.0.0.0 push-apple.com.akadns.net
 0.0.0.0 push.apple.com.akadns.net
 0.0.0.0 push.apple.com
 0.0.0.0 smp-device-content.apple.com
 0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
-! allow graph.blendle.com reason: Required for app to load content
+# allow graph.blendle.com reason: Required for app to load content
 0.0.0.0 events.blendle.com
 0.0.0.0 events-external.blendle.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -275,7 +275,7 @@
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 dpgmmservices.nl
-! allow myprivacy.dpgmedia.nl reason: Stops all websites from loading.
+# allow myprivacy.dpgmedia.nl reason: Stops all websites from loading.
 0.0.0.0 cmp.dpgmedia.nl
 0.0.0.0 cmp.pzc.nl
 0.0.0.0 cmp.volkskrant.nl
@@ -319,7 +319,7 @@
 0.0.0.0 awvn.nl
 0.0.0.0 nldigital.nl
 0.0.0.0 onderzoekfilter.nl
-! allow aspnetcdn.com reason: Not a tracker
+# allow aspnetcdn.com reason: Not a tracker
 0.0.0.0 juniormie.nl
 0.0.0.0 smartonderzoek.com
 0.0.0.0 artoo.nl
@@ -426,11 +426,11 @@
 0.0.0.0 customsearch.ai
 0.0.0.0 aticdn.net
 0.0.0.0 nationbuilder.com
-! allow paddle.com reason: Required for purchases of app licenses
+# allow paddle.com reason: Required for purchases of app licenses
 0.0.0.0 paddleapi.com
 0.0.0.0 addevweb.com
 0.0.0.0 savemysales.co
-! allow shortpixel.ai reason: cdn
+# allow shortpixel.ai reason: cdn
 0.0.0.0 xspdf.com
 0.0.0.0 admob-app-id-*.firebaseio.com
 0.0.0.0 mobilenations.com
@@ -592,36 +592,36 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 ip-geolocation.netcraft.com
 0.0.0.0 facebook.net
-! allow fbstatic-a.akamaihd.net reason: CDN
-! allow fbcdn-profile-a.akamaihd.net reason: CDN
-! allow fbcdn-sphotos-a-a.akamaihd.net reason: CDN
-! allow fbcdn-creative-a.akamaihd.net reason: CDN
+# allow fbstatic-a.akamaihd.net reason: CDN
+# allow fbcdn-profile-a.akamaihd.net reason: CDN
+# allow fbcdn-sphotos-a-a.akamaihd.net reason: CDN
+# allow fbcdn-creative-a.akamaihd.net reason: CDN
 0.0.0.0 fbexternal-a.akamaihd.net
-! allow fbcdn-sphotos-b-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-c-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-d-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-e-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-f-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-g-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-h-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-i-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-j-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-k-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-l-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-m-a.akamaihd.net reason: Photos CDN
-! allow fbcdn-sphotos-n-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-b-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-c-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-d-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-e-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-f-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-g-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-h-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-i-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-j-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-k-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-l-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-m-a.akamaihd.net reason: Photos CDN
+# allow fbcdn-sphotos-n-a.akamaihd.net reason: Photos CDN
 0.0.0.0 myfonts.net
 0.0.0.0 fonts.net
 0.0.0.0 typekit.net
 0.0.0.0 safebrowsing.google.com
 0.0.0.0 safebrowsing.clients.google.com
-! allow safebrowsing.googleapis.com reason: security over privacy i guess
+# allow safebrowsing.googleapis.com reason: security over privacy i guess
 0.0.0.0 userlocation.googleapis.com
-! allow *-pa.googleapis.com reason: Required for functionality of Google Apps
+# allow *-pa.googleapis.com reason: Required for functionality of Google Apps
 0.0.0.0 googleadservices.com
-! allow mtalk.google.com reason: Google Cloud Messaging
+# allow mtalk.google.com reason: Google Cloud Messaging
 0.0.0.0 smartlock.google.com
-! allow firebaseinstallations.googleapis.com reason: Required for notificiations
+# allow firebaseinstallations.googleapis.com reason: Required for notificiations
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleadapis.l.google.com
@@ -675,7 +675,7 @@
 0.0.0.0 win10.ipv6.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
-! allow dl.delivery.mp.microsoft.com reason: CDN for Windows Updates
+# allow dl.delivery.mp.microsoft.com reason: CDN for Windows Updates
 0.0.0.0 clientconfig.passport.net
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
@@ -683,7 +683,7 @@
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com
 0.0.0.0 g.live.com
-! allow displaycatalog.mp.microsoft.com reason: MS Store
+# allow displaycatalog.mp.microsoft.com reason: MS Store
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 sa.symcb.com
@@ -692,9 +692,9 @@
 0.0.0.0 s3.symcb.com
 0.0.0.0 s4.symcb.com
 0.0.0.0 s5.symcb.com
-! allow img-s-msn-com.akamaized.net reason: CDN for images MSN
+# allow img-s-msn-com.akamaized.net reason: CDN for images MSN
 0.0.0.0 static-spartan-neu-s-msn-com.akamaized.net
-! allow assets.msn.com reason: CDN
+# allow assets.msn.com reason: CDN
 0.0.0.0 srtb.msn.com
 0.0.0.0 otf.msn.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
@@ -704,8 +704,8 @@
 0.0.0.0 live.github.com
 0.0.0.0 githubapp.com
 0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
-! allow checkappexec.microsoft.com reason: Defender
-! allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
+# allow checkappexec.microsoft.com reason: Defender
+# allow storeedgefd.dsx.mp.microsoft.com reason: Microsoft Store
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 nexus.officeapps.live.com
@@ -723,7 +723,7 @@
 0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
-! allow location.services.mozilla.com reason: location service of mozilla
+# allow location.services.mozilla.com reason: location service of mozilla
 0.0.0.0 samen.npostart.nl
 0.0.0.0 tellerapi.npo.nl
 0.0.0.0 kljei27asdkj.nl
@@ -783,10 +783,10 @@
 0.0.0.0 sentry.svc.tfw.io
 0.0.0.0 sentry.lbry.tech
 0.0.0.0 wms*.zoho.eu
-! allow workdrive.zoho.eu reason: Zoho Product
+# allow workdrive.zoho.eu reason: Zoho Product
 0.0.0.0 contacts.zoho.eu
 0.0.0.0 phonebridge.zoho.eu
-! allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without
+# allow webfonts.zoho.com reason: Required for zoho admin, loading breaks without
 0.0.0.0 mailws.zoho.eu
 0.0.0.0 ostats.mozilla.com
 0.0.0.0 sostats.mozilla.com
@@ -799,7 +799,7 @@
 0.0.0.0 qsurvey.mozilla.com
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry-experiment.cdn.mozilla.net
-! allow location.services.mozilla.com reason: location service of mozilla
+# allow location.services.mozilla.com reason: location service of mozilla
 0.0.0.0 cdns.eu1.gigya.com
 0.0.0.0 gigya.com
 0.0.0.0 firebaselogging.googleapis.com
@@ -921,7 +921,7 @@
 0.0.0.0 rosetta.prod.ps.welt.de
 0.0.0.0 hua-production.la.welt.de
 0.0.0.0 eu.webhook.logs.insight.rapid7.com
-! allow rapid7.com reason: not a tracker
+# allow rapid7.com reason: not a tracker
 0.0.0.0 greylabeldelivery.com
 0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 sp-prod.net
@@ -1001,8 +1001,8 @@
 0.0.0.0 metrics.ionos.com
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 geolocation.onetrust.com
-! allow fast.wistia.com reason: video CDN
-! allow wistia.com reason: video CDN
+# allow fast.wistia.com reason: video CDN
+# allow wistia.com reason: video CDN
 0.0.0.0 js.hsforms.net
 0.0.0.0 a.klaviyo.com
 0.0.0.0 o22319.ingest.sentry.io
@@ -1110,7 +1110,7 @@
 0.0.0.0 consentmanager.net
 0.0.0.0 axeptio.eu
 0.0.0.0 axeptio.eu
-! allow d3e54v103j8qbb.cloudfront.net reason: not a tracker anymore
+# allow d3e54v103j8qbb.cloudfront.net reason: not a tracker anymore
 0.0.0.0 content2.nrc.nl
 0.0.0.0 vwdservices.com
 0.0.0.0 charting.vwdservices.com
@@ -1490,7 +1490,7 @@
 0.0.0.0 vgz.my.salesforce.com
 0.0.0.0 otag.h2os.com
 0.0.0.0 gsa.apple.com
-! allow l.google.com reason: CNAME for many google services
+# allow l.google.com reason: CNAME for many google services
 0.0.0.0 ws-mt1.pusher.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 p3a.brave.com
@@ -1499,10 +1499,10 @@
 0.0.0.0 grant.rewards.brave.com
 0.0.0.0 variations.brave.com
 0.0.0.0 ads-serve.brave.com
-! allow sync-v2.brave.com reason: Not a tracker
+# allow sync-v2.brave.com reason: Not a tracker
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 cdn.syndication.twimg.com
-! allow pbs.twimg.com reason: twitter images
+# allow pbs.twimg.com reason: twitter images
 0.0.0.0 init.push.apple.com
 0.0.0.0 gruene.matomo.cloud
 0.0.0.0 actionnetwork.org
@@ -1521,7 +1521,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 g.whatsapp.net
 0.0.0.0 c1.iggcdn.com
-! allow iggcdn.com reason: Not a tracker
+# allow iggcdn.com reason: Not a tracker
 0.0.0.0 omnisnippet1.com
 0.0.0.0 cdn.refersion.com
 0.0.0.0 pxucdn.com
@@ -1581,7 +1581,7 @@
 0.0.0.0 styria-digital.com
 0.0.0.0 yoc-adserver.com
 0.0.0.0 plau.devitjobs.uk
-! allow s.as207960.net reason: Not a tracker, static files
+# allow s.as207960.net reason: Not a tracker, static files
 0.0.0.0 e.customeriomail.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 notix.io
@@ -1676,8 +1676,8 @@
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 pixel.ad
 0.0.0.0 centro.pixel.ad
-! allow scdn.co reason: CDN spotify
-! allow i.scdn.co reason: CDN spotify images
+# allow scdn.co reason: CDN spotify
+# allow i.scdn.co reason: CDN spotify images
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 cmpv2.independent.co.uk
 0.0.0.0 dotmetrics.net
@@ -1806,7 +1806,7 @@
 0.0.0.0 widgets.media.weather.com
 0.0.0.0 nbcume.hb.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
-! allow theplatform.com reason: Comcast streaming
+# allow theplatform.com reason: Comcast streaming
 0.0.0.0 newslicensing.co.uk
 0.0.0.0 a-ads.com
 0.0.0.0 ad.a-ads.com
@@ -1881,10 +1881,10 @@
 0.0.0.0 metrics.groene.nl
 0.0.0.0 aswpsdkeu.com
 0.0.0.0 ws.pubble.nl
-! allow waws-prod-am2-261.cloudapp.net reason: Not just a tracker required to load content
+# allow waws-prod-am2-261.cloudapp.net reason: Not just a tracker required to load content
 0.0.0.0 varnish.qualifio.com
 0.0.0.0 gadgets.buienradar.nl
-! allow abs.twimg.com reason: Breaks twitter.com
+# allow abs.twimg.com reason: Breaks twitter.com
 0.0.0.0 raygun.com
 0.0.0.0 raygun.io
 0.0.0.0 raygun-api-vpc-1415992523.us-east-1.elb.amazonaws.com
@@ -1893,7 +1893,7 @@
 0.0.0.0 reclamefolder.org
 0.0.0.0 cdn.reclamefolder.org
 0.0.0.0 aff.bstatic.com
-! allow bstatic.com reason: Booking.com cdn
+# allow bstatic.com reason: Booking.com cdn
 0.0.0.0 insurads.com
 0.0.0.0 cdn.insurads.com
 0.0.0.0 snigelweb.com
@@ -1920,7 +1920,7 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 a-mo.net
 0.0.0.0 assets.a-mo.net
-! allow i0.wp.com reason: CDN
+# allow i0.wp.com reason: CDN
 0.0.0.0 consent-cdn.zeit.de
 0.0.0.0 interactive.zeit.de
 0.0.0.0 k5a.io
@@ -2076,8 +2076,8 @@
 0.0.0.0 locations.api.yle.fi
 0.0.0.0 design-system.cdn.yle.fi
 0.0.0.0 yle-consent-sdk.yle.fi
-! allow cdnapisec.kaltura.com reason: Kaltura video stream
-! allow kaltura.com reason: Kaltura video streaming
+# allow cdnapisec.kaltura.com reason: Kaltura video stream
+# allow kaltura.com reason: Kaltura video streaming
 0.0.0.0 tag-manager.yle.fi
 0.0.0.0 tunnus-sdk.yle.fi
 0.0.0.0 dax.yle.fi
@@ -2087,7 +2087,7 @@
 0.0.0.0 currency.me.uk
 0.0.0.0 exchangerates.org.uk
 0.0.0.0 exchangerates.org.uk
-! allow c0.wp.com reason: CDN
+# allow c0.wp.com reason: CDN
 0.0.0.0 cmp.aftenposten.no
 0.0.0.0 mm.aftenposten.no
 0.0.0.0 jssdk.touchpoints.schibsted.media
@@ -2096,7 +2096,7 @@
 0.0.0.0 comments-api.i.bt.no
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 youbora.com
-! allow bt.no reason: Not itself the tracker
+# allow bt.no reason: Not itself the tracker
 0.0.0.0 cdn.stream.schibsted.media
 0.0.0.0 log.medietall.no
 0.0.0.0 medietall.no
@@ -2106,7 +2106,7 @@
 0.0.0.0 cis.schibsted.com
 0.0.0.0 schibsted.io
 0.0.0.0 cogwheel.inventory.schibsted.io
-! allow cdn.bt.no reason: Not only trackers
+# allow cdn.bt.no reason: Not only trackers
 0.0.0.0 session-service.payment.schibsted.no
 0.0.0.0 schibsted.no
 0.0.0.0 cm.aftenposten.no
@@ -2139,12 +2139,12 @@
 0.0.0.0 cdn.provesrc.com
 0.0.0.0 pushcrew.com
 0.0.0.0 cdn.pushcrew.com
-! allow i.pinimg.com reason: Pinterest
+# allow i.pinimg.com reason: Pinterest
 0.0.0.0 diffuser-cdn.app-us1.com
 0.0.0.0 app-us1.com
 0.0.0.0 qodeinteractive.com
 0.0.0.0 startit.qodeinteractive.com
-! allow s0.wp.com reason: Required to load static
+# allow s0.wp.com reason: Required to load static
 0.0.0.0 feedspot.com
 0.0.0.0 blog.feedspot.com
 0.0.0.0 blog-cdn.feedspot.com
@@ -2217,7 +2217,7 @@
 0.0.0.0 ezoiccdn.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 trustedshops.com
-! allow magentocloud.map.fastly.net reason: CDN
+# allow magentocloud.map.fastly.net reason: CDN
 0.0.0.0 itnova.nl
 0.0.0.0 static-zeeman.itnova.nl
 0.0.0.0 cxense.com
@@ -2249,7 +2249,7 @@
 0.0.0.0 tag.uwv.nl
 0.0.0.0 onderzoek.platformrijksoverheid.nl
 0.0.0.0 koop.piwik.pro
-! allow az416426.vo.msecnd.net reason: Required
+# allow az416426.vo.msecnd.net reason: Required
 0.0.0.0 simanalytics.nl
 0.0.0.0 logging.simanalytics.nl
 0.0.0.0 use.typekit.com
@@ -2352,17 +2352,17 @@
 0.0.0.0 dimml.io
 0.0.0.0 cdn.dimml.io
 0.0.0.0 svb.containers.piwik.pro
-! allow open.spotify.com reason: it is just a link to Spotify
+# allow open.spotify.com reason: it is just a link to Spotify
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 analytics.knmp.nl
 0.0.0.0 cookieconsent.vruchtvlees.com
 0.0.0.0 analytics.redfrog.nl
-! allow res.cloudinary.com reason: CDN
-! allow cloudinary.com reason: CDN
+# allow res.cloudinary.com reason: CDN
+# allow cloudinary.com reason: CDN
 0.0.0.0 vfpf1.expoints.nl
 0.0.0.0 expoints.nl
 0.0.0.0 myprivacy.dpgmedia.net
-! allow d33wubrfki0l68.cloudfront.net reason: Required for dnspref.com
+# allow d33wubrfki0l68.cloudfront.net reason: Required for dnspref.com
 0.0.0.0 ivory.studio
 0.0.0.0 projects.ivory.studio
 0.0.0.0 zonmw.containers.piwik.pro
@@ -2492,7 +2492,7 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis-test.com
 0.0.0.0 cedexis.fastlylb.net
-! allow cedexis.net reason: CDN
+# allow cedexis.net reason: CDN
 0.0.0.0 coinzillatag.com
 0.0.0.0 impactradius.com
 0.0.0.0 7eer.net
@@ -2571,7 +2571,7 @@
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 investis.com
 0.0.0.0 irs.tools.investis.com
-! allow ip-only.net reason: Required for qbrick.com video player
+# allow ip-only.net reason: Required for qbrick.com video player
 0.0.0.0 notification.qbrick.com
 0.0.0.0 bowencraggs.com
 0.0.0.0 app.bowencraggs.com
@@ -2630,14 +2630,14 @@
 0.0.0.0 report.23video.com
 0.0.0.0 4.0p10n000000in97saa.00d0n000000gtiyuay.gslb.siteforce.com
 0.0.0.0 cachev2.sparnord.dk
-! allow mit.sparnord.dk reason: Required for loading of content
+# allow mit.sparnord.dk reason: Required for loading of content
 0.0.0.0 cors-proxy-service.sparnord.dk
 0.0.0.0 coopcdn-res.cloudinary.com
 0.0.0.0 thecooperativebank.d1.sc.omtrdc.net
 0.0.0.0 yellow.co-operativebank.co.uk
 0.0.0.0 light.co-operativebank.co.uk
 0.0.0.0 light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com
-! allow cdn2.hubspot.net reason: Required CDN for certain websites to load css
+# allow cdn2.hubspot.net reason: Required CDN for certain websites to load css
 0.0.0.0 api.hubapi.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 mypurecloud.de
@@ -2679,7 +2679,7 @@
 0.0.0.0 static.ada.support
 0.0.0.0 ada.support
 0.0.0.0 data.guides.mailchimp.com
-! allow d2y36twrtb17ty.cloudfront.net reason: Panopto doesn't load without session tracker.
+# allow d2y36twrtb17ty.cloudfront.net reason: Panopto doesn't load without session tracker.
 0.0.0.0 colissimo.fr
 0.0.0.0 ws.colissimo.fr
 0.0.0.0 iframe.ly
@@ -2700,7 +2700,7 @@
 0.0.0.0 cdn.izooto.com
 0.0.0.0 embedmaker.com
 0.0.0.0 widget.cloudpayments.ru
-! allow cdn.paddle.com reason: Required for purchases of app licenses
+# allow cdn.paddle.com reason: Required for purchases of app licenses
 0.0.0.0 feedback.developers.cloudflare.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 revampcdn.comrevampcdn.com
@@ -2920,7 +2920,7 @@
 0.0.0.0 pages.ubembed.com
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 b61e599a4f2348afa1a790e4b11dd9fb.events.ubembed.com
-! allow d9hhrg4mnvzow.cloudfront.net reason: cdn
+# allow d9hhrg4mnvzow.cloudfront.net reason: cdn
 0.0.0.0 px4.ads.linkedin.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 bootstrap.api.drift.com
@@ -2949,7 +2949,7 @@
 0.0.0.0 worldchasetag.com
 0.0.0.0 i.creativecommons.org
 0.0.0.0 testifier.nl
-! allow r.testifier.nl reason: Required for androidworld.nl images
+# allow r.testifier.nl reason: Required for androidworld.nl images
 0.0.0.0 socket.multimirror.io
 0.0.0.0 multimirror.io
 0.0.0.0 btloader.com
@@ -3057,7 +3057,7 @@
 0.0.0.0 cdn.embedly.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 rollbar.com
-! allow assets.digital.coop.co.uk reason: CDN
+# allow assets.digital.coop.co.uk reason: CDN
 0.0.0.0 swisscomag.tt.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 monetate.net
@@ -3134,7 +3134,7 @@
 0.0.0.0 secure.east2pony.com
 0.0.0.0 east2pony.com
 0.0.0.0 developer.livehelpnow.net
-! allow mb.cision.com reason: Not a tracker
+# allow mb.cision.com reason: Not a tracker
 0.0.0.0 websolutions.ne.cision.com
 0.0.0.0 highcharts.com
 0.0.0.0 code.highcharts.com
@@ -3180,7 +3180,7 @@
 0.0.0.0 plugins.flockler.com
 0.0.0.0 tarantula.hashicorp.com
 0.0.0.0 o473895.ingest.sentry.io
-! allow icm.aexp-static.com reason: Not just trackers also images loaded from this subdomain
+# allow icm.aexp-static.com reason: Not just trackers also images loaded from this subdomain
 0.0.0.0 iwmapapi.americanexpress.com
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 one.americanexpress.com
@@ -3188,7 +3188,7 @@
 0.0.0.0 tms.americanexpress.com
 0.0.0.0 cdn-path.com
 0.0.0.0 gct.americanexpress.com
-! allow global.americanexpress.com reason: Also required for form
+# allow global.americanexpress.com reason: Also required for form
 0.0.0.0 apigateway.americanexpress.com
 0.0.0.0 qwww.aexp-static.com
 0.0.0.0 qicm.aexp-static.com
@@ -3320,7 +3320,7 @@
 0.0.0.0 via.placeholder.com
 0.0.0.0 services.crmservice.eu
 0.0.0.0 aax-eu.amazon-adsystem.com
-! allow fls-na.amazon.com reason: Required for loading images
+# allow fls-na.amazon.com reason: Required for loading images
 0.0.0.0 unagi.amazon.com
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 2cc9bcd87e4511a3759bc9299721d1609b726e59.cws.conviva.com
@@ -3632,7 +3632,7 @@
 0.0.0.0 tag.clearbitscripts.com
 0.0.0.0 askattest.com
 0.0.0.0 c.strava.com
-! allow cdn-goeuro.com reason: Not just tracker
+# allow cdn-goeuro.com reason: Not just tracker
 0.0.0.0 logger.goeuro.com
 0.0.0.0 a977a3e6afa6.cdn4.forter.com
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
@@ -3671,7 +3671,7 @@
 0.0.0.0 tapi.optimizely.com
 0.0.0.0 api.ww.com
 0.0.0.0 widgets.q4app.com
-! allow s2.q4cdn.com reason: Not a tracker
+# allow s2.q4cdn.com reason: Not a tracker
 0.0.0.0 q4app.com
 0.0.0.0 scarabresearch.com
 0.0.0.0 cdn.scarabresearch.com
@@ -3679,7 +3679,7 @@
 0.0.0.0 comm100.com
 0.0.0.0 standby.comm100vue.com
 0.0.0.0 comm100vue.com
-! allow il.ax reason: Not a tracker
+# allow il.ax reason: Not a tracker
 0.0.0.0 partnerprogramma.bol.com
 0.0.0.0 adshim.com
 0.0.0.0 cdn.adshim.com
@@ -3706,13 +3706,13 @@
 0.0.0.0 gfx.ms
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 browser.pipe.aria.microsoft.com
-! allow loki.delve.office.com reason: required for office365 contacts
-! allow res-2.cdn.office.net reason: required for outlook
-! allow res-1.cdn.office.net reason: required for outlook
-! allow res.cdn.office.net reason: required for outlook
+# allow loki.delve.office.com reason: required for office365 contacts
+# allow res-2.cdn.office.net reason: required for outlook
+# allow res-1.cdn.office.net reason: required for outlook
+# allow res.cdn.office.net reason: required for outlook
 0.0.0.0 amcdn.msftauth.net
 0.0.0.0 r4.res.office365.com
-! allow outlook-2.cdn.office.net reason: required for outlook
+# allow outlook-2.cdn.office.net reason: required for outlook
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 stats.medeastcloud.com
@@ -3720,7 +3720,7 @@
 0.0.0.0 l.getsitecontrol.com
 0.0.0.0 services.vlitag.com
 0.0.0.0 widget.uservoice.com
-! allow uservoice.com reason: Platform
+# allow uservoice.com reason: Platform
 0.0.0.0 stats.converter.app
 0.0.0.0 lustre.ai
 0.0.0.0 ws-na.amazon-adsystem.com
@@ -3776,12 +3776,12 @@
 0.0.0.0 aiv-cdn.net
 0.0.0.0 cloudfront.xp-assets.aiv-cdn.net
 0.0.0.0 trinitymedia.ai
-! allow a.fsdn.com reason: cdn
+# allow a.fsdn.com reason: cdn
 0.0.0.0 slashdot.org
 0.0.0.0 analytics.linuxjournal.com
 0.0.0.0 api.b2c.com
 0.0.0.0 b2c.com
-! allow fsdn.com reason: cdn
+# allow fsdn.com reason: cdn
 0.0.0.0 jacks.nl
 0.0.0.0 oryxgaming.com
 0.0.0.0 cdn.oryxgaming.com
@@ -3830,7 +3830,7 @@
 0.0.0.0 o122616.ingest.sentry.io
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 c.sf-syn.com
-! allow connect.liblynx.com reason: Not just tracker
+# allow connect.liblynx.com reason: Not just tracker
 0.0.0.0 d1bxh8uas1mnw7.cloudfront.net
 0.0.0.0 yastatic.net
 0.0.0.0 yadro.ru
@@ -3861,15 +3861,15 @@
 0.0.0.0 brooklynrail-web.imgix.net
 0.0.0.0 appwiki.nl
 0.0.0.0 d.newsletter.forbes.com
-! allow developers.hubspot.com reason: Allow developer subdomain for api docs
-! allow static2cdn.hubspot.com reason: Allow cdn to read docs and blog
-! allow knowledge.hubspot.com reason: Allow knowledge base subdomain
+# allow developers.hubspot.com reason: Allow developer subdomain for api docs
+# allow static2cdn.hubspot.com reason: Allow cdn to read docs and blog
+# allow knowledge.hubspot.com reason: Allow knowledge base subdomain
 0.0.0.0 koi-3qnciq0m5q.marketingautomation.services
 0.0.0.0 debug.nordvpn.com
 0.0.0.0 js.pusher.com
 0.0.0.0 fonts.cdnfonts.com
 0.0.0.0 cdnfonts.com
-! allow recurly.com reason: Payment provider
+# allow recurly.com reason: Payment provider
 0.0.0.0 chatbotprodas01.azurewebsites.net
 0.0.0.0 haptikapi.com
 0.0.0.0 toolassets.haptikapi.com
@@ -3884,7 +3884,7 @@
 0.0.0.0 app.webreg.me
 0.0.0.0 css-components.rxweb-prd.com
 0.0.0.0 rxweb-prd.com
-! allow circdatacdn.z33.web.core.windows.net reason: Required to download ICS file
+# allow circdatacdn.z33.web.core.windows.net reason: Required to download ICS file
 0.0.0.0 tool-box.online
 0.0.0.0 connectme.tool-box.online
 0.0.0.0 stats.thinkprivacy.ch
@@ -3901,10 +3901,10 @@
 0.0.0.0 in.appcenter.ms
 0.0.0.0 win10-trt.msedge.net
 0.0.0.0 analytics.sketchup.com
-! allow gmail.com.dbl.spamhaus.org reason: no a tracker
-! allow dbl.spamhaus.org reason: not a tracker
-! allow zen.spamhaus.org reason: bl.spamcop.net
-! allow bl.spamcop.net reason: not a tracker
+# allow gmail.com.dbl.spamhaus.org reason: no a tracker
+# allow dbl.spamhaus.org reason: not a tracker
+# allow zen.spamhaus.org reason: bl.spamcop.net
+# allow bl.spamcop.net reason: not a tracker
 0.0.0.0 ngpweb.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
 0.0.0.0 fairsconsult.webpower.eu
@@ -3912,8 +3912,8 @@
 0.0.0.0 mail.secondhome.nl
 0.0.0.0 omappapi.com
 0.0.0.0 a.omappapi.com
-! allow secure.avaaz.org.dbl.spamhaus.org reason: not a trackr
-! allow outlook.htrhosting.nl reason: Not just email tracking
+# allow secure.avaaz.org.dbl.spamhaus.org reason: not a trackr
+# allow outlook.htrhosting.nl reason: Not just email tracking
 0.0.0.0 analytics.localytics.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 xtracloud.net
@@ -3921,7 +3921,7 @@
 0.0.0.0 path2.xtracloud.net
 0.0.0.0 path1.xtracloud.net
 0.0.0.0 manifest.localytics.com
-! allow swoogo.com reason: Event marketing platform, used by websites of events
+# allow swoogo.com reason: Event marketing platform, used by websites of events
 0.0.0.0 get.swoogo.com
 0.0.0.0 serve.albacross.com
 0.0.0.0 albacross.com
@@ -4023,7 +4023,7 @@
 0.0.0.0 pushowl.com
 0.0.0.0 zotabox.com
 0.0.0.0 static.zotabox.com
-! allow checkout.paddle.com reason: Required for purchases of app licenses
+# allow checkout.paddle.com reason: Required for purchases of app licenses
 0.0.0.0 o522631.ingest.sentry.io
 0.0.0.0 spreedly.com
 0.0.0.0 core.spreedly.com
@@ -4068,7 +4068,7 @@
 0.0.0.0 udmserve.net
 0.0.0.0 bid.underdog.media
 0.0.0.0 underdog.media
-! allow km.support.apple.com reason: required for apple support
+# allow km.support.apple.com reason: required for apple support
 0.0.0.0 firefly.bol.com
 0.0.0.0 bltg.s-bol.com
 0.0.0.0 gcp.api.snapchat.com
@@ -4099,7 +4099,7 @@
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 bbg.d1.sc.omtrdc.net
 0.0.0.0 gdb.voanews.com
-! allow pangea-cms.com reason: Not just tracker
+# allow pangea-cms.com reason: Not just tracker
 0.0.0.0 livetracker.voa.pangea-cms.com
 0.0.0.0 webapi.stormgeo.com
 0.0.0.0 stormgeo.com
@@ -4206,7 +4206,7 @@
 0.0.0.0 in.getclicky.com
 0.0.0.0 clkmc.com
 0.0.0.0 cdn.clkmc.com
-! allow ogs.google.com reason: required for SSO between apps
+# allow ogs.google.com reason: required for SSO between apps
 0.0.0.0 stats-web.polytechnique.fr
 0.0.0.0 piwik.inria.fr
 0.0.0.0 stats-web.ens.fr
@@ -4222,7 +4222,7 @@
 0.0.0.0 growsumo.com
 0.0.0.0 webflow.refersion.com
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
-! allow datatracker.ietf.org reason: not a tracker
+# allow datatracker.ietf.org reason: not a tracker
 0.0.0.0 engage.wixapps.net
 0.0.0.0 app-ab41.marketo.com
 0.0.0.0 libraries.hund.io
@@ -4310,7 +4310,7 @@
 0.0.0.0 leadbooster-chat.pipedrive.com
 0.0.0.0 pagesense.io
 0.0.0.0 cdn-eu.pagesense.io
-! allow salesiq.zoho.eu reason: Required for zoho admin
+# allow salesiq.zoho.eu reason: Required for zoho admin
 0.0.0.0 webfonts.zoho.eu
 0.0.0.0 mh.zoho.eu
 0.0.0.0 px.srvcs.tumblr.com
@@ -4355,7 +4355,7 @@
 0.0.0.0 s-pc.webyze.com
 0.0.0.0 theraptormedia.com
 0.0.0.0 d1buj3lvc9ukyl.cloudfront.net
-! allow cdn.sanity.io reason: used to serve images
+# allow cdn.sanity.io reason: used to serve images
 0.0.0.0 sanity.io
 0.0.0.0 o100763.ingest.sentry.io
 0.0.0.0 traffic.ctemplar.net
@@ -4377,15 +4377,15 @@
 0.0.0.0 gatag.it
 0.0.0.0 eu.cookie-script.com
 0.0.0.0 cookie-script.com
-! allow a.cdn-hotels.com reason: Sripts not trackers
+# allow a.cdn-hotels.com reason: Sripts not trackers
 0.0.0.0 goaffpro.com
 0.0.0.0 api-server-1.goaffpro.com
 0.0.0.0 widebundle.com
 0.0.0.0 socialshopwave.com
-! allow 0.0.0.0 d1um8515vdn9kb.cloudfront.net reason: Not a tracker
+# allow 0.0.0.0 d1um8515vdn9kb.cloudfront.net reason: Not a tracker
 0.0.0.0 omegatheme.com
 0.0.0.0 apps.omegatheme.com
-! allow ucarecdn.com reason: CDN
+# allow ucarecdn.com reason: CDN
 0.0.0.0 mempay.com
 0.0.0.0 app.mempay.com
 0.0.0.0 yotpo.com
@@ -4417,8 +4417,8 @@
 0.0.0.0 odistatic.net
 0.0.0.0 o828979.ingest.sentry.io
 0.0.0.0 stfalcon.github.io
-! allow gaia-acceptance-assets.otravo.com reason: Required for website to function
-! allow gaia-production-translations.otravo.com reason: Required for website to functiion
+# allow gaia-acceptance-assets.otravo.com reason: Required for website to function
+# allow gaia-production-translations.otravo.com reason: Required for website to functiion
 0.0.0.0 revy.io
 0.0.0.0 api.revy.io
 0.0.0.0 data.efteling.com
@@ -4478,8 +4478,8 @@
 0.0.0.0 corendonairlines.api.useinsider.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 5308433.fls.doubleclick.net
-! allow cf.bstatic.com reason: Content
-! allow q-xx.bstatic.com reason: Image cdn
+# allow cf.bstatic.com reason: Content
+# allow q-xx.bstatic.com reason: Image cdn
 0.0.0.0 collector-pxikkul2rm.px-cdn.net
 0.0.0.0 collector-pxikkul2rm.px-cloud.net
 0.0.0.0 collector-pxikkul2rm.pxchk.net
@@ -4490,9 +4490,9 @@
 0.0.0.0 wsa1.byside.com
 0.0.0.0 tms.delta.com
 0.0.0.0 dmc1acwvwny3.cloudfront.net
-! allow em-frontend-assets.airtrfx.com reason: Content
+# allow em-frontend-assets.airtrfx.com reason: Content
 0.0.0.0 em-tr4ck-settings.airtrfx.com
-! allow fc-services-api.airtrfx.com reason: Required for website to function
+# allow fc-services-api.airtrfx.com reason: Required for website to function
 0.0.0.0 endpoint2.collection.sumologic.com
 0.0.0.0 sumologic.com
 0.0.0.0 em-frame.securitytrfx.com
@@ -4526,12 +4526,12 @@
 0.0.0.0 adnext.fr
 0.0.0.0 cdn.adnext.fr
 0.0.0.0 corendon.my.salesforce.com
-! allow api-fe.corendonresources.com reason: Required for booking
+# allow api-fe.corendonresources.com reason: Required for booking
 0.0.0.0 sa.opo-server.com
 0.0.0.0 opo-server.com
 0.0.0.0 connect.ekomi.de
 0.0.0.0 ekomi.de
-! allow sundio-media.azureedge.net reason: image CDN
+# allow sundio-media.azureedge.net reason: image CDN
 0.0.0.0 country-blocker.zend-apps.com
 0.0.0.0 foursixty.com
 0.0.0.0 ecommplugins-trustboxsettings.trustpilot.com
@@ -4782,7 +4782,7 @@
 0.0.0.0 t2.phplivesupport.com
 0.0.0.0 b001.recharge.com
 0.0.0.0 tdep.recharge.com
-! allow recommerce-static.recharge.com reason: Images
+# allow recommerce-static.recharge.com reason: Images
 0.0.0.0 o31660.ingest.sentry.io
 0.0.0.0 gatorleads.co.uk
 0.0.0.0 t.gatorleads.co.uk
@@ -5034,7 +5034,7 @@
 0.0.0.0 s2s.singular.net
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 activity.windows.com
-! allow gllto.glpals.com reason: It's an A-GPS domain from Broadcom
+# allow gllto.glpals.com reason: It's an A-GPS domain from Broadcom
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 api2.branch.io
@@ -5097,7 +5097,7 @@
 0.0.0.0 987967.xyz
 0.0.0.0 mail-ads.google.com
 0.0.0.0 signaler-pa.clients6.google.com
-! allow aa.google.com reason: Required CDN
+# allow aa.google.com reason: Required CDN
 0.0.0.0 id.google.co.uk
 0.0.0.0 id.google.it
 0.0.0.0 id.google.pl
@@ -5460,10 +5460,10 @@
 0.0.0.0 v3.adhood.com
 0.0.0.0 rms.de
 0.0.0.0 drbanner.com
-! allow www.adobe.com reason: Not just tracking company
+# allow www.adobe.com reason: Not just tracking company
 0.0.0.0 viewpay.tv
 0.0.0.0 cpex.cz
-! allow www.otto.de reason: Store website
+# allow www.otto.de reason: Store website
 0.0.0.0 kairosfire.com
 0.0.0.0 pg.com
 0.0.0.0 adtelligent.com
@@ -5482,7 +5482,7 @@
 0.0.0.0 iubenda.com
 0.0.0.0 geniussports.com
 0.0.0.0 onnetwork.tv
-! allow tritondigital.com reason: podcast delivery
+# allow tritondigital.com reason: podcast delivery
 0.0.0.0 samba.tv
 0.0.0.0 converge-digital.com
 0.0.0.0 communicationads.net
@@ -5713,7 +5713,7 @@
 0.0.0.0 programmatic.natexo.com
 0.0.0.0 service.dpa-infocom.de
 0.0.0.0 snigel.com
-! allow www.ab-inbev.com reason: Not a tracker
+# allow www.ab-inbev.com reason: Not a tracker
 0.0.0.0 tacs.c0nnectthed0ts.com
 0.0.0.0 prequel.tv
 0.0.0.0 citiservimedia.com
@@ -5742,7 +5742,7 @@
 0.0.0.0 projectagora.com
 0.0.0.0 adlane.info
 0.0.0.0 one-count.com
-! allow 0.0.0.0 allegro.pl reason: Not a tracker
+# allow 0.0.0.0 allegro.pl reason: Not a tracker
 0.0.0.0 platform161.com
 0.0.0.0 viads.com
 0.0.0.0 plista.com
@@ -5750,7 +5750,7 @@
 0.0.0.0 privacy.polar.me
 0.0.0.0 recreativ.com
 0.0.0.0 odeeo.io
-! allow www.unicredit.it reason: not a tracker
+# allow www.unicredit.it reason: not a tracker
 0.0.0.0 sqreemtech.com
 0.0.0.0 primis.tech
 0.0.0.0 quantcast.com
@@ -5766,7 +5766,7 @@
 0.0.0.0 kantar.com
 0.0.0.0 leadoo.com
 0.0.0.0 hashtag-labs.com
-! allow www.oracle.com reason: Company domain
+# allow www.oracle.com reason: Company domain
 0.0.0.0 cafemedia.com
 0.0.0.0 exoclick.com
 0.0.0.0 lunamedia.io
@@ -5941,7 +5941,7 @@
 0.0.0.0 docs.prebid.org
 0.0.0.0 gadsme.com
 0.0.0.0 admo.tv
-! allow docs.roku.com reason: Not a tracker
+# allow docs.roku.com reason: Not a tracker
 0.0.0.0 channelpilot.co.uk
 0.0.0.0 bealion.com
 0.0.0.0 geoprove.io
@@ -5951,7 +5951,7 @@
 0.0.0.0 fido.id
 0.0.0.0 mobkoi.com
 0.0.0.0 e-planning.net
-! allow www.ebayinc.com reason: Not a tracker
+# allow www.ebayinc.com reason: Not a tracker
 0.0.0.0 advisible.com
 0.0.0.0 studio-gong.de
 0.0.0.0 eskimi.com
@@ -5969,7 +5969,7 @@
 0.0.0.0 vitrado.de
 0.0.0.0 adverty.com
 0.0.0.0 42ads.io
-! allow www.amazon.co.uk reason: Not a tracker
+# allow www.amazon.co.uk reason: Not a tracker
 0.0.0.0 abtshield.com
 0.0.0.0 adn.ai
 0.0.0.0 aniview.com
@@ -5980,7 +5980,7 @@
 0.0.0.0 xandr.com
 0.0.0.0 united-internet-media.de
 0.0.0.0 objectiveplatform.com
-! allow help.disqus.com reason: Not a tracker
+# allow help.disqus.com reason: Not a tracker
 0.0.0.0 adrenalead.com
 0.0.0.0 qualitymedianetwork.de
 0.0.0.0 getbring.com
@@ -5999,8 +5999,8 @@
 0.0.0.0 xxxlutz.de
 0.0.0.0 privacy.centro.net
 0.0.0.0 dstillery.com
-! allow www.facebook.com reason: Social media company
-! allow www.ibm.com reason: company domain
+# allow www.facebook.com reason: Social media company
+# allow www.ibm.com reason: company domain
 0.0.0.0 kobler.no
 0.0.0.0 metrixlab.com
 0.0.0.0 mktsci.com
@@ -6018,7 +6018,7 @@
 0.0.0.0 adara.com
 0.0.0.0 reppublika.com
 0.0.0.0 bannernow.com
-! allow www.linkedin.com reason: CompanyCompany domain
+# allow www.linkedin.com reason: CompanyCompany domain
 0.0.0.0 site.adform.com
 0.0.0.0 adgear.com
 0.0.0.0 reg.tiscali.cz
@@ -6034,7 +6034,7 @@
 0.0.0.0 adman.gr
 0.0.0.0 admetrics.io
 0.0.0.0 adways.com
-! allow www.fandom.com reason: Not a tracker
+# allow www.fandom.com reason: Not a tracker
 0.0.0.0 lead-alliance.net
 0.0.0.0 wips.plug.it
 0.0.0.0 aimage.it
@@ -6090,7 +6090,7 @@
 0.0.0.0 verify.uxcam.com
 0.0.0.0 uxcam.com
 0.0.0.0 userexperior.com
-! allow device-api.urbanairship.com,urbanairship.com reason: Mistake
+# allow device-api.urbanairship.com,urbanairship.com reason: Mistake
 0.0.0.0 upsight.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 analytics.social.unity.com
@@ -6294,7 +6294,7 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 mocaplatform.com
-! allow appcenter.ms reason: Azure app store
+# allow appcenter.ms reason: Azure app store
 0.0.0.0 metrics.dropwizard.io
 0.0.0.0 metaps.com
 0.0.0.0 mediba.jp
@@ -6366,7 +6366,7 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 eulerian.com
 0.0.0.0 estimote.com
-! allow arcgis.com reason: Map provider
+# allow arcgis.com reason: Map provider
 0.0.0.0 duapps.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 dov-e.com
@@ -6704,7 +6704,7 @@
 0.0.0.0 nedstatbasic.net
 0.0.0.0 cdn.paritydeals.com
 0.0.0.0 geoip-api.skypicker.com
-! allow plexus-prod.skypicker.com reason: Required
+# allow plexus-prod.skypicker.com reason: Required
 0.0.0.0 finance-launchpad.skypicker.com
 0.0.0.0 rates-finance.skypicker.com
 0.0.0.0 csp-reporter.ryanair.com
@@ -6773,7 +6773,7 @@
 0.0.0.0 friendlyanalytics.io
 0.0.0.0 friendly.ch
 0.0.0.0 device-api.urbanairship.com
-! allow edge.allegro.pl reason: Required for functionality
+# allow edge.allegro.pl reason: Required for functionality
 0.0.0.0 js-data.allegro.pl
 0.0.0.0 piwik.owncloud.com
 0.0.0.0 fonts.wpcdn.pl
@@ -6795,8 +6795,8 @@
 0.0.0.0 raspcs.pl
 0.0.0.0 ipsos.pl
 0.0.0.0 pulsembed.eu
-! allow recommendations-onet.aureus.ringpublishing.com reason: Required for onet.pl to function
-! allow fallback-onet.aureus.ringpublishing.com reason: Required for onet.pl to function
+# allow recommendations-onet.aureus.ringpublishing.com reason: Required for onet.pl to function
+# allow fallback-onet.aureus.ringpublishing.com reason: Required for onet.pl to function
 0.0.0.0 ipresso.pl
 0.0.0.0 tvn-media.ipresso.pl
 0.0.0.0 csr.onet.pl
@@ -6825,7 +6825,7 @@
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 cleverecommerce.com
 0.0.0.0 nitroapps.co
-! allow amaicdn.com reason: CDN
+# allow amaicdn.com reason: CDN
 0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 bubbleup.com
 0.0.0.0 cmp.ad.nl
@@ -6852,7 +6852,7 @@
 0.0.0.0 injection.chat.ao.com
 0.0.0.0 socket.thescv.team
 0.0.0.0 thescv.team
-! allow megaweb-media.ao.com reason: Required for loading content
+# allow megaweb-media.ao.com reason: Required for loading content
 0.0.0.0 lister-merch-media.ao.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 cdn.loadbee.com
@@ -6862,7 +6862,7 @@
 0.0.0.0 content.very.co.uk
 0.0.0.0 cdn.cnetcontent.com
 0.0.0.0 cnetcontent.com
-! allow cdn.media.amplience.net reason: Image CDN
+# allow cdn.media.amplience.net reason: Image CDN
 0.0.0.0 amplience.net
 0.0.0.0 mark.reevoo.com
 0.0.0.0 cdn.mark.reevoo.com
@@ -6876,7 +6876,7 @@
 0.0.0.0 api.craftyclicks.co.uk
 0.0.0.0 craftyclicks.co.uk
 0.0.0.0 analitik.edevlet.gov.tr
-! allow js.arcgis.com reason: Map provider
+# allow js.arcgis.com reason: Map provider
 0.0.0.0 logs1407.xiti.com
 0.0.0.0 logs2.xiti.com
 0.0.0.0 tarteaucitron.io
@@ -7044,7 +7044,7 @@
 0.0.0.0 email.cgroup.online
 0.0.0.0 autocomplete.willhaben.at
 0.0.0.0 assistent.tst.kpn.com
-! allow fast.wistia.net reason: video cdn
+# allow fast.wistia.net reason: video cdn
 0.0.0.0 cnpmjs.org
 0.0.0.0 ap01.net
 0.0.0.0 ageverify.co
@@ -7066,7 +7066,7 @@
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 customerevents.netflix.com
-! allow apiproxy-website-nlb-prod-2-22bf9dee8ebc92ff.elb.us-east-1.amazonaws.com reason: Required
+# allow apiproxy-website-nlb-prod-2-22bf9dee8ebc92ff.elb.us-east-1.amazonaws.com reason: Required
 0.0.0.0 ae.nflximg.net
 0.0.0.0 fa.zuplo.com
 0.0.0.0 checkoutpage.co
@@ -11152,7 +11152,7 @@
 0.0.0.0 oascentral.hosted.ap.org
 0.0.0.0 oascentral.newsmax.com
 0.0.0.0 obeyter.com
-! allow ocsp.godaddy.com reason: OSCP
+# allow ocsp.godaddy.com reason: OSCP
 0.0.0.0 odin.goo.mx
 0.0.0.0 officeme.cn
 0.0.0.0 offline-adv.oray.com
@@ -12266,12 +12266,12 @@
 0.0.0.0 crownpeak.com
 0.0.0.0 datagrail.io
 0.0.0.0 datastreams.io
-! allow github-wiki-see.page reason: Github Wiki Index Service not a github clone
+# allow github-wiki-see.page reason: Github Wiki Index Service not a github clone
 0.0.0.0 eurojackpot.org
 0.0.0.0 i3f2.net
 0.0.0.0 infura.io
 0.0.0.0 sendgrid.net
-! allow pinata.cloud reason: Not a tracker
+# allow pinata.cloud reason: Not a tracker
 0.0.0.0 lottostar24.com
 0.0.0.0 multilotto.com
 0.0.0.0 onlinewebfonts.com
@@ -12314,7 +12314,7 @@
 0.0.0.0 tags.experian.co.uk
 0.0.0.0 sundaysky.com
 0.0.0.0 play.sundaysky.com
-! allow wpengine.com reason: CDN
+# allow wpengine.com reason: CDN
 0.0.0.0 livechat-metrics.messagebird.com
 0.0.0.0 headwayapp.co
 0.0.0.0 cdn.headwayapp.co
@@ -12412,7 +12412,7 @@
 0.0.0.0 sensic.net
 0.0.0.0 mpianalytics.com
 0.0.0.0 sdk.mpianalytics.com
-! allow storyblok.com reason: CDN
+# allow storyblok.com reason: CDN
 0.0.0.0 app.storyblok.com
 0.0.0.0 iocnt.net
 0.0.0.0 coral.heute.at
@@ -12425,12 +12425,12 @@
 0.0.0.0 pv-apps.web.oebb.at
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 kurier.activehosted.com
-! allow efs.kurier.at reason: Website router
+# allow efs.kurier.at reason: Website router
 0.0.0.0 data-44a005f23c.bergfex.at
 0.0.0.0 partner.bergfex.at
-! allow vod-at.mdn.ors.at reason: Required for video playback
+# allow vod-at.mdn.ors.at reason: Required for video playback
 0.0.0.0 wa.gmx.net
-! allow web.de reason: Email service
+# allow web.de reason: Email service
 0.0.0.0 dpa-tools.ui-portal.de
 0.0.0.0 nct.ui-portal.de
 0.0.0.0 uim.tifbs.net
@@ -12454,7 +12454,7 @@
 0.0.0.0 talk-cdn.krone.at
 0.0.0.0 talk.krone.at
 0.0.0.0 b9fox3.tyrol.com
-! allow staticlp.com reason: Staticfiles of lonelyplanet.com
+# allow staticlp.com reason: Staticfiles of lonelyplanet.com
 0.0.0.0 stats.peer.biz
 0.0.0.0 fcp.codes
 0.0.0.0 data-c0c484e9be.tvdigital.de
@@ -12512,7 +12512,7 @@
 0.0.0.0 abc.esprit.dk
 0.0.0.0 abc.esprit.ph
 0.0.0.0 cpb.esprit.ph
-! allow e2486.dscg.akamaiedge.net reason: scene7 image cdn
+# allow e2486.dscg.akamaiedge.net reason: scene7 image cdn
 0.0.0.0 fibre.esprit.com
 0.0.0.0 global-e.com
 0.0.0.0 webservices.global-e.com
@@ -12549,8 +12549,8 @@
 0.0.0.0 api-tiger.zoovu.com
 0.0.0.0 click.alternate.de
 0.0.0.0 chat.alternate.nl
-! allow lp2.hm.com reason: Image CDN
-! allow e2712.b.akamaiedge.net reason: CDN
+# allow lp2.hm.com reason: Image CDN
+# allow e2712.b.akamaiedge.net reason: CDN
 0.0.0.0 lp.weekday.com
 0.0.0.0 weekday.com
 0.0.0.0 idservice.hm.com
@@ -12558,7 +12558,7 @@
 0.0.0.0 t.aboutyou.de
 0.0.0.0 tadarida-web.aboutyou.com
 0.0.0.0 m.aboutyou.de
-! allow api.aboutyou.com reason: required
+# allow api.aboutyou.com reason: required
 0.0.0.0 m.aboutyou.nl
 0.0.0.0 t.aboutyou.cz
 0.0.0.0 t.aboutyou.lt
@@ -12641,7 +12641,7 @@
 0.0.0.0 1085610534.rsc.cdn77.org
 0.0.0.0 1087935514.rsc.cdn77.org
 
-! allow 1088045785.rsc.cdn77.org reason: CDN KDE
+# allow 1088045785.rsc.cdn77.org reason: CDN KDE
 0.0.0.0 1094578850.rsc.cdn77.org
 0.0.0.0 10upmanaged.com
 0.0.0.0 10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com
@@ -12796,7 +12796,7 @@
 
 0.0.0.0 185.250.149.60
 0.0.0.0 1851774772.rsc.cdn77.org
-! allow 1853586421.rsc.cdn77.org reason: not a tracker
+# allow 1853586421.rsc.cdn77.org reason: not a tracker
 0.0.0.0 1855054874.rsc.cdn77.org
 0.0.0.0 1855684048.rsc.cdn77.org
 0.0.0.0 1871350125.rsc.cdn77.org
@@ -13050,8 +13050,8 @@
 0.0.0.0 3c9sm1yzqy518hwx3f6o4c64-wpengine.netdna-ssl.com
 
 0.0.0.0 3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com
-! allow 3cx.com reason: Not a tracker
-! allow 3cx.us reason: not a tracker
+# allow 3cx.com reason: Not a tracker
+# allow 3cx.us reason: not a tracker
 
 0.0.0.0 3djuegos.com
 0.0.0.0 3dlancer.net
@@ -13074,7 +13074,7 @@
 0.0.0.0 3kqo2r1c2kzy3oyiqn2r1gjb-wpengine.netdna-ssl.com
 0.0.0.0 3lib.net
 
-! allow 3m.com reason: not a tracker
+# allow 3m.com reason: not a tracker
 0.0.0.0 3m7ajlsrzj92lfd1hu16hu7vc-wpengine.netdna-ssl.com
 0.0.0.0 3naked.com
 0.0.0.0 3ogtym48f0n7g9i61ddao1cl-wpengine.netdna-ssl.com
@@ -13333,7 +13333,7 @@
 
 0.0.0.0 9c9media.com.edgesuite.net
 
-! allow 9cache.com reason: image cdn
+# allow 9cache.com reason: image cdn
 0.0.0.0 9cdn.net
 0.0.0.0 9eriz.x.incapdns.net
 
@@ -13350,7 +13350,7 @@
 0.0.0.0 a-kmtkmg.net
 0.0.0.0 a-lehdet.fi
 0.0.0.0 a-mpd.com
-! allow a-msedge.net reason: CDN
+# allow a-msedge.net reason: CDN
 0.0.0.0 a-mx.com
 0.0.0.0 a07ab9344ba664701878fcbc535973ec-983232249.eu-central-1.elb.amazonaws.com
 0.0.0.0 a0e50ef73607b11e79ba902bfc1c6ba7-25949453.ap-southeast-2.elb.amazonaws.com
@@ -13389,12 +13389,12 @@
 0.0.0.0 a9e83e9b144614a02973f6d34bf694bd-1401248241.us-east-1.elb.amazonaws.com
 0.0.0.0 a9yw.net
 
-! allow aa.com reason: not a tracker
+# allow aa.com reason: not a tracker
 
 0.0.0.0 aaa200.rocks
-! allow aa.com reason: not a trackerpany.net
+# allow aa.com reason: not a trackerpany.net
 
-! allow aaas.org reason: not a tracker
+# allow aaas.org reason: not a tracker
 0.0.0.0 aaasouth.com
 0.0.0.0 aaawebstore.com
 0.0.0.0 aabdmn.com
@@ -13417,9 +13417,9 @@
 0.0.0.0 abacusemedia.com
 0.0.0.0 abbonamenti.it
 0.0.0.0 abbottnutrition.com
-! allow abc-cdn.net.au reason: not a tracker
+# allow abc-cdn.net.au reason: not a tracker
 0.0.0.0 abc-host.net.au
-! allow abc.net.au reason: not a tracker
+# allow abc.net.au reason: not a tracker
 
 0.0.0.0 abc17news.b-cdn.net
 0.0.0.0 abcimg.es
@@ -13442,8 +13442,8 @@
 0.0.0.0 about.co.kr
 0.0.0.0 aboutstatic.com
 0.0.0.0 aboutyou.cloud
-! allow aboutyou.com reason: not a tracker
-! allow aboutyou.de reason: not a tracker
+# allow aboutyou.com reason: not a tracker
+# allow aboutyou.de reason: not a tracker
 0.0.0.0 abp-static.s3.ap-south-1.amazonaws.com
 0.0.0.0 abplive.com.edgesuite.net
 0.0.0.0 abrankings.com
@@ -13462,10 +13462,10 @@
 0.0.0.0 ac-iam-scalertest.azurewebsites.net
 0.0.0.0 ac-image.s3.amazonaws.com
 0.0.0.0 acacdn.com
-! allow academia-assets.com reason: CDN
+# allow academia-assets.com reason: CDN
 0.0.0.0 acalog.com
-! allow acast.cloud reason: podcasts
-! allow acast.com reason: podcasts
+# allow acast.cloud reason: podcasts
+# allow acast.com reason: podcasts
 0.0.0.0 acc-cdn.azureedge.net
 0.0.0.0 acca-prod-65s-490528250.eu-west-1.elb.amazonaws.com
 0.0.0.0 accaii.com
@@ -13494,7 +13494,7 @@
 0.0.0.0 accurateshooter.net
 0.0.0.0 accusationcollegeload.com
 0.0.0.0 accutics.net
-! allow accuweather.com reason: not a tracker
+# allow accuweather.com reason: not a tracker
 0.0.0.0 acdcdn.com
 0.0.0.0 acdcf56e4287e4f98a82d4027959c35b-665633184.us-east-1.elb.amazonaws.com
 0.0.0.0 acdn-prod-bsdce-ngcx-va.azureedge.net
@@ -13603,8 +13603,8 @@
 0.0.0.0 admeira.ch
 0.0.0.0 adnet.de
 
-! allow adobe.com reason: not a tracker.edgesuite.net
-! allow adobe.com reason: not a tracker
+# allow adobe.com reason: not a tracker.edgesuite.net
+# allow adobe.com reason: not a tracker
 0.0.0.0 adobedc.net
 
 0.0.0.0 adobetarget.com
@@ -13631,7 +13631,7 @@
 0.0.0.0 adxadserv.com
 0.0.0.0 adxcel-ec2.com
 0.0.0.0 adxpremium.services
-! allow adyen.com reason: not a tracker
+# allow adyen.com reason: not a tracker
 0.0.0.0 afcdn.com
 0.0.0.0 affec.tv
 0.0.0.0 affiliatable.io
@@ -13648,23 +13648,23 @@
 0.0.0.0 airpr.com
 0.0.0.0 aisvip-a.akamaihd.net
 0.0.0.0 aixport.de
-! allow ajax.googleapis.com reason: required library
+# allow ajax.googleapis.com reason: required library
 0.0.0.0 akacdn.co
 
-! allow akamai.com reason: not a tracker
+# allow akamai.com reason: not a tracker
 0.0.0.0 akmxts.com
 0.0.0.0 alamy.com
 0.0.0.0 alapage.ru
 0.0.0.0 alas4kanmfa6a4mubte.com
 0.0.0.0 aldi-prod.s3.eu-central-1.amazonaws.com
 0.0.0.0 alexa.com
-! allow algolia.net reason: search cdn
-! allow algolianet.com reason: search cdn
+# allow algolia.net reason: search cdn
+# allow algolianet.com reason: search cdn
 
 0.0.0.0 alicloudapi.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 all4phones.de
-! allow allesregional.de reason: not a tracker
+# allow allesregional.de reason: not a tracker
 0.0.0.0 allgaeuer-zeitung.de
 0.0.0.0 allianz.io
 0.0.0.0 allmvs.com
@@ -13673,9 +13673,9 @@
 0.0.0.0 altmetric.com
 0.0.0.0 am-static.com
 0.0.0.0 amavalet.com
-! allow amazon.co.uk reason: not a tracker
-! allow amazon.com reason: not a tracker
-! allow amazon.de reason: Amazon store
+# allow amazon.co.uk reason: not a tracker
+# allow amazon.com reason: not a tracker
+# allow amazon.de reason: Amazon store
 0.0.0.0 amp.akamaized.net
 0.0.0.0 amplifoninternal.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
@@ -13700,14 +13700,14 @@
 0.0.0.0 apa.at
 0.0.0.0 apkpure.net
 0.0.0.0 appcues.net
-! allow apple.com reason: not a tnot a tracker.akadns.net
-! allow apple.com reason: not a tnot a tracker
+# allow apple.com reason: not a tnot a tracker.akadns.net
+# allow apple.com reason: not a tnot a tracker
 0.0.0.0 aquaplatform.com
 0.0.0.0 arcpublishing.com
 0.0.0.0 arcspire.io
-! allow ard.de reason: German Media
+# allow ard.de reason: German Media
 0.0.0.0 arenaev.com
-! allow art19.com reason: required for podcasts
+# allow art19.com reason: required for podcasts
 0.0.0.0 artefact.com
 0.0.0.0 artfut.com
 0.0.0.0 asadcdn.com
@@ -13729,16 +13729,16 @@
 0.0.0.0 attn.tv
 0.0.0.0 attraqt.com
 
-! allow audi.com reason: not a tracker
+# allow audi.com reason: not a tracker
 0.0.0.0 audiencemanager.de
 0.0.0.0 audionow.de
 0.0.0.0 audrte.com
 0.0.0.0 ausgezeichnet.org
-! allow auth0.com reason: not a tracker
+# allow auth0.com reason: not a tracker
 0.0.0.0 authorized.by
 
-! allow autodesk.com reason: not a tracker
-! allow autoscout24.com reason: not a tracker
+# allow autodesk.com reason: not a tracker
+# allow autoscout24.com reason: not a tracker
 0.0.0.0 avada.io
 0.0.0.0 avads.net
 0.0.0.0 avantisvideo.com
@@ -13753,19 +13753,19 @@
 0.0.0.0 awmads.com
 0.0.0.0 aws.dev
 0.0.0.0 awsmpsa.com
-! allow ax4z.com reason: CDN
+# allow ax4z.com reason: CDN
 0.0.0.0 ay.delivery
 0.0.0.0 aylink.co
-! allow azure-api.net reason: not a tracker
-! allow azure.com reason: not a tracker
-! allow azurefd.net reason: CDN
+# allow azure-api.net reason: not a tracker
+# allow azure.com reason: not a tracker
+# allow azurefd.net reason: CDN
 0.0.0.0 b0oie4xjeb4ite.com
 0.0.0.0 ba-content.de
 0.0.0.0 babbel.io
 0.0.0.0 babiel.com
 0.0.0.0 backmarket.io
 0.0.0.0 bahn-x.de
-! allow bahn.de reason: not a tracker, german railway
+# allow bahn.de reason: not a tracker, german railway
 0.0.0.0 baidu.com
 0.0.0.0 baimgfroggd.site
 
@@ -13792,7 +13792,7 @@
 0.0.0.0 belgiantrain.azureedge.net
 0.0.0.0 bemail.it
 0.0.0.0 benonblkd.xyz
-! allow bergfex.at reason: not a trackr
+# allow bergfex.at reason: not a trackr
 0.0.0.0 besafe.global
 0.0.0.0 bestcontentfood.top
 0.0.0.0 bestcontentsystem.top
@@ -13827,7 +13827,7 @@
 
 0.0.0.0 7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com
 
-! allow abcnews.com reason: not a tracker
+# allow abcnews.com reason: not a tracker
 0.0.0.0 acmi-website-media-prod.s3.amazonaws.com
 0.0.0.0 adaraanalytics.com
 0.0.0.0 adblade.com
@@ -13880,17 +13880,17 @@
 0.0.0.0 allbud.s3.amazonaws.com
 0.0.0.0 allorigins.win
 0.0.0.0 alocdn.com
-! allow alphacdn.net reason: CDN
-! allow amazon.co.jp reason: not a tracker
+# allow alphacdn.net reason: CDN
+# allow amazon.co.jp reason: not a tracker
 0.0.0.0 ambientdsp.com
-! allow americanairlines.com.au reason: not a tracker
-! allow americanexpress.com.akadns.net reason: not a tracker
+# allow americanairlines.com.au reason: not a tracker
+# allow americanexpress.com.akadns.net reason: not a tracker
 0.0.0.0 amgdgt.com
 0.0.0.0 ampproject.net
 0.0.0.0 ams-depr-public.s3.amazonaws.com
 0.0.0.0 anaconda.cloud
 0.0.0.0 analytics-sm.com
-! allow anchor.fm reason: required for podcasts
+# allow anchor.fm reason: required for podcasts
 0.0.0.0 and.co.uk
 0.0.0.0 anglerfox.com
 0.0.0.0 anrvideos.com
@@ -13909,7 +13909,7 @@
 0.0.0.0 apnarm.net.au
 0.0.0.0 app-28836.on-aptible.com
 0.0.0.0 appdevelopergroup.co
-! allow apple-mapkit.com reason: not a tracker
+# allow apple-mapkit.com reason: not a tracker
 0.0.0.0 appnexus.map.fastly.net
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com
@@ -13921,12 +13921,12 @@
 0.0.0.0 argosdata.io
 0.0.0.0 argusplatform.com
 0.0.0.0 arkadiumhosted.com
-! allow arkoselabs.com reason: required for captchas
+# allow arkoselabs.com reason: required for captchas
 0.0.0.0 arrivalist.com
 0.0.0.0 art-gallery-of-sa-store.myshopify.com
 0.0.0.0 assets-queue-it.net
-! allow assetsadobe.com reason: not a tracker
-! allow assetsadobe2.com reason: not a tracker
+# allow assetsadobe.com reason: not a tracker
+# allow assetsadobe2.com reason: not a tracker
 0.0.0.0 asteriresearch.com
 0.0.0.0 astutebot.com
 0.0.0.0 atedra.com
@@ -13958,7 +13958,7 @@
 0.0.0.0 awwmemes.com
 0.0.0.0 awxcdn.com
 0.0.0.0 axiom.co
-! allow azure.net reason: not a tracker
+# allow azure.net reason: not a tracker
 0.0.0.0 babyniceshark.com
 0.0.0.0 bam-x.com
 0.0.0.0 bambuser.com
@@ -14007,12 +14007,12 @@
 
 0.0.0.0 blackbaudhosting.com
 0.0.0.0 blackcrow.ai
-! allow bleepstatic.com reason: :CDN of bleepingcomputer
-! allow blogger.com reason: not a tracker
+# allow bleepstatic.com reason: :CDN of bleepingcomputer
+# allow blogger.com reason: not a tracker
 0.0.0.0 bloglines.com
 0.0.0.0 bloomberga.com
-! allow blubrry.com reason: podcast hosting
-! allow blueberry.map.fastly.net reason: podcast hosting
+# allow blubrry.com reason: podcast hosting
+# allow blueberry.map.fastly.net reason: podcast hosting
 0.0.0.0 bluecore.com
 
 0.0.0.0 bluemix.net
@@ -14026,17 +14026,17 @@
 0.0.0.0 bodiscdn.com
 
 0.0.0.0 bold360.com
-! allow boltdns.net reason: CDN
+# allow boltdns.net reason: CDN
 0.0.0.0 bongacams.com
 0.0.0.0 bonzai.co
 0.0.0.0 bookeasy.com.au
-! allow booking.com reason: not a tracker
+# allow booking.com reason: not a tracker
 0.0.0.0 bookmsg.com
 0.0.0.0 boomtrain.com
-! allow bootstrapcdn.com reason: CDN
+# allow bootstrapcdn.com reason: CDN
 0.0.0.0 borirait.site
-! allow bosch.com reason: not a tracker
-! allow bose.com reason: not a tracker
+# allow bosch.com reason: not a tracker
+# allow bose.com reason: not a tracker
 0.0.0.0 bot-dot-envolvetech-001.appspot.com
 0.0.0.0 bouncex.net
 0.0.0.0 boxcast.com
@@ -14046,16 +14046,16 @@
 0.0.0.0 bqstreamer.com
 0.0.0.0 brafton.com
 0.0.0.0 brainlyads.com
-! allow braintree-api.com reason: payment gateway
-! allow braintreegateway.com reason: payment gateway
+# allow braintree-api.com reason: payment gateway
+# allow braintreegateway.com reason: payment gateway
 0.0.0.0 brand-display.com
 0.0.0.0 brandlock.io
 0.0.0.0 braze-images.com
 0.0.0.0 brick.global.ssl.fastly.net
 0.0.0.0 brid.tv
-! allow brightcove.com reason: video platform
-! allow brightcove.net reason: video platform
-! allow brightcovecdn.com reason: video platform
+# allow brightcove.com reason: video platform
+# allow brightcove.net reason: video platform
+# allow brightcovecdn.com reason: video platform
 0.0.0.0 brightedge.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 brightspace.com
@@ -14074,7 +14074,7 @@
 0.0.0.0 bunnings.com.au
 0.0.0.0 bustle.com
 0.0.0.0 buzzfeed.com
-! allow buzzsprout.com reason: not a tracker
+# allow buzzsprout.com reason: not a tracker
 
 0.0.0.0 bycsi.com
 0.0.0.0 bydata.com
@@ -14100,7 +14100,7 @@
 0.0.0.0 candidate-office.s3.amazonaws.com
 0.0.0.0 candlefox.com
 0.0.0.0 canstrm.com
-! allow captcha-delivery.com reason: Required for SNCF
+# allow captcha-delivery.com reason: Required for SNCF
 0.0.0.0 capterra-static.com
 0.0.0.0 capterra.com
 0.0.0.0 captifymedia.com
@@ -14115,13 +14115,13 @@
 
 0.0.0.0 catsnbootsncats2020.com
 0.0.0.0 cauly.co.kr
-! allow cbc.ca reason: not a tracker
-! allow cbsi.com reason: not a tracker
-! allow cbsi.map.fastly.net reason: not not a tracker
-! allow cbsivideo.com reason: not a tracker
+# allow cbc.ca reason: not a tracker
+# allow cbsi.com reason: not a tracker
+# allow cbsi.map.fastly.net reason: not not a tracker
+# allow cbsivideo.com reason: not a tracker
 0.0.0.0 ccmiocw.com
-! allow cdn-apple.com.akadns.net reason: not a tracker
-! allow cdn-apple.com reason: not a tracker
+# allow cdn-apple.com.akadns.net reason: not a tracker
+# allow cdn-apple.com reason: not a tracker
 0.0.0.0 cdn-net.com
 0.0.0.0 cdn-payhelm.s3.amazonaws.com
 0.0.0.0 cdn-spurit.com
@@ -14137,7 +14137,7 @@
 0.0.0.0 cdndex.io
 0.0.0.0 cdngain.com
 0.0.0.0 cdngslb.com
-! allow cdninstagram.com reason: Required for instagram
+# allow cdninstagram.com reason: Required for instagram
 0.0.0.0 cdnjs.com
 0.0.0.0 cdnjs.work
 0.0.0.0 cdnkimg.com
@@ -14189,19 +14189,19 @@
 0.0.0.0 cloud-iq.com.au
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com
-! allow cloudflare.com reason: not a tracker
-! allow cloudflare.net reason: CDN
+# allow cloudflare.com reason: not a tracker
+# allow cloudflare.net reason: CDN
 0.0.0.0 cloudimg.io
-! allow cloudinary.net reason: CDN
+# allow cloudinary.net reason: CDN
 0.0.0.0 cloudiq.com
 0.0.0.0 cloudlogobox.com
 0.0.0.0 clrstm.com
 0.0.0.0 cms-cache-prod-1890262424.us-east-1.elb.amazonaws.com
 
-! allow cnbc.com reason: not a tracker
+# allow cnbc.com reason: not a tracker
 
 0.0.0.0 cnevids.com
-! allow cnews.cz reason: not a tracke
+# allow cnews.cz reason: not a tracke
 0.0.0.0 cnnx.link
 0.0.0.0 cnstrc.com
 0.0.0.0 cnsypic.com
@@ -14210,7 +14210,7 @@
 0.0.0.0 co.akadns.net
 0.0.0.0 codeblackbelt.com
 0.0.0.0 codeby.net
-! allow codepen.io reason: not a trackernot a tracker
+# allow codepen.io reason: not a trackernot a tracker
 0.0.0.0 codomaza.com
 0.0.0.0 cognitivlabs.com
 0.0.0.0 coincap.io
@@ -14243,7 +14243,7 @@
 0.0.0.0 content-ad.net
 0.0.0.0 content-youtube.googleapis.com
 0.0.0.0 content.googleapis.com
-! allow contentful.com reason: CMS
+# allow contentful.com reason: CMS
 0.0.0.0 continual.ly
 0.0.0.0 converseapps.net
 0.0.0.0 conversionbear.com
@@ -14255,7 +14255,7 @@
 0.0.0.0 cookieless-data.com
 0.0.0.0 cordial.com
 0.0.0.0 cordial.io
-! allow corel.com reason: not a tracker
+# allow corel.com reason: not a tracker
 0.0.0.0 costco-adbutler.com
 0.0.0.0 costco-static.com
 
@@ -14282,7 +14282,7 @@
 0.0.0.0 csp-central.appspot.com
 0.0.0.0 cstwpush.com
 0.0.0.0 ctctcdn.com
-! allow ctfassets.net reason: CDN
+# allow ctfassets.net reason: CDN
 0.0.0.0 ctnsnet.com
 0.0.0.0 ctripgslb.com
 0.0.0.0 cudasvc.com
@@ -14299,7 +14299,7 @@
 0.0.0.0 czilladx.com
 0.0.0.0 czx5eyk0exbhwp43ya.biz
 0.0.0.0 d.shared.global.fastly.net
-! allow d.sni.global.fastly.net reason: Image CDN
+# allow d.sni.global.fastly.net reason: Image CDN
 0.0.0.0 d1011j0lbv5k1u.cloudfront.net
 0.0.0.0 d10hvlz45hq89f.cloudfront.net
 0.0.0.0 d12oh2gzettinl.cloudfront.net
@@ -14321,7 +14321,7 @@
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d19ayerf5ehaab.cloudfront.net
 0.0.0.0 d1a2bckw51ogqq.cloudfront.net
-! allow d1a3f4spazzrp4.cloudfront.net reason: cdn
+# allow d1a3f4spazzrp4.cloudfront.net reason: cdn
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1bk6lwzdwelz0.cloudfront.net
 0.0.0.0 d1dl8fof0t29xj.cloudfront.net
@@ -14395,13 +14395,13 @@
 0.0.0.0 bytemark.co
 0.0.0.0 ca.akadns.net
 0.0.0.0 ca.edgesuite.net
-! allow cachefly.net reason: cdn
+# allow cachefly.net reason: cdn
 0.0.0.0 calgary.ca
 
 0.0.0.0 calmcactus.com
 0.0.0.0 camschat.net
-! allow canada.ca reason: not a tracker
-! allow canada.com reason: not a tracker
+# allow canada.ca reason: not a tracker
+# allow canada.com reason: not a tracker
 0.0.0.0 canadaammo.com
 0.0.0.0 canadapost-postescanada.ca
 0.0.0.0 canadianevergreen.com
@@ -14433,17 +14433,17 @@
 0.0.0.0 cewexseksi.com
 0.0.0.0 cfmediaview.com
 0.0.0.0 channelexco.com
-! allow chasepaymentech.com reason: not a tracker required for payment
+# allow chasepaymentech.com reason: not a tracker required for payment
 0.0.0.0 chatango.com
-! allow cheapflights.ca reason: not a tracker
-! allow cheaptickets.com reason: not a tracker
+# allow cheapflights.ca reason: not a tracker
+# allow cheaptickets.com reason: not a tracker
 0.0.0.0 chicdn.net
 0.0.0.0 chioneflake.com
 0.0.0.0 chl-network.s3.amazonaws.com
 0.0.0.0 chl.ca
 0.0.0.0 chlfanbase.ca
 0.0.0.0 chooinkya.com
-! allow cimpress.io reason: required for webshop SKU
+# allow cimpress.io reason: required for webshop SKU
 0.0.0.0 ciqtracking.com
 0.0.0.0 citydsp.com
 0.0.0.0 clario.cloud
@@ -14475,7 +14475,7 @@
 0.0.0.0 contobox-data.s3.amazonaws.com
 0.0.0.0 contobox.com
 0.0.0.0 convergepay.com
-! allow converse.ca reason: not a tracker
+# allow converse.ca reason: not a tracker
 0.0.0.0 convertevent.com
 0.0.0.0 convio.net
 0.0.0.0 cootlogix.com
@@ -14509,9 +14509,9 @@
 0.0.0.0 contentpass.net
 0.0.0.0 contentspread.net
 0.0.0.0 cookiebot.eu
-! allow coolblue.eu reason: not a tracker
+# allow coolblue.eu reason: not a tracker
 0.0.0.0 cormes.de
-! allow cosstores.com reason: it is required for images and content of cos.com
+# allow cosstores.com reason: it is required for images and content of cos.com
 
 0.0.0.0 cptrack.de
 0.0.0.0 creditreform.de
@@ -14526,7 +14526,7 @@
 0.0.0.0 d146hssdam8yqh.cloudfront.net
 0.0.0.0 d167dmkkzosnsj.cloudfront.net
 0.0.0.0 d16mn2gxspkaop.cloudfront.net
-! allow d18z4g4dosh1xa.cloudfront.net reason: cdn
+# allow d18z4g4dosh1xa.cloudfront.net reason: cdn
 0.0.0.0 d191gucnqqinu5.cloudfront.net
 0.0.0.0 d1c96urnla7s2u.cloudfront.net
 0.0.0.0 d1cp3mofwcwjr3.cloudfront.net
@@ -14560,7 +14560,7 @@
 0.0.0.0 d2cfjncbaa70hr.cloudfront.net
 0.0.0.0 d2d42mpnbqmzj3.cloudfront.net
 0.0.0.0 d2erlyv8kqcr44.cloudfront.net
-! allow d2es9cpp0lrwos.cloudfront.net reason: flickr
+# allow d2es9cpp0lrwos.cloudfront.net reason: flickr
 0.0.0.0 d2esi6rdy1y1sz.cloudfront.net
 0.0.0.0 d2exd72xrrp1s7.cloudfront.net
 0.0.0.0 d2gjy80cbf16yq.cloudfront.net
@@ -14571,7 +14571,7 @@
 0.0.0.0 d2k0w1g454zk4u.cloudfront.net
 0.0.0.0 d2knphq6m6mz66.cloudfront.net
 0.0.0.0 d2licdfz31ol73.cloudfront.net
-! allow d2mubj7afuiaat.cloudfront.net reason: cdn
+# allow d2mubj7afuiaat.cloudfront.net reason: cdn
 0.0.0.0 d2oqqqa5ijtcmo.cloudfront.net
 0.0.0.0 d2phoofh5prykf.cloudfront.net
 0.0.0.0 d2q4ga9yb53uwq.cloudfront.net
@@ -14608,7 +14608,7 @@
 0.0.0.0 d3hb14vkzrxvla.cloudfront.net
 0.0.0.0 d3jh9lldskr7se.cloudfront.net
 0.0.0.0 d3jl4o3inrfq6m.cloudfront.net
-! allow d3k6pebee3cv6.cloudfront.net reason: CDN
+# allow d3k6pebee3cv6.cloudfront.net reason: CDN
 0.0.0.0 d3khug2sh8iubx.cloudfront.net
 0.0.0.0 d3kuri221qk0z7.cloudfront.net
 0.0.0.0 d3lac2qn3905bt.cloudfront.net
@@ -14629,7 +14629,7 @@
 0.0.0.0 d7hftxdivxxvm.cloudfront.net
 0.0.0.0 d9jj3mjthpub.cloudfront.net
 0.0.0.0 daa.net
-! allow dailymotion.com reason: not a tracker
+# allow dailymotion.com reason: not a tracker
 0.0.0.0 damdoor.com
 0.0.0.0 danv01ao0kdr2.cloudfront.net
 0.0.0.0 daofile.com
@@ -14653,7 +14653,7 @@
 0.0.0.0 de2pmm85odupd.cloudfront.net
 0.0.0.0 dealtale.com
 0.0.0.0 decenthat.com
-! allow deepl.com reason: not a tracker
+# allow deepl.com reason: not a tracker
 0.0.0.0 deinchatbot-speech.azurewebsites.net
 0.0.0.0 deinneueszuhause.de
 0.0.0.0 delight-vr.com
@@ -14666,7 +14666,7 @@
 0.0.0.0 dentsu.de
 0.0.0.0 deskline.net
 0.0.0.0 destination.one
-! allow deutschepost.de reason: not a tracker
+# allow deutschepost.de reason: not a tracker
 0.0.0.0 df45ay5pw60dy.cloudfront.net
 0.0.0.0 df80k0z3fi8zg.cloudfront.net
 0.0.0.0 dfds.cloud
@@ -14677,9 +14677,9 @@
 0.0.0.0 dialogtech.com
 
 0.0.0.0 digiaccess.org
-! allow digicert.com reason: not just a tracker
+# allow digicert.com reason: not just a tracker
 
-! allow digitalgov.gov reason: not a tracker only dap subdomain is
+# allow digitalgov.gov reason: not a tracker only dap subdomain is
 0.0.0.0 digitalpfizer.com
 0.0.0.0 digitalriver.com
 0.0.0.0 digitalstores.net
@@ -14687,17 +14687,17 @@
 0.0.0.0 digitru.st
 0.0.0.0 dimdi.de
 0.0.0.0 dipf.de
-! allow directferries.com reason: not a tracker
+# allow directferries.com reason: not a tracker
 0.0.0.0 disco-api.com
-! allow discord.com reason: not a tracker
-! allow disqus.com reason: disqus platform
-! allow disquscdn.com reason: disqus platform
+# allow discord.com reason: not a tracker
+# allow disqus.com reason: disqus platform
+# allow disquscdn.com reason: disqus platform
 0.0.0.0 distance.to
 0.0.0.0 divibib.com
 0.0.0.0 djiops.com
 0.0.0.0 dk0fkjygbn9vu.cloudfront.net
 0.0.0.0 dl8.me
-! allow dld6x5yyx2pqw.cloudfront.net reason: Image CDN
+# allow dld6x5yyx2pqw.cloudfront.net reason: Image CDN
 0.0.0.0 dm-event.net
 0.0.0.0 dm-static.com
 0.0.0.0 dmm.co.jp
@@ -14705,13 +14705,13 @@
 0.0.0.0 dnlgm0m0r44nl.cloudfront.net
 0.0.0.0 dnsv1.com
 0.0.0.0 dolphin-featur-959dff-1596521323-137501366.eu-west-1.elb.amazonaws.com
-! allow dood.video reason: cdn
+# allow dood.video reason: cdn
 0.0.0.0 doodcdn.co
 0.0.0.0 doodcdn.com
 0.0.0.0 doofet3znwobe.cloudfront.net
 0.0.0.0 doofinder.com
 0.0.0.0 dorthin.com
-! allow bit.ly reason: Popular link shorter
+# allow bit.ly reason: Popular link shorter
 0.0.0.0 blau.de
 0.0.0.0 blizzard.com
 0.0.0.0 blogheim.at
@@ -14729,7 +14729,7 @@
 0.0.0.0 bounce-commerce.de
 0.0.0.0 br.de
 0.0.0.0 brainsland.com
-! allow brother.eu reason: not a tracker
+# allow brother.eu reason: not a tracker
 0.0.0.0 brytes.de
 0.0.0.0 bsmartdata.com
 0.0.0.0 btmboschcom.azureedge.net
@@ -14779,7 +14779,7 @@
 0.0.0.0 conative.network
 0.0.0.0 confiant-integrations.freetls.fastly.net
 0.0.0.0 congstar-media.de
-! allow conrad.de reason: not a trackeer
+# allow conrad.de reason: not a trackeer
 0.0.0.0 consentconverter.com
 
 
@@ -14789,7 +14789,7 @@
 0.0.0.0 addresseepaper.com
 0.0.0.0 adept-shop-ui.s3.us-east-2.amazonaws.com
 0.0.0.0 adgrid.io
-! allow adidas.ca reason: not a tracker
+# allow adidas.ca reason: not a tracker
 0.0.0.0 adiktive.b-cdn.net
 0.0.0.0 admind-cloud-storage.firebaseapp.com
 0.0.0.0 adminnobar21.xyz
@@ -14816,7 +14816,7 @@
 0.0.0.0 aicdn.com
 0.0.0.0 aimbase.com
 
-! allow aircanada.com reason: not a tracker
+# allow aircanada.com reason: not a tracker
 0.0.0.0 alaskaair.net
 0.0.0.0 alcmpn.com
 0.0.0.0 algbid.app
@@ -14867,7 +14867,7 @@
 0.0.0.0 crmservice.eu
 0.0.0.0 ctools.nl
 0.0.0.0 cubic-colors.nl
-! allow cuci.nl reason: CDN
+# allow cuci.nl reason: CDN
 0.0.0.0 custobar.com
 0.0.0.0 customersaas.com
 0.0.0.0 cvweu-igs-pr-cdn-001.azureedge.net
@@ -14884,7 +14884,7 @@
 0.0.0.0 d1q21flwrme95o.cloudfront.net
 0.0.0.0 d1wxoezmgmbkmb.cloudfront.net
 0.0.0.0 d1ygc727n2d4ey.cloudfront.net
-! allow d1z9autcf703pk.cloudfront.net reason: CDN
+# allow d1z9autcf703pk.cloudfront.net reason: CDN
 0.0.0.0 d1zoy6udo0cq8f.cloudfront.net
 0.0.0.0 d20ohkaloyme4g.cloudfront.net
 0.0.0.0 d258lu9myqkejp.cloudfront.net
@@ -14893,7 +14893,7 @@
 0.0.0.0 d2d7do8qaecbru.cloudfront.net
 0.0.0.0 d2ghehhx11czsj.cloudfront.net
 0.0.0.0 d2gqkshisthvn1.cloudfront.net
-! allow d2i2wahzwrm1n5.cloudfront.net reason: cdn
+# allow d2i2wahzwrm1n5.cloudfront.net reason: cdn
 0.0.0.0 d2iq7kcocq4ytp.cloudfront.net
 0.0.0.0 d2j0vvmolb3275.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -14920,7 +14920,7 @@
 0.0.0.0 d3or5d0jdz94or.cloudfront.net
 0.0.0.0 d3pce9ddsicpgw.cloudfront.net
 0.0.0.0 d3qtst53kh2p5e.cloudfront.net
-! allow d3r3h30p75xj6a.cloudfront.net reason: CDN
+# allow d3r3h30p75xj6a.cloudfront.net reason: CDN
 0.0.0.0 d3tw7elnk2m6f4.cloudfront.net
 0.0.0.0 d41.co
 0.0.0.0 dahta.fr
@@ -14928,26 +14928,26 @@
 0.0.0.0 dashboard.co.uk
 0.0.0.0 data-dynamic.net
 0.0.0.0 datasteam.io
-! allow datatables.net reason: not a tracker
+# allow datatables.net reason: not a tracker
 0.0.0.0 dataview.nl
-! allow datocms-assets.com reason: not a tracker
+# allow datocms-assets.com reason: not a tracker
 0.0.0.0 daznservices.com
 0.0.0.0 dealerinspire.com
 0.0.0.0 deernes.com
 0.0.0.0 defybrick.com
-! allow delonghigroup.com reason: not a tracker
+# allow delonghigroup.com reason: not a tracker
 
 0.0.0.0 dev-era-184513.ew.r.appspot.com
 0.0.0.0 dh0i9ryzlewh.cloudfront.net
-! allow dhlparcel.nl reason: not a tracker
+# allow dhlparcel.nl reason: not a tracker
 0.0.0.0 dhqbrvplips7x.cloudfront.net
 0.0.0.0 di-dtaectolog-us-prod-1.appspot.com
 0.0.0.0 dideo.ir
 0.0.0.0 diffuse.nl
-! allow digitaaldagblad.nl reason: not just a tracker
-! allow digitaloceanspaces.com reason: this just hosting
-! allow directferries.co.uk reason: not a tracker
-! allow discordapp.com reason: not a tracker
+# allow digitaaldagblad.nl reason: not just a tracker
+# allow digitaloceanspaces.com reason: this just hosting
+# allow directferries.co.uk reason: not a tracker
+# allow discordapp.com reason: not a tracker
 0.0.0.0 dismantlepenantiterrorist.com
 
 0.0.0.0 disney.com.edgesuite.net
@@ -14986,7 +14986,7 @@
 0.0.0.0 b92s.net
 0.0.0.0 bac.com
 0.0.0.0 bambora.com
-! allow bamgrid.com reason: Required for disney plus
+# allow bamgrid.com reason: Required for disney plus
 0.0.0.0 bangbrosonline.com
 0.0.0.0 barbmerchant.com
 0.0.0.0 barnebys.com
@@ -15007,7 +15007,7 @@
 0.0.0.0 bibliocommons.com
 0.0.0.0 bidgear.com
 0.0.0.0 bidsimulator.com
-! allow binance.com reason: not a tracker
+# allow binance.com reason: not a tracker
 0.0.0.0 binkies3d.com
 0.0.0.0 bizrate.com
 0.0.0.0 blindferret-trk.com
@@ -15027,7 +15027,7 @@
 0.0.0.0 360perspektiven.com
 
 
-! allow aboutyou.ch reason: not a tracker
+# allow aboutyou.ch reason: not a tracker
 0.0.0.0 abraxas-apis.ch
 0.0.0.0 abraxas-apps.ch
 0.0.0.0 acrevison.ch
@@ -15037,10 +15037,10 @@
 0.0.0.0 adconsole.ch
 0.0.0.0 adctrl.com
 0.0.0.0 adextrem.com
-! allow adidas.ch reason: not a tracker
+# allow adidas.ch reason: not a tracker
 0.0.0.0 adikteev.com
 0.0.0.0 admatic.com.tr
-! allow admin.ch reason: swiss gov not a tracker
+# allow admin.ch reason: swiss gov not a tracker
 0.0.0.0 adnuntius.delivery
 0.0.0.0 adpaths.com
 0.0.0.0 adpmbtj.com
@@ -15063,7 +15063,7 @@
 0.0.0.0 aliexpress.ru
 0.0.0.0 almamedia.net
 
-! allow americanairlines.ch reason: not a tracker
+# allow americanairlines.ch reason: not a tracker
 
 0.0.0.0 anbieter-vergleich.ch
 0.0.0.0 ancensored.com
@@ -15081,7 +15081,7 @@
 
 0.0.0.0 atype.jp
 0.0.0.0 aura-dsp.com
-! allow autoscout24.ch reason: not a tracker
+# allow autoscout24.ch reason: not a tracker
 0.0.0.0 az-cdn.ch
 0.0.0.0 babeforums.org
 0.0.0.0 backslash.ch
@@ -15125,9 +15125,9 @@
 0.0.0.0 cdnma.com
 0.0.0.0 cdntwrk.com
 0.0.0.0 cdnwebcloud.com
-! allow ch.ch reason: swiss gov
+# allow ch.ch reason: swiss gov
 
-! allow chart.googleapis.com reason: required library
+# allow chart.googleapis.com reason: required library
 0.0.0.0 checkfront.com
 0.0.0.0 chessabc.com
 0.0.0.0 1000otzyvov.com
@@ -15195,12 +15195,12 @@
 0.0.0.0 babase-on-web.com
 0.0.0.0 balena-cloud.com
 0.0.0.0 batiactu.com
-! allow bbci.co.uk reason: not a tracker
+# allow bbci.co.uk reason: not a tracker
 0.0.0.0 bcovery.com
 0.0.0.0 be-bop-alula.com
 0.0.0.0 beeroot.io
 0.0.0.0 beezup.com
-! allow behance.net reason: not a tracker
+# allow behance.net reason: not a tracker
 0.0.0.0 besmeargleor.com
 0.0.0.0 bestcontentfare.top
 0.0.0.0 bestzba.com
@@ -15233,8 +15233,8 @@
 0.0.0.0 calameo.com
 0.0.0.0 cambium-media.com
 0.0.0.0 camchickscaps.com
-! allow canal-plus.com reason: not a tracker
-! allow canalplus.com reason: not a tracker
+# allow canal-plus.com reason: not a tracker
+# allow canalplus.com reason: not a tracker
 0.0.0.0 canalplus.pro
 0.0.0.0 cannaclicks.com
 0.0.0.0 canstockphoto.com
@@ -15256,7 +15256,7 @@
 0.0.0.0 challenges.fr
 0.0.0.0 chaport.com
 0.0.0.0 chatfuel.com
-! allow ch.ch reason: swiss govaylimona.com
+# allow ch.ch reason: swiss govaylimona.com
 0.0.0.0 chlorobike.com
 0.0.0.0 ciblelink.com
 0.0.0.0 citiservi.es
@@ -15269,7 +15269,7 @@
 0.0.0.0 clubjimmy.com
 0.0.0.0 clustaar.io
 0.0.0.0 cms-experts.org
-! allow cnews.fr reason: not a tracker
+# allow cnews.fr reason: not a tracker
 0.0.0.0 coinerblog.com
 0.0.0.0 colisprive.com
 0.0.0.0 comarquage.fr
@@ -15284,10 +15284,10 @@
 0.0.0.0 adsdefender.com
 0.0.0.0 adultwork.com
 0.0.0.0 advertsource.co.uk
-! allow airfrance.fr reason: not a tracker
+# allow airfrance.fr reason: not a tracker
 0.0.0.0 alive5.com
 0.0.0.0 alphonso.tv
-! allow americanairlines.co.uk reason: not a tracker
+# allow americanairlines.co.uk reason: not a tracker
 0.0.0.0 answerbase.com
 0.0.0.0 antavo.com
 0.0.0.0 antiquestradegazette.com
@@ -15300,7 +15300,7 @@
 0.0.0.0 askanxiety.com
 0.0.0.0 asksid.ai
 
-! allow assets.nhs.uk reason: not a tracker
+# allow assets.nhs.uk reason: not a tracker
 0.0.0.0 atreemo.com
 0.0.0.0 audioboom.com
 0.0.0.0 autosynergy.co.uk
@@ -15309,10 +15309,10 @@
 0.0.0.0 aviva.io
 0.0.0.0 awaze.com
 0.0.0.0 awembd.com
-! allow awsnre.co.uk reason: Required for national rail
+# allow awsnre.co.uk reason: Required for national rail
 0.0.0.0 azrcdnprd01.azureedge.net
 0.0.0.0 bannerflow.com
-! allow basecamp-pwa-prod.com reason: not a tracker
+# allow basecamp-pwa-prod.com reason: not a tracker
 0.0.0.0 bauersecure.com
 0.0.0.0 bedful.com
 0.0.0.0 betfred.com
@@ -15333,7 +15333,7 @@
 0.0.0.0 camsoda.com
 0.0.0.0 camwhores.tv
 0.0.0.0 carbondmp.com
-! allow cardinalcommerce.com reason: required for braintree
+# allow cardinalcommerce.com reason: required for braintree
 0.0.0.0 castle.io
 0.0.0.0 cbmiocw.com
 0.0.0.0 cc-cdn.com
@@ -15357,11 +15357,11 @@
 0.0.0.0 convertcart.com
 0.0.0.0 cookieassistant.com
 0.0.0.0 cooladata.com
-! allow coop.co.uk reason: not a tracker
+# allow coop.co.uk reason: not a tracker
 0.0.0.0 copart.com
 0.0.0.0 corvidae.ai
 0.0.0.0 counciladvertising.net
-! allow cqc.org.uk reason: Not a tracker
+# allow cqc.org.uk reason: Not a tracker
 0.0.0.0 crocdn.co.uk
 0.0.0.0 crowdynews.com
 0.0.0.0 cruisecritic.co.uk
@@ -15451,7 +15451,7 @@
 0.0.0.0 statmap.eniro.com
 0.0.0.0 sentry.bazo.dk
 0.0.0.0 tags.adnuntius.com
-! allow lasso.blob.core.windows.net reason: image cdn
+# allow lasso.blob.core.windows.net reason: image cdn
 0.0.0.0 paqle.dk
 0.0.0.0 paqle.dk
 0.0.0.0 tredir.go.com
@@ -15479,7 +15479,7 @@
 0.0.0.0 metrics-drcn.dt.hicloud.com
 0.0.0.0 tindersparks.com
 0.0.0.0 logserver.hicloud.com
-! allow configserver.platform.hicloud.com reason: Required for EMUI updates
+# allow configserver.platform.hicloud.com reason: Required for EMUI updates
 0.0.0.0 connect-dre.dbankcloud.cn
 0.0.0.0 hispace.hicloud.com
 0.0.0.0 metrics6.data.hicloud.com
@@ -15493,9 +15493,9 @@
 0.0.0.0 push.hicloud.com
 0.0.0.0 dbankcloud.com
 0.0.0.0 dbankedge.net
-! allow update-dre.platform.hicloud.com reason: Required for EMUI updates
-! allow update.dbankcdn.com reason: Required for EMUI updates
-! allow query.hicloud.com reason: Required for EMUI updates
+# allow update-dre.platform.hicloud.com reason: Required for EMUI updates
+# allow update.dbankcdn.com reason: Required for EMUI updates
+# allow query.hicloud.com reason: Required for EMUI updates
 0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
@@ -15565,7 +15565,7 @@
 0.0.0.0 abyss.to
 0.0.0.0 agaenteitor.com
 0.0.0.0 apkarchive.ru
-! allow quadia.webtvframework.com reason: Required
+# allow quadia.webtvframework.com reason: Required
 0.0.0.0 quadia-nfs.s3-eu-west-1.amazonaws.com
 0.0.0.0 rid.webtvframework.com
 0.0.0.0 statistieken.pharmeon.nl
@@ -15681,22 +15681,22 @@
 0.0.0.0 t.indeed.com
 0.0.0.0 headfarming.com
 0.0.0.0 camel.headfarming.com
-! allow pyxis.nymag.com reason: images
+# allow pyxis.nymag.com reason: images
 0.0.0.0 cdn.concert.io
 0.0.0.0 sourcepoint.jezebel.com
 0.0.0.0 publica-ctv.com
 0.0.0.0 publica-project.com
 0.0.0.0 publica-stream.com
-! allow statcan.gc.ca reason: not a tracker
+# allow statcan.gc.ca reason: not a tracker
 0.0.0.0 livechat.prod.cloud.statcan.ca
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 engine.adglare.net
-! allow fcproxy.net reason: cdn
+# allow fcproxy.net reason: cdn
 0.0.0.0 js-exceptions.paylogic.com
 0.0.0.0 cdn.checkout.com
 0.0.0.0 syndetics.com
 0.0.0.0 unbound.syndetics.com
-! allow si-p.co.uk reason: cdn
+# allow si-p.co.uk reason: cdn
 0.0.0.0 ip-vn.com
 0.0.0.0 theme.autience.com
 0.0.0.0 add:theme.autience.com
@@ -15753,7 +15753,7 @@
 0.0.0.0 js.getlasso.co
 0.0.0.0 protagcdn.com
 0.0.0.0 cmp-cdn.cookielaw.org
-! allow novyny.online.ua reason: image cdn
+# allow novyny.online.ua reason: image cdn
 0.0.0.0 sdk.mrf.io
 0.0.0.0 mrf.io
 0.0.0.0 personalize.livemint.com
@@ -15834,7 +15834,7 @@
 0.0.0.0 atm-fp-direct.office.com
 0.0.0.0 audioscrobbler.com
 0.0.0.0 ws.audioscrobbler.com
-! allow api.cider.sh reason: required for app to start
+# allow api.cider.sh reason: required for app to start
 0.0.0.0 askyourself.app
 0.0.0.0 sentry.deepl.com
 0.0.0.0 analytics.streetwriters.co
@@ -15867,7 +15867,7 @@
 0.0.0.0 people-pa.clients6.google.com
 0.0.0.0 fonts.loli.net
 0.0.0.0 performics.com
-! allow tinyurl.com reason: Link shorter
+# allow tinyurl.com reason: Link shorter
 0.0.0.0 wipik.bit.nl
 0.0.0.0 smartsuppchat.com
 0.0.0.0 clicks.mlsend.com
@@ -15996,7 +15996,7 @@
 0.0.0.0 waitlisted.co
 0.0.0.0 wickedreports.com
 0.0.0.0 woopra.com
-! allow a.slack-edge.com reason: Required for slack, CDN
+# allow a.slack-edge.com reason: Required for slack, CDN
 0.0.0.0 engagebay.com
 0.0.0.0 appon.radiantthemes.com
 0.0.0.0 funnel.io
@@ -16673,7 +16673,7 @@
 0.0.0.0 happychat.io
 0.0.0.0 survey.fm
 0.0.0.0 ahoy.sendgrid.com
-! allow d15tnd3q55f8nl.cloudfront.net reason: required for twilio
+# allow d15tnd3q55f8nl.cloudfront.net reason: required for twilio
 0.0.0.0 rs-cdn.analytics.sparkpost.com
 0.0.0.0 analytics.sparkpost.com
 0.0.0.0 massmailpartner.com
@@ -16721,7 +16721,7 @@
 0.0.0.0 sstats.adobe.com
 0.0.0.0 ans.oobesaas.adobe.com
 0.0.0.0 evoke-windowsservices-tas.msedge.net
-! allow spclient.wg.spotify.com reason: Spotify
+# allow spclient.wg.spotify.com reason: Spotify
 0.0.0.0 fp.msedge.net
 0.0.0.0 k-ring.msedge.net
 0.0.0.0 b-ring.msedge.net
@@ -16729,10 +16729,10 @@
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 edge.activity.windows.com
-! allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
+# allow storecatalogrevocation.storequality.microsoft.com reason: revokation list
 0.0.0.0 manage.devcenter.microsoft.com
 0.0.0.0 settings.data.microsoft.com
-! allow wdcp.microsoft.com reason: Windows Defender
+# allow wdcp.microsoft.com reason: Windows Defender
 0.0.0.0 quickconnect.to
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 services.gfe.nvidia.com
@@ -16992,7 +16992,7 @@
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 businessmessages.google.com
-! allow go.microsoft.com reason: required
+# allow go.microsoft.com reason: required
 0.0.0.0 app.dmws.plus
 0.0.0.0 cms-api.dirk.nl
 0.0.0.0 api.fpjs.io
@@ -17291,7 +17291,7 @@
 0.0.0.0 bero-webspace.de
 0.0.0.0 tt.vg
 0.0.0.0 mrkt360.ca
-! allow ciitizenlab.co reason: not a tracker
+# allow ciitizenlab.co reason: not a tracker
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 kiwifarms.net
 0.0.0.0 clickless.link
@@ -17302,10 +17302,10 @@
 0.0.0.0 ucattachment.freshdesk.com
 0.0.0.0 cms.dopper.com
 0.0.0.0 awstrack.me
-! allow taxify.eu reason: Bolt
+# allow taxify.eu reason: Bolt
 0.0.0.0 d3smpkehiq8afm.cloudfront.net
 0.0.0.0 email.uber.com
-! allow node.bolt.eu reason: bolt taxi service
+# allow node.bolt.eu reason: bolt taxi service
 0.0.0.0 survey.apple.com
 0.0.0.0 go.dhlparcel.nl
 0.0.0.0 link.invitado.nl
@@ -17426,8 +17426,8 @@
 0.0.0.0 cdn.pdst.fm
 0.0.0.0 .clearbitjs.com
 0.0.0.0 js.qualified.com
-! allow techtarget.com reason: podcast cdn
-! allow s.pinimg.com reason: Pinterest
+# allow techtarget.com reason: podcast cdn
+# allow s.pinimg.com reason: Pinterest
 0.0.0.0 pixel.pointmediatracker.com
 0.0.0.0 pointmediatracker.com
 0.0.0.0 apt.techtarget.com
@@ -17545,7 +17545,7 @@
 0.0.0.0 api.soreto.com
 0.0.0.0 quividi.com
 0.0.0.0 takingbackjuly.com
-! allow thirdparty.jumpcloud.com reason: Required for Recaptcha
+# allow thirdparty.jumpcloud.com reason: Required for Recaptcha
 0.0.0.0 segmentcdn.jumpcloud.com
 0.0.0.0 daxherbal.in
 0.0.0.0 interpira.com.br
@@ -17603,7 +17603,7 @@
 0.0.0.0 js.bratpack.nl
 0.0.0.0 cm.com
 0.0.0.0 gifty.nl
-! allow xotap.nl reason: CDN
+# allow xotap.nl reason: CDN
 0.0.0.0 nieuwsbriefsysteem-static.nl
 0.0.0.0 nieuwsbriefsysteem.nl
 0.0.0.0 via.nieuwsbriefsysteem.nl
@@ -17674,7 +17674,7 @@
 0.0.0.0 track.customer.io
 0.0.0.0 partner.everydays.de
 0.0.0.0 cookiemanager.parliament.uk
-! allow omnycontent.com reason: podcast hosting
+# allow omnycontent.com reason: podcast hosting
 0.0.0.0 posthog.hss.element.io
 0.0.0.0 sentry.matrix.org
 0.0.0.0 temptation.nu.nl
@@ -18204,7 +18204,7 @@
 0.0.0.0 cert.sc
 0.0.0.0 alsycon.net
 0.0.0.0 events.facebook.com
-! allow aol.com reason: Not just ads
+# allow aol.com reason: Not just ads
 0.0.0.0 mydmp.com
 0.0.0.0 adblade.net
 0.0.0.0 komoona.com
@@ -18236,10 +18236,10 @@
 0.0.0.0 flxpxl.com
 0.0.0.0 visualdna.com
 0.0.0.0 stats.gridsuite.net
-! allow mailgun.com reason: email smtp
+# allow mailgun.com reason: email smtp
 0.0.0.0 mailjet.com
 0.0.0.0 sendgrid.com
-! allow mailchimp.com reason: platform required
+# allow mailchimp.com reason: platform required
 0.0.0.0 postmarkapp.com
 0.0.0.0 mandrill.com
 0.0.0.0 heatmaps.me
@@ -18383,7 +18383,7 @@
 0.0.0.0 fixthephoto.com
 0.0.0.0 trackfixthephoto.one
 0.0.0.0 hill-will.com.es
-! allow webshopapp.com reason: Webshop CDN by lightspeed
+# allow webshopapp.com reason: Webshop CDN by lightspeed
 0.0.0.0 postl.fi
 0.0.0.0 chatlayer.ai
 0.0.0.0 helderepromotie.site
@@ -19752,7 +19752,7 @@
 0.0.0.0 profiteren.eu
 0.0.0.0 enviso.io
 0.0.0.0 datadog.pool.ntp.org
-! allow getutm.app reason: VM software for macos
+# allow getutm.app reason: VM software for macos
 0.0.0.0 google.com.onion
 0.0.0.0 ib.isappcloud.com
 0.0.0.0 2.datadog.pool.ntp.org

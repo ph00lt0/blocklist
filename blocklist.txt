@@ -20366,3 +20366,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||lmsqueezy.com^
 ||analytics.0xecho.com^
 ||web.stytch.com^
+||adconfig.ster.nl^

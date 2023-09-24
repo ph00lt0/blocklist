@@ -19675,3 +19675,4 @@ local-zone: "lgmsapeweu.blob.core.windows.net." always_null
 local-zone: "lmsqueezy.com." always_null
 local-zone: "analytics.0xecho.com." always_null
 local-zone: "web.stytch.com." always_null
+local-zone: "adconfig.ster.nl." always_null

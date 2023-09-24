@@ -19672,3 +19672,4 @@ lgmsapeweu.blob.core.windows.net CNAME .
 lmsqueezy.com CNAME .
 analytics.0xecho.com CNAME .
 web.stytch.com CNAME .
+adconfig.ster.nl CNAME .

@@ -19672,3 +19672,4 @@ local-zone: "enterprise-eudb.activity.windows.com." always_null
 local-zone: "euc-powerpoint-telemetry.officeapps.live.com." always_null
 local-zone: "lgmsapeweu.blob.core.windows.net." always_null
 # allow dlcdnets.asus.com reason: ASUS updates
+local-zone: "lmsqueezy.com." always_null

@@ -19777,3 +19777,4 @@
 0.0.0.0 euc-powerpoint-telemetry.officeapps.live.com
 0.0.0.0 lgmsapeweu.blob.core.windows.net
 ! allow dlcdnets.asus.com reason: ASUS updates
+0.0.0.0 lmsqueezy.com

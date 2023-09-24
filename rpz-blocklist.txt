@@ -19669,3 +19669,4 @@ enterprise-eudb.activity.windows.com CNAME .
 euc-powerpoint-telemetry.officeapps.live.com CNAME .
 lgmsapeweu.blob.core.windows.net CNAME .
 ; allow dlcdnets.asus.com reason: ASUS updates
+lmsqueezy.com CNAME .

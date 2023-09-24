@@ -20364,3 +20364,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||lgmsapeweu.blob.core.windows.net^
 ||dlcdnets.asus.com^$badfilter  # ASUS updates
 ||lmsqueezy.com^
+||analytics.0xecho.com^

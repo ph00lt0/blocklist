@@ -19674,3 +19674,8 @@ analytics.0xecho.com CNAME .
 web.stytch.com CNAME .
 adconfig.ster.nl CNAME .
 licelus.com CNAME .
+spidersense.bendingspoons.com CNAME .
+thirtydayfitnessandroid.oracle.bendingspoonsapps.com CNAME .
+oracle.bendingspoonsapps.com CNAME .
+nearbysharing-pa.googleapis.com CNAME .
+amp.shazam.com CNAME .

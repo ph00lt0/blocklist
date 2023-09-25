@@ -19782,3 +19782,8 @@
 0.0.0.0 web.stytch.com
 0.0.0.0 adconfig.ster.nl
 0.0.0.0 licelus.com
+0.0.0.0 spidersense.bendingspoons.com
+0.0.0.0 thirtydayfitnessandroid.oracle.bendingspoonsapps.com
+0.0.0.0 oracle.bendingspoonsapps.com
+0.0.0.0 nearbysharing-pa.googleapis.com
+0.0.0.0 amp.shazam.com

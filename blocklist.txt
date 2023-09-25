@@ -20368,3 +20368,8 @@ hypotheek.nl###cookielaw_idf_overlay
 ||web.stytch.com^
 ||adconfig.ster.nl^
 ||licelus.com^
+||spidersense.bendingspoons.com^
+||thirtydayfitnessandroid.oracle.bendingspoonsapps.com^
+||oracle.bendingspoonsapps.com^
+||nearbysharing-pa.googleapis.com^
+||amp.shazam.com^

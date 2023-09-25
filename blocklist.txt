@@ -20373,3 +20373,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||oracle.bendingspoonsapps.com^
 ||nearbysharing-pa.googleapis.com^
 ||amp.shazam.com^
+||natuurlijke-analyse.nl^

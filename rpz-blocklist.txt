@@ -19679,3 +19679,4 @@ thirtydayfitnessandroid.oracle.bendingspoonsapps.com CNAME .
 oracle.bendingspoonsapps.com CNAME .
 nearbysharing-pa.googleapis.com CNAME .
 amp.shazam.com CNAME .
+natuurlijke-analyse.nl CNAME .

@@ -19787,3 +19787,4 @@
 0.0.0.0 oracle.bendingspoonsapps.com
 0.0.0.0 nearbysharing-pa.googleapis.com
 0.0.0.0 amp.shazam.com
+0.0.0.0 natuurlijke-analyse.nl

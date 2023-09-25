@@ -19682,3 +19682,4 @@ local-zone: "thirtydayfitnessandroid.oracle.bendingspoonsapps.com." always_null
 local-zone: "oracle.bendingspoonsapps.com." always_null
 local-zone: "nearbysharing-pa.googleapis.com." always_null
 local-zone: "amp.shazam.com." always_null
+local-zone: "natuurlijke-analyse.nl." always_null

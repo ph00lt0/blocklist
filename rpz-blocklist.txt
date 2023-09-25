@@ -19680,3 +19680,4 @@ oracle.bendingspoonsapps.com CNAME .
 nearbysharing-pa.googleapis.com CNAME .
 amp.shazam.com CNAME .
 natuurlijke-analyse.nl CNAME .
+appgw.conviva.com CNAME .

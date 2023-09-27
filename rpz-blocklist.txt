@@ -19682,3 +19682,4 @@ amp.shazam.com CNAME .
 natuurlijke-analyse.nl CNAME .
 appgw.conviva.com CNAME .
 kbowebbncb.com CNAME .
+totalpower.nl CNAME .

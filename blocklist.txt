@@ -20376,3 +20376,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||natuurlijke-analyse.nl^
 ||appgw.conviva.com^
 ||kbowebbncb.com^
+||totalpower.nl^

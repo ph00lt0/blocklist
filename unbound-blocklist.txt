@@ -19693,3 +19693,4 @@ local-zone: "metadata.io." always_null
 local-zone: "exactis.com." always_null
 local-zone: "privacyportal.onetrust.com." always_null
 local-zone: "web-sdk.aptrinsic.com." always_null
+local-zone: "dap.amsterdam.nl." always_null

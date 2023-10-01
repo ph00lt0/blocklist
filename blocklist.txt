@@ -20390,3 +20390,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||exactis.com^
 ||privacyportal.onetrust.com^
 ||web-sdk.aptrinsic.com^
+||dap.amsterdam.nl^

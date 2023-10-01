@@ -19689,3 +19689,4 @@ zi-scripts.com CNAME .
 metadata.io CNAME .
 exactis.com CNAME .
 privacyportal.onetrust.com CNAME .
+web-sdk.aptrinsic.com CNAME .

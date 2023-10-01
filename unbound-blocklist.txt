@@ -19691,3 +19691,4 @@ local-zone: "xerolytics.xero.com." always_null
 local-zone: "zi-scripts.com." always_null
 local-zone: "metadata.io." always_null
 local-zone: "exactis.com." always_null
+local-zone: "privacyportal.onetrust.com." always_null

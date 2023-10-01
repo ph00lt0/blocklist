@@ -19687,3 +19687,4 @@ acru.io CNAME .
 xerolytics.xero.com CNAME .
 zi-scripts.com CNAME .
 metadata.io CNAME .
+exactis.com CNAME .

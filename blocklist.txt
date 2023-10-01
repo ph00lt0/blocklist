@@ -20381,3 +20381,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||xerolytics.xero.com^
 ^analytics.js^
 ^autotrack.js^
+^newrelic-browser-client.min.js^

@@ -19686,3 +19686,4 @@ totalpower.nl CNAME .
 acru.io CNAME .
 xerolytics.xero.com CNAME .
 zi-scripts.com CNAME .
+metadata.io CNAME .

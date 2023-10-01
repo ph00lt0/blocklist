@@ -19689,3 +19689,4 @@ local-zone: "totalpower.nl." always_null
 local-zone: "acru.io." always_null
 local-zone: "xerolytics.xero.com." always_null
 local-zone: "zi-scripts.com." always_null
+local-zone: "metadata.io." always_null

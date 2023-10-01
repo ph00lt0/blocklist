@@ -19695,3 +19695,4 @@ analytics.greenhost.net CNAME .
 hologramers.live CNAME .
 zorbamaster.com CNAME .
 270degrees.io CNAME .
+freshworks.com CNAME .

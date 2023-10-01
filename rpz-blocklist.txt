@@ -19683,3 +19683,5 @@ natuurlijke-analyse.nl CNAME .
 appgw.conviva.com CNAME .
 kbowebbncb.com CNAME .
 totalpower.nl CNAME .
+acru.io CNAME .
+xerolytics.xero.com CNAME .

@@ -20377,3 +20377,5 @@ hypotheek.nl###cookielaw_idf_overlay
 ||appgw.conviva.com^
 ||kbowebbncb.com^
 ||totalpower.nl^
+||acru.io^
+||xerolytics.xero.com^

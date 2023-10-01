@@ -19686,3 +19686,5 @@ local-zone: "natuurlijke-analyse.nl." always_null
 local-zone: "appgw.conviva.com." always_null
 local-zone: "kbowebbncb.com." always_null
 local-zone: "totalpower.nl." always_null
+local-zone: "acru.io." always_null
+local-zone: "xerolytics.xero.com." always_null

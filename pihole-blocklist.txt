@@ -19791,3 +19791,5 @@
 0.0.0.0 appgw.conviva.com
 0.0.0.0 kbowebbncb.com
 0.0.0.0 totalpower.nl
+0.0.0.0 acru.io
+0.0.0.0 xerolytics.xero.com

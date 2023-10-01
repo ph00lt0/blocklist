@@ -19685,3 +19685,4 @@ kbowebbncb.com CNAME .
 totalpower.nl CNAME .
 acru.io CNAME .
 xerolytics.xero.com CNAME .
+zi-scripts.com CNAME .

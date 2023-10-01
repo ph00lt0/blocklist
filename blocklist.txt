@@ -20384,3 +20384,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ^newrelic-browser-client.min.js^
 ^newrelic-browser-client.min.js^
 ^dataplane.rudderstack.com^
+||zi-scripts.com^

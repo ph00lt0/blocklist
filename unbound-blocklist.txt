@@ -19695,3 +19695,4 @@ local-zone: "privacyportal.onetrust.com." always_null
 local-zone: "web-sdk.aptrinsic.com." always_null
 local-zone: "dap.amsterdam.nl." always_null
 local-zone: "analytics.greenhost.net." always_null
+local-zone: "hologramers.live." always_null

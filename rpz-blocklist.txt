@@ -19692,3 +19692,4 @@ privacyportal.onetrust.com CNAME .
 web-sdk.aptrinsic.com CNAME .
 dap.amsterdam.nl CNAME .
 analytics.greenhost.net CNAME .
+hologramers.live CNAME .

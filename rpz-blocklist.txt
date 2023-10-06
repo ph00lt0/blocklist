@@ -19699,3 +19699,4 @@ freshworks.com CNAME .
 u9pxeznuhf9p.mycopilot.com CNAME .
 gtm.reflect.app CNAME .
 shrill-definition.com CNAME .
+userapi.com CNAME .

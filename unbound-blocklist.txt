@@ -19702,3 +19702,4 @@ local-zone: "freshworks.com." always_null
 local-zone: "u9pxeznuhf9p.mycopilot.com." always_null
 local-zone: "gtm.reflect.app." always_null
 local-zone: "shrill-definition.com." always_null
+local-zone: "userapi.com." always_null

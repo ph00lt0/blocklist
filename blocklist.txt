@@ -20400,3 +20400,6 @@ hypotheek.nl###cookielaw_idf_overlay
 ||gtm.reflect.app^
 ||shrill-definition.com^
 ||userapi.com^
+||bc.independer.nl^
+||t.independer.nl^
+||ds.independer.nl^

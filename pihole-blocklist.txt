@@ -19808,3 +19808,6 @@
 0.0.0.0 gtm.reflect.app
 0.0.0.0 shrill-definition.com
 0.0.0.0 userapi.com
+0.0.0.0 bc.independer.nl
+0.0.0.0 t.independer.nl
+0.0.0.0 ds.independer.nl

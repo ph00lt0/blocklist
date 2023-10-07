@@ -19700,3 +19700,6 @@ u9pxeznuhf9p.mycopilot.com CNAME .
 gtm.reflect.app CNAME .
 shrill-definition.com CNAME .
 userapi.com CNAME .
+bc.independer.nl CNAME .
+t.independer.nl CNAME .
+ds.independer.nl CNAME .

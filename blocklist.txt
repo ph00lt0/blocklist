@@ -20405,3 +20405,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||t.independer.nl^
 ||ds.independer.nl^
 ||start-player.npo.nl/js/conviva/conviva-videojs-module.js^
+npo.nl##ccm-notification

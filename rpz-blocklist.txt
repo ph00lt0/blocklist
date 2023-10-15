@@ -14659,7 +14659,7 @@ clerk.io CNAME .
 clickforknowledge.com CNAME .
 clickskeks.at CNAME .
 clickskekssys.at CNAME .
-cloudflarestream.com CNAME .
+; allow cloudflarestream.com reason: Cloudflare video CDN
 cmadserver.de CNAME .
 cmcdn.de CNAME .
 cmp-resources.link CNAME .

@@ -14662,7 +14662,7 @@ local-zone: "clerk.io." always_null
 local-zone: "clickforknowledge.com." always_null
 local-zone: "clickskeks.at." always_null
 local-zone: "clickskekssys.at." always_null
-local-zone: "cloudflarestream.com." always_null
+# allow cloudflarestream.com reason: Cloudflare video CDN
 local-zone: "cmadserver.de." always_null
 local-zone: "cmcdn.de." always_null
 local-zone: "cmp-resources.link." always_null

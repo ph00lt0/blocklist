@@ -15088,7 +15088,7 @@ $removeparam=engagement_type
 ||clickforknowledge.com^
 ||clickskeks.at^
 ||clickskekssys.at^
-||cloudflarestream.com^
+||cloudflarestream.com^$badfilter  # Cloudflare video CDN
 ||cmadserver.de^
 ||cmcdn.de^
 ||cmp-resources.link^

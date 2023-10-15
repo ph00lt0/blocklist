@@ -14767,7 +14767,7 @@
 0.0.0.0 clickforknowledge.com
 0.0.0.0 clickskeks.at
 0.0.0.0 clickskekssys.at
-0.0.0.0 cloudflarestream.com
+! allow cloudflarestream.com reason: Cloudflare video CDN
 0.0.0.0 cmadserver.de
 0.0.0.0 cmcdn.de
 0.0.0.0 cmp-resources.link

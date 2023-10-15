@@ -4125,7 +4125,7 @@
 ||idp.mysph.sph.com.sg^
 ||geoip.fedoraproject.org^
 ||beans.opensuse.org^
-||pips-bnnvara.cdn.prepr.io^
+||pips-bnnvara.cdn.prepr.io^$badfilter  # Photo CDN
 ||fonts.bnnvara.nl^
 ||ads.vidoomy.com^
 ||vidoomy.com^

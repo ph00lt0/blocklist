@@ -4046,7 +4046,7 @@ local-zone: "adtag.sphdigital.com." always_null
 local-zone: "idp.mysph.sph.com.sg." always_null
 local-zone: "geoip.fedoraproject.org." always_null
 local-zone: "beans.opensuse.org." always_null
-local-zone: "pips-bnnvara.cdn.prepr.io." always_null
+# allow pips-bnnvara.cdn.prepr.io reason: Photo CDN
 local-zone: "fonts.bnnvara.nl." always_null
 local-zone: "ads.vidoomy.com." always_null
 local-zone: "vidoomy.com." always_null

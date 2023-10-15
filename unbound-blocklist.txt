@@ -2480,7 +2480,7 @@ local-zone: "cookies.avrotros.nl." always_null
 local-zone: "hub.npo-data.nl." always_null
 local-zone: "riddle.com." always_null
 local-zone: "riddle.com." always_null
-local-zone: "prepr.io." always_null
+# allow prepr.io reason: Photo CDN
 local-zone: "portal-bnnvara.cdn.prepr.io." always_null
 local-zone: "overmijnlijk-bnnvara.cdn.prepr.io." always_null
 local-zone: "vroegevogels-bnnvara.cdn.prepr.io." always_null

@@ -2528,7 +2528,7 @@
 0.0.0.0 hub.npo-data.nl
 0.0.0.0 riddle.com
 0.0.0.0 riddle.com
-0.0.0.0 prepr.io
+! allow prepr.io reason: Photo CDN
 0.0.0.0 portal-bnnvara.cdn.prepr.io
 0.0.0.0 overmijnlijk-bnnvara.cdn.prepr.io
 0.0.0.0 vroegevogels-bnnvara.cdn.prepr.io

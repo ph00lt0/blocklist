@@ -2478,11 +2478,11 @@ cookies.avrotros.nl CNAME .
 hub.npo-data.nl CNAME .
 riddle.com CNAME .
 riddle.com CNAME .
-prepr.io CNAME .
-portal-bnnvara.cdn.prepr.io CNAME .
-overmijnlijk-bnnvara.cdn.prepr.io CNAME .
-vroegevogels-bnnvara.cdn.prepr.io CNAME .
-zembla-bnnvara.cdn.prepr.io CNAME .
+; allow prepr.io reason: Photo CDN
+portal-bnnvara.cdn.; allow prepr.io reason: Photo CDN
+overmijnlijk-bnnvara.cdn.; allow prepr.io reason: Photo CDN
+vroegevogels-bnnvara.cdn.; allow prepr.io reason: Photo CDN
+zembla-bnnvara.cdn.; allow prepr.io reason: Photo CDN
 forms.kro-ncrv.nl CNAME .
 cq.omroepzwart.nl CNAME .
 o468856.ingest.sentry.io CNAME .
@@ -4044,7 +4044,7 @@ adtag.sphdigital.com CNAME .
 idp.mysph.sph.com.sg CNAME .
 geoip.fedoraproject.org CNAME .
 beans.opensuse.org CNAME .
-pips-bnnvara.cdn.prepr.io CNAME .
+pips-bnnvara.cdn.; allow prepr.io reason: Photo CDN
 fonts.bnnvara.nl CNAME .
 ads.vidoomy.com CNAME .
 vidoomy.com CNAME .

@@ -18876,7 +18876,7 @@ nuget.org###cookie-banner
 ||instagramscraperapi.com^
 ||telemetrics.klaviyo.com^
 ||static-tracking.klaviyo.com^
-||chp4.io^
+||chp4.io^$badfilter  # Streaming NPO
 ||internxt.com^
 ||savba.sk^
 ||bestverticals.com^

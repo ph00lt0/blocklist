@@ -2530,7 +2530,7 @@
 0.0.0.0 riddle.com
 ! allow prepr.io reason: Photo CDN
 ! allow portal-bnnvara.cdn.prepr.io reason: Photo CDN
-0.0.0.0 overmijnlijk-bnnvara.cdn.prepr.io
+! allow overmijnlijk-bnnvara.cdn.prepr.io reason: Photo CDN
 0.0.0.0 vroegevogels-bnnvara.cdn.prepr.io
 0.0.0.0 zembla-bnnvara.cdn.prepr.io
 0.0.0.0 forms.kro-ncrv.nl

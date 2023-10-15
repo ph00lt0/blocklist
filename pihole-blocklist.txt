@@ -2532,7 +2532,7 @@
 ! allow portal-bnnvara.cdn.prepr.io reason: Photo CDN
 ! allow overmijnlijk-bnnvara.cdn.prepr.io reason: Photo CDN
 ! allow vroegevogels-bnnvara.cdn.prepr.io reason: Photo CDN
-0.0.0.0 zembla-bnnvara.cdn.prepr.io
+! allow zembla-bnnvara.cdn.prepr.io reason: Photo CDN
 0.0.0.0 forms.kro-ncrv.nl
 0.0.0.0 cq.omroepzwart.nl
 0.0.0.0 o468856.ingest.sentry.io

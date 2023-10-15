@@ -2484,7 +2484,7 @@ local-zone: "riddle.com." always_null
 # allow portal-bnnvara.cdn.prepr.io reason: Photo CDN
 # allow overmijnlijk-bnnvara.cdn.prepr.io reason: Photo CDN
 # allow vroegevogels-bnnvara.cdn.prepr.io reason: Photo CDN
-local-zone: "zembla-bnnvara.cdn.prepr.io." always_null
+# allow zembla-bnnvara.cdn.prepr.io reason: Photo CDN
 local-zone: "forms.kro-ncrv.nl." always_null
 local-zone: "cq.omroepzwart.nl." always_null
 local-zone: "o468856.ingest.sentry.io." always_null

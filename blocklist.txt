@@ -2537,7 +2537,7 @@
 ||portal-bnnvara.cdn.prepr.io^$badfilter  # Photo CDN
 ||overmijnlijk-bnnvara.cdn.prepr.io^$badfilter  # Photo CDN
 ||vroegevogels-bnnvara.cdn.prepr.io^$badfilter  # Photo CDN
-||zembla-bnnvara.cdn.prepr.io^
+||zembla-bnnvara.cdn.prepr.io^$badfilter  # Photo CDN
 ||forms.kro-ncrv.nl^
 ||cq.omroepzwart.nl^
 ||o468856.ingest.sentry.io^

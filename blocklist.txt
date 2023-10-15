@@ -7175,6 +7175,7 @@ nos.nl##+js(cookie-remover, kantar_id)
 ||static.nos.nl/smartocto/insights/v1.0.0/stf.js^
 ||static.nos.nl/smartocto/tentacles/v*/tentacle.js^
 ||static.nos.nl/js/sts.js^
+||static.nos.nl/getfeedback/getfeedback.js^
 nos.nl##+js(cookie-remover, atidvisitor)
 nos.nl##+js(cookie-remover, atuserid)
 nos.nl##+js(cookie-remover, _ain_uid)
@@ -20403,3 +20404,4 @@ hypotheek.nl###cookielaw_idf_overlay
 ||bc.independer.nl^
 ||t.independer.nl^
 ||ds.independer.nl^
+||start-player.npo.nl/js/conviva/conviva-videojs-module.js^

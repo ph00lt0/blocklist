@@ -14805,7 +14805,7 @@ d36mpcpuzc4ztk.cloudfront.net CNAME .
 d39ion77s0ucuz.cloudfront.net CNAME .
 d3jevfqonw59g3.cloudfront.net CNAME .
 d3jmu47mczi4z5.cloudfront.net CNAME .
-d3jruqy3qmm3fd.cloudfront.net CNAME .
+; allow d3jruqy3qmm3fd.cloudfront.net reason: CDN
 d3js.org CNAME .
 d3lhfgl03cenfh.cloudfront.net CNAME .
 d3odp2r1osuwn0.cloudfront.net CNAME .

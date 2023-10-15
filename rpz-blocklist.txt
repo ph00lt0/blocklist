@@ -19703,3 +19703,4 @@ userapi.com CNAME .
 bc.independer.nl CNAME .
 t.independer.nl CNAME .
 ds.independer.nl CNAME .
+insight.ftm.nl CNAME .

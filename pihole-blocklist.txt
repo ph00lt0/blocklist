@@ -19811,3 +19811,4 @@
 0.0.0.0 bc.independer.nl
 0.0.0.0 t.independer.nl
 0.0.0.0 ds.independer.nl
+0.0.0.0 insight.ftm.nl

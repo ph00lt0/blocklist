@@ -19711,3 +19711,4 @@ local-zone: "pushalert.co." always_null
 local-zone: "event.92.2.56.10.in-addr.arpa." always_null
 local-zone: "logacom.nl." always_null
 local-zone: "ws.batch.com." always_null
+local-zone: "wsmetrics.batch.com." always_null

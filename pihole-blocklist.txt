@@ -19816,3 +19816,4 @@
 0.0.0.0 event.92.2.56.10.in-addr.arpa
 0.0.0.0 logacom.nl
 0.0.0.0 ws.batch.com
+0.0.0.0 wsmetrics.batch.com

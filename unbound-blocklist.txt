@@ -19707,3 +19707,4 @@ local-zone: "bc.independer.nl." always_null
 local-zone: "t.independer.nl." always_null
 local-zone: "ds.independer.nl." always_null
 local-zone: "insight.ftm.nl." always_null
+local-zone: "pushalert.co." always_null

@@ -19178,6 +19178,7 @@
         "wsmetrics.batch.com",
         "gum.criteo.com",
         "events.mapbox.com",
-        "customer.ns-mlab.nl"
+        "customer.ns-mlab.nl",
+        "ns-mlab.nl"
     ]
 }

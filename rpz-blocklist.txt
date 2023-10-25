@@ -19705,3 +19705,4 @@ t.independer.nl CNAME .
 ds.independer.nl CNAME .
 insight.ftm.nl CNAME .
 pushalert.co CNAME .
+event.92.2.56.10.in-addr.arpa CNAME .

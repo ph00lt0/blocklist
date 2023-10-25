@@ -20410,3 +20410,4 @@ npo.nl##ccm-notification
 ||pushalert.co^
 ||event.92.2.56.10.in-addr.arpa^
 ||logacom.nl^
+||ws.batch.com^

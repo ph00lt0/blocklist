@@ -19814,3 +19814,4 @@
 0.0.0.0 insight.ftm.nl
 0.0.0.0 pushalert.co
 0.0.0.0 event.92.2.56.10.in-addr.arpa
+0.0.0.0 logacom.nl

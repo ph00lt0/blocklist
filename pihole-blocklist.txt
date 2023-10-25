@@ -19819,3 +19819,4 @@
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 events.mapbox.com
+0.0.0.0 customer.ns-mlab.nl

@@ -19817,3 +19817,4 @@
 0.0.0.0 logacom.nl
 0.0.0.0 ws.batch.com
 0.0.0.0 wsmetrics.batch.com
+0.0.0.0 gum.criteo.com

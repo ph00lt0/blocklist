@@ -19709,3 +19709,4 @@ event.92.2.56.10.in-addr.arpa CNAME .
 logacom.nl CNAME .
 ws.batch.com CNAME .
 wsmetrics.batch.com CNAME .
+gum.criteo.com CNAME .

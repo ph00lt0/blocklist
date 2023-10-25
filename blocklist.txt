@@ -20412,3 +20412,4 @@ npo.nl##ccm-notification
 ||logacom.nl^
 ||ws.batch.com^
 ||wsmetrics.batch.com^
+||gum.criteo.com^

@@ -19710,3 +19710,4 @@ logacom.nl CNAME .
 ws.batch.com CNAME .
 wsmetrics.batch.com CNAME .
 gum.criteo.com CNAME .
+events.mapbox.com CNAME .

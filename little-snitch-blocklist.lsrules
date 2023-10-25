@@ -19176,6 +19176,7 @@
         "logacom.nl",
         "ws.batch.com",
         "wsmetrics.batch.com",
-        "gum.criteo.com"
+        "gum.criteo.com",
+        "events.mapbox.com"
     ]
 }

@@ -20413,3 +20413,4 @@ npo.nl##ccm-notification
 ||ws.batch.com^
 ||wsmetrics.batch.com^
 ||gum.criteo.com^
+||events.mapbox.com^

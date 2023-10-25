@@ -19713,3 +19713,4 @@ local-zone: "logacom.nl." always_null
 local-zone: "ws.batch.com." always_null
 local-zone: "wsmetrics.batch.com." always_null
 local-zone: "gum.criteo.com." always_null
+local-zone: "events.mapbox.com." always_null

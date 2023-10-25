@@ -19716,3 +19716,4 @@ local-zone: "gum.criteo.com." always_null
 local-zone: "events.mapbox.com." always_null
 local-zone: "customer.ns-mlab.nl." always_null
 local-zone: "ns-mlab.nl." always_null
+local-zone: "shareaholic.net." always_null

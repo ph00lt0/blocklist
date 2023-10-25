@@ -19713,3 +19713,4 @@ gum.criteo.com CNAME .
 events.mapbox.com CNAME .
 customer.ns-mlab.nl CNAME .
 ns-mlab.nl CNAME .
+shareaholic.net CNAME .

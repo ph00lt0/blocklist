@@ -19824,3 +19824,9 @@
 0.0.0.0 shareaholic.net
 0.0.0.0 gravitec.net
 0.0.0.0 optinly.net
+0.0.0.0 notificare.com
+0.0.0.0 notifica.re
+0.0.0.0 stats.gc.fe.apple-dns.net
+0.0.0.0 crypto.shop.postnl.nl
+0.0.0.0 usbla.net
+0.0.0.0 tkbo.com

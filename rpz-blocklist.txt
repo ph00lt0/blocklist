@@ -19716,3 +19716,9 @@ ns-mlab.nl CNAME .
 shareaholic.net CNAME .
 gravitec.net CNAME .
 optinly.net CNAME .
+notificare.com CNAME .
+notifica.re CNAME .
+stats.gc.fe.apple-dns.net CNAME .
+crypto.shop.postnl.nl CNAME .
+usbla.net CNAME .
+tkbo.com CNAME .

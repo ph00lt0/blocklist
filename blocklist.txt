@@ -20419,3 +20419,9 @@ npo.nl##ccm-notification
 ||shareaholic.net^
 ||gravitec.net^
 ||optinly.net^
+||notificare.com^
+||notifica.re^
+||stats.gc.fe.apple-dns.net^
+||crypto.shop.postnl.nl^
+||usbla.net^
+||tkbo.com^

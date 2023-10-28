@@ -19719,3 +19719,9 @@ local-zone: "ns-mlab.nl." always_null
 local-zone: "shareaholic.net." always_null
 local-zone: "gravitec.net." always_null
 local-zone: "optinly.net." always_null
+local-zone: "notificare.com." always_null
+local-zone: "notifica.re." always_null
+local-zone: "stats.gc.fe.apple-dns.net." always_null
+local-zone: "crypto.shop.postnl.nl." always_null
+local-zone: "usbla.net." always_null
+local-zone: "tkbo.com." always_null

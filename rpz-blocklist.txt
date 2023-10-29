@@ -1480,7 +1480,7 @@ bsp.pxucdn.com CNAME .
 hextom.com CNAME .
 cdn.hextom.com CNAME .
 prg.smartadserver.com CNAME .
-g.whatsapp.net CNAME .
+; allow g.whatsapp.net reason: media linking
 c1.iggcdn.com CNAME .
 omnisnippet1.com CNAME .
 cdn.refersion.com CNAME .

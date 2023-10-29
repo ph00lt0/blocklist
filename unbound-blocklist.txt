@@ -1482,7 +1482,7 @@ local-zone: "bsp.pxucdn.com." always_null
 local-zone: "hextom.com." always_null
 local-zone: "cdn.hextom.com." always_null
 local-zone: "prg.smartadserver.com." always_null
-local-zone: "g.whatsapp.net." always_null
+# allow g.whatsapp.net reason: media linking
 local-zone: "c1.iggcdn.com." always_null
 local-zone: "omnisnippet1.com." always_null
 local-zone: "cdn.refersion.com." always_null

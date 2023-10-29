@@ -1522,7 +1522,7 @@
 ||hextom.com^
 ||cdn.hextom.com^
 ||prg.smartadserver.com^
-||g.whatsapp.net^
+||g.whatsapp.net^$badfilter  # media linking
 ||c1.iggcdn.com^
 ||iggcdn.com^$badfilter  # Not a tracker
 ||omnisnippet1.com^

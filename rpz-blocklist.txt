@@ -19722,3 +19722,4 @@ stats.gc.fe.apple-dns.net CNAME .
 crypto.shop.postnl.nl CNAME .
 usbla.net CNAME .
 tkbo.com CNAME .
+aqueduct.revolut.com CNAME .

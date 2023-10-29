@@ -19725,3 +19725,4 @@ local-zone: "stats.gc.fe.apple-dns.net." always_null
 local-zone: "crypto.shop.postnl.nl." always_null
 local-zone: "usbla.net." always_null
 local-zone: "tkbo.com." always_null
+local-zone: "aqueduct.revolut.com." always_null

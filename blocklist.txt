@@ -20425,3 +20425,4 @@ npo.nl##ccm-notification
 ||crypto.shop.postnl.nl^
 ||usbla.net^
 ||tkbo.com^
+||aqueduct.revolut.com^

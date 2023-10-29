@@ -19723,3 +19723,15 @@ crypto.shop.postnl.nl CNAME .
 usbla.net CNAME .
 tkbo.com CNAME .
 aqueduct.revolut.com CNAME .
+txrx.bol.com CNAME .
+intake-analytics.wikimedia.org CNAME .
+t.vtwonen.nl CNAME .
+applets.ebxcdn.com CNAME .
+cmp.vtwonen.nl CNAME .
+temptation.vtwonen.nl CNAME .
+salesiq.zohopublic.eu CNAME .
+ternairsoftware.com CNAME .
+ternair.bnnvara.nl CNAME .
+ternair.com CNAME .
+q42stats.ew.r.appspot.com CNAME .
+youboranqs01.com CNAME .

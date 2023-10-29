@@ -19726,3 +19726,15 @@ local-zone: "crypto.shop.postnl.nl." always_null
 local-zone: "usbla.net." always_null
 local-zone: "tkbo.com." always_null
 local-zone: "aqueduct.revolut.com." always_null
+local-zone: "txrx.bol.com." always_null
+local-zone: "intake-analytics.wikimedia.org." always_null
+local-zone: "t.vtwonen.nl." always_null
+local-zone: "applets.ebxcdn.com." always_null
+local-zone: "cmp.vtwonen.nl." always_null
+local-zone: "temptation.vtwonen.nl." always_null
+local-zone: "salesiq.zohopublic.eu." always_null
+local-zone: "ternairsoftware.com." always_null
+local-zone: "ternair.bnnvara.nl." always_null
+local-zone: "ternair.com." always_null
+local-zone: "q42stats.ew.r.appspot.com." always_null
+local-zone: "youboranqs01.com." always_null

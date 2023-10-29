@@ -19831,3 +19831,15 @@
 0.0.0.0 usbla.net
 0.0.0.0 tkbo.com
 0.0.0.0 aqueduct.revolut.com
+0.0.0.0 txrx.bol.com
+0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 t.vtwonen.nl
+0.0.0.0 applets.ebxcdn.com
+0.0.0.0 cmp.vtwonen.nl
+0.0.0.0 temptation.vtwonen.nl
+0.0.0.0 salesiq.zohopublic.eu
+0.0.0.0 ternairsoftware.com
+0.0.0.0 ternair.bnnvara.nl
+0.0.0.0 ternair.com
+0.0.0.0 q42stats.ew.r.appspot.com
+0.0.0.0 youboranqs01.com

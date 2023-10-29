@@ -19736,3 +19736,4 @@ ternair.com CNAME .
 q42stats.ew.r.appspot.com CNAME .
 youboranqs01.com CNAME .
 snarf.evebox.org CNAME .
+events.api.secureserver.net CNAME .

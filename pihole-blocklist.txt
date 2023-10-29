@@ -19844,3 +19844,4 @@
 0.0.0.0 q42stats.ew.r.appspot.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 snarf.evebox.org
+0.0.0.0 events.api.secureserver.net

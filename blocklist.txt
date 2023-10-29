@@ -20439,3 +20439,4 @@ npo.nl##ccm-notification
 ||q42stats.ew.r.appspot.com^
 ||youboranqs01.com^
 ||snarf.evebox.org^
+||events.api.secureserver.net^

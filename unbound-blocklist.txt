@@ -19738,3 +19738,4 @@ local-zone: "ternair.bnnvara.nl." always_null
 local-zone: "ternair.com." always_null
 local-zone: "q42stats.ew.r.appspot.com." always_null
 local-zone: "youboranqs01.com." always_null
+local-zone: "snarf.evebox.org." always_null

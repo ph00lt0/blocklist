@@ -19748,3 +19748,4 @@ local-zone: "surveys.lidlplus.com." always_null
 local-zone: "faqts.net." always_null
 local-zone: "pushmaster-cdn.xyz." always_null
 local-zone: "dynatrace.schwarz." always_null
+local-zone: "formlets.com." always_null

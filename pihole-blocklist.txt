@@ -19845,3 +19845,11 @@
 0.0.0.0 youboranqs01.com
 0.0.0.0 snarf.evebox.org
 0.0.0.0 events.api.secureserver.net
+0.0.0.0 bbvms.com
+0.0.0.0 infusionsoft.app
+0.0.0.0 infusionsoft.com
+0.0.0.0 alerts.lidlplus.com
+0.0.0.0 surveys.lidlplus.com
+0.0.0.0 faqts.net
+0.0.0.0 pushmaster-cdn.xyz
+0.0.0.0 dynatrace.schwarz

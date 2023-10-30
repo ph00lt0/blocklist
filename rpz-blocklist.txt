@@ -19737,3 +19737,11 @@ q42stats.ew.r.appspot.com CNAME .
 youboranqs01.com CNAME .
 snarf.evebox.org CNAME .
 events.api.secureserver.net CNAME .
+bbvms.com CNAME .
+infusionsoft.app CNAME .
+infusionsoft.com CNAME .
+alerts.lidlplus.com CNAME .
+surveys.lidlplus.com CNAME .
+faqts.net CNAME .
+pushmaster-cdn.xyz CNAME .
+dynatrace.schwarz CNAME .

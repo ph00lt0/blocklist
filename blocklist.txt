@@ -20440,3 +20440,11 @@ npo.nl##ccm-notification
 ||youboranqs01.com^
 ||snarf.evebox.org^
 ||events.api.secureserver.net^
+||bbvms.com^
+||infusionsoft.app^
+||infusionsoft.com^
+||alerts.lidlplus.com^
+||surveys.lidlplus.com^
+||faqts.net^
+||pushmaster-cdn.xyz^
+||dynatrace.schwarz^

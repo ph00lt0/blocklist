@@ -20448,3 +20448,4 @@ npo.nl##ccm-notification
 ||faqts.net^
 ||pushmaster-cdn.xyz^
 ||dynatrace.schwarz^
+omroepzeeland.nl##.promobox

@@ -4053,7 +4053,7 @@ cdn.customily.com CNAME .
 o406206.ingest.sentry.io CNAME .
 o526196.ingest.sentry.io CNAME .
 kta.etherscan.com CNAME .
-parra.bbvms.com CNAME .
+parra.; allow bbvms.com reason: Video CDN
 hb.improvedigital.com CNAME .
 live.demand.supply CNAME .
 demand.supply CNAME .
@@ -19737,7 +19737,7 @@ q42stats.ew.r.appspot.com CNAME .
 youboranqs01.com CNAME .
 snarf.evebox.org CNAME .
 events.api.secureserver.net CNAME .
-bbvms.com CNAME .
+; allow bbvms.com reason: Video CDN
 infusionsoft.app CNAME .
 infusionsoft.com CNAME .
 alerts.lidlplus.com CNAME .

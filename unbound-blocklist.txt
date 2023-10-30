@@ -19740,7 +19740,7 @@ local-zone: "q42stats.ew.r.appspot.com." always_null
 local-zone: "youboranqs01.com." always_null
 local-zone: "snarf.evebox.org." always_null
 local-zone: "events.api.secureserver.net." always_null
-local-zone: "bbvms.com." always_null
+# allow bbvms.com reason: Video CDN
 local-zone: "infusionsoft.app." always_null
 local-zone: "infusionsoft.com." always_null
 local-zone: "alerts.lidlplus.com." always_null

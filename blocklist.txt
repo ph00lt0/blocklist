@@ -20440,7 +20440,7 @@ npo.nl##ccm-notification
 ||youboranqs01.com^
 ||snarf.evebox.org^
 ||events.api.secureserver.net^
-||bbvms.com^
+||bbvms.com^$badfilter  # Video CDN
 ||infusionsoft.app^
 ||infusionsoft.com^
 ||alerts.lidlplus.com^

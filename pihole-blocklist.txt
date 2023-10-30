@@ -5423,7 +5423,7 @@
 0.0.0.0 cloudtechnologies.pl
 0.0.0.0 gsi-one.org
 0.0.0.0 admarketplace.com
-0.0.0.0 bluebillywig.com
+! allow bluebillywig.com reason: Video CDN
 0.0.0.0 automattic.com
 0.0.0.0 kupona.de
 0.0.0.0 shinystat.com
@@ -15099,7 +15099,7 @@
 0.0.0.0 biglietteria.ch
 0.0.0.0 bildung-z.ch
 0.0.0.0 bilsyndication.com
-0.0.0.0 bluebillywig.com
+! allow bluebillywig.com reason: Video CDN
 0.0.0.0 bly.ch
 0.0.0.0 bnj.ch
 0.0.0.0 bookatable.com

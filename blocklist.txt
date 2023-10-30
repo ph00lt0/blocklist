@@ -5495,7 +5495,7 @@ $removeparam=afftrack
 ||cloudtechnologies.pl^
 ||gsi-one.org^
 ||admarketplace.com^
-||bluebillywig.com^
+||bluebillywig.com^$badfilter  # Video CDN
 ||automattic.com^
 ||kupona.de^
 ||shinystat.com^
@@ -15417,7 +15417,7 @@ $removeparam=engagement_type
 ||biglietteria.ch^
 ||bildung-z.ch^
 ||bilsyndication.com^
-||bluebillywig.com^
+||bluebillywig.com^$badfilter  # Video CDN
 ||bly.ch^
 ||bnj.ch^
 ||bookatable.com^

@@ -15,7 +15,7 @@ statistiek.digid.nl CNAME .
 statistieken.groenlinks.nl CNAME .
 stats.duo.rijkscloud.nl CNAME .
 analytics.partijvoordedieren.nl CNAME .
-stats.bluebillywig.com CNAME .
+stats.; allow bluebillywig.com reason: Video CDN
 statistiek.mijn.overheid.nl CNAME .
 ip.notable.app CNAME .
 telemetry-eu.docusign.net.akadns.net CNAME .
@@ -5336,7 +5336,7 @@ emarketingsolutions.es CNAME .
 cloudtechnologies.pl CNAME .
 gsi-one.org CNAME .
 admarketplace.com CNAME .
-bluebillywig.com CNAME .
+; allow bluebillywig.com reason: Video CDN
 automattic.com CNAME .
 kupona.de CNAME .
 shinystat.com CNAME .
@@ -14991,7 +14991,7 @@ bibtip.de CNAME .
 biglietteria.ch CNAME .
 bildung-z.ch CNAME .
 bilsyndication.com CNAME .
-bluebillywig.com CNAME .
+; allow bluebillywig.com reason: Video CDN
 bly.ch CNAME .
 bnj.ch CNAME .
 bookatable.com CNAME .

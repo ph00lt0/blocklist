@@ -5339,7 +5339,7 @@ local-zone: "emarketingsolutions.es." always_null
 local-zone: "cloudtechnologies.pl." always_null
 local-zone: "gsi-one.org." always_null
 local-zone: "admarketplace.com." always_null
-local-zone: "bluebillywig.com." always_null
+# allow bluebillywig.com reason: Video CDN
 local-zone: "automattic.com." always_null
 local-zone: "kupona.de." always_null
 local-zone: "shinystat.com." always_null
@@ -14994,7 +14994,7 @@ local-zone: "bibtip.de." always_null
 local-zone: "biglietteria.ch." always_null
 local-zone: "bildung-z.ch." always_null
 local-zone: "bilsyndication.com." always_null
-local-zone: "bluebillywig.com." always_null
+# allow bluebillywig.com reason: Video CDN
 local-zone: "bly.ch." always_null
 local-zone: "bnj.ch." always_null
 local-zone: "bookatable.com." always_null

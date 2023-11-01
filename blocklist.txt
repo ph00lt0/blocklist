@@ -20451,3 +20451,4 @@ npo.nl##ccm-notification
 omroepzeeland.nl##.promobox
 omroepzeeland.nl##.promobox-container
 ||formlets.com^
+omroepzeeland.nl###consent-plugin

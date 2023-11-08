@@ -19757,3 +19757,4 @@ local-zone: "rt.services.visualstudio.com." always_null
 local-zone: "eu-v10c.events.data.microsoft.com." always_null
 local-zone: "euc-word-telemetry.officeapps.live.com." always_null
 local-zone: "analysis.fiscloudservices.com." always_null
+local-zone: "exo.nel.measure.office.net." always_null

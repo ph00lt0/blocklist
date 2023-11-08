@@ -19751,3 +19751,4 @@ xgapromomanager-pa.googleapis.com CNAME .
 gapromomanager-pa.googleapis.com CNAME .
 temptation.veronicasuperguide.nl CNAME .
 rt.services.visualstudio.com CNAME .
+eu-v10c.events.data.microsoft.com CNAME .

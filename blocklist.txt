@@ -20457,3 +20457,4 @@ omroepzeeland.nl###consent-plugin
 ||gapromomanager-pa.googleapis.com^
 ||temptation.veronicasuperguide.nl^
 ||rt.services.visualstudio.com^
+||eu-v10c.events.data.microsoft.com^

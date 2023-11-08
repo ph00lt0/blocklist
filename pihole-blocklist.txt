@@ -19859,3 +19859,4 @@
 0.0.0.0 gapromomanager-pa.googleapis.com
 0.0.0.0 temptation.veronicasuperguide.nl
 0.0.0.0 rt.services.visualstudio.com
+0.0.0.0 eu-v10c.events.data.microsoft.com

@@ -19749,3 +19749,4 @@ local-zone: "faqts.net." always_null
 local-zone: "pushmaster-cdn.xyz." always_null
 local-zone: "dynatrace.schwarz." always_null
 local-zone: "formlets.com." always_null
+local-zone: "searchpromo-pa.googleapis.com." always_null

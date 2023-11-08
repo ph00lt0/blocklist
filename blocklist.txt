@@ -20452,3 +20452,4 @@ omroepzeeland.nl##.promobox
 omroepzeeland.nl##.promobox-container
 ||formlets.com^
 omroepzeeland.nl###consent-plugin
+||searchpromo-pa.googleapis.com^

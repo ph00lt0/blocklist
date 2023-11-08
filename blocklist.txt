@@ -20458,3 +20458,4 @@ omroepzeeland.nl###consent-plugin
 ||temptation.veronicasuperguide.nl^
 ||rt.services.visualstudio.com^
 ||eu-v10c.events.data.microsoft.com^
+||euc-word-telemetry.officeapps.live.com^

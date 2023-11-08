@@ -19749,3 +19749,4 @@ formlets.com CNAME .
 searchpromo-pa.googleapis.com CNAME .
 xgapromomanager-pa.googleapis.com CNAME .
 gapromomanager-pa.googleapis.com CNAME .
+temptation.veronicasuperguide.nl CNAME .

@@ -19855,3 +19855,5 @@
 0.0.0.0 dynatrace.schwarz
 0.0.0.0 formlets.com
 0.0.0.0 searchpromo-pa.googleapis.com
+0.0.0.0 xgapromomanager-pa.googleapis.com
+0.0.0.0 gapromomanager-pa.googleapis.com

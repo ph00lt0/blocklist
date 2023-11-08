@@ -19747,3 +19747,5 @@ pushmaster-cdn.xyz CNAME .
 dynatrace.schwarz CNAME .
 formlets.com CNAME .
 searchpromo-pa.googleapis.com CNAME .
+xgapromomanager-pa.googleapis.com CNAME .
+gapromomanager-pa.googleapis.com CNAME .

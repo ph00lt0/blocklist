@@ -20456,3 +20456,4 @@ omroepzeeland.nl###consent-plugin
 ||xgapromomanager-pa.googleapis.com^
 ||gapromomanager-pa.googleapis.com^
 ||temptation.veronicasuperguide.nl^
+||rt.services.visualstudio.com^

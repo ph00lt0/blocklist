@@ -19753,3 +19753,4 @@ local-zone: "searchpromo-pa.googleapis.com." always_null
 local-zone: "xgapromomanager-pa.googleapis.com." always_null
 local-zone: "gapromomanager-pa.googleapis.com." always_null
 local-zone: "temptation.veronicasuperguide.nl." always_null
+local-zone: "rt.services.visualstudio.com." always_null

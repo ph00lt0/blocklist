@@ -19750,3 +19750,4 @@ searchpromo-pa.googleapis.com CNAME .
 xgapromomanager-pa.googleapis.com CNAME .
 gapromomanager-pa.googleapis.com CNAME .
 temptation.veronicasuperguide.nl CNAME .
+rt.services.visualstudio.com CNAME .

@@ -19753,3 +19753,4 @@ temptation.veronicasuperguide.nl CNAME .
 rt.services.visualstudio.com CNAME .
 eu-v10c.events.data.microsoft.com CNAME .
 euc-word-telemetry.officeapps.live.com CNAME .
+analysis.fiscloudservices.com CNAME .

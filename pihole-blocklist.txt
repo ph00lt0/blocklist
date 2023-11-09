@@ -19779,7 +19779,7 @@
 ! allow dlcdnets.asus.com reason: ASUS updates
 0.0.0.0 lmsqueezy.com
 0.0.0.0 analytics.0xecho.com
-0.0.0.0 web.stytch.com
+! allow web.stytch.com reason: Identity Platform
 0.0.0.0 adconfig.ster.nl
 0.0.0.0 licelus.com
 0.0.0.0 spidersense.bendingspoons.com

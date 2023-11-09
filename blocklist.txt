@@ -20366,7 +20366,7 @@ hypotheek.nl###cookielaw_idf_overlay
 ||dlcdnets.asus.com^$badfilter  # ASUS updates
 ||lmsqueezy.com^
 ||analytics.0xecho.com^
-||web.stytch.com^
+||web.stytch.com^$badfilter  # Identity Platform
 ||adconfig.ster.nl^
 ||licelus.com^
 ||spidersense.bendingspoons.com^

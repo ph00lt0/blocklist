@@ -20415,7 +20415,7 @@ npo.nl##ccm-notification
 ||gum.criteo.com^
 ||events.mapbox.com^
 ||customer.ns-mlab.nl^
-||ns-mlab.nl^
+||ns-mlab.nl^$badfilter  # NS App
 ||shareaholic.net^
 ||gravitec.net^
 ||optinly.net^

@@ -19711,8 +19711,8 @@ ws.batch.com CNAME .
 wsmetrics.batch.com CNAME .
 gum.criteo.com CNAME .
 events.mapbox.com CNAME .
-customer.ns-mlab.nl CNAME .
-ns-mlab.nl CNAME .
+customer.; allow ns-mlab.nl reason: NS App
+; allow ns-mlab.nl reason: NS App
 shareaholic.net CNAME .
 gravitec.net CNAME .
 optinly.net CNAME .

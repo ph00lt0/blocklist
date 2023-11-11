@@ -17364,7 +17364,7 @@
 0.0.0.0 hwkosmetologia.pl
 0.0.0.0 is-samland.de
 0.0.0.0 shop6.shop
-0.0.0.0 unitedconsumers.com
+! allow unitedconsumers.com reason: Insurance company
 0.0.0.0 flippback.com
 0.0.0.0 beginnerpancake.com
 0.0.0.0 epinion.dk

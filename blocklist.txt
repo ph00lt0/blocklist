@@ -17861,7 +17861,7 @@ community.cloudflare.com##.modal-backdrop
 ||hwkosmetologia.pl^
 ||is-samland.de^
 ||shop6.shop^
-||unitedconsumers.com^
+||unitedconsumers.com^$badfilter  # Insurance company
 ||flippback.com^
 ||beginnerpancake.com^
 ||epinion.dk^

@@ -17256,7 +17256,7 @@ mateuszskorupa.pl CNAME .
 hwkosmetologia.pl CNAME .
 is-samland.de CNAME .
 shop6.shop CNAME .
-unitedconsumers.com CNAME .
+; allow unitedconsumers.com reason: Insurance company
 flippback.com CNAME .
 beginnerpancake.com CNAME .
 epinion.dk CNAME .

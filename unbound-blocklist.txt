@@ -17259,7 +17259,7 @@ local-zone: "mateuszskorupa.pl." always_null
 local-zone: "hwkosmetologia.pl." always_null
 local-zone: "is-samland.de." always_null
 local-zone: "shop6.shop." always_null
-local-zone: "unitedconsumers.com." always_null
+# allow unitedconsumers.com reason: Insurance company
 local-zone: "flippback.com." always_null
 local-zone: "beginnerpancake.com." always_null
 local-zone: "epinion.dk." always_null

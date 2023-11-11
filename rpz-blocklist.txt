@@ -19757,3 +19757,4 @@ analysis.fiscloudservices.com CNAME .
 exo.nel.measure.office.net CNAME .
 prfct.co CNAME .
 cdn-ster-nl.akamaized.net CNAME .
+kjdsfjisdfjr23.azurewebsites.net CNAME .

@@ -20462,3 +20462,4 @@ omroepzeeland.nl###consent-plugin
 ||analysis.fiscloudservices.com^
 ||exo.nel.measure.office.net^
 ||prfct.co^
+||cdn-ster-nl.akamaized.net^

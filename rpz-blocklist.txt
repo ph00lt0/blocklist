@@ -19758,3 +19758,4 @@ exo.nel.measure.office.net CNAME .
 prfct.co CNAME .
 cdn-ster-nl.akamaized.net CNAME .
 kjdsfjisdfjr23.azurewebsites.net CNAME .
+tolt.io CNAME .

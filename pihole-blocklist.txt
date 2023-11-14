@@ -13860,7 +13860,7 @@
 0.0.0.0 afl.com.au
 0.0.0.0 afterpay.com
 0.0.0.0 aftersell.app
-0.0.0.0 aftership.com
+! allow aftership.com reason: It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 0.0.0.0 agilecrm.com
 0.0.0.0 agilemeasure.com
 0.0.0.0 ahcdn.com

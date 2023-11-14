@@ -13755,7 +13755,7 @@ local-zone: "affilired.com." always_null
 local-zone: "afl.com.au." always_null
 local-zone: "afterpay.com." always_null
 local-zone: "aftersell.app." always_null
-local-zone: "aftership.com." always_null
+# allow aftership.com reason: It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 local-zone: "agilecrm.com." always_null
 local-zone: "agilemeasure.com." always_null
 local-zone: "ahcdn.com." always_null

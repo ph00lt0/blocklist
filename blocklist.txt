@@ -14181,7 +14181,7 @@ $removeparam=engagement_type
 ||afl.com.au^
 ||afterpay.com^
 ||aftersell.app^
-||aftership.com^
+||aftership.com^$badfilter  # It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 ||agilecrm.com^
 ||agilemeasure.com^
 ||ahcdn.com^

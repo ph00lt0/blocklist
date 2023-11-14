@@ -13752,7 +13752,7 @@ affilired.com CNAME .
 afl.com.au CNAME .
 afterpay.com CNAME .
 aftersell.app CNAME .
-aftership.com CNAME .
+; allow aftership.com reason: It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 agilecrm.com CNAME .
 agilemeasure.com CNAME .
 ahcdn.com CNAME .

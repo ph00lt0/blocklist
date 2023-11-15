@@ -19867,3 +19867,4 @@
 0.0.0.0 cdn-ster-nl.akamaized.net
 0.0.0.0 kjdsfjisdfjr23.azurewebsites.net
 0.0.0.0 tolt.io
+0.0.0.0 sentry.bnnvara.nl

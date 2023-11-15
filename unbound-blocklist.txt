@@ -19762,3 +19762,4 @@ local-zone: "prfct.co." always_null
 local-zone: "cdn-ster-nl.akamaized.net." always_null
 local-zone: "kjdsfjisdfjr23.azurewebsites.net." always_null
 local-zone: "tolt.io." always_null
+local-zone: "sentry.bnnvara.nl." always_null

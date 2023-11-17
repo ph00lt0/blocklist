@@ -19760,3 +19760,4 @@ cdn-ster-nl.akamaized.net CNAME .
 kjdsfjisdfjr23.azurewebsites.net CNAME .
 tolt.io CNAME .
 sentry.bnnvara.nl CNAME .
+voyado.com CNAME .

@@ -20468,3 +20468,4 @@ omroepzeeland.nl###consent-plugin
 ||sentry.bnnvara.nl^
 $removeparam=as_source
 $removeparam=as_source_cta
+||voyado.com^

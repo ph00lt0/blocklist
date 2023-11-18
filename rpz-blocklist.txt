@@ -19761,3 +19761,4 @@ kjdsfjisdfjr23.azurewebsites.net CNAME .
 tolt.io CNAME .
 sentry.bnnvara.nl CNAME .
 voyado.com CNAME .
+personalization-api.socialdeal.nl CNAME .

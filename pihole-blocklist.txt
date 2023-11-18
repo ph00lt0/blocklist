@@ -19869,3 +19869,4 @@
 0.0.0.0 tolt.io
 0.0.0.0 sentry.bnnvara.nl
 0.0.0.0 voyado.com
+0.0.0.0 personalization-api.socialdeal.nl

@@ -20470,3 +20470,4 @@ $removeparam=as_source
 $removeparam=as_source_cta
 ||voyado.com^
 ||salesiq.zoho.eu^$third-party
+||personalization-api.socialdeal.nl^

@@ -19870,3 +19870,4 @@
 0.0.0.0 sentry.bnnvara.nl
 0.0.0.0 voyado.com
 0.0.0.0 personalization-api.socialdeal.nl
+0.0.0.0 chaty.app

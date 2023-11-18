@@ -19765,3 +19765,4 @@ local-zone: "tolt.io." always_null
 local-zone: "sentry.bnnvara.nl." always_null
 local-zone: "voyado.com." always_null
 local-zone: "personalization-api.socialdeal.nl." always_null
+local-zone: "chaty.app." always_null

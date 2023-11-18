@@ -19767,3 +19767,4 @@ local-zone: "voyado.com." always_null
 local-zone: "personalization-api.socialdeal.nl." always_null
 local-zone: "chaty.app." always_null
 local-zone: "pixel.chaty.app." always_null
+local-zone: "tracking.cdn.vpsvc.com." always_null

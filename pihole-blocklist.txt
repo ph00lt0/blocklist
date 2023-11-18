@@ -19873,3 +19873,4 @@
 0.0.0.0 chaty.app
 0.0.0.0 pixel.chaty.app
 0.0.0.0 tracking.cdn.vpsvc.com
+0.0.0.0 highstreetapp-services.com

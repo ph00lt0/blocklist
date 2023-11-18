@@ -19765,3 +19765,4 @@ personalization-api.socialdeal.nl CNAME .
 chaty.app CNAME .
 pixel.chaty.app CNAME .
 tracking.cdn.vpsvc.com CNAME .
+highstreetapp-services.com CNAME .

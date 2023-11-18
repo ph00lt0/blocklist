@@ -19763,3 +19763,4 @@ sentry.bnnvara.nl CNAME .
 voyado.com CNAME .
 personalization-api.socialdeal.nl CNAME .
 chaty.app CNAME .
+pixel.chaty.app CNAME .

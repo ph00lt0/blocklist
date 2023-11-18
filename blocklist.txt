@@ -20472,3 +20472,4 @@ $removeparam=as_source_cta
 ||salesiq.zoho.eu^$third-party
 ||personalization-api.socialdeal.nl^
 ||chaty.app^
+||pixel.chaty.app^

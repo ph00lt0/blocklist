@@ -2892,7 +2892,7 @@ siteintercept.qualtrics.com CNAME .
 api.lushka.al CNAME .
 wct-1.com CNAME .
 worldchasetag.com CNAME .
-i.creativecommons.org CNAME .
+i.; allow creativecommons.org reason: CC
 testifier.nl CNAME .
 socket.multimirror.io CNAME .
 multimirror.io CNAME .
@@ -14157,7 +14157,7 @@ cpx.to CNAME .
 crazydomains.com.au CNAME .
 createjs.com CNAME .
 createsend1.com CNAME .
-creativecommons.org CNAME .
+; allow creativecommons.org reason: CC
 creativevirtual.com CNAME .
 crengate.com CNAME .
 crossref.org CNAME .

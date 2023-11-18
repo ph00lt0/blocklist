@@ -14587,7 +14587,7 @@ $removeparam=engagement_type
 ||crazydomains.com.au^
 ||createjs.com^
 ||createsend1.com^
-||creativecommons.org^
+||creativecommons.org^$badfilter  # CC
 ||creativevirtual.com^
 ||crengate.com^
 ||crossref.org^

@@ -14160,7 +14160,7 @@ local-zone: "cpx.to." always_null
 local-zone: "crazydomains.com.au." always_null
 local-zone: "createjs.com." always_null
 local-zone: "createsend1.com." always_null
-local-zone: "creativecommons.org." always_null
+# allow creativecommons.org reason: CC
 local-zone: "creativevirtual.com." always_null
 local-zone: "crengate.com." always_null
 local-zone: "crossref.org." always_null

@@ -14265,7 +14265,7 @@
 0.0.0.0 crazydomains.com.au
 0.0.0.0 createjs.com
 0.0.0.0 createsend1.com
-0.0.0.0 creativecommons.org
+! allow creativecommons.org reason: CC
 0.0.0.0 creativevirtual.com
 0.0.0.0 crengate.com
 0.0.0.0 crossref.org

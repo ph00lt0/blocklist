@@ -19769,3 +19769,4 @@ highstreetapp-services.com CNAME .
 thtk.temu.com CNAME .
 pftk.temu.com CNAME .
 dkov91l6wait7.cloudfront.net CNAME .
+fr135.net CNAME .

@@ -19877,3 +19877,4 @@
 0.0.0.0 thtk.temu.com
 0.0.0.0 pftk.temu.com
 0.0.0.0 dkov91l6wait7.cloudfront.net
+0.0.0.0 fr135.net

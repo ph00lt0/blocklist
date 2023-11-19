@@ -20479,3 +20479,4 @@ $removeparam=as_source_cta
 $removeparam=af_xp
 ||thtk.temu.com^
 ||pftk.temu.com^
+||dkov91l6wait7.cloudfront.net^

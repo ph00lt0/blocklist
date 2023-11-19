@@ -19771,3 +19771,4 @@ local-zone: "tracking.cdn.vpsvc.com." always_null
 local-zone: "highstreetapp-services.com." always_null
 local-zone: "thtk.temu.com." always_null
 local-zone: "pftk.temu.com." always_null
+local-zone: "dkov91l6wait7.cloudfront.net." always_null

@@ -19876,3 +19876,4 @@
 0.0.0.0 highstreetapp-services.com
 0.0.0.0 thtk.temu.com
 0.0.0.0 pftk.temu.com
+0.0.0.0 dkov91l6wait7.cloudfront.net

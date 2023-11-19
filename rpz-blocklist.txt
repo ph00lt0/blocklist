@@ -19766,3 +19766,4 @@ chaty.app CNAME .
 pixel.chaty.app CNAME .
 tracking.cdn.vpsvc.com CNAME .
 highstreetapp-services.com CNAME .
+thtk.temu.com CNAME .

@@ -20477,3 +20477,4 @@ $removeparam=as_source_cta
 ||tracking.cdn.vpsvc.com^
 ||highstreetapp-services.com^
 $removeparam=af_xp
+||thtk.temu.com^

@@ -20481,3 +20481,4 @@ $removeparam=af_xp
 ||pftk.temu.com^
 ||dkov91l6wait7.cloudfront.net^
 ||fr135.net^
+||snov.io^

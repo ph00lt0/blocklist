@@ -20482,3 +20482,4 @@ $removeparam=af_xp
 ||dkov91l6wait7.cloudfront.net^
 ||fr135.net^
 ||snov.io^
+$removeparam=campid

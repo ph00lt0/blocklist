@@ -19875,3 +19875,4 @@
 0.0.0.0 tracking.cdn.vpsvc.com
 0.0.0.0 highstreetapp-services.com
 0.0.0.0 thtk.temu.com
+0.0.0.0 pftk.temu.com

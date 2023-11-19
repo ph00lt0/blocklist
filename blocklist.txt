@@ -20478,3 +20478,4 @@ $removeparam=as_source_cta
 ||highstreetapp-services.com^
 $removeparam=af_xp
 ||thtk.temu.com^
+||pftk.temu.com^

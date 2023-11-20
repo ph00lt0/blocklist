@@ -19879,3 +19879,4 @@
 0.0.0.0 dkov91l6wait7.cloudfront.net
 0.0.0.0 fr135.net
 0.0.0.0 snov.io
+0.0.0.0 inspera.com

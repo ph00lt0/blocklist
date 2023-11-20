@@ -19774,3 +19774,4 @@ local-zone: "pftk.temu.com." always_null
 local-zone: "dkov91l6wait7.cloudfront.net." always_null
 local-zone: "fr135.net." always_null
 local-zone: "snov.io." always_null
+local-zone: "inspera.com." always_null

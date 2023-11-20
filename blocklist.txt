@@ -20483,3 +20483,4 @@ $removeparam=af_xp
 ||fr135.net^
 ||snov.io^
 $removeparam=campid
+||inspera.com^

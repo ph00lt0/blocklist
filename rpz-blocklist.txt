@@ -19771,3 +19771,4 @@ pftk.temu.com CNAME .
 dkov91l6wait7.cloudfront.net CNAME .
 fr135.net CNAME .
 snov.io CNAME .
+inspera.com CNAME .

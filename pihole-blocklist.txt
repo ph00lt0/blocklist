@@ -19880,3 +19880,14 @@
 0.0.0.0 fr135.net
 0.0.0.0 snov.io
 0.0.0.0 inspera.com
+0.0.0.0 publisher-event.unityads.unity3d.com
+0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
+0.0.0.0 events.mz.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 skadnetworks.fyber.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 nmo-ep.nl
+0.0.0.0 rt.sharepoint.com
+0.0.0.0 fd.api.iris.microsoft.com

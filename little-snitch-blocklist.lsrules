@@ -19230,6 +19230,17 @@
         "dkov91l6wait7.cloudfront.net",
         "fr135.net",
         "snov.io",
-        "inspera.com"
+        "inspera.com",
+        "publisher-event.unityads.unity3d.com",
+        "publisher-event.ads.prd.ie.internal.unity3d.com",
+        "events.mz.unity3d.com",
+        "httpkafka.unityads.unity3d.com",
+        "auction-load.unityads.unity3d.com",
+        "skadnetworks.fyber.com",
+        "tpc.googlesyndication.com",
+        "adclick.g.doubleclick.net",
+        "nmo-ep.nl",
+        "rt.sharepoint.com",
+        "fd.api.iris.microsoft.com"
     ]
 }

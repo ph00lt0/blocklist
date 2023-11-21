@@ -19772,3 +19772,14 @@ dkov91l6wait7.cloudfront.net CNAME .
 fr135.net CNAME .
 snov.io CNAME .
 inspera.com CNAME .
+publisher-event.unityads.unity3d.com CNAME .
+publisher-event.ads.prd.ie.internal.unity3d.com CNAME .
+events.mz.unity3d.com CNAME .
+httpkafka.unityads.unity3d.com CNAME .
+auction-load.unityads.unity3d.com CNAME .
+skadnetworks.fyber.com CNAME .
+tpc.googlesyndication.com CNAME .
+adclick.g.doubleclick.net CNAME .
+nmo-ep.nl CNAME .
+rt.sharepoint.com CNAME .
+fd.api.iris.microsoft.com CNAME .

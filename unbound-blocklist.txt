@@ -19775,3 +19775,14 @@ local-zone: "dkov91l6wait7.cloudfront.net." always_null
 local-zone: "fr135.net." always_null
 local-zone: "snov.io." always_null
 local-zone: "inspera.com." always_null
+local-zone: "publisher-event.unityads.unity3d.com." always_null
+local-zone: "publisher-event.ads.prd.ie.internal.unity3d.com." always_null
+local-zone: "events.mz.unity3d.com." always_null
+local-zone: "httpkafka.unityads.unity3d.com." always_null
+local-zone: "auction-load.unityads.unity3d.com." always_null
+local-zone: "skadnetworks.fyber.com." always_null
+local-zone: "tpc.googlesyndication.com." always_null
+local-zone: "adclick.g.doubleclick.net." always_null
+local-zone: "nmo-ep.nl." always_null
+local-zone: "rt.sharepoint.com." always_null
+local-zone: "fd.api.iris.microsoft.com." always_null

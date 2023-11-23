@@ -19786,3 +19786,4 @@ local-zone: "adclick.g.doubleclick.net." always_null
 local-zone: "nmo-ep.nl." always_null
 local-zone: "rt.sharepoint.com." always_null
 local-zone: "fd.api.iris.microsoft.com." always_null
+local-zone: "sentry-new.protontech.ch." always_null

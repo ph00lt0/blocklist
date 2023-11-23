@@ -20495,3 +20495,4 @@ $removeparam=campid
 ||nmo-ep.nl^
 ||rt.sharepoint.com^
 ||fd.api.iris.microsoft.com^
+||sentry-new.protontech.ch^

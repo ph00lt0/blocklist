@@ -19783,3 +19783,4 @@ adclick.g.doubleclick.net CNAME .
 nmo-ep.nl CNAME .
 rt.sharepoint.com CNAME .
 fd.api.iris.microsoft.com CNAME .
+sentry-new.protontech.ch CNAME .

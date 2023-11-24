@@ -19251,6 +19251,7 @@
         "euc-widget.freshworks.com",
         "us-u.openx.net",
         "realtime-tentacles-production.b-cdn.net",
-        "optinadserving.com"
+        "optinadserving.com",
+        "ingestion.smartocto.com"
     ]
 }

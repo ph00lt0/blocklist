@@ -19799,3 +19799,4 @@ ps.eyeota.net CNAME .
 c.bannerflow.net CNAME .
 id.cxense.com CNAME .
 sync.teads.tv CNAME .
+ad.sxp.smartclip.net CNAME .

@@ -20508,3 +20508,4 @@ $removeparam=campid
 ||ingestion.smartocto.com^
 ||analytics.sleeknote.com^
 ||ps.eyeota.net^
+||c.bannerflow.net^

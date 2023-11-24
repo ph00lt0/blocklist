@@ -19796,3 +19796,4 @@ optinadserving.com CNAME .
 ingestion.smartocto.com CNAME .
 analytics.sleeknote.com CNAME .
 ps.eyeota.net CNAME .
+c.bannerflow.net CNAME .

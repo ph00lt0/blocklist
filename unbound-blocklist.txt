@@ -19799,3 +19799,4 @@ local-zone: "optinadserving.com." always_null
 local-zone: "ingestion.smartocto.com." always_null
 local-zone: "analytics.sleeknote.com." always_null
 local-zone: "ps.eyeota.net." always_null
+local-zone: "c.bannerflow.net." always_null

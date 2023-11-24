@@ -19803,3 +19803,4 @@ local-zone: "c.bannerflow.net." always_null
 local-zone: "id.cxense.com." always_null
 local-zone: "sync.teads.tv." always_null
 local-zone: "ad.sxp.smartclip.net." always_null
+local-zone: "sync.crwdcntrl.net." always_null

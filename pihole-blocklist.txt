@@ -19906,3 +19906,4 @@
 0.0.0.0 ps.eyeota.net
 0.0.0.0 c.bannerflow.net
 0.0.0.0 id.cxense.com
+0.0.0.0 sync.teads.tv

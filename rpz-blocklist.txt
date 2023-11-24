@@ -19798,3 +19798,4 @@ analytics.sleeknote.com CNAME .
 ps.eyeota.net CNAME .
 c.bannerflow.net CNAME .
 id.cxense.com CNAME .
+sync.teads.tv CNAME .

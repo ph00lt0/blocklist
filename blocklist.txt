@@ -20510,3 +20510,4 @@ $removeparam=campid
 ||ps.eyeota.net^
 ||c.bannerflow.net^
 ||id.cxense.com^
+||sync.teads.tv^

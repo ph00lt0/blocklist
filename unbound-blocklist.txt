@@ -19791,3 +19791,4 @@ local-zone: "adsmoloco.com." always_null
 local-zone: "ad.yieldlab.net." always_null
 local-zone: "eyeo.to." always_null
 local-zone: "ade.googlesyndication.com." always_null
+local-zone: "ignore_this_destination.com." always_null

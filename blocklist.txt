@@ -20500,3 +20500,4 @@ $removeparam=campid
 ||ad.yieldlab.net^
 ||eyeo.to^
 ||ade.googlesyndication.com^
+||ignore_this_destination.com^

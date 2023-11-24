@@ -19249,6 +19249,7 @@
         "ade.googlesyndication.com",
         "ignore_this_destination.com",
         "euc-widget.freshworks.com",
-        "us-u.openx.net"
+        "us-u.openx.net",
+        "realtime-tentacles-production.b-cdn.net"
     ]
 }

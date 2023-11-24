@@ -14916,7 +14916,7 @@
 ! allow d3jruqy3qmm3fd.cloudfront.net reason: CDN
 0.0.0.0 d3js.org
 0.0.0.0 d3lhfgl03cenfh.cloudfront.net
-0.0.0.0 d3odp2r1osuwn0.cloudfront.net
+! allow d3odp2r1osuwn0.cloudfront.net reason: CDN
 0.0.0.0 d3or5d0jdz94or.cloudfront.net
 0.0.0.0 d3pce9ddsicpgw.cloudfront.net
 0.0.0.0 d3qtst53kh2p5e.cloudfront.net

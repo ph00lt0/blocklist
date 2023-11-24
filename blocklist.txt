@@ -20501,3 +20501,5 @@ $removeparam=campid
 ||eyeo.to^
 ||ade.googlesyndication.com^
 ||ignore_this_destination.com^
+||euc-widget.freshworks.com^
+||us-u.openx.net^

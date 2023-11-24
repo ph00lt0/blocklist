@@ -19247,6 +19247,8 @@
         "ad.yieldlab.net",
         "eyeo.to",
         "ade.googlesyndication.com",
-        "ignore_this_destination.com"
+        "ignore_this_destination.com",
+        "euc-widget.freshworks.com",
+        "us-u.openx.net"
     ]
 }

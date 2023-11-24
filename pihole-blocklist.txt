@@ -19897,3 +19897,5 @@
 0.0.0.0 eyeo.to
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ignore_this_destination.com
+0.0.0.0 euc-widget.freshworks.com
+0.0.0.0 us-u.openx.net

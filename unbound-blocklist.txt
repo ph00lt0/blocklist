@@ -19788,3 +19788,4 @@ local-zone: "rt.sharepoint.com." always_null
 local-zone: "fd.api.iris.microsoft.com." always_null
 local-zone: "sentry-new.protontech.ch." always_null
 local-zone: "adsmoloco.com." always_null
+local-zone: "ad.yieldlab.net." always_null

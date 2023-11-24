@@ -19785,3 +19785,4 @@ rt.sharepoint.com CNAME .
 fd.api.iris.microsoft.com CNAME .
 sentry-new.protontech.ch CNAME .
 adsmoloco.com CNAME .
+ad.yieldlab.net CNAME .

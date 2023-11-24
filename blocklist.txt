@@ -20497,3 +20497,4 @@ $removeparam=campid
 ||fd.api.iris.microsoft.com^
 ||sentry-new.protontech.ch^
 ||adsmoloco.com^
+||ad.yieldlab.net^

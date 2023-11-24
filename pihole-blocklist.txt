@@ -19892,3 +19892,4 @@
 0.0.0.0 rt.sharepoint.com
 0.0.0.0 fd.api.iris.microsoft.com
 0.0.0.0 sentry-new.protontech.ch
+0.0.0.0 adsmoloco.com

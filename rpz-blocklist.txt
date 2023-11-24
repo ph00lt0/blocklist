@@ -19787,3 +19787,4 @@ sentry-new.protontech.ch CNAME .
 adsmoloco.com CNAME .
 ad.yieldlab.net CNAME .
 eyeo.to CNAME .
+ade.googlesyndication.com CNAME .

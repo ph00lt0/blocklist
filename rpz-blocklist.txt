@@ -19794,3 +19794,4 @@ us-u.openx.net CNAME .
 realtime-tentacles-production.b-cdn.net CNAME .
 optinadserving.com CNAME .
 ingestion.smartocto.com CNAME .
+analytics.sleeknote.com CNAME .

@@ -19797,3 +19797,4 @@ local-zone: "us-u.openx.net." always_null
 local-zone: "realtime-tentacles-production.b-cdn.net." always_null
 local-zone: "optinadserving.com." always_null
 local-zone: "ingestion.smartocto.com." always_null
+local-zone: "analytics.sleeknote.com." always_null

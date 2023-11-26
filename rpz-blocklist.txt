@@ -19804,3 +19804,4 @@ sync.crwdcntrl.net CNAME .
 valsplat.nl CNAME .
 stats.pubble.cloud CNAME .
 tr.Ifeeder.com CNAME .
+tr.lfeeder.com CNAME .

@@ -19807,3 +19807,4 @@ local-zone: "sync.crwdcntrl.net." always_null
 local-zone: "valsplat.nl." always_null
 local-zone: "stats.pubble.cloud." always_null
 local-zone: "tr.Ifeeder.com." always_null
+local-zone: "tr.lfeeder.com." always_null

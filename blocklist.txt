@@ -20515,3 +20515,4 @@ $removeparam=campid
 ||sync.crwdcntrl.net^
 ||valsplat.nl^
 ||stats.pubble.cloud^
+||tr.Ifeeder.com^

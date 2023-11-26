@@ -19909,3 +19909,4 @@
 0.0.0.0 sync.teads.tv
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 valsplat.nl

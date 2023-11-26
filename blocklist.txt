@@ -20514,3 +20514,4 @@ $removeparam=campid
 ||ad.sxp.smartclip.net^
 ||sync.crwdcntrl.net^
 ||valsplat.nl^
+||stats.pubble.cloud^

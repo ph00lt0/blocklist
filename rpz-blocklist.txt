@@ -19802,3 +19802,4 @@ sync.teads.tv CNAME .
 ad.sxp.smartclip.net CNAME .
 sync.crwdcntrl.net CNAME .
 valsplat.nl CNAME .
+stats.pubble.cloud CNAME .

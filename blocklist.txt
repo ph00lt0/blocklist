@@ -916,7 +916,7 @@
 ||wiesbaden.personalwerk.de^
 ||geo1.presslabs.net^
 ||presslabs.net^
-||typeform.com^
+||typeform.com^$badfilter  # Not a tracker
 ||embed.typeform.com^
 ||data-99329e3cb2.welt.de^
 ||rosetta.prod.ps.welt.de^

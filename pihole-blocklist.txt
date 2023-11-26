@@ -915,7 +915,7 @@
 0.0.0.0 wiesbaden.personalwerk.de
 0.0.0.0 geo1.presslabs.net
 0.0.0.0 presslabs.net
-0.0.0.0 typeform.com
+! allow typeform.com reason: Not a tracker
 0.0.0.0 embed.typeform.com
 0.0.0.0 data-99329e3cb2.welt.de
 0.0.0.0 rosetta.prod.ps.welt.de

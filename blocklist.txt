@@ -20520,3 +20520,4 @@ $removeparam=campid
 $removeparam=twclkd
 $removeparam=mc_eid
 $removeparam=igshid
+||location.l.force.com^

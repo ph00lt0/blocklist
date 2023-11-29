@@ -20517,3 +20517,4 @@ $removeparam=campid
 ||stats.pubble.cloud^
 ||tr.Ifeeder.com^
 ||tr.lfeeder.com^
+$removeparam=twclkd

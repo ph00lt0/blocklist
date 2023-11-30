@@ -19809,3 +19809,4 @@ local-zone: "stats.pubble.cloud." always_null
 local-zone: "tr.Ifeeder.com." always_null
 local-zone: "tr.lfeeder.com." always_null
 local-zone: "location.l.force.com." always_null
+local-zone: "betcity.net." always_null

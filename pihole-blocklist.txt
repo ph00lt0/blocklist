@@ -19914,3 +19914,4 @@
 0.0.0.0 tr.Ifeeder.com
 0.0.0.0 tr.lfeeder.com
 0.0.0.0 location.l.force.com
+0.0.0.0 betcity.net

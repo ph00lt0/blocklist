@@ -14605,7 +14605,7 @@ doofinder.com CNAME .
 dorthin.com CNAME .
 ; allow bit.ly reason: Popular link shorter
 blau.de CNAME .
-blizzard.com CNAME .
+; allow blizzard.com reason: Gaming
 blogheim.at CNAME .
 blyatflix.de CNAME .
 blzmedia-a.akamaihd.net CNAME .

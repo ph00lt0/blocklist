@@ -14608,7 +14608,7 @@ local-zone: "doofinder.com." always_null
 local-zone: "dorthin.com." always_null
 # allow bit.ly reason: Popular link shorter
 local-zone: "blau.de." always_null
-local-zone: "blizzard.com." always_null
+# allow blizzard.com reason: Gaming
 local-zone: "blogheim.at." always_null
 local-zone: "blyatflix.de." always_null
 local-zone: "blzmedia-a.akamaihd.net." always_null

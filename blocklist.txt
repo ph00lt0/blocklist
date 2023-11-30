@@ -15035,7 +15035,7 @@ $removeparam=engagement_type
 ||dorthin.com^
 ||bit.ly^$badfilter  # Popular link shorter
 ||blau.de^
-||blizzard.com^
+||blizzard.com^$badfilter  # Gaming
 ||blogheim.at^
 ||blyatflix.de^
 ||blzmedia-a.akamaihd.net^

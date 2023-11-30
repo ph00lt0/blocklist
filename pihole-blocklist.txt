@@ -14713,7 +14713,7 @@
 0.0.0.0 dorthin.com
 ! allow bit.ly reason: Popular link shorter
 0.0.0.0 blau.de
-0.0.0.0 blizzard.com
+! allow blizzard.com reason: Gaming
 0.0.0.0 blogheim.at
 0.0.0.0 blyatflix.de
 0.0.0.0 blzmedia-a.akamaihd.net

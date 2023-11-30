@@ -20522,3 +20522,4 @@ $removeparam=mc_eid
 $removeparam=igshid
 ||location.l.force.com^
 ||betcity.net^
+||analytics.dev.azure.com^

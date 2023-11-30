@@ -19808,3 +19808,4 @@ tr.lfeeder.com CNAME .
 location.l.force.com CNAME .
 betcity.net CNAME .
 analytics.dev.azure.com CNAME .
+ead.newint.org CNAME .

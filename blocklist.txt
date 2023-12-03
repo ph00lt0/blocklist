@@ -20524,3 +20524,4 @@ $removeparam=igshid
 ||betcity.net^
 ||analytics.dev.azure.com^
 ||ead.newint.org^
+bever.nl##body:style(overflow: auto!important)

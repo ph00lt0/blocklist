@@ -19817,3 +19817,4 @@ local-zone: "qlik.com." always_null
 local-zone: "analytics-xpress.jabra.com." always_null
 local-zone: "eu.matk.temu.com." always_null
 local-zone: "graduateoutcomes.ac.uk." always_null
+local-zone: "hesa.ac.uk." always_null

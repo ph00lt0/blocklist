@@ -19811,3 +19811,4 @@ analytics.dev.azure.com CNAME .
 ead.newint.org CNAME .
 advertise-solution.nl CNAME .
 qlik.com CNAME .
+analytics-xpress.jabra.com CNAME .

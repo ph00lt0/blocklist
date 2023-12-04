@@ -19813,3 +19813,4 @@ local-zone: "betcity.net." always_null
 local-zone: "analytics.dev.azure.com." always_null
 local-zone: "ead.newint.org." always_null
 local-zone: "advertise-solution.nl." always_null
+local-zone: "qlik.com." always_null

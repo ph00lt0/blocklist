@@ -20526,3 +20526,4 @@ $removeparam=igshid
 ||ead.newint.org^
 bever.nl##body:style(overflow: auto!important)
 ||advertise-solution.nl^
+||qlik.com^

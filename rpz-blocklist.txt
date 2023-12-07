@@ -19816,3 +19816,4 @@ eu.matk.temu.com CNAME .
 graduateoutcomes.ac.uk CNAME .
 hesa.ac.uk CNAME .
 survey.wix CNAME .
+confiant-integrations.net CNAME .

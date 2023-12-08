@@ -20533,3 +20533,4 @@ bever.nl##body:style(overflow: auto!important)
 ||hesa.ac.uk^
 ||survey.wix^
 ||confiant-integrations.net^
+||analysis.windows.net^

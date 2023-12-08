@@ -19817,3 +19817,4 @@ graduateoutcomes.ac.uk CNAME .
 hesa.ac.uk CNAME .
 survey.wix CNAME .
 confiant-integrations.net CNAME .
+analysis.windows.net CNAME .

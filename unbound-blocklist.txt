@@ -19820,3 +19820,4 @@ local-zone: "graduateoutcomes.ac.uk." always_null
 local-zone: "hesa.ac.uk." always_null
 local-zone: "survey.wix." always_null
 local-zone: "confiant-integrations.net." always_null
+local-zone: "analysis.windows.net." always_null

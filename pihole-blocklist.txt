@@ -19925,3 +19925,4 @@
 0.0.0.0 hesa.ac.uk
 0.0.0.0 survey.wix
 0.0.0.0 confiant-integrations.net
+0.0.0.0 analysis.windows.net

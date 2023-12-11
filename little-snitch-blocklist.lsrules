@@ -19276,6 +19276,7 @@
         "analysis.windows.net",
         "clienttracing-pa.googleapis.com",
         "addons.business",
-        "plesk.page"
+        "plesk.page",
+        "chronopost-relivraison.fr"
     ]
 }

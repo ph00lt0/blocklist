@@ -20541,3 +20541,4 @@ bever.nl##body:style(overflow: auto!important)
 ||tracking-delivery-nl.com^
 ||mediapart.fr^
 ||martookdepartment.com^
+||kitchentooles.com^

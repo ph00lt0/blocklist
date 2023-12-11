@@ -19825,3 +19825,4 @@ chronopost-relivraison.fr CNAME .
 tracking-delivery-nl.com CNAME .
 mediapart.fr CNAME .
 martookdepartment.com CNAME .
+kitchentooles.com CNAME .

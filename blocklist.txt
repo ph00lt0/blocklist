@@ -20539,3 +20539,4 @@ bever.nl##body:style(overflow: auto!important)
 ||plesk.page^
 ||chronopost-relivraison.fr^
 ||tracking-delivery-nl.com^
+||mediapart.fr^

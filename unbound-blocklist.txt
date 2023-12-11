@@ -19827,3 +19827,4 @@ local-zone: "plesk.page." always_null
 local-zone: "chronopost-relivraison.fr." always_null
 local-zone: "tracking-delivery-nl.com." always_null
 local-zone: "mediapart.fr." always_null
+local-zone: "martookdepartment.com." always_null

@@ -20535,3 +20535,4 @@ bever.nl##body:style(overflow: auto!important)
 ||confiant-integrations.net^
 ||analysis.windows.net^
 ||clienttracing-pa.googleapis.com^
+||addons.business^

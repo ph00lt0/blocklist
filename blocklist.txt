@@ -20542,3 +20542,4 @@ bever.nl##body:style(overflow: auto!important)
 ||mediapart.fr^
 ||martookdepartment.com^
 ||kitchentooles.com^
+poostnl.nl##.pci-cookie-button-inner .pci-button--primary

@@ -20543,3 +20543,4 @@ bever.nl##body:style(overflow: auto!important)
 ||martookdepartment.com^
 ||kitchentooles.com^
 poostnl.nl##.pci-cookie-button-inner .pci-button--primary
+||api.privacy-center.org^

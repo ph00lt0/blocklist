@@ -19826,3 +19826,4 @@ tracking-delivery-nl.com CNAME .
 mediapart.fr CNAME .
 martookdepartment.com CNAME .
 kitchentooles.com CNAME .
+api.privacy-center.org CNAME .

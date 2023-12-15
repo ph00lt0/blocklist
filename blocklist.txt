@@ -20545,3 +20545,4 @@ bever.nl##body:style(overflow: auto!important)
 poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||api.privacy-center.org^
 ||yahoodns.net^
+||akadns.net^

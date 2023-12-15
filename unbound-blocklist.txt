@@ -19835,3 +19835,4 @@ local-zone: "akadns.net." always_null
 local-zone: "adserver.technoratimedia.com." always_null
 local-zone: "sync.srv.stackadapt.com." always_null
 local-zone: "uip.semasio.net." always_null
+local-zone: "rlwy.net." always_null

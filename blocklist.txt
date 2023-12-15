@@ -20548,3 +20548,4 @@ poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||akadns.net^
 ||adserver.technoratimedia.com^
 ||sync.srv.stackadapt.com^
+||uip.semasio.net^

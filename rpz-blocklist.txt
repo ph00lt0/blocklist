@@ -19831,3 +19831,4 @@ yahoodns.net CNAME .
 akadns.net CNAME .
 adserver.technoratimedia.com CNAME .
 sync.srv.stackadapt.com CNAME .
+uip.semasio.net CNAME .

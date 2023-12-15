@@ -19939,3 +19939,4 @@
 0.0.0.0 akadns.net
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 sync.srv.stackadapt.com
+0.0.0.0 uip.semasio.net

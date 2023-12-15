@@ -20546,3 +20546,4 @@ poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||api.privacy-center.org^
 ||yahoodns.net^
 ||akadns.net^
+||adserver.technoratimedia.com^

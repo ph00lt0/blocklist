@@ -19937,3 +19937,4 @@
 0.0.0.0 api.privacy-center.org
 0.0.0.0 yahoodns.net
 0.0.0.0 akadns.net
+0.0.0.0 adserver.technoratimedia.com

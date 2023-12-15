@@ -19938,3 +19938,4 @@
 0.0.0.0 yahoodns.net
 0.0.0.0 akadns.net
 0.0.0.0 adserver.technoratimedia.com
+0.0.0.0 sync.srv.stackadapt.com

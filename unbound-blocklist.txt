@@ -19833,3 +19833,4 @@ local-zone: "api.privacy-center.org." always_null
 local-zone: "yahoodns.net." always_null
 local-zone: "akadns.net." always_null
 local-zone: "adserver.technoratimedia.com." always_null
+local-zone: "sync.srv.stackadapt.com." always_null

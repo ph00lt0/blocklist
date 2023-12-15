@@ -19830,3 +19830,4 @@ api.privacy-center.org CNAME .
 yahoodns.net CNAME .
 akadns.net CNAME .
 adserver.technoratimedia.com CNAME .
+sync.srv.stackadapt.com CNAME .

@@ -20544,3 +20544,4 @@ bever.nl##body:style(overflow: auto!important)
 ||kitchentooles.com^
 poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||api.privacy-center.org^
+||yahoodns.net^

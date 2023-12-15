@@ -19830,3 +19830,4 @@ local-zone: "mediapart.fr." always_null
 local-zone: "martookdepartment.com." always_null
 local-zone: "kitchentooles.com." always_null
 local-zone: "api.privacy-center.org." always_null
+local-zone: "yahoodns.net." always_null

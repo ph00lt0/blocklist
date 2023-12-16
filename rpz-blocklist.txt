@@ -19852,3 +19852,4 @@ converthero.com CNAME .
 safeopt.com CNAME .
 remindee.io CNAME .
 ; allow about:blank reason: about:blank
+inbassador.io CNAME .

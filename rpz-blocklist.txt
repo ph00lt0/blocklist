@@ -19850,3 +19850,4 @@ girafi.io CNAME .
 girafi.co CNAME .
 converthero.com CNAME .
 safeopt.com CNAME .
+remindee.io CNAME .

@@ -19848,3 +19848,4 @@ simplesharingbuttons.com CNAME .
 optkit.com CNAME .
 girafi.io CNAME .
 girafi.co CNAME .
+converthero.com CNAME .

@@ -19851,3 +19851,4 @@ local-zone: "simplesharingbuttons.com." always_null
 local-zone: "optkit.com." always_null
 local-zone: "girafi.io." always_null
 local-zone: "girafi.co." always_null
+local-zone: "converthero.com." always_null

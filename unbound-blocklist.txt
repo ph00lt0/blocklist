@@ -19841,3 +19841,4 @@ local-zone: "ugr.to." always_null
 local-zone: "uqr.to." always_null
 local-zone: "qrcodekit.com." always_null
 local-zone: "uqr.me." always_null
+local-zone: "qrcodekit.to." always_null

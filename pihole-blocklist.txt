@@ -19946,3 +19946,4 @@
 0.0.0.0 uqr.to
 0.0.0.0 qrcodekit.com
 0.0.0.0 uqr.me
+0.0.0.0 qrcodekit.to

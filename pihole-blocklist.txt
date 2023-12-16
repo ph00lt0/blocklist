@@ -19953,3 +19953,4 @@
 0.0.0.0 shareaholic.com
 0.0.0.0 enthropia.com
 0.0.0.0 simplesharingbuttons.com
+0.0.0.0 optkit.com

@@ -19845,3 +19845,4 @@ getsocial.io CNAME .
 shareaholic.com CNAME .
 enthropia.com CNAME .
 simplesharingbuttons.com CNAME .
+optkit.com CNAME .

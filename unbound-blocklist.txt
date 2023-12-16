@@ -19839,3 +19839,4 @@ local-zone: "rlwy.net." always_null
 local-zone: "oath.cloud." always_null
 local-zone: "ugr.to." always_null
 local-zone: "uqr.to." always_null
+local-zone: "qrcodekit.com." always_null

@@ -20554,3 +20554,4 @@ poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||ugr.to^
 ||uqr.to^
 ||qrcodekit.com^
+||uqr.me^

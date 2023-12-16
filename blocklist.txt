@@ -20542,7 +20542,7 @@ bever.nl##body:style(overflow: auto!important)
 ||mediapart.fr^
 ||martookdepartment.com^
 ||kitchentooles.com^
-poostnl.nl##.pci-cookie-button-inner .pci-button--primary
+postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||api.privacy-center.org^
 ||yahoodns.net^
 ||akadns.net^
@@ -20557,3 +20557,4 @@ poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||uqr.me^
 ||qrcodekit.to^
 ||mobileleaves.com^
+||cf.iadsdk.apple.com^

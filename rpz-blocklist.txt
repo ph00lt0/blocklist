@@ -19840,3 +19840,4 @@ qrcodekit.com CNAME .
 uqr.me CNAME .
 qrcodekit.to CNAME .
 mobileleaves.com CNAME .
+cf.iadsdk.apple.com CNAME .

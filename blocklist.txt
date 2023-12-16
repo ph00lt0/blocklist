@@ -20558,3 +20558,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||qrcodekit.to^
 ||mobileleaves.com^
 ||cf.iadsdk.apple.com^
+||getsocial.io^

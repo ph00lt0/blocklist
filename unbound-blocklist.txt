@@ -19844,3 +19844,4 @@ local-zone: "uqr.me." always_null
 local-zone: "qrcodekit.to." always_null
 local-zone: "mobileleaves.com." always_null
 local-zone: "cf.iadsdk.apple.com." always_null
+local-zone: "getsocial.io." always_null

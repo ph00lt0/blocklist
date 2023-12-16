@@ -19957,3 +19957,4 @@
 0.0.0.0 girafi.io
 0.0.0.0 girafi.co
 0.0.0.0 converthero.com
+0.0.0.0 safeopt.com

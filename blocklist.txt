@@ -20566,3 +20566,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||girafi.io^
 ||girafi.co^
 ||converthero.com^
+||safeopt.com^

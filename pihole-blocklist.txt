@@ -19950,3 +19950,4 @@
 0.0.0.0 mobileleaves.com
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 getsocial.io
+0.0.0.0 shareaholic.com

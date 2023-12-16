@@ -19842,3 +19842,4 @@ qrcodekit.to CNAME .
 mobileleaves.com CNAME .
 cf.iadsdk.apple.com CNAME .
 getsocial.io CNAME .
+shareaholic.com CNAME .

@@ -19847,3 +19847,4 @@ local-zone: "cf.iadsdk.apple.com." always_null
 local-zone: "getsocial.io." always_null
 local-zone: "shareaholic.com." always_null
 local-zone: "enthropia.com." always_null
+local-zone: "simplesharingbuttons.com." always_null

@@ -19952,3 +19952,4 @@
 0.0.0.0 getsocial.io
 0.0.0.0 shareaholic.com
 0.0.0.0 enthropia.com
+0.0.0.0 simplesharingbuttons.com

@@ -20561,3 +20561,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||getsocial.io^
 ||shareaholic.com^
 ||enthropia.com^
+||simplesharingbuttons.com^

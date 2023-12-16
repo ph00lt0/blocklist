@@ -19849,3 +19849,4 @@ local-zone: "shareaholic.com." always_null
 local-zone: "enthropia.com." always_null
 local-zone: "simplesharingbuttons.com." always_null
 local-zone: "optkit.com." always_null
+local-zone: "girafi.io." always_null

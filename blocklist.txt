@@ -20563,3 +20563,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||enthropia.com^
 ||simplesharingbuttons.com^
 ||optkit.com^
+||girafi.io^

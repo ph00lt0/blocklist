@@ -19847,3 +19847,4 @@ enthropia.com CNAME .
 simplesharingbuttons.com CNAME .
 optkit.com CNAME .
 girafi.io CNAME .
+girafi.co CNAME .

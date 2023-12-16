@@ -19955,3 +19955,4 @@
 0.0.0.0 simplesharingbuttons.com
 0.0.0.0 optkit.com
 0.0.0.0 girafi.io
+0.0.0.0 girafi.co

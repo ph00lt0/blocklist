@@ -19839,3 +19839,4 @@ uqr.to CNAME .
 qrcodekit.com CNAME .
 uqr.me CNAME .
 qrcodekit.to CNAME .
+mobileleaves.com CNAME .

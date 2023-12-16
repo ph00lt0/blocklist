@@ -20552,3 +20552,4 @@ poostnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||rlwy.net^
 ||oath.cloud^
 ||ugr.to^
+||uqr.to^

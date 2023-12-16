@@ -19943,3 +19943,4 @@
 0.0.0.0 rlwy.net
 0.0.0.0 oath.cloud
 0.0.0.0 ugr.to
+0.0.0.0 uqr.to

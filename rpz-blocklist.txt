@@ -19835,3 +19835,4 @@ uip.semasio.net CNAME .
 rlwy.net CNAME .
 oath.cloud CNAME .
 ugr.to CNAME .
+uqr.to CNAME .

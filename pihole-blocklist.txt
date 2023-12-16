@@ -19959,4 +19959,4 @@
 0.0.0.0 converthero.com
 0.0.0.0 safeopt.com
 0.0.0.0 remindee.io
-0.0.0.0 about:blank
+! allow about:blank reason: about:blank

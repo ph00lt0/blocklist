@@ -19854,4 +19854,4 @@ local-zone: "girafi.co." always_null
 local-zone: "converthero.com." always_null
 local-zone: "safeopt.com." always_null
 local-zone: "remindee.io." always_null
-local-zone: "about:blank." always_null
+# allow about:blank reason: about:blank

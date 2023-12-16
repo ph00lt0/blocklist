@@ -19851,4 +19851,4 @@ girafi.co CNAME .
 converthero.com CNAME .
 safeopt.com CNAME .
 remindee.io CNAME .
-about:blank CNAME .
+; allow about:blank reason: about:blank

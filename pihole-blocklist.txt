@@ -19942,3 +19942,4 @@
 0.0.0.0 uip.semasio.net
 0.0.0.0 rlwy.net
 0.0.0.0 oath.cloud
+0.0.0.0 ugr.to

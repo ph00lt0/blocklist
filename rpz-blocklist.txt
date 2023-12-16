@@ -19834,3 +19834,4 @@ sync.srv.stackadapt.com CNAME .
 uip.semasio.net CNAME .
 rlwy.net CNAME .
 oath.cloud CNAME .
+ugr.to CNAME .

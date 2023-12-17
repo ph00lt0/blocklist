@@ -19960,3 +19960,4 @@
 ! allow about:blank reason: about:blank
 0.0.0.0 inbassador.io
 0.0.0.0 webvem.com
+0.0.0.0 px.adnxs.com

@@ -20570,3 +20570,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||about:blank^$badfilter  # about:blank
 ||inbassador.io^
 ||webvem.com^
+||px.adnxs.com^

@@ -19961,3 +19961,4 @@
 0.0.0.0 inbassador.io
 0.0.0.0 webvem.com
 0.0.0.0 px.adnxs.com
+0.0.0.0 permaleads.ch

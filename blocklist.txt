@@ -20571,3 +20571,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||inbassador.io^
 ||webvem.com^
 ||px.adnxs.com^
+||permaleads.ch^

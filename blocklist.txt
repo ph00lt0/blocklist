@@ -20575,3 +20575,4 @@ postnl.nl##.pci-cookie-button-inner .pci-button--primary
 duckduckgo.com##.O9Ipab51rBntYb0pwOQn
 duckduckgo.com##.tagline_tagline__xryVo
 duckduckgo.com##.showcase
+duckduckgo.com##.js-feedback-btn-wrap

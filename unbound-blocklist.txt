@@ -19857,3 +19857,4 @@ local-zone: "inbassador.io." always_null
 local-zone: "webvem.com." always_null
 local-zone: "px.adnxs.com." always_null
 local-zone: "permaleads.ch." always_null
+local-zone: "screenrant.com." always_null

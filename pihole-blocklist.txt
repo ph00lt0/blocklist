@@ -19962,3 +19962,4 @@
 0.0.0.0 webvem.com
 0.0.0.0 px.adnxs.com
 0.0.0.0 permaleads.ch
+0.0.0.0 screenrant.com

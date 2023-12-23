@@ -19854,3 +19854,4 @@ inbassador.io CNAME .
 webvem.com CNAME .
 px.adnxs.com CNAME .
 permaleads.ch CNAME .
+screenrant.com CNAME .

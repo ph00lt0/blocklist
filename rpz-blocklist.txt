@@ -19855,3 +19855,4 @@ webvem.com CNAME .
 px.adnxs.com CNAME .
 permaleads.ch CNAME .
 screenrant.com CNAME .
+blue-sail.net CNAME .

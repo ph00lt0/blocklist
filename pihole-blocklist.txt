@@ -19971,3 +19971,4 @@
 0.0.0.0 1337x.to
 0.0.0.0 pcs.geforcenow.com
 0.0.0.0 metrics.foxnews.com
+0.0.0.0 datacollector-dre.dt.hicloud.com

@@ -20604,3 +20604,4 @@ annual-report-triodos.com##.cookie-bar
 ||1337x.to^
 ||pcs.geforcenow.com^
 ||metrics.foxnews.com^
+||datacollector-dre.dt.hicloud.com^

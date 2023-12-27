@@ -19874,3 +19874,4 @@ local-zone: "living-data.com." always_null
 local-zone: "living-data.nl." always_null
 local-zone: "wownow.nl." always_null
 local-zone: "timvanvlierden.nl." always_null
+local-zone: "niekvangulik.nl." always_null

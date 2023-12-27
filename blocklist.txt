@@ -20606,3 +20606,4 @@ annual-report-triodos.com##.cookie-bar
 ||metrics.foxnews.com^
 ||datacollector-dre.dt.hicloud.com^
 ||intellexweb.com^
+||/merkle.com^

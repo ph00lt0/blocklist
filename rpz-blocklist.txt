@@ -19866,3 +19866,4 @@ metrics.foxnews.com CNAME .
 datacollector-dre.dt.hicloud.com CNAME .
 intellexweb.com CNAME .
 /merkle.com CNAME .
+curoadvies.nl CNAME .

@@ -19869,3 +19869,4 @@ local-zone: "metrics.foxnews.com." always_null
 local-zone: "datacollector-dre.dt.hicloud.com." always_null
 local-zone: "intellexweb.com." always_null
 local-zone: "/merkle.com." always_null
+local-zone: "curoadvies.nl." always_null

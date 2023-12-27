@@ -20586,3 +20586,4 @@ duckduckgo.com##+js(set-cookie, ao, -1)
 duckduckgo.com##+js(set-cookie, 1, -1)
 duckduckgo.com##+js(set-cookie, n, -1)
 ||screenrant.com^
+triodos.nl##.cookie-bar

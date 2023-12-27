@@ -20577,4 +20577,12 @@ duckduckgo.com##.tagline_tagline__xryVo
 duckduckgo.com##.showcase
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.feedback-prompt
+duckduckgo.com##+js(set-cookie, ak, -1) # clutter
+duckduckgo.com##+js(set-cookie, ap, -1) # clutter
+duckduckgo.com##+js(set-cookie, aq, -1) # clutter
+duckduckgo.com##+js(set-cookie, ax, -1) # clutter
+duckduckgo.com##+js(set-cookie, au, -1) # telemetry improvements
+duckduckgo.com##+js(set-cookie, ao, -1) # clutter
+duckduckgo.com##+js(set-cookie, 1, -1) # ads
+duckduckgo.com##+js(set-cookie, n, -1) # new tab
 ||screenrant.com^

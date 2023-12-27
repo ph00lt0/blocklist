@@ -19865,3 +19865,4 @@ local-zone: "cx.management." always_null
 local-zone: "federatedcompute-pa.googleapis.com." always_null
 local-zone: "1337x.to." always_null
 local-zone: "pcs.geforcenow.com." always_null
+local-zone: "metrics.foxnews.com." always_null

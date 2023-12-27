@@ -19970,3 +19970,4 @@
 0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 1337x.to
 0.0.0.0 pcs.geforcenow.com
+0.0.0.0 metrics.foxnews.com

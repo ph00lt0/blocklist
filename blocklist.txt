@@ -20603,3 +20603,4 @@ annual-report-triodos.com##.cookie-bar
 ||federatedcompute-pa.googleapis.com^
 ||1337x.to^
 ||pcs.geforcenow.com^
+||metrics.foxnews.com^

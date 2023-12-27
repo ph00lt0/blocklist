@@ -20588,3 +20588,4 @@ duckduckgo.com##+js(set-cookie, n, -1)
 ||screenrant.com^
 triodos.nl##.cookie-bar
 triodos.co.uk##.cookie-bar
+triodos.de##.cookie-bar

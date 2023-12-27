@@ -19870,3 +19870,4 @@ local-zone: "datacollector-dre.dt.hicloud.com." always_null
 local-zone: "intellexweb.com." always_null
 local-zone: "/merkle.com." always_null
 local-zone: "curoadvies.nl." always_null
+local-zone: "living-data.com." always_null

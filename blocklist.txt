@@ -20608,3 +20608,4 @@ annual-report-triodos.com##.cookie-bar
 ||intellexweb.com^
 ||/merkle.com^
 ||curoadvies.nl^
+||living-data.com^

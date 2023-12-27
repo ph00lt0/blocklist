@@ -19867,3 +19867,4 @@ datacollector-dre.dt.hicloud.com CNAME .
 intellexweb.com CNAME .
 /merkle.com CNAME .
 curoadvies.nl CNAME .
+living-data.com CNAME .

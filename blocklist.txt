@@ -20597,3 +20597,4 @@ triodosfoundation.nl##.cookie-bar
 triodos-im.com##.cookie-bar
 annual-report-triodos.com##.cookie-bar
 ||blue-sail.net^
+||intersolve.nl^

@@ -19964,3 +19964,4 @@
 0.0.0.0 permaleads.ch
 0.0.0.0 screenrant.com
 0.0.0.0 blue-sail.net
+0.0.0.0 intersolve.nl

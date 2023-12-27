@@ -20591,3 +20591,4 @@ triodos.co.uk##.cookie-bar
 triodos.de##.cookie-bar
 triodos.be##.cookie-bar
 triodos.fr##.cookie-bar
+triodos.es##.cookie-bar

@@ -19858,3 +19858,4 @@ screenrant.com CNAME .
 blue-sail.net CNAME .
 intersolve.nl CNAME .
 flbx.io CNAME .
+cx.management CNAME .

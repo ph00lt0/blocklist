@@ -20599,3 +20599,4 @@ annual-report-triodos.com##.cookie-bar
 ||blue-sail.net^
 ||intersolve.nl^
 ||flbx.io^
+||cx.management^

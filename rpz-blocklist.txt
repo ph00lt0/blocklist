@@ -19874,3 +19874,4 @@ timvanvlierden.nl CNAME .
 niekvangulik.nl CNAME .
 customer-i.nl CNAME .
 concentrix.com CNAME .
+merkle.com CNAME .

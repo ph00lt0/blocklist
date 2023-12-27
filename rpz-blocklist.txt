@@ -19873,3 +19873,4 @@ wownow.nl CNAME .
 timvanvlierden.nl CNAME .
 niekvangulik.nl CNAME .
 customer-i.nl CNAME .
+concentrix.com CNAME .

@@ -20592,3 +20592,4 @@ triodos.de##.cookie-bar
 triodos.be##.cookie-bar
 triodos.fr##.cookie-bar
 triodos.es##.cookie-bar
+triodos.com##.cookie-bar

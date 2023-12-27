@@ -19864,3 +19864,4 @@ federatedcompute-pa.googleapis.com CNAME .
 pcs.geforcenow.com CNAME .
 metrics.foxnews.com CNAME .
 datacollector-dre.dt.hicloud.com CNAME .
+intellexweb.com CNAME .

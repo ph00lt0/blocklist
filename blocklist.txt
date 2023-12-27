@@ -20609,3 +20609,4 @@ annual-report-triodos.com##.cookie-bar
 ||/merkle.com^
 ||curoadvies.nl^
 ||living-data.com^
+||living-data.nl^

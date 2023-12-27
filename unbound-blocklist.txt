@@ -19860,3 +19860,4 @@ local-zone: "permaleads.ch." always_null
 local-zone: "screenrant.com." always_null
 local-zone: "blue-sail.net." always_null
 local-zone: "intersolve.nl." always_null
+local-zone: "flbx.io." always_null

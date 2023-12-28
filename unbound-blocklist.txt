@@ -19878,3 +19878,4 @@ local-zone: "niekvangulik.nl." always_null
 local-zone: "customer-i.nl." always_null
 local-zone: "concentrix.com." always_null
 local-zone: "merkle.com." always_null
+local-zone: "telemetry.canva.com." always_null

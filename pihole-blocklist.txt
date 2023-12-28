@@ -19983,3 +19983,4 @@
 0.0.0.0 customer-i.nl
 0.0.0.0 concentrix.com
 0.0.0.0 merkle.com
+0.0.0.0 telemetry.canva.com

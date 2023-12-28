@@ -19875,3 +19875,4 @@ niekvangulik.nl CNAME .
 customer-i.nl CNAME .
 concentrix.com CNAME .
 merkle.com CNAME .
+telemetry.canva.com CNAME .

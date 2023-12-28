@@ -19877,3 +19877,4 @@ concentrix.com CNAME .
 merkle.com CNAME .
 telemetry.canva.com CNAME .
 lexer.io CNAME .
+tm.monks.com CNAME .

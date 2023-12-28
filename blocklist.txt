@@ -20618,3 +20618,4 @@ annual-report-triodos.com##.cookie-bar
 ||merkle.com^
 ||telemetry.canva.com^
 ||lexer.io^
+||tm.monks.com^

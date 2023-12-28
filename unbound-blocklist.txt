@@ -19880,3 +19880,4 @@ local-zone: "concentrix.com." always_null
 local-zone: "merkle.com." always_null
 local-zone: "telemetry.canva.com." always_null
 local-zone: "lexer.io." always_null
+local-zone: "tm.monks.com." always_null

@@ -19985,3 +19985,4 @@
 0.0.0.0 merkle.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 lexer.io
+0.0.0.0 tm.monks.com

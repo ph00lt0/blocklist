@@ -20617,3 +20617,4 @@ annual-report-triodos.com##.cookie-bar
 ||concentrix.com^
 ||merkle.com^
 ||telemetry.canva.com^
+||lexer.io^

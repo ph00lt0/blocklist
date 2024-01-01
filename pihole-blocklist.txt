@@ -14725,7 +14725,7 @@
 0.0.0.0 boreus.de
 0.0.0.0 bosch-so.com
 0.0.0.0 bounce-commerce.de
-0.0.0.0 br.de
+! allow br.de reason: Radio station
 0.0.0.0 brainsland.com
 ! allow brother.eu reason: not a tracker
 0.0.0.0 brytes.de

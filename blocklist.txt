@@ -15048,7 +15048,7 @@ $removeparam=engagement_type
 ||boreus.de^
 ||bosch-so.com^
 ||bounce-commerce.de^
-||br.de^
+||br.de^$badfilter  # Radio station
 ||brainsland.com^
 ||brother.eu^$badfilter  # not a tracker
 ||brytes.de^

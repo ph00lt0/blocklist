@@ -3141,7 +3141,7 @@
 ||developer.livehelpnow.net^
 ||mb.cision.com^$badfilter  # Not a tracker
 ||websolutions.ne.cision.com^
-||highcharts.com^
+||highcharts.com^$badfilter  # JS CDN
 ||code.highcharts.com^
 ||020425.ingest.sentry.io^
 ||analytics2.uros.icu^

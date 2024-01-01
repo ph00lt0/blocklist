@@ -3078,8 +3078,8 @@ secure.east2pony.com CNAME .
 east2pony.com CNAME .
 developer.livehelpnow.net CNAME .
 websolutions.ne.cision.com CNAME .
-highcharts.com CNAME .
-code.highcharts.com CNAME .
+; allow highcharts.com reason: JS CDN
+code.; allow highcharts.com reason: JS CDN
 020425.ingest.sentry.io CNAME .
 analytics2.uros.icu CNAME .
 sanalytics.spreadshirt.com CNAME .

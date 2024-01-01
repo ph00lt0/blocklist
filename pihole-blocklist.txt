@@ -3136,7 +3136,7 @@
 0.0.0.0 developer.livehelpnow.net
 ! allow mb.cision.com reason: Not a tracker
 0.0.0.0 websolutions.ne.cision.com
-0.0.0.0 highcharts.com
+! allow highcharts.com reason: JS CDN
 0.0.0.0 code.highcharts.com
 0.0.0.0 020425.ingest.sentry.io
 0.0.0.0 analytics2.uros.icu

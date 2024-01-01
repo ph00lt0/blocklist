@@ -3137,7 +3137,7 @@
 ! allow mb.cision.com reason: Not a tracker
 0.0.0.0 websolutions.ne.cision.com
 ! allow highcharts.com reason: JS CDN
-0.0.0.0 code.highcharts.com
+! allow code.highcharts.com reason: JS CDN
 0.0.0.0 020425.ingest.sentry.io
 0.0.0.0 analytics2.uros.icu
 0.0.0.0 sanalytics.spreadshirt.com

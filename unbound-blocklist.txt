@@ -3081,7 +3081,7 @@ local-zone: "east2pony.com." always_null
 local-zone: "developer.livehelpnow.net." always_null
 local-zone: "websolutions.ne.cision.com." always_null
 # allow highcharts.com reason: JS CDN
-local-zone: "code.highcharts.com." always_null
+# allow code.highcharts.com reason: JS CDN
 local-zone: "020425.ingest.sentry.io." always_null
 local-zone: "analytics2.uros.icu." always_null
 local-zone: "sanalytics.spreadshirt.com." always_null

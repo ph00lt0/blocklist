@@ -19904,3 +19904,4 @@ local-zone: "bitrix24.ru." always_null
 local-zone: "beget.com." always_null
 local-zone: "csp.yandex.net." always_null
 local-zone: "pubnation.com." always_null
+local-zone: "acfeedbackws.icloud.com." always_null

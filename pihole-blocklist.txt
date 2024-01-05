@@ -20011,3 +20011,4 @@
 0.0.0.0 pubnation.com
 0.0.0.0 acfeedbackws.icloud.com
 0.0.0.0 disneyadvertising.com
+0.0.0.0 newyearawards.cloud

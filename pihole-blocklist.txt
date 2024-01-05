@@ -20010,3 +20010,4 @@
 0.0.0.0 csp.yandex.net
 0.0.0.0 pubnation.com
 0.0.0.0 acfeedbackws.icloud.com
+0.0.0.0 disneyadvertising.com

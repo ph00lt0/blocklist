@@ -20643,3 +20643,4 @@ annual-report-triodos.com##.cookie-bar
 ||csp.yandex.net^
 ||pubnation.com^
 ||acfeedbackws.icloud.com^
+||disneyadvertising.com^

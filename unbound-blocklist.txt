@@ -19907,3 +19907,4 @@ local-zone: "pubnation.com." always_null
 local-zone: "acfeedbackws.icloud.com." always_null
 local-zone: "disneyadvertising.com." always_null
 local-zone: "newyearawards.cloud." always_null
+local-zone: "dapp-radar.info." always_null

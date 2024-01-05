@@ -20645,3 +20645,4 @@ annual-report-triodos.com##.cookie-bar
 ||acfeedbackws.icloud.com^
 ||disneyadvertising.com^
 ||newyearawards.cloud^
+||dapp-radar.info^

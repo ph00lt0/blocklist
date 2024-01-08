@@ -19357,6 +19357,22 @@
         "acfeedbackws.icloud.com",
         "disneyadvertising.com",
         "newyearawards.cloud",
-        "dapp-radar.info"
+        "dapp-radar.info",
+        "b-graph.facebook.com",
+        "b-graph-fallback.facebook.com",
+        "graph-fallback.facebook.com",
+        "z-m-graph.facebook.com",
+        "graph.fbpigeon.com",
+        "desan.nl",
+        "cookiesmanager.valk.com",
+        "ads-api.tiktok.com",
+        "fc.yahoo.com",
+        "advertising.yahoo.com",
+        "offerwall.yandex.net",
+        "adfox.yandex.ru",
+        "realmemobile.com",
+        "mistat.xiaomi.com",
+        "mistat.india.xiaomi.com",
+        "mistat.rus.xiaomi.com"
     ]
 }

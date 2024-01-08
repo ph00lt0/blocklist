@@ -19924,3 +19924,4 @@ local-zone: "realmemobile.com." always_null
 local-zone: "mistat.xiaomi.com." always_null
 local-zone: "mistat.india.xiaomi.com." always_null
 local-zone: "mistat.rus.xiaomi.com." always_null
+local-zone: "mediad-groep.nl." always_null

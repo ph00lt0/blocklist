@@ -20662,3 +20662,4 @@ annual-report-triodos.com##.cookie-bar
 ||mistat.xiaomi.com^
 ||mistat.india.xiaomi.com^
 ||mistat.rus.xiaomi.com^
+||mediad-groep.nl^

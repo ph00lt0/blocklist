@@ -19927,3 +19927,4 @@ euc-excel-telemetry.officeapps.live.com CNAME .
 rokt.com CNAME .
 knocdn.com CNAME .
 knocommerce.com CNAME .
+intelligems.io CNAME .

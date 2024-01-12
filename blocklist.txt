@@ -20667,3 +20667,4 @@ annual-report-triodos.com##.cookie-bar
 ||euc-excel-telemetry.officeapps.live.com^
 ||rokt.com^
 ||knocdn.com^
+||knocommerce.com^

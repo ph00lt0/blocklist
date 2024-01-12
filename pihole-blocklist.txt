@@ -20034,3 +20034,4 @@
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 rokt.com
 0.0.0.0 knocdn.com
+0.0.0.0 knocommerce.com

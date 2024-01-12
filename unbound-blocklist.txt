@@ -19928,3 +19928,4 @@ local-zone: "mediad-groep.nl." always_null
 local-zone: "pr.co." always_null
 local-zone: "euc-excel-telemetry.officeapps.live.com." always_null
 local-zone: "rokt.com." always_null
+local-zone: "knocdn.com." always_null

@@ -19925,3 +19925,4 @@ mediad-groep.nl CNAME .
 pr.co CNAME .
 euc-excel-telemetry.officeapps.live.com CNAME .
 rokt.com CNAME .
+knocdn.com CNAME .

@@ -20669,3 +20669,4 @@ annual-report-triodos.com##.cookie-bar
 ||knocdn.com^
 ||knocommerce.com^
 ||intelligems.io^
+^api/site/analytics^

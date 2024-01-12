@@ -20032,3 +20032,4 @@
 0.0.0.0 mediad-groep.nl
 0.0.0.0 pr.co
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
+0.0.0.0 rokt.com

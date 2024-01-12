@@ -20665,3 +20665,4 @@ annual-report-triodos.com##.cookie-bar
 ||mediad-groep.nl^
 ||pr.co^
 ||euc-excel-telemetry.officeapps.live.com^
+||rokt.com^

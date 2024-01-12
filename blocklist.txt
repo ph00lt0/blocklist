@@ -20664,3 +20664,4 @@ annual-report-triodos.com##.cookie-bar
 ||mistat.rus.xiaomi.com^
 ||mediad-groep.nl^
 ||pr.co^
+||euc-excel-telemetry.officeapps.live.com^

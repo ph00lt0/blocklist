@@ -19923,3 +19923,4 @@ mistat.india.xiaomi.com CNAME .
 mistat.rus.xiaomi.com CNAME .
 mediad-groep.nl CNAME .
 pr.co CNAME .
+euc-excel-telemetry.officeapps.live.com CNAME .

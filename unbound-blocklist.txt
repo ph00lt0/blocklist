@@ -19935,3 +19935,4 @@ local-zone: "protechts.net." always_null
 local-zone: "gagdonkey.net." always_null
 local-zone: "sheerid.com." always_null
 local-zone: "training.marketing.linkedin.com." always_null
+local-zone: "training.talent.linkedin.com." always_null

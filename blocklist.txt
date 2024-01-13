@@ -20675,3 +20675,4 @@ annual-report-triodos.com##.cookie-bar
 ||gagdonkey.net^
 ||sheerid.com^
 ||training.marketing.linkedin.com^
+||training.talent.linkedin.com^

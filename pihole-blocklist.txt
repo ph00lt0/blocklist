@@ -20040,3 +20040,4 @@
 0.0.0.0 gagdonkey.net
 0.0.0.0 sheerid.com
 0.0.0.0 training.marketing.linkedin.com
+0.0.0.0 training.talent.linkedin.com

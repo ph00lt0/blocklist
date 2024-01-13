@@ -20702,3 +20702,4 @@ valk.com##valk-nx-cookie-manager
 ||kayak.nl/s/horizon^
 ||kayak.nl/s^
 ||accounts.google.com^$third-party
+bol.com###js-first-screen-accept-all-button

@@ -20672,3 +20672,4 @@ annual-report-triodos.com##.cookie-bar
 ||intelligems.io^
 ^api/site/analytics^
 ||protechts.net^
+||gagdonkey.net^

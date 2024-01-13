@@ -20694,3 +20694,4 @@ annual-report-triodos.com##.cookie-bar
 ||hemitus.digital^
 ||mailgun.org^
 ||indianadscompany.com^
+||zoover.nl^$third-party

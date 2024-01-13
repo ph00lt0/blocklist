@@ -20693,3 +20693,4 @@ annual-report-triodos.com##.cookie-bar
 ||cluebird.digital^
 ||hemitus.digital^
 ||mailgun.org^
+||indianadscompany.com^

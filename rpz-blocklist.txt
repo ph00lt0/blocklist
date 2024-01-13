@@ -19949,3 +19949,4 @@ sprinexo.digital CNAME .
 cluebird.digital CNAME .
 hemitus.digital CNAME .
 mailgun.org CNAME .
+indianadscompany.com CNAME .

@@ -20681,3 +20681,4 @@ annual-report-triodos.com##.cookie-bar
 ||peopleacademy.glintinc.com^
 ||scommunity.linkedin.com^
 ||tcommunity.linkedin.com^
+||baidu.com/link^

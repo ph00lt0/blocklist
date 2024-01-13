@@ -20700,3 +20700,4 @@ valk.com##valk-nx-cookie-manager
 ||wc.vandervalkonline.com^
 ||kayak.nl/a^
 ||kayak.nl/s/horizon^
+||kayak.nl/s^

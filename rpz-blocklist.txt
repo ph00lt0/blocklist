@@ -19939,3 +19939,4 @@ peopleacademy.glintinc.com CNAME .
 scommunity.linkedin.com CNAME .
 tcommunity.linkedin.com CNAME .
 mailgun.net CNAME .
+conta.cc CNAME .

@@ -19933,3 +19933,4 @@ local-zone: "knocommerce.com." always_null
 local-zone: "intelligems.io." always_null
 local-zone: "protechts.net." always_null
 local-zone: "gagdonkey.net." always_null
+local-zone: "sheerid.com." always_null

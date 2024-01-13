@@ -20673,3 +20673,4 @@ annual-report-triodos.com##.cookie-bar
 ^api/site/analytics^
 ||protechts.net^
 ||gagdonkey.net^
+||sheerid.com^

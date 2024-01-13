@@ -19930,3 +19930,4 @@ knocommerce.com CNAME .
 intelligems.io CNAME .
 protechts.net CNAME .
 gagdonkey.net CNAME .
+sheerid.com CNAME .

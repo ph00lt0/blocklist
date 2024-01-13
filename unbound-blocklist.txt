@@ -19946,3 +19946,4 @@ local-zone: "conta.cc." always_null
 local-zone: "linguise.com." always_null
 local-zone: "notifyvisitors.com." always_null
 local-zone: "brandmatchers.nl." always_null
+local-zone: "brandmatchers.tech." always_null

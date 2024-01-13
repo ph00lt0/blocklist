@@ -20677,3 +20677,4 @@ annual-report-triodos.com##.cookie-bar
 ||training.marketing.linkedin.com^
 ||training.talent.linkedin.com^
 ||training.sales.linkedin.com^
+||glint-people-academy.skilljar.com^

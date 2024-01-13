@@ -20695,3 +20695,4 @@ annual-report-triodos.com##.cookie-bar
 ||mailgun.org^
 ||indianadscompany.com^
 ||zoover.nl^$third-party
+valk.com##valk-nx-cookie-manager

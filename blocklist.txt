@@ -18858,11 +18858,11 @@ nuget.org###cookie-banner
 ||footprintdns.com^
 ||insights-collector.gog.com^
 ||aa.google.com^
-||fonts.gstatic.com^$third-party
+||fonts.gstatic.com^$badfilter  # to many broken websites without icons$third-party
 ||fonts.googleapis.com^$third-party
 @@||fonts.googleapis.com^$domain=google.com
-@@||fonts.gstatic.com^$font,domain=google.com
-@@||fonts.gstatic.com^$font,domain=gmail.com
+@@||fonts.gstatic.com^$badfilter  # to many broken websites without icons$font,domain=google.com
+@@||fonts.gstatic.com^$badfilter  # to many broken websites without icons$font,domain=gmail.com
 ||peoplestackwebexperiments-pa.clients6.google.com^
 ||helderepromotie.nl^
 ||dy-api.com^

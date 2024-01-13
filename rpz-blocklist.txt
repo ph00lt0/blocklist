@@ -19950,3 +19950,4 @@ cluebird.digital CNAME .
 hemitus.digital CNAME .
 mailgun.org CNAME .
 indianadscompany.com CNAME .
+cookiesmanager.vandervalkonline.com CNAME .

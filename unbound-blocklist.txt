@@ -19953,3 +19953,4 @@ local-zone: "cluebird.digital." always_null
 local-zone: "hemitus.digital." always_null
 local-zone: "mailgun.org." always_null
 local-zone: "indianadscompany.com." always_null
+local-zone: "cookiesmanager.vandervalkonline.com." always_null

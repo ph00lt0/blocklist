@@ -20684,3 +20684,4 @@ annual-report-triodos.com##.cookie-bar
 ||baidu.com/link^
 ||mailgun.net^
 ||conta.cc^
+||linguise.com^

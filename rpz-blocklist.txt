@@ -19951,3 +19951,4 @@ hemitus.digital CNAME .
 mailgun.org CNAME .
 indianadscompany.com CNAME .
 cookiesmanager.vandervalkonline.com CNAME .
+wc.vandervalkonline.com CNAME .

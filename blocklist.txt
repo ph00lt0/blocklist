@@ -20697,3 +20697,4 @@ annual-report-triodos.com##.cookie-bar
 ||zoover.nl^$third-party
 valk.com##valk-nx-cookie-manager
 ||cookiesmanager.vandervalkonline.com^
+||wc.vandervalkonline.com^

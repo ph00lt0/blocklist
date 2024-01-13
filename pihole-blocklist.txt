@@ -20059,3 +20059,4 @@
 0.0.0.0 mailgun.org
 0.0.0.0 indianadscompany.com
 0.0.0.0 cookiesmanager.vandervalkonline.com
+0.0.0.0 wc.vandervalkonline.com

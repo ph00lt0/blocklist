@@ -619,6 +619,7 @@
 ||safebrowsing.googleapis.com^$badfilter  # security over privacy i guess
 ||userlocation.googleapis.com^
 ||*-pa.googleapis.com^$third-party
+@@||streetviewpixels-pa.googleapis.com^$domain=google.com  # Exception for streetview on google.com
 ||googleadservices.com^
 ||mtalk.google.com^$badfilter  # Google Cloud Messaging
 ||smartlock.google.com^

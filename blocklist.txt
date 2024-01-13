@@ -20691,3 +20691,4 @@ annual-report-triodos.com##.cookie-bar
 ||page.link^
 ||sprinexo.digital^
 ||cluebird.digital^
+||hemitus.digital^

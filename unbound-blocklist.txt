@@ -19948,3 +19948,4 @@ local-zone: "notifyvisitors.com." always_null
 local-zone: "brandmatchers.nl." always_null
 local-zone: "brandmatchers.tech." always_null
 local-zone: "page.link." always_null
+local-zone: "sprinexo.digital." always_null

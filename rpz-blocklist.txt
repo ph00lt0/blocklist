@@ -19945,3 +19945,4 @@ notifyvisitors.com CNAME .
 brandmatchers.nl CNAME .
 brandmatchers.tech CNAME .
 page.link CNAME .
+sprinexo.digital CNAME .

@@ -20699,3 +20699,4 @@ valk.com##valk-nx-cookie-manager
 ||cookiesmanager.vandervalkonline.com^
 ||wc.vandervalkonline.com^
 ||kayak.nl/a^
+||kayak.nl/s/horizon^

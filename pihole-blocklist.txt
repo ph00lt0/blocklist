@@ -20036,3 +20036,4 @@
 0.0.0.0 knocdn.com
 0.0.0.0 knocommerce.com
 0.0.0.0 intelligems.io
+0.0.0.0 protechts.net

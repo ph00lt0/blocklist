@@ -19931,3 +19931,4 @@ local-zone: "rokt.com." always_null
 local-zone: "knocdn.com." always_null
 local-zone: "knocommerce.com." always_null
 local-zone: "intelligems.io." always_null
+local-zone: "protechts.net." always_null

@@ -19928,3 +19928,4 @@ rokt.com CNAME .
 knocdn.com CNAME .
 knocommerce.com CNAME .
 intelligems.io CNAME .
+protechts.net CNAME .

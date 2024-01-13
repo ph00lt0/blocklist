@@ -20698,3 +20698,4 @@ annual-report-triodos.com##.cookie-bar
 valk.com##valk-nx-cookie-manager
 ||cookiesmanager.vandervalkonline.com^
 ||wc.vandervalkonline.com^
+||kayak.nl/a^

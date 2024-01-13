@@ -19935,3 +19935,4 @@ training.marketing.linkedin.com CNAME .
 training.talent.linkedin.com CNAME .
 training.sales.linkedin.com CNAME .
 glint-people-academy.skilljar.com CNAME .
+peopleacademy.glintinc.com CNAME .

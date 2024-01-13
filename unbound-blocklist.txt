@@ -19939,3 +19939,4 @@ local-zone: "training.talent.linkedin.com." always_null
 local-zone: "training.sales.linkedin.com." always_null
 local-zone: "glint-people-academy.skilljar.com." always_null
 local-zone: "peopleacademy.glintinc.com." always_null
+local-zone: "scommunity.linkedin.com." always_null

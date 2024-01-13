@@ -20676,3 +20676,4 @@ annual-report-triodos.com##.cookie-bar
 ||sheerid.com^
 ||training.marketing.linkedin.com^
 ||training.talent.linkedin.com^
+||training.sales.linkedin.com^

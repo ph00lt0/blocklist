@@ -19948,3 +19948,4 @@ page.link CNAME .
 sprinexo.digital CNAME .
 cluebird.digital CNAME .
 hemitus.digital CNAME .
+mailgun.org CNAME .

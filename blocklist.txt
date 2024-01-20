@@ -20707,3 +20707,4 @@ bol.com##wsp-modal-window
 vbo.nl##body:style(overflow: auto!important)
 vbo.nl###cookiewall
 bol.com##+js(rc, modal--is-open, body, stay)
+bol.com##.smartbanner

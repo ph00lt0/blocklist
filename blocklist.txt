@@ -20705,3 +20705,4 @@ valk.com##valk-nx-cookie-manager
 bol.com###js-first-screen-accept-all-button
 bol.com##wsp-modal-window
 vbo.nl##body:style(overflow: auto!important)
+vbo.nl###cookiewall

@@ -20710,3 +20710,4 @@ bol.com##+js(rc, modal--is-open, body, stay)
 bol.com##.smartbanner
 ||oneplus.net^
 ||google.com/appserve^
+||maillist-manage.com/click^

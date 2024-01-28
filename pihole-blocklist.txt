@@ -20061,3 +20061,4 @@
 0.0.0.0 cookiesmanager.vandervalkonline.com
 0.0.0.0 wc.vandervalkonline.com
 0.0.0.0 oneplus.net
+0.0.0.0 cleverreach.com

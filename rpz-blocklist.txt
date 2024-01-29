@@ -19956,3 +19956,17 @@ oneplus.net CNAME .
 cleverreach.com CNAME .
 keap-link006.com CNAME .
 gfkpanel.nl CNAME .
+jdt8.net CNAME .
+hashting.cash CNAME .
+bdt9.net CNAME .
+chatback.nl CNAME .
+jovanca.nl CNAME .
+hashting.promo CNAME .
+secureomg.nl CNAME .
+lt45.net CNAME .
+digidum.uinterbox.com CNAME .
+ds1.nl CNAME .
+rkn3.net CNAME .
+yougov.com CNAME .
+tjorven.nl CNAME .
+gratismeedoen.nl CNAME .

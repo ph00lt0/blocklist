@@ -20064,3 +20064,17 @@
 0.0.0.0 cleverreach.com
 0.0.0.0 keap-link006.com
 0.0.0.0 gfkpanel.nl
+0.0.0.0 jdt8.net
+0.0.0.0 hashting.cash
+0.0.0.0 bdt9.net
+0.0.0.0 chatback.nl
+0.0.0.0 jovanca.nl
+0.0.0.0 hashting.promo
+0.0.0.0 secureomg.nl
+0.0.0.0 lt45.net
+0.0.0.0 digidum.uinterbox.com
+0.0.0.0 ds1.nl
+0.0.0.0 rkn3.net
+0.0.0.0 yougov.com
+0.0.0.0 tjorven.nl
+0.0.0.0 gratismeedoen.nl

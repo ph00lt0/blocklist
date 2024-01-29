@@ -19959,3 +19959,17 @@ local-zone: "oneplus.net." always_null
 local-zone: "cleverreach.com." always_null
 local-zone: "keap-link006.com." always_null
 local-zone: "gfkpanel.nl." always_null
+local-zone: "jdt8.net." always_null
+local-zone: "hashting.cash." always_null
+local-zone: "bdt9.net." always_null
+local-zone: "chatback.nl." always_null
+local-zone: "jovanca.nl." always_null
+local-zone: "hashting.promo." always_null
+local-zone: "secureomg.nl." always_null
+local-zone: "lt45.net." always_null
+local-zone: "digidum.uinterbox.com." always_null
+local-zone: "ds1.nl." always_null
+local-zone: "rkn3.net." always_null
+local-zone: "yougov.com." always_null
+local-zone: "tjorven.nl." always_null
+local-zone: "gratismeedoen.nl." always_null

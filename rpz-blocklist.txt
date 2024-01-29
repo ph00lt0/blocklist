@@ -19955,3 +19955,4 @@ wc.vandervalkonline.com CNAME .
 oneplus.net CNAME .
 cleverreach.com CNAME .
 keap-link006.com CNAME .
+gfkpanel.nl CNAME .

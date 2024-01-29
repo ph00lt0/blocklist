@@ -20713,3 +20713,4 @@ bol.com##.smartbanner
 ||maillist-manage.com/click^
 ||cleverreach.com^
 ||keap-link006.com^
+||gfkpanel.nl^

@@ -20063,3 +20063,4 @@
 0.0.0.0 oneplus.net
 0.0.0.0 cleverreach.com
 0.0.0.0 keap-link006.com
+0.0.0.0 gfkpanel.nl

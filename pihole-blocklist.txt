@@ -20090,3 +20090,4 @@
 0.0.0.0 bytewlb.akadns.net
 0.0.0.0 p19-sign.tiktokcdn-us.com
 0.0.0.0 ibytedtos.com
+0.0.0.0 ttwstatic.com

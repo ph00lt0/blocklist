@@ -19985,3 +19985,4 @@ local-zone: "tracking.budbee.com." always_null
 local-zone: "bytewlb.akadns.net." always_null
 local-zone: "p19-sign.tiktokcdn-us.com." always_null
 local-zone: "ibytedtos.com." always_null
+local-zone: "ttwstatic.com." always_null

@@ -19982,3 +19982,4 @@ tracking.budbee.com CNAME .
 bytewlb.akadns.net CNAME .
 p19-sign.tiktokcdn-us.com CNAME .
 ibytedtos.com CNAME .
+ttwstatic.com CNAME .

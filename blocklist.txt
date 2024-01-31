@@ -20734,3 +20734,4 @@ bol.com##.smartbanner
 ||wish.com/api/mobile/log-tile-interactions^
 ||housetrade.net^
 ||acblnk.com^
+||kortinguitnodiging.nl^

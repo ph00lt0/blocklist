@@ -20740,3 +20740,4 @@ bol.com##.smartbanner
 ||tracking.budbee.com^
 ||bytewlb.akadns.net^
 ||p19-sign.tiktokcdn-us.com^
+||ibytedtos.com^

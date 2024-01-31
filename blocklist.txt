@@ -20731,3 +20731,4 @@ bol.com##.smartbanner
 ||omg.nl^
 ||imi.chat^
 ||api-engage-us.sitecorecloud.io^
+||wish.com/api/mobile/log-tile-interactions^

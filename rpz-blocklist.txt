@@ -19984,3 +19984,4 @@ p19-sign.tiktokcdn-us.com CNAME .
 ibytedtos.com CNAME .
 ttwstatic.com CNAME .
 tiktokcdn.com CNAME .
+tiktokcdn-us.com CNAME .

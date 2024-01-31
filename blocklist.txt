@@ -20743,3 +20743,4 @@ bol.com##.smartbanner
 ||ibytedtos.com^
 ||ttwstatic.com^
 ||tiktokcdn.com^
+||tiktokcdn-us.com^

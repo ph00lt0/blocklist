@@ -19985,3 +19985,4 @@ ibytedtos.com CNAME .
 ttwstatic.com CNAME .
 tiktokcdn.com CNAME .
 tiktokcdn-us.com CNAME .
+ipsosinteractive.com CNAME .

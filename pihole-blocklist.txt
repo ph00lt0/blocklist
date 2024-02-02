@@ -20093,3 +20093,4 @@
 0.0.0.0 ttwstatic.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokcdn-us.com
+0.0.0.0 ipsosinteractive.com

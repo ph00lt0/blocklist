@@ -19988,3 +19988,4 @@ local-zone: "ibytedtos.com." always_null
 local-zone: "ttwstatic.com." always_null
 local-zone: "tiktokcdn.com." always_null
 local-zone: "tiktokcdn-us.com." always_null
+local-zone: "ipsosinteractive.com." always_null

@@ -13949,7 +13949,7 @@ brid.tv CNAME .
 ; allow brightcovecdn.com reason: video platform
 brightedge.com CNAME .
 brightfunnel.com CNAME .
-brightspace.com CNAME .
+; allow brightspace.com reason: CDN for ISC2
 brilliantcollector.com CNAME .
 bronto.com CNAME .
 browser-intake-datadoghq.com CNAME .

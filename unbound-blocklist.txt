@@ -13952,7 +13952,7 @@ local-zone: "brid.tv." always_null
 # allow brightcovecdn.com reason: video platform
 local-zone: "brightedge.com." always_null
 local-zone: "brightfunnel.com." always_null
-local-zone: "brightspace.com." always_null
+# allow brightspace.com reason: CDN for ISC2
 local-zone: "brilliantcollector.com." always_null
 local-zone: "bronto.com." always_null
 local-zone: "browser-intake-datadoghq.com." always_null

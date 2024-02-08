@@ -14380,7 +14380,7 @@ $removeparam=engagement_type
 ||brightcovecdn.com^$badfilter  # video platform
 ||brightedge.com^
 ||brightfunnel.com^
-||brightspace.com^
+||brightspace.com^$badfilter  # CDN for ISC2
 ||brilliantcollector.com^
 ||bronto.com^
 ||browser-intake-datadoghq.com^

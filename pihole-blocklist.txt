@@ -14057,7 +14057,7 @@
 ! allow brightcovecdn.com reason: video platform
 0.0.0.0 brightedge.com
 0.0.0.0 brightfunnel.com
-0.0.0.0 brightspace.com
+! allow brightspace.com reason: CDN for ISC2
 0.0.0.0 brilliantcollector.com
 0.0.0.0 bronto.com
 0.0.0.0 browser-intake-datadoghq.com

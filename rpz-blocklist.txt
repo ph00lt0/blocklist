@@ -19990,3 +19990,4 @@ vdmltd.com CNAME .
 bestbuyknives.za.com CNAME .
 boostaroplus.info CNAME .
 kerassebtials.ltd CNAME .
+mallidy.com CNAME .

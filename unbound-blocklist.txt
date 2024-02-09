@@ -19995,3 +19995,4 @@ local-zone: "boostaroplus.info." always_null
 local-zone: "kerassebtials.ltd." always_null
 local-zone: "mallidy.com." always_null
 local-zone: "happypeopleprotocol.com." always_null
+local-zone: "sckvk.nl." always_null

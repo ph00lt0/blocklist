@@ -20745,3 +20745,4 @@ bol.com##.smartbanner
 ||tiktokcdn.com^
 ||tiktokcdn-us.com^
 ||ipsosinteractive.com^
+||vdmltd.com^

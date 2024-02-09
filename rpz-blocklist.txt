@@ -19991,3 +19991,4 @@ bestbuyknives.za.com CNAME .
 boostaroplus.info CNAME .
 kerassebtials.ltd CNAME .
 mallidy.com CNAME .
+happypeopleprotocol.com CNAME .

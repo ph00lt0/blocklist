@@ -19992,3 +19992,4 @@ local-zone: "ipsosinteractive.com." always_null
 local-zone: "vdmltd.com." always_null
 local-zone: "bestbuyknives.za.com." always_null
 local-zone: "boostaroplus.info." always_null
+local-zone: "kerassebtials.ltd." always_null

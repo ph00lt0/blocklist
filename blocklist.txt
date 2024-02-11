@@ -1951,7 +1951,7 @@
 ||prodo-api.ariva-services.de^
 ||ariva-services.de^
 ||cdntrf.com^
-||idcdn.de^
+||idcdn.de^$badfilter  # Ippen Digital GmbH ||idcdn.de^ Co. KG cdn german news
 ||opencmp.net^
 ||cdn.opencmp.net^
 ||pippio.com^

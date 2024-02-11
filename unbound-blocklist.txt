@@ -1906,7 +1906,7 @@ local-zone: "imasdk.googleapis.com." always_null
 local-zone: "prodo-api.ariva-services.de." always_null
 local-zone: "ariva-services.de." always_null
 local-zone: "cdntrf.com." always_null
-local-zone: "idcdn.de." always_null
+# allow idcdn.de reason: Ippen Digital GmbH local-zone: "idcdn.de." always_null Co. KG cdn german news
 local-zone: "opencmp.net." always_null
 local-zone: "cdn.opencmp.net." always_null
 local-zone: "pippio.com." always_null

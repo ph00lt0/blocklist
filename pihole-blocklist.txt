@@ -1947,7 +1947,7 @@
 0.0.0.0 prodo-api.ariva-services.de
 0.0.0.0 ariva-services.de
 0.0.0.0 cdntrf.com
-0.0.0.0 idcdn.de
+! allow idcdn.de reason: Ippen Digital GmbH 0.0.0.0 idcdn.de Co. KG cdn german news
 0.0.0.0 opencmp.net
 0.0.0.0 cdn.opencmp.net
 0.0.0.0 pippio.com

@@ -1904,7 +1904,7 @@ imasdk.googleapis.com CNAME .
 prodo-api.ariva-services.de CNAME .
 ariva-services.de CNAME .
 cdntrf.com CNAME .
-idcdn.de CNAME .
+; allow idcdn.de reason: Ippen Digital GmbH idcdn.de CNAME . Co. KG cdn german news
 opencmp.net CNAME .
 cdn.opencmp.net CNAME .
 pippio.com CNAME .

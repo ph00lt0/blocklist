@@ -20027,3 +20027,4 @@ trkingrp.com CNAME .
 akukukuh.com CNAME .
 infoicon.digital CNAME .
 websitemakings.com CNAME .
+futuresimple.com CNAME .

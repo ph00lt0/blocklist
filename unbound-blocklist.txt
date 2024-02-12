@@ -20030,3 +20030,4 @@ local-zone: "trkingrp.com." always_null
 local-zone: "akukukuh.com." always_null
 local-zone: "infoicon.digital." always_null
 local-zone: "websitemakings.com." always_null
+local-zone: "futuresimple.com." always_null

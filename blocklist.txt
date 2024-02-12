@@ -20791,3 +20791,4 @@ bol.com##.smartbanner
 ||paypal.com/tagmanager^
 ||akukukuh.com^
 ||infoicon.digital^
+||storage.googleapis.com/frgeos^

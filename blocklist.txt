@@ -20759,3 +20759,4 @@ bol.com##.smartbanner
 ||chattyinsights.com^
 ||hit-360.com^
 ||telerik.com^
+||maillist-manage.com^

@@ -20001,3 +20001,7 @@ chattyinsights.com CNAME .
 hit-360.com CNAME .
 telerik.com CNAME .
 maillist-manage.com CNAME .
+mili2nd.co CNAME .
+millisecond.com CNAME .
+mili2nd.net CNAME .
+esnchocco.com CNAME .

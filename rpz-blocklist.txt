@@ -20010,3 +20010,4 @@ pageimprove.io CNAME .
 corewebvitals.io CNAME .
 tms.oracle.com CNAME .
 .qualified.com CNAME .
+rate2self.com CNAME .

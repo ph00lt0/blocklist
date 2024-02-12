@@ -20118,3 +20118,4 @@
 0.0.0.0 corewebvitals.io
 0.0.0.0 tms.oracle.com
 0.0.0.0 .qualified.com
+0.0.0.0 rate2self.com

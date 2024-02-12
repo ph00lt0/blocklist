@@ -20773,3 +20773,4 @@ bol.com##.smartbanner
 ||tms.oracle.com^
 ||oracle.com/visitorinfo^
 ||.qualified.com^
+||rate2self.com^

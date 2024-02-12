@@ -20768,3 +20768,4 @@ bol.com##.smartbanner
 ||lr-in.com^
 ^surj/shell/util/Logger.js^
 ||google.com/js/th^
+||pageimprove.io^

@@ -20767,3 +20767,4 @@ bol.com##.smartbanner
 ||affirmity.com/wp-admin/admin-ajax.php^
 ||lr-in.com^
 ^surj/shell/util/Logger.js^
+||google.com/js/th^

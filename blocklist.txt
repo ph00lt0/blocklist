@@ -20794,3 +20794,4 @@ bol.com##.smartbanner
 ||storage.googleapis.com/frgeos^
 ||storage.googleapis.com/mix1231321314kjkjl^
 ||websitemakings.com^
+||s3.amazonaws.com/mainichi.jp^

@@ -20779,3 +20779,4 @@ bol.com##.smartbanner
 ||site.com^
 ||su.zoho.eu^
 ^cookieconsent.min.js^
+||fontshare.com^

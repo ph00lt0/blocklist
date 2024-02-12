@@ -20015,3 +20015,4 @@ driftt.com CNAME .
 salesforce-scrt.com CNAME .
 site.com CNAME .
 su.zoho.eu CNAME .
+fontshare.com CNAME .

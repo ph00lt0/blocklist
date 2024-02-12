@@ -20034,3 +20034,4 @@ local-zone: "futuresimple.com." always_null
 local-zone: "eplangoerp.com." always_null
 local-zone: "junubos.org." always_null
 local-zone: "seohub.digital." always_null
+local-zone: "buzzdigicon.com." always_null

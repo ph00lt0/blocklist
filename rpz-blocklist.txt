@@ -20031,3 +20031,4 @@ futuresimple.com CNAME .
 eplangoerp.com CNAME .
 junubos.org CNAME .
 seohub.digital CNAME .
+buzzdigicon.com CNAME .

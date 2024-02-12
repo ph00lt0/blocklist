@@ -20124,3 +20124,4 @@
 0.0.0.0 site.com
 0.0.0.0 su.zoho.eu
 0.0.0.0 fontshare.com
+0.0.0.0 weglot.com

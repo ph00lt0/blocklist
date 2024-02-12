@@ -20018,3 +20018,4 @@ su.zoho.eu CNAME .
 fontshare.com CNAME .
 weglot.com CNAME .
 dreamdata.cloud CNAME .
+growthbook.io CNAME .

@@ -20782,3 +20782,4 @@ bol.com##.smartbanner
 ||fontshare.com^
 ||weglot.com^
 ||dreamdata.cloud^
+||growthbook.io^

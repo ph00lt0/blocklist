@@ -20021,3 +20021,4 @@ local-zone: "su.zoho.eu." always_null
 local-zone: "fontshare.com." always_null
 local-zone: "weglot.com." always_null
 local-zone: "dreamdata.cloud." always_null
+local-zone: "growthbook.io." always_null

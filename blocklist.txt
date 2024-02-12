@@ -20764,3 +20764,4 @@ bol.com##.smartbanner
 ||millisecond.com^
 ||mili2nd.net^
 ||esnchocco.com^
+||affirmity.com/wp-admin/admin-ajax.php^

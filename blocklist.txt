@@ -20802,3 +20802,4 @@ bol.com##.smartbanner
 ||buzzdigicon.com^
 ||techbuzzweb.tech>^
 ||techbuzzweb.tech^
+||mub.me^

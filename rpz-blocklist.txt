@@ -20034,3 +20034,4 @@ seohub.digital CNAME .
 buzzdigicon.com CNAME .
 techbuzzweb.tech> CNAME .
 techbuzzweb.tech CNAME .
+mub.me CNAME .

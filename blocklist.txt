@@ -20769,3 +20769,4 @@ bol.com##.smartbanner
 ^surj/shell/util/Logger.js^
 ||google.com/js/th^
 ||pageimprove.io^
+||corewebvitals.io^

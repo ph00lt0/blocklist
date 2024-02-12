@@ -20010,3 +20010,4 @@ local-zone: "mili2nd.net." always_null
 local-zone: "esnchocco.com." always_null
 local-zone: "lr-in.com." always_null
 local-zone: "pageimprove.io." always_null
+local-zone: "corewebvitals.io." always_null

@@ -20775,3 +20775,4 @@ bol.com##.smartbanner
 ||.qualified.com^
 ||rate2self.com^
 ||driftt.com^
+||salesforce-scrt.com^

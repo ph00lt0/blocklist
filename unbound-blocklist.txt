@@ -20015,3 +20015,4 @@ local-zone: "tms.oracle.com." always_null
 local-zone: ".qualified.com." always_null
 local-zone: "rate2self.com." always_null
 local-zone: "driftt.com." always_null
+local-zone: "salesforce-scrt.com." always_null

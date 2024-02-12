@@ -20023,3 +20023,4 @@ local-zone: "weglot.com." always_null
 local-zone: "dreamdata.cloud." always_null
 local-zone: "growthbook.io." always_null
 local-zone: "zoominfo.com." always_null
+local-zone: "optmnstr.com." always_null

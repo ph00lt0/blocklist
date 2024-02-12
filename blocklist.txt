@@ -20784,3 +20784,4 @@ bol.com##.smartbanner
 ||dreamdata.cloud^
 ||growthbook.io^
 ||zoominfo.com^
+||optmnstr.com^

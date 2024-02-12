@@ -20020,3 +20020,4 @@ weglot.com CNAME .
 dreamdata.cloud CNAME .
 growthbook.io CNAME .
 zoominfo.com CNAME .
+optmnstr.com CNAME .

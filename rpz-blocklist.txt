@@ -20033,3 +20033,4 @@ junubos.org CNAME .
 seohub.digital CNAME .
 buzzdigicon.com CNAME .
 techbuzzweb.tech> CNAME .
+techbuzzweb.tech CNAME .

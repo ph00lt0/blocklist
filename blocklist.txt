@@ -20801,3 +20801,4 @@ bol.com##.smartbanner
 ||seohub.digital^
 ||buzzdigicon.com^
 ||techbuzzweb.tech>^
+||techbuzzweb.tech^

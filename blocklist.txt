@@ -20778,3 +20778,4 @@ bol.com##.smartbanner
 ||salesforce-scrt.com^
 ||site.com^
 ||su.zoho.eu^
+^cookieconsent.min.js^

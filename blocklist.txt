@@ -20774,3 +20774,4 @@ bol.com##.smartbanner
 ||oracle.com/visitorinfo^
 ||.qualified.com^
 ||rate2self.com^
+||driftt.com^

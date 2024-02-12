@@ -20019,3 +20019,4 @@ fontshare.com CNAME .
 weglot.com CNAME .
 dreamdata.cloud CNAME .
 growthbook.io CNAME .
+zoominfo.com CNAME .

@@ -20772,3 +20772,4 @@ bol.com##.smartbanner
 ||corewebvitals.io^
 ||tms.oracle.com^
 ||oracle.com/visitorinfo^
+||.qualified.com^

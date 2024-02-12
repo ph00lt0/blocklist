@@ -20009,3 +20009,4 @@ lr-in.com CNAME .
 pageimprove.io CNAME .
 corewebvitals.io CNAME .
 tms.oracle.com CNAME .
+.qualified.com CNAME .

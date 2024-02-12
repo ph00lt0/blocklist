@@ -20025,3 +20025,4 @@ local-zone: "growthbook.io." always_null
 local-zone: "zoominfo.com." always_null
 local-zone: "optmnstr.com." always_null
 local-zone: "outreach.io." always_null
+local-zone: "bendingspoonsapps.com." always_null

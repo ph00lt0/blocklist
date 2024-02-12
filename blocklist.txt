@@ -20786,3 +20786,4 @@ bol.com##.smartbanner
 ||zoominfo.com^
 ||optmnstr.com^
 ||outreach.io^
+||bendingspoonsapps.com^

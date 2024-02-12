@@ -20025,3 +20025,4 @@ outreach.io CNAME .
 bendingspoonsapps.com CNAME .
 trkingrp.com CNAME .
 akukukuh.com CNAME .
+infoicon.digital CNAME .

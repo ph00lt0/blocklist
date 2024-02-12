@@ -20790,3 +20790,4 @@ bol.com##.smartbanner
 ||trkingrp.com^
 ||paypal.com/tagmanager^
 ||akukukuh.com^
+||infoicon.digital^

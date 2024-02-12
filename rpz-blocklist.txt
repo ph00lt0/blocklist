@@ -20029,3 +20029,4 @@ infoicon.digital CNAME .
 websitemakings.com CNAME .
 futuresimple.com CNAME .
 eplangoerp.com CNAME .
+junubos.org CNAME .

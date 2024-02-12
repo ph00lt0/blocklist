@@ -20781,3 +20781,4 @@ bol.com##.smartbanner
 ^cookieconsent.min.js^
 ||fontshare.com^
 ||weglot.com^
+||dreamdata.cloud^

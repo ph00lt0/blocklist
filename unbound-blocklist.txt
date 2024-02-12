@@ -20038,3 +20038,4 @@ local-zone: "buzzdigicon.com." always_null
 local-zone: "techbuzzweb.tech>." always_null
 local-zone: "techbuzzweb.tech." always_null
 local-zone: "mub.me." always_null
+local-zone: "beehiiv.com." always_null

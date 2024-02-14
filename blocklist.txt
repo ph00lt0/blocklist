@@ -20812,3 +20812,4 @@ bol.com##.smartbanner
 ||partnerlinks.io^
 ||opensiteexplorer.org^
 ||trybento.co^
+||nielsen.app^

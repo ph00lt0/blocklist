@@ -20827,3 +20827,10 @@ bol.com##.smartbanner
 ||adtiming.com^
 ||adxcorp.com^
 ||metrica.yandex.net^
+||mobile.yandex.net^
+||appmetrica.yandex.net^
+||appmetrica.yandex.ru^
+||mobile.yandex.com^
+||mobile.yandex.ru^
+||mc.yandex.com^
+||mc.yandex.net^

@@ -20167,3 +20167,10 @@
 0.0.0.0 adtiming.com
 0.0.0.0 adxcorp.com
 0.0.0.0 metrica.yandex.net
+0.0.0.0 mobile.yandex.net
+0.0.0.0 appmetrica.yandex.net
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 mobile.yandex.com
+0.0.0.0 mobile.yandex.ru
+0.0.0.0 mc.yandex.com
+0.0.0.0 mc.yandex.net

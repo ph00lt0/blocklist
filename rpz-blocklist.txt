@@ -20059,3 +20059,10 @@ edgesuite.net CNAME .
 adtiming.com CNAME .
 adxcorp.com CNAME .
 metrica.yandex.net CNAME .
+mobile.yandex.net CNAME .
+appmetrica.yandex.net CNAME .
+appmetrica.yandex.ru CNAME .
+mobile.yandex.com CNAME .
+mobile.yandex.ru CNAME .
+mc.yandex.com CNAME .
+mc.yandex.net CNAME .

@@ -20820,3 +20820,4 @@ bol.com##.smartbanner
 ||purplebrain.com^
 ||igaworks.com^
 ||adbrix.com^
+||acuant.com^

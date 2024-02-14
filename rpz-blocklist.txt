@@ -20052,3 +20052,4 @@ acra.ch CNAME .
 purplebrain.com CNAME .
 igaworks.com CNAME .
 adbrix.com CNAME .
+acuant.com CNAME .

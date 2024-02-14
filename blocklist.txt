@@ -20825,3 +20825,4 @@ bol.com##.smartbanner
 ||assureid.net^
 ||edgesuite.net^
 ||adtiming.com^
+||adxcorp.com^

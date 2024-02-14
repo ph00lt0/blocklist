@@ -20074,3 +20074,4 @@ local-zone: "factual.com." always_null
 local-zone: "actv8technologies.me." always_null
 local-zone: "actv8.com." always_null
 local-zone: "actv8.me." always_null
+local-zone: "connecthings.com." always_null

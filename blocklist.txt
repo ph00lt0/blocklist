@@ -20834,3 +20834,4 @@ bol.com##.smartbanner
 ||mobile.yandex.ru^
 ||mc.yandex.com^
 ||mc.yandex.net^
+||crowdtangle.com^

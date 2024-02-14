@@ -20039,3 +20039,4 @@ beehiiv.com CNAME .
 dilka.xcdn.nl CNAME .
 milkymouse.com CNAME .
 arounddeal.com CNAME .
+.huaweicloud.com CNAME .

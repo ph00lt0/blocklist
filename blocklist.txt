@@ -20807,3 +20807,4 @@ bol.com##.smartbanner
 ||dilka.xcdn.nl^
 ||milkymouse.com^
 ||arounddeal.com^
+||.huaweicloud.com^

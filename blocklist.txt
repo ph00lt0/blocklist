@@ -20836,3 +20836,6 @@ bol.com##.smartbanner
 ||mc.yandex.net^
 ||crowdtangle.com^
 ||factual.com^
+||actv8technologies.me^
+||actv8.com^
+||actv8.me^

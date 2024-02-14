@@ -20068,3 +20068,6 @@ mc.yandex.com CNAME .
 mc.yandex.net CNAME .
 crowdtangle.com CNAME .
 factual.com CNAME .
+actv8technologies.me CNAME .
+actv8.com CNAME .
+actv8.me CNAME .

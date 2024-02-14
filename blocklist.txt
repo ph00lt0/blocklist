@@ -20817,3 +20817,4 @@ bol.com##.smartbanner
 ||threesixtydialog.com^
 ||acra.com^
 ||acra.ch^
+||purplebrain.com^

@@ -20155,3 +20155,5 @@
 0.0.0.0 nielsen.app
 0.0.0.0 opencensus.io
 0.0.0.0 threesixtydialog.com
+0.0.0.0 acra.com
+0.0.0.0 acra.ch

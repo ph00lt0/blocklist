@@ -20815,3 +20815,5 @@ bol.com##.smartbanner
 ||nielsen.app^
 ||opencensus.io^
 ||threesixtydialog.com^
+||acra.com^
+||acra.ch^

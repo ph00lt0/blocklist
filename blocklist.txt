@@ -20809,3 +20809,4 @@ bol.com##.smartbanner
 ||arounddeal.com^
 ||.huaweicloud.com^
 ||petalsearch.com^
+||partnerlinks.io^

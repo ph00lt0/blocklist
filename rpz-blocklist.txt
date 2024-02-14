@@ -20041,3 +20041,4 @@ milkymouse.com CNAME .
 arounddeal.com CNAME .
 .huaweicloud.com CNAME .
 petalsearch.com CNAME .
+partnerlinks.io CNAME .

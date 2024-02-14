@@ -20149,3 +20149,4 @@
 0.0.0.0 arounddeal.com
 0.0.0.0 .huaweicloud.com
 0.0.0.0 petalsearch.com
+0.0.0.0 partnerlinks.io

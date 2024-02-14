@@ -20044,3 +20044,4 @@ local-zone: "milkymouse.com." always_null
 local-zone: "arounddeal.com." always_null
 local-zone: ".huaweicloud.com." always_null
 local-zone: "petalsearch.com." always_null
+local-zone: "partnerlinks.io." always_null

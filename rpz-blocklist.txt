@@ -20056,3 +20056,4 @@ acuant.com CNAME .
 acuant.net CNAME .
 assureid.net CNAME .
 edgesuite.net CNAME .
+adtiming.com CNAME .

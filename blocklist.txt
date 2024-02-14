@@ -20806,3 +20806,4 @@ bol.com##.smartbanner
 ||beehiiv.com^
 ||dilka.xcdn.nl^
 ||milkymouse.com^
+||arounddeal.com^

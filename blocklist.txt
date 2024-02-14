@@ -20821,3 +20821,4 @@ bol.com##.smartbanner
 ||igaworks.com^
 ||adbrix.com^
 ||acuant.com^
+||acuant.net^

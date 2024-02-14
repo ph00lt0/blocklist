@@ -20043,3 +20043,4 @@ local-zone: "dilka.xcdn.nl." always_null
 local-zone: "milkymouse.com." always_null
 local-zone: "arounddeal.com." always_null
 local-zone: ".huaweicloud.com." always_null
+local-zone: "petalsearch.com." always_null

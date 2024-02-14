@@ -20808,3 +20808,4 @@ bol.com##.smartbanner
 ||milkymouse.com^
 ||arounddeal.com^
 ||.huaweicloud.com^
+||petalsearch.com^

@@ -20061,3 +20061,4 @@ local-zone: "assureid.net." always_null
 local-zone: "edgesuite.net." always_null
 local-zone: "adtiming.com." always_null
 local-zone: "adxcorp.com." always_null
+local-zone: "metrica.yandex.net." always_null

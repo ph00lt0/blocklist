@@ -20058,3 +20058,4 @@ assureid.net CNAME .
 edgesuite.net CNAME .
 adtiming.com CNAME .
 adxcorp.com CNAME .
+metrica.yandex.net CNAME .

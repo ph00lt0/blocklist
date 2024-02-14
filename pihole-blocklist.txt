@@ -20166,3 +20166,4 @@
 0.0.0.0 edgesuite.net
 0.0.0.0 adtiming.com
 0.0.0.0 adxcorp.com
+0.0.0.0 metrica.yandex.net

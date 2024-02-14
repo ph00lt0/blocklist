@@ -20826,3 +20826,4 @@ bol.com##.smartbanner
 ||edgesuite.net^
 ||adtiming.com^
 ||adxcorp.com^
+||metrica.yandex.net^

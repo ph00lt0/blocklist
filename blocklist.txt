@@ -20811,3 +20811,4 @@ bol.com##.smartbanner
 ||petalsearch.com^
 ||partnerlinks.io^
 ||opensiteexplorer.org^
+||trybento.co^

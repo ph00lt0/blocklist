@@ -20822,3 +20822,4 @@ bol.com##.smartbanner
 ||adbrix.com^
 ||acuant.com^
 ||acuant.net^
+||assureid.net^

@@ -20162,3 +20162,4 @@
 0.0.0.0 adbrix.com
 0.0.0.0 acuant.com
 0.0.0.0 acuant.net
+0.0.0.0 assureid.net

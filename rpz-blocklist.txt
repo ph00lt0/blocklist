@@ -20054,3 +20054,4 @@ igaworks.com CNAME .
 adbrix.com CNAME .
 acuant.com CNAME .
 acuant.net CNAME .
+assureid.net CNAME .

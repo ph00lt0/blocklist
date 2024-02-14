@@ -20070,3 +20070,4 @@ local-zone: "mobile.yandex.ru." always_null
 local-zone: "mc.yandex.com." always_null
 local-zone: "mc.yandex.net." always_null
 local-zone: "crowdtangle.com." always_null
+local-zone: "factual.com." always_null

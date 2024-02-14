@@ -20175,3 +20175,4 @@
 0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.net
 0.0.0.0 crowdtangle.com
+0.0.0.0 factual.com

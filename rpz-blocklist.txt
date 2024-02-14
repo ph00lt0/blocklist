@@ -20067,3 +20067,4 @@ mobile.yandex.ru CNAME .
 mc.yandex.com CNAME .
 mc.yandex.net CNAME .
 crowdtangle.com CNAME .
+factual.com CNAME .

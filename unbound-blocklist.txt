@@ -20053,3 +20053,5 @@ local-zone: "threesixtydialog.com." always_null
 local-zone: "acra.com." always_null
 local-zone: "acra.ch." always_null
 local-zone: "purplebrain.com." always_null
+local-zone: "igaworks.com." always_null
+local-zone: "adbrix.com." always_null

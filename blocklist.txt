@@ -20818,3 +20818,5 @@ bol.com##.smartbanner
 ||acra.com^
 ||acra.ch^
 ||purplebrain.com^
+||igaworks.com^
+||adbrix.com^

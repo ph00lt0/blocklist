@@ -20055,3 +20055,4 @@ adbrix.com CNAME .
 acuant.com CNAME .
 acuant.net CNAME .
 assureid.net CNAME .
+edgesuite.net CNAME .

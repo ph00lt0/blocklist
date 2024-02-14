@@ -20180,3 +20180,4 @@
 0.0.0.0 actv8.com
 0.0.0.0 actv8.me
 0.0.0.0 connecthings.com
+0.0.0.0 arrayinsights.com

@@ -20840,3 +20840,4 @@ bol.com##.smartbanner
 ||actv8.com^
 ||actv8.me^
 ||connecthings.com^
+||arrayinsights.com^

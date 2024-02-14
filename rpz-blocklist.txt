@@ -20072,3 +20072,4 @@ actv8technologies.me CNAME .
 actv8.com CNAME .
 actv8.me CNAME .
 connecthings.com CNAME .
+arrayinsights.com CNAME .

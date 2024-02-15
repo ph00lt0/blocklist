@@ -20841,3 +20841,4 @@ bol.com##.smartbanner
 ||actv8.me^
 ||connecthings.com^
 ||arrayinsights.com^
+||desk.zoho.eu^$third-party

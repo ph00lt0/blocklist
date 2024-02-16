@@ -20842,3 +20842,4 @@ bol.com##.smartbanner
 ||connecthings.com^
 ||arrayinsights.com^
 ||desk.zoho.eu^$third-party
+||data-soft-solution.com^

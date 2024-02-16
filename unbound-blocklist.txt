@@ -20076,3 +20076,4 @@ local-zone: "actv8.com." always_null
 local-zone: "actv8.me." always_null
 local-zone: "connecthings.com." always_null
 local-zone: "arrayinsights.com." always_null
+local-zone: "data-soft-solution.com." always_null

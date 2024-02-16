@@ -20077,3 +20077,4 @@ data-soft-solution.com CNAME .
 beacons5.gvt3.com CNAME .
 trypromotional.com CNAME .
 instrument-ofgod.com CNAME .
+bookinng.site CNAME .

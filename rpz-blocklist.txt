@@ -20074,3 +20074,4 @@ actv8.me CNAME .
 connecthings.com CNAME .
 arrayinsights.com CNAME .
 data-soft-solution.com CNAME .
+beacons5.gvt3.com CNAME .

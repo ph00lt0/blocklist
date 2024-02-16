@@ -20182,3 +20182,4 @@
 0.0.0.0 connecthings.com
 0.0.0.0 arrayinsights.com
 0.0.0.0 data-soft-solution.com
+0.0.0.0 beacons5.gvt3.com

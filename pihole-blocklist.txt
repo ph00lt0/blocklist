@@ -20184,3 +20184,4 @@
 0.0.0.0 data-soft-solution.com
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 trypromotional.com
+0.0.0.0 instrument-ofgod.com

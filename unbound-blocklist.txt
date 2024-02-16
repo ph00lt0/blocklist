@@ -20079,3 +20079,4 @@ local-zone: "arrayinsights.com." always_null
 local-zone: "data-soft-solution.com." always_null
 local-zone: "beacons5.gvt3.com." always_null
 local-zone: "trypromotional.com." always_null
+local-zone: "instrument-ofgod.com." always_null

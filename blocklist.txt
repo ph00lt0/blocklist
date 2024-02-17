@@ -20858,3 +20858,4 @@ bol.com##.smartbanner
 ||nicereply.com^
 ||planhat.com^
 ||debounce.io^
+||getnomad.app^

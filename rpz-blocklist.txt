@@ -20089,3 +20089,4 @@ marketinsights.funda.io CNAME .
 nicereply.com CNAME .
 planhat.com CNAME .
 debounce.io CNAME .
+getnomad.app CNAME .

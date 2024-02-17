@@ -20849,3 +20849,4 @@ bol.com##.smartbanner
 ||bookinng.site^
 ||go.gv.at^
 ||dfp.microsoft.com^
+||feedback-pa.googleapis.com^

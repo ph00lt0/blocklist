@@ -20852,3 +20852,4 @@ bol.com##.smartbanner
 ||feedback-pa.googleapis.com^
 ||cmdcbv.app^
 ||campagnes.kpn.com^
+||byspotify.com^

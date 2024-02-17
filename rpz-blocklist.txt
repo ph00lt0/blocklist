@@ -20083,3 +20083,4 @@ dfp.microsoft.com CNAME .
 feedback-pa.googleapis.com CNAME .
 cmdcbv.app CNAME .
 campagnes.kpn.com CNAME .
+byspotify.com CNAME .

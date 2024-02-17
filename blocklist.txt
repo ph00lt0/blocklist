@@ -20850,3 +20850,4 @@ bol.com##.smartbanner
 ||go.gv.at^
 ||dfp.microsoft.com^
 ||feedback-pa.googleapis.com^
+||cmdcbv.app^

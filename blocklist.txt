@@ -20848,3 +20848,4 @@ bol.com##.smartbanner
 ||instrument-ofgod.com^
 ||bookinng.site^
 ||go.gv.at^
+||dfp.microsoft.com^

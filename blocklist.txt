@@ -20853,3 +20853,4 @@ bol.com##.smartbanner
 ||cmdcbv.app^
 ||campagnes.kpn.com^
 ||byspotify.com^
+||auditrecording-pa.googleapis.com^

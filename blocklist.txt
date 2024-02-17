@@ -20854,3 +20854,4 @@ bol.com##.smartbanner
 ||campagnes.kpn.com^
 ||byspotify.com^
 ||auditrecording-pa.googleapis.com^
+||marketinsights.funda.io^

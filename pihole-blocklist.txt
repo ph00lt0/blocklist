@@ -20193,3 +20193,4 @@
 0.0.0.0 campagnes.kpn.com
 0.0.0.0 byspotify.com
 0.0.0.0 auditrecording-pa.googleapis.com
+0.0.0.0 marketinsights.funda.io

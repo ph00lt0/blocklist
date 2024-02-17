@@ -20856,3 +20856,4 @@ bol.com##.smartbanner
 ||auditrecording-pa.googleapis.com^
 ||marketinsights.funda.io^
 ||nicereply.com^
+||planhat.com^

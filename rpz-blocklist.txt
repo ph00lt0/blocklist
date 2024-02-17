@@ -20087,3 +20087,4 @@ byspotify.com CNAME .
 auditrecording-pa.googleapis.com CNAME .
 marketinsights.funda.io CNAME .
 nicereply.com CNAME .
+planhat.com CNAME .

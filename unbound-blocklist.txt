@@ -20085,3 +20085,4 @@ local-zone: "go.gv.at." always_null
 local-zone: "dfp.microsoft.com." always_null
 local-zone: "feedback-pa.googleapis.com." always_null
 local-zone: "cmdcbv.app." always_null
+local-zone: "campagnes.kpn.com." always_null

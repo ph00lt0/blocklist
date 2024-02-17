@@ -20197,4 +20197,4 @@
 0.0.0.0 nicereply.com
 0.0.0.0 planhat.com
 0.0.0.0 debounce.io
-0.0.0.0 getnomad.app
+! allow getnomad.app reason: no tracker

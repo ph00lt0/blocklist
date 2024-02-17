@@ -20089,4 +20089,4 @@ marketinsights.funda.io CNAME .
 nicereply.com CNAME .
 planhat.com CNAME .
 debounce.io CNAME .
-getnomad.app CNAME .
+; allow getnomad.app reason: no tracker

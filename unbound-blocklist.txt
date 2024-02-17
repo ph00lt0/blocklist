@@ -20092,4 +20092,4 @@ local-zone: "marketinsights.funda.io." always_null
 local-zone: "nicereply.com." always_null
 local-zone: "planhat.com." always_null
 local-zone: "debounce.io." always_null
-local-zone: "getnomad.app." always_null
+# allow getnomad.app reason: no tracker

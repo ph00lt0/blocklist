@@ -1339,7 +1339,6 @@
 ||nitehawk.hearst.io^
 ||stats.valitype.com^
 ||add0n.com^
-||gravatar.com^
 ||conviva.com^
 ||cookiepro.com^
 ||cookie-cdn.cookiepro.com^
@@ -1820,7 +1819,6 @@
 ||ads.themoneytizer.com^
 ||vidcrunch.com^
 ||cdn.vidcrunch.com^
-||secure.gravatar.com^
 ||consent.thescarboroughnews.co.uk^
 ||smartlook.com^
 ||rec.smartlook.com^

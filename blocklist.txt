@@ -20874,3 +20874,4 @@ bol.com##.smartbanner
 ||pvcy.me^
 ||privo.com^
 ||trustcassie.com^
+||crm.zoho.eu^$third-party

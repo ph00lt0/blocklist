@@ -20106,3 +20106,5 @@ local-zone: "activeprospect.com." always_null
 local-zone: "smartercontracts.co.uk." always_null
 local-zone: "clickio.com." always_null
 local-zone: "pvcy.me." always_null
+local-zone: "privo.com." always_null
+local-zone: "trustcassie.com." always_null

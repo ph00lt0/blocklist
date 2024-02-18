@@ -20211,3 +20211,5 @@
 0.0.0.0 smartercontracts.co.uk
 0.0.0.0 clickio.com
 0.0.0.0 pvcy.me
+0.0.0.0 privo.com
+0.0.0.0 trustcassie.com

@@ -20103,3 +20103,5 @@ activeprospect.com CNAME .
 smartercontracts.co.uk CNAME .
 clickio.com CNAME .
 pvcy.me CNAME .
+privo.com CNAME .
+trustcassie.com CNAME .

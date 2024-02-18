@@ -20872,3 +20872,5 @@ bol.com##.smartbanner
 ||smartercontracts.co.uk^
 ||clickio.com^
 ||pvcy.me^
+||privo.com^
+||trustcassie.com^

@@ -20893,3 +20893,4 @@ bol.com##.smartbanner
 ||consentua.com^
 ||linapay.io^
 ||e-spirit.com^
+||lindis.es^

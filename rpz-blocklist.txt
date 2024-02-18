@@ -20123,3 +20123,4 @@ stardust.today CNAME .
 consentua.com CNAME .
 linapay.io CNAME .
 e-spirit.com CNAME .
+lindis.es CNAME .

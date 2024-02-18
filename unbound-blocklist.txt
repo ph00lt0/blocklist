@@ -20110,3 +20110,13 @@ local-zone: "privo.com." always_null
 local-zone: "trustcassie.com." always_null
 local-zone: "usercentrics.com." always_null
 local-zone: "linaopenx.com.br." always_null
+local-zone: "qodtech.com.br." always_null
+local-zone: "deferendum.com." always_null
+local-zone: "devowl.io." always_null
+local-zone: "opt-insight.com." always_null
+local-zone: "bloksec.com." always_null
+local-zone: "privacycenter.cloud." always_null
+local-zone: "truendo.com." always_null
+local-zone: "navigate.de." always_null
+local-zone: "cookiespool.com." always_null
+local-zone: "dataspool.com.tr." always_null

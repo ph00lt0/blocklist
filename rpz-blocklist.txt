@@ -20107,3 +20107,13 @@ privo.com CNAME .
 trustcassie.com CNAME .
 usercentrics.com CNAME .
 linaopenx.com.br CNAME .
+qodtech.com.br CNAME .
+deferendum.com CNAME .
+devowl.io CNAME .
+opt-insight.com CNAME .
+bloksec.com CNAME .
+privacycenter.cloud CNAME .
+truendo.com CNAME .
+navigate.de CNAME .
+cookiespool.com CNAME .
+dataspool.com.tr CNAME .

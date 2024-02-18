@@ -20215,3 +20215,13 @@
 0.0.0.0 trustcassie.com
 0.0.0.0 usercentrics.com
 0.0.0.0 linaopenx.com.br
+0.0.0.0 qodtech.com.br
+0.0.0.0 deferendum.com
+0.0.0.0 devowl.io
+0.0.0.0 opt-insight.com
+0.0.0.0 bloksec.com
+0.0.0.0 privacycenter.cloud
+0.0.0.0 truendo.com
+0.0.0.0 navigate.de
+0.0.0.0 cookiespool.com
+0.0.0.0 dataspool.com.tr

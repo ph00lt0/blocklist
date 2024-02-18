@@ -20859,3 +20859,7 @@ bol.com##.smartbanner
 ||planhat.com^
 ||debounce.io^
 ||getnomad.app^$badfilter  # no tracker
+||temptation.tweakers.nl^
+||t.tweakers.nl^
+||aa.tweakers.nl^
+||ab.tweakers.nl^

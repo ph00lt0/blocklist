@@ -20198,3 +20198,7 @@
 0.0.0.0 planhat.com
 0.0.0.0 debounce.io
 ! allow getnomad.app reason: no tracker
+0.0.0.0 temptation.tweakers.nl
+0.0.0.0 t.tweakers.nl
+0.0.0.0 aa.tweakers.nl
+0.0.0.0 ab.tweakers.nl

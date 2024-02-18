@@ -20090,3 +20090,7 @@ nicereply.com CNAME .
 planhat.com CNAME .
 debounce.io CNAME .
 ; allow getnomad.app reason: no tracker
+temptation.tweakers.nl CNAME .
+t.tweakers.nl CNAME .
+aa.tweakers.nl CNAME .
+ab.tweakers.nl CNAME .

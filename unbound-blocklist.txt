@@ -20093,3 +20093,7 @@ local-zone: "nicereply.com." always_null
 local-zone: "planhat.com." always_null
 local-zone: "debounce.io." always_null
 # allow getnomad.app reason: no tracker
+local-zone: "temptation.tweakers.nl." always_null
+local-zone: "t.tweakers.nl." always_null
+local-zone: "aa.tweakers.nl." always_null
+local-zone: "ab.tweakers.nl." always_null

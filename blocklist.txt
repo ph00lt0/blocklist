@@ -20863,3 +20863,6 @@ bol.com##.smartbanner
 ||t.tweakers.nl^
 ||aa.tweakers.nl^
 ||ab.tweakers.nl^
+||cookieinfo.net^
+||dataguard.de^
+||hubspot.net^

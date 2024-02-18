@@ -20094,3 +20094,6 @@ temptation.tweakers.nl CNAME .
 t.tweakers.nl CNAME .
 aa.tweakers.nl CNAME .
 ab.tweakers.nl CNAME .
+cookieinfo.net CNAME .
+dataguard.de CNAME .
+hubspot.net CNAME .

@@ -20202,3 +20202,6 @@
 0.0.0.0 t.tweakers.nl
 0.0.0.0 aa.tweakers.nl
 0.0.0.0 ab.tweakers.nl
+0.0.0.0 cookieinfo.net
+0.0.0.0 dataguard.de
+0.0.0.0 hubspot.net

@@ -20097,3 +20097,6 @@ local-zone: "temptation.tweakers.nl." always_null
 local-zone: "t.tweakers.nl." always_null
 local-zone: "aa.tweakers.nl." always_null
 local-zone: "ab.tweakers.nl." always_null
+local-zone: "cookieinfo.net." always_null
+local-zone: "dataguard.de." always_null
+local-zone: "hubspot.net." always_null

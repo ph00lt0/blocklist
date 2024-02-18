@@ -20205,3 +20205,9 @@
 0.0.0.0 cookieinfo.net
 0.0.0.0 dataguard.de
 0.0.0.0 hubspot.net
+0.0.0.0 hubspotusercontent-na1.net
+0.0.0.0 iqvia.com
+0.0.0.0 activeprospect.com
+0.0.0.0 smartercontracts.co.uk
+0.0.0.0 clickio.com
+0.0.0.0 pvcy.me

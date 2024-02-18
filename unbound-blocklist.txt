@@ -20100,3 +20100,9 @@ local-zone: "ab.tweakers.nl." always_null
 local-zone: "cookieinfo.net." always_null
 local-zone: "dataguard.de." always_null
 local-zone: "hubspot.net." always_null
+local-zone: "hubspotusercontent-na1.net." always_null
+local-zone: "iqvia.com." always_null
+local-zone: "activeprospect.com." always_null
+local-zone: "smartercontracts.co.uk." always_null
+local-zone: "clickio.com." always_null
+local-zone: "pvcy.me." always_null

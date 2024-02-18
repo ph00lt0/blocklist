@@ -20866,3 +20866,9 @@ bol.com##.smartbanner
 ||cookieinfo.net^
 ||dataguard.de^
 ||hubspot.net^
+||hubspotusercontent-na1.net^
+||iqvia.com^
+||activeprospect.com^
+||smartercontracts.co.uk^
+||clickio.com^
+||pvcy.me^

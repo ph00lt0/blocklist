@@ -20124,3 +20124,4 @@ consentua.com CNAME .
 linapay.io CNAME .
 e-spirit.com CNAME .
 lindis.es CNAME .
+mjt.lu CNAME .

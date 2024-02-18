@@ -20232,3 +20232,4 @@
 0.0.0.0 linapay.io
 0.0.0.0 e-spirit.com
 0.0.0.0 lindis.es
+0.0.0.0 mjt.lu

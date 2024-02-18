@@ -20894,3 +20894,4 @@ bol.com##.smartbanner
 ||linapay.io^
 ||e-spirit.com^
 ||lindis.es^
+||mjt.lu^

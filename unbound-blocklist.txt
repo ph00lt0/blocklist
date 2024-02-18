@@ -20120,3 +20120,7 @@ local-zone: "truendo.com." always_null
 local-zone: "navigate.de." always_null
 local-zone: "cookiespool.com." always_null
 local-zone: "dataspool.com.tr." always_null
+local-zone: "datafreshup.de." always_null
+local-zone: "stardustnetwork.org." always_null
+local-zone: "stardust.today." always_null
+local-zone: "consentua.com." always_null

@@ -20887,3 +20887,7 @@ bol.com##.smartbanner
 ||navigate.de^
 ||cookiespool.com^
 ||dataspool.com.tr^
+||datafreshup.de^
+||stardustnetwork.org^
+||stardust.today^
+||consentua.com^

@@ -20117,3 +20117,7 @@ truendo.com CNAME .
 navigate.de CNAME .
 cookiespool.com CNAME .
 dataspool.com.tr CNAME .
+datafreshup.de CNAME .
+stardustnetwork.org CNAME .
+stardust.today CNAME .
+consentua.com CNAME .

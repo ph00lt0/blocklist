@@ -20225,3 +20225,7 @@
 0.0.0.0 navigate.de
 0.0.0.0 cookiespool.com
 0.0.0.0 dataspool.com.tr
+0.0.0.0 datafreshup.de
+0.0.0.0 stardustnetwork.org
+0.0.0.0 stardust.today
+0.0.0.0 consentua.com

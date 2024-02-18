@@ -20229,3 +20229,4 @@
 0.0.0.0 stardustnetwork.org
 0.0.0.0 stardust.today
 0.0.0.0 consentua.com
+0.0.0.0 linapay.io

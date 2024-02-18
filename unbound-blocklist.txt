@@ -20124,3 +20124,4 @@ local-zone: "datafreshup.de." always_null
 local-zone: "stardustnetwork.org." always_null
 local-zone: "stardust.today." always_null
 local-zone: "consentua.com." always_null
+local-zone: "linapay.io." always_null

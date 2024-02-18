@@ -20108,3 +20108,5 @@ local-zone: "clickio.com." always_null
 local-zone: "pvcy.me." always_null
 local-zone: "privo.com." always_null
 local-zone: "trustcassie.com." always_null
+local-zone: "usercentrics.com." always_null
+local-zone: "linaopenx.com.br." always_null

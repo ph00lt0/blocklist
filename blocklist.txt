@@ -20875,3 +20875,5 @@ bol.com##.smartbanner
 ||privo.com^
 ||trustcassie.com^
 ||crm.zoho.eu^$third-party
+||usercentrics.com^
+||linaopenx.com.br^

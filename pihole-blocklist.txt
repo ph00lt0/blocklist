@@ -20279,3 +20279,4 @@
 0.0.0.0 VAT-Search.eu
 0.0.0.0 go.nordpass.io
 0.0.0.0 go.nordvpn.net
+0.0.0.0 get.surfshark.net

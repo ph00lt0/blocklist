@@ -20943,3 +20943,4 @@ bol.com##.smartbanner
 ||go.nordpass.io^
 ||adguard.com^$removeparam=aid
 ||go.nordvpn.net^
+||get.surfshark.net^

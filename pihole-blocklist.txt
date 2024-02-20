@@ -20285,3 +20285,4 @@
 0.0.0.0 gateway-sop.fpt.vn
 0.0.0.0 octopus-stream01-cads.fpt.vn
 0.0.0.0 ftel-livechat.fpt.ai
+0.0.0.0 la2.chungta.vn

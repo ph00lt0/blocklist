@@ -20234,3 +20234,4 @@
 0.0.0.0 lindis.es
 0.0.0.0 mjt.lu
 0.0.0.0 manizx.com
+0.0.0.0 ladbrokes.com

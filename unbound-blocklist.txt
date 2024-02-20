@@ -20181,3 +20181,4 @@ local-zone: "gateway-sop.fpt.vn." always_null
 local-zone: "octopus-stream01-cads.fpt.vn." always_null
 local-zone: "ftel-livechat.fpt.ai." always_null
 local-zone: "la2.chungta.vn." always_null
+local-zone: "stunning-joking-cotton.com." always_null

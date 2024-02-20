@@ -20178,3 +20178,4 @@ gateway-sop.fpt.vn CNAME .
 octopus-stream01-cads.fpt.vn CNAME .
 ftel-livechat.fpt.ai CNAME .
 la2.chungta.vn CNAME .
+stunning-joking-cotton.com CNAME .

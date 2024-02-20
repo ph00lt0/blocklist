@@ -20243,3 +20243,4 @@
 0.0.0.0 karamba.com
 0.0.0.0 netbet.com
 0.0.0.0 betgrouse.com
+0.0.0.0 squawka.com

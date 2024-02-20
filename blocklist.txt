@@ -20905,3 +20905,4 @@ bol.com##.smartbanner
 ||karamba.com^
 ||netbet.com^
 ||betgrouse.com^
+||squawka.com^

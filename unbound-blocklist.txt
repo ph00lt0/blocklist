@@ -20128,3 +20128,4 @@ local-zone: "linapay.io." always_null
 local-zone: "e-spirit.com." always_null
 local-zone: "lindis.es." always_null
 local-zone: "mjt.lu." always_null
+local-zone: "manizx.com." always_null

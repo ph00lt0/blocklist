@@ -20125,3 +20125,4 @@ linapay.io CNAME .
 e-spirit.com CNAME .
 lindis.es CNAME .
 mjt.lu CNAME .
+manizx.com CNAME .

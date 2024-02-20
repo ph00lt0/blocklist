@@ -20942,3 +20942,4 @@ bol.com##.smartbanner
 ||privacytools.io/go^
 ||go.nordpass.io^
 ||adguard.com^$removeparam=aid
+||go.nordvpn.net^

@@ -20173,3 +20173,4 @@ local-zone: "overheid.io." always_null
 local-zone: "openkvk.nl." always_null
 local-zone: "VAT-Search.eu." always_null
 local-zone: "go.nordpass.io." always_null
+local-zone: "go.nordvpn.net." always_null

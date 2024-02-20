@@ -20166,3 +20166,4 @@ local-zone: "beste.nl." always_null
 local-zone: "openingstijden.com." always_null
 local-zone: "1822.nl." always_null
 local-zone: "koos.nl." always_null
+local-zone: "krak.dk." always_null

@@ -20163,3 +20163,4 @@ beste.nl CNAME .
 openingstijden.com CNAME .
 1822.nl CNAME .
 koos.nl CNAME .
+krak.dk CNAME .

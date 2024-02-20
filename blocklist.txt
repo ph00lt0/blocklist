@@ -20933,3 +20933,4 @@ bol.com##.smartbanner
 ||openingstijden.com^
 ||1822.nl^
 ||koos.nl^
+||krak.dk^

@@ -20271,3 +20271,4 @@
 0.0.0.0 openingstijden.com
 0.0.0.0 1822.nl
 0.0.0.0 koos.nl
+0.0.0.0 krak.dk

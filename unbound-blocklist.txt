@@ -20149,3 +20149,4 @@ local-zone: "townmanagementsgc.com." always_null
 local-zone: "barmasou.com." always_null
 local-zone: "proservices24.com." always_null
 local-zone: "yellowpageseu.net." always_null
+local-zone: "podobne-firmy.pl." always_null

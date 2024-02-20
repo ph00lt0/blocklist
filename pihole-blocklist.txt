@@ -20247,3 +20247,4 @@
 0.0.0.0 griffoncasino.com
 0.0.0.0 griffon-casino.co.uk
 0.0.0.0 appzi.io
+0.0.0.0 appzi.com

@@ -20139,3 +20139,4 @@ squawka.com CNAME .
 griffoncasino.com CNAME .
 griffon-casino.co.uk CNAME .
 appzi.io CNAME .
+appzi.com CNAME .

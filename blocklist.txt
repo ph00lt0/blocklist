@@ -20908,3 +20908,4 @@ bol.com##.smartbanner
 ||squawka.com^
 ||griffoncasino.com^
 ||griffon-casino.co.uk^
+||appzi.io^

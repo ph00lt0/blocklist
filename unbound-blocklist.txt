@@ -20141,3 +20141,4 @@ local-zone: "betgrouse.com." always_null
 local-zone: "squawka.com." always_null
 local-zone: "griffoncasino.com." always_null
 local-zone: "griffon-casino.co.uk." always_null
+local-zone: "appzi.io." always_null

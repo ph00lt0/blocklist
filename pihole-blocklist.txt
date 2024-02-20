@@ -20246,3 +20246,4 @@
 0.0.0.0 squawka.com
 0.0.0.0 griffoncasino.com
 0.0.0.0 griffon-casino.co.uk
+0.0.0.0 appzi.io

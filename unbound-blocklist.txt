@@ -20148,3 +20148,4 @@ local-zone: "duwhetdoor75.com." always_null
 local-zone: "townmanagementsgc.com." always_null
 local-zone: "barmasou.com." always_null
 local-zone: "proservices24.com." always_null
+local-zone: "yellowpageseu.net." always_null

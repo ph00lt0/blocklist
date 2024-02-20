@@ -20145,3 +20145,4 @@ duwhetdoor75.com CNAME .
 townmanagementsgc.com CNAME .
 barmasou.com CNAME .
 proservices24.com CNAME .
+yellowpageseu.net CNAME .

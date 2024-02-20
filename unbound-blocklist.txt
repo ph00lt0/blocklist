@@ -20161,3 +20161,8 @@ local-zone: "yellowpages.pl." always_null
 local-zone: "pkt.nl." always_null
 local-zone: "telefoonboek.nl." always_null
 local-zone: "yellowpages.com." always_null
+local-zone: "places.nl." always_null
+local-zone: "beste.nl." always_null
+local-zone: "openingstijden.com." always_null
+local-zone: "1822.nl." always_null
+local-zone: "koos.nl." always_null

@@ -20158,3 +20158,8 @@ yellowpages.pl CNAME .
 pkt.nl CNAME .
 telefoonboek.nl CNAME .
 yellowpages.com CNAME .
+places.nl CNAME .
+beste.nl CNAME .
+openingstijden.com CNAME .
+1822.nl CNAME .
+koos.nl CNAME .

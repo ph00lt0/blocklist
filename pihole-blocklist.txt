@@ -20266,3 +20266,8 @@
 0.0.0.0 pkt.nl
 0.0.0.0 telefoonboek.nl
 0.0.0.0 yellowpages.com
+0.0.0.0 places.nl
+0.0.0.0 beste.nl
+0.0.0.0 openingstijden.com
+0.0.0.0 1822.nl
+0.0.0.0 koos.nl

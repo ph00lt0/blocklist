@@ -20928,3 +20928,8 @@ bol.com##.smartbanner
 ||pkt.nl^
 ||telefoonboek.nl^
 ||yellowpages.com^
+||places.nl^
+||beste.nl^
+||openingstijden.com^
+||1822.nl^
+||koos.nl^

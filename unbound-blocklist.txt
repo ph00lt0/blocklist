@@ -20137,3 +20137,4 @@ local-zone: "grosvenorcasinos.com." always_null
 local-zone: "winomania.co.uk." always_null
 local-zone: "karamba.com." always_null
 local-zone: "netbet.com." always_null
+local-zone: "betgrouse.com." always_null

@@ -20242,3 +20242,4 @@
 0.0.0.0 winomania.co.uk
 0.0.0.0 karamba.com
 0.0.0.0 netbet.com
+0.0.0.0 betgrouse.com

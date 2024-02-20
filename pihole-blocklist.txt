@@ -20272,3 +20272,8 @@
 0.0.0.0 1822.nl
 0.0.0.0 koos.nl
 0.0.0.0 krak.dk
+0.0.0.0 infobelpro.com
+0.0.0.0 infobel.com
+0.0.0.0 overheid.io
+0.0.0.0 openkvk.nl
+0.0.0.0 VAT-Search.eu

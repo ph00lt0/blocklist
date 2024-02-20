@@ -20934,3 +20934,8 @@ bol.com##.smartbanner
 ||1822.nl^
 ||koos.nl^
 ||krak.dk^
+||infobelpro.com^
+||infobel.com^
+||overheid.io^
+||openkvk.nl^
+||VAT-Search.eu^

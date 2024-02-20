@@ -20164,3 +20164,8 @@ openingstijden.com CNAME .
 1822.nl CNAME .
 koos.nl CNAME .
 krak.dk CNAME .
+infobelpro.com CNAME .
+infobel.com CNAME .
+overheid.io CNAME .
+openkvk.nl CNAME .
+VAT-Search.eu CNAME .

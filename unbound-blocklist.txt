@@ -20167,3 +20167,8 @@ local-zone: "openingstijden.com." always_null
 local-zone: "1822.nl." always_null
 local-zone: "koos.nl." always_null
 local-zone: "krak.dk." always_null
+local-zone: "infobelpro.com." always_null
+local-zone: "infobel.com." always_null
+local-zone: "overheid.io." always_null
+local-zone: "openkvk.nl." always_null
+local-zone: "VAT-Search.eu." always_null

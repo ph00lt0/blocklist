@@ -20939,3 +20939,4 @@ bol.com##.smartbanner
 ||overheid.io^
 ||openkvk.nl^
 ||VAT-Search.eu^
+||privacytools.io/go^

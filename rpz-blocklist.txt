@@ -20152,3 +20152,9 @@ oozo.nl CNAME .
 adoszam-kereses.hu CNAME .
 btw-zoeken.nl CNAME .
 tva-recherche.lu CNAME .
+panoramafirm.pl CNAME .
+aleo.com CNAME .
+yellowpages.pl CNAME .
+pkt.nl CNAME .
+telefoonboek.nl CNAME .
+yellowpages.com CNAME .

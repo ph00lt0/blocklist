@@ -20260,3 +20260,9 @@
 0.0.0.0 adoszam-kereses.hu
 0.0.0.0 btw-zoeken.nl
 0.0.0.0 tva-recherche.lu
+0.0.0.0 panoramafirm.pl
+0.0.0.0 aleo.com
+0.0.0.0 yellowpages.pl
+0.0.0.0 pkt.nl
+0.0.0.0 telefoonboek.nl
+0.0.0.0 yellowpages.com

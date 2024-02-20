@@ -20922,3 +20922,9 @@ bol.com##.smartbanner
 ||adoszam-kereses.hu^
 ||btw-zoeken.nl^
 ||tva-recherche.lu^
+||panoramafirm.pl^
+||aleo.com^
+||yellowpages.pl^
+||pkt.nl^
+||telefoonboek.nl^
+||yellowpages.com^

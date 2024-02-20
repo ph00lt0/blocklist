@@ -20155,3 +20155,9 @@ local-zone: "oozo.nl." always_null
 local-zone: "adoszam-kereses.hu." always_null
 local-zone: "btw-zoeken.nl." always_null
 local-zone: "tva-recherche.lu." always_null
+local-zone: "panoramafirm.pl." always_null
+local-zone: "aleo.com." always_null
+local-zone: "yellowpages.pl." always_null
+local-zone: "pkt.nl." always_null
+local-zone: "telefoonboek.nl." always_null
+local-zone: "yellowpages.com." always_null

@@ -20127,3 +20127,4 @@ lindis.es CNAME .
 mjt.lu CNAME .
 manizx.com CNAME .
 ladbrokes.com CNAME .
+coral.co.uk CNAME .

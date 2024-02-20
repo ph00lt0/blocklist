@@ -20146,3 +20146,4 @@ local-zone: "appzi.com." always_null
 local-zone: "dik.si." always_null
 local-zone: "duwhetdoor75.com." always_null
 local-zone: "townmanagementsgc.com." always_null
+local-zone: "barmasou.com." always_null

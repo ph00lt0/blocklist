@@ -20143,3 +20143,4 @@ appzi.com CNAME .
 dik.si CNAME .
 duwhetdoor75.com CNAME .
 townmanagementsgc.com CNAME .
+barmasou.com CNAME .

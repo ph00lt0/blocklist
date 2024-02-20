@@ -20135,3 +20135,4 @@ local-zone: "grandivy.com." always_null
 local-zone: "duelz.com." always_null
 local-zone: "grosvenorcasinos.com." always_null
 local-zone: "winomania.co.uk." always_null
+local-zone: "karamba.com." always_null

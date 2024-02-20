@@ -20899,3 +20899,4 @@ bol.com##.smartbanner
 ||ladbrokes.com^
 ||coral.co.uk^
 ||grandivy.com^
+||duelz.com^

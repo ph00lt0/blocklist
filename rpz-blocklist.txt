@@ -20129,3 +20129,4 @@ manizx.com CNAME .
 ladbrokes.com CNAME .
 coral.co.uk CNAME .
 grandivy.com CNAME .
+duelz.com CNAME .

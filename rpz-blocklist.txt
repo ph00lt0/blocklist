@@ -20140,3 +20140,4 @@ griffoncasino.com CNAME .
 griffon-casino.co.uk CNAME .
 appzi.io CNAME .
 appzi.com CNAME .
+dik.si CNAME .

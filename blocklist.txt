@@ -20941,4 +20941,5 @@ bol.com##.smartbanner
 ||VAT-Search.eu^
 ||privacytools.io/go^
 ||go.nordpass.io^
-||adguard.ccomo^$removeparam=aid
+||adguard.com^$removeparam=aid
+||go.nordvpn.ney^

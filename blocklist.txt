@@ -20940,3 +20940,4 @@ bol.com##.smartbanner
 ||openkvk.nl^
 ||VAT-Search.eu^
 ||privacytools.io/go^
+||go.nordpass.io^

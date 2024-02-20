@@ -20131,3 +20131,4 @@ coral.co.uk CNAME .
 grandivy.com CNAME .
 duelz.com CNAME .
 grosvenorcasinos.com CNAME .
+winomania.co.uk CNAME .

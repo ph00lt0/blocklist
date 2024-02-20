@@ -20173,3 +20173,4 @@ go.nordpass.io CNAME .
 go.nordvpn.net CNAME .
 get.surfshark.net CNAME .
 xvuslink.com CNAME .
+get.incogni.io CNAME .

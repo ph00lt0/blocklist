@@ -20945,3 +20945,4 @@ bol.com##.smartbanner
 ||go.nordvpn.net^
 ||get.surfshark.net^
 ||xvuslink.com^
+||get.incogni.io^

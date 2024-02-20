@@ -20137,3 +20137,4 @@ netbet.com CNAME .
 betgrouse.com CNAME .
 squawka.com CNAME .
 griffoncasino.com CNAME .
+griffon-casino.co.uk CNAME .

@@ -20944,3 +20944,4 @@ bol.com##.smartbanner
 ||adguard.com^$removeparam=aid
 ||go.nordvpn.net^
 ||get.surfshark.net^
+||xvuslink.com^

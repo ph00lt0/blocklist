@@ -20172,3 +20172,4 @@ VAT-Search.eu CNAME .
 go.nordpass.io CNAME .
 go.nordvpn.net CNAME .
 get.surfshark.net CNAME .
+xvuslink.com CNAME .

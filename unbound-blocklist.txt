@@ -20175,3 +20175,4 @@ local-zone: "VAT-Search.eu." always_null
 local-zone: "go.nordpass.io." always_null
 local-zone: "go.nordvpn.net." always_null
 local-zone: "get.surfshark.net." always_null
+local-zone: "xvuslink.com." always_null

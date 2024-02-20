@@ -20177,3 +20177,4 @@ local-zone: "go.nordvpn.net." always_null
 local-zone: "get.surfshark.net." always_null
 local-zone: "xvuslink.com." always_null
 local-zone: "get.incogni.io." always_null
+local-zone: "gateway-sop.fpt.vn." always_null

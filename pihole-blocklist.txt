@@ -20282,3 +20282,4 @@
 0.0.0.0 get.surfshark.net
 0.0.0.0 xvuslink.com
 0.0.0.0 get.incogni.io
+0.0.0.0 gateway-sop.fpt.vn

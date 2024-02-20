@@ -20150,3 +20150,8 @@ local-zone: "barmasou.com." always_null
 local-zone: "proservices24.com." always_null
 local-zone: "yellowpageseu.net." always_null
 local-zone: "podobne-firmy.pl." always_null
+local-zone: "tva-recherche.eu." always_null
+local-zone: "oozo.nl." always_null
+local-zone: "adoszam-kereses.hu." always_null
+local-zone: "btw-zoeken.nl." always_null
+local-zone: "tva-recherche.lu." always_null

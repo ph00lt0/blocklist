@@ -20147,3 +20147,8 @@ barmasou.com CNAME .
 proservices24.com CNAME .
 yellowpageseu.net CNAME .
 podobne-firmy.pl CNAME .
+tva-recherche.eu CNAME .
+oozo.nl CNAME .
+adoszam-kereses.hu CNAME .
+btw-zoeken.nl CNAME .
+tva-recherche.lu CNAME .

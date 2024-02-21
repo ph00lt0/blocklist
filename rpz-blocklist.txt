@@ -20180,3 +20180,6 @@ ftel-livechat.fpt.ai CNAME .
 la2.chungta.vn CNAME .
 stunning-joking-cotton.com CNAME .
 veesion.io CNAME .
+alyxunion.com CNAME .
+bybit.com CNAME .
+proyalz.nl CNAME .

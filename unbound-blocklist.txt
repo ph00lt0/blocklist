@@ -20183,3 +20183,6 @@ local-zone: "ftel-livechat.fpt.ai." always_null
 local-zone: "la2.chungta.vn." always_null
 local-zone: "stunning-joking-cotton.com." always_null
 local-zone: "veesion.io." always_null
+local-zone: "alyxunion.com." always_null
+local-zone: "bybit.com." always_null
+local-zone: "proyalz.nl." always_null

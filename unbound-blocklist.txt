@@ -20187,3 +20187,4 @@ local-zone: "alyxunion.com." always_null
 local-zone: "bybit.com." always_null
 local-zone: "proyalz.nl." always_null
 local-zone: "prosperi.academy." always_null
+local-zone: "snssdk.com." always_null

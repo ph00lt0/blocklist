@@ -20291,3 +20291,4 @@
 0.0.0.0 alyxunion.com
 0.0.0.0 bybit.com
 0.0.0.0 proyalz.nl
+0.0.0.0 prosperi.academy

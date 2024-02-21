@@ -20186,3 +20186,4 @@ local-zone: "veesion.io." always_null
 local-zone: "alyxunion.com." always_null
 local-zone: "bybit.com." always_null
 local-zone: "proyalz.nl." always_null
+local-zone: "prosperi.academy." always_null

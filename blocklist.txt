@@ -20955,3 +20955,4 @@ bol.com##.smartbanner
 ||alyxunion.com^
 ||bybit.com^
 ||proyalz.nl^
+||prosperi.academy^

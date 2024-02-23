@@ -20294,3 +20294,4 @@
 0.0.0.0 prosperi.academy
 0.0.0.0 snssdk.com
 0.0.0.0 top-casino.nl
+0.0.0.0 optimize.net

@@ -20961,3 +20961,4 @@ bol.com##.smartbanner
 ||trouw.nl^$removeparam=referrer
 markedsforing.dk##.adform
 markedsforing.dk##.acf-block--a-d-form
+||optimize.net^

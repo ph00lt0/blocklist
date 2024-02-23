@@ -20186,3 +20186,4 @@ proyalz.nl CNAME .
 prosperi.academy CNAME .
 snssdk.com CNAME .
 top-casino.nl CNAME .
+optimize.net CNAME .

@@ -20958,3 +20958,4 @@ bol.com##.smartbanner
 ||prosperi.academy^
 ||snssdk.com^
 ||top-casino.nl^
+||trouw.nl^$removeparam=referrer

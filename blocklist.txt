@@ -20959,3 +20959,4 @@ bol.com##.smartbanner
 ||snssdk.com^
 ||top-casino.nl^
 ||trouw.nl^$removeparam=referrer
+markedsforing.dk##.adform

@@ -20983,3 +20983,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||campaign-image.com^
 ||gatedcontent.com^
 ||london.edu^$removeparam=servicepagereferer
+||london.edu^$removeparam=utm_source

@@ -20202,3 +20202,4 @@ local-zone: "leadconnectorhq.com." always_null
 local-zone: "msgsndr.com." always_null
 local-zone: "canopydeploy.net." always_null
 local-zone: "deployteq.net." always_null
+local-zone: "tawk.help." always_null

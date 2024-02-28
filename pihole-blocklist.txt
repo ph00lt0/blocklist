@@ -20305,3 +20305,4 @@
 0.0.0.0 cldsvc.net
 0.0.0.0 leadconnectorhq.com
 0.0.0.0 msgsndr.com
+0.0.0.0 canopydeploy.net

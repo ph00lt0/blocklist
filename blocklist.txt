@@ -2182,7 +2182,7 @@
 ||mailcampaigns.nl^
 ||nosto.com^
 ||xcdn.nl^$badfilter  # CDN
-||drogisterij.xcdn.nl^
+||drogisterij.xcdn.nl^$badfilter  # CDN
 ||12gobiking.nl^
 ||e.issuu.com^
 ||campaignmonitor.com^

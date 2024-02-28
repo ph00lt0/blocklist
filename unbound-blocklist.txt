@@ -20215,3 +20215,4 @@ local-zone: "scripts.tv2a.dk." always_null
 local-zone: "monsido-consent.com." always_null
 local-zone: "newsifier.nl." always_null
 local-zone: "replain.cc." always_null
+local-zone: "2fa.io." always_null

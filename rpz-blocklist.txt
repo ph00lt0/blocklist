@@ -20212,3 +20212,4 @@ scripts.tv2a.dk CNAME .
 monsido-consent.com CNAME .
 newsifier.nl CNAME .
 replain.cc CNAME .
+2fa.io CNAME .

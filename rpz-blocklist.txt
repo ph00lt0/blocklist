@@ -20209,3 +20209,4 @@ gatedcontent.com CNAME .
 simpleanalyticscdn.com CNAME .
 ; allow tv2a.dk reason: CDN
 scripts.tv2a.dk CNAME .
+monsido-consent.com CNAME .

@@ -20192,3 +20192,4 @@ local-zone: "top-casino.nl." always_null
 local-zone: "optimize.net." always_null
 local-zone: "fnx3x.com." always_null
 local-zone: "webjavaskript.net." always_null
+local-zone: "loyaltylion.net." always_null

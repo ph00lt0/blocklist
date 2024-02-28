@@ -20295,3 +20295,4 @@
 0.0.0.0 snssdk.com
 0.0.0.0 top-casino.nl
 0.0.0.0 optimize.net
+0.0.0.0 fnx3x.com

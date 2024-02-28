@@ -20962,3 +20962,4 @@ bol.com##.smartbanner
 markedsforing.dk##.adform
 markedsforing.dk##.acf-block--a-d-form
 ||optimize.net^
+||fnx3x.com^

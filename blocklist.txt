@@ -2181,7 +2181,7 @@
 ||interface.mailcampaigns.nl^
 ||mailcampaigns.nl^
 ||nosto.com^
-||xcdn.nl^
+||xcdn.nl^$badfilter  # CDN
 ||drogisterij.xcdn.nl^
 ||12gobiking.nl^
 ||e.issuu.com^

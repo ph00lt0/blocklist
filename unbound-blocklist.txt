@@ -2132,7 +2132,7 @@ local-zone: "static.sooqr.com." always_null
 local-zone: "interface.mailcampaigns.nl." always_null
 local-zone: "mailcampaigns.nl." always_null
 local-zone: "nosto.com." always_null
-local-zone: "xcdn.nl." always_null
+# allow xcdn.nl reason: CDN
 local-zone: "drogisterij.xcdn.nl." always_null
 local-zone: "12gobiking.nl." always_null
 local-zone: "e.issuu.com." always_null

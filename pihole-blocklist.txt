@@ -2177,7 +2177,7 @@
 0.0.0.0 interface.mailcampaigns.nl
 0.0.0.0 mailcampaigns.nl
 0.0.0.0 nosto.com
-0.0.0.0 xcdn.nl
+! allow xcdn.nl reason: CDN
 0.0.0.0 drogisterij.xcdn.nl
 0.0.0.0 12gobiking.nl
 0.0.0.0 e.issuu.com

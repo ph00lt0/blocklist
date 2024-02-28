@@ -2130,8 +2130,8 @@ static.sooqr.com CNAME .
 interface.mailcampaigns.nl CNAME .
 mailcampaigns.nl CNAME .
 nosto.com CNAME .
-xcdn.nl CNAME .
-drogisterij.xcdn.nl CNAME .
+; allow xcdn.nl reason: CDN
+drogisterij.; allow xcdn.nl reason: CDN
 12gobiking.nl CNAME .
 e.issuu.com CNAME .
 campaignmonitor.com CNAME .
@@ -20036,7 +20036,7 @@ techbuzzweb.tech> CNAME .
 techbuzzweb.tech CNAME .
 mub.me CNAME .
 beehiiv.com CNAME .
-dilka.xcdn.nl CNAME .
+dilka.; allow xcdn.nl reason: CDN
 milkymouse.com CNAME .
 arounddeal.com CNAME .
 .huaweicloud.com CNAME .

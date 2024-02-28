@@ -20210,4 +20210,4 @@ local-zone: "campaign-image.eu." always_null
 local-zone: "campaign-image.com." always_null
 local-zone: "gatedcontent.com." always_null
 local-zone: "simpleanalyticscdn.com." always_null
-local-zone: "tv2a.dk." always_null
+# allow tv2a.dk reason: CDN

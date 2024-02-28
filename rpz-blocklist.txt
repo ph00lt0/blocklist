@@ -20207,4 +20207,4 @@ campaign-image.eu CNAME .
 campaign-image.com CNAME .
 gatedcontent.com CNAME .
 simpleanalyticscdn.com CNAME .
-tv2a.dk CNAME .
+; allow tv2a.dk reason: CDN

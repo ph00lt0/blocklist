@@ -20988,4 +20988,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||london.edu^$removeparam=itemId
 ||redhat.com^$removeparam=sc_cid
 ||simpleanalyticscdn.com^
-||tv2a.dk^
+||tv2a.dk^$badfilter  # CDN

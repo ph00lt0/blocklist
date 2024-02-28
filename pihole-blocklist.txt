@@ -20315,4 +20315,4 @@
 0.0.0.0 campaign-image.com
 0.0.0.0 gatedcontent.com
 0.0.0.0 simpleanalyticscdn.com
-0.0.0.0 tv2a.dk
+! allow tv2a.dk reason: CDN

@@ -20201,3 +20201,4 @@ canopydeploy.net CNAME .
 deployteq.net CNAME .
 tawk.help CNAME .
 social.zilver.dev CNAME .
+campaigns.zoho.eu CNAME .

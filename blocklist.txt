@@ -20980,3 +20980,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||campaigns.zoho.eu^
 ||maillist-manage.eu^
 ||campaign-image.eu^
+||campaign-image.com^

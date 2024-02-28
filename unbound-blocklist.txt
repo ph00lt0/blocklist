@@ -20211,3 +20211,4 @@ local-zone: "campaign-image.com." always_null
 local-zone: "gatedcontent.com." always_null
 local-zone: "simpleanalyticscdn.com." always_null
 # allow tv2a.dk reason: CDN
+local-zone: "scripts.tv2a.dk." always_null

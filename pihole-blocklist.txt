@@ -20316,3 +20316,4 @@
 0.0.0.0 gatedcontent.com
 0.0.0.0 simpleanalyticscdn.com
 ! allow tv2a.dk reason: CDN
+0.0.0.0 scripts.tv2a.dk

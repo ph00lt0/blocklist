@@ -20979,3 +20979,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||linuxfoundation.org^$removeparam=hss_channel
 ||campaigns.zoho.eu^
 ||maillist-manage.eu^
+||campaign-image.eu^

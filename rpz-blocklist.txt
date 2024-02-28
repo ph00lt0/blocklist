@@ -20203,3 +20203,4 @@ tawk.help CNAME .
 social.zilver.dev CNAME .
 campaigns.zoho.eu CNAME .
 maillist-manage.eu CNAME .
+campaign-image.eu CNAME .

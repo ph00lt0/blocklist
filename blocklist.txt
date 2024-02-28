@@ -20986,3 +20986,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||london.edu^$removeparam=utm_source
 ||london.edu^$removeparam=FormMode
 ||london.edu^$removeparam=itemId
+||redhat.com^$removeparam=sc_cid

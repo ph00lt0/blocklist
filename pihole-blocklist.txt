@@ -20318,3 +20318,4 @@
 ! allow tv2a.dk reason: CDN
 0.0.0.0 scripts.tv2a.dk
 0.0.0.0 monsido-consent.com
+0.0.0.0 newsifier.nl

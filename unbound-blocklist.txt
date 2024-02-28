@@ -20216,3 +20216,4 @@ local-zone: "monsido-consent.com." always_null
 local-zone: "newsifier.nl." always_null
 local-zone: "replain.cc." always_null
 local-zone: "2fa.io." always_null
+local-zone: "ekunahprime.com." always_null

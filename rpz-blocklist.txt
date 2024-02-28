@@ -20206,3 +20206,4 @@ maillist-manage.eu CNAME .
 campaign-image.eu CNAME .
 campaign-image.com CNAME .
 gatedcontent.com CNAME .
+simpleanalyticscdn.com CNAME .

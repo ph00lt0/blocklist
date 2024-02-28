@@ -20190,3 +20190,4 @@ optimize.net CNAME .
 fnx3x.com CNAME .
 webjavaskript.net CNAME .
 loyaltylion.net CNAME .
+cipowered.com CNAME .

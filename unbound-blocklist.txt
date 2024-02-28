@@ -20039,7 +20039,7 @@ local-zone: "techbuzzweb.tech>." always_null
 local-zone: "techbuzzweb.tech." always_null
 local-zone: "mub.me." always_null
 local-zone: "beehiiv.com." always_null
-local-zone: "dilka.xcdn.nl." always_null
+# allow dilka.xcdn.nl reason: CDN
 local-zone: "milkymouse.com." always_null
 local-zone: "arounddeal.com." always_null
 local-zone: ".huaweicloud.com." always_null

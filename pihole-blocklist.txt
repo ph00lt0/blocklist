@@ -20144,7 +20144,7 @@
 0.0.0.0 techbuzzweb.tech
 0.0.0.0 mub.me
 0.0.0.0 beehiiv.com
-0.0.0.0 dilka.xcdn.nl
+! allow dilka.xcdn.nl reason: CDN
 0.0.0.0 milkymouse.com
 0.0.0.0 arounddeal.com
 0.0.0.0 .huaweicloud.com

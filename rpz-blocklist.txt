@@ -20196,3 +20196,4 @@ loremipsumcorp.com CNAME .
 mybcapps.com CNAME .
 cldsvc.net CNAME .
 leadconnectorhq.com CNAME .
+msgsndr.com CNAME .

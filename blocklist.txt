@@ -20978,3 +20978,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||social.zilver.dev^
 ||linuxfoundation.org^$removeparam=hss_channel
 ||campaigns.zoho.eu^
+||maillist-manage.eu^

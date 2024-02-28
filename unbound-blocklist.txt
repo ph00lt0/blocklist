@@ -20205,3 +20205,4 @@ local-zone: "deployteq.net." always_null
 local-zone: "tawk.help." always_null
 local-zone: "social.zilver.dev." always_null
 local-zone: "campaigns.zoho.eu." always_null
+local-zone: "maillist-manage.eu." always_null

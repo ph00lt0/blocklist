@@ -20982,3 +20982,4 @@ markedsforing.dk##.acf-block--a-d-form
 ||campaign-image.eu^
 ||campaign-image.com^
 ||gatedcontent.com^
+||london.edu^$removeparam=servicepagereferer

@@ -20313,3 +20313,4 @@
 0.0.0.0 maillist-manage.eu
 0.0.0.0 campaign-image.eu
 0.0.0.0 campaign-image.com
+0.0.0.0 gatedcontent.com

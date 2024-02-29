@@ -20239,3 +20239,4 @@ local-zone: "pangle.com." always_null
 local-zone: "mbridge.com." always_null
 local-zone: "mintegral.com." always_null
 local-zone: "ati-host.com." always_null
+local-zone: "atinternet.com." always_null

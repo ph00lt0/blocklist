@@ -20235,3 +20235,4 @@ didomi.com CNAME .
 pangle.com CNAME .
 mbridge.com CNAME .
 mintegral.com CNAME .
+ati-host.com CNAME .

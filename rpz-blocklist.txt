@@ -20231,3 +20231,5 @@ mydataprivacy.com CNAME .
 alescodata.com CNAME .
 statlistics.com CNAME .
 mailing-lists-direct.com CNAME .
+didomi.com CNAME .
+pangle.com CNAME .

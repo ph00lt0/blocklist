@@ -20234,3 +20234,5 @@ local-zone: "mydataprivacy.com." always_null
 local-zone: "alescodata.com." always_null
 local-zone: "statlistics.com." always_null
 local-zone: "mailing-lists-direct.com." always_null
+local-zone: "didomi.com." always_null
+local-zone: "pangle.com." always_null

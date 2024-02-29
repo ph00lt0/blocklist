@@ -20339,3 +20339,5 @@
 0.0.0.0 alescodata.com
 0.0.0.0 statlistics.com
 0.0.0.0 mailing-lists-direct.com
+0.0.0.0 didomi.com
+0.0.0.0 pangle.com

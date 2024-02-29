@@ -20233,3 +20233,5 @@ statlistics.com CNAME .
 mailing-lists-direct.com CNAME .
 didomi.com CNAME .
 pangle.com CNAME .
+mbridge.com CNAME .
+mintegral.com CNAME .

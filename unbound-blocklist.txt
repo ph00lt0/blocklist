@@ -20236,3 +20236,5 @@ local-zone: "statlistics.com." always_null
 local-zone: "mailing-lists-direct.com." always_null
 local-zone: "didomi.com." always_null
 local-zone: "pangle.com." always_null
+local-zone: "mbridge.com." always_null
+local-zone: "mintegral.com." always_null

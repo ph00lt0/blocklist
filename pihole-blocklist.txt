@@ -20341,3 +20341,5 @@
 0.0.0.0 mailing-lists-direct.com
 0.0.0.0 didomi.com
 0.0.0.0 pangle.com
+0.0.0.0 mbridge.com
+0.0.0.0 mintegral.com

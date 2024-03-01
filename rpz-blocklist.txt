@@ -20240,3 +20240,4 @@ atinternet.com CNAME .
 smarsh.com CNAME .
 365dagensuccesvol.nl CNAME .
 glance-mediametrie.com CNAME .
+prismanote.com CNAME .

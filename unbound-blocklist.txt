@@ -20243,3 +20243,4 @@ local-zone: "atinternet.com." always_null
 local-zone: "smarsh.com." always_null
 local-zone: "365dagensuccesvol.nl." always_null
 local-zone: "glance-mediametrie.com." always_null
+local-zone: "prismanote.com." always_null

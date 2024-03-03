@@ -20350,3 +20350,13 @@
 0.0.0.0 glance-mediametrie.com
 0.0.0.0 prismanote.com
 0.0.0.0 dpgshops.nl
+0.0.0.0 nieuwe-casinos.net
+0.0.0.0 onlinecasinosspelen.com
+0.0.0.0 gamblingholland.nl
+0.0.0.0 gokkastenonline.com
+0.0.0.0 betsquare.com
+0.0.0.0 bestecasinosguru.nl
+0.0.0.0 speedycasino.com
+0.0.0.0 casinoraadgever.com
+0.0.0.0 top10casino.nl
+0.0.0.0 wijwedden.net

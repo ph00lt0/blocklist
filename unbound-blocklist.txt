@@ -20245,3 +20245,13 @@ local-zone: "365dagensuccesvol.nl." always_null
 local-zone: "glance-mediametrie.com." always_null
 local-zone: "prismanote.com." always_null
 local-zone: "dpgshops.nl." always_null
+local-zone: "nieuwe-casinos.net." always_null
+local-zone: "onlinecasinosspelen.com." always_null
+local-zone: "gamblingholland.nl." always_null
+local-zone: "gokkastenonline.com." always_null
+local-zone: "betsquare.com." always_null
+local-zone: "bestecasinosguru.nl." always_null
+local-zone: "speedycasino.com." always_null
+local-zone: "casinoraadgever.com." always_null
+local-zone: "top10casino.nl." always_null
+local-zone: "wijwedden.net." always_null

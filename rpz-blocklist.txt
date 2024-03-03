@@ -20242,3 +20242,13 @@ smarsh.com CNAME .
 glance-mediametrie.com CNAME .
 prismanote.com CNAME .
 dpgshops.nl CNAME .
+nieuwe-casinos.net CNAME .
+onlinecasinosspelen.com CNAME .
+gamblingholland.nl CNAME .
+gokkastenonline.com CNAME .
+betsquare.com CNAME .
+bestecasinosguru.nl CNAME .
+speedycasino.com CNAME .
+casinoraadgever.com CNAME .
+top10casino.nl CNAME .
+wijwedden.net CNAME .

@@ -20263,3 +20263,4 @@ local-zone: "sleeknote.com." always_null
 local-zone: "heworkpc.com." always_null
 local-zone: "iabacorenaganotonic.best." always_null
 local-zone: "diabacorenaganotonic.best." always_null
+local-zone: "kerasentials.life." always_null

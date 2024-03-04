@@ -20256,3 +20256,4 @@ local-zone: "casinoraadgever.com." always_null
 local-zone: "top10casino.nl." always_null
 local-zone: "wijwedden.net." always_null
 local-zone: "meedoen.show.nl." always_null
+local-zone: "d11x8zpygrrud3.cloudfront.net." always_null

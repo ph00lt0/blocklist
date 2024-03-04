@@ -1743,7 +1743,7 @@
 0.0.0.0 data.reachplc.com
 0.0.0.0 flip-pay.com
 0.0.0.0 cdn.flip-pay.com
-0.0.0.0 cdns.gigya.com
+! allow cdns.gigya.com reason: CDN
 0.0.0.0 shared.mediahuis.be
 0.0.0.0 nijobfinder.co.uk
 0.0.0.0 nijobfinder.co.uk

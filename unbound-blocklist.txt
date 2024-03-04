@@ -1704,7 +1704,7 @@ local-zone: "reachplc.com." always_null
 local-zone: "data.reachplc.com." always_null
 local-zone: "flip-pay.com." always_null
 local-zone: "cdn.flip-pay.com." always_null
-local-zone: "cdns.gigya.com." always_null
+# allow cdns.gigya.com reason: CDN
 local-zone: "shared.mediahuis.be." always_null
 local-zone: "nijobfinder.co.uk." always_null
 local-zone: "nijobfinder.co.uk." always_null

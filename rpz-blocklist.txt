@@ -1702,7 +1702,7 @@ reachplc.com CNAME .
 data.reachplc.com CNAME .
 flip-pay.com CNAME .
 cdn.flip-pay.com CNAME .
-cdns.gigya.com CNAME .
+; allow cdns.gigya.com reason: CDN
 shared.mediahuis.be CNAME .
 nijobfinder.co.uk CNAME .
 nijobfinder.co.uk CNAME .

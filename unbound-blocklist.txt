@@ -14126,7 +14126,7 @@ local-zone: "complex.com." always_null
 local-zone: "computershare.com." always_null
 local-zone: "comtucdncom.com." always_null
 local-zone: "concert.io." always_null
-local-zone: "condenast.map.fastly.net." always_null
+# allow condenast.map.fastly.net reason: Media
 local-zone: "confiant-integrations.global.ssl.fastly.net." always_null
 local-zone: "confirmic.com." always_null
 local-zone: "confirmit.com.au." always_null

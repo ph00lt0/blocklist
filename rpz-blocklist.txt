@@ -14123,7 +14123,7 @@ complex.com CNAME .
 computershare.com CNAME .
 comtucdncom.com CNAME .
 concert.io CNAME .
-condenast.map.fastly.net CNAME .
+; allow condenast.map.fastly.net reason: Media
 confiant-integrations.global.ssl.fastly.net CNAME .
 confirmic.com CNAME .
 confirmit.com.au CNAME .

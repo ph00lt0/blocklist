@@ -14231,7 +14231,7 @@
 0.0.0.0 computershare.com
 0.0.0.0 comtucdncom.com
 0.0.0.0 concert.io
-0.0.0.0 condenast.map.fastly.net
+! allow condenast.map.fastly.net reason: Media
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 confirmic.com
 0.0.0.0 confirmit.com.au

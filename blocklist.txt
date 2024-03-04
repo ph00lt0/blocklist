@@ -14554,7 +14554,7 @@ $removeparam=engagement_type
 ||computershare.com^
 ||comtucdncom.com^
 ||concert.io^
-||condenast.map.fastly.net^
+||condenast.map.fastly.net^$badfilter  # Media
 ||confiant-integrations.global.ssl.fastly.net^
 ||confirmic.com^
 ||confirmit.com.au^

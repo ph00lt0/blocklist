@@ -21046,3 +21046,4 @@ markedsforing.dk##.acf-block--a-d-form
 scholieren.com##.klikurl
 ||noibu.com^
 beterbed.nl##body:style(overflow: auto!important)
+beterbed.nl##.popup

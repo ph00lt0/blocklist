@@ -15245,7 +15245,7 @@ local-zone: "cnnx.io." always_null
 local-zone: "co-buying.com." always_null
 local-zone: "com-secure.edgekey.net." always_null
 local-zone: "commbox.io." always_null
-local-zone: "contentstack.com." always_null
+# allow contentstack.com reason: image cdn
 local-zone: "controq.com." always_null
 local-zone: "convertcart.com." always_null
 local-zone: "cookieassistant.com." always_null

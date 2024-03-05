@@ -14903,7 +14903,7 @@ bizrate.com CNAME .
 blindferret-trk.com CNAME .
 bluecava.com CNAME .
 bluecore.app CNAME .
-blz-contentstack.com CNAME .
+blz-; allow contentstack.com reason: image cdn
 bmo.com CNAME .
 bnn.ca CNAME .
 bodhi.is CNAME .
@@ -15242,7 +15242,7 @@ cnnx.io CNAME .
 co-buying.com CNAME .
 
 commbox.io CNAME .
-contentstack.com CNAME .
+; allow contentstack.com reason: image cdn
 controq.com CNAME .
 convertcart.com CNAME .
 cookieassistant.com CNAME .

@@ -21051,3 +21051,4 @@ beterbed.nl##.overlay
 scholieren.com##.XBFUqF
 ||keurmerk.info^$third-party
 ||tinka.nl^$third-party
+||tinka.com^$third-party

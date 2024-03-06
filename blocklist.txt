@@ -21054,3 +21054,4 @@ scholieren.com##.XBFUqF
 ||tinka.com^$third-party
 ||wehkamp.nl/kassa/logs^
 ||tomi.ai^
+||decathlon.nl^$removeparam=mc

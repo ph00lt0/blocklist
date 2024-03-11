@@ -21055,3 +21055,4 @@ scholieren.com##.XBFUqF
 ||wehkamp.nl/kassa/logs^
 ||tomi.ai^
 ||decathlon.nl^$removeparam=mc
+||sentry.io^$third-party

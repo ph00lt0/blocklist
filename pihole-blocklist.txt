@@ -12770,7 +12770,7 @@
 0.0.0.0 1727357668.rsc.cdn77.org
 0.0.0.0 173.208.216.250
 0.0.0.0 1734811051.rsc.cdn77.org
-0.0.0.0 1739712465.rsc.cdn77.org
+! allow 1739712465.rsc.cdn77.org reason: Gentoo Linux
 0.0.0.0 1751350540.rsc.cdn77.org
 0.0.0.0 1751390105.rsc.cdn77.org
 

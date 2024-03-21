@@ -12665,7 +12665,7 @@ local-zone: "1720289623.rsc.cdn77.org." always_null
 local-zone: "1727357668.rsc.cdn77.org." always_null
 local-zone: "173.208.216.250." always_null
 local-zone: "1734811051.rsc.cdn77.org." always_null
-local-zone: "1739712465.rsc.cdn77.org." always_null
+# allow 1739712465.rsc.cdn77.org reason: Gentoo Linux
 local-zone: "1751350540.rsc.cdn77.org." always_null
 local-zone: "1751390105.rsc.cdn77.org." always_null
 

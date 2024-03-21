@@ -15345,7 +15345,7 @@
 0.0.0.0 click4assistance.co.uk
 0.0.0.0 clrt.ai
 0.0.0.0 cm-cms-resources.s3.eu-west-2.amazonaws.com
-0.0.0.0 cni-digital.map.fastly.net
+! allow cni-digital.map.fastly.net reason: gq-magazin.de
 0.0.0.0 cnnx.io
 0.0.0.0 co-buying.com
 

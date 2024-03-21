@@ -15240,7 +15240,7 @@ local-zone: "checkatyre.co.uk." always_null
 local-zone: "click4assistance.co.uk." always_null
 local-zone: "clrt.ai." always_null
 local-zone: "cm-cms-resources.s3.eu-west-2.amazonaws.com." always_null
-local-zone: "cni-digital.map.fastly.net." always_null
+# allow cni-digital.map.fastly.net reason: gq-magazin.de
 local-zone: "cnnx.io." always_null
 local-zone: "co-buying.com." always_null
 local-zone: "com-secure.edgekey.net." always_null

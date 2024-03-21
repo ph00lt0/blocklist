@@ -15665,7 +15665,7 @@ $removeparam=engagement_type
 ||click4assistance.co.uk^
 ||clrt.ai^
 ||cm-cms-resources.s3.eu-west-2.amazonaws.com^
-||cni-digital.map.fastly.net^
+||cni-digital.map.fastly.net^$badfilter  # gq-magazin.de
 ||cnnx.io^
 ||co-buying.com^
 

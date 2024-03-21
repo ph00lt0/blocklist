@@ -15237,7 +15237,7 @@ checkatyre.co.uk CNAME .
 click4assistance.co.uk CNAME .
 clrt.ai CNAME .
 cm-cms-resources.s3.eu-west-2.amazonaws.com CNAME .
-cni-digital.map.fastly.net CNAME .
+; allow cni-digital.map.fastly.net reason: gq-magazin.de
 cnnx.io CNAME .
 co-buying.com CNAME .
 

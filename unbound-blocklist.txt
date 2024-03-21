@@ -20272,3 +20272,4 @@ local-zone: "varify.io." always_null
 local-zone: "sovendus.com." always_null
 local-zone: "sovendus-connect.com." always_null
 local-zone: "dntfctn.com." always_null
+local-zone: "a.solo.to." always_null

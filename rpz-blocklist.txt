@@ -20269,3 +20269,4 @@ varify.io CNAME .
 sovendus.com CNAME .
 sovendus-connect.com CNAME .
 dntfctn.com CNAME .
+a.solo.to CNAME .

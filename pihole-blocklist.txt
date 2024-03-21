@@ -19784,7 +19784,7 @@
 0.0.0.0 thirtydayfitnessandroid.oracle.bendingspoonsapps.com
 0.0.0.0 oracle.bendingspoonsapps.com
 0.0.0.0 nearbysharing-pa.googleapis.com
-0.0.0.0 amp.shazam.com
+! allow amp.shazam.com reason: Shazam #87
 0.0.0.0 natuurlijke-analyse.nl
 0.0.0.0 appgw.conviva.com
 0.0.0.0 kbowebbncb.com

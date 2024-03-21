@@ -19679,7 +19679,7 @@ local-zone: "spidersense.bendingspoons.com." always_null
 local-zone: "thirtydayfitnessandroid.oracle.bendingspoonsapps.com." always_null
 local-zone: "oracle.bendingspoonsapps.com." always_null
 local-zone: "nearbysharing-pa.googleapis.com." always_null
-local-zone: "amp.shazam.com." always_null
+# allow amp.shazam.com reason: Shazam #87
 local-zone: "natuurlijke-analyse.nl." always_null
 local-zone: "appgw.conviva.com." always_null
 local-zone: "kbowebbncb.com." always_null

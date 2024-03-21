@@ -20374,7 +20374,7 @@ hypotheek.nl###cookielaw_idf_overlay
 ||thirtydayfitnessandroid.oracle.bendingspoonsapps.com^
 ||oracle.bendingspoonsapps.com^
 ||nearbysharing-pa.googleapis.com^
-||amp.shazam.com^
+||amp.shazam.com^$badfilter  # Shazam #87
 ||natuurlijke-analyse.nl^
 ||appgw.conviva.com^
 ||kbowebbncb.com^

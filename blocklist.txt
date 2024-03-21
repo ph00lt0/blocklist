@@ -21057,3 +21057,4 @@ scholieren.com##.XBFUqF
 ||decathlon.nl^$removeparam=mc
 ||sentry.io^$third-party
 ||orf24at1.com^
+||mainroll.com^

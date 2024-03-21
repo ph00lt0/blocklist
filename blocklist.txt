@@ -21060,3 +21060,4 @@ scholieren.com##.XBFUqF
 ||mainroll.com^
 ||varify.io^
 ||sovendus.com^
+||sovendus-connect.com^

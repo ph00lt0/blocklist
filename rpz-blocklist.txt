@@ -20267,3 +20267,4 @@ orf24at1.com CNAME .
 mainroll.com CNAME .
 varify.io CNAME .
 sovendus.com CNAME .
+sovendus-connect.com CNAME .

@@ -20375,3 +20375,4 @@
 0.0.0.0 mainroll.com
 0.0.0.0 varify.io
 0.0.0.0 sovendus.com
+0.0.0.0 sovendus-connect.com

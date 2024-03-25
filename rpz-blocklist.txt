@@ -20271,3 +20271,4 @@ sovendus-connect.com CNAME .
 dntfctn.com CNAME .
 a.solo.to CNAME .
 express-pakketbezorging.net CNAME .
+trackingmail.gls-netherlands.com CNAME .

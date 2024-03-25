@@ -19938,7 +19938,7 @@ glint-people-academy.skilljar.com CNAME .
 peopleacademy.glintinc.com CNAME .
 scommunity.linkedin.com CNAME .
 tcommunity.linkedin.com CNAME .
-mailgun.net CNAME .
+; allow mailgun.net reason: Mailgun API
 conta.cc CNAME .
 linguise.com CNAME .
 notifyvisitors.com CNAME .

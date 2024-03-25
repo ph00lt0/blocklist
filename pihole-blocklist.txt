@@ -20046,7 +20046,7 @@
 0.0.0.0 peopleacademy.glintinc.com
 0.0.0.0 scommunity.linkedin.com
 0.0.0.0 tcommunity.linkedin.com
-0.0.0.0 mailgun.net
+! allow mailgun.net reason: Mailgun API
 0.0.0.0 conta.cc
 0.0.0.0 linguise.com
 0.0.0.0 notifyvisitors.com

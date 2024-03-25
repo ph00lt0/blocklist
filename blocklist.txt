@@ -20682,7 +20682,7 @@ annual-report-triodos.com##.cookie-bar
 ||scommunity.linkedin.com^
 ||tcommunity.linkedin.com^
 ||baidu.com/link^
-||mailgun.net^
+||mailgun.net^$badfilter  # Mailgun API
 ||conta.cc^
 ||linguise.com^
 ||notifyvisitors.com^

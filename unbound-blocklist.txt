@@ -20275,3 +20275,4 @@ local-zone: "dntfctn.com." always_null
 local-zone: "a.solo.to." always_null
 local-zone: "express-pakketbezorging.net." always_null
 local-zone: "trackingmail.gls-netherlands.com." always_null
+local-zone: "coujardin.com." always_null

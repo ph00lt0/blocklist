@@ -21068,3 +21068,4 @@ scholieren.com##.XBFUqF
 ||coujardin.com^
 ||merchantpool1.linkedin.com^
 dille-kamille.nl##+js(rc, gtm-impression, a, stay)
+dille-kamille.nl##+js(rc, gtm-impression, button, stay)

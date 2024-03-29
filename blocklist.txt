@@ -21072,3 +21072,4 @@ dille-kamille.nl##+js(rc, gtm-impression, button, stay)
 ||dille-kamille.nl/static/*/logger/entry.min.js^
 ||dille-kamille.nl/*logger-utils.min.js^
 ^Xsarus_ClickCollect/*.js^
+^outer_click.min.js^

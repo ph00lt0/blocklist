@@ -21074,4 +21074,14 @@ dille-kamille.nl##+js(rc, gtm-impression, button, stay)
 ^Xsarus_ClickCollect/*.js^
 ^outer_click.min.js^
 ||dille-kamille.nl/*/logger/entry-factory.min.js^
+dille-kamille.nl##+js(rc, gtm-impression, a, stay)
+dille-kamille.nl##+js(rc, gtm-impression, button, stay)
+||dille-kamille.nl/static/*/logger/entry.min.js^
+||dille-kamille.nl/*logger-utils.min.js^
+^Xsarus_ClickCollect/*.js^
+^outer_click.min.js^
+||dille-kamille.nl/*/logger/entry-factory.min.js^
 ^/Xsarus/xsa-dlk/*/js/lib/logger^
+^Xsarus/xsa-dlk/*/js-cookie/cookie-wrapper*js^
+^Xsarus/xsa-dlk/*/Xsarus_Cookie/js/*.js
+^Xsarus/xsa-dlk/*/*/js/lib/core/events.min.js^

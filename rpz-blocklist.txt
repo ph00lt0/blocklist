@@ -20273,3 +20273,4 @@ a.solo.to CNAME .
 express-pakketbezorging.net CNAME .
 trackingmail.gls-netherlands.com CNAME .
 coujardin.com CNAME .
+merchantpool1.linkedin.com CNAME .

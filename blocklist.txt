@@ -21069,3 +21069,4 @@ scholieren.com##.XBFUqF
 ||merchantpool1.linkedin.com^
 dille-kamille.nl##+js(rc, gtm-impression, a, stay)
 dille-kamille.nl##+js(rc, gtm-impression, button, stay)
+||dille-kamille.nl/static/*/logger/entry.min.js^

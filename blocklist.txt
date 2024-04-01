@@ -21074,3 +21074,4 @@ dille-kamille.nl##+js(rc, gtm-impression, button, stay)
 ^/Xsarus/xsa-dlk/*/js/lib/logger^
 ^Xsarus_ClickCollect/*.js^
 
+kentaa.nl###kentaa_consent_modal

@@ -21073,8 +21073,67 @@ dille-kamille.nl##+js(rc, gtm-impression, button, stay)
 ^Xsarus/xsa-dlk/*/Xsarus_Cookie/js/*.js
 ^/Xsarus/xsa-dlk/*/js/lib/logger^
 ^Xsarus_ClickCollect/*.js^
-
 kentaa.nl###kentaa_consent_modal
+kentaa.nl##.modal-backdrop
 kentaa.nl##+js(rc, modal-open, body, stay)
+nachtvandevluchteling.nl###kentaa_consent_modal
+nachtvandevluchteling.nl##.modal-backdrop
+nachtvandevluchteling.nl##+js(rc, modal-open, body, stay)
+mvdwfoundation.nl###kentaa_consent_modal
+mvdwfoundation.nl##.modal-backdrop
+mvdwfoundation.nl##+js(rc, modal-open, body, stay)
+thepollinators.org###newsletter-modal
+actie.thepollinators.org###kentaa_consent_modal
+actie.thepollinators.org##.modal-backdrop
+actie.thepollinators.org##+js(rc, modal-open, body, stay)
+acties.lymph-co.com###kentaa_consent_modal
+acties.lymph-co.com##.modal-backdrop
+acties.lymph-co.com##+js(rc, modal-open, body, stay)
+roparun.nl###kentaa_consent_modal
+roparun.nl##.modal-backdrop
+roparun.nl##+js(rc, modal-open, body, stay)
+inactievoorerasmusmc.nl###kentaa_consent_modal
+inactievoorerasmusmc.nl##.modal-backdrop
+inactievoorerasmusmc.nl##+js(rc, modal-open, body, stay)
+inactievooropkikker.nl###kookies_bar_0
+inactievooropkikker.nl##.modal-backdrop
 inactievooropkikker.nl##body:style(overflow: auto!important)
+sterkensportief.nl###kentaa_consent_modal
+sterkensportief.nl##.modal-backdrop
+sterkensportief.nl##+js(rc, modal-open, body, stay)
+mycommunitydefib.co.uk###kentaa_consent_modal
+mycommunitydefib.co.uk##.modal-backdrop
+mycommunitydefib.co.uk##+js(rc, modal-open, body, stay)
+amsterdamcityswim.nl###kentaa_consent_modal
+amsterdamcityswim.nl##.modal-backdrop
+amsterdamcityswim.nl##+js(rc, modal-open, body, stay)
+paris.montriathlondesroses.fr###kookies_bar_0
+paris.montriathlondesroses.fr##.modal-backdrop
+paris.montriathlondesroses.fr##body:style(overflow: auto!important)
+sbnl-natuuromdehoek.nl###kentaa_consent_modal
+sbnl-natuuromdehoek.nl##.modal-backdrop
+sbnl-natuuromdehoek.nl##+js(rc, modal-open, body, stay)
+sterktegenms.nl###kentaa_consent_modal
+sterktegenms.nl##.modal-backdrop
+sterktegenms.nl##+js(rc, modal-open, body, stay)
+oogfonds-walk-en-ride.nl###kookies_bar_0
+oogfonds-walk-en-ride.nl##.modal-backdrop
+oogfonds-walk-en-ride.nl##body:style(overflow: auto!important)
+actievoorrodekruisijsselland.nl##body:style(overflow: auto!important)
+doneren.maggiescenters.nl##body:style(overflow: auto!important)
+alsacties.be##body:style(overflow: auto!important)
+spendenaktion.drk.de##body:style(overflow: auto!important)
+gelukinbewegingchallenge.nl##body:style(overflow: auto!important)
+marathon-paris.dossards-solidaires.org###kookies_bar_0
+marathon-paris.dossards-solidaires.org##.modal-backdrop
+marathon-paris.dossards-solidaires.org##body:style(overflow: auto!important)
+inactievoormakeawish.be##body:style(overflow: auto!important)
+actie.hetvergetenkind.nl##body:style(overflow: auto!important)
+voorplan.nl##body:style(overflow: auto!important)
+alssunrisewalk.nl##body:style(overflow: auto!important)
+lesensduneviefondationdefrance.org##body:style(overflow: auto!important)
+dossards-solidaires.org##body:style(overflow: auto!important)
+dossards-solidaires.org###kookies_bar_0
+dossards-solidaires.org##.modal-backdrop
+4als.nl##body:style(overflow: auto!important)
 ||link.kentaa.nl^

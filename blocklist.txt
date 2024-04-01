@@ -21077,3 +21077,4 @@ dille-kamille.nl##+js(rc, gtm-impression, button, stay)
 kentaa.nl###kentaa_consent_modal
 kentaa.nl##+js(rc, modal-open, body, stay)
 inactievooropkikker.nl##body:style(overflow: auto!important)
+||link.kentaa.nl^

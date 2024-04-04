@@ -21137,3 +21137,4 @@ dossards-solidaires.org###kookies_bar_0
 dossards-solidaires.org##.modal-backdrop
 4als.nl##body:style(overflow: auto!important)
 ||link.kentaa.nl^
+||softwareag.com^

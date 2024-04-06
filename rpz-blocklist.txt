@@ -20276,3 +20276,4 @@ coujardin.com CNAME .
 merchantpool1.linkedin.com CNAME .
 link.kentaa.nl CNAME .
 softwareag.com CNAME .
+research.net CNAME .

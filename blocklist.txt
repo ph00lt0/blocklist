@@ -21153,3 +21153,4 @@ dossards-solidaires.org##.modal-backdrop
 ||linkmoon.net^
 ||onlinevoordelig.nl^
 ||insurancetool.net^
+||inventics.tech^

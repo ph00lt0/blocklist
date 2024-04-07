@@ -20291,3 +20291,4 @@ ontraport.net CNAME .
 linkmoon.net CNAME .
 onlinevoordelig.nl CNAME .
 insurancetool.net CNAME .
+inventics.tech CNAME .

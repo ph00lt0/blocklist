@@ -20294,3 +20294,4 @@ local-zone: "ontraport.net." always_null
 local-zone: "linkmoon.net." always_null
 local-zone: "onlinevoordelig.nl." always_null
 local-zone: "insurancetool.net." always_null
+local-zone: "inventics.tech." always_null

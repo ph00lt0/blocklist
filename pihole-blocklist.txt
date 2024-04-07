@@ -20399,3 +20399,4 @@
 0.0.0.0 linkmoon.net
 0.0.0.0 onlinevoordelig.nl
 0.0.0.0 insurancetool.net
+0.0.0.0 inventics.tech

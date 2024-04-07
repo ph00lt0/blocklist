@@ -20310,3 +20310,4 @@ local-zone: "dontcost2becute.com." always_null
 local-zone: "inovarcontabilidade.net." always_null
 local-zone: "aanmeld-medewerking.nl." always_null
 local-zone: "seramail.nl." always_null
+local-zone: "betaaldienst-aanvraag.nl." always_null

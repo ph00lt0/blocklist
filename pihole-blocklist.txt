@@ -20422,3 +20422,4 @@
 0.0.0.0 chinesequartzite.com
 0.0.0.0 srvbbb.eu
 0.0.0.0 is.gd
+0.0.0.0 wintershope.eu

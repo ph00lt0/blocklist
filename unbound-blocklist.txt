@@ -20305,3 +20305,4 @@ local-zone: "scamadviser.com." always_null
 local-zone: "costa.it." always_null
 local-zone: "britarama.com." always_null
 local-zone: "bikedekho.com." always_null
+local-zone: "doxahomes.com." always_null

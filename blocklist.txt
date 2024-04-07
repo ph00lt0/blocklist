@@ -21154,3 +21154,4 @@ dossards-solidaires.org##.modal-backdrop
 ||onlinevoordelig.nl^
 ||insurancetool.net^
 ||inventics.tech^
+||mynewredirectislife.xyz^

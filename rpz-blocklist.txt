@@ -20292,3 +20292,4 @@ linkmoon.net CNAME .
 onlinevoordelig.nl CNAME .
 insurancetool.net CNAME .
 inventics.tech CNAME .
+mynewredirectislife.xyz CNAME .

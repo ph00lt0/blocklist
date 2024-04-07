@@ -20427,3 +20427,4 @@
 0.0.0.0 boshava.mk
 0.0.0.0 randomhunk.xyz
 0.0.0.0 autoriteit-avg.nl
+0.0.0.0 turkishar.com

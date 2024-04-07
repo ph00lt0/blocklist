@@ -20319,3 +20319,4 @@ bitlabon.com CNAME .
 boshava.mk CNAME .
 randomhunk.xyz CNAME .
 autoriteit-avg.nl CNAME .
+turkishar.com CNAME .

@@ -20401,3 +20401,4 @@
 0.0.0.0 insurancetool.net
 0.0.0.0 inventics.tech
 0.0.0.0 mynewredirectislife.xyz
+0.0.0.0 magenta.de

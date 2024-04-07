@@ -21155,3 +21155,4 @@ dossards-solidaires.org##.modal-backdrop
 ||insurancetool.net^
 ||inventics.tech^
 ||mynewredirectislife.xyz^
+||magenta.de^

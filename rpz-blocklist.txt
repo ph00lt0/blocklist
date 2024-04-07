@@ -20293,3 +20293,4 @@ onlinevoordelig.nl CNAME .
 insurancetool.net CNAME .
 inventics.tech CNAME .
 mynewredirectislife.xyz CNAME .
+magenta.de CNAME .

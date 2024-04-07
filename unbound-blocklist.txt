@@ -20301,3 +20301,4 @@ local-zone: "markengineeringbd.com." always_null
 local-zone: "jornaiserevistasmedia.com." always_null
 local-zone: "velthuysemulder.nl." always_null
 local-zone: "srvsmtp.cih.ma." always_null
+local-zone: "scamadviser.com." always_null

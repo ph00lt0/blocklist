@@ -20406,3 +20406,4 @@
 0.0.0.0 jornaiserevistasmedia.com
 0.0.0.0 velthuysemulder.nl
 0.0.0.0 srvsmtp.cih.ma
+0.0.0.0 scamadviser.com

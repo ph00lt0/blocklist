@@ -20298,3 +20298,4 @@ markengineeringbd.com CNAME .
 jornaiserevistasmedia.com CNAME .
 velthuysemulder.nl CNAME .
 srvsmtp.cih.ma CNAME .
+scamadviser.com CNAME .

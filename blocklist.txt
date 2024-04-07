@@ -21187,3 +21187,4 @@ dossards-solidaires.org##.modal-backdrop
 ||urepim.info^
 ||elizabethnewlife.org^
 ||web-alert.nl^
+||bkerni.biz^

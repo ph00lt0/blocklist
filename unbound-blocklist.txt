@@ -20328,3 +20328,4 @@ local-zone: "mailrabobank.email." always_null
 local-zone: "urepim.info." always_null
 local-zone: "elizabethnewlife.org." always_null
 local-zone: "web-alert.nl." always_null
+local-zone: "bkerni.biz." always_null

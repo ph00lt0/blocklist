@@ -20316,3 +20316,4 @@ srvbbb.eu CNAME .
 is.gd CNAME .
 wintershope.eu CNAME .
 bitlabon.com CNAME .
+boshava.mk CNAME .

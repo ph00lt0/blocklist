@@ -21180,3 +21180,4 @@ dossards-solidaires.org##.modal-backdrop
 ||bitlabon.com^
 ||boshava.mk^
 ||randomhunk.xyz^
+||autoriteit-avg.nl^

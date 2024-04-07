@@ -20318,3 +20318,4 @@ wintershope.eu CNAME .
 bitlabon.com CNAME .
 boshava.mk CNAME .
 randomhunk.xyz CNAME .
+autoriteit-avg.nl CNAME .

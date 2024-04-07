@@ -21152,3 +21152,4 @@ dossards-solidaires.org##.modal-backdrop
 ||ontraport.net^
 ||linkmoon.net^
 ||onlinevoordelig.nl^
+||insurancetool.net^

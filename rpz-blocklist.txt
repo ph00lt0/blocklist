@@ -20310,3 +20310,4 @@ seramail.nl CNAME .
 betaaldienst-aanvraag.nl CNAME .
 tsongbrio.co.uk CNAME .
 ronaldvanraaij.nl CNAME .
+tslc.com.tw CNAME .

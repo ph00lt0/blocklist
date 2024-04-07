@@ -20313,3 +20313,4 @@ local-zone: "seramail.nl." always_null
 local-zone: "betaaldienst-aanvraag.nl." always_null
 local-zone: "tsongbrio.co.uk." always_null
 local-zone: "ronaldvanraaij.nl." always_null
+local-zone: "tslc.com.tw." always_null

@@ -20302,3 +20302,4 @@ local-zone: "jornaiserevistasmedia.com." always_null
 local-zone: "velthuysemulder.nl." always_null
 local-zone: "srvsmtp.cih.ma." always_null
 local-zone: "scamadviser.com." always_null
+local-zone: "costa.it." always_null

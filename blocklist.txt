@@ -21143,3 +21143,4 @@ dossards-solidaires.org##.modal-backdrop
 ||dpvmx.com>^
 ||lvmultimedia.com^
 ||rabobankieren.com^
+||sfpam.fr^

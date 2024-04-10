@@ -18,7 +18,7 @@ analytics.partijvoordedieren.nl CNAME .
 stats.; allow bluebillywig.com reason: Video CDN
 statistiek.mijn.overheid.nl CNAME .
 ip.notable.app CNAME .
-telemetry-eu.docusign.net.akadns.net CNAME .
+telemetry-eu.docusign.net.; allow akadns.net reason: DNS
 telemetry.docusign.net CNAME .
 web-security-reports.services.atlassian.com CNAME .
 reports.protonmail.ch CNAME .
@@ -5967,7 +5967,7 @@ dc.webtrends.com CNAME .
 webtrekk.com CNAME .
 ads.api.vungle.com CNAME .
 akamai.vungle-cdn.vungle.com CNAME .
-api.vungle.akadns.net CNAME .
+api.vungle.; allow akadns.net reason: DNS
 api.vungle.com CNAME .
 bd.vungle.com CNAME .
 billboard.vungle.com CNAME .
@@ -12923,7 +12923,7 @@ jnn-pa.googleapis.com CNAME .
 360.cn CNAME .
 360and1.com CNAME .
 362w9z5h7jnfe1t2q4zqjyqb-wpengine.netdna-ssl.com CNAME .
-365dm.akadns.net CNAME .
+365dm.; allow akadns.net reason: DNS
 365ittictic.com CNAME .
 365lpodds.com CNAME .
 366.fr CNAME .
@@ -13667,7 +13667,7 @@ baqend.com CNAME .
 baradoot.com CNAME .
 baycloud.com CNAME .
 bb2648fde6.com CNAME .
-bbc-a.akadns.net CNAME .
+bbc-a.; allow akadns.net reason: DNS
 bbcverticals.com CNAME .
 bbimages.eu CNAME .
 bcbolt446c5271-a.akamaihd.net CNAME .
@@ -13766,8 +13766,8 @@ ak21727.com CNAME .
 ako.ai CNAME .
 alb-logs-http-rum-pub-s0-1171131448.us-east-1.elb.amazonaws.com CNAME .
 aliyuncs.com CNAME .
-all-failover-bjhk.akadns.net CNAME .
-all-gtm-bjhk.akadns.net CNAME .
+all-failover-bjhk.; allow akadns.net reason: DNS
+all-gtm-bjhk.; allow akadns.net reason: DNS
 allbud.s3.amazonaws.com CNAME .
 allorigins.win CNAME .
 alocdn.com CNAME .
@@ -14098,7 +14098,7 @@ cnstrc.com CNAME .
 cnsypic.com CNAME .
 cnt.my CNAME .
 co-in.io CNAME .
-co.akadns.net CNAME .
+co.; allow akadns.net reason: DNS
 codeblackbelt.com CNAME .
 codeby.net CNAME .
 ; allow codepen.io reason: not a trackernot a tracker
@@ -14284,7 +14284,7 @@ bullseyenorth.com CNAME .
 bunnycdn.ru CNAME .
 buzzoola.com CNAME .
 bytemark.co CNAME .
-ca.akadns.net CNAME .
+ca.; allow akadns.net reason: DNS
 ca.edgesuite.net CNAME .
 ; allow cachefly.net reason: cdn
 calgary.ca CNAME .
@@ -14550,7 +14550,7 @@ deinneueszuhause.de CNAME .
 delight-vr.com CNAME .
 delius-klasing.de CNAME .
 deliverimp.com CNAME .
-dell-cidr.akadns.net CNAME .
+dell-cidr.; allow akadns.net reason: DNS
 delmovip.com CNAME .
 
 demandware.net CNAME .
@@ -14869,7 +14869,7 @@ automat-ai.com CNAME .
 autoverify.com CNAME .
 avidtrak.com CNAME .
 aweber-static.com CNAME .
-awsxfinity.akadns.net CNAME .
+awsxfinity.; allow akadns.net reason: DNS
 ayc0zsm69431gfebd.xyz CNAME .
 b1img.com CNAME .
 b1js.com CNAME .
@@ -15186,7 +15186,7 @@ archant-web-resources.s3.eu-west-2.amazonaws.com CNAME .
 archant.co.uk CNAME .
 arrowcars.co.uk CNAME .
 arrowprivatehire.co.uk CNAME .
-asda.com.akadns.net CNAME .
+asda.com.; allow akadns.net reason: DNS
 askanxiety.com CNAME .
 asksid.ai CNAME .
 
@@ -16862,7 +16862,7 @@ adnexus.net CNAME .
 telemetry.remoteapp.windowsazure.com CNAME .
 telemetry.urs.microsoft.com CNAME .
 telemetry.microsoft.us CNAME .
-data.microsoft.com.akadns.net CNAME .
+data.microsoft.com.; allow akadns.net reason: DNS
 edgeoffer.microsoft.com CNAME .
 adups.cn CNAME .
 amp.cloudflare.com CNAME .
@@ -18310,12 +18310,12 @@ g.msn.com.nsatc.net CNAME .
 *.search.msn.com CNAME .
 ris.api.iris.microsoft.com CNAME .
 query.prod.cms.rt.microsoft.com CNAME .
-cy2.settings.data.microsoft.com.akadns.net CNAME .
+cy2.settings.data.microsoft.com.; allow akadns.net reason: DNS
 location-inference-westus.cloudapp.net CNAME .
-modern.watson.data.microsoft.com.akadns.net CNAME .
-vortex.data.microsoft.com.akadns.net CNAME .
+modern.watson.data.microsoft.com.; allow akadns.net reason: DNS
+vortex.data.microsoft.com.; allow akadns.net reason: DNS
 metaservices.microsoft.com CNAME .
-metaservices.microsoft.com.akadns.net CNAME .
+metaservices.microsoft.com.; allow akadns.net reason: DNS
 bing.com/threshold/xls.aspx CNAME .
 candycrushsoda.king.com CNAME .
 star-mini.c10r.facebook.com CNAME .
@@ -19826,7 +19826,7 @@ martookdepartment.com CNAME .
 kitchentooles.com CNAME .
 api.privacy-center.org CNAME .
 yahoodns.net CNAME .
-akadns.net CNAME .
+; allow akadns.net reason: DNS
 adserver.technoratimedia.com CNAME .
 sync.srv.stackadapt.com CNAME .
 uip.semasio.net CNAME .
@@ -19979,7 +19979,7 @@ kortinguitnodiging.nl CNAME .
 a-f.io CNAME .
 analytics.eo.nl CNAME .
 tracking.budbee.com CNAME .
-bytewlb.akadns.net CNAME .
+bytewlb.; allow akadns.net reason: DNS
 p19-sign.tiktokcdn-us.com CNAME .
 ibytedtos.com CNAME .
 ttwstatic.com CNAME .

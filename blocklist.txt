@@ -20545,7 +20545,7 @@ bever.nl##body:style(overflow: auto!important)
 postnl.nl##.pci-cookie-button-inner .pci-button--primary
 ||api.privacy-center.org^
 ||yahoodns.net^
-||akadns.net^
+||akadns.net^$badfilter  # DNS
 ||adserver.technoratimedia.com^
 ||sync.srv.stackadapt.com^
 ||uip.semasio.net^

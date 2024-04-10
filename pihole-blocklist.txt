@@ -19934,7 +19934,7 @@
 0.0.0.0 kitchentooles.com
 0.0.0.0 api.privacy-center.org
 0.0.0.0 yahoodns.net
-0.0.0.0 akadns.net
+! allow akadns.net reason: DNS
 0.0.0.0 adserver.technoratimedia.com
 0.0.0.0 sync.srv.stackadapt.com
 0.0.0.0 uip.semasio.net

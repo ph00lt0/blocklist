@@ -21199,3 +21199,4 @@ dossards-solidaires.org##.modal-backdrop
 ||quantummultiverse.world^
 ||roymartina.tv^
 ||mykajabi.com^
+||bridgeman.nl^

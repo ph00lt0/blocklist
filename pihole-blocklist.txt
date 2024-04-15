@@ -20445,3 +20445,4 @@
 0.0.0.0 quantummultiverse.world
 0.0.0.0 roymartina.tv
 0.0.0.0 mykajabi.com
+0.0.0.0 bridgeman.nl

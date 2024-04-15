@@ -20337,3 +20337,4 @@ apollanjacrystals.nl CNAME .
 quantummultiverse.world CNAME .
 roymartina.tv CNAME .
 mykajabi.com CNAME .
+bridgeman.nl CNAME .

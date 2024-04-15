@@ -20358,3 +20358,4 @@ tinussmits.nl CNAME .
 extreme-dm.com CNAME .
 dehelendereisindepraktijk.nl CNAME .
 lindaevenhuis.nl CNAME .
+gaia-oasis.com CNAME .

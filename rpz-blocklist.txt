@@ -20340,3 +20340,4 @@ mykajabi.com CNAME .
 bridgeman.nl CNAME .
 robertbridgeman.com CNAME .
 ophodenpijl.nl CNAME .
+vincentnijman.nl CNAME .

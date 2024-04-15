@@ -20354,3 +20354,4 @@ local-zone: "avig.nl." always_null
 local-zone: "hahnemann.nl." always_null
 local-zone: "acupunctuurrotterdam.nu." always_null
 local-zone: "herstartjegezondheid.nl." always_null
+local-zone: "fitronics.nl." always_null

@@ -20351,3 +20351,4 @@ avig.nl CNAME .
 hahnemann.nl CNAME .
 acupunctuurrotterdam.nu CNAME .
 herstartjegezondheid.nl CNAME .
+fitronics.nl CNAME .

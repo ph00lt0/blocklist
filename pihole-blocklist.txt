@@ -20442,3 +20442,4 @@
 0.0.0.0 scoreapp.com
 0.0.0.0 thejourney.com
 0.0.0.0 apollanjacrystals.nl
+0.0.0.0 quantummultiverse.world

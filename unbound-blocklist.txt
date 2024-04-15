@@ -20337,3 +20337,4 @@ local-zone: "popify.site." always_null
 local-zone: "scoreapp.com." always_null
 local-zone: "thejourney.com." always_null
 local-zone: "apollanjacrystals.nl." always_null
+local-zone: "quantummultiverse.world." always_null

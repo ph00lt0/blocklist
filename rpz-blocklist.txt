@@ -20349,3 +20349,4 @@ klassiekehomeopathieharen.nl CNAME .
 martindemunck.nl CNAME .
 avig.nl CNAME .
 hahnemann.nl CNAME .
+acupunctuurrotterdam.nu CNAME .

@@ -20338,3 +20338,4 @@ quantummultiverse.world CNAME .
 roymartina.tv CNAME .
 mykajabi.com CNAME .
 bridgeman.nl CNAME .
+robertbridgeman.com CNAME .

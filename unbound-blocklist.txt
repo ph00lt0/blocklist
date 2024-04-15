@@ -20335,3 +20335,4 @@ local-zone: "eurosparen.nl." always_null
 local-zone: "illow.io." always_null
 local-zone: "popify.site." always_null
 local-zone: "scoreapp.com." always_null
+local-zone: "thejourney.com." always_null

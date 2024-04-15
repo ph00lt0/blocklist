@@ -20332,3 +20332,4 @@ eurosparen.nl CNAME .
 illow.io CNAME .
 popify.site CNAME .
 scoreapp.com CNAME .
+thejourney.com CNAME .

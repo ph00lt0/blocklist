@@ -20344,3 +20344,4 @@ vincentnijman.nl CNAME .
 kukuru.nl CNAME .
 roymartina.com CNAME .
 krachtvannei.nl CNAME .
+levensbewustzijn.nl CNAME .

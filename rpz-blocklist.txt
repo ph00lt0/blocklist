@@ -20354,3 +20354,4 @@ herstartjegezondheid.nl CNAME .
 fitronics.nl CNAME .
 sabinejurgens.nl CNAME .
 natuurlijkbijmarianne.nl CNAME .
+tinussmits.nl CNAME .

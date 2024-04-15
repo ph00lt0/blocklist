@@ -20331,3 +20331,4 @@ mcgeeho.co.uk CNAME .
 eurosparen.nl CNAME .
 illow.io CNAME .
 popify.site CNAME .
+scoreapp.com CNAME .

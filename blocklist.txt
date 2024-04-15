@@ -21223,3 +21223,4 @@ dossards-solidaires.org##.modal-backdrop
 ||gaia-oasis.com^
 ||helende-reis.com^
 ||hetnlpcollege.nl^
+||/ontdekjekracht.nl^

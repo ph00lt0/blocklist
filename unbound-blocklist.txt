@@ -20350,3 +20350,4 @@ local-zone: "krachtvannei.nl." always_null
 local-zone: "levensbewustzijn.nl." always_null
 local-zone: "klassiekehomeopathieharen.nl." always_null
 local-zone: "martindemunck.nl." always_null
+local-zone: "avig.nl." always_null

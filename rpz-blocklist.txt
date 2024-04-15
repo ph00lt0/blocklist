@@ -20348,3 +20348,4 @@ levensbewustzijn.nl CNAME .
 klassiekehomeopathieharen.nl CNAME .
 martindemunck.nl CNAME .
 avig.nl CNAME .
+hahnemann.nl CNAME .

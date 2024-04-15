@@ -21210,3 +21210,4 @@ dossards-solidaires.org##.modal-backdrop
 ||klassiekehomeopathieharen.nl^
 ||martindemunck.nl^
 ||avig.nl^
+||hahnemann.nl^

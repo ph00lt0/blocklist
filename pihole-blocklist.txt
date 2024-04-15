@@ -20443,3 +20443,4 @@
 0.0.0.0 thejourney.com
 0.0.0.0 apollanjacrystals.nl
 0.0.0.0 quantummultiverse.world
+0.0.0.0 roymartina.tv

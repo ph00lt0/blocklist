@@ -20335,3 +20335,4 @@ scoreapp.com CNAME .
 thejourney.com CNAME .
 apollanjacrystals.nl CNAME .
 quantummultiverse.world CNAME .
+roymartina.tv CNAME .

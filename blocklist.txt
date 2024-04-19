@@ -21225,4 +21225,6 @@ dossards-solidaires.org##.modal-backdrop
 ||hetnlpcollege.nl^
 ||/ontdekjekracht.nl^
 ||ontdekjekracht.nl^
+||assets.s-bol.com/nl/static/assets/js/wsp-analytics.*.js^
 ||assets.s-bol.com/nl/static/assets/js/wsp-analytics-tracking-event.*.js^
+||assets.s-bol.com/nl/static/assets/js/wsp-consent-modal-ofc.*.js^

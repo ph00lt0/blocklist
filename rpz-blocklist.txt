@@ -20363,3 +20363,4 @@ helende-reis.com CNAME .
 hetnlpcollege.nl CNAME .
 /ontdekjekracht.nl CNAME .
 ontdekjekracht.nl CNAME .
+lokicollective.org CNAME .

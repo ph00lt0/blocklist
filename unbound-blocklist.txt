@@ -20366,3 +20366,4 @@ local-zone: "helende-reis.com." always_null
 local-zone: "hetnlpcollege.nl." always_null
 local-zone: "/ontdekjekracht.nl." always_null
 local-zone: "ontdekjekracht.nl." always_null
+local-zone: "lokicollective.org." always_null

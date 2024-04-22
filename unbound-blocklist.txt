@@ -1466,7 +1466,7 @@ local-zone: "ads-serve.brave.com." always_null
 local-zone: "firebase-settings.crashlytics.com." always_null
 local-zone: "cdn.syndication.twimg.com." always_null
 # allow pbs.twimg.com reason: twitter images
-local-zone: "init.push.apple.com." always_null
+# allow init.push.apple.com reason: Notifications
 local-zone: "gruene.matomo.cloud." always_null
 local-zone: "actionnetwork.org." always_null
 local-zone: "webstats.liberale.de." always_null

@@ -1503,7 +1503,7 @@
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 cdn.syndication.twimg.com
 ! allow pbs.twimg.com reason: twitter images
-0.0.0.0 init.push.apple.com
+! allow init.push.apple.com reason: Notifications
 0.0.0.0 gruene.matomo.cloud
 0.0.0.0 actionnetwork.org
 0.0.0.0 webstats.liberale.de

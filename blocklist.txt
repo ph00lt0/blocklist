@@ -259,7 +259,7 @@
 ||reserve-prime.apple.com^
 ||push-apple.com.akadns.net^
 ||push.apple.com.akadns.net^
-||push.apple.com^
+||push.apple.com^$badfilter  # notifications
 ||smp-device-content.apple.com^
 ||geo-applefinance-cache.internal.query.g03.yahoodns.net^
 ||graph.blendle.com^$badfilter  # Required for app to load content

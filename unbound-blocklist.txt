@@ -252,7 +252,7 @@ local-zone: "s-loc.apple.com." always_null
 local-zone: "reserve-prime.apple.com." always_null
 local-zone: "push-apple.com.akadns.net." always_null
 local-zone: "push.apple.com.akadns.net." always_null
-local-zone: "push.apple.com." always_null
+# allow push.apple.com reason: notifications
 local-zone: "smp-device-content.apple.com." always_null
 local-zone: "geo-applefinance-cache.internal.query.g03.yahoodns.net." always_null
 local-zone: "events.blendle.com." always_null

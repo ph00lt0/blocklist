@@ -256,9 +256,9 @@
 ! allow ls.apple.com reason: apple maps.akadns.net
 ! allow ls.apple.com reason: apple maps.edgesuite.net
 0.0.0.0 reserve-prime.apple.com
-0.0.0.0 push-apple.com.akadns.net
-0.0.0.0 push.apple.com.akadns.net
-0.0.0.0 push.apple.com
+! allow push.apple.com reason: notifications.akadns.net
+! allow push.apple.com reason: notifications.akadns.net
+! allow push.apple.com reason: notifications
 0.0.0.0 smp-device-content.apple.com
 0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
 ! allow graph.blendle.com reason: Required for app to load content

@@ -712,7 +712,7 @@
 ||client-office365-tas.msedge.net^
 ||nexus.officeapps.live.com^
 ||config.edge.skype.com^
-||officeclient.microsoft.com^
+||officeclient.microsoft.com^$badfilter  # Microsoft Outlook
 ||js.monitor.azure.com^
 ||ostats.mozilla.com^
 ||sostats.mozilla.com^

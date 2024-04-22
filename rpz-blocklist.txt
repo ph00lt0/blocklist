@@ -675,7 +675,7 @@ nexusrules.officeapps.live.com CNAME .
 client-office365-tas.msedge.net CNAME .
 nexus.officeapps.live.com CNAME .
 config.edge.skype.com CNAME .
-officeclient.microsoft.com CNAME .
+; allow officeclient.microsoft.com reason: Microsoft Outlook
 js.monitor.; allow azure.com reason: not a tracker
 ostats.mozilla.com CNAME .
 sostats.mozilla.com CNAME .

@@ -710,7 +710,7 @@
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 config.edge.skype.com
-0.0.0.0 officeclient.microsoft.com
+! allow officeclient.microsoft.com reason: Microsoft Outlook
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 ostats.mozilla.com
 0.0.0.0 sostats.mozilla.com

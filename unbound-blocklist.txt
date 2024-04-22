@@ -676,7 +676,7 @@ local-zone: "nexusrules.officeapps.live.com." always_null
 local-zone: "client-office365-tas.msedge.net." always_null
 local-zone: "nexus.officeapps.live.com." always_null
 local-zone: "config.edge.skype.com." always_null
-local-zone: "officeclient.microsoft.com." always_null
+# allow officeclient.microsoft.com reason: Microsoft Outlook
 local-zone: "js.monitor.azure.com." always_null
 local-zone: "ostats.mozilla.com." always_null
 local-zone: "sostats.mozilla.com." always_null

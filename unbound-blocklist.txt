@@ -20457,3 +20457,4 @@ local-zone: "digits.net." always_null
 local-zone: "freestats.com." always_null
 local-zone: "pageometer.com." always_null
 local-zone: "webstarts.com." always_null
+local-zone: "ru.com." always_null

@@ -20454,3 +20454,4 @@ digits.net CNAME .
 freestats.com CNAME .
 pageometer.com CNAME .
 webstarts.com CNAME .
+ru.com CNAME .

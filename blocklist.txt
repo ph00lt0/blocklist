@@ -21320,3 +21320,4 @@ lidl.nl##.n-navigation__overlay-area
 ||freestats.com^
 ||pageometer.com^
 ||webstarts.com^
+||ru.com^

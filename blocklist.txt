@@ -21313,3 +21313,4 @@ lidl.nl##.n-navigation__overlay-area
 ||swintt.com^
 ||jscounter.com^
 ||hitcounters.net^
+||cutercounter.com^

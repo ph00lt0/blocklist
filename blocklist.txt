@@ -21311,3 +21311,4 @@ lidl.nl##.n-navigation__overlay-area
 ||playstar.com^
 ||swintt.com/home^
 ||swintt.com^
+||jscounter.com^

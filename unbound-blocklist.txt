@@ -2808,7 +2808,7 @@ local-zone: "d2vig74li2resi.cloudfront.net." always_null
 local-zone: "a.storyblok.com." always_null
 local-zone: "fonts.storage.infomaniak.com." always_null
 local-zone: "safetracing.infomaniak.com." always_null
-local-zone: "adblock.ee  # Installs cookies and is not being updated.." always_null
+local-zone: "adblock.ee." always_null
 local-zone: "ct.sendgrid.com." always_null
 local-zone: "embedmaps.com." always_null
 local-zone: "email.designmynight.com." always_null

@@ -21232,3 +21232,4 @@ lidl.nl##.n-navigation__overlay-area
 ||lokicollective.org^
 ||nahovitsyn.com^
 ||statsigapi.net^
+||hitcounter.ru^

@@ -20388,3 +20388,11 @@ local-zone: "fairplaycasino.com." always_null
 local-zone: "jvh.nl." always_null
 local-zone: "winn-itt.nl." always_null
 local-zone: "feitmansenpeepee.nl." always_null
+local-zone: "32red.com." always_null
+local-zone: "kolikkopelit.com." always_null
+local-zone: "storspiller.com." always_null
+local-zone: "ottokasino.com." always_null
+local-zone: "mariacasino.com." always_null
+local-zone: "vladcazino.ro." always_null
+local-zone: "bingo.com." always_null
+local-zone: "casinohuone.com." always_null

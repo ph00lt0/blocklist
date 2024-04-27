@@ -20493,3 +20493,11 @@
 0.0.0.0 jvh.nl
 0.0.0.0 winn-itt.nl
 0.0.0.0 feitmansenpeepee.nl
+0.0.0.0 32red.com
+0.0.0.0 kolikkopelit.com
+0.0.0.0 storspiller.com
+0.0.0.0 ottokasino.com
+0.0.0.0 mariacasino.com
+0.0.0.0 vladcazino.ro
+0.0.0.0 bingo.com
+0.0.0.0 casinohuone.com

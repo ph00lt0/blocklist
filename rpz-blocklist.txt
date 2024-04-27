@@ -20385,3 +20385,11 @@ fairplaycasino.com CNAME .
 jvh.nl CNAME .
 winn-itt.nl CNAME .
 feitmansenpeepee.nl CNAME .
+32red.com CNAME .
+kolikkopelit.com CNAME .
+storspiller.com CNAME .
+ottokasino.com CNAME .
+mariacasino.com CNAME .
+vladcazino.ro CNAME .
+bingo.com CNAME .
+casinohuone.com CNAME .

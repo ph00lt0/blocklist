@@ -20451,3 +20451,4 @@ local-zone: "swintt.com." always_null
 local-zone: "jscounter.com." always_null
 local-zone: "hitcounters.net." always_null
 local-zone: "cutercounter.com." always_null
+local-zone: "tinycount.com." always_null

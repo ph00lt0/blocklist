@@ -20448,3 +20448,4 @@ swintt.com CNAME .
 jscounter.com CNAME .
 hitcounters.net CNAME .
 cutercounter.com CNAME .
+tinycount.com CNAME .

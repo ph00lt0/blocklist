@@ -20453,3 +20453,4 @@ local-zone: "hitcounters.net." always_null
 local-zone: "cutercounter.com." always_null
 local-zone: "tinycount.com." always_null
 local-zone: "countergeo.com." always_null
+local-zone: "digits.net." always_null

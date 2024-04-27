@@ -14202,7 +14202,7 @@ d169yiwj4bqzbm.cloudfront.net CNAME .
 d16aklnzn219ml.cloudfront.net CNAME .
 d16dv0fpfdbyng.cloudfront.net CNAME .
 d16kgn4efacaad.cloudfront.net CNAME .
-d16tf39cmx7ftb.cloudfront.net CNAME .
+; allow d16tf39cmx7ftb.cloudfront.net reason: cdn
 d17dlce7yuu5yd.cloudfront.net CNAME .
 d17tqr44y57o31.cloudfront.net CNAME .
 d1838vhcvmjd7w.cloudfront.net CNAME .

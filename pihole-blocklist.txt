@@ -14310,7 +14310,7 @@
 0.0.0.0 d16aklnzn219ml.cloudfront.net
 0.0.0.0 d16dv0fpfdbyng.cloudfront.net
 0.0.0.0 d16kgn4efacaad.cloudfront.net
-0.0.0.0 d16tf39cmx7ftb.cloudfront.net
+! allow d16tf39cmx7ftb.cloudfront.net reason: cdn
 0.0.0.0 d17dlce7yuu5yd.cloudfront.net
 0.0.0.0 d17tqr44y57o31.cloudfront.net
 0.0.0.0 d1838vhcvmjd7w.cloudfront.net

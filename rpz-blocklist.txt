@@ -20393,3 +20393,4 @@ mariacasino.com CNAME .
 vladcazino.ro CNAME .
 bingo.com CNAME .
 casinohuone.com CNAME .
+onlinecasino.amsterdam CNAME .

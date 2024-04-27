@@ -20396,3 +20396,4 @@ local-zone: "mariacasino.com." always_null
 local-zone: "vladcazino.ro." always_null
 local-zone: "bingo.com." always_null
 local-zone: "casinohuone.com." always_null
+local-zone: "onlinecasino.amsterdam." always_null

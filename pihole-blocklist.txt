@@ -20542,3 +20542,12 @@
 0.0.0.0 evolution.com
 0.0.0.0 uscasinos.com
 0.0.0.0 softgamings.com
+0.0.0.0 relax-gaming.com
+0.0.0.0 igamingbusiness.com
+0.0.0.0 sbcamericas.com
+0.0.0.0 whichcasino.com
+0.0.0.0 slotstemple.com
+0.0.0.0 slingo.com
+0.0.0.0 slingooriginals.com
+0.0.0.0 gamesville.com
+0.0.0.0 playstar.com

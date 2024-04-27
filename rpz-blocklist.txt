@@ -20434,3 +20434,12 @@ stake.com CNAME .
 evolution.com CNAME .
 uscasinos.com CNAME .
 softgamings.com CNAME .
+relax-gaming.com CNAME .
+igamingbusiness.com CNAME .
+sbcamericas.com CNAME .
+whichcasino.com CNAME .
+slotstemple.com CNAME .
+slingo.com CNAME .
+slingooriginals.com CNAME .
+gamesville.com CNAME .
+playstar.com CNAME .

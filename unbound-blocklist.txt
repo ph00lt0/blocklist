@@ -20437,3 +20437,12 @@ local-zone: "stake.com." always_null
 local-zone: "evolution.com." always_null
 local-zone: "uscasinos.com." always_null
 local-zone: "softgamings.com." always_null
+local-zone: "relax-gaming.com." always_null
+local-zone: "igamingbusiness.com." always_null
+local-zone: "sbcamericas.com." always_null
+local-zone: "whichcasino.com." always_null
+local-zone: "slotstemple.com." always_null
+local-zone: "slingo.com." always_null
+local-zone: "slingooriginals.com." always_null
+local-zone: "gamesville.com." always_null
+local-zone: "playstar.com." always_null

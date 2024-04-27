@@ -21312,3 +21312,4 @@ lidl.nl##.n-navigation__overlay-area
 ||swintt.com/home^
 ||swintt.com^
 ||jscounter.com^
+||hitcounters.net^

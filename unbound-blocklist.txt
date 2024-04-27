@@ -20447,3 +20447,4 @@ local-zone: "slingooriginals.com." always_null
 local-zone: "gamesville.com." always_null
 local-zone: "playstar.com." always_null
 local-zone: "swintt.com/home." always_null
+local-zone: "swintt.com." always_null

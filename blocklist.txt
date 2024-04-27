@@ -21310,3 +21310,4 @@ lidl.nl##.n-navigation__overlay-area
 ||gamesville.com^
 ||playstar.com^
 ||swintt.com/home^
+||swintt.com^

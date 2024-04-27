@@ -20444,3 +20444,4 @@ slingooriginals.com CNAME .
 gamesville.com CNAME .
 playstar.com CNAME .
 swintt.com/home CNAME .
+swintt.com CNAME .

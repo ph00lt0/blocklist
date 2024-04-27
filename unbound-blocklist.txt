@@ -20424,3 +20424,16 @@ local-zone: "merkurcasinouk.com." always_null
 local-zone: "merkur.group." always_null
 local-zone: "cardschat.com." always_null
 local-zone: "vegas-expert.com." always_null
+local-zone: "microgaming.co.uk." always_null
+local-zone: "netent.com." always_null
+local-zone: "nolimitcity.com." always_null
+local-zone: "no-limit-city.com." always_null
+local-zone: "playngo.com." always_null
+local-zone: "pushgaming.com." always_null
+local-zone: "gamingamericas.com." always_null
+local-zone: "pragmaticplay.com." always_null
+local-zone: "pragmaticplayphp.com." always_null
+local-zone: "stake.com." always_null
+local-zone: "evolution.com." always_null
+local-zone: "uscasinos.com." always_null
+local-zone: "softgamings.com." always_null

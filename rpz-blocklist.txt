@@ -20421,3 +20421,16 @@ merkurcasinouk.com CNAME .
 merkur.group CNAME .
 cardschat.com CNAME .
 vegas-expert.com CNAME .
+microgaming.co.uk CNAME .
+netent.com CNAME .
+nolimitcity.com CNAME .
+no-limit-city.com CNAME .
+playngo.com CNAME .
+pushgaming.com CNAME .
+gamingamericas.com CNAME .
+pragmaticplay.com CNAME .
+pragmaticplayphp.com CNAME .
+stake.com CNAME .
+evolution.com CNAME .
+uscasinos.com CNAME .
+softgamings.com CNAME .

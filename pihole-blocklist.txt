@@ -20529,3 +20529,16 @@
 0.0.0.0 merkur.group
 0.0.0.0 cardschat.com
 0.0.0.0 vegas-expert.com
+0.0.0.0 microgaming.co.uk
+0.0.0.0 netent.com
+0.0.0.0 nolimitcity.com
+0.0.0.0 no-limit-city.com
+0.0.0.0 playngo.com
+0.0.0.0 pushgaming.com
+0.0.0.0 gamingamericas.com
+0.0.0.0 pragmaticplay.com
+0.0.0.0 pragmaticplayphp.com
+0.0.0.0 stake.com
+0.0.0.0 evolution.com
+0.0.0.0 uscasinos.com
+0.0.0.0 softgamings.com

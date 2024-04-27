@@ -19735,7 +19735,7 @@ linkedin.com##.update-components-survey
 ||belco.io^
 ||medianews24.nl^
 ||leadpartners24.nl^
-||bugs.launchpad.net^
+||bugs.launchpad.net^$badfilter  # Not a tracker
 ||12rus.ru^
 ||5bir.xyz^
 ||freshfinds24.com^

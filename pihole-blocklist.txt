@@ -20559,3 +20559,4 @@
 0.0.0.0 tinycount.com
 0.0.0.0 countergeo.com
 0.0.0.0 digits.net
+0.0.0.0 freestats.com

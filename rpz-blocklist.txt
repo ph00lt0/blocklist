@@ -20451,3 +20451,4 @@ cutercounter.com CNAME .
 tinycount.com CNAME .
 countergeo.com CNAME .
 digits.net CNAME .
+freestats.com CNAME .

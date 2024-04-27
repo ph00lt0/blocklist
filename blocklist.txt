@@ -21317,3 +21317,4 @@ lidl.nl##.n-navigation__overlay-area
 ||tinycount.com^
 ||countergeo.com^
 ||digits.net^
+||freestats.com^

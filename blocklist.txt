@@ -21321,3 +21321,4 @@ lidl.nl##.n-navigation__overlay-area
 ||pageometer.com^
 ||webstarts.com^
 ||ru.com^
+||brainsaviors.life^

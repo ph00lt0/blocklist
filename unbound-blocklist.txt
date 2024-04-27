@@ -2194,7 +2194,7 @@ local-zone: "atwola.com." always_null
 local-zone: "social.hm.com." always_null
 local-zone: "pictela.net." always_null
 local-zone: "hm-uk.digital.nuance.com." always_null
-local-zone: "consent.yahoo.com." always_null
+# allow consent.yahoo.com reason: fuck yahoo but required for their websites
 local-zone: "creativecdn.com." always_null
 local-zone: "adpilot.com." always_null
 local-zone: "en.adpilot.com." always_null

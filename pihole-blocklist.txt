@@ -2239,7 +2239,7 @@
 0.0.0.0 social.hm.com
 0.0.0.0 pictela.net
 0.0.0.0 hm-uk.digital.nuance.com
-0.0.0.0 consent.yahoo.com
+! allow consent.yahoo.com reason: fuck yahoo but required for their websites
 0.0.0.0 creativecdn.com
 0.0.0.0 adpilot.com
 0.0.0.0 en.adpilot.com

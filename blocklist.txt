@@ -2244,7 +2244,7 @@
 ||social.hm.com^
 ||pictela.net^
 ||hm-uk.digital.nuance.com^
-||consent.yahoo.com^
+||consent.yahoo.com^$badfilter  # fuck yahoo but required for their websites
 ||creativecdn.com^
 ||adpilot.com^
 ||en.adpilot.com^

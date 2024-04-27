@@ -2192,7 +2192,7 @@ atwola.com CNAME .
 social.hm.com CNAME .
 pictela.net CNAME .
 hm-uk.digital.nuance.com CNAME .
-consent.yahoo.com CNAME .
+; allow consent.yahoo.com reason: fuck yahoo but required for their websites
 creativecdn.com CNAME .
 adpilot.com CNAME .
 en.adpilot.com CNAME .

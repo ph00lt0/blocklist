@@ -1922,7 +1922,7 @@
 0.0.0.0 assets.a-mo.net
 ! allow i0.wp.com reason: CDN
 0.0.0.0 consent-cdn.zeit.de
-0.0.0.0 interactive.zeit.de
+! allow interactive.zeit.de reason: not a tracker
 0.0.0.0 k5a.io
 0.0.0.0 cl.k5a.io
 0.0.0.0 lp4.io

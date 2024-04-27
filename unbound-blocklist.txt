@@ -1881,7 +1881,7 @@ local-zone: "a-mo.net." always_null
 local-zone: "assets.a-mo.net." always_null
 # allow i0.wp.com reason: CDN
 local-zone: "consent-cdn.zeit.de." always_null
-local-zone: "interactive.zeit.de." always_null
+# allow interactive.zeit.de reason: not a tracker
 local-zone: "k5a.io." always_null
 local-zone: "cl.k5a.io." always_null
 local-zone: "lp4.io." always_null

@@ -1879,7 +1879,7 @@ a-mo.net CNAME .
 assets.a-mo.net CNAME .
 ; allow i0.wp.com reason: CDN
 consent-cdn.zeit.de CNAME .
-interactive.zeit.de CNAME .
+; allow interactive.zeit.de reason: not a tracker
 k5a.io CNAME .
 cl.k5a.io CNAME .
 lp4.io CNAME .

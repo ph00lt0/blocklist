@@ -1926,7 +1926,7 @@
 ||assets.a-mo.net^
 ||i0.wp.com^$badfilter  # CDN
 ||consent-cdn.zeit.de^
-||interactive.zeit.de^
+||interactive.zeit.de^$badfilter  # not a tracker
 ||k5a.io^
 ||cl.k5a.io^
 ||lp4.io^

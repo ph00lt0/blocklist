@@ -21319,3 +21319,4 @@ lidl.nl##.n-navigation__overlay-area
 ||digits.net^
 ||freestats.com^
 ||pageometer.com^
+||webstarts.com^

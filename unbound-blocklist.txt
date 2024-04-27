@@ -14982,7 +14982,7 @@ local-zone: "bahag.cloud." always_null
 local-zone: "bannerwise.io." always_null
 local-zone: "bayard.io." always_null
 local-zone: "bbelements.com." always_null
-local-zone: "bcboltbde696aa-a.akamaihd.net." always_null
+# allow bcboltbde696aa-a.akamaihd.net reason: video cdn
 local-zone: "bd4travel.com." always_null
 local-zone: "becomes.social." always_null
 local-zone: "beeline.ru." always_null

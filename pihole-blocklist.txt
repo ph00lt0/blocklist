@@ -15087,7 +15087,7 @@
 0.0.0.0 bannerwise.io
 0.0.0.0 bayard.io
 0.0.0.0 bbelements.com
-0.0.0.0 bcboltbde696aa-a.akamaihd.net
+! allow bcboltbde696aa-a.akamaihd.net reason: video cdn
 0.0.0.0 bd4travel.com
 0.0.0.0 becomes.social
 0.0.0.0 beeline.ru

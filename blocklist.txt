@@ -15407,7 +15407,7 @@ $removeparam=engagement_type
 ||bannerwise.io^
 ||bayard.io^
 ||bbelements.com^
-||bcboltbde696aa-a.akamaihd.net^
+||bcboltbde696aa-a.akamaihd.net^$badfilter  # video cdn
 ||bd4travel.com^
 ||becomes.social^
 ||beeline.ru^

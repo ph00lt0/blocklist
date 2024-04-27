@@ -14979,7 +14979,7 @@ bahag.cloud CNAME .
 bannerwise.io CNAME .
 bayard.io CNAME .
 bbelements.com CNAME .
-bcboltbde696aa-a.akamaihd.net CNAME .
+; allow bcboltbde696aa-a.akamaihd.net reason: video cdn
 bd4travel.com CNAME .
 becomes.social CNAME .
 beeline.ru CNAME .

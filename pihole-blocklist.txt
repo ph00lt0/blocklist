@@ -20502,3 +20502,10 @@
 0.0.0.0 bingo.com
 0.0.0.0 casinohuone.com
 0.0.0.0 onlinecasino.amsterdam
+0.0.0.0 online-speelautomaten.nl
+0.0.0.0 bigtimegaming.com
+0.0.0.0 casinoonline.nl
+0.0.0.0 time2play.com
+0.0.0.0 casinotopsonline.com
+0.0.0.0 intikkertje.nl
+0.0.0.0 casino.nl

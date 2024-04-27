@@ -20397,3 +20397,10 @@ local-zone: "vladcazino.ro." always_null
 local-zone: "bingo.com." always_null
 local-zone: "casinohuone.com." always_null
 local-zone: "onlinecasino.amsterdam." always_null
+local-zone: "online-speelautomaten.nl." always_null
+local-zone: "bigtimegaming.com." always_null
+local-zone: "casinoonline.nl." always_null
+local-zone: "time2play.com." always_null
+local-zone: "casinotopsonline.com." always_null
+local-zone: "intikkertje.nl." always_null
+local-zone: "casino.nl." always_null

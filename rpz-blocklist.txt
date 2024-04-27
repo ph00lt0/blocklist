@@ -20394,3 +20394,10 @@ vladcazino.ro CNAME .
 bingo.com CNAME .
 casinohuone.com CNAME .
 onlinecasino.amsterdam CNAME .
+online-speelautomaten.nl CNAME .
+bigtimegaming.com CNAME .
+casinoonline.nl CNAME .
+time2play.com CNAME .
+casinotopsonline.com CNAME .
+intikkertje.nl CNAME .
+casino.nl CNAME .

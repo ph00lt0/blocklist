@@ -14486,7 +14486,7 @@ d330aiyvva2oww.cloudfront.net CNAME .
 d33agewa96cmv3.cloudfront.net CNAME .
 d33sqmjvzgs8hq.cloudfront.net CNAME .
 d33t3vvu2t2yu5.cloudfront.net CNAME .
-d351vb1awz0j1y.cloudfront.net CNAME .
+; allow d351vb1awz0j1y.cloudfront.net reason: cdn
 d35aaqx5ub95lt.cloudfront.net CNAME .
 d35ojb8dweouoy.cloudfront.net CNAME .
 d35tca7vmefkrc.cloudfront.net CNAME .

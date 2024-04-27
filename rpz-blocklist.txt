@@ -20452,3 +20452,4 @@ tinycount.com CNAME .
 countergeo.com CNAME .
 digits.net CNAME .
 freestats.com CNAME .
+pageometer.com CNAME .

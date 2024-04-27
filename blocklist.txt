@@ -21318,3 +21318,4 @@ lidl.nl##.n-navigation__overlay-area
 ||countergeo.com^
 ||digits.net^
 ||freestats.com^
+||pageometer.com^

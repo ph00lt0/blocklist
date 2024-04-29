@@ -21328,3 +21328,4 @@ lidl.nl##.n-navigation__overlay-area
 ||capital-cir.com^
 ||morganonline.nl^
 ||geefmijmeeraanbiedingen.nl^
+||woning-verbetering.nl^

@@ -20464,3 +20464,4 @@ morganonline.nl CNAME .
 geefmijmeeraanbiedingen.nl CNAME .
 woning-verbetering.nl CNAME .
 clickstream-api.folderz.nl CNAME .
+offers-cdn.net CNAME .

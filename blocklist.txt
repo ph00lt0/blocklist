@@ -21330,3 +21330,4 @@ lidl.nl##.n-navigation__overlay-area
 ||geefmijmeeraanbiedingen.nl^
 ||woning-verbetering.nl^
 ||clickstream-api.folderz.nl^
+||offers-cdn.net^

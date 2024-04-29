@@ -21325,3 +21325,4 @@ lidl.nl##.n-navigation__overlay-area
 ||sundylighting.com^
 ||orangebuddies.com^
 ||seniorenvoordeelpas.nl^
+||capital-cir.com^

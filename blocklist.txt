@@ -21337,3 +21337,4 @@ lidl.nl##.n-navigation__overlay-area
 ||kameleoon.io^
 ||sibautomation.com^
 ||ebxcdn.com^
+||analytics-ingress-global.bitmovin.com^

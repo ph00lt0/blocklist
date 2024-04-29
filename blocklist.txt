@@ -21329,3 +21329,4 @@ lidl.nl##.n-navigation__overlay-area
 ||morganonline.nl^
 ||geefmijmeeraanbiedingen.nl^
 ||woning-verbetering.nl^
+||clickstream-api.folderz.nl^

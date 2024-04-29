@@ -20466,3 +20466,4 @@ local-zone: "capital-cir.com." always_null
 local-zone: "morganonline.nl." always_null
 local-zone: "geefmijmeeraanbiedingen.nl." always_null
 local-zone: "woning-verbetering.nl." always_null
+local-zone: "clickstream-api.folderz.nl." always_null

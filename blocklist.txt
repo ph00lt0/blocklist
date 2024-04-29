@@ -21331,3 +21331,4 @@ lidl.nl##.n-navigation__overlay-area
 ||woning-verbetering.nl^
 ||clickstream-api.folderz.nl^
 ||offers-cdn.net^
+||app-analytics-services.com^

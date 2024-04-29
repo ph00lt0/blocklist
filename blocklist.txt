@@ -21326,3 +21326,4 @@ lidl.nl##.n-navigation__overlay-area
 ||orangebuddies.com^
 ||seniorenvoordeelpas.nl^
 ||capital-cir.com^
+||morganonline.nl^

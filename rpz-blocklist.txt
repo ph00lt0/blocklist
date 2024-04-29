@@ -20472,3 +20472,4 @@ kameleoon.io CNAME .
 sibautomation.com CNAME .
 ebxcdn.com CNAME .
 analytics-ingress-global.bitmovin.com CNAME .
+sp.dpgmedia.net CNAME .

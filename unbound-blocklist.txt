@@ -20475,3 +20475,4 @@ local-zone: "kameleoon.io." always_null
 local-zone: "sibautomation.com." always_null
 local-zone: "ebxcdn.com." always_null
 local-zone: "analytics-ingress-global.bitmovin.com." always_null
+local-zone: "sp.dpgmedia.net." always_null

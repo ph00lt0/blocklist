@@ -21327,3 +21327,4 @@ lidl.nl##.n-navigation__overlay-area
 ||seniorenvoordeelpas.nl^
 ||capital-cir.com^
 ||morganonline.nl^
+||geefmijmeeraanbiedingen.nl^

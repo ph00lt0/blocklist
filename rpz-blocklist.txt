@@ -20461,3 +20461,4 @@ orangebuddies.com CNAME .
 seniorenvoordeelpas.nl CNAME .
 capital-cir.com CNAME .
 morganonline.nl CNAME .
+geefmijmeeraanbiedingen.nl CNAME .

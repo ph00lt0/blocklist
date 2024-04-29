@@ -20464,3 +20464,4 @@ local-zone: "orangebuddies.com." always_null
 local-zone: "seniorenvoordeelpas.nl." always_null
 local-zone: "capital-cir.com." always_null
 local-zone: "morganonline.nl." always_null
+local-zone: "geefmijmeeraanbiedingen.nl." always_null

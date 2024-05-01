@@ -21380,3 +21380,4 @@ lidl.nl##.n-navigation__overlay-area
 ||natwaves.com^
 ||basilesalgados.com.br^
 ||ead.me^
+||twostringwire.com^

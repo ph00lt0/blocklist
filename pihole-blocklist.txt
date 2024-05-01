@@ -20639,3 +20639,4 @@
 0.0.0.0 gd-helpdesk.com
 0.0.0.0 come.to
 0.0.0.0 trckmaniac.com
+0.0.0.0 shininglogistics.com

@@ -20534,3 +20534,4 @@ local-zone: "dub.sh." always_null
 local-zone: "gd-helpdesk.com." always_null
 local-zone: "come.to." always_null
 local-zone: "trckmaniac.com." always_null
+local-zone: "shininglogistics.com." always_null

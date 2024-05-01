@@ -20591,3 +20591,4 @@
 0.0.0.0 avast.com
 0.0.0.0 cucu1.sbs
 0.0.0.0 elite-names.com
+0.0.0.0 websolve.com

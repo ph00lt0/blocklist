@@ -21360,3 +21360,4 @@ lidl.nl##.n-navigation__overlay-area
 ||specsavers.fi^
 ||efarma.nl^
 ||zh0997.com^
+||byt.tips^

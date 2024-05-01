@@ -20490,3 +20490,4 @@ local-zone: "websolve.com." always_null
 local-zone: "prosperbiz.nl." always_null
 local-zone: "urlz.fr." always_null
 local-zone: "3zoku.com." always_null
+local-zone: "politienl.nl." always_null

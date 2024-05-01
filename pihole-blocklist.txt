@@ -20584,3 +20584,4 @@
 0.0.0.0 media.chase.com/n
 0.0.0.0 media.chase.com
 0.0.0.0 imaginative-trade7.com
+0.0.0.0 mcr-ring.msedge.net

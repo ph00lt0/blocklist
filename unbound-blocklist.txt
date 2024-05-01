@@ -14262,7 +14262,7 @@ local-zone: "d38xvr37kwwhcm.cloudfront.net." always_null
 local-zone: "d3a965827bqypm.cloudfront.net." always_null
 local-zone: "d3ad8414wy4gwn.cloudfront.net." always_null
 local-zone: "d3aux7tjp119y2.cloudfront.net." always_null
-local-zone: "d3bdzitctqoj2j.cloudfront.net." always_null
+# allow d3bdzitctqoj2j.cloudfront.net reason: cdn atlassian
 local-zone: "d3cqh9ickoz5ya.cloudfront.net." always_null
 local-zone: "d3d583tppl8yjx.cloudfront.net." always_null
 local-zone: "d3dc1lgancj6l0.cloudfront.net." always_null

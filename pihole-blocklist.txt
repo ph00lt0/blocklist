@@ -14367,7 +14367,7 @@
 0.0.0.0 d3a965827bqypm.cloudfront.net
 0.0.0.0 d3ad8414wy4gwn.cloudfront.net
 0.0.0.0 d3aux7tjp119y2.cloudfront.net
-0.0.0.0 d3bdzitctqoj2j.cloudfront.net
+! allow d3bdzitctqoj2j.cloudfront.net reason: cdn atlassian
 0.0.0.0 d3cqh9ickoz5ya.cloudfront.net
 0.0.0.0 d3d583tppl8yjx.cloudfront.net
 0.0.0.0 d3dc1lgancj6l0.cloudfront.net

@@ -14259,7 +14259,7 @@ d38xvr37kwwhcm.cloudfront.net CNAME .
 d3a965827bqypm.cloudfront.net CNAME .
 d3ad8414wy4gwn.cloudfront.net CNAME .
 d3aux7tjp119y2.cloudfront.net CNAME .
-d3bdzitctqoj2j.cloudfront.net CNAME .
+; allow d3bdzitctqoj2j.cloudfront.net reason: cdn atlassian
 d3cqh9ickoz5ya.cloudfront.net CNAME .
 d3d583tppl8yjx.cloudfront.net CNAME .
 d3dc1lgancj6l0.cloudfront.net CNAME .

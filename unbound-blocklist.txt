@@ -20527,3 +20527,4 @@ local-zone: "beverlyads.com." always_null
 local-zone: "routeraiders.com." always_null
 local-zone: "min.lc." always_null
 local-zone: "awakeyet.com." always_null
+local-zone: "xiuxiuvideo.com." always_null

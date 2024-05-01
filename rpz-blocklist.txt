@@ -20473,3 +20473,4 @@ sibautomation.com CNAME .
 ebxcdn.com CNAME .
 analytics-ingress-global.bitmovin.com CNAME .
 sp.dpgmedia.net CNAME .
+media.chase.com/n CNAME .

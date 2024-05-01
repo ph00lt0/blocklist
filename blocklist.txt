@@ -21339,3 +21339,4 @@ lidl.nl##.n-navigation__overlay-area
 ||ebxcdn.com^
 ||analytics-ingress-global.bitmovin.com^
 ||sp.dpgmedia.net^
+||media.chase.com/n^

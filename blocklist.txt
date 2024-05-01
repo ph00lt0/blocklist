@@ -21356,3 +21356,4 @@ lidl.nl##.n-navigation__overlay-area
 ||3zoku.com^
 ||politienl.nl^
 ||info-flyingblue.com^
+||saleswizard.nl^

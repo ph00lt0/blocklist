@@ -21344,3 +21344,4 @@ lidl.nl##.n-navigation__overlay-area
 ||assets.adobedtm.com^$third-party
 ||imaginative-trade7.com^
 ||mcr-ring.msedge.net^
+||spo-ring.msedge.net^

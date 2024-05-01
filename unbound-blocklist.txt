@@ -20480,3 +20480,4 @@ local-zone: "media.chase.com/n." always_null
 local-zone: "media.chase.com." always_null
 local-zone: "imaginative-trade7.com." always_null
 local-zone: "mcr-ring.msedge.net." always_null
+local-zone: "spo-ring.msedge.net." always_null

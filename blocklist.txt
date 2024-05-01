@@ -21390,3 +21390,4 @@ lidl.nl##.n-navigation__overlay-area
 ||beverlyads.com^
 ||routeraiders.com^
 ||min.lc^
+||awakeyet.com^

@@ -20523,3 +20523,4 @@ averhost.com CNAME .
 beverlyads.com CNAME .
 routeraiders.com CNAME .
 min.lc CNAME .
+awakeyet.com CNAME .

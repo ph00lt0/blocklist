@@ -20518,3 +20518,4 @@ local-zone: "basilesalgados.com.br." always_null
 local-zone: "ead.me." always_null
 local-zone: "twostringwire.com." always_null
 local-zone: "mobileappinc.in." always_null
+local-zone: "alqemam.info." always_null

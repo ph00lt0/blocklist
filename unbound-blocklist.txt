@@ -20502,3 +20502,4 @@ local-zone: "bitvavo.com." always_null
 local-zone: "lycosceramic.com." always_null
 local-zone: "inspiration.org." always_null
 local-zone: "hetpartnerschap.nl." always_null
+local-zone: "jmailroute.net." always_null

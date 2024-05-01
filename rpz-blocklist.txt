@@ -20516,3 +20516,4 @@ ead.me CNAME .
 twostringwire.com CNAME .
 mobileappinc.in CNAME .
 alqemam.info CNAME .
+amityglobalgroup.com CNAME .

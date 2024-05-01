@@ -20624,3 +20624,4 @@
 0.0.0.0 twostringwire.com
 0.0.0.0 mobileappinc.in
 0.0.0.0 alqemam.info
+0.0.0.0 amityglobalgroup.com

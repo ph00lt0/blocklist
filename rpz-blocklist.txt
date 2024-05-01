@@ -20503,3 +20503,4 @@ jmailroute.net CNAME .
 cloudflare-ipfs.com CNAME .
 .prosperbiz-websites.nl CNAME .
 prosperbiz-websites.nl CNAME .
+prosperbiz.com CNAME .

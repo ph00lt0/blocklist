@@ -20506,3 +20506,4 @@ local-zone: "jmailroute.net." always_null
 local-zone: "cloudflare-ipfs.com." always_null
 local-zone: ".prosperbiz-websites.nl." always_null
 local-zone: "prosperbiz-websites.nl." always_null
+local-zone: "prosperbiz.com." always_null

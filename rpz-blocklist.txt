@@ -20532,3 +20532,4 @@ gd-helpdesk.com CNAME .
 come.to CNAME .
 trckmaniac.com CNAME .
 shininglogistics.com CNAME .
+winworldinfotech.com CNAME .

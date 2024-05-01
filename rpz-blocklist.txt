@@ -20490,3 +20490,4 @@ urlz.fr CNAME .
 politienl.nl CNAME .
 info-flyingblue.com CNAME .
 saleswizard.nl CNAME .
+specsavers.fi CNAME .

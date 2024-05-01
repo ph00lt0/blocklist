@@ -21379,3 +21379,4 @@ lidl.nl##.n-navigation__overlay-area
 ||kvkc.nl^
 ||natwaves.com^
 ||basilesalgados.com.br^
+||ead.me^

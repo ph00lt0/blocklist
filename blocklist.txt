@@ -21368,3 +21368,4 @@ lidl.nl##.n-navigation__overlay-area
 ||hetpartnerschap.nl^
 ||jmailroute.net^
 ||cloudflare-ipfs.com^
+||.prosperbiz-websites.nl^

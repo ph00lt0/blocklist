@@ -20514,3 +20514,4 @@ natwaves.com CNAME .
 basilesalgados.com.br CNAME .
 ead.me CNAME .
 twostringwire.com CNAME .
+mobileappinc.in CNAME .

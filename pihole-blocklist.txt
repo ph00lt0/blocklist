@@ -20622,3 +20622,4 @@
 0.0.0.0 basilesalgados.com.br
 0.0.0.0 ead.me
 0.0.0.0 twostringwire.com
+0.0.0.0 mobileappinc.in

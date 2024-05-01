@@ -20514,3 +20514,4 @@ local-zone: "bauprofis.eu." always_null
 local-zone: "saadhya.in." always_null
 local-zone: "kvkc.nl." always_null
 local-zone: "natwaves.com." always_null
+local-zone: "basilesalgados.com.br." always_null

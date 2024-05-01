@@ -21373,3 +21373,4 @@ lidl.nl##.n-navigation__overlay-area
 ||prosperbiz.com^
 ||ppt.cc^
 ||emlnk.com^
+||gorgias.com^

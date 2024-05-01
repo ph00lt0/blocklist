@@ -21384,3 +21384,4 @@ lidl.nl##.n-navigation__overlay-area
 ||mobileappinc.in^
 ||alqemam.info^
 ||amityglobalgroup.com^
+||bureauvdo.nl^

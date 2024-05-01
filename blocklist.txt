@@ -21352,3 +21352,4 @@ lidl.nl##.n-navigation__overlay-area
 ||elite-names.com^
 ||websolve.com^
 ||prosperbiz.nl^
+||urlz.fr^

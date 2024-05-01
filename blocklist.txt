@@ -21386,3 +21386,4 @@ lidl.nl##.n-navigation__overlay-area
 ||amityglobalgroup.com^
 ||bureauvdo.nl^
 ||trckzone24.com^
+||averhost.com^

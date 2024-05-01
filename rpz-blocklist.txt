@@ -20519,3 +20519,4 @@ alqemam.info CNAME .
 amityglobalgroup.com CNAME .
 bureauvdo.nl CNAME .
 trckzone24.com CNAME .
+averhost.com CNAME .

@@ -21371,3 +21371,4 @@ lidl.nl##.n-navigation__overlay-area
 ||.prosperbiz-websites.nl^
 ||prosperbiz-websites.nl^
 ||prosperbiz.com^
+||ppt.cc^

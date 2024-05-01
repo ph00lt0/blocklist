@@ -20525,3 +20525,4 @@ local-zone: "trckzone24.com." always_null
 local-zone: "averhost.com." always_null
 local-zone: "beverlyads.com." always_null
 local-zone: "routeraiders.com." always_null
+local-zone: "min.lc." always_null

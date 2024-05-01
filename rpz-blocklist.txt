@@ -20522,3 +20522,4 @@ trckzone24.com CNAME .
 averhost.com CNAME .
 beverlyads.com CNAME .
 routeraiders.com CNAME .
+min.lc CNAME .

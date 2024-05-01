@@ -21389,3 +21389,4 @@ lidl.nl##.n-navigation__overlay-area
 ||averhost.com^
 ||beverlyads.com^
 ||routeraiders.com^
+||min.lc^

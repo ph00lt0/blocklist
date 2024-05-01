@@ -20530,3 +20530,4 @@ local-zone: "awakeyet.com." always_null
 local-zone: "xiuxiuvideo.com." always_null
 local-zone: "mijn-alerts.com." always_null
 local-zone: "formdienst-kvr3811.info." always_null
+local-zone: "dub.sh." always_null

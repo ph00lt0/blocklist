@@ -21347,3 +21347,4 @@ lidl.nl##.n-navigation__overlay-area
 ||spo-ring.msedge.net^
 ||fp-vp.azureedge.net^
 ||zorpia.com^
+||avast.com^

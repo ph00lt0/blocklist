@@ -20582,3 +20582,4 @@
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 sp.dpgmedia.net
 0.0.0.0 media.chase.com/n
+0.0.0.0 media.chase.com

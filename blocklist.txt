@@ -21340,3 +21340,4 @@ lidl.nl##.n-navigation__overlay-area
 ||analytics-ingress-global.bitmovin.com^
 ||sp.dpgmedia.net^
 ||media.chase.com/n^
+||media.chase.com^

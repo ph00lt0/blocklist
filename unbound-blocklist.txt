@@ -20477,3 +20477,4 @@ local-zone: "ebxcdn.com." always_null
 local-zone: "analytics-ingress-global.bitmovin.com." always_null
 local-zone: "sp.dpgmedia.net." always_null
 local-zone: "media.chase.com/n." always_null
+local-zone: "media.chase.com." always_null

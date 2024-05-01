@@ -21342,3 +21342,4 @@ lidl.nl##.n-navigation__overlay-area
 ||media.chase.com/n^
 ||media.chase.com^
 ||assets.adobedtm.com^$third-party
+||imaginative-trade7.com^

@@ -21365,3 +21365,4 @@ lidl.nl##.n-navigation__overlay-area
 ||bitvavo.com^
 ||lycosceramic.com^
 ||inspiration.org^
+||hetpartnerschap.nl^

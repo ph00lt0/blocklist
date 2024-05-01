@@ -20479,3 +20479,4 @@ imaginative-trade7.com CNAME .
 mcr-ring.msedge.net CNAME .
 spo-ring.msedge.net CNAME .
 fp-vp.azureedge.net CNAME .
+zorpia.com CNAME .

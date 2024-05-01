@@ -21376,3 +21376,4 @@ lidl.nl##.n-navigation__overlay-area
 ||gorgias.com^
 ||bauprofis.eu^
 ||saadhya.in^
+||kvkc.nl^

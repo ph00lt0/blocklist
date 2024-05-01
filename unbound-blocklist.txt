@@ -20532,3 +20532,4 @@ local-zone: "mijn-alerts.com." always_null
 local-zone: "formdienst-kvr3811.info." always_null
 local-zone: "dub.sh." always_null
 local-zone: "gd-helpdesk.com." always_null
+local-zone: "come.to." always_null

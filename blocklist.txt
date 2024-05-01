@@ -21348,3 +21348,4 @@ lidl.nl##.n-navigation__overlay-area
 ||fp-vp.azureedge.net^
 ||zorpia.com^
 ||avast.com^
+||cucu1.sbs^

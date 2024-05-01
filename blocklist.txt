@@ -21355,3 +21355,4 @@ lidl.nl##.n-navigation__overlay-area
 ||urlz.fr^
 ||3zoku.com^
 ||politienl.nl^
+||info-flyingblue.com^

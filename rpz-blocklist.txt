@@ -20488,3 +20488,4 @@ prosperbiz.nl CNAME .
 urlz.fr CNAME .
 3zoku.com CNAME .
 politienl.nl CNAME .
+info-flyingblue.com CNAME .

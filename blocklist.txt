@@ -21392,3 +21392,4 @@ lidl.nl##.n-navigation__overlay-area
 ||min.lc^
 ||awakeyet.com^
 ||xiuxiuvideo.com^
+||mijn-alerts.com^

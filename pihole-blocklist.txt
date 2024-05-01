@@ -20633,3 +20633,4 @@
 0.0.0.0 min.lc
 0.0.0.0 awakeyet.com
 0.0.0.0 xiuxiuvideo.com
+0.0.0.0 mijn-alerts.com

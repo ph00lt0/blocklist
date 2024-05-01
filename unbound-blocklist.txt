@@ -20521,3 +20521,4 @@ local-zone: "mobileappinc.in." always_null
 local-zone: "alqemam.info." always_null
 local-zone: "amityglobalgroup.com." always_null
 local-zone: "bureauvdo.nl." always_null
+local-zone: "trckzone24.com." always_null

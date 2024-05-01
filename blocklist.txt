@@ -21358,3 +21358,4 @@ lidl.nl##.n-navigation__overlay-area
 ||info-flyingblue.com^
 ||saleswizard.nl^
 ||specsavers.fi^
+||efarma.nl^

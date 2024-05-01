@@ -20494,3 +20494,4 @@ specsavers.fi CNAME .
 efarma.nl CNAME .
 zh0997.com CNAME .
 byt.tips CNAME .
+mashizadesigns.co.za CNAME .

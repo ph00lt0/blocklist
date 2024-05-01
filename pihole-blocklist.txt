@@ -20618,3 +20618,4 @@
 0.0.0.0 bauprofis.eu
 0.0.0.0 saadhya.in
 0.0.0.0 kvkc.nl
+0.0.0.0 natwaves.com

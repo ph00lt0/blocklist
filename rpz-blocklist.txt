@@ -20510,3 +20510,4 @@ gorgias.com CNAME .
 bauprofis.eu CNAME .
 saadhya.in CNAME .
 kvkc.nl CNAME .
+natwaves.com CNAME .

@@ -20536,3 +20536,4 @@ local-zone: "come.to." always_null
 local-zone: "trckmaniac.com." always_null
 local-zone: "shininglogistics.com." always_null
 local-zone: "winworldinfotech.com." always_null
+local-zone: "quixoticglobe.com." always_null

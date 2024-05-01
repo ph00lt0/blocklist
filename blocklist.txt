@@ -21400,3 +21400,4 @@ lidl.nl##.n-navigation__overlay-area
 ||trckmaniac.com^
 ||shininglogistics.com^
 ||winworldinfotech.com^
+||quixoticglobe.com^

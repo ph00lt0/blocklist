@@ -20533,3 +20533,4 @@ come.to CNAME .
 trckmaniac.com CNAME .
 shininglogistics.com CNAME .
 winworldinfotech.com CNAME .
+quixoticglobe.com CNAME .

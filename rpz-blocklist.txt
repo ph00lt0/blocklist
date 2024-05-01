@@ -20497,3 +20497,4 @@ byt.tips CNAME .
 mashizadesigns.co.za CNAME .
 bitvavo.com CNAME .
 lycosceramic.com CNAME .
+inspiration.org CNAME .

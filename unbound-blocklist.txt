@@ -20538,3 +20538,13 @@ local-zone: "shininglogistics.com." always_null
 local-zone: "winworldinfotech.com." always_null
 local-zone: "quixoticglobe.com." always_null
 local-zone: "eshopboard24.nl." always_null
+local-zone: "playnorth.com." always_null
+local-zone: "nclottery.com." always_null
+local-zone: "pikakasino.com." always_null
+local-zone: "pikakasinot.com." always_null
+local-zone: "kunkkukasino.com." always_null
+local-zone: "eestikasiino.com." always_null
+local-zone: "kiirkasiinod.net." always_null
+local-zone: "kiirkasiino.ee." always_null
+local-zone: "draftkings.com." always_null
+local-zone: "casinorocket.com." always_null

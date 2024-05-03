@@ -20535,3 +20535,13 @@ shininglogistics.com CNAME .
 winworldinfotech.com CNAME .
 quixoticglobe.com CNAME .
 eshopboard24.nl CNAME .
+playnorth.com CNAME .
+nclottery.com CNAME .
+pikakasino.com CNAME .
+pikakasinot.com CNAME .
+kunkkukasino.com CNAME .
+eestikasiino.com CNAME .
+kiirkasiinod.net CNAME .
+kiirkasiino.ee CNAME .
+draftkings.com CNAME .
+casinorocket.com CNAME .

@@ -20643,3 +20643,13 @@
 0.0.0.0 winworldinfotech.com
 0.0.0.0 quixoticglobe.com
 0.0.0.0 eshopboard24.nl
+0.0.0.0 playnorth.com
+0.0.0.0 nclottery.com
+0.0.0.0 pikakasino.com
+0.0.0.0 pikakasinot.com
+0.0.0.0 kunkkukasino.com
+0.0.0.0 eestikasiino.com
+0.0.0.0 kiirkasiinod.net
+0.0.0.0 kiirkasiino.ee
+0.0.0.0 draftkings.com
+0.0.0.0 casinorocket.com

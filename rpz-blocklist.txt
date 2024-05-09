@@ -20552,3 +20552,4 @@ pranagoodenergy.nl CNAME .
 csnakliyat.com CNAME .
 tracking.dekbed-discounter.nl CNAME .
 sfeerinmalmo.com CNAME .
+easylifemobility.digital CNAME .

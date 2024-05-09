@@ -20555,3 +20555,4 @@ local-zone: "pranagoodenergy.nl." always_null
 local-zone: "csnakliyat.com." always_null
 local-zone: "tracking.dekbed-discounter.nl." always_null
 local-zone: "sfeerinmalmo.com." always_null
+local-zone: "easylifemobility.digital." always_null

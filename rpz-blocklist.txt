@@ -20553,3 +20553,4 @@ csnakliyat.com CNAME .
 tracking.dekbed-discounter.nl CNAME .
 sfeerinmalmo.com CNAME .
 easylifemobility.digital CNAME .
+blisspointmedia.com CNAME .

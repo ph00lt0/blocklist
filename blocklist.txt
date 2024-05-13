@@ -21424,3 +21424,4 @@ belsimpel.nl##.CookieBannerstyle__StyledCookieBanner-sc-1kw94k2-0
 ||blisspointmedia.com^
 ||joystickinteractive.com^
 mediamarkt.nl##[data-test="mms-search-consent-section"]
+mediamarkt.nl##.disUrd

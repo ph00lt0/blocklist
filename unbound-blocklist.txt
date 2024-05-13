@@ -18518,7 +18518,7 @@ local-zone: "insight.rapid7.com." always_null
 local-zone: "ipcheck.tmgrup.com.tr." always_null
 local-zone: "onlinepbx.ru." always_null
 local-zone: "top-shop.ru." always_null
-local-zone: "pdst.fm." always_null
+# allow pdst.fm reason: podcast streaming
 local-zone: "group-ib.ru." always_null
 local-zone: "cpm.wargaming.net." always_null
 local-zone: "octafx.com." always_null

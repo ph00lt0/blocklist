@@ -18623,7 +18623,7 @@
 0.0.0.0 ipcheck.tmgrup.com.tr
 0.0.0.0 onlinepbx.ru
 0.0.0.0 top-shop.ru
-0.0.0.0 pdst.fm
+! allow pdst.fm reason: podcast streaming
 0.0.0.0 group-ib.ru
 0.0.0.0 cpm.wargaming.net
 0.0.0.0 octafx.com

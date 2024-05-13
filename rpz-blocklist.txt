@@ -17313,7 +17313,7 @@ api.exchangeratesapi.io CNAME .
 exchangeratesapi.io CNAME .
 user-data.mutinycdn.com CNAME .
 web-sdk-cdn.singular.net CNAME .
-cdn.pdst.fm CNAME .
+cdn.; allow pdst.fm reason: podcast streaming
 .clearbitjs.com CNAME .
 js.qualified.com CNAME .
 ; allow techtarget.com reason: podcast cdn
@@ -18515,7 +18515,7 @@ insight.rapid7.com CNAME .
 ipcheck.tmgrup.com.tr CNAME .
 onlinepbx.ru CNAME .
 top-shop.ru CNAME .
-pdst.fm CNAME .
+; allow pdst.fm reason: podcast streaming
 group-ib.ru CNAME .
 cpm.wargaming.net CNAME .
 octafx.com CNAME .

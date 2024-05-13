@@ -19195,7 +19195,7 @@ linkedin.com##.update-components-survey
 ||ipcheck.tmgrup.com.tr^
 ||onlinepbx.ru^
 ||top-shop.ru^
-||pdst.fm^
+||pdst.fm^$badfilter  # podcast streaming
 ||group-ib.ru^
 ||cpm.wargaming.net^
 ||octafx.com^

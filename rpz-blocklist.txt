@@ -15258,7 +15258,7 @@ cruisecritic.co.uk CNAME .
 cruisecritic.net CNAME .
 css3-mediaqueries-js.googlecode.com CNAME .
 ctd-thechristianpost.netdna-ssl.com CNAME .
-ctp-traffic-manager-prod.trafficmanager.net CNAME .
+ctp-traffic-manager-prod.; allow trafficmanager.net reason: Microsoft Cloud
 d12v0xyh06s0yy.cloudfront.net CNAME .
 d171pcnztb7w0x.cloudfront.net CNAME .
 d1eh9yux7w8iql.cloudfront.net CNAME .
@@ -18533,7 +18533,7 @@ linkifier.com CNAME .
 pvtag.yahoo.co.jp CNAME .
 shareasale.com CNAME .
 6ms.biz CNAME .
-trafficmanager.net CNAME .
+; allow trafficmanager.net reason: Microsoft Cloud
 tracking.magnetmail.net CNAME .
 adc.api.nine.com.au CNAME .
 datafront.co CNAME .

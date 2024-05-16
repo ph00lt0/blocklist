@@ -19213,7 +19213,7 @@ linkedin.com##.update-components-survey
 ||pvtag.yahoo.co.jp^
 ||shareasale.com^
 ||6ms.biz^
-||trafficmanager.net^
+||trafficmanager.net^$badfilter  # Microsoft Cloud
 ||tracking.magnetmail.net^
 ||adc.api.nine.com.au^
 ||datafront.co^

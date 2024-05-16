@@ -18641,7 +18641,7 @@
 0.0.0.0 pvtag.yahoo.co.jp
 0.0.0.0 shareasale.com
 0.0.0.0 6ms.biz
-0.0.0.0 trafficmanager.net
+! allow trafficmanager.net reason: Microsoft Cloud
 0.0.0.0 tracking.magnetmail.net
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 datafront.co

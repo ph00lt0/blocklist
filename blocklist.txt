@@ -21426,3 +21426,4 @@ belsimpel.nl##.CookieBannerstyle__StyledCookieBanner-sc-1kw94k2-0
 mediamarkt.nl##[data-test="mms-search-consent-section"]
 mediamarkt.nl##.disUrd
 ||rudraconsultancy.in^
+||p.befrank.nl^

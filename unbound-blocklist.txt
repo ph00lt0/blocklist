@@ -20561,3 +20561,4 @@ local-zone: "joystickinteractive.com." always_null
 local-zone: "rudraconsultancy.in." always_null
 local-zone: "p.befrank.nl." always_null
 local-zone: "eetuh.net." always_null
+local-zone: "ibroadlink.com." always_null

@@ -20560,3 +20560,4 @@ p.befrank.nl CNAME .
 eetuh.net CNAME .
 ibroadlink.com CNAME .
 vf.startpage.com CNAME .
+sefalarevdenevenakliyat.com CNAME .

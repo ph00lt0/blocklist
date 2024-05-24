@@ -20563,3 +20563,4 @@ vf.startpage.com CNAME .
 sefalarevdenevenakliyat.com CNAME .
 afterbrunch.com CNAME .
 wil.one CNAME .
+codedrix.com CNAME .

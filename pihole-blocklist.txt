@@ -20672,3 +20672,4 @@
 0.0.0.0 afterbrunch.com
 0.0.0.0 wil.one
 0.0.0.0 codedrix.com
+0.0.0.0 techsvista.com

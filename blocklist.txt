@@ -21434,3 +21434,4 @@ mediamarkt.nl##.disUrd
 ||afterbrunch.com^
 ||wil.one^
 ||codedrix.com^
+||techsvista.com^

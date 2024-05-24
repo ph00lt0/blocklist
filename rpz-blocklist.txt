@@ -20564,3 +20564,4 @@ sefalarevdenevenakliyat.com CNAME .
 afterbrunch.com CNAME .
 wil.one CNAME .
 codedrix.com CNAME .
+techsvista.com CNAME .

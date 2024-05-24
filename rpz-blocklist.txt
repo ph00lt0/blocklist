@@ -20569,3 +20569,4 @@ ecmdevlprs.com CNAME .
 dannysimmonsjr.com CNAME .
 mariariemen.info CNAME .
 boekenschaap.nl CNAME .
+centaur.ag CNAME .

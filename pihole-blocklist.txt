@@ -20679,3 +20679,4 @@
 0.0.0.0 boekenschaap.nl
 0.0.0.0 centaur.ag
 0.0.0.0 clickhouse.com
+0.0.0.0 clickhouse.cloud

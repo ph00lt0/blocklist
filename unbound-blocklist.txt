@@ -20574,3 +20574,4 @@ local-zone: "mariariemen.info." always_null
 local-zone: "boekenschaap.nl." always_null
 local-zone: "centaur.ag." always_null
 local-zone: "clickhouse.com." always_null
+local-zone: "clickhouse.cloud." always_null

@@ -20680,3 +20680,4 @@
 0.0.0.0 centaur.ag
 0.0.0.0 clickhouse.com
 0.0.0.0 clickhouse.cloud
+0.0.0.0 rowfitears.digital

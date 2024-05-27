@@ -20572,3 +20572,4 @@ boekenschaap.nl CNAME .
 centaur.ag CNAME .
 clickhouse.com CNAME .
 clickhouse.cloud CNAME .
+rowfitears.digital CNAME .

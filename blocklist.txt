@@ -21442,3 +21442,4 @@ mediamarkt.nl##.disUrd
 ||centaur.ag^
 ||clickhouse.com^
 ||clickhouse.cloud^
+||rowfitears.digital^

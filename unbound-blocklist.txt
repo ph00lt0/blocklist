@@ -20585,3 +20585,16 @@ local-zone: "wisepops.net." always_null
 local-zone: "mplat-ppcprotect.com." always_null
 local-zone: "p3a-json.brave.com." always_null
 local-zone: "abtesting.roblox.com." always_null
+local-zone: "gold.roblox.com." always_null
+local-zone: "robloxlabs.com." always_null
+local-zone: "ads.roblox.com." always_null
+local-zone: "c0cfly.rbxcdn.com." always_null
+local-zone: "c0ak.rbxcdn.com." always_null
+local-zone: "client-telemetry.roblox.com." always_null
+local-zone: "crashes.rbxinfra.com." always_null
+local-zone: "crashes.roblox.com." always_null
+local-zone: "ecsv2.roblox.com." always_null
+local-zone: "ephemeralcounters.api.roblox.co." always_null
+local-zone: "lms.roblox.com." always_null
+local-zone: "metrics.roblox.com." always_null
+local-zone: "tracing.roblox.com." always_null

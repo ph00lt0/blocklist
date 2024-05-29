@@ -21452,3 +21452,16 @@ mediamarkt.nl##.disUrd
 ||mplat-ppcprotect.com^
 ||p3a-json.brave.com^
 ||abtesting.roblox.com^
+||gold.roblox.com^
+||robloxlabs.com^
+||ads.roblox.com^
+||c0cfly.rbxcdn.com^
+||c0ak.rbxcdn.com^
+||client-telemetry.roblox.com^
+||crashes.rbxinfra.com^
+||crashes.roblox.com^
+||ecsv2.roblox.com^
+||ephemeralcounters.api.roblox.co^
+||lms.roblox.com^
+||metrics.roblox.com^
+||tracing.roblox.com^

@@ -20690,3 +20690,16 @@
 0.0.0.0 mplat-ppcprotect.com
 0.0.0.0 p3a-json.brave.com
 0.0.0.0 abtesting.roblox.com
+0.0.0.0 gold.roblox.com
+0.0.0.0 robloxlabs.com
+0.0.0.0 ads.roblox.com
+0.0.0.0 c0cfly.rbxcdn.com
+0.0.0.0 c0ak.rbxcdn.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 crashes.rbxinfra.com
+0.0.0.0 crashes.roblox.com
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.co
+0.0.0.0 lms.roblox.com
+0.0.0.0 metrics.roblox.com
+0.0.0.0 tracing.roblox.com

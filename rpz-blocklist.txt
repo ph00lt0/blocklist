@@ -20582,3 +20582,16 @@ wisepops.net CNAME .
 mplat-ppcprotect.com CNAME .
 p3a-json.brave.com CNAME .
 abtesting.roblox.com CNAME .
+gold.roblox.com CNAME .
+robloxlabs.com CNAME .
+ads.roblox.com CNAME .
+c0cfly.rbxcdn.com CNAME .
+c0ak.rbxcdn.com CNAME .
+client-telemetry.roblox.com CNAME .
+crashes.rbxinfra.com CNAME .
+crashes.roblox.com CNAME .
+ecsv2.roblox.com CNAME .
+ephemeralcounters.api.roblox.co CNAME .
+lms.roblox.com CNAME .
+metrics.roblox.com CNAME .
+tracing.roblox.com CNAME .

@@ -20576,3 +20576,4 @@ local-zone: "centaur.ag." always_null
 local-zone: "clickhouse.com." always_null
 local-zone: "clickhouse.cloud." always_null
 local-zone: "rowfitears.digital." always_null
+local-zone: "flowmailer.pure-energie.nl." always_null

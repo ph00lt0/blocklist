@@ -20719,3 +20719,4 @@
 0.0.0.0 socorro-webapp.services.mozilla.com
 0.0.0.0 spocs.getpocket.com
 0.0.0.0 topsites.services.mozilla.com
+0.0.0.0 analytics.edgesuite.net

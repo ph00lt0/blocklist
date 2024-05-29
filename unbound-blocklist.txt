@@ -20614,3 +20614,4 @@ local-zone: "snippets.allizom.org." always_null
 local-zone: "socorro-webapp.services.mozilla.com." always_null
 local-zone: "spocs.getpocket.com." always_null
 local-zone: "topsites.services.mozilla.com." always_null
+local-zone: "analytics.edgesuite.net." always_null

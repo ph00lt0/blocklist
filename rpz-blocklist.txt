@@ -20611,3 +20611,4 @@ snippets.allizom.org CNAME .
 socorro-webapp.services.mozilla.com CNAME .
 spocs.getpocket.com CNAME .
 topsites.services.mozilla.com CNAME .
+analytics.edgesuite.net CNAME .

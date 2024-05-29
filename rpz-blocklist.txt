@@ -13754,7 +13754,7 @@ aftersell.app CNAME .
 ; allow aftership.com reason: It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 agilecrm.com CNAME .
 agilemeasure.com CNAME .
-ahcdn.com CNAME .
+; allow ahcdn.com reason: CDN
 ai-news.ru CNAME .
 aips-sol.com CNAME .
 airnet.org.au CNAME .

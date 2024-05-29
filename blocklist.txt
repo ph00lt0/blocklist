@@ -14184,7 +14184,7 @@ $removeparam=engagement_type
 ||aftership.com^$badfilter  # It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 ||agilecrm.com^
 ||agilemeasure.com^
-||ahcdn.com^
+||ahcdn.com^$badfilter  # CDN
 ||ai-news.ru^
 ||aips-sol.com^
 ||airnet.org.au^

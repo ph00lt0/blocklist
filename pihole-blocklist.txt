@@ -13862,7 +13862,7 @@
 ! allow aftership.com reason: It is a service useful for tracking parcel shipment,  its api allows to track several packages at once
 0.0.0.0 agilecrm.com
 0.0.0.0 agilemeasure.com
-0.0.0.0 ahcdn.com
+! allow ahcdn.com reason: CDN
 0.0.0.0 ai-news.ru
 0.0.0.0 aips-sol.com
 0.0.0.0 airnet.org.au

@@ -12721,7 +12721,7 @@
 0.0.0.0 1469635693.rsc.cdn77.org
 0.0.0.0 147.135.15.133
 0.0.0.0 147.135.37.160
-0.0.0.0 1480222913.rsc.cdn77.org
+! allow 1480222913.rsc.cdn77.org reason: CDN
 0.0.0.0 1487805698.rsc.cdn77.org
 0.0.0.0 149.56.20.72
 0.0.0.0 14slph41wbtl2yi39625md6s-wpengine.netdna-ssl.com

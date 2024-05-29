@@ -20618,3 +20618,4 @@ a.pemsrv.com CNAME .
 sukigyik.xyz CNAME .
 a.magsrv.com CNAME .
 pemsrv.com CNAME .
+magsrv.com CNAME .

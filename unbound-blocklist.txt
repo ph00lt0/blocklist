@@ -20621,3 +20621,4 @@ local-zone: "a.pemsrv.com." always_null
 local-zone: "sukigyik.xyz." always_null
 local-zone: "a.magsrv.com." always_null
 local-zone: "pemsrv.com." always_null
+local-zone: "magsrv.com." always_null

@@ -21482,3 +21482,4 @@ mediamarkt.nl##.disUrd
 ||spocs.getpocket.com^
 ||topsites.services.mozilla.com^
 ||analytics.edgesuite.net^
+||polarbyte.com^

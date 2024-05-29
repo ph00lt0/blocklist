@@ -20720,3 +20720,4 @@
 0.0.0.0 spocs.getpocket.com
 0.0.0.0 topsites.services.mozilla.com
 0.0.0.0 analytics.edgesuite.net
+0.0.0.0 polarbyte.com

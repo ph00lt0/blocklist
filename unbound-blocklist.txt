@@ -1749,7 +1749,7 @@ local-zone: "cdn.permutive.com." always_null
 local-zone: "instana.io." always_null
 local-zone: "eum.instana.io." always_null
 local-zone: "bordeaux.futurecdn.net." always_null
-local-zone: "futurecdn.net." always_null
+# allow futurecdn.net reason: CDN
 local-zone: "a02342.yorkpress.co.uk." always_null
 local-zone: "a02342.thenorthernecho.co.uk." always_null
 local-zone: "a02342.theboltonnews.co.uk." always_null

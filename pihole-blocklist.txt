@@ -1788,7 +1788,7 @@
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
 0.0.0.0 bordeaux.futurecdn.net
-0.0.0.0 futurecdn.net
+! allow futurecdn.net reason: CDN
 0.0.0.0 a02342.yorkpress.co.uk
 0.0.0.0 a02342.thenorthernecho.co.uk
 0.0.0.0 a02342.theboltonnews.co.uk

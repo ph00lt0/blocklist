@@ -1746,8 +1746,8 @@ permutive.com CNAME .
 cdn.permutive.com CNAME .
 instana.io CNAME .
 eum.instana.io CNAME .
-bordeaux.futurecdn.net CNAME .
-futurecdn.net CNAME .
+bordeaux.; allow futurecdn.net reason: CDN
+; allow futurecdn.net reason: CDN
 a02342.yorkpress.co.uk CNAME .
 a02342.thenorthernecho.co.uk CNAME .
 a02342.theboltonnews.co.uk CNAME .
@@ -3757,9 +3757,9 @@ user.usatoday.com CNAME .
 flocdn.com CNAME .
 s.flocdn.com CNAME .
 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app CNAME .
-freyr.futurecdn.net CNAME .
+freyr.; allow futurecdn.net reason: CDN
 p.cpx.to CNAME .
-search-api.fie.futurecdn.net CNAME .
+search-api.fie.; allow futurecdn.net reason: CDN
 arc.msn.com CNAME .
 o122616.ingest.sentry.io CNAME .
 dynamic.criteo.com CNAME .
@@ -12214,7 +12214,7 @@ app.knowler.io CNAME .
 ws.qualified.com CNAME .
 qualified.com CNAME .
 selfishsnake.com CNAME .
-champagne.futurecdn.net CNAME .
+champagne.; allow futurecdn.net reason: CDN
 fabric.io CNAME .
 zohocampaigns.com CNAME .
 zdtc.app CNAME .

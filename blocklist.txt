@@ -1792,7 +1792,7 @@
 ||instana.io^
 ||eum.instana.io^
 ||bordeaux.futurecdn.net^
-||futurecdn.net^
+||futurecdn.net^$badfilter  # CDN
 ||a02342.yorkpress.co.uk^
 ||a02342.thenorthernecho.co.uk^
 ||a02342.theboltonnews.co.uk^

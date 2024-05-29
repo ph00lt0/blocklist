@@ -20020,6 +20020,22 @@
         "ephemeralcounters.api.roblox.co",
         "lms.roblox.com",
         "metrics.roblox.com",
-        "tracing.roblox.com"
+        "tracing.roblox.com",
+        "contile.services.mozilla.com",
+        "contile-images.services.mozilla.com",
+        "coverage.mozilla.org",
+        "telemetry-coverage.mozilla.org",
+        "telemetry-coverage.r53-2.services.mozilla.com",
+        "crash-stats.mozilla.org",
+        "crash-stats.allizom.org",
+        "dataops.mozgcp.net",
+        "firefox-android-home-recommendations.getpocket.com",
+        "normandy.cdn.mozilla.net",
+        "snippets.mozilla.com",
+        "snippets.cdn.mozilla.net",
+        "snippets.allizom.org",
+        "socorro-webapp.services.mozilla.com",
+        "spocs.getpocket.com",
+        "topsites.services.mozilla.com"
     ]
 }

@@ -20615,3 +20615,4 @@ analytics.edgesuite.net CNAME .
 polarbyte.com CNAME .
 sponsor-logos.s3.amazonaws.com CNAME .
 a.pemsrv.com CNAME .
+sukigyik.xyz CNAME .

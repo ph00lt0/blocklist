@@ -21485,3 +21485,4 @@ mediamarkt.nl##.disUrd
 ||polarbyte.com^
 ||sponsor-logos.s3.amazonaws.com^
 ||a.pemsrv.com^
+||sukigyik.xyz^

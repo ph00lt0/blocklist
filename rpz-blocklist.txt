@@ -20617,3 +20617,4 @@ sponsor-logos.s3.amazonaws.com CNAME .
 a.pemsrv.com CNAME .
 sukigyik.xyz CNAME .
 a.magsrv.com CNAME .
+pemsrv.com CNAME .

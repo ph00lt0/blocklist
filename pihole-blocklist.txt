@@ -20725,3 +20725,4 @@
 0.0.0.0 a.pemsrv.com
 0.0.0.0 sukigyik.xyz
 0.0.0.0 a.magsrv.com
+0.0.0.0 pemsrv.com

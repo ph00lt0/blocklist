@@ -20580,3 +20580,4 @@ wetracked.io CNAME .
 ometria.com CNAME .
 wisepops.net CNAME .
 mplat-ppcprotect.com CNAME .
+p3a-json.brave.com CNAME .

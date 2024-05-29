@@ -20688,3 +20688,4 @@
 0.0.0.0 ometria.com
 0.0.0.0 wisepops.net
 0.0.0.0 mplat-ppcprotect.com
+0.0.0.0 p3a-json.brave.com

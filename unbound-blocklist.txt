@@ -20584,3 +20584,4 @@ local-zone: "ometria.com." always_null
 local-zone: "wisepops.net." always_null
 local-zone: "mplat-ppcprotect.com." always_null
 local-zone: "p3a-json.brave.com." always_null
+local-zone: "abtesting.roblox.com." always_null

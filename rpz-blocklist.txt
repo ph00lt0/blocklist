@@ -20613,3 +20613,4 @@ spocs.getpocket.com CNAME .
 topsites.services.mozilla.com CNAME .
 analytics.edgesuite.net CNAME .
 polarbyte.com CNAME .
+sponsor-logos.s3.amazonaws.com CNAME .

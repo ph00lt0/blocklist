@@ -20616,3 +20616,4 @@ local-zone: "spocs.getpocket.com." always_null
 local-zone: "topsites.services.mozilla.com." always_null
 local-zone: "analytics.edgesuite.net." always_null
 local-zone: "polarbyte.com." always_null
+local-zone: "sponsor-logos.s3.amazonaws.com." always_null

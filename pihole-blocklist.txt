@@ -20721,3 +20721,4 @@
 0.0.0.0 topsites.services.mozilla.com
 0.0.0.0 analytics.edgesuite.net
 0.0.0.0 polarbyte.com
+0.0.0.0 sponsor-logos.s3.amazonaws.com

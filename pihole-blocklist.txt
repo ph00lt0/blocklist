@@ -20724,3 +20724,4 @@
 0.0.0.0 sponsor-logos.s3.amazonaws.com
 0.0.0.0 a.pemsrv.com
 0.0.0.0 sukigyik.xyz
+0.0.0.0 a.magsrv.com

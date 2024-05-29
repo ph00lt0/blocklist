@@ -20619,3 +20619,4 @@ local-zone: "polarbyte.com." always_null
 local-zone: "sponsor-logos.s3.amazonaws.com." always_null
 local-zone: "a.pemsrv.com." always_null
 local-zone: "sukigyik.xyz." always_null
+local-zone: "a.magsrv.com." always_null

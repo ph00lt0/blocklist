@@ -21486,3 +21486,4 @@ mediamarkt.nl##.disUrd
 ||sponsor-logos.s3.amazonaws.com^
 ||a.pemsrv.com^
 ||sukigyik.xyz^
+||a.magsrv.com^

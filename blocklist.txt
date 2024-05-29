@@ -20823,7 +20823,7 @@ bol.com##.smartbanner
 ||acuant.com^
 ||acuant.net^
 ||assureid.net^
-||edgesuite.net^
+||edgesuite.net^$badfilter  # DNS
 ||adtiming.com^
 ||adxcorp.com^
 ||metrica.yandex.net^

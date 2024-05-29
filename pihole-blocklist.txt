@@ -20163,7 +20163,7 @@
 0.0.0.0 acuant.com
 0.0.0.0 acuant.net
 0.0.0.0 assureid.net
-0.0.0.0 edgesuite.net
+! allow edgesuite.net reason: DNS
 0.0.0.0 adtiming.com
 0.0.0.0 adxcorp.com
 0.0.0.0 metrica.yandex.net

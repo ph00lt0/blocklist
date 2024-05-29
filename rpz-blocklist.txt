@@ -637,7 +637,7 @@ OneDrive-Collection.device.mobileengagement.windows.net CNAME .
 by.; allow uservoice.com reason: Platform
 ransomwaretracker.abuse.ch CNAME .
 m.weeklyad.target.com CNAME .
-weeklyad.target.com.edgesuite.net CNAME .
+weeklyad.target.com.; allow edgesuite.net reason: DNS
 dc.services.visualstudio.com CNAME .
 inference.location.live.net CNAME .
 win10.ipv6.microsoft.com CNAME .
@@ -6366,7 +6366,7 @@ cdnap.airpush.com CNAME .
 m.airpush.com CNAME .
 ads.aerserv.com CNAME .
 debug.aerserv.com CNAME .
-cdn.adswizz.com.edgesuite.net CNAME .
+cdn.adswizz.com.; allow edgesuite.net reason: DNS
 sdk.adotmob.com CNAME .
 sync.adotmob.com CNAME .
 tracker.adotmob.com CNAME .
@@ -13222,7 +13222,7 @@ jnn-pa.googleapis.com CNAME .
 9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net CNAME .
 
 
-9c9media.com.edgesuite.net CNAME .
+9c9media.com.; allow edgesuite.net reason: DNS
 
 ; allow 9cache.com reason: image cdn
 9cdn.net CNAME .
@@ -13336,7 +13336,7 @@ aboutyou.cloud CNAME .
 ; allow aboutyou.com reason: not a tracker
 ; allow aboutyou.de reason: not a tracker
 abp-static.s3.ap-south-1.amazonaws.com CNAME .
-abplive.com.edgesuite.net CNAME .
+abplive.com.; allow edgesuite.net reason: DNS
 abrankings.com CNAME .
 abrfestival.com CNAME .
 abrye.com CNAME .
@@ -13829,7 +13829,7 @@ atp-science-au.myshopify.com CNAME .
 atp.fox CNAME .
 attentionxyz.com CNAME .
 au-freshbots.ai CNAME .
-au.edgesuite.net CNAME .
+au.; allow edgesuite.net reason: DNS
 auburn9819.com CNAME .
 audience73.com CNAME .
 auditedmedia.org.au CNAME .
@@ -13969,7 +13969,7 @@ buzzfeed.com CNAME .
 
 bycsi.com CNAME .
 bydata.com CNAME .
-byteoversea.com.edgesuite.net CNAME .
+byteoversea.com.; allow edgesuite.net reason: DNS
 bytepluscdn.com CNAME .
 c-ovn.jp CNAME .
 c212.net CNAME .
@@ -14285,7 +14285,7 @@ bunnycdn.ru CNAME .
 buzzoola.com CNAME .
 bytemark.co CNAME .
 ca.; allow akadns.net reason: DNS
-ca.edgesuite.net CNAME .
+ca.; allow edgesuite.net reason: DNS
 ; allow cachefly.net reason: cdn
 calgary.ca CNAME .
 
@@ -14539,7 +14539,7 @@ ddrvjrfwnij7n.cloudfront.net CNAME .
 
 de.akamaized.net CNAME .
 
-de.edgesuite.net CNAME .
+de.; allow edgesuite.net reason: DNS
 de17a.com CNAME .
 de2pmm85odupd.cloudfront.net CNAME .
 dealtale.com CNAME .
@@ -14840,7 +14840,7 @@ diffuse.nl CNAME .
 ; allow discordapp.com reason: not a tracker
 dismantlepenantiterrorist.com CNAME .
 
-disney.com.edgesuite.net CNAME .
+disney.com.; allow edgesuite.net reason: DNS
 distribusion.com CNAME .
 dl906josmvu2y.cloudfront.net CNAME .
 dlsite.com CNAME .
@@ -20055,7 +20055,7 @@ adbrix.com CNAME .
 acuant.com CNAME .
 acuant.net CNAME .
 assureid.net CNAME .
-edgesuite.net CNAME .
+; allow edgesuite.net reason: DNS
 adtiming.com CNAME .
 adxcorp.com CNAME .
 metrica.yandex.net CNAME .
@@ -20611,7 +20611,7 @@ snippets.allizom.org CNAME .
 socorro-webapp.services.mozilla.com CNAME .
 spocs.getpocket.com CNAME .
 topsites.services.mozilla.com CNAME .
-analytics.edgesuite.net CNAME .
+analytics.; allow edgesuite.net reason: DNS
 polarbyte.com CNAME .
 sponsor-logos.s3.amazonaws.com CNAME .
 a.pemsrv.com CNAME .

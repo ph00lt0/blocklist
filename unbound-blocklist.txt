@@ -20577,3 +20577,9 @@ local-zone: "clickhouse.com." always_null
 local-zone: "clickhouse.cloud." always_null
 local-zone: "rowfitears.digital." always_null
 local-zone: "flowmailer.pure-energie.nl." always_null
+local-zone: "maisoncommerce.co." always_null
+local-zone: "pixel.wetracked.io." always_null
+local-zone: "wetracked.io." always_null
+local-zone: "ometria.com." always_null
+local-zone: "wisepops.net." always_null
+local-zone: "mplat-ppcprotect.com." always_null

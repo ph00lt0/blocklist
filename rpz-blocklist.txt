@@ -20574,3 +20574,9 @@ clickhouse.com CNAME .
 clickhouse.cloud CNAME .
 rowfitears.digital CNAME .
 flowmailer.pure-energie.nl CNAME .
+maisoncommerce.co CNAME .
+pixel.wetracked.io CNAME .
+wetracked.io CNAME .
+ometria.com CNAME .
+wisepops.net CNAME .
+mplat-ppcprotect.com CNAME .

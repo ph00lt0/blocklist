@@ -20622,3 +20622,4 @@ magsrv.com CNAME .
 xctd.me CNAME .
 intimatediary.com CNAME .
 flowmailer.net CNAME .
+flowmailer.com CNAME .

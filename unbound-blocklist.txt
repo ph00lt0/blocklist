@@ -13848,7 +13848,7 @@ local-zone: "av-northern-apps.com." always_null
 local-zone: "av4.space." always_null
 local-zone: "avanser.com." always_null
 local-zone: "avantlink.com." always_null
-local-zone: "awsglobalaccelerator.com." always_null
+# allow awsglobalaccelerator.com reason: CDN
 local-zone: "awwmemes.com." always_null
 local-zone: "awxcdn.com." always_null
 local-zone: "axiom.co." always_null

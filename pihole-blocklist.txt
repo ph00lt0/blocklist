@@ -13953,7 +13953,7 @@
 0.0.0.0 av4.space
 0.0.0.0 avanser.com
 0.0.0.0 avantlink.com
-0.0.0.0 awsglobalaccelerator.com
+! allow awsglobalaccelerator.com reason: CDN
 0.0.0.0 awwmemes.com
 0.0.0.0 awxcdn.com
 0.0.0.0 axiom.co

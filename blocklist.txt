@@ -14275,7 +14275,7 @@ $removeparam=engagement_type
 ||av4.space^
 ||avanser.com^
 ||avantlink.com^
-||awsglobalaccelerator.com^
+||awsglobalaccelerator.com^$badfilter  # CDN
 ||awwmemes.com^
 ||awxcdn.com^
 ||axiom.co^

@@ -13845,7 +13845,7 @@ av-northern-apps.com CNAME .
 av4.space CNAME .
 avanser.com CNAME .
 avantlink.com CNAME .
-awsglobalaccelerator.com CNAME .
+; allow awsglobalaccelerator.com reason: CDN
 awwmemes.com CNAME .
 awxcdn.com CNAME .
 axiom.co CNAME .

@@ -20632,3 +20632,4 @@ telemetry-incoming.r53-2.services.mozilla.com CNAME .
 marketplacecontent.zoom.us CNAME .
 telemetry.zoom.us CNAME .
 pulse.raycast.com CNAME .
+lonceen.net CNAME .

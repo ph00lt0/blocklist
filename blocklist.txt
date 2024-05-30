@@ -21505,3 +21505,4 @@ youcanbook.me##[data-testid="cookie-consent"]
 ||pulse.raycast.com^
 bunq.me###cookieConsentAccept
 bunq.me##.fixed
+||lonceen.net^

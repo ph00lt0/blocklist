@@ -19453,7 +19453,7 @@ sptrack.trello.com CNAME .
 ecomtechworld.com CNAME .
 ecomtechworl111d.com CNAME .
 gerstobes.cc CNAME .
-gen.tr CNAME .
+; allow gen.tr reason: TLD
 booksaners.de CNAME .
 fastiones.eu CNAME .
 bitstudio.nl CNAME .

@@ -19561,7 +19561,7 @@
 0.0.0.0 ecomtechworld.com
 0.0.0.0 ecomtechworl111d.com
 0.0.0.0 gerstobes.cc
-0.0.0.0 gen.tr
+! allow gen.tr reason: TLD
 0.0.0.0 booksaners.de
 0.0.0.0 fastiones.eu
 0.0.0.0 bitstudio.nl

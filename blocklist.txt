@@ -20142,7 +20142,7 @@ desk.zoho.in##.micsTop
 ||ecomtechworld.com^
 ||ecomtechworl111d.com^
 ||gerstobes.cc^
-||gen.tr^
+||gen.tr^$badfilter  # TLD
 ||booksaners.de^
 ||fastiones.eu^
 ||bitstudio.nl^

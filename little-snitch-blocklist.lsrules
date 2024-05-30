@@ -20047,6 +20047,7 @@
         "snippets-stage.oregon-b.moz.works",
         "snippets-prod.moz.works",
         "snippets-prod.frankfurt.moz.works",
-        "telemetry-incoming.r53-2.services.mozilla.com"
+        "telemetry-incoming.r53-2.services.mozilla.com",
+        "marketplacecontent.zoom.us"
     ]
 }

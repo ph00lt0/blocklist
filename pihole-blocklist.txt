@@ -20737,3 +20737,4 @@
 0.0.0.0 snippets-prod.moz.works
 0.0.0.0 snippets-prod.frankfurt.moz.works
 0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com
+0.0.0.0 marketplacecontent.zoom.us

@@ -20048,6 +20048,7 @@
         "snippets-prod.moz.works",
         "snippets-prod.frankfurt.moz.works",
         "telemetry-incoming.r53-2.services.mozilla.com",
-        "marketplacecontent.zoom.us"
+        "marketplacecontent.zoom.us",
+        "telemetry.zoom.us"
     ]
 }

@@ -21502,3 +21502,4 @@ youcanbook.me##[data-testid="cookie-consent"]
 ||telemetry-incoming.r53-2.services.mozilla.com^
 ||marketplacecontent.zoom.us^
 ||telemetry.zoom.us^
+||pulse.raycast.com^

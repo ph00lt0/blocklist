@@ -20634,3 +20634,4 @@ local-zone: "snippets-prod.frankfurt.moz.works." always_null
 local-zone: "telemetry-incoming.r53-2.services.mozilla.com." always_null
 local-zone: "marketplacecontent.zoom.us." always_null
 local-zone: "telemetry.zoom.us." always_null
+local-zone: "pulse.raycast.com." always_null

@@ -20049,6 +20049,7 @@
         "snippets-prod.frankfurt.moz.works",
         "telemetry-incoming.r53-2.services.mozilla.com",
         "marketplacecontent.zoom.us",
-        "telemetry.zoom.us"
+        "telemetry.zoom.us",
+        "pulse.raycast.com"
     ]
 }

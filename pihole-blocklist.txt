@@ -20739,3 +20739,4 @@
 0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com
 0.0.0.0 marketplacecontent.zoom.us
 0.0.0.0 telemetry.zoom.us
+0.0.0.0 pulse.raycast.com

@@ -21493,3 +21493,4 @@ mediamarkt.nl##.disUrd
 ||intimatediary.com^
 ||flowmailer.net^
 ||flowmailer.com^
+youcanbook.me##[data-testid="cookie-consent"]

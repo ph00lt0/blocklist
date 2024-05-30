@@ -21504,3 +21504,4 @@ youcanbook.me##[data-testid="cookie-consent"]
 ||telemetry.zoom.us^
 ||pulse.raycast.com^
 bunq.me###cookieConsentAccept
+bunq.me##.fixed

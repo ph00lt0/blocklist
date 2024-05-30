@@ -20626,3 +20626,4 @@ local-zone: "xctd.me." always_null
 local-zone: "intimatediary.com." always_null
 local-zone: "flowmailer.net." always_null
 local-zone: "flowmailer.com." always_null
+local-zone: "normandy-cdn.services.mozilla.com." always_null

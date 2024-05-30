@@ -20731,3 +20731,4 @@
 0.0.0.0 intimatediary.com
 0.0.0.0 flowmailer.net
 0.0.0.0 flowmailer.com
+0.0.0.0 normandy-cdn.services.mozilla.com

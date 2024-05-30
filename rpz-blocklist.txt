@@ -20623,3 +20623,4 @@ xctd.me CNAME .
 intimatediary.com CNAME .
 flowmailer.net CNAME .
 flowmailer.com CNAME .
+normandy-cdn.services.mozilla.com CNAME .

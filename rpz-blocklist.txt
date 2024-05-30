@@ -16576,7 +16576,7 @@ transifex.com CNAME .
 sendibt3.com CNAME .
 codegrepper.com CNAME .
 d34qb8suadcc4g.cloudfront.net CNAME .
-bel.tr CNAME .
+; allow bel.tr reason: Gov TLD
 cfglobal.com.au CNAME .
 mijnpostcode.nl CNAME .
 serwissieci.com CNAME .

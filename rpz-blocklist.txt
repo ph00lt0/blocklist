@@ -20624,3 +20624,8 @@ intimatediary.com CNAME .
 flowmailer.net CNAME .
 flowmailer.com CNAME .
 normandy-cdn.services.mozilla.com CNAME .
+snippets-stage.moz.works CNAME .
+snippets-stage.oregon-b.moz.works CNAME .
+snippets-prod.moz.works CNAME .
+snippets-prod.frankfurt.moz.works CNAME .
+telemetry-incoming.r53-2.services.mozilla.com CNAME .

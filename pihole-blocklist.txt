@@ -20732,3 +20732,8 @@
 0.0.0.0 flowmailer.net
 0.0.0.0 flowmailer.com
 0.0.0.0 normandy-cdn.services.mozilla.com
+0.0.0.0 snippets-stage.moz.works
+0.0.0.0 snippets-stage.oregon-b.moz.works
+0.0.0.0 snippets-prod.moz.works
+0.0.0.0 snippets-prod.frankfurt.moz.works
+0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com

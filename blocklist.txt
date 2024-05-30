@@ -21495,3 +21495,8 @@ mediamarkt.nl##.disUrd
 ||flowmailer.com^
 youcanbook.me##[data-testid="cookie-consent"]
 ||normandy-cdn.services.mozilla.com^
+||snippets-stage.moz.works^
+||snippets-stage.oregon-b.moz.works^
+||snippets-prod.moz.works^
+||snippets-prod.frankfurt.moz.works^
+||telemetry-incoming.r53-2.services.mozilla.com^

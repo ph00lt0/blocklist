@@ -257,7 +257,7 @@
 ||ls.apple.com.akadns.net^$badfilter  # apple maps
 ||ls.apple.com.edgesuite.net^$badfilter  # apple maps
 ||reserve-prime.apple.com^
-||push-apple.com.akadns.net^
+||push-apple.com.akadns.net^$badfilter  # CDN
 ||push.apple.com.akadns.net^
 ||push.apple.com^$badfilter  # notifications
 ||smp-device-content.apple.com^

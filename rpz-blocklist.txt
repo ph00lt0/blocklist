@@ -20634,3 +20634,4 @@ telemetry.zoom.us CNAME .
 pulse.raycast.com CNAME .
 lonceen.net CNAME .
 platinum.roblox.com CNAME .
+backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com CNAME .

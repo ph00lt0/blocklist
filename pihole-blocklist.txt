@@ -20742,3 +20742,4 @@
 0.0.0.0 pulse.raycast.com
 0.0.0.0 lonceen.net
 0.0.0.0 platinum.roblox.com
+0.0.0.0 backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com

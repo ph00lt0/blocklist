@@ -20637,3 +20637,4 @@ local-zone: "telemetry.zoom.us." always_null
 local-zone: "pulse.raycast.com." always_null
 local-zone: "lonceen.net." always_null
 local-zone: "platinum.roblox.com." always_null
+local-zone: "backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com." always_null

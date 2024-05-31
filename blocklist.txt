@@ -21507,3 +21507,4 @@ bunq.me###cookieConsentAccept
 bunq.me##.fixed
 ||lonceen.net^
 ||platinum.roblox.com^
+||backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com^

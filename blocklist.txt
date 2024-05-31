@@ -21506,3 +21506,4 @@ youcanbook.me##[data-testid="cookie-consent"]
 bunq.me###cookieConsentAccept
 bunq.me##.fixed
 ||lonceen.net^
+||platinum.roblox.com^

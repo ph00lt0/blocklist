@@ -1337,7 +1337,7 @@
 0.0.0.0 add0n.com
 0.0.0.0 gravatar.com
 0.0.0.0 conviva.com
-0.0.0.0 cookiepro.com
+! allow cookiepro.com reason: required for shit nlziet
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 fouanalytics.com
 0.0.0.0 api.fouanalytics.com

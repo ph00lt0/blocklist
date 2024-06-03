@@ -1300,8 +1300,8 @@ stats.valitype.com CNAME .
 add0n.com CNAME .
 gravatar.com CNAME .
 conviva.com CNAME .
-cookiepro.com CNAME .
-cookie-cdn.cookiepro.com CNAME .
+; allow cookiepro.com reason: required for shit nlziet
+cookie-cdn.; allow cookiepro.com reason: required for shit nlziet
 fouanalytics.com CNAME .
 api.fouanalytics.com CNAME .
 ezodn.com CNAME .

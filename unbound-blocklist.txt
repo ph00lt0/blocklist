@@ -1301,7 +1301,7 @@ local-zone: "stats.valitype.com." always_null
 local-zone: "add0n.com." always_null
 local-zone: "gravatar.com." always_null
 local-zone: "conviva.com." always_null
-local-zone: "cookiepro.com." always_null
+# allow cookiepro.com reason: required for shit nlziet
 local-zone: "cookie-cdn.cookiepro.com." always_null
 local-zone: "fouanalytics.com." always_null
 local-zone: "api.fouanalytics.com." always_null

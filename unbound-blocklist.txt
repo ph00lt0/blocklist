@@ -20639,3 +20639,4 @@ local-zone: "lonceen.net." always_null
 local-zone: "platinum.roblox.com." always_null
 local-zone: "backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com." always_null
 local-zone: "lms-split.roblox.com." always_null
+local-zone: "ads-api.x.com." always_null

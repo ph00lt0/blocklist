@@ -245,7 +245,7 @@
 ||icloud-content.com^$badfilter  # Not a tracker
 ||me.com^$badfilter  # Required for icloud
 ||apple-cloudkit.com^$badfilter  # icloud
-||valid.apple.com^
+||valid.apple.com^$badfilter  # OSCP
 ||gateway.icloud.com^$badfilter  # Not a tracker
 ||sonos-music.apple.com^$badfilter  # not a tracker
 ||pancake.apple.com^

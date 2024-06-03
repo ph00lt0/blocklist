@@ -1338,7 +1338,7 @@
 0.0.0.0 gravatar.com
 0.0.0.0 conviva.com
 ! allow cookiepro.com reason: required for shit nlziet
-0.0.0.0 cookie-cdn.cookiepro.com
+! allow cookie-cdn.cookiepro.com reason: NLziet cookie trash
 0.0.0.0 fouanalytics.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 ezodn.com

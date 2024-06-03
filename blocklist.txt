@@ -1342,7 +1342,7 @@
 ||gravatar.com^
 ||conviva.com^
 ||cookiepro.com^$badfilter  # required for shit nlziet
-||cookie-cdn.cookiepro.com^
+||cookie-cdn.cookiepro.com^$badfilter  # NLziet cookie trash
 ||fouanalytics.com^
 ||api.fouanalytics.com^
 ||ezodn.com^

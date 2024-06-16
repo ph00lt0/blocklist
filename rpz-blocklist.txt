@@ -20656,3 +20656,4 @@ sp.tvspielfilm.de CNAME .
 ad-js.chip.de CNAME .
 tags.chip.de CNAME .
 cmp.chip.de CNAME .
+cp.chip.de CNAME .

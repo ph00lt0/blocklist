@@ -21534,3 +21534,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||ad-js.chip.de^
 ||tags.chip.de^
 ||cmp.chip.de^
+||cp.chip.de^

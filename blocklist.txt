@@ -21518,3 +21518,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||connectivityassistant.com^
 ||nfsi.vip^
 ||dynodns.org^
+||cmp.focus.de^

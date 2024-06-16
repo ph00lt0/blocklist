@@ -20655,3 +20655,4 @@ local-zone: "cmp.tvspielfilm.de." always_null
 local-zone: "data-d4ecb517ab.tvspielfilm.de." always_null
 local-zone: "tags.tvspielfilm.de." always_null
 local-zone: "hirsung.de." always_null
+local-zone: "sp.tvspielfilm.de." always_null

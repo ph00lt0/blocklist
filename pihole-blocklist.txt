@@ -20768,3 +20768,15 @@
 0.0.0.0 makemorality.digital
 0.0.0.0 footprint.network
 0.0.0.0 footprint.network.cdn.cloudflare.net
+0.0.0.0 ads.brave.com
+0.0.0.0 ads.bravesoftware.com
+0.0.0.0 ads-serve.bravesoftware.com
+0.0.0.0 ads-static.brave.com
+0.0.0.0 ads-static.bravesoftware.com
+0.0.0.0 griffin.brave.com
+0.0.0.0 p3a.bravesoftware.com
+0.0.0.0 p3a-json.bravesoftware.com
+0.0.0.0 stats.brave.com
+0.0.0.0 stats.bravesoftware.com
+0.0.0.0 stats.bsg.bravesoftware.com
+0.0.0.0 variations.bravesoftware.com

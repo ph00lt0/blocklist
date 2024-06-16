@@ -20660,3 +20660,15 @@ cp.; allow chip.de reason: garbage "news" website
 makemorality.digital CNAME .
 footprint.network CNAME .
 footprint.network.cdn.cloudflare.net CNAME .
+ads.brave.com CNAME .
+ads.bravesoftware.com CNAME .
+ads-serve.bravesoftware.com CNAME .
+ads-static.brave.com CNAME .
+ads-static.bravesoftware.com CNAME .
+griffin.brave.com CNAME .
+p3a.bravesoftware.com CNAME .
+p3a-json.bravesoftware.com CNAME .
+stats.brave.com CNAME .
+stats.bravesoftware.com CNAME .
+stats.bsg.bravesoftware.com CNAME .
+variations.bravesoftware.com CNAME .

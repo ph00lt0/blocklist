@@ -20663,3 +20663,15 @@ local-zone: "cp.chip.de." always_null
 local-zone: "makemorality.digital." always_null
 local-zone: "footprint.network." always_null
 local-zone: "footprint.network.cdn.cloudflare.net." always_null
+local-zone: "ads.brave.com." always_null
+local-zone: "ads.bravesoftware.com." always_null
+local-zone: "ads-serve.bravesoftware.com." always_null
+local-zone: "ads-static.brave.com." always_null
+local-zone: "ads-static.bravesoftware.com." always_null
+local-zone: "griffin.brave.com." always_null
+local-zone: "p3a.bravesoftware.com." always_null
+local-zone: "p3a-json.bravesoftware.com." always_null
+local-zone: "stats.brave.com." always_null
+local-zone: "stats.bravesoftware.com." always_null
+local-zone: "stats.bsg.bravesoftware.com." always_null
+local-zone: "variations.bravesoftware.com." always_null

@@ -20072,6 +20072,18 @@
         "cp.chip.de",
         "makemorality.digital",
         "footprint.network",
-        "footprint.network.cdn.cloudflare.net"
+        "footprint.network.cdn.cloudflare.net",
+        "ads.brave.com",
+        "ads.bravesoftware.com",
+        "ads-serve.bravesoftware.com",
+        "ads-static.brave.com",
+        "ads-static.bravesoftware.com",
+        "griffin.brave.com",
+        "p3a.bravesoftware.com",
+        "p3a-json.bravesoftware.com",
+        "stats.brave.com",
+        "stats.bravesoftware.com",
+        "stats.bsg.bravesoftware.com",
+        "variations.bravesoftware.com"
     ]
 }

@@ -20648,3 +20648,4 @@ local-zone: "connectivityassistant.com." always_null
 local-zone: "nfsi.vip." always_null
 local-zone: "dynodns.org." always_null
 local-zone: "cmp.focus.de." always_null
+local-zone: "cp.focus.de." always_null

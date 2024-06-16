@@ -20654,3 +20654,5 @@ tags.tvspielfilm.de CNAME .
 hirsung.de CNAME .
 sp.tvspielfilm.de CNAME .
 ad-js.chip.de CNAME .
+tags.chip.de CNAME .
+cmp.chip.de CNAME .

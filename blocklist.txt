@@ -21532,3 +21532,5 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||chip.de^$third-party
 ||data-2f2ec12966.chip.de^$third-party
 ||ad-js.chip.de^
+||tags.chip.de^
+||cmp.chip.de^

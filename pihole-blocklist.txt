@@ -20762,3 +20762,5 @@
 0.0.0.0 hirsung.de
 0.0.0.0 sp.tvspielfilm.de
 0.0.0.0 ad-js.chip.de
+0.0.0.0 tags.chip.de
+0.0.0.0 cmp.chip.de

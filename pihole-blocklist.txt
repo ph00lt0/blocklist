@@ -14755,7 +14755,7 @@
 0.0.0.0 chatbot4you.de
 0.0.0.0 chatbotize.com
 0.0.0.0 chatntr.com
-0.0.0.0 chip.de
+! allow chip.de reason: garbage "news" website
 0.0.0.0 chushywoce.com
 0.0.0.0 citrix-itm-test.com
 0.0.0.0 cituro.com

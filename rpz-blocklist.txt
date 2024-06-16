@@ -14647,7 +14647,7 @@ chal-tec.com CNAME .
 chatbot4you.de CNAME .
 chatbotize.com CNAME .
 chatntr.com CNAME .
-chip.de CNAME .
+; allow chip.de reason: garbage "news" website
 chushywoce.com CNAME .
 citrix-itm-test.com CNAME .
 cituro.com CNAME .
@@ -20653,7 +20653,7 @@ data-d4ecb517ab.tvspielfilm.de CNAME .
 tags.tvspielfilm.de CNAME .
 hirsung.de CNAME .
 sp.tvspielfilm.de CNAME .
-ad-js.chip.de CNAME .
-tags.chip.de CNAME .
-cmp.chip.de CNAME .
-cp.chip.de CNAME .
+ad-js.; allow chip.de reason: garbage "news" website
+tags.; allow chip.de reason: garbage "news" website
+cmp.; allow chip.de reason: garbage "news" website
+cp.; allow chip.de reason: garbage "news" website

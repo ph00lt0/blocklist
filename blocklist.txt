@@ -15079,7 +15079,7 @@ $removeparam=engagement_type
 ||chatbot4you.de^
 ||chatbotize.com^
 ||chatntr.com^
-||chip.de^
+||chip.de^$badfilter  # garbage "news" website
 ||chushywoce.com^
 ||citrix-itm-test.com^
 ||cituro.com^
@@ -21529,7 +21529,7 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||sp.tvspielfilm.de^
 ||tvspielfilm.de^$third-party
 ||focus.de^$third-party
-||chip.de^$third-party
+||chip.de^$badfilter  # garbage "news" website$third-party
 ||data-2f2ec12966.chip.de^$third-party
 ||ad-js.chip.de^
 ||tags.chip.de^

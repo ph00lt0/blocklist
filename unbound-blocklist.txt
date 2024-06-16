@@ -14650,7 +14650,7 @@ local-zone: "chal-tec.com." always_null
 local-zone: "chatbot4you.de." always_null
 local-zone: "chatbotize.com." always_null
 local-zone: "chatntr.com." always_null
-local-zone: "chip.de." always_null
+# allow chip.de reason: garbage "news" website
 local-zone: "chushywoce.com." always_null
 local-zone: "citrix-itm-test.com." always_null
 local-zone: "cituro.com." always_null

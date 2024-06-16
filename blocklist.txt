@@ -21535,3 +21535,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||tags.chip.de^
 ||cmp.chip.de^
 ||cp.chip.de^
+||chip.de^$third-party

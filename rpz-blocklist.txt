@@ -20648,3 +20648,4 @@ cmp.focus.de CNAME .
 cp.focus.de CNAME .
 data-1818d50639.focus.de CNAME .
 tags.focus.de CNAME .
+cmp.tvspielfilm.de CNAME .

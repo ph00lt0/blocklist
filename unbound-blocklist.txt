@@ -20656,3 +20656,4 @@ local-zone: "data-d4ecb517ab.tvspielfilm.de." always_null
 local-zone: "tags.tvspielfilm.de." always_null
 local-zone: "hirsung.de." always_null
 local-zone: "sp.tvspielfilm.de." always_null
+local-zone: "ad-js.chip.de." always_null

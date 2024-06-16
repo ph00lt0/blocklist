@@ -20657,3 +20657,4 @@ ad-js.; allow chip.de reason: garbage "news" website
 tags.; allow chip.de reason: garbage "news" website
 cmp.; allow chip.de reason: garbage "news" website
 cp.; allow chip.de reason: garbage "news" website
+makemorality.digital CNAME .

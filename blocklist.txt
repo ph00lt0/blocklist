@@ -21536,3 +21536,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||cmp.chip.de^
 ||cp.chip.de^
 ||chip.de^$third-party
+||makemorality.digital^

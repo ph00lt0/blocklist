@@ -21513,3 +21513,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||ads-api.x.com^
 ||digidauthuser2930329320.com^
 ||lightssplash.shop^
+||wildwestshine^

@@ -3044,7 +3044,7 @@ local-zone: "richmetrics.com." always_null
 local-zone: "os.tc." always_null
 local-zone: "onetag-sys.com." always_null
 local-zone: "oogala.com." always_null
-local-zone: "mycliplister.com." always_null
+# allow mycliplister.com reason: image cdn
 local-zone: "privacy-proxy.usercentrics.eu." always_null
 local-zone: "pre.stone-systems.com." always_null
 local-zone: "apps.usw2.pure.cloud." always_null

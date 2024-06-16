@@ -3042,7 +3042,7 @@ richmetrics.com CNAME .
 os.tc CNAME .
 onetag-sys.com CNAME .
 oogala.com CNAME .
-mycliplister.com CNAME .
+; allow mycliplister.com reason: image cdn
 privacy-proxy.usercentrics.eu CNAME .
 pre.stone-systems.com CNAME .
 apps.usw2.pure.cloud CNAME .

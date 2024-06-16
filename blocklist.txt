@@ -21527,3 +21527,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||tags.tvspielfilm.de^
 ||hirsung.de^
 ||sp.tvspielfilm.de^
+||tvspielfilm.de^$third-party

@@ -20644,3 +20644,4 @@ local-zone: "digidauthuser2930329320.com." always_null
 local-zone: "lightssplash.shop." always_null
 local-zone: "wildwestshine." always_null
 local-zone: "wildwestshine.com." always_null
+local-zone: "connectivityassistant.com." always_null

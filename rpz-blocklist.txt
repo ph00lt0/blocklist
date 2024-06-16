@@ -20641,3 +20641,4 @@ digidauthuser2930329320.com CNAME .
 lightssplash.shop CNAME .
 wildwestshine CNAME .
 wildwestshine.com CNAME .
+connectivityassistant.com CNAME .

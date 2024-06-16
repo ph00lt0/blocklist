@@ -21515,3 +21515,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||lightssplash.shop^
 ||wildwestshine^
 ||wildwestshine.com^
+||connectivityassistant.com^

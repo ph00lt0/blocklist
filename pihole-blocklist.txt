@@ -20749,3 +20749,4 @@
 0.0.0.0 lightssplash.shop
 0.0.0.0 wildwestshine
 0.0.0.0 wildwestshine.com
+0.0.0.0 connectivityassistant.com

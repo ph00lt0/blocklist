@@ -21551,3 +21551,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||stats.bravesoftware.com^
 ||stats.bsg.bravesoftware.com^
 ||variations.bravesoftware.com^
+||viseo.com^

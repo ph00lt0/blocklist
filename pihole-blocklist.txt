@@ -20780,3 +20780,4 @@
 0.0.0.0 stats.bravesoftware.com
 0.0.0.0 stats.bsg.bravesoftware.com
 0.0.0.0 variations.bravesoftware.com
+0.0.0.0 viseo.com

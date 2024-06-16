@@ -20675,3 +20675,4 @@ local-zone: "stats.brave.com." always_null
 local-zone: "stats.bravesoftware.com." always_null
 local-zone: "stats.bsg.bravesoftware.com." always_null
 local-zone: "variations.bravesoftware.com." always_null
+local-zone: "viseo.com." always_null

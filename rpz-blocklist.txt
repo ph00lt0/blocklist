@@ -20672,3 +20672,4 @@ stats.brave.com CNAME .
 stats.bravesoftware.com CNAME .
 stats.bsg.bravesoftware.com CNAME .
 variations.bravesoftware.com CNAME .
+viseo.com CNAME .

@@ -20070,6 +20070,7 @@
         "tags.chip.de",
         "cmp.chip.de",
         "cp.chip.de",
-        "makemorality.digital"
+        "makemorality.digital",
+        "footprint.network"
     ]
 }

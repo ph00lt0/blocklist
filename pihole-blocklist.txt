@@ -20751,3 +20751,4 @@
 0.0.0.0 wildwestshine.com
 0.0.0.0 connectivityassistant.com
 0.0.0.0 nfsi.vip
+0.0.0.0 dynodns.org

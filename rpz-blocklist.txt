@@ -20643,3 +20643,4 @@ wildwestshine CNAME .
 wildwestshine.com CNAME .
 connectivityassistant.com CNAME .
 nfsi.vip CNAME .
+dynodns.org CNAME .

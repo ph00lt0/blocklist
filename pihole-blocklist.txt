@@ -20767,3 +20767,4 @@
 0.0.0.0 cp.chip.de
 0.0.0.0 makemorality.digital
 0.0.0.0 footprint.network
+0.0.0.0 footprint.network.cdn.cloudflare.net

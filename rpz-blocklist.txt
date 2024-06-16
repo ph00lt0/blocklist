@@ -20659,3 +20659,4 @@ cmp.; allow chip.de reason: garbage "news" website
 cp.; allow chip.de reason: garbage "news" website
 makemorality.digital CNAME .
 footprint.network CNAME .
+footprint.network.cdn.cloudflare.net CNAME .

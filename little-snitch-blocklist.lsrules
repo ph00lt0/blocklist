@@ -20071,6 +20071,7 @@
         "cmp.chip.de",
         "cp.chip.de",
         "makemorality.digital",
-        "footprint.network"
+        "footprint.network",
+        "footprint.network.cdn.cloudflare.net"
     ]
 }

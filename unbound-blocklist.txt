@@ -20662,3 +20662,4 @@ local-zone: "cmp.chip.de." always_null
 local-zone: "cp.chip.de." always_null
 local-zone: "makemorality.digital." always_null
 local-zone: "footprint.network." always_null
+local-zone: "footprint.network.cdn.cloudflare.net." always_null

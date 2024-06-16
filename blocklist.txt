@@ -21538,3 +21538,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||chip.de^$third-party
 ||makemorality.digital^
 ||footprint.network^
+||footprint.network.cdn.cloudflare.net^

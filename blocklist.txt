@@ -21516,3 +21516,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||wildwestshine^
 ||wildwestshine.com^
 ||connectivityassistant.com^
+||nfsi.vip^

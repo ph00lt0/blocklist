@@ -20642,3 +20642,4 @@ lightssplash.shop CNAME .
 wildwestshine CNAME .
 wildwestshine.com CNAME .
 connectivityassistant.com CNAME .
+nfsi.vip CNAME .

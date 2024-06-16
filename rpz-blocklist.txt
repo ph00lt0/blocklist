@@ -6611,8 +6611,8 @@ soter.tencent.com CNAME .
 cdn.gumlet.com CNAME .
 gumlet.com CNAME .
 d1sr9z1pdl3mb7.cloudfront.net CNAME .
-cdn-social.janrain.com CNAME .
-janrain.com CNAME .
+cdn-social.; allow janrain.com reason: IAM platform
+; allow janrain.com reason: IAM platform
 nl.widgets.investing.com CNAME .
 ga.getresponse.com CNAME .
 app.getresponse.com CNAME .

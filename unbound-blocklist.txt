@@ -6615,7 +6615,7 @@ local-zone: "cdn.gumlet.com." always_null
 local-zone: "gumlet.com." always_null
 local-zone: "d1sr9z1pdl3mb7.cloudfront.net." always_null
 local-zone: "cdn-social.janrain.com." always_null
-local-zone: "janrain.com." always_null
+# allow janrain.com reason: IAM platform
 local-zone: "nl.widgets.investing.com." always_null
 local-zone: "ga.getresponse.com." always_null
 local-zone: "app.getresponse.com." always_null

@@ -21530,3 +21530,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||tvspielfilm.de^$third-party
 ||focus.de^$third-party
 ||chip.de^$third-party
+||data-2f2ec12966.chip.de^$third-party

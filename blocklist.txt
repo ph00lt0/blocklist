@@ -21528,3 +21528,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||hirsung.de^
 ||sp.tvspielfilm.de^
 ||tvspielfilm.de^$third-party
+||focus.de^$third-party

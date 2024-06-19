@@ -18484,7 +18484,7 @@ local-zone: "sv.aq.qq.com." always_null
 local-zone: "kumascans.com." always_null
 local-zone: "hscoscdn20.net." always_null
 local-zone: "easysol.net." always_null
-local-zone: "unpkg.com." always_null
+# allow unpkg.com reason: JS CDN
 local-zone: "bannerconnect.com." always_null
 local-zone: "geotrust.com." always_null
 local-zone: "postclickmarketing.com." always_null

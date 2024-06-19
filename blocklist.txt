@@ -19161,7 +19161,7 @@ linkedin.com##.update-components-survey
 ||kumascans.com^
 ||hscoscdn20.net^
 ||easysol.net^
-||unpkg.com^
+||unpkg.com^$badfilter  # JS CDN
 ||bannerconnect.com^
 ||geotrust.com^
 ||postclickmarketing.com^

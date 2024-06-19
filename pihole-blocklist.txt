@@ -18589,7 +18589,7 @@
 0.0.0.0 kumascans.com
 0.0.0.0 hscoscdn20.net
 0.0.0.0 easysol.net
-0.0.0.0 unpkg.com
+! allow unpkg.com reason: JS CDN
 0.0.0.0 bannerconnect.com
 0.0.0.0 geotrust.com
 0.0.0.0 postclickmarketing.com

@@ -18481,7 +18481,7 @@ sv.aq.qq.com CNAME .
 kumascans.com CNAME .
 hscoscdn20.net CNAME .
 easysol.net CNAME .
-unpkg.com CNAME .
+; allow unpkg.com reason: JS CDN
 bannerconnect.com CNAME .
 geotrust.com CNAME .
 postclickmarketing.com CNAME .

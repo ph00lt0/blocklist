@@ -21555,3 +21555,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 ||experience.gm.com^
 saturn.de###mms-consent-portal-container
 ||anonymco.com^
+ohra.nl##+js(rc, no-overflow-y, body, stay)

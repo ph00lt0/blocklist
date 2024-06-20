@@ -21558,3 +21558,4 @@ saturn.de###mms-consent-portal-container
 ohra.nl##+js(rc, no-overflow-y, body, stay)
 ohra.nl##kpcf-cookie-toestemming
 ||ohra.nl/poke/api/events^
+||ohra.nl/ohra-global-elements/js/useHarvestTracking.js^

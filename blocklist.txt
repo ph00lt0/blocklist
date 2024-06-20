@@ -21557,3 +21557,4 @@ saturn.de###mms-consent-portal-container
 ||anonymco.com^
 ohra.nl##+js(rc, no-overflow-y, body, stay)
 ohra.nl##kpcf-cookie-toestemming
+||ohra.nl/poke/api/events^

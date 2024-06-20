@@ -21556,3 +21556,4 @@ app.nlziet.nl###onetrust-accept-btn-handler
 saturn.de###mms-consent-portal-container
 ||anonymco.com^
 ohra.nl##+js(rc, no-overflow-y, body, stay)
+ohra.nl##kpcf-cookie-toestemming

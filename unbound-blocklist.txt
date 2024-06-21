@@ -20686,3 +20686,4 @@ local-zone: "pub-fc17c95a9ac8407abefe7fcd500dd0d6.r2.dev." always_null
 local-zone: "cigibud.com." always_null
 local-zone: "quicklyemailsend77.com." always_null
 local-zone: "ishortn.ink." always_null
+local-zone: "aasmul.net." always_null

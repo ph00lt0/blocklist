@@ -20791,3 +20791,4 @@
 0.0.0.0 cigibud.com
 0.0.0.0 quicklyemailsend77.com
 0.0.0.0 ishortn.ink
+0.0.0.0 aasmul.net

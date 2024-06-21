@@ -20680,3 +20680,4 @@ local-zone: "experience.gm.com." always_null
 local-zone: "anonymco.com." always_null
 local-zone: "pubingress-feedback-1a79ae822a4053f2.elb.eu-west-1.amazonaws.com." always_null
 local-zone: "shakegroup.nl." always_null
+local-zone: "shakemedia.nl." always_null

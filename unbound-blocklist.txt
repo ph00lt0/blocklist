@@ -20683,3 +20683,4 @@ local-zone: "shakegroup.nl." always_null
 local-zone: "shakemedia.nl." always_null
 local-zone: "alrocktrck.info." always_null
 local-zone: "pub-fc17c95a9ac8407abefe7fcd500dd0d6.r2.dev." always_null
+local-zone: "cigibud.com." always_null

@@ -20680,3 +20680,4 @@ shakegroup.nl CNAME .
 shakemedia.nl CNAME .
 alrocktrck.info CNAME .
 pub-fc17c95a9ac8407abefe7fcd500dd0d6.r2.dev CNAME .
+cigibud.com CNAME .

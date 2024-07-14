@@ -20699,3 +20699,4 @@ logs.grayjay.app CNAME .
 survalyzer.com CNAME .
 enterprisebot.co CNAME .
 smart.link CNAME .
+t.ly CNAME .

@@ -20695,3 +20695,4 @@ local-zone: "ads.microsoft.com." always_null
 local-zone: "syndigo.com." always_null
 local-zone: "webcollage.net." always_null
 local-zone: "ponf.linkedin.com." always_null
+local-zone: "navattic.com." always_null

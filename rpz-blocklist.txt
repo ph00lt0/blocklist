@@ -20692,3 +20692,4 @@ ads.microsoft.com CNAME .
 syndigo.com CNAME .
 webcollage.net CNAME .
 ponf.linkedin.com CNAME .
+navattic.com CNAME .

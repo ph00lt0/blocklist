@@ -20701,3 +20701,4 @@ enterprisebot.co CNAME .
 smart.link CNAME .
 t.ly CNAME .
 analytic.com CNAME .
+pentera.io CNAME .

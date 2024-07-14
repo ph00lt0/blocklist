@@ -20809,3 +20809,4 @@
 0.0.0.0 smart.link
 0.0.0.0 t.ly
 0.0.0.0 analytic.com
+0.0.0.0 pentera.io

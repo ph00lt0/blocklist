@@ -21605,3 +21605,4 @@ plein.nl##body:style(overflow: auto!important)
 ||srmdata-eur.com^
 ^antifinger.*.js^
 ^event-center-*.js^
+^infp.*.js^

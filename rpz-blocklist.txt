@@ -20700,3 +20700,4 @@ survalyzer.com CNAME .
 enterprisebot.co CNAME .
 smart.link CNAME .
 t.ly CNAME .
+analytic.com CNAME .

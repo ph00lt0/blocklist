@@ -21604,3 +21604,4 @@ plein.nl##body:style(overflow: auto!important)
 ||whats-app-vote.ru^
 ||srmdata-eur.com^
 ^antifinger.*.js^
+^event-center-*.js^

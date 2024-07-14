@@ -20694,3 +20694,4 @@ webcollage.net CNAME .
 ponf.linkedin.com CNAME .
 navattic.com CNAME .
 nsvcs.net CNAME .
+sgtm.plein.nl CNAME .

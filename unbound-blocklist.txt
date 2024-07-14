@@ -20706,3 +20706,4 @@ local-zone: "t.ly." always_null
 local-zone: "analytic.com." always_null
 local-zone: "pentera.io." always_null
 local-zone: "fortra.com." always_null
+local-zone: "measureworks.nl." always_null

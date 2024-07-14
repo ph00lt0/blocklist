@@ -20811,3 +20811,4 @@
 0.0.0.0 analytic.com
 0.0.0.0 pentera.io
 0.0.0.0 fortra.com
+0.0.0.0 measureworks.nl

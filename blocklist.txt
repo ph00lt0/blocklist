@@ -21601,3 +21601,4 @@ plein.nl##body:style(overflow: auto!important)
 ||temu.com^
 ||kwcdn.com^
 ||proxcake.com^
+||whats-app-vote.ru^

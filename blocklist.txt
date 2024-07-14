@@ -21575,3 +21575,4 @@ duckduckgo.com##[data-testid="serp-popover-promo"]
 ||pa-cd.com^
 ||jasongo.net^
 ||ads.microsoft.com^
+plein.nl##.plein-cookie-modal

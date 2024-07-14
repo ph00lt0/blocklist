@@ -20794,3 +20794,4 @@
 0.0.0.0 aasmul.net
 0.0.0.0 Genflow.com
 0.0.0.0 collector.wdp.brave.com
+0.0.0.0 pa-cd.com

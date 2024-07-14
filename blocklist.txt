@@ -21572,3 +21572,4 @@ ohra.nl##kpcf-cookie-toestemming
 ||Genflow.com^
 ||collector.wdp.brave.com^
 duckduckgo.com##[data-testid="serp-popover-promo"]
+||pa-cd.com^

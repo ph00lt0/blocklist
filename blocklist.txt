@@ -21576,3 +21576,4 @@ duckduckgo.com##[data-testid="serp-popover-promo"]
 ||jasongo.net^
 ||ads.microsoft.com^
 plein.nl##.plein-cookie-modal
+plein.nl##.plein-modal-backdrop

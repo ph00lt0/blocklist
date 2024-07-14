@@ -20690,3 +20690,4 @@ pa-cd.com CNAME .
 jasongo.net CNAME .
 ads.microsoft.com CNAME .
 syndigo.com CNAME .
+webcollage.net CNAME .

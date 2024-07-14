@@ -21588,3 +21588,4 @@ plein.nl##body:style(overflow: auto!important)
 ||sgtm.plein.nl^
 ||logs.grayjay.app^
 ||survalyzer.com^
+||enterprisebot.co^

@@ -20813,3 +20813,4 @@
 0.0.0.0 fortra.com
 0.0.0.0 measureworks.nl
 0.0.0.0 sdlmedia.com
+0.0.0.0 experiments.apple.com

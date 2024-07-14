@@ -20708,3 +20708,4 @@ local-zone: "pentera.io." always_null
 local-zone: "fortra.com." always_null
 local-zone: "measureworks.nl." always_null
 local-zone: "sdlmedia.com." always_null
+local-zone: "experiments.apple.com." always_null

@@ -20711,3 +20711,4 @@ local-zone: "sdlmedia.com." always_null
 local-zone: "experiments.apple.com." always_null
 local-zone: "likesmaster.eu." always_null
 local-zone: "temu.com." always_null
+local-zone: "kwcdn.com." always_null

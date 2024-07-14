@@ -21599,3 +21599,4 @@ plein.nl##body:style(overflow: auto!important)
 ||experiments.apple.com^
 ||likesmaster.eu^
 ||temu.com^
+||kwcdn.com^

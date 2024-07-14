@@ -20816,3 +20816,4 @@
 0.0.0.0 experiments.apple.com
 0.0.0.0 likesmaster.eu
 0.0.0.0 temu.com
+0.0.0.0 kwcdn.com

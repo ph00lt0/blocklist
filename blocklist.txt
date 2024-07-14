@@ -21603,3 +21603,4 @@ plein.nl##body:style(overflow: auto!important)
 ||proxcake.com^
 ||whats-app-vote.ru^
 ||srmdata-eur.com^
+^antifinger.*.js^

@@ -20699,3 +20699,4 @@ local-zone: "navattic.com." always_null
 local-zone: "nsvcs.net." always_null
 local-zone: "sgtm.plein.nl." always_null
 local-zone: "logs.grayjay.app." always_null
+local-zone: "survalyzer.com." always_null

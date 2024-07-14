@@ -21587,3 +21587,4 @@ plein.nl##body:style(overflow: auto!important)
 ||nsvcs.net^
 ||sgtm.plein.nl^
 ||logs.grayjay.app^
+||survalyzer.com^

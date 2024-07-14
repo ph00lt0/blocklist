@@ -20810,3 +20810,4 @@
 0.0.0.0 t.ly
 0.0.0.0 analytic.com
 0.0.0.0 pentera.io
+0.0.0.0 fortra.com

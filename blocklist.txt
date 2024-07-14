@@ -21606,3 +21606,4 @@ plein.nl##body:style(overflow: auto!important)
 ^antifinger.*.js^
 ^event-center-*.js^
 ^infp.*.js^
+^client-monitor.*.js^

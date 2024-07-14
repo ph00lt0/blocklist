@@ -18259,7 +18259,7 @@
 0.0.0.0 doitonlinemedia.nl
 0.0.0.0 getbynder.com
 0.0.0.0 bynder.com
-0.0.0.0 janraincapture.com
+! allow janraincapture.com reason: Auth CDN
 0.0.0.0 janrainsso.com
 0.0.0.0 widget-cdn.janraincapture.com
 0.0.0.0 cdn-expoints.nl
@@ -20792,3 +20792,5 @@
 0.0.0.0 quicklyemailsend77.com
 0.0.0.0 ishortn.ink
 0.0.0.0 aasmul.net
+0.0.0.0 Genflow.com
+0.0.0.0 collector.wdp.brave.com

@@ -18151,9 +18151,9 @@ calltouch.ru CNAME .
 doitonlinemedia.nl CNAME .
 getbynder.com CNAME .
 bynder.com CNAME .
-janraincapture.com CNAME .
+; allow janraincapture.com reason: Auth CDN
 janrainsso.com CNAME .
-widget-cdn.janraincapture.com CNAME .
+widget-cdn.; allow janraincapture.com reason: Auth CDN
 cdn-expoints.nl CNAME .
 bratpack.nl CNAME .
 rpxnow.com CNAME .
@@ -20684,3 +20684,5 @@ cigibud.com CNAME .
 quicklyemailsend77.com CNAME .
 ishortn.ink CNAME .
 aasmul.net CNAME .
+Genflow.com CNAME .
+collector.wdp.brave.com CNAME .

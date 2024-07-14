@@ -18811,7 +18811,7 @@ nuget.org###cookie-banner
 ||doitonlinemedia.nl^
 ||getbynder.com^
 ||bynder.com^
-||janraincapture.com^
+||janraincapture.com^$badfilter  # Auth CDN
 ||janrainsso.com^
 ||widget-cdn.janraincapture.com^
 ||cdn-expoints.nl^
@@ -21569,3 +21569,5 @@ ohra.nl##kpcf-cookie-toestemming
 ||quicklyemailsend77.com^
 ||ishortn.ink^
 ||aasmul.net^
+||Genflow.com^
+||collector.wdp.brave.com^

@@ -21598,3 +21598,4 @@ plein.nl##body:style(overflow: auto!important)
 ||sdlmedia.com^
 ||experiments.apple.com^
 ||likesmaster.eu^
+||temu.com^

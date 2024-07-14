@@ -20707,3 +20707,4 @@ measureworks.nl CNAME .
 sdlmedia.com CNAME .
 experiments.apple.com CNAME .
 likesmaster.eu CNAME .
+temu.com CNAME .

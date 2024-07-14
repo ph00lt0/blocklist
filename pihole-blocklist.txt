@@ -20815,3 +20815,4 @@
 0.0.0.0 sdlmedia.com
 0.0.0.0 experiments.apple.com
 0.0.0.0 likesmaster.eu
+0.0.0.0 temu.com

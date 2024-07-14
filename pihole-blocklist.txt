@@ -20797,3 +20797,4 @@
 0.0.0.0 pa-cd.com
 0.0.0.0 jasongo.net
 0.0.0.0 ads.microsoft.com
+0.0.0.0 syndigo.com

@@ -20692,3 +20692,4 @@ local-zone: "collector.wdp.brave.com." always_null
 local-zone: "pa-cd.com." always_null
 local-zone: "jasongo.net." always_null
 local-zone: "ads.microsoft.com." always_null
+local-zone: "syndigo.com." always_null

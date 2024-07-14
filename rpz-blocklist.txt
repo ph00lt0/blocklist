@@ -20689,3 +20689,4 @@ collector.wdp.brave.com CNAME .
 pa-cd.com CNAME .
 jasongo.net CNAME .
 ads.microsoft.com CNAME .
+syndigo.com CNAME .

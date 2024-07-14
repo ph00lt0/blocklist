@@ -20714,3 +20714,4 @@ local-zone: "temu.com." always_null
 local-zone: "kwcdn.com." always_null
 local-zone: "proxcake.com." always_null
 local-zone: "whats-app-vote.ru." always_null
+local-zone: "srmdata-eur.com." always_null

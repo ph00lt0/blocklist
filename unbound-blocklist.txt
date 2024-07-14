@@ -20701,3 +20701,4 @@ local-zone: "sgtm.plein.nl." always_null
 local-zone: "logs.grayjay.app." always_null
 local-zone: "survalyzer.com." always_null
 local-zone: "enterprisebot.co." always_null
+local-zone: "smart.link." always_null

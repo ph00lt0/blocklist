@@ -20698,3 +20698,4 @@ sgtm.plein.nl CNAME .
 logs.grayjay.app CNAME .
 survalyzer.com CNAME .
 enterprisebot.co CNAME .
+smart.link CNAME .

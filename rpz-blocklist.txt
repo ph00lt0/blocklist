@@ -20687,3 +20687,4 @@ aasmul.net CNAME .
 Genflow.com CNAME .
 collector.wdp.brave.com CNAME .
 pa-cd.com CNAME .
+jasongo.net CNAME .

@@ -21573,3 +21573,4 @@ ohra.nl##kpcf-cookie-toestemming
 ||collector.wdp.brave.com^
 duckduckgo.com##[data-testid="serp-popover-promo"]
 ||pa-cd.com^
+||jasongo.net^

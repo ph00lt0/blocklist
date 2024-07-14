@@ -20795,3 +20795,4 @@
 0.0.0.0 Genflow.com
 0.0.0.0 collector.wdp.brave.com
 0.0.0.0 pa-cd.com
+0.0.0.0 jasongo.net

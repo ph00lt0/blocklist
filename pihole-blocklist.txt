@@ -20836,3 +20836,4 @@
 0.0.0.0 bloomreach.com
 0.0.0.0 huckabuy.com
 0.0.0.0 snowflake.com
+0.0.0.0 oracle.sc.omtrdc.net

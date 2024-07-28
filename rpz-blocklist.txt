@@ -20728,3 +20728,4 @@ agillic.com CNAME .
 bloomreach.com CNAME .
 huckabuy.com CNAME .
 snowflake.com CNAME .
+oracle.sc.omtrdc.net CNAME .

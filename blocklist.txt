@@ -21616,3 +21616,4 @@ plein.nl##body:style(overflow: auto!important)
 ||stats.mainroll.com^
 ||spotler.co.uk^
 ||spotlergroup.com^
+||spotler.jobs^

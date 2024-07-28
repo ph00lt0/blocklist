@@ -20863,3 +20863,4 @@
 0.0.0.0 adsbridge.com
 0.0.0.0 cdn-abpartner.akamaized.net
 0.0.0.0 cpvlab.pro
+0.0.0.0 cpvone.com

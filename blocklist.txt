@@ -21663,3 +21663,4 @@ plein.nl##body:style(overflow: auto!important)
 ||metrics.mysynchrony.com^
 ||tags.synchronybank.com^
 ||api.syf.com/*/marketing/*^
+||fathomdns.com^

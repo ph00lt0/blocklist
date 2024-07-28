@@ -20872,3 +20872,4 @@
 0.0.0.0 analytics.synchronybank.com
 0.0.0.0 metrics.mysynchrony.com
 0.0.0.0 tags.synchronybank.com
+0.0.0.0 fathomdns.com

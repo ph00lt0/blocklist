@@ -20764,3 +20764,4 @@ privacy.uwm.com CNAME .
 analytics.synchronybank.com CNAME .
 metrics.mysynchrony.com CNAME .
 tags.synchronybank.com CNAME .
+fathomdns.com CNAME .

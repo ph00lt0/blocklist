@@ -20758,3 +20758,4 @@ cpvlab.pro CNAME .
 cpvone.com CNAME .
 funnelflux.com CNAME .
 peerclick.com CNAME .
+binom.org CNAME .

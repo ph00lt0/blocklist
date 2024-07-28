@@ -20761,3 +20761,4 @@ local-zone: "cpvlab.pro." always_null
 local-zone: "cpvone.com." always_null
 local-zone: "funnelflux.com." always_null
 local-zone: "peerclick.com." always_null
+local-zone: "binom.org." always_null

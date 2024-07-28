@@ -20750,3 +20750,4 @@ local-zone: "open.keitaro.io." always_null
 local-zone: "trackingdesk.com." always_null
 local-zone: "thrivetracker.com." always_null
 local-zone: "ftrperf80.com." always_null
+local-zone: "ipyxel.com." always_null

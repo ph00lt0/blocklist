@@ -20855,3 +20855,4 @@
 0.0.0.0 trackingdesk.com
 0.0.0.0 thrivetracker.com
 0.0.0.0 ftrperf80.com
+0.0.0.0 ipyxel.com

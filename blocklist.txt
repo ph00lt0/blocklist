@@ -21669,3 +21669,4 @@ plein.nl##body:style(overflow: auto!important)
 ||daraz.com^
 ||tracking-consent.sf.albelli.com^
 ||storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com^
+||customer-event-tracking.sf.albelli.com^

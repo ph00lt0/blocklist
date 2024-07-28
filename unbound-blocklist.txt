@@ -20723,3 +20723,4 @@ local-zone: "stats.mainroll.com." always_null
 local-zone: "spotler.co.uk." always_null
 local-zone: "spotlergroup.com." always_null
 local-zone: "spotler.jobs." always_null
+local-zone: "spotlerengage.com." always_null

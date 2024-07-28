@@ -20716,3 +20716,4 @@ local-zone: "proxcake.com." always_null
 local-zone: "whats-app-vote.ru." always_null
 local-zone: "srmdata-eur.com." always_null
 local-zone: "seosmarty.com." always_null
+local-zone: "advgo.net." always_null

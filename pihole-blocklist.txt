@@ -20821,3 +20821,4 @@
 0.0.0.0 whats-app-vote.ru
 0.0.0.0 srmdata-eur.com
 0.0.0.0 seosmarty.com
+0.0.0.0 advgo.net

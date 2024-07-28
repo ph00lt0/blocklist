@@ -21649,3 +21649,4 @@ plein.nl##body:style(overflow: auto!important)
 ||rdtk.io^
 ||trk.agency^
 ||helpukrainewinwidget.org^
+||adsbridge.com^

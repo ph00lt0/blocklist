@@ -20752,3 +20752,4 @@ redtrack.io CNAME .
 rdtk.io CNAME .
 trk.agency CNAME .
 helpukrainewinwidget.org CNAME .
+adsbridge.com CNAME .

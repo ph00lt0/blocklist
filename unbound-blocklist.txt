@@ -20755,3 +20755,4 @@ local-zone: "redtrack.io." always_null
 local-zone: "rdtk.io." always_null
 local-zone: "trk.agency." always_null
 local-zone: "helpukrainewinwidget.org." always_null
+local-zone: "adsbridge.com." always_null

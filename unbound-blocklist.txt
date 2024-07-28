@@ -20739,3 +20739,4 @@ local-zone: "actionlink.jp." always_null
 local-zone: "m.aclk.jp." always_null
 local-zone: "ioactive.com." always_null
 local-zone: "aodaonline.com." always_null
+local-zone: "ebis.ne.jp." always_null

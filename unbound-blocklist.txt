@@ -20760,3 +20760,4 @@ local-zone: "cdn-abpartner.akamaized.net." always_null
 local-zone: "cpvlab.pro." always_null
 local-zone: "cpvone.com." always_null
 local-zone: "funnelflux.com." always_null
+local-zone: "peerclick.com." always_null

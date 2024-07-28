@@ -20734,3 +20734,4 @@ local-zone: "snowflake.com." always_null
 local-zone: "oracle.sc.omtrdc.net." always_null
 local-zone: "rsys1.com." always_null
 local-zone: "rcm.amazon.com." always_null
+local-zone: "ipadpresence.com." always_null

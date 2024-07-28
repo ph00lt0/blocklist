@@ -20745,3 +20745,4 @@ keitaro.io CNAME .
 dashly.app CNAME .
 open.keitaro.io CNAME .
 trackingdesk.com CNAME .
+thrivetracker.com CNAME .

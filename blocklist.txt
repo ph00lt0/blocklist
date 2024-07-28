@@ -21668,3 +21668,4 @@ plein.nl##body:style(overflow: auto!important)
 ||genieegroup.com^
 ||daraz.com^
 ||tracking-consent.sf.albelli.com^
+||storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com^

@@ -20769,3 +20769,4 @@ b-cdn.net CNAME .
 genieegroup.com CNAME .
 daraz.com CNAME .
 tracking-consent.sf.albelli.com CNAME .
+storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com CNAME .

@@ -16923,7 +16923,7 @@ bannerstartpagina.nl CNAME .
 mail2.instantcrush.nl CNAME .
 goedbegin.be CNAME .
 jougids.nl CNAME .
-Newsletterails..com. CNAME .
+Newsletterails.com CNAME .
 rfmquwxods.au CNAME .
 cartrawler.com CNAME .
 sp.booking.com CNAME .

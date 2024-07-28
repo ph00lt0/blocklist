@@ -17031,7 +17031,7 @@
 0.0.0.0 mail2.instantcrush.nl
 0.0.0.0 goedbegin.be
 0.0.0.0 jougids.nl
-0.0.0.0 Newsletterails..com.
+0.0.0.0 Newsletterails.com
 0.0.0.0 rfmquwxods.au
 0.0.0.0 cartrawler.com
 0.0.0.0 sp.booking.com

@@ -20760,3 +20760,4 @@ funnelflux.com CNAME .
 peerclick.com CNAME .
 binom.org CNAME .
 nc0.co CNAME .
+privacy.uwm.com CNAME .

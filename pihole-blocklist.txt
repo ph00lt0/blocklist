@@ -20868,3 +20868,4 @@
 0.0.0.0 peerclick.com
 0.0.0.0 binom.org
 0.0.0.0 nc0.co
+0.0.0.0 privacy.uwm.com

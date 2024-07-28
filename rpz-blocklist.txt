@@ -20772,3 +20772,4 @@ tracking-consent.sf.albelli.com CNAME .
 storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com CNAME .
 customer-event-tracking.sf.albelli.com CNAME .
 edge.adobedc.net CNAME .
+kleecks-stats.com CNAME .

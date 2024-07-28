@@ -21666,3 +21666,4 @@ plein.nl##body:style(overflow: auto!important)
 ||fathomdns.com^
 ||b-cdn.net^
 ||genieegroup.com^
+||daraz.com^

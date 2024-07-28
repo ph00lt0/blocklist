@@ -20767,3 +20767,4 @@ tags.synchronybank.com CNAME .
 fathomdns.com CNAME .
 b-cdn.net CNAME .
 genieegroup.com CNAME .
+daraz.com CNAME .

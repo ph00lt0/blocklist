@@ -20770,3 +20770,4 @@ local-zone: "tags.synchronybank.com." always_null
 local-zone: "fathomdns.com." always_null
 local-zone: "b-cdn.net." always_null
 local-zone: "genieegroup.com." always_null
+local-zone: "daraz.com." always_null

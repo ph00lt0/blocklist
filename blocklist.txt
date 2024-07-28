@@ -21661,3 +21661,4 @@ plein.nl##body:style(overflow: auto!important)
 ||privacy.uwm.com^
 ||analytics.synchronybank.com^
 ||metrics.mysynchrony.com^
+||tags.synchronybank.com^

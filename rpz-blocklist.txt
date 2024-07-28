@@ -20763,3 +20763,4 @@ nc0.co CNAME .
 privacy.uwm.com CNAME .
 analytics.synchronybank.com CNAME .
 metrics.mysynchrony.com CNAME .
+tags.synchronybank.com CNAME .

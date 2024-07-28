@@ -21659,3 +21659,4 @@ plein.nl##body:style(overflow: auto!important)
 ||vk.com/rtrg^
 ||nc0.co^
 ||privacy.uwm.com^
+||analytics.synchronybank.com^

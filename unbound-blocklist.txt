@@ -20764,3 +20764,4 @@ local-zone: "peerclick.com." always_null
 local-zone: "binom.org." always_null
 local-zone: "nc0.co." always_null
 local-zone: "privacy.uwm.com." always_null
+local-zone: "analytics.synchronybank.com." always_null

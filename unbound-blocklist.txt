@@ -20743,3 +20743,4 @@ local-zone: "ebis.ne.jp." always_null
 local-zone: "affilbox.cz." always_null
 local-zone: "stat24.com." always_null
 local-zone: "dataunlocker.com." always_null
+local-zone: "bemob.com." always_null

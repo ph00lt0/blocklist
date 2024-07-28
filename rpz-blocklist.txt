@@ -20717,3 +20717,4 @@ advgo.net CNAME .
 internetbuyer.co.uk CNAME .
 wpsandwatch.com CNAME .
 stats.mainroll.com CNAME .
+spotler.co.uk CNAME .

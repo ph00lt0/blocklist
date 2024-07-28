@@ -21614,3 +21614,4 @@ plein.nl##body:style(overflow: auto!important)
 ||internetbuyer.co.uk^
 ||wpsandwatch.com^
 ||stats.mainroll.com^
+||spotler.co.uk^

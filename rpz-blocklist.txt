@@ -20748,3 +20748,4 @@ trackingdesk.com CNAME .
 thrivetracker.com CNAME .
 ftrperf80.com CNAME .
 ipyxel.com CNAME .
+redtrack.io CNAME .

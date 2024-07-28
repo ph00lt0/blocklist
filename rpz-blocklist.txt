@@ -20765,3 +20765,4 @@ analytics.synchronybank.com CNAME .
 metrics.mysynchrony.com CNAME .
 tags.synchronybank.com CNAME .
 fathomdns.com CNAME .
+b-cdn.net CNAME .

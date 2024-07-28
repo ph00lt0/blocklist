@@ -20768,3 +20768,4 @@ local-zone: "analytics.synchronybank.com." always_null
 local-zone: "metrics.mysynchrony.com." always_null
 local-zone: "tags.synchronybank.com." always_null
 local-zone: "fathomdns.com." always_null
+local-zone: "b-cdn.net." always_null

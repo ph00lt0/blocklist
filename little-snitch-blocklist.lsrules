@@ -20172,6 +20172,7 @@
         "analytics.synchronybank.com",
         "metrics.mysynchrony.com",
         "tags.synchronybank.com",
-        "fathomdns.com"
+        "fathomdns.com",
+        "b-cdn.net"
     ]
 }

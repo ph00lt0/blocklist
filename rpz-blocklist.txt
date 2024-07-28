@@ -20746,3 +20746,4 @@ dashly.app CNAME .
 open.keitaro.io CNAME .
 trackingdesk.com CNAME .
 thrivetracker.com CNAME .
+ftrperf80.com CNAME .

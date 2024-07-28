@@ -21609,3 +21609,4 @@ plein.nl##body:style(overflow: auto!important)
 ^client-monitor.*.js^
 ^sdk_analysis.*.js^
 ||payment.quickpay.net/analytics^
+||seosmarty.com^

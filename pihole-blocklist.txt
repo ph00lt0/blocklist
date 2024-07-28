@@ -20874,3 +20874,4 @@
 0.0.0.0 tags.synchronybank.com
 0.0.0.0 fathomdns.com
 0.0.0.0 b-cdn.net
+0.0.0.0 genieegroup.com

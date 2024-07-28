@@ -21665,3 +21665,4 @@ plein.nl##body:style(overflow: auto!important)
 ||api.syf.com/*/marketing/*^
 ||fathomdns.com^
 ||b-cdn.net^
+||genieegroup.com^

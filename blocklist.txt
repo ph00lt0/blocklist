@@ -21660,3 +21660,4 @@ plein.nl##body:style(overflow: auto!important)
 ||nc0.co^
 ||privacy.uwm.com^
 ||analytics.synchronybank.com^
+||metrics.mysynchrony.com^

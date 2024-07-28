@@ -20762,3 +20762,4 @@ binom.org CNAME .
 nc0.co CNAME .
 privacy.uwm.com CNAME .
 analytics.synchronybank.com CNAME .
+metrics.mysynchrony.com CNAME .

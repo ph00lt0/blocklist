@@ -20870,3 +20870,4 @@
 0.0.0.0 nc0.co
 0.0.0.0 privacy.uwm.com
 0.0.0.0 analytics.synchronybank.com
+0.0.0.0 metrics.mysynchrony.com

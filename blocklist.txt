@@ -21662,3 +21662,4 @@ plein.nl##body:style(overflow: auto!important)
 ||analytics.synchronybank.com^
 ||metrics.mysynchrony.com^
 ||tags.synchronybank.com^
+||api.syf.com/*/marketing/*^

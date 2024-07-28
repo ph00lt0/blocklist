@@ -20773,3 +20773,4 @@ local-zone: "genieegroup.com." always_null
 local-zone: "daraz.com." always_null
 local-zone: "tracking-consent.sf.albelli.com." always_null
 local-zone: "storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com." always_null
+local-zone: "customer-event-tracking.sf.albelli.com." always_null

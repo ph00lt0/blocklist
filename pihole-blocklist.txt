@@ -20878,3 +20878,4 @@
 0.0.0.0 daraz.com
 0.0.0.0 tracking-consent.sf.albelli.com
 0.0.0.0 storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com
+0.0.0.0 customer-event-tracking.sf.albelli.com

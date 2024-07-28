@@ -20754,3 +20754,4 @@ trk.agency CNAME .
 helpukrainewinwidget.org CNAME .
 adsbridge.com CNAME .
 cdn-abpartner.akamaized.net CNAME .
+cpvlab.pro CNAME .

@@ -21651,3 +21651,4 @@ plein.nl##body:style(overflow: auto!important)
 ||helpukrainewinwidget.org^
 ||adsbridge.com^
 ||cdn-abpartner.akamaized.net^
+||cpvlab.pro^

@@ -20757,3 +20757,4 @@ local-zone: "trk.agency." always_null
 local-zone: "helpukrainewinwidget.org." always_null
 local-zone: "adsbridge.com." always_null
 local-zone: "cdn-abpartner.akamaized.net." always_null
+local-zone: "cpvlab.pro." always_null

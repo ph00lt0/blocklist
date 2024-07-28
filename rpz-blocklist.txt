@@ -20718,3 +20718,4 @@ internetbuyer.co.uk CNAME .
 wpsandwatch.com CNAME .
 stats.mainroll.com CNAME .
 spotler.co.uk CNAME .
+spotlergroup.com CNAME .

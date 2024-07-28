@@ -20721,3 +20721,4 @@ local-zone: "internetbuyer.co.uk." always_null
 local-zone: "wpsandwatch.com." always_null
 local-zone: "stats.mainroll.com." always_null
 local-zone: "spotler.co.uk." always_null
+local-zone: "spotlergroup.com." always_null

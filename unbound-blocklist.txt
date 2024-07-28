@@ -20771,3 +20771,4 @@ local-zone: "fathomdns.com." always_null
 local-zone: "b-cdn.net." always_null
 local-zone: "genieegroup.com." always_null
 local-zone: "daraz.com." always_null
+local-zone: "tracking-consent.sf.albelli.com." always_null

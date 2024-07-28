@@ -20745,3 +20745,4 @@ local-zone: "stat24.com." always_null
 local-zone: "dataunlocker.com." always_null
 local-zone: "bemob.com." always_null
 local-zone: "keitaro.io." always_null
+local-zone: "dashly.app." always_null

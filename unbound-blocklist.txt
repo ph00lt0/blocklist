@@ -20726,3 +20726,4 @@ local-zone: "spotler.jobs." always_null
 local-zone: "spotlerengage.com." always_null
 local-zone: "netflix-service.com." always_null
 local-zone: "ime-sa.com." always_null
+local-zone: "hengam.io." always_null

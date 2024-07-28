@@ -20180,6 +20180,7 @@
         "storefront-cookie-consent-prd.s3.eu-west-1.amazonaws.com",
         "customer-event-tracking.sf.albelli.com",
         "edge.adobedc.net",
-        "kleecks-stats.com"
+        "kleecks-stats.com",
+        "ingservices.nl"
     ]
 }

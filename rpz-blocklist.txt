@@ -13378,7 +13378,7 @@ accesstrade.net CNAME .
 accesstrade.vn CNAME .
 accesstype.com CNAME .
 accesswca.com CNAME .
-accor.com CNAME .
+; allow accor.com reason: not a tracker
 accorhotels.com CNAME .
 accorhotels.ws CNAME .
 accountinsight.cloud CNAME .

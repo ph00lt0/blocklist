@@ -13381,7 +13381,7 @@ local-zone: "accesstrade.net." always_null
 local-zone: "accesstrade.vn." always_null
 local-zone: "accesstype.com." always_null
 local-zone: "accesswca.com." always_null
-local-zone: "accor.com." always_null
+# allow accor.com reason: not a tracker
 local-zone: "accorhotels.com." always_null
 local-zone: "accorhotels.ws." always_null
 local-zone: "accountinsight.cloud." always_null

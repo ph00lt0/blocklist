@@ -13486,7 +13486,7 @@
 0.0.0.0 accesstrade.vn
 0.0.0.0 accesstype.com
 0.0.0.0 accesswca.com
-0.0.0.0 accor.com
+! allow accor.com reason: not a tracker
 0.0.0.0 accorhotels.com
 0.0.0.0 accorhotels.ws
 0.0.0.0 accountinsight.cloud

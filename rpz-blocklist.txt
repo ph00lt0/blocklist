@@ -19569,7 +19569,7 @@ folina.nl CNAME .
 republish.nl CNAME .
 onlineactivity.nl CNAME .
 republish-pixel.nl CNAME .
-acbllnk..com CNAME .
+acbllnk.com CNAME .
 jbprivacy2021.com CNAME .
 acumbamail.com CNAME .
 clicks.re CNAME .

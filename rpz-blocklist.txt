@@ -20743,3 +20743,4 @@ dataunlocker.com CNAME .
 bemob.com CNAME .
 keitaro.io CNAME .
 dashly.app CNAME .
+open.keitaro.io CNAME .

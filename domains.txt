@@ -8444,7 +8444,6 @@ dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com
 duanat.com
 duapp.com
 duapps.com
-dub.sh
 dubox.com
 duelz.com
 dugbvb.com

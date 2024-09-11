@@ -8444,7 +8444,6 @@ dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com CNAME .
 duanat.com CNAME .
 duapp.com CNAME .
 duapps.com CNAME .
-dub.sh CNAME .
 dubox.com CNAME .
 duelz.com CNAME .
 dugbvb.com CNAME .

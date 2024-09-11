@@ -8444,7 +8444,6 @@ local-zone: "dualstack.ichnaea-web-323206729.eu-west-1.elb.amazonaws.com." alway
 local-zone: "duanat.com." always_null
 local-zone: "duapp.com." always_null
 local-zone: "duapps.com." always_null
-local-zone: "dub.sh." always_null
 local-zone: "dubox.com." always_null
 local-zone: "duelz.com." always_null
 local-zone: "dugbvb.com." always_null

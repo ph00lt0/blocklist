@@ -8450,7 +8450,6 @@
 0.0.0.0 duanat.com
 0.0.0.0 duapp.com
 0.0.0.0 duapps.com
-0.0.0.0 dub.co
 0.0.0.0 dub.sh
 0.0.0.0 dubox.com
 0.0.0.0 duelz.com

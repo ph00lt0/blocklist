@@ -9281,7 +9281,6 @@ zekur.nl##body:style(overflow: auto!important)
 ||duanat.com^
 ||duapp.com^
 ||duapps.com^
-||dub.co^
 ||dub.sh^
 ||dubox.com^
 ||duckduckgo.com^$removeparam=ia

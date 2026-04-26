@@ -1,0 +1,98 @@
+||517m.cn^
+||9cache.com^$badfilter  # image cdn
+||a-msedge.net^$badfilter  # CDN
+||aaplimg.com^$badfilter  # not a tracker
+||academia-assets.com^$badfilter  # CDN
+||ad-analytics.xyz^
+||adobe.com.edgesuite.net^$badfilter  # not a tracker
+||alphacdn.net^$badfilter  # CDN
+||americanexpress.com.akadns.net^$badfilter  # not a tracker
+||androidrepo.com^
+||api.cider.sh^$badfilter  # required for app to start
+||apple-dns.net^$badfilter  # not a tracke
+||apple.com.akadns.net^$badfilter  # not a tracker
+||as.sinahk.net^
+||aspnetcdn.com^$badfilter  # Not a tracker
+||assetsadobe2.com^$badfilter  # not a tracker
+||awsglobalaccelerator.com^$badfilter  # CDN
+||ax4z.com^$badfilter  # CDN
+||azure-api.net^$badfilter  # not a tracker
+||azurefd.net^$badfilter  # CDN
+||basecamp-pwa-prod.com^$badfilter  # not a tracker
+||bel.tr^$badfilter  # Gov TLD
+||boltdns.net^$badfilter  # CDN
+||braintree-api.com^$badfilter  # payment gateway
+||brightcove.net^$badfilter  # video platform
+||brightcovecdn.com^$badfilter  # video platform
+||cachefly.net^$badfilter  # cdn
+||captcha-delivery.com^$badfilter  # Required for SNCF
+||casinonæstved.dk^
+||cassaincloud-prod.it^
+||cbsivideo.com^$badfilter  # not a tracker
+||cdn-apple.com.akadns.net^$badfilter  # not a tracker
+||cdn.ads.jlscds.com^
+||cdn.polyfill.io^$badfilter
+||cdninstagram.com^$badfilter  # Required for instagram
+||chp4.io^$badfilter  # Streaming NPO
+||ciitizenlab.co^$badfilter  # not a tracker
+||cloudinary.net^$badfilter  # CDN
+||codepro.info^
+||com.br^$badfilter
+||cs.dqwjzm.com^
+||ctfassets.net^$badfilter  # CDN
+||culturaltracking.ru^
+||d3r3h30p75xj6a.cloudfront.net^$badfilter  # CDN
+||datocms-assets.com^$badfilter  # not a tracker
+||dbl.spamhaus.org^$badfilter  # not a tracker
+||dbwmjj.com^
+||de.akamaized.net^$badfilter
+||de.edgesuite.net^$badfilter
+||dfp.microsoft.com^
+||digitalgov.gov^$badfilter  # not a tracker only dap subdomain is
+||digitru.st^
+||disquscdn.com^$badfilter  # disqus platform
+||dld6x5yyx2pqw.cloudfront.net^$badfilter  # Image CDN
+||dood.video^$badfilter  # cdn
+||drogisterij.xcdn.nl^$badfilter  # CDN
+||dyndns-ofﬁoe.com^
+||edgekey.net^$badfilter # not a tracker
+||endoﬁnternet.net^
+||execute-api.us-east-1.amazonaws.com^$badfilter # aws api
+||from-ﬂ.com^
+||gaia-acceptance-assets.otravo.com^$badfilter  # Required for website to function
+||gaia-production-translations.otravo.com^$badfilter  # Required for website to functiion
+||gen.tr^$badfilter  # TLD
+||genieegroup.com^
+||ggg.zj.com^
+||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
+||guidashu.com^
+||gumlet.io^$badfilter  # video stream||tra.scds.pmdstatic.net
+||hao934.com^
+||iggcdn.com^$badfilter  # Not a tracker
+||is-a-ﬁnancialadvisor.com^
+||is-certiﬂed.com^
+||is-not-certiﬁed.com^
+||issueantenna.com^
+||l.google.com^$badfilter  # CNAME for many google services
+||ls.apple.com.akadns.net^$badfilter  # apple maps
+||ls.apple.com.edgesuite.net^$badfilter  # apple maps
+||nocookie.net^$badfilter  # CDN
+||ns-mlab.nl^$badfilter  # NS App
+||push-apple.com.akadns.net^$badfilter  # CDN
+||quadia.webtvframework.com/_function/attribute.image.retrieve^
+||quadia.webtvframework.com/_function/log.application.add^
+||quadia.webtvframework.com/_function/log.application.set^
+||quadia.webtvframework.com^$badfilter  # Required
+||rød25.dk^
+||secure.avaaz.org.dbl.spamhaus.org^$badfilter  # not a trackr
+||smoot.apple.cn^
+||smoot.apple.com^
+||spotxchange.com^
+||staticlp.com^$badfilter
+||trafficmanager.net^$badfilter  # Microsoft Cloud
+||tsdlp.com^
+||wdbos80993.com^
+||wooboo.com.cn^
+||xn--i2ru8q2qg.com^
+||xotap.nl^$badfilter  # CDN
+||zen.spamhaus.org^$badfilter  # bl.spamcop.net

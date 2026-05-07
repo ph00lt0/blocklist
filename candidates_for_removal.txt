@@ -1,0 +1,137 @@
+||2o7.net^
+||7movierulz.it^
+||81c.cn^
+||93553ec9d6.com^
+||9tbwo6o.x.incapdns.net^
+||ads-twitter.com^
+||advanced-web-analytics.com^
+||aiaos.cn^
+||aiznshop.com^
+||alphacdn.net^$badfilter  # CDN
+||americanexpress.com.akadns.net^$badfilter  # not a tracker
+||androidrepo.com^
+||api.cider.sh^$badfilter  # required for app to start
+||api.ciuvo.com^
+||apple-dns.net^$badfilter  # not a tracke
+||apple.com.akadns.net^$badfilter  # not a tracker
+||applicationinsights.azure.com^
+||ar-producties.nl^
+||arc.io^
+||as.sinahk.net^
+||aspnetcdn.com^$badfilter  # Not a tracker
+||assetsadobe2.com^$badfilter  # not a tracker
+||atconnect.npo.nl^
+||awsglobalaccelerator.com^$badfilter  # CDN
+||ax4z.com^$badfilter  # CDN
+||azure-api.net^$badfilter  # not a tracker
+||azurefd.net^$badfilter  # CDN
+||b1.c1km4.com^
+||basecamp-pwa-prod.com^$badfilter  # not a tracker
+||bel.tr^$badfilter  # Gov TLD
+||belastingportaal.info^
+||blue-sail.net^
+||boltdns.net^$badfilter  # CDN
+||bosiwangzi.cn^
+||braintree-api.com^$badfilter  # payment gateway
+||brightcove.net^$badfilter  # video platform
+||brightcovecdn.com^$badfilter  # video platform
+||cachefly.net^$badfilter  # cdn
+||captcha-delivery.com^$badfilter  # Required for SNCF
+||casinonæstved.dk^
+||cassaincloud-prod.it^
+||cbsivideo.com^$badfilter  # not a tracker
+||cdn-apple.com.akadns.net^$badfilter  # not a tracker
+||cdn.ads.jlscds.com^
+||cdne-totv8-prod.azureedge.net^
+||cdninstagram.com^$badfilter  # Required for instagram
+||chp4.io^$badfilter  # Streaming NPO
+||ciitizenlab.co^$badfilter  # not a tracker
+||cloudinary.net^$badfilter  # CDN
+||cnzhqs.com^
+||codepro.info^
+||com.br^$badfilter
+||corio.com^
+||crm4d.com^
+||ctfassets.net^$badfilter  # CDN
+||d35tca7vmefkrc.cloudfront.net^
+||d3r3h30p75xj6a.cloudfront.net^$badfilter  # CDN
+||dark-host.ro^
+||datocms-assets.com^$badfilter  # not a tracker
+||dbl.spamhaus.org^$badfilter  # not a tracker
+||de.akamaized.net^$badfilter
+||de.edgesuite.net^$badfilter
+||dfp.microsoft.com^
+||digitalgov.gov^$badfilter  # not a tracker only dap subdomain is
+||digitru.st^
+||disquscdn.com^$badfilter  # disqus platform
+||dld6x5yyx2pqw.cloudfront.net^$badfilter  # Image CDN
+||dood.video^$badfilter  # cdn
+||drogisterij.xcdn.nl^$badfilter  # CDN
+||e.fstaw.com^
+||edgekey.net^$badfilter # not a tracker
+||everythingrugbyleague.com^
+||execute-api.us-east-1.amazonaws.com^$badfilter # aws api
+||ezucods.cn^
+||f1prospects.com^
+||fnx3x.com^
+||founseezb.cn^
+||from-ﬂ.com^
+||gaia-acceptance-assets.otravo.com^$badfilter  # Required for website to function
+||gaia-production-translations.otravo.com^$badfilter  # Required for website to functiion
+||gate.rapidsec.net^
+||gen.tr^$badfilter  # TLD
+||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
+||gumlet.io^$badfilter  # video stream||tra.scds.pmdstatic.net
+||happyleafmotion.com^
+||herr.io^
+||hi686.com^
+||hipersushiads.com^
+||hmttoly.com^
+||hostingwp.pl^
+||hotjar.io^
+||iggcdn.com^$badfilter  # Not a tracker
+||img.meipic.net^
+||infragrid.v.network^
+||is-a-ﬁnancialadvisor.com^
+||is-certiﬂed.com^
+||is-not-certiﬁed.com^
+||jetcommerce.io^
+||js7k.com^
+||kuntaljewels.com^
+||l.google.com^$badfilter
+||ls.apple.com.akadns.net^$badfilter  # apple maps
+||ls.apple.com.edgesuite.net^$badfilter  # apple maps
+||miam4.cn^
+||nbhxgjz.com^
+||nocookie.net^$badfilter  # CDN
+||ns-mlab.nl^$badfilter
+||oribi.io^
+||pagespeed-mod.com^
+||pemsrv.com^
+||push-apple.com.akadns.net^$badfilter
+||quadia.webtvframework.com^$badfilter
+||rizhaokq.com^
+||rogerwebberlaw.com^
+||rød25.dk^
+||saledelivery.zone^
+||secure.avaaz.org.dbl.spamhaus.org^$badfilter
+||shorten-url.com^
+||smoot.apple.cn^
+||smoot.apple.com^
+||spotx.tv^
+||static.herr.io^
+||staticlp.com^$badfilter
+||svtrd.com^
+||szxpsg.com^
+||t075.itpro.co.uk^
+||tags.nmrc.nl^
+||thisgreencolumn.com^
+||trafficmanager.net^$badfilter  # Microsoft Cloud
+||uzpmrbek.com^
+||wka8.com^
+||wpadmngr.com^
+||xabmjr.com^
+||xkxkud.com^
+||xotap.nl^$badfilter  # CDN
+||yellowtail.it^
+||zen.spamhaus.org^$badfilter

@@ -1,0 +1,180 @@
+||178gg.com^
+||2o7.net^
+||52gg.net^
+||7movierulz.it^
+||91zgm.com^
+||93553ec9d6.com^
+||9tbwo6o.x.incapdns.net^
+||a3e0771b-apputils-prodappu-b243-1003649606.us-east-1.elb.amazonaws.com^
+||ad-analytics.xyz^
+||ad.dqwjzm.com^
+||admarket.mobi^
+||ads-twitter.com^
+||ads.kafepauza.mk^
+||advanced-web-analytics.com^
+||advertising.amazon.dev^
+||affixcrm.com^
+||aiaos.cn^
+||aiznshop.com^
+||alphacdn.net^$badfilter  # CDN
+||americanexpress.com.akadns.net^$badfilter  # not a tracker
+||anyhost.ru^
+||api.cider.sh^$badfilter  # required for app to start
+||api.ciuvo.com^
+||api.doumob.com^
+||apple-dns.net^$badfilter  # not a tracke
+||apple.com.akadns.net^$badfilter  # not a tracker
+||applicationinsights.azure.com^
+||apreslachat.com^
+||ar-producties.nl^
+||as.sinahk.net^
+||aspnetcdn.com^$badfilter  # Not a tracker
+||assetsadobe2.com^$badfilter  # not a tracker
+||atconnect.npo.nl^
+||awsglobalaccelerator.com^$badfilter  # CDN
+||ax4z.com^$badfilter  # CDN
+||azure-api.net^$badfilter  # not a tracker
+||azurefd.net^$badfilter  # CDN
+||b1.c1km4.com^
+||bannershotlink.perfectgonzo.com^
+||basecamp-pwa-prod.com^$badfilter  # not a tracker
+||bel.tr^$badfilter  # Gov TLD
+||belastingportaal.info^
+||bingoxl.nl^
+||blox.l4urenz.nl^
+||blue-sail.net^
+||blyatflix.de^
+||boltdns.net^$badfilter  # CDN
+||bosiwangzi.cn^
+||braintree-api.com^$badfilter  # payment gateway
+||brightcove.net^$badfilter  # video platform
+||brightcovecdn.com^$badfilter  # video platform
+||cachefly.net^$badfilter  # cdn
+||captcha-delivery.com^$badfilter  # Required for SNCF
+||casinonæstved.dk^
+||cassaincloud-prod.it^
+||cbsivideo.com^$badfilter  # not a tracker
+||cdn-apple.com.akadns.net^$badfilter  # not a tracker
+||cdn.ads.jlscds.com^
+||cdn.polyfill.io^$badfilter
+||cdne-totv8-prod.azureedge.net^
+||cdninstagram.com^$badfilter  # Required for instagram
+||chp4.io^$badfilter  # Streaming NPO
+||ciitizenlab.co^$badfilter  # not a tracker
+||cloudinary.net^$badfilter  # CDN
+||cnzhqs.com^
+||codepro.info^
+||com.br^$badfilter
+||crm4d.com^
+||csnakliyat.com^
+||ctfassets.net^$badfilter  # CDN
+||culturaltracking.ru^
+||d35tca7vmefkrc.cloudfront.net^
+||d3r3h30p75xj6a.cloudfront.net^$badfilter  # CDN
+||dark-host.ro^
+||datocms-assets.com^$badfilter  # not a tracker
+||dbl.spamhaus.org^$badfilter  # not a tracker
+||de.akamaized.net^$badfilter
+||de.edgesuite.net^$badfilter
+||dfp.microsoft.com^
+||digitalgov.gov^$badfilter  # not a tracker only dap subdomain is
+||digitru.st^
+||disquscdn.com^$badfilter  # disqus platform
+||djs.baomihua.com^
+||dld6x5yyx2pqw.cloudfront.net^$badfilter  # Image CDN
+||dood.video^$badfilter  # cdn
+||drogisterij.xcdn.nl^$badfilter  # CDN
+||e.fstaw.com^
+||edgekey.net^$badfilter # not a tracker
+||everythingrugbyleague.com^
+||execute-api.us-east-1.amazonaws.com^$badfilter # aws api
+||f1prospects.com^
+||fnx3x.com^
+||founseezb.cn^
+||from-ﬂ.com^
+||gaia-acceptance-assets.otravo.com^$badfilter  # Required for website to function
+||gaia-production-translations.otravo.com^$badfilter  # Required for website to functiion
+||gate.rapidsec.net^
+||gen.tr^$badfilter  # TLD
+||getcookiestxt.com^
+||gmail.com.dbl.spamhaus.org^$badfilter  # no a tracker
+||gumlet.io^$badfilter  # video stream||tra.scds.pmdstatic.net
+||happyleafmotion.com^
+||herr.io^
+||hi686.com^
+||hipersushiads.com^
+||hmttoly.com^
+||hostingwp.pl^
+||hotjar.io^
+||i24tech.com^
+||iggcdn.com^$badfilter  # Not a tracker
+||img.meipic.net^
+||img.toppr.com.cn^
+||imgdsg4f35.permalinking.com^
+||infragrid.v.network^
+||is-a-ﬁnancialadvisor.com^
+||is-certiﬂed.com^
+||is-not-certiﬁed.com^
+||jetcommerce.io^
+||kuntaljewels.com^
+||l.google.com^$badfilter
+||leztc.com^
+||lielang618.com^
+||lishuanghao.com^
+||loopme.me^
+||ls.apple.com.akadns.net^$badfilter  # apple maps
+||ls.apple.com.edgesuite.net^$badfilter  # apple maps
+||miam4.cn^
+||nbhxgjz.com^
+||nexage.com^
+||nocookie.net^$badfilter  # CDN
+||ns-mlab.nl^$badfilter
+||opposedarrangement.net^
+||oribi.io^
+||pagespeed-mod.com^
+||pamelasparrowchilds.com^
+||pemsrv.com^
+||permalinking.com^
+||php78mp9v.opposedarrangement.net^
+||pkweb.it^
+||push-apple.com.akadns.net^$badfilter
+||qpoe.com^
+||quadia.webtvframework.com^$badfilter
+||rizhaokq.com^
+||rogerwebberlaw.com^
+||rød25.dk^
+||saledelivery.zone^
+||secure.avaaz.org.dbl.spamhaus.org^$badfilter
+||smoot.apple.cn^
+||smoot.apple.com^
+||spotx.tv^
+||ssp.0531kt.com^
+||static.herr.io^
+||staticlp.com^$badfilter
+||stats.foodwatch.org^
+||sushipool.com^
+||svtrd.com^
+||szxpsg.com^
+||t075.itpro.co.uk^
+||tags.nmrc.nl^
+||tagstra.com.au^
+||taobaoaliyun.cn^
+||textfrees.us^
+||thimatic-apps.com^
+||thisgreencolumn.com^
+||tiganello.com^
+||trafficmanager.net^$badfilter  # Microsoft Cloud
+||ueadlian.com^
+||uzpmrbek.com^
+||wedofollows.com^
+||wka8.com^
+||womenwan.com^
+||wpadmngr.com^
+||xabmjr.com^
+||xkxkud.com^
+||xotap.nl^$badfilter  # CDN
+||xztms.com^
+||xzyituo.com^
+||yellowtail.it^
+||zaralokakalyanafoundation.org^
+||zen.spamhaus.org^$badfilter

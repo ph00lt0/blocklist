@@ -1,9 +1,9 @@
-# Title: ph00lt0 - Blocklist
-# Expires: 1 day
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Homepage: https://github.com/ph00lt0/blocklist
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 *.0.r.msn.com
 *.000dn.com
 *.001union.com
@@ -302,10 +302,12 @@
 *.265.com
 *.268mob.cn
 *.26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
+*.26qxvo.tdum.alibaba.com
 *.26zsd.cn
 *.270degrees.io
 *.27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 *.27qfj.x.incapdns.net
+*.28345.ase.aidcgroup.net
 *.287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 *.28acglz.com
 *.29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2232,11 +2234,9 @@
 *.algonomy.com
 *.algorecs.com
 *.aliabdaal.ck.page
-*.alibaba.com
-*.alicdn.com
+*.alibaba-inc.com
 *.alicloudapi.com
 *.alida.com
-*.aliexpress.com
 *.aliexpress.ru
 *.alikunlun.com
 *.alimama.com
@@ -2776,6 +2776,8 @@
 *.apkdo.com
 *.apkpure.net
 *.aplikacii.com
+*.aplus-sdk.alibaba-inc.com
+*.aplus.aliexpress.com
 *.apm.bigbank.eu
 *.apnarm.net.au
 *.apns.ios.ijinshan.com
@@ -3027,6 +3029,7 @@
 *.as.yuewz.com
 *.as49870.net
 *.asciinema.org
+*.ase.aidcgroup.net
 *.ase.com
 *.asfinagv8.azureedge.net
 *.ashampoo.com
@@ -3056,6 +3059,7 @@
 *.assets.adobedtm.com
 *.assets.adobetm.com
 *.assets.adsttc.com
+*.assets.alicdn.com
 *.assets.cengage.com
 *.assets.contently.com
 *.assets.context.ly
@@ -3785,7 +3789,6 @@
 *.bitbrowser.net
 *.bitcoin-powersupply.com
 *.bitcoinbazis.hu
-*.bitdefender.com
 *.bitdreams.com
 *.bitgravity.com
 *.bitly.com
@@ -8630,6 +8633,7 @@
 *.gtm.wearetriple.com
 *.gtminet.net
 *.gtmniddocks.herokuapp.com
+*.gtmsdd.alicdn.com
 *.gtmucs.cn
 *.gtranslate.io
 *.gtranslate.net
@@ -13964,6 +13968,7 @@
 *.requestmetrics.com
 *.rereddit.com
 *.res-geo.cdn.office.net
+*.res-odx.op-mobile.opera.com
 *.res.adcome.cn
 *.res.aduu.cn
 *.res.gwifi.com.cn
@@ -14276,6 +14281,7 @@
 *.s.ntv.io
 *.s.on-device.com
 *.s.p.youku.com
+*.s.pinimg.com
 *.s.qhupdate.com
 *.s.search.naver.com
 *.s.skimresources.com
@@ -15995,6 +16001,7 @@
 *.tags.adnuntius.com
 *.tags.affiliatefuture.com
 *.tags.chip.de
+*.tags.creativecdn.com
 *.tags.crwdcntrl.net
 *.tags.experian.co.uk
 *.tags.expo9.exponential.com
@@ -16929,6 +16936,7 @@
 *.us-reviews.com
 *.us-u.openx.net
 *.us.tags.newscgp.com
+*.us.ynuf.aliapp.org
 *.us01.rayjump.com
 *.us01campaign.zoom.us
 *.us3.datadoghq.com
@@ -17593,7 +17601,6 @@
 *.wordstream.com
 *.workarea.com
 *.workcomposer.com
-*.workers.dev
 *.workingatcompanyinfo.nl
 *.worldaccelerator.com
 *.worldchasetag.com
@@ -17666,6 +17673,7 @@
 *.www-cultofmac-com.ezoic.net
 *.www-elperiodic-com.translate.goog
 *.www-googletagmanager.l.google.com
+*.www.googletagmanager.com
 *.www138.civicscience.com
 *.wx.xwjqr.com
 *.wxsnsdy.wxs.qq.com

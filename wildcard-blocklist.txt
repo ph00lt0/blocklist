@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 *.0.r.msn.com
 *.000dn.com
 *.001union.com
@@ -302,12 +302,10 @@
 *.265.com
 *.268mob.cn
 *.26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-*.26qxvo.tdum.alibaba.com
 *.26zsd.cn
 *.270degrees.io
 *.27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 *.27qfj.x.incapdns.net
-*.28345.ase.aidcgroup.net
 *.287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 *.28acglz.com
 *.29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -554,6 +552,7 @@
 *.57union.com
 *.58.com
 *.58dp.net
+*.5aug.com
 *.5bir.xyz
 *.5d3x.net
 *.5d79bce7-5d2b-427e-a6c4-b89b6c7bf048.edge.permutive.app
@@ -1618,6 +1617,7 @@
 *.adsafeprotected.com
 *.adsafety.net
 *.adsame.com
+*.adsappier.com
 *.adsatt.abcnews.starwave.com
 *.adsatt.espn.starwave.com
 *.adsbridge.com
@@ -1969,6 +1969,7 @@
 *.advertising-api-eu.amazon.com
 *.advertising-cdn.dpgmedia.cloud
 *.advertising-module.api.dpgmedia.cloud
+*.advertising.a2z.com
 *.advertising.amazon.dev
 *.advertising.apple.com
 *.advertising.cn
@@ -2231,9 +2232,11 @@
 *.algonomy.com
 *.algorecs.com
 *.aliabdaal.ck.page
-*.alibaba-inc.com
+*.alibaba.com
+*.alicdn.com
 *.alicloudapi.com
 *.alida.com
+*.aliexpress.com
 *.aliexpress.ru
 *.alikunlun.com
 *.alimama.com
@@ -2773,8 +2776,6 @@
 *.apkdo.com
 *.apkpure.net
 *.aplikacii.com
-*.aplus-sdk.alibaba-inc.com
-*.aplus.aliexpress.com
 *.apm.bigbank.eu
 *.apnarm.net.au
 *.apns.ios.ijinshan.com
@@ -2792,7 +2793,9 @@
 *.app-ab41.marketo.com
 *.app-ads-txt.com
 *.app-advertise.zhihuishu.com
+*.app-analytics-services-att.com
 *.app-analytics-services.com
+*.app-analytics-v2.snapchat.com
 *.app-cdn.minepi.com
 *.app-chatsworthweb-prod.azurewebsites.net
 *.app-digitalgate-prd-ol.azurewebsites.net
@@ -3024,7 +3027,6 @@
 *.as.yuewz.com
 *.as49870.net
 *.asciinema.org
-*.ase.aidcgroup.net
 *.ase.com
 *.asfinagv8.azureedge.net
 *.ashampoo.com
@@ -3042,6 +3044,7 @@
 *.askgamblers.com
 *.asksid.ai
 *.askyourself.app
+*.asnapieu.com
 *.aso1.net
 *.asocks.com
 *.aspignitean.com
@@ -3053,7 +3056,6 @@
 *.assets.adobedtm.com
 *.assets.adobetm.com
 *.assets.adsttc.com
-*.assets.alicdn.com
 *.assets.cengage.com
 *.assets.contently.com
 *.assets.context.ly
@@ -3783,6 +3785,7 @@
 *.bitbrowser.net
 *.bitcoin-powersupply.com
 *.bitcoinbazis.hu
+*.bitdefender.com
 *.bitdreams.com
 *.bitgravity.com
 *.bitly.com
@@ -4118,7 +4121,6 @@
 *.bullseyenorth.com
 *.bunchbox.co
 *.bungie.net
-*.bunnings.com.au
 *.bunnycdn.ru
 *.bur.nu
 *.bureaulidwienvandeven.nl
@@ -4851,6 +4853,7 @@
 *.chat-assets.frontapp.com
 *.chat-insights.getstream.io
 *.chat-us.libanswers.com
+*.chat-widget.d3x.ai
 *.chat.covid19.go.id
 *.chat.ind.nl
 *.chat.kindlycdn.com
@@ -5164,7 +5167,6 @@
 *.cloudflareinsights.com
 *.cloudflareresearch.com
 *.cloudfront.xp-assets.aiv-cdn.net
-*.cloudimg.io
 *.cloudiq.com
 *.cloudlogobox.com
 *.cloudly.space
@@ -7053,6 +7055,7 @@
 *.easyautotagging.com
 *.easybrain.com
 *.easygdpr.b-cdn.net
+*.easylockdownapp.com
 *.easyplatform.com
 *.easypromo.nz
 *.easypromosapp.com
@@ -7143,6 +7146,7 @@
 *.ej3.xyz
 *.ekata.com
 *.ekipa.mk
+*.ekomi.com
 *.ekomi.de
 *.ekomiapps.de
 *.eksiup.com
@@ -7243,6 +7247,7 @@
 *.en.yeahmobi.com
 *.en25.com
 *.enable.co.il
+*.enalyzer.com
 *.encharge.io
 *.encyclopaediabritann.tt.omtrdc.net
 *.end.nmo-ep.nl
@@ -7252,6 +7257,7 @@
 *.endpoint2.collection.sumologic.com
 *.enepal.net
 *.energetischhuis.nl
+*.energieprofimoegle.de
 *.energokst.kz
 *.energyarts.com
 *.energyhealingzone.com
@@ -7641,6 +7647,7 @@
 *.federatedml-pa.googleapis.com
 *.feed.baidu.com
 *.feedad.com
+*.feedback-ekomi.com
 *.feedback-pa.clients6.google.com
 *.feedback-pa.googleapis.com
 *.feedback.bol.com
@@ -7750,6 +7757,7 @@
 *.flagship.io
 *.flareapp.io
 *.flash.sec.intl.miui.com
+*.flash4kiptv.com
 *.flashcasino.com
 *.flashtalking.com
 *.flattr.com
@@ -8622,8 +8630,9 @@
 *.gtm.wearetriple.com
 *.gtminet.net
 *.gtmniddocks.herokuapp.com
-*.gtmsdd.alicdn.com
 *.gtmucs.cn
+*.gtranslate.io
+*.gtranslate.net
 *.guangzhuiyuan.com
 *.guenther.de
 *.guess.union2.50bang.org
@@ -10342,6 +10351,7 @@
 *.kortinguitnodiging.nl
 *.kosmo-call.de
 *.kosmocall.de
+*.kosmosbv.nl
 *.kostenloseerotik.org
 *.kota-yoshida.com
 *.kparser.com
@@ -10368,6 +10378,7 @@
 *.ku9377.com
 *.kuaikan.netmon.360safe.com
 *.kubient.com
+*.kudobuzz.com
 *.kudosresearch.com
 *.kuguopush.com
 *.kuka.norobet.de
@@ -10438,6 +10449,7 @@
 *.lc.cx
 *.lcdn-locator.apple.com
 *.lcdn-registration.apple.com
+*.lcp.bio
 *.lcs.dev.surepush.cn
 *.lcs.naver.com
 *.ld.paddle.com
@@ -11383,6 +11395,7 @@
 *.metrics-collector.cloudability.com
 *.metrics-dra.dt.hicloud.com
 *.metrics-drcn.dt.hicloud.com
+*.metrics-ingress.svc.vinted.com
 *.metrics.agent.datadoghq.com
 *.metrics.api.drift.com
 *.metrics.apple.com
@@ -12080,6 +12093,7 @@
 *.nitroscripts.com
 *.niurenw.com
 *.nixos-metrics.cachix.org
+*.njdaisen.com
 *.njdijiani.com
 *.njfsk.com
 *.njlottery.com
@@ -12544,6 +12558,7 @@
 *.organizer.bizzabo.com
 *.oribi.io
 *.orion-natuurgeneeskunde.nl
+*.orion.bendingspoons.com
 *.orit-zilberman.com
 *.orjq.net
 *.orthofyto.com
@@ -12774,6 +12789,7 @@
 *.pay-per-leads.com
 *.pay.mobile.sina.cn
 *.pay838.com
+*.payment.rewards.brave.com
 *.payments.amazon.com
 *.paypalusa.me
 *.paywall.production.ippen.space
@@ -13948,7 +13964,6 @@
 *.requestmetrics.com
 *.rereddit.com
 *.res-geo.cdn.office.net
-*.res-odx.op-mobile.opera.com
 *.res.adcome.cn
 *.res.aduu.cn
 *.res.gwifi.com.cn
@@ -13985,6 +14000,7 @@
 *.retency.com
 *.retrainthebrain.org
 *.returngo.ai
+*.reunir.com
 *.rev.balkanmediagroup.com
 *.rev.fapdu.com
 *.revcontent.com
@@ -14129,6 +14145,7 @@
 *.rover.ebay.ph
 *.rover.ebay.pl
 *.rovno.xyz
+*.rowzone.com
 *.royal-panda.ca
 *.royalcasino.dk
 *.royalpanda.com
@@ -14259,7 +14276,6 @@
 *.s.ntv.io
 *.s.on-device.com
 *.s.p.youku.com
-*.s.pinimg.com
 *.s.qhupdate.com
 *.s.search.naver.com
 *.s.skimresources.com
@@ -14524,6 +14540,7 @@
 *.sdkinit.taobao.com
 *.sdkintgiad.apple.com
 *.sdkm.w.inmobi.com
+*.sdkopmetrics-eu.dsp-api.moloco.com
 *.sdktm.w.inmobi.com
 *.sdkv2.imaginationunwired.com
 *.sdlmedia.com
@@ -14811,6 +14828,7 @@
 *.shopapps.in
 *.shopboard.ltd
 *.shopdirect.com
+*.shopicial.com
 *.shopify-gtm-suite.getelevar.com
 *.shopify.admetrics.events
 *.shopkick.com
@@ -15186,6 +15204,7 @@
 *.speegleconstructionllc.com
 *.sph.com.sg
 *.sphdigital.com
+*.spheremall.com
 *.spicegems.com
 *.spicymobile.pl
 *.spidersense.bendingspoons.com
@@ -15691,6 +15710,7 @@
 *.subswin.com
 *.sucodb.com
 *.sugar.zhihu.com
+*.suggestions.bol.com
 *.suggestqueries.google.com
 *.suhasforvirginia.com
 *.sukigyik.xyz
@@ -15975,7 +15995,6 @@
 *.tags.adnuntius.com
 *.tags.affiliatefuture.com
 *.tags.chip.de
-*.tags.creativecdn.com
 *.tags.crwdcntrl.net
 *.tags.experian.co.uk
 *.tags.expo9.exponential.com
@@ -16071,6 +16090,7 @@
 *.tcmclassics.org
 *.tcmworld.org
 *.tcommunity.linkedin.com
+*.td-pixel.c.appier.net
 *.td.com
 *.td.intelliresponse.com
 *.td.yieldify.com
@@ -16135,6 +16155,7 @@
 *.telemetry.microsoft.com
 *.telemetry.mozilla.org
 *.telemetry.notable.app
+*.telemetry.sdk.inmobi.com
 *.telemetry.split.io
 *.telemetry.swe.quicinc.com
 *.telemetry.urs.microsoft.com
@@ -16488,6 +16509,7 @@
 *.tracking.dekbed-discounter.nl
 *.tracking.elektramat.nl
 *.tracking.epicgames.com
+*.tracking.eu.miui.com
 *.tracking.g2crowd.com
 *.tracking.hostgator.com
 *.tracking.hyros.com
@@ -16509,6 +16531,7 @@
 *.tracking.printabout.nl
 *.tracking.retailrocket.net
 *.tracking.rus.miui.com
+*.tracking.smartwatchbanden.nl
 *.tracking.swap.fm
 *.tracking.swogo.net
 *.tracking.vviinn.com
@@ -16906,7 +16929,6 @@
 *.us-reviews.com
 *.us-u.openx.net
 *.us.tags.newscgp.com
-*.us.ynuf.aliapp.org
 *.us01.rayjump.com
 *.us01campaign.zoom.us
 *.us3.datadoghq.com
@@ -17505,6 +17527,7 @@
 *.widgets.sprinklecontent.com
 *.widgets.trustedshops.com
 *.widgets.wp.com
+*.widgetsmith.app
 *.widilo.co.uk
 *.wijkopenautos.nl
 *.wijwedden.net
@@ -17570,6 +17593,7 @@
 *.wordstream.com
 *.workarea.com
 *.workcomposer.com
+*.workers.dev
 *.workingatcompanyinfo.nl
 *.worldaccelerator.com
 *.worldchasetag.com
@@ -17642,7 +17666,6 @@
 *.www-cultofmac-com.ezoic.net
 *.www-elperiodic-com.translate.goog
 *.www-googletagmanager.l.google.com
-*.www.googletagmanager.com
 *.www138.civicscience.com
 *.wx.xwjqr.com
 *.wxsnsdy.wxs.qq.com

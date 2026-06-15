@@ -1,27 +1,27 @@
-
-! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-! Expires: 1 day
-! Homepage: https://github.com/ph00lt0/blocklist
-! Issue tracker: https://github.com/ph00lt0/blocklist
 ! Title: ph00lt0 - Blocklist
+! Expires: 1 day
+! Issue tracker: https://github.com/ph00lt0/blocklist
+! Homepage: https://github.com/ph00lt0/blocklist
+! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 ###BorlabsCookieBox
-###consent-container
-###cookieConsentModal
 ###CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll
 ###CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection
+###__framer-cookie-component-button-accept
+###consent-container
+###cookieConsentModal
 ###didomi-host
 ###didomi-notice-agree-button
 ###moove_gdpr_cookie_info_bar
 ###onetrust-accept-btn-handler
 ###transcend-consent-manager-tcf-ui
 ###wt-cli-accept-all-btn
-###__framer-cookie-component-button-accept
+##.CybotCookiebotDialogActive
 ##.accept-cookies
 ##.brlbs-btn-accept-all
 ##.c-consent-bar
 ##.cookie-notice
 ##.cookie-notification
-##.CybotCookiebotDialogActive
 ##.iziModal-overlay
 ##.js-cookie-accept-all-button
 ##.react-cookie-notice-container
@@ -33,30 +33,35 @@
 ##[value="Accept all cookies"]
 ##[value="Accepteer alle cookies"]
 *$permissions=browsing-topics=()
+*$removeparam=AID
+*$removeparam=AIDNAME_
+*$removeparam=CAMPAIGNID_
+*$removeparam=CAMPAIGNNAME_
+*$removeparam=CID
+*$removeparam=CIDNAME_
+*$removeparam=PLACEMENT
 *$removeparam=aclk
+*$removeparam=ad_id
 *$removeparam=adcid
-*$removeparam=adgroupid
 *$removeparam=adgroup_id
+*$removeparam=adgroupid
 *$removeparam=adid
 *$removeparam=adj_adgroup
 *$removeparam=adj_campaign
 *$removeparam=adj_deep_link
 *$removeparam=adj_t
-*$removeparam=adsetid
 *$removeparam=adset_id
-*$removeparam=ad_id
-*$removeparam=affid
-*$removeparam=affiliate_id
-*$removeparam=afftrack
+*$removeparam=adsetid
+*$removeparam=af_adset
+*$removeparam=af_xp
 *$removeparam=aff_id
 *$removeparam=aff_sub
 *$removeparam=aff_sub1
 *$removeparam=aff_sub2
 *$removeparam=aff_sub3
-*$removeparam=af_adset
-*$removeparam=af_xp
-*$removeparam=AID
-*$removeparam=AIDNAME_
+*$removeparam=affid
+*$removeparam=affiliate_id
+*$removeparam=afftrack
 *$removeparam=amc
 *$removeparam=analytics-id
 *$removeparam=as_source
@@ -68,20 +73,17 @@
 *$removeparam=awinmid
 *$removeparam=bl3nlclid
 *$removeparam=campaign
-*$removeparam=campaignid
-*$removeparam=CAMPAIGNID_
-*$removeparam=CAMPAIGNNAME_
 *$removeparam=campaign_id
+*$removeparam=campaignid
 *$removeparam=campid
 *$removeparam=channable
-*$removeparam=CID
-*$removeparam=CIDNAME_
 *$removeparam=clickId
-*$removeparam=clickref
 *$removeparam=click_id
+*$removeparam=clickid
+*$removeparam=clickref
 *$removeparam=cmp
-*$removeparam=creativeid
 *$removeparam=creative_id
+*$removeparam=creativeid
 *$removeparam=cvid
 *$removeparam=dclid
 *$removeparam=dub_id
@@ -114,18 +116,11 @@
 *$removeparam=igshid
 *$removeparam=irclickid
 *$removeparam=kayakclickid
-*$removeparam=linkId
 *$removeparam=li_fat_id
+*$removeparam=linkId
 *$removeparam=mc_eid
 *$removeparam=media_source
 *$removeparam=msclkid
-*$removeparam=mtm_campaign
-*$removeparam=mtm_cid
-*$removeparam=mtm_content
-*$removeparam=mtm_group
-*$removeparam=mtm_keyword
-*$removeparam=mtm_medium
-*$removeparam=mtm_source
 *$removeparam=mt_adset
 *$removeparam=mt_campaign
 *$removeparam=mt_creative
@@ -136,13 +131,20 @@
 *$removeparam=mt_sub3
 *$removeparam=mt_sub4
 *$removeparam=mt_sub5
-*$removeparam=networkid
+*$removeparam=mtm_campaign
+*$removeparam=mtm_cid
+*$removeparam=mtm_content
+*$removeparam=mtm_group
+*$removeparam=mtm_keyword
+*$removeparam=mtm_medium
+*$removeparam=mtm_source
 *$removeparam=network_id
+*$removeparam=networkid
 *$removeparam=nlclid
 *$removeparam=otag
-*$removeparam=partnerid
 *$removeparam=partner_id
 *$removeparam=partner_key
+*$removeparam=partnerid
 *$removeparam=pid
 *$removeparam=pk_campaign
 *$removeparam=pk_cid
@@ -152,23 +154,23 @@
 *$removeparam=pk_kwd
 *$removeparam=pk_medium
 *$removeparam=pk_source
-*$removeparam=PLACEMENT
-*$removeparam=placementid
 *$removeparam=placement_id
-*$removeparam=refid
+*$removeparam=placementid
 *$removeparam=ref_id
-*$removeparam=scclid
+*$removeparam=refid
 *$removeparam=sc_cmp
-*$removeparam=sourceid
+*$removeparam=scclid
 *$removeparam=source_id
+*$removeparam=sourceid
 *$removeparam=subId1
+*$removeparam=sub_id
+*$removeparam=subid1
 *$removeparam=subid2
 *$removeparam=subid3
-*$removeparam=sub_id
 *$removeparam=tclid
 *$removeparam=trackid
-*$removeparam=trackingid
 *$removeparam=tracking_id
+*$removeparam=trackingid
 *$removeparam=trk
 *$removeparam=ttclid
 *$removeparam=twclid
@@ -176,9 +178,9 @@
 *$removeparam=uclick_id
 *$removeparam=utm-source
 *$removeparam=utm_ad
+*$removeparam=utm_ad_group
 *$removeparam=utm_adgroup
 *$removeparam=utm_adset
-*$removeparam=utm_ad_group
 *$removeparam=utm_affiliate
 *$removeparam=utm_affiliate_id
 *$removeparam=utm_audience
@@ -214,8 +216,8 @@
 *$removeparam=utm_social
 *$removeparam=utm_social-type
 *$removeparam=utm_source
-*$removeparam=utm_sourceid
 *$removeparam=utm_source_platform
+*$removeparam=utm_sourceid
 *$removeparam=utm_targeting
 *$removeparam=utm_term
 *$removeparam=utm_test
@@ -237,11 +239,152 @@
 @@||fonts.googleapis.com^$domain=google.com
 @@||fonts.gstatic.com^$badfilter
 @@||i.pinimg.com^$domain=pinterest.com
+@@||payment.rewards.brave.com^ # required for Brave Origin
 @@||s.pinimg.com^$domain=pinterest.com
 @@||socialize.eu1.gigya.com^$xhr,domain=videoland.com # unbreak videoland
 @@||streetviewpixels-pa.googleapis.com^$domain=google.com  # Exception for streetview on google.com
-about.facebook.com##+js(rc, hasCookieBanner, body, stay)
+^*/ads*.js^
+^*/akam/*^
+^*/analytics*.js^
+^*/coveo/*^
+^*/fingerprint*.js^
+^*/js/tracking/*^
+^*/logs/*^
+^*/metrics/*^
+^*/mnd-track-client-*.js^
+^*/popupclick/*^
+^*/telemetry/*^
+^*/traces/*^
+^*/usercentrics/*.js^
+^*/web-pixels@*^
+^*webtrekk_v*.js^
+^.ghost/analytics^
+^/Xsarus/xsa-dlk/*/js/lib/logger^
+^AppMeasurement.min.js^
+^Master_AOL.js^
+^Xsarus/xsa-dlk/*/Xsarus_Cookie/js/*.js^
+^Xsarus/xsa-dlk/*/js-cookie/cookie-wrapper*js^
+^Xsarus/xsa-dlk/*/js/lib/logger^
+^Xsarus_ClickCollect/*.js^
+^activitymonitor.js^
+^adHoc.min.js^
+^adobe-analytics-loader.js^
+^adrum-config.js^
+^adrum.js^
+^ads.min.js^
+^advert-xandr.js^
+^affiliateBanner.AOL.js^
+^analytics.js^
+^antifinger.*.js^
+^api/site/analytics^
+^autotrack.js^
+^banner-tagging.min.js^
+^bazaarVoice.js^
+^beacon.js^
+^client-monitor.*.js^
+^complianz.min.js^
+^consent-tracking-api.js^
+^cookie-message-AllBrands.min.js^
+^cookieBanner.AOL.js^
+^cookieBar.js^
+^cookiebanner.js^
+^cookieconsent-onetrust-js.js^
+^cookieconsent.min.js^
+^coveo*.js^
+^criteo.min.js^
+^dataplane.rudderstack.com^
+^delete_pixel.gif^
+^dl.clickmap.min.js^
+^dl.cmp.min.js^
+^dwanalytics-*.js^
+^emailCapture.min.js^
+^engagebox.js^
+^event-center-*.js^
+^event.gif^
+^facebook.min.js^
+^fastclick.js^
+^fathom.min.js^
+^fingerprint.min.js^
+^fingerprint2.min.js^
+^fpdata.js^
+^gh_show_ads.js^
+^goals.*.min.js^
+^google-analytics-universal-cart.min.js^
+^google-analytics-universal.min.js^
+^google-tag-manager-cart.min.js^
+^google_tag.script.js^
+^gtag.js^
+^gtm.*.js^
+^gtm.js^
+^ikea-abtesting-*.js^
+^incognito.*.js^
+^infp.*.js^
+^initializeSentry-*.js^
+^kakao.min.js^
+^keepalive.min.js^
+^loadbee_integration.js^
+^log4javascript.js^
+^log_activity^
+^log_event^
+^logger.min.js^
+^lsget.html^
+^matomo.js^
+^megaMenuWidget.js^
+^metaTag.min.js^
+^mgnl.js^
+^mixpanel.js^
+^newrelic-browser-client.min.js^
+^officebrowserfeedbackstrings.js^
+^optgroup.min.js^
+^ostro.js^
+^ot-optanon.js^
+^otBannerSdk.js^
+^page_hit^
+^pageview.js^
+^piano-*.js^
+^piwik-*.js^
+^piwik.js^
+^pixel.gif^
+^pixel.modern.js^
+^popup-cookie.js^
+^prebid.js^
+^presetziezo.js^
+^pubble.stats.min.js^
+^quantcast-pixel.js^
+^ref.html^
+^ref.php^
+^report.min.js^
+^require-cookie.js^
+^rexdot.js^
+^ruxitagentjs_*.js^
+^sdk_analysis.*.js^
+^sentry-file-uploader^
+^sentry.*.chunk.js^
+^sentry.js^
+^shop_events_listener-*.js^
+^signifyd-fingerprint.min.js^
+^smarttag.js^
+^sst-tracking.min.js^
+^surj/shell/util/Logger.js^
+^tag.js^
+^temptation.js^
+^tools/multipixel/sys.js^
+^tracing_layer.*^
+^track.js^
+^tracker.js^
+^tracking_event.js^
+^tracking_pixel^
+^trekkie.storefront.*.min.js^
+^umami.js^
+^utag.js^
+^utag.sync.js^
+^utm.*.min.js^
+^web-pixel-*.js^
+^web-pixel-shopify-app-pixel@*/sandbox/worker.modern.js^
+^webBehaviorTracking.min.js^
+^webtrekk.js^
 about.facebook.com##+js(rc, _31e, div, stay)
+about.facebook.com##+js(rc, hasCookieBanner, body, stay)
 actie.hetvergetenkind.nl##body:style(overflow: auto!important)
 actie.thepollinators.org###kentaa_consent_modal
 actie.thepollinators.org##+js(rc, modal-open, body, stay)
@@ -362,21 +505,21 @@ duckduckgo.com##+js(set-cookie, aq, -1)
 duckduckgo.com##+js(set-cookie, au, -1)
 duckduckgo.com##+js(set-cookie, ax, -1)
 duckduckgo.com##+js(set-cookie, n, -1)
+duckduckgo.com##.O9Ipab51rBntYb0pwOQn
 duckduckgo.com##.c1GwqC__eRoEs0cLTIfL
 duckduckgo.com##.feedback-prompt
 duckduckgo.com##.footer
 duckduckgo.com##.homepage-cta-section_scrollCta__HuSCL
 duckduckgo.com##.js-feedback-btn-wrap
 duckduckgo.com##.mobile-homepage_atbBadge__wquuL
-duckduckgo.com##.O9Ipab51rBntYb0pwOQn
 duckduckgo.com##.showcase
 duckduckgo.com##.tagline_tagline__xryVo
 duckduckgo.com##[data-testid="serp-popover-promo"]
 ed.nl###pg-accept-btn
 ed.nl###stack-accept-all
 estunt.nl##+js(aopr, document.title)
-facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
 facebook.com##._9oet._9ofg._9oeu._3-8x._54k8
+facebook.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
 fd.nl##.fd-message
 ffm.to##.bg-overlay
 ffm.to##.privacy-notice-gdpr
@@ -422,10 +565,10 @@ inet.se##.c1c4t0vi
 ing.nl##.cookie-description
 ing.nl##[name="cookiePreference"][label="Compleet"]
 ing.nl##[name="cookiePreference"][label="Persoonlijk"]
+instagram.com##._56bt._a6gi._56bs._52jh._54k8
 instagram.com##.bIiDR.aOOlW
 instagram.com##.cB_4K.y3zKF._4pI4F.L3NKy.sqdOP
 instagram.com##.ta1k9048.s1i5eluu.tw6a2znq.d1544ag0.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.ri5dt5u2.isp2s0ed.ak7q8e6j.kt9q3ron.btwxx1t3.owycx6da.bp9cbjyn.taijpn5t.pfnyh3mw.j83agx80.du4w35lb.l9j0dhe7
-instagram.com##._56bt._a6gi._56bs._52jh._54k8
 itscope.com##body:style(overflow: auto!important)
 joe.nl###pg-accept-btn
 joe.nl###stack-accept-all
@@ -495,11 +638,11 @@ nachtvandevluchteling.nl##+js(rc, modal-open, body, stay)
 nachtvandevluchteling.nl##.modal-backdrop
 nl.schipholtickets.com##.Overlay_overlay__3_p4L
 nos.nl###ccm_notification_wrapper
+nos.nl##+js(cookie-remover, _ain_cid)
+nos.nl##+js(cookie-remover, _ain_uid)
 nos.nl##+js(cookie-remover, atidvisitor)
 nos.nl##+js(cookie-remover, atuserid)
 nos.nl##+js(cookie-remover, kantar_id)
-nos.nl##+js(cookie-remover, _ain_cid)
-nos.nl##+js(cookie-remover, _ain_uid)
 npo.nl##ccm-notification
 npostart.nl##.click-away
 npostart.nl##.option-one.ticket-banner
@@ -518,17 +661,17 @@ nytimes.com###dock-container
 nytimes.com###fides-overlay
 nytimes.com###google-one-tap-container
 nytimes.com###user-modal-drawer
+nytimes.com##.ReactModalPortal
+nytimes.com##.ReactModal__Body--open:remove()
 nytimes.com##.e1xxpj0j1
 nytimes.com##.fides-overlay
 nytimes.com##.fides-overlay-modal-link-shown:remove()
 nytimes.com##.isPersonalizedAddOn
 nytimes.com##.qJTHM:remove()
-nytimes.com##.ReactModalPortal
-nytimes.com##.ReactModal__Body--open:remove()
-nytimes.com##body:style(overflow: auto!important)
 nytimes.com##[data-testid="StandardAd"]
 nytimes.com##[name="__tcfapiLocator"]
 nytimes.com##[title="Sign in with Google Dialogue"]
+nytimes.com##body:style(overflow: auto!important)
 oebb.at##.consent-banner
 ohra.nl##+js(rc, no-overflow-y, body, stay)
 ohra.nl##kpcf-cookie-toestemming
@@ -595,8 +738,8 @@ saturn.de###mms-consent-portal-container
 sbnl-natuuromdehoek.nl###kentaa_consent_modal
 sbnl-natuuromdehoek.nl##+js(rc, modal-open, body, stay)
 sbnl-natuuromdehoek.nl##.modal-backdrop
-scholieren.com##.klikurl
 scholieren.com##.XBFUqF
+scholieren.com##.klikurl
 scientias.nl##.ndm-desktop-only
 scientias.nl##.ndm-mobile-only
 security.nl##.banner_leaderboard
@@ -687,146 +830,6 @@ zendis.de###cc-main
 zgt.nl##.cookie-wrapper
 ziekenhuischeck.nl##.toaster
 ziekenhuischeck.nl##.toaster-overlay
-^*/ads*.js^
-^*/akam/*^
-^*/analytics*.js^
-^*/coveo/*^
-^*/fingerprint*.js^
-^*/js/tracking/*^
-^*/logs/*^
-^*/metrics/*^
-^*/mnd-track-client-*.js^
-^*/popupclick/*^
-^*/telemetry/*^
-^*/traces/*^
-^*/usercentrics/*.js^
-^*/web-pixels@*^
-^*webtrekk_v*.js^
-^.ghost/analytics^
-^/Xsarus/xsa-dlk/*/js/lib/logger^
-^activitymonitor.js^
-^adHoc.min.js^
-^adobe-analytics-loader.js^
-^adrum-config.js^
-^adrum.js^
-^ads.min.js^
-^advert-xandr.js^
-^affiliateBanner.AOL.js^
-^analytics.js^
-^antifinger.*.js^
-^api/site/analytics^
-^AppMeasurement.min.js^
-^autotrack.js^
-^banner-tagging.min.js^
-^bazaarVoice.js^
-^beacon.js^
-^client-monitor.*.js^
-^complianz.min.js^
-^consent-tracking-api.js^
-^cookie-message-AllBrands.min.js^
-^cookieBanner.AOL.js^
-^cookiebanner.js^
-^cookieBar.js^
-^cookieconsent-onetrust-js.js^
-^cookieconsent.min.js^
-^coveo*.js^
-^criteo.min.js^
-^dataplane.rudderstack.com^
-^delete_pixel.gif^
-^dl.clickmap.min.js^
-^dl.cmp.min.js^
-^dwanalytics-*.js^
-^emailCapture.min.js^
-^engagebox.js^
-^event-center-*.js^
-^event.gif^
-^facebook.min.js^
-^fastclick.js^
-^fathom.min.js^
-^fingerprint.min.js^
-^fingerprint2.min.js^
-^fpdata.js^
-^gh_show_ads.js^
-^goals.*.min.js^
-^google-analytics-universal-cart.min.js^
-^google-analytics-universal.min.js^
-^google-tag-manager-cart.min.js^
-^google_tag.script.js^
-^gtag.js^
-^gtm.*.js^
-^gtm.js^
-^ikea-abtesting-*.js^
-^incognito.*.js^
-^infp.*.js^
-^initializeSentry-*.js^
-^kakao.min.js^
-^keepalive.min.js^
-^loadbee_integration.js^
-^log4javascript.js^
-^logger.min.js^
-^log_activity^
-^log_event^
-^lsget.html^
-^Master_AOL.js^
-^matomo.js^
-^megaMenuWidget.js^
-^metaTag.min.js^
-^mgnl.js^
-^mixpanel.js^
-^newrelic-browser-client.min.js^
-^officebrowserfeedbackstrings.js^
-^optgroup.min.js^
-^ostro.js^
-^ot-optanon.js^
-^otBannerSdk.js^
-^pageview.js^
-^page_hit^
-^piano-*.js^
-^piwik-*.js^
-^piwik.js^
-^pixel.gif^
-^pixel.modern.js^
-^popup-cookie.js^
-^prebid.js^
-^presetziezo.js^
-^pubble.stats.min.js^
-^quantcast-pixel.js^
-^ref.html^
-^ref.php^
-^report.min.js^
-^require-cookie.js^
-^rexdot.js^
-^ruxitagentjs_*.js^
-^sdk_analysis.*.js^
-^sentry-file-uploader^
-^sentry.*.chunk.js^
-^sentry.js^
-^shop_events_listener-*.js^
-^signifyd-fingerprint.min.js^
-^smarttag.js^
-^sst-tracking.min.js^
-^surj/shell/util/Logger.js^
-^tag.js^
-^temptation.js^
-^tools/multipixel/sys.js^
-^tracing_layer.*^
-^track.js^
-^tracker.js^
-^tracking_event.js^
-^tracking_pixel^
-^trekkie.storefront.*.min.js^
-^umami.js^
-^utag.js^
-^utag.sync.js^
-^utm.*.min.js^
-^web-pixel-*.js^
-^web-pixel-shopify-app-pixel@*/sandbox/worker.modern.js^
-^webBehaviorTracking.min.js^
-^webtrekk.js^
-^Xsarus/xsa-dlk/*/js-cookie/cookie-wrapper*js^
-^Xsarus/xsa-dlk/*/js/lib/logger^
-^Xsarus/xsa-dlk/*/Xsarus_Cookie/js/*.js^
-^Xsarus_ClickCollect/*.js^
 ||*-gdprlock^
 ||*-pa.googleapis.com^$third-party
 ||*.2o7.net^
@@ -1137,12 +1140,10 @@ ziekenhuischeck.nl##.toaster-overlay
 ||265.com^
 ||268mob.cn^
 ||26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com^
-||26qxvo.tdum.alibaba.com^
 ||26zsd.cn^
 ||270degrees.io^
 ||27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com^
 ||27qfj.x.incapdns.net^
-||28345.ase.aidcgroup.net^
 ||287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com^
 ||28acglz.com^
 ||29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com^
@@ -1392,6 +1393,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||57union.com^
 ||58.com^
 ||58dp.net^
+||5aug.com^
 ||5bir.xyz^
 ||5d3x.net^
 ||5d79bce7-5d2b-427e-a6c4-b89b6c7bf048.edge.permutive.app^
@@ -1896,8 +1898,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||acmi-website-media-prod.s3.amazonaws.com^
 ||acookie.linezing.com^
 ||acotedemoi.com^
-||acoustic.com^
 ||acoustic.co^
+||acoustic.com^
 ||acp-magento.appspot.com^
 ||acp-mobile.appspot.com^
 ||acpaasui.s3.amazonaws.com^
@@ -2303,8 +2305,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||adobe-analytics-dc.belastingdienst.nl^
 ||adobe-campaign.com^
 ||adobe-dns.adobe.com^
-||adobe.com^$badfilter  # not a tracker
 ||adobe.com^$badfilter  # Not just tracking company
+||adobe.com^$badfilter  # not a tracker
 ||adobe.io^$badfilter  # rdc.adobe.io is used for download of software
 ||adobe.net^
 ||adobe.tt.omtrdc.net^
@@ -2489,6 +2491,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||adsafeprotected.com^
 ||adsafety.net^
 ||adsame.com^
+||adsappier.com^
 ||adsatt.abcnews.starwave.com^
 ||adsatt.espn.starwave.com^
 ||adsbridge.com^
@@ -2537,8 +2540,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||adservice.google.bs^
 ||adservice.google.bt^
 ||adservice.google.by^
-||adservice.google.cat^
 ||adservice.google.ca^
+||adservice.google.cat^
 ||adservice.google.cc^
 ||adservice.google.cd^
 ||adservice.google.cf^
@@ -2840,6 +2843,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||advertising-api-eu.amazon.com^
 ||advertising-cdn.dpgmedia.cloud^
 ||advertising-module.api.dpgmedia.cloud^
+||advertising.a2z.com^
 ||advertising.amazon.dev^
 ||advertising.apple.com^
 ||advertising.cn^
@@ -2978,8 +2982,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||agency-aurora.com^
 ||agentgraphique.com^
 ||ageverif.com^
-||ageverify.com^
 ||ageverify.co^
+||ageverify.com^
 ||aggle.net^
 ||aggregateknowledge.com^
 ||aghtag.tech^
@@ -3116,9 +3120,11 @@ ziekenhuischeck.nl##.toaster-overlay
 ||algonomy.com^
 ||algorecs.com^
 ||aliabdaal.ck.page^
-||alibaba-inc.com^
+||alibaba.com^
+||alicdn.com^
 ||alicloudapi.com^
 ||alida.com^
+||aliexpress.com^
 ||aliexpress.ru^
 ||alikunlun.com^
 ||alimama.com^
@@ -3204,6 +3210,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||amazon.*^$removeparam=tag
 ||amazon.co.jp^$badfilter  # not a tracker
 ||amazon.co.uk^$badfilter  # Not a tracker
+||amazon.co.uk^$badfilter  # not a tracker
 ||amazon.com^$badfilter  # not a tracker
 ||amazon.de^$badfilter  # Amazon store
 ||amazonbuyhelp.blogspot.com^
@@ -3688,8 +3695,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||apkdo.com^
 ||apkpure.net^
 ||aplikacii.com^
-||aplus-sdk.alibaba-inc.com^
-||aplus.aliexpress.com^
 ||apm.bigbank.eu^
 ||apnarm.net.au^
 ||apns.ios.ijinshan.com^
@@ -3707,7 +3712,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||app-ab41.marketo.com^
 ||app-ads-txt.com^
 ||app-advertise.zhihuishu.com^
+||app-analytics-services-att.com^
 ||app-analytics-services.com^
+||app-analytics-v2.snapchat.com^
 ||app-cdn.minepi.com^
 ||app-chatsworthweb-prod.azurewebsites.net^
 ||app-digitalgate-prd-ol.azurewebsites.net^
@@ -3800,9 +3807,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||apple-finance.query.yahoo.com^
 ||apple-mapkit.com^$badfilter  # not a tracker
 ||apple-resources.s3.amazonaws.com^
+||apple.co^$badfilter  # not a tracker
 ||apple.com.akadns.net^$badfilter  # not a tracker
 ||apple.com^$badfilter  # not a tnot a tracker
-||apple.co^$badfilter  # not a tracker
 ||apple.news^
 ||applets.ebxcdn.com^
 ||application.com^
@@ -3951,7 +3958,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||as.yuewz.com^
 ||as49870.net^
 ||asciinema.org^
-||ase.aidcgroup.net^
 ||ase.com^
 ||asfinagv8.azureedge.net^
 ||ashampoo.com^
@@ -3969,6 +3975,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||askgamblers.com^
 ||asksid.ai^
 ||askyourself.app^
+||asnapieu.com^
 ||aso1.net^
 ||asocks.com^
 ||aspignitean.com^
@@ -3982,7 +3989,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||assets.adobedtm.com^$third-party
 ||assets.adobetm.com^
 ||assets.adsttc.com^
-||assets.alicdn.com^
 ||assets.allegrostatic.com/e09d28a6-external/dd-k89d9f1.js^
 ||assets.allegrostatic.com/e09d28a6-external/dd-k89d9f7.js^
 ||assets.allegrostatic.com/sc-12453/engagement-observer-6dadce93.js^
@@ -4033,6 +4039,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||aswpsdkus.com^
 ||at-band-camp.net^
 ||at-config.sensic.net^
+||at.alicdn.com^
 ||at.cylex.de^
 ||at98.com^
 ||atanx.alicdn.com^
@@ -4760,6 +4767,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||bitbrowser.net^
 ||bitcoin-powersupply.com^
 ||bitcoinbazis.hu^
+||bitdefender.com^
 ||bitdreams.com^
 ||bitgravity.com^
 ||bitly.com^
@@ -4886,9 +4894,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||boersenmedien.com^
 ||boesche.de^
 ||bohny-automobile.ch^
+||bol.com^$removeparam=Referrer
 ||bol.com^$removeparam=bltgh
 ||bol.com^$removeparam=promo
-||bol.com^$removeparam=Referrer
 ||boldapps.net^
 ||boldcommerce.com^
 ||boldlygoingnowhere.org^
@@ -5136,7 +5144,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||bullseyenorth.com^
 ||bunchbox.co^
 ||bungie.net^
-||bunnings.com.au^
 ||bunnycdn.ru^
 ||bur.nu^
 ||bureaulidwienvandeven.nl^
@@ -5632,9 +5639,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||cdn.ko-fi.com^
 ||cdn.leadinfo.net^
 ||cdn.littlebesidesme.com^
+||cdn.live^
 ||cdn.livechatinc.com^
 ||cdn.livefyre.com^
-||cdn.live^
 ||cdn.lmiutil.com^
 ||cdn.loadbee.com^
 ||cdn.logrocket.io^
@@ -5924,6 +5931,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||chat-assets.frontapp.com^
 ||chat-insights.getstream.io^
 ||chat-us.libanswers.com^
+||chat-widget.d3x.ai^
 ||chat.covid19.go.id^
 ||chat.ind.nl^
 ||chat.kindlycdn.com^
@@ -6252,7 +6260,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||cloudflareresearch.com^
 ||cloudflarestream.com^$badfilter  # Cloudflare video CDN
 ||cloudfront.xp-assets.aiv-cdn.net^
-||cloudimg.io^
+||cloudimg.io^$badfilter  # CDN
 ||cloudinary.com^$badfilter  # CDN
 ||cloudinary.net^$badfilter  # CDN
 ||cloudiq.com^
@@ -6633,8 +6641,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||content-hci.com^
 ||content-partnersbadge-pa.googleapis.com^
 ||content-youtube.googleapis.com^
-||content.admixer.net^
 ||content.ad^
+||content.admixer.net^
 ||content.googleapis.com^
 ||content.ingbank.pl^
 ||content.livesportmedia.eu^
@@ -8256,6 +8264,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||easyautotagging.com^
 ||easybrain.com^
 ||easygdpr.b-cdn.net^
+||easylockdownapp.com^
 ||easyplatform.com^
 ||easypromo.nz^
 ||easypromosapp.com^
@@ -8453,6 +8462,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||en.yeahmobi.com^
 ||en25.com^
 ||enable.co.il^
+||enalyzer.com^
 ||encharge.io^
 ||encyclopaediabritann.tt.omtrdc.net^
 ||end.nmo-ep.nl^
@@ -8462,6 +8472,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||endpoint2.collection.sumologic.com^
 ||enepal.net^
 ||energetischhuis.nl^
+||energieprofimoegle.de^
 ||energokst.kz^
 ||energyarts.com^
 ||energyhealingzone.com^
@@ -8888,6 +8899,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||federatedml-pa.googleapis.com^
 ||feed.baidu.com^
 ||feedad.com^
+||feedback-ekomi.com^
 ||feedback-pa.clients6.google.com^
 ||feedback-pa.googleapis.com^
 ||feedback.bol.com^
@@ -8998,6 +9010,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||flagship.io^
 ||flareapp.io^
 ||flash.sec.intl.miui.com^
+||flash4kiptv.com^
 ||flashcasino.com^
 ||flashtalking.com^
 ||flattr.com^
@@ -9513,8 +9526,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||georiot.com^
 ||geoservice.icatt-services.nl^
 ||geoshopping.nzherald.co.nz^
-||geotargetly.com^
 ||geotargetly.co^
+||geotargetly.com^
 ||geotrust.com^
 ||geover-prod.do.dsp.mp.microsoft.com^
 ||geover.prod.do.dsp.mp.microsoft.com^
@@ -9727,15 +9740,15 @@ ziekenhuischeck.nl##.toaster-overlay
 ||go.iterable.com^
 ||go.kaspersky.com^
 ||go.lastpass.com^
-||go.linkwi.se^
 ||go.link^
+||go.linkwi.se^
 ||go.microsoft.com^$badfilter  # required
 ||go.mmstat.com^
 ||go.nordpass.io^
 ||go.nordstellar.net^
 ||go.nordvpn.net^
-||go.planetnine.com^
 ||go.pl^
+||go.planetnine.com^
 ||go.rmhfrtnd.com^
 ||go.scorptec.com.au^
 ||go.sentinelone.com^
@@ -9917,8 +9930,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||gtm.wearetriple.com^
 ||gtminet.net^
 ||gtmniddocks.herokuapp.com^
-||gtmsdd.alicdn.com^
 ||gtmucs.cn^
+||gtranslate.io^
+||gtranslate.net^
 ||guangzhuiyuan.com^
 ||guenther.de^
 ||guess.union2.50bang.org^
@@ -10450,8 +10464,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||icecat.biz^
 ||icf.com^
 ||ichnaea-web.dradis.netflix.com^
-||ichnaea-web.netflix.com^
 ||ichnaea-web.netflix.co^
+||ichnaea-web.netflix.com^
 ||ichnaea-web.us-east-1.internal.dradis.netflix.com^
 ||ichnaea.netflix.com^
 ||icloud-content.com^$badfilter  # Not a tracker
@@ -10481,8 +10495,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||id.google.bs^
 ||id.google.bt^
 ||id.google.by^
-||id.google.cat^
 ||id.google.ca^
+||id.google.cat^
 ||id.google.cc^
 ||id.google.cd^
 ||id.google.cf^
@@ -11105,8 +11119,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||ip.notable.app^
 ||ip138.com^
 ||ip2location.com^
-||ipapi.com^
 ||ipapi.co^
+||ipapi.com^
 ||ipc.org^$removeparam=_hsenc
 ||ipc.org^$removeparam=_hsmi
 ||ipcheck.tmgrup.com.tr^
@@ -11385,8 +11399,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||jobsfe.funshion.com^
 ||jobzyy.com^
 ||johnlewis.com/browser-performance/jl-init-metrics.*.js^
-||johnlewis.com^$removeparam=irclickid
 ||johnlewis.com^$removeparam=Ptype
+||johnlewis.com^$removeparam=irclickid
 ||johnlewis.com^$removeparam=s_afcid
 ||johnlewis.com^$removeparam=tmcampid
 ||johnston.grapeshot.co.uk^
@@ -11709,6 +11723,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||kortinguitnodiging.nl^
 ||kosmo-call.de^
 ||kosmocall.de^
+||kosmosbv.nl^
 ||kostenloseerotik.org^
 ||kota-yoshida.com^
 ||kparser.com^
@@ -11735,6 +11750,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||ku9377.com^
 ||kuaikan.netmon.360safe.com^
 ||kubient.com^
+||kudobuzz.com^
 ||kudosresearch.com^
 ||kuguopush.com^
 ||kuka.norobet.de^
@@ -12331,10 +12347,10 @@ ziekenhuischeck.nl##.toaster-overlay
 ||lqi.io^
 ||lqmohun.com^
 ||lrswl.com^
+||ls.app^
 ||ls.apple.com.akadns.net^$badfilter  # apple maps
 ||ls.apple.com.edgesuite.net^$badfilter  # apple maps
 ||ls.apple.com^$badfilter  # apple maps
-||ls.app^
 ||ls.hit.gemius.pl^
 ||ls.webmd.com^
 ||lstat.youku.com^
@@ -12493,8 +12509,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||maillist-manage.com^
 ||maillist-manage.eu^
 ||mailmeisters.nl^
-||mailmunch.com^
 ||mailmunch.co^
+||mailmunch.com^
 ||mailperformance.com^
 ||mailplus.nl^
 ||mailspice.com^
@@ -12615,8 +12631,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||matomo.companieshouse.gov.uk^
 ||matomo.eea.europa.eu^
 ||matomo.efca.europa.eu^
-||matomo.hetzner.company^
 ||matomo.hetzner.com^
+||matomo.hetzner.company^
 ||matomo.internet.nl^
 ||matomo.islesurlasorguetourisme.com^
 ||matomo.nymtech.net^
@@ -12815,6 +12831,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||metrics-collector.cloudability.com^
 ||metrics-dra.dt.hicloud.com^
 ||metrics-drcn.dt.hicloud.com^
+||metrics-ingress.svc.vinted.com^
 ||metrics.agent.datadoghq.com^
 ||metrics.api.drift.com^
 ||metrics.apple.com^
@@ -13212,6 +13229,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||mstat.acestream.net^
 ||mt.9gag.com^
 ||mt.com^
+||mt[0-9]*.google.cn^
 ||mta.qq.com^
 ||mtalk.google.com^$badfilter  # Google Cloud Messaging
 ||mti.35kds.com^
@@ -13220,7 +13238,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||mtouch.facebook.com^
 ||mtrace.qq.com^
 ||mtxsk.com^
-||mt[0-9]*.google.cn^
 ||mub.me^
 ||muguguestbook.com^
 ||multiaccess.co^
@@ -13493,8 +13510,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||nhfonline.com.my^
 ||nhz.adwo.com^
 ||nice-team.net^
-||nicejob.com^
 ||nicejob.co^
+||nicejob.com^
 ||nicepeopleatwork.com^
 ||nicequest.com^
 ||nicereply.com^
@@ -13539,6 +13556,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||nitroscripts.com^
 ||niurenw.com^
 ||nixos-metrics.cachix.org^
+||njdaisen.com^
 ||njdijiani.com^
 ||njfsk.com^
 ||njlottery.com^
@@ -14032,6 +14050,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||organizer.bizzabo.com^
 ||oribi.io^
 ||orion-natuurgeneeskunde.nl^
+||orion.bendingspoons.com^
 ||orit-zilberman.com^
 ||orjq.net^
 ||orthofyto.com^
@@ -14476,10 +14495,10 @@ ziekenhuischeck.nl##.toaster-overlay
 ||pixel-a.sitescout.com^
 ||pixel-config.reddit.com^
 ||pixel-profile-cloud.eniro.com^
+||pixel.ad^
 ||pixel.adcrowd.com^
 ||pixel.adsafeprotected.com^
 ||pixel.advertising.com^
-||pixel.ad^
 ||pixel.bilinmedia.net^
 ||pixel.chaty.app^
 ||pixel.facebook.com^
@@ -15494,7 +15513,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||res-1.cdn.office.net^$badfilter  # required for outlook
 ||res-2.cdn.office.net^$badfilter  # required for outlook
 ||res-geo.cdn.office.net^
-||res-odx.op-mobile.opera.com^
 ||res.adcome.cn^
 ||res.aduu.cn^
 ||res.cdn.office.net^$badfilter  # required for outlook
@@ -15533,6 +15551,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||retency.com^
 ||retrainthebrain.org^
 ||returngo.ai^
+||reunir.com^
 ||rev.balkanmediagroup.com^
 ||rev.fapdu.com^
 ||revcontent.com^
@@ -15678,6 +15697,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||rover.ebay.ph^
 ||rover.ebay.pl^
 ||rovno.xyz^
+||rowzone.com^
 ||royal-panda.ca^
 ||royalcasino.dk^
 ||royalpanda.com^
@@ -15810,7 +15830,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||s.ntv.io^
 ||s.on-device.com^
 ||s.p.youku.com^
-||s.pinimg.com^
 ||s.pinimg.com^$badfilter  # Pinterest
 ||s.pinimg.com^$third-party
 ||s.qhupdate.com^
@@ -16091,6 +16110,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||sdkinit.taobao.com^
 ||sdkintgiad.apple.com^
 ||sdkm.w.inmobi.com^
+||sdkopmetrics-eu.dsp-api.moloco.com^
 ||sdktm.w.inmobi.com^
 ||sdkv2.imaginationunwired.com^
 ||sdlmedia.com^
@@ -16241,6 +16261,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||sentry.hq.citizenlab.co^
 ||sentry.internxt.com^
 ||sentry.invoicing.co^
+||sentry.io^
 ||sentry.io^$third-party
 ||sentry.justwatch.com^
 ||sentry.matrix.org^
@@ -16384,6 +16405,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||shopapps.in^
 ||shopboard.ltd^
 ||shopdirect.com^
+||shopicial.com^
 ||shopify-gtm-suite.getelevar.com^
 ||shopify.admetrics.events^
 ||shopkick.com^
@@ -16429,8 +16451,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||sideqik.com^
 ||sidewalk.amazon^
 ||sifa-online.dk^
-||sift.com^
 ||sift.co^
+||sift.com^
 ||siftscience.com^
 ||sigmacert.com.tr^
 ||signal-collector.gemaltodigitalbankingidcloud.com^
@@ -16440,8 +16462,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||sijoitusrahastot.org^
 ||silvermob.com^
 ||silverpop.com^
-||silverpush.com^
 ||silverpush.co^
+||silverpush.com^
 ||simaba.m.taobao.com^
 ||simaba.taobao.com^
 ||simage2.pubmatic.com^
@@ -16722,8 +16744,8 @@ ziekenhuischeck.nl##.toaster-overlay
 ||sousuo.xm.sjzhushou.com^
 ||sovendus-connect.com^
 ||sovendus.com^
-||sovrn.com^
 ||sovrn.co^
+||sovrn.com^
 ||sozungolgesi.com^
 ||sp-ao.shortpixel.ai^
 ||sp-server.net^
@@ -16766,6 +16788,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||speegleconstructionllc.com^
 ||sph.com.sg^
 ||sphdigital.com^
+||spheremall.com^
 ||spicegems.com^
 ||spicymobile.pl^
 ||spidersense.bendingspoons.com^
@@ -17292,6 +17315,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||subswin.com^
 ||sucodb.com^
 ||sugar.zhihu.com^
+||suggestions.bol.com^
 ||suggestqueries.google.com^
 ||suhasforvirginia.com^
 ||sukigyik.xyz^
@@ -17481,9 +17505,9 @@ ziekenhuischeck.nl##.toaster-overlay
 ||t.atpanel.com^
 ||t.bd.nl^
 ||t.bndestem.nl^
+||t.co^
 ||t.contactlab.it^
 ||t.contentsquare.net^
-||t.co^
 ||t.cr-nielsen.com^
 ||t.dangdang.com^
 ||t.destentor.nl^
@@ -17582,7 +17606,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tags.adnuntius.com^
 ||tags.affiliatefuture.com^
 ||tags.chip.de^
-||tags.creativecdn.com^
 ||tags.crwdcntrl.net^
 ||tags.experian.co.uk^
 ||tags.expo9.exponential.com^
@@ -17679,6 +17702,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tcmclassics.org^
 ||tcmworld.org^
 ||tcommunity.linkedin.com^
+||td-pixel.c.appier.net^
 ||td.com^
 ||td.intelliresponse.com^
 ||td.yieldify.com^
@@ -17745,6 +17769,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||telemetry.microsoft.com^
 ||telemetry.mozilla.org^
 ||telemetry.notable.app^
+||telemetry.sdk.inmobi.com^
 ||telemetry.split.io^
 ||telemetry.swe.quicinc.com^
 ||telemetry.urs.microsoft.com^
@@ -18114,6 +18139,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tracking.dekbed-discounter.nl^
 ||tracking.elektramat.nl^
 ||tracking.epicgames.com^
+||tracking.eu.miui.com^
 ||tracking.g2crowd.com^
 ||tracking.hostgator.com^
 ||tracking.hyros.com^
@@ -18135,6 +18161,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tracking.printabout.nl^
 ||tracking.retailrocket.net^
 ||tracking.rus.miui.com^
+||tracking.smartwatchbanden.nl^
 ||tracking.swap.fm^
 ||tracking.swogo.net^
 ||tracking.vviinn.com^
@@ -18564,7 +18591,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||us-reviews.com^
 ||us-u.openx.net^
 ||us.tags.newscgp.com^
-||us.ynuf.aliapp.org^
 ||us01.rayjump.com^
 ||us01campaign.zoom.us^
 ||us3.datadoghq.com^
@@ -19191,6 +19217,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||widgets.sprinklecontent.com^
 ||widgets.trustedshops.com^
 ||widgets.wp.com^
+||widgetsmith.app^
 ||widilo.co.uk^
 ||wijkopenautos.nl^
 ||wijwedden.net^
@@ -19263,6 +19290,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||workarea.com^
 ||workcomposer.com^
 ||workdrive.zoho.eu^$badfilter  # Zoho Product
+||workers.dev^
 ||workingatcompanyinfo.nl^
 ||worklife.io^$removeparam=of_m
 ||worldaccelerator.com^
@@ -19338,7 +19366,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||www-cultofmac-com.ezoic.net^
 ||www-elperiodic-com.translate.goog^
 ||www-googletagmanager.l.google.com^
-||www.googletagmanager.com^
 ||www138.civicscience.com^
 ||wx.xwjqr.com^
 ||wxsnsdy.wxs.qq.com^
@@ -19725,3 +19752,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||zzkko.com^
 ||zzpcentrale.nl^
 ||zzy1.quyaoya.com^
+||mailavn.icu^
+||wajdagroup.me^
+||enlightmecenter.com^
+||shinetechserve.com^

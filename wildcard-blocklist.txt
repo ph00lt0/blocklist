@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 *.0.r.msn.com
 *.000dn.com
 *.001union.com
@@ -302,12 +302,10 @@
 *.265.com
 *.268mob.cn
 *.26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-*.26qxvo.tdum.alibaba.com
 *.26zsd.cn
 *.270degrees.io
 *.27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 *.27qfj.x.incapdns.net
-*.28345.ase.aidcgroup.net
 *.287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 *.28acglz.com
 *.29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2107,6 +2105,7 @@
 *.ageverif.com
 *.ageverify.co
 *.ageverify.com
+*.agf.nl
 *.aggle.net
 *.aggregateknowledge.com
 *.aghtag.tech
@@ -2234,9 +2233,11 @@
 *.algonomy.com
 *.algorecs.com
 *.aliabdaal.ck.page
-*.alibaba-inc.com
+*.alibaba.com
+*.alicdn.com
 *.alicloudapi.com
 *.alida.com
+*.aliexpress.com
 *.aliexpress.ru
 *.alikunlun.com
 *.alimama.com
@@ -2776,8 +2777,6 @@
 *.apkdo.com
 *.apkpure.net
 *.aplikacii.com
-*.aplus-sdk.alibaba-inc.com
-*.aplus.aliexpress.com
 *.apm.bigbank.eu
 *.apnarm.net.au
 *.apns.ios.ijinshan.com
@@ -2999,6 +2998,7 @@
 *.arisawaonline.com
 *.ariva-services.de
 *.ark.letv.com
+*.arkadium.com
 *.arkadiumhosted.com
 *.arkeero.com
 *.arkheus.fr
@@ -3017,6 +3017,7 @@
 *.artemis-cdn.ocdn.eu
 *.artfut.com
 *.artifactory.appodeal.com
+*.artnames.io
 *.artoo.nl
 *.arxivcu.containers.piwik.pro
 *.aryanjalan.com
@@ -3029,7 +3030,6 @@
 *.as.yuewz.com
 *.as49870.net
 *.asciinema.org
-*.ase.aidcgroup.net
 *.ase.com
 *.asfinagv8.azureedge.net
 *.ashampoo.com
@@ -3059,7 +3059,6 @@
 *.assets.adobedtm.com
 *.assets.adobetm.com
 *.assets.adsttc.com
-*.assets.alicdn.com
 *.assets.cengage.com
 *.assets.contently.com
 *.assets.context.ly
@@ -3789,6 +3788,7 @@
 *.bitbrowser.net
 *.bitcoin-powersupply.com
 *.bitcoinbazis.hu
+*.bitdefender.com
 *.bitdreams.com
 *.bitgravity.com
 *.bitly.com
@@ -4047,7 +4047,6 @@
 *.brockmeyer.nl
 *.broke-it.net
 *.broker.datazoom.io
-*.broker.nxtid.nl
 *.bronto.com
 *.brooklynrail-web.imgix.net
 *.brothersoft.com
@@ -7280,6 +7279,7 @@
 *.enhance.com
 *.eniro-cdn.relevant-digital.com
 *.enki.com
+*.enlightmecenter.com
 *.ennova.com
 *.enormail.eu
 *.enquete.agconsult.com
@@ -8039,6 +8039,7 @@
 *.futy-widget.com
 *.futy.io
 *.fv99.com
+*.fvdemoca.com
 *.fw-cdn.com
 *.fw.adsafeprotected.com
 *.fw2.com
@@ -8303,6 +8304,7 @@
 *.getinsights.io
 *.getjoy.ai
 *.getkoala.com
+*.getkoppa.com
 *.getlasso.co
 *.getlucky.nl
 *.getmidnight.com
@@ -8633,7 +8635,6 @@
 *.gtm.wearetriple.com
 *.gtminet.net
 *.gtmniddocks.herokuapp.com
-*.gtmsdd.alicdn.com
 *.gtmucs.cn
 *.gtranslate.io
 *.gtranslate.net
@@ -8699,6 +8700,7 @@
 *.harnessdigitalmarketing.com
 *.harvard.edu.sc.omtrdc.net
 *.harvardbusinessrevie.tt.omtrdc.net
+*.hashcodex.com
 *.hashtag-labs.com
 *.hashting.cash
 *.hashting.promo
@@ -9947,6 +9949,7 @@
 *.ivo.io
 *.ivory.studio
 *.ivy.pconline.com.cn
+*.ivydigitalmarketing.nl
 *.iwettefashion.pl
 *.iwmapapi.americanexpress.com
 *.ixbrowser.com
@@ -10427,6 +10430,7 @@
 *.landbot.io
 *.landingi.com
 *.landsloterij.org
+*.langshop.app
 *.langwill.com
 *.lansweeper.com
 *.lanzouo.com
@@ -10496,10 +10500,12 @@
 *.leanlab.co
 *.leanplum.com
 *.learn.optimizely.com
+*.leat.com
 *.lebowski.wetransfer.com
 *.lecoeurdelexcellence.fr
 *.lecoinpromo.fr
 *.leenvanrij.nl
+*.leeopen.com
 *.leesmanindex.co.uk
 *.leesmanindex.com
 *.leeyuoxs.com
@@ -11070,6 +11076,7 @@
 *.mail.rodekruis.nl
 *.mail.secondhome.nl
 *.mail2jake.com
+*.mailavn.icu
 *.mailba.uk
 *.mailblaze.com
 *.mailblue.nl
@@ -11129,6 +11136,7 @@
 *.mapp.com
 *.maquipan.cl
 *.marathonbet.dk
+*.marcprimowarren.com
 *.marfeel.com
 *.marfeelcache.com
 *.marfeelrev.com
@@ -12682,6 +12690,7 @@
 *.p3p.yahoo.com
 *.p3tt.com
 *.pacificalliancebank.com
+*.packagingbee.co
 *.packetforensics.com
 *.paddle.s3.amazonaws.com
 *.paddleapi.com
@@ -12919,6 +12928,7 @@
 *.pieceauto-discount.com
 *.pierredejonge.nl
 *.piggy.eu
+*.piggy.nl
 *.piguiqproxy.com
 *.pikakasino.com
 *.pikakasinot.com
@@ -13194,6 +13204,7 @@
 *.powerreviews.com
 *.powerscrews.com
 *.powerspace.com
+*.powl.io
 *.powr.io
 *.poyang.com
 *.pp.lp4.io
@@ -13208,6 +13219,7 @@
 *.pragmaticplay.com
 *.pragmaticplay.net
 *.pragmaticplayphp.com
+*.praktijk-ayni.nl
 *.praktijk-patricia.nl
 *.praktijkbruis.nl
 *.praktijkcharlotte.nl
@@ -13968,7 +13980,6 @@
 *.requestmetrics.com
 *.rereddit.com
 *.res-geo.cdn.office.net
-*.res-odx.op-mobile.opera.com
 *.res.adcome.cn
 *.res.aduu.cn
 *.res.gwifi.com.cn
@@ -14281,7 +14292,6 @@
 *.s.ntv.io
 *.s.on-device.com
 *.s.p.youku.com
-*.s.pinimg.com
 *.s.qhupdate.com
 *.s.search.naver.com
 *.s.skimresources.com
@@ -14824,6 +14834,7 @@
 *.shibeiou.com
 *.shiftcrypto.activehosted.com
 *.shiftrro.com
+*.shinetechserve.com
 *.shininglogistics.com
 *.shinystat.com
 *.shizen-no-megumi.com
@@ -15622,6 +15633,7 @@
 *.stats.thinkprivacy.ch
 *.stats.thuisarts.nl
 *.stats.topdrawermedia.com
+*.stats.triplebit.net
 *.stats.uptimerobot.com
 *.stats.valitype.com
 *.stats.waag.org
@@ -16001,7 +16013,6 @@
 *.tags.adnuntius.com
 *.tags.affiliatefuture.com
 *.tags.chip.de
-*.tags.creativecdn.com
 *.tags.crwdcntrl.net
 *.tags.experian.co.uk
 *.tags.expo9.exponential.com
@@ -16936,7 +16947,6 @@
 *.us-reviews.com
 *.us-u.openx.net
 *.us.tags.newscgp.com
-*.us.ynuf.aliapp.org
 *.us01.rayjump.com
 *.us01campaign.zoom.us
 *.us3.datadoghq.com
@@ -16993,6 +17003,7 @@
 *.ushaqi.com
 *.usibtheteam.com
 *.usingde.com
+*.uspp.biz
 *.usr.navdmp.com
 *.uss-pid.lenovomm.com
 *.usw-lax.adsrvr.org
@@ -17307,6 +17318,7 @@
 *.wagawin.com
 *.waitlisted.app
 *.waitlisted.co
+*.wajdagroup.me
 *.wakkermens.info
 *.walkme.com
 *.wallpapercave.com
@@ -17399,6 +17411,7 @@
 *.webfonts.sparkasse.de
 *.webfonts.zoho.eu
 *.webgains.com
+*.webgenie.io
 *.webgeoservices.com
 *.webid.ad.daum.net
 *.webjavaskript.net
@@ -17601,6 +17614,7 @@
 *.wordstream.com
 *.workarea.com
 *.workcomposer.com
+*.workers.dev
 *.workingatcompanyinfo.nl
 *.worldaccelerator.com
 *.worldchasetag.com
@@ -17673,7 +17687,6 @@
 *.www-cultofmac-com.ezoic.net
 *.www-elperiodic-com.translate.goog
 *.www-googletagmanager.l.google.com
-*.www.googletagmanager.com
 *.www138.civicscience.com
 *.wx.xwjqr.com
 *.wxsnsdy.wxs.qq.com

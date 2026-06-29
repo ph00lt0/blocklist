@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 000dn.com
 0.0.0.0 001union.com
@@ -302,12 +302,10 @@
 0.0.0.0 265.com
 0.0.0.0 268mob.cn
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-0.0.0.0 26qxvo.tdum.alibaba.com
 0.0.0.0 26zsd.cn
 0.0.0.0 270degrees.io
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
-0.0.0.0 28345.ase.aidcgroup.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 0.0.0.0 28acglz.com
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2107,6 +2105,7 @@
 0.0.0.0 ageverif.com
 0.0.0.0 ageverify.co
 0.0.0.0 ageverify.com
+0.0.0.0 agf.nl
 0.0.0.0 aggle.net
 0.0.0.0 aggregateknowledge.com
 0.0.0.0 aghtag.tech
@@ -2234,9 +2233,11 @@
 0.0.0.0 algonomy.com
 0.0.0.0 algorecs.com
 0.0.0.0 aliabdaal.ck.page
-0.0.0.0 alibaba-inc.com
+0.0.0.0 alibaba.com
+0.0.0.0 alicdn.com
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.com
 0.0.0.0 aliexpress.ru
 0.0.0.0 alikunlun.com
 0.0.0.0 alimama.com
@@ -2776,8 +2777,6 @@
 0.0.0.0 apkdo.com
 0.0.0.0 apkpure.net
 0.0.0.0 aplikacii.com
-0.0.0.0 aplus-sdk.alibaba-inc.com
-0.0.0.0 aplus.aliexpress.com
 0.0.0.0 apm.bigbank.eu
 0.0.0.0 apnarm.net.au
 0.0.0.0 apns.ios.ijinshan.com
@@ -2999,6 +2998,7 @@
 0.0.0.0 arisawaonline.com
 0.0.0.0 ariva-services.de
 0.0.0.0 ark.letv.com
+0.0.0.0 arkadium.com
 0.0.0.0 arkadiumhosted.com
 0.0.0.0 arkeero.com
 0.0.0.0 arkheus.fr
@@ -3017,6 +3017,7 @@
 0.0.0.0 artemis-cdn.ocdn.eu
 0.0.0.0 artfut.com
 0.0.0.0 artifactory.appodeal.com
+0.0.0.0 artnames.io
 0.0.0.0 artoo.nl
 0.0.0.0 arxivcu.containers.piwik.pro
 0.0.0.0 aryanjalan.com
@@ -3029,7 +3030,6 @@
 0.0.0.0 as.yuewz.com
 0.0.0.0 as49870.net
 0.0.0.0 asciinema.org
-0.0.0.0 ase.aidcgroup.net
 0.0.0.0 ase.com
 0.0.0.0 asfinagv8.azureedge.net
 0.0.0.0 ashampoo.com
@@ -3059,7 +3059,6 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adobetm.com
 0.0.0.0 assets.adsttc.com
-0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.cengage.com
 0.0.0.0 assets.contently.com
 0.0.0.0 assets.context.ly
@@ -3098,6 +3097,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-band-camp.net
 0.0.0.0 at-config.sensic.net
+0.0.0.0 at.alicdn.com
 0.0.0.0 at.cylex.de
 0.0.0.0 at98.com
 0.0.0.0 atanx.alicdn.com
@@ -3788,6 +3788,7 @@
 0.0.0.0 bitbrowser.net
 0.0.0.0 bitcoin-powersupply.com
 0.0.0.0 bitcoinbazis.hu
+0.0.0.0 bitdefender.com
 0.0.0.0 bitdreams.com
 0.0.0.0 bitgravity.com
 0.0.0.0 bitly.com
@@ -4046,7 +4047,6 @@
 0.0.0.0 brockmeyer.nl
 0.0.0.0 broke-it.net
 0.0.0.0 broker.datazoom.io
-0.0.0.0 broker.nxtid.nl
 0.0.0.0 bronto.com
 0.0.0.0 brooklynrail-web.imgix.net
 0.0.0.0 brothersoft.com
@@ -7279,6 +7279,7 @@
 0.0.0.0 enhance.com
 0.0.0.0 eniro-cdn.relevant-digital.com
 0.0.0.0 enki.com
+0.0.0.0 enlightmecenter.com
 0.0.0.0 ennova.com
 0.0.0.0 enormail.eu
 0.0.0.0 enquete.agconsult.com
@@ -8038,6 +8039,7 @@
 0.0.0.0 futy-widget.com
 0.0.0.0 futy.io
 0.0.0.0 fv99.com
+0.0.0.0 fvdemoca.com
 0.0.0.0 fw-cdn.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw2.com
@@ -8302,6 +8304,7 @@
 0.0.0.0 getinsights.io
 0.0.0.0 getjoy.ai
 0.0.0.0 getkoala.com
+0.0.0.0 getkoppa.com
 0.0.0.0 getlasso.co
 0.0.0.0 getlucky.nl
 0.0.0.0 getmidnight.com
@@ -8632,7 +8635,6 @@
 0.0.0.0 gtm.wearetriple.com
 0.0.0.0 gtminet.net
 0.0.0.0 gtmniddocks.herokuapp.com
-0.0.0.0 gtmsdd.alicdn.com
 0.0.0.0 gtmucs.cn
 0.0.0.0 gtranslate.io
 0.0.0.0 gtranslate.net
@@ -8698,6 +8700,7 @@
 0.0.0.0 harnessdigitalmarketing.com
 0.0.0.0 harvard.edu.sc.omtrdc.net
 0.0.0.0 harvardbusinessrevie.tt.omtrdc.net
+0.0.0.0 hashcodex.com
 0.0.0.0 hashtag-labs.com
 0.0.0.0 hashting.cash
 0.0.0.0 hashting.promo
@@ -9946,6 +9949,7 @@
 0.0.0.0 ivo.io
 0.0.0.0 ivory.studio
 0.0.0.0 ivy.pconline.com.cn
+0.0.0.0 ivydigitalmarketing.nl
 0.0.0.0 iwettefashion.pl
 0.0.0.0 iwmapapi.americanexpress.com
 0.0.0.0 ixbrowser.com
@@ -10426,6 +10430,7 @@
 0.0.0.0 landbot.io
 0.0.0.0 landingi.com
 0.0.0.0 landsloterij.org
+0.0.0.0 langshop.app
 0.0.0.0 langwill.com
 0.0.0.0 lansweeper.com
 0.0.0.0 lanzouo.com
@@ -10495,10 +10500,12 @@
 0.0.0.0 leanlab.co
 0.0.0.0 leanplum.com
 0.0.0.0 learn.optimizely.com
+0.0.0.0 leat.com
 0.0.0.0 lebowski.wetransfer.com
 0.0.0.0 lecoeurdelexcellence.fr
 0.0.0.0 lecoinpromo.fr
 0.0.0.0 leenvanrij.nl
+0.0.0.0 leeopen.com
 0.0.0.0 leesmanindex.co.uk
 0.0.0.0 leesmanindex.com
 0.0.0.0 leeyuoxs.com
@@ -11069,6 +11076,7 @@
 0.0.0.0 mail.rodekruis.nl
 0.0.0.0 mail.secondhome.nl
 0.0.0.0 mail2jake.com
+0.0.0.0 mailavn.icu
 0.0.0.0 mailba.uk
 0.0.0.0 mailblaze.com
 0.0.0.0 mailblue.nl
@@ -11128,6 +11136,7 @@
 0.0.0.0 mapp.com
 0.0.0.0 maquipan.cl
 0.0.0.0 marathonbet.dk
+0.0.0.0 marcprimowarren.com
 0.0.0.0 marfeel.com
 0.0.0.0 marfeelcache.com
 0.0.0.0 marfeelrev.com
@@ -12681,6 +12690,7 @@
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 p3tt.com
 0.0.0.0 pacificalliancebank.com
+0.0.0.0 packagingbee.co
 0.0.0.0 packetforensics.com
 0.0.0.0 paddle.s3.amazonaws.com
 0.0.0.0 paddleapi.com
@@ -12918,6 +12928,7 @@
 0.0.0.0 pieceauto-discount.com
 0.0.0.0 pierredejonge.nl
 0.0.0.0 piggy.eu
+0.0.0.0 piggy.nl
 0.0.0.0 piguiqproxy.com
 0.0.0.0 pikakasino.com
 0.0.0.0 pikakasinot.com
@@ -13193,6 +13204,7 @@
 0.0.0.0 powerreviews.com
 0.0.0.0 powerscrews.com
 0.0.0.0 powerspace.com
+0.0.0.0 powl.io
 0.0.0.0 powr.io
 0.0.0.0 poyang.com
 0.0.0.0 pp.lp4.io
@@ -13207,6 +13219,7 @@
 0.0.0.0 pragmaticplay.com
 0.0.0.0 pragmaticplay.net
 0.0.0.0 pragmaticplayphp.com
+0.0.0.0 praktijk-ayni.nl
 0.0.0.0 praktijk-patricia.nl
 0.0.0.0 praktijkbruis.nl
 0.0.0.0 praktijkcharlotte.nl
@@ -13967,7 +13980,6 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 rereddit.com
 0.0.0.0 res-geo.cdn.office.net
-0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 res.adcome.cn
 0.0.0.0 res.aduu.cn
 0.0.0.0 res.gwifi.com.cn
@@ -14280,7 +14292,6 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 s.on-device.com
 0.0.0.0 s.p.youku.com
-0.0.0.0 s.pinimg.com
 0.0.0.0 s.qhupdate.com
 0.0.0.0 s.search.naver.com
 0.0.0.0 s.skimresources.com
@@ -14693,6 +14704,7 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
+0.0.0.0 sentry.io
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.odysee.tv
@@ -14822,6 +14834,7 @@
 0.0.0.0 shibeiou.com
 0.0.0.0 shiftcrypto.activehosted.com
 0.0.0.0 shiftrro.com
+0.0.0.0 shinetechserve.com
 0.0.0.0 shininglogistics.com
 0.0.0.0 shinystat.com
 0.0.0.0 shizen-no-megumi.com
@@ -15620,6 +15633,7 @@
 0.0.0.0 stats.thinkprivacy.ch
 0.0.0.0 stats.thuisarts.nl
 0.0.0.0 stats.topdrawermedia.com
+0.0.0.0 stats.triplebit.net
 0.0.0.0 stats.uptimerobot.com
 0.0.0.0 stats.valitype.com
 0.0.0.0 stats.waag.org
@@ -15999,7 +16013,6 @@
 0.0.0.0 tags.adnuntius.com
 0.0.0.0 tags.affiliatefuture.com
 0.0.0.0 tags.chip.de
-0.0.0.0 tags.creativecdn.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.experian.co.uk
 0.0.0.0 tags.expo9.exponential.com
@@ -16934,7 +16947,6 @@
 0.0.0.0 us-reviews.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.tags.newscgp.com
-0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us01campaign.zoom.us
 0.0.0.0 us3.datadoghq.com
@@ -16991,6 +17003,7 @@
 0.0.0.0 ushaqi.com
 0.0.0.0 usibtheteam.com
 0.0.0.0 usingde.com
+0.0.0.0 uspp.biz
 0.0.0.0 usr.navdmp.com
 0.0.0.0 uss-pid.lenovomm.com
 0.0.0.0 usw-lax.adsrvr.org
@@ -17305,6 +17318,7 @@
 0.0.0.0 wagawin.com
 0.0.0.0 waitlisted.app
 0.0.0.0 waitlisted.co
+0.0.0.0 wajdagroup.me
 0.0.0.0 wakkermens.info
 0.0.0.0 walkme.com
 0.0.0.0 wallpapercave.com
@@ -17397,6 +17411,7 @@
 0.0.0.0 webfonts.sparkasse.de
 0.0.0.0 webfonts.zoho.eu
 0.0.0.0 webgains.com
+0.0.0.0 webgenie.io
 0.0.0.0 webgeoservices.com
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 webjavaskript.net
@@ -17599,6 +17614,7 @@
 0.0.0.0 wordstream.com
 0.0.0.0 workarea.com
 0.0.0.0 workcomposer.com
+0.0.0.0 workers.dev
 0.0.0.0 workingatcompanyinfo.nl
 0.0.0.0 worldaccelerator.com
 0.0.0.0 worldchasetag.com
@@ -17671,7 +17687,6 @@
 0.0.0.0 www-cultofmac-com.ezoic.net
 0.0.0.0 www-elperiodic-com.translate.goog
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 wxsnsdy.wxs.qq.com

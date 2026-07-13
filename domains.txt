@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.r.msn.com
 000dn.com
 001union.com
@@ -302,12 +302,10 @@
 265.com
 268mob.cn
 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-26qxvo.tdum.alibaba.com
 26zsd.cn
 270degrees.io
 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 27qfj.x.incapdns.net
-28345.ase.aidcgroup.net
 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 28acglz.com
 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2235,9 +2233,11 @@ algbid.app
 algonomy.com
 algorecs.com
 aliabdaal.ck.page
-alibaba-inc.com
+alibaba.com
+alicdn.com
 alicloudapi.com
 alida.com
+aliexpress.com
 aliexpress.ru
 alikunlun.com
 alimama.com
@@ -2255,6 +2255,7 @@ alive5.com
 aliveachiever.com
 aliyuncs.com
 all4phones.de
+allaboutcookies.org
 allawntech.com
 allbud.s3.amazonaws.com
 allesoverlithium.nl
@@ -2777,8 +2778,6 @@ apkarchive.ru
 apkdo.com
 apkpure.net
 aplikacii.com
-aplus-sdk.alibaba-inc.com
-aplus.aliexpress.com
 apm.bigbank.eu
 apnarm.net.au
 apns.ios.ijinshan.com
@@ -3032,7 +3031,6 @@ as.sinahk.net
 as.yuewz.com
 as49870.net
 asciinema.org
-ase.aidcgroup.net
 ase.com
 asfinagv8.azureedge.net
 ashampoo.com
@@ -3062,7 +3060,6 @@ assets.a-mo.net
 assets.adobedtm.com
 assets.adobetm.com
 assets.adsttc.com
-assets.alicdn.com
 assets.cengage.com
 assets.contently.com
 assets.context.ly
@@ -3101,6 +3098,7 @@ aswpsdkeu.com
 aswpsdkus.com
 at-band-camp.net
 at-config.sensic.net
+at.alicdn.com
 at.cylex.de
 at98.com
 atanx.alicdn.com
@@ -3791,6 +3789,7 @@ bitban.com
 bitbrowser.net
 bitcoin-powersupply.com
 bitcoinbazis.hu
+bitdefender.com
 bitdreams.com
 bitgravity.com
 bitly.com
@@ -6703,6 +6702,7 @@ disqusads.com
 distance.to
 distantdesktop.com
 distillery.wistia.com
+distinctlypr.co
 distribusion.com
 districtm.ca
 distroscale.com
@@ -7524,6 +7524,7 @@ explorestack.com
 expoints.nl
 exponea.com
 exponential.com
+expresscps.com
 expresspigeon.com
 ext.frontusercontent.com
 extend.tv
@@ -8330,6 +8331,7 @@ getscreen.me
 getsidekick.com
 getsitecontrol.com
 getsmartlook.com
+getsmsfast.com
 getsocial.io
 getsquirrel.co
 gettrackify.com
@@ -8637,7 +8639,6 @@ gtm.vanmoof.com
 gtm.wearetriple.com
 gtminet.net
 gtmniddocks.herokuapp.com
-gtmsdd.alicdn.com
 gtmucs.cn
 gtranslate.io
 gtranslate.net
@@ -13785,6 +13786,7 @@ rakuten.com
 rakutenadvertising.com
 rallymind.com
 rampanel.com
+randybaldwin.com
 rankactive.com
 rankinggenie.com
 rankur.com
@@ -13983,7 +13985,6 @@ request.eprotect.vantivcnp.com
 requestmetrics.com
 rereddit.com
 res-geo.cdn.office.net
-res-odx.op-mobile.opera.com
 res.adcome.cn
 res.aduu.cn
 res.gwifi.com.cn
@@ -14296,7 +14297,6 @@ s.nitropay.com
 s.ntv.io
 s.on-device.com
 s.p.youku.com
-s.pinimg.com
 s.qhupdate.com
 s.search.naver.com
 s.skimresources.com
@@ -14709,6 +14709,7 @@ sentry.hetzner.company
 sentry.hq.citizenlab.co
 sentry.internxt.com
 sentry.invoicing.co
+sentry.io
 sentry.justwatch.com
 sentry.matrix.org
 sentry.odysee.tv
@@ -14864,6 +14865,7 @@ shorten.is
 shortest-route.com
 shortnim.me
 shortstack.com
+shorturl.asia
 shorturl.at
 shotwithgeforce.com
 shouji.360.cn
@@ -16017,7 +16019,6 @@ tags-eu.tiqcdn.com
 tags.adnuntius.com
 tags.affiliatefuture.com
 tags.chip.de
-tags.creativecdn.com
 tags.crwdcntrl.net
 tags.experian.co.uk
 tags.expo9.exponential.com
@@ -16524,7 +16525,6 @@ tracking.aatkit.com
 tracking.atreemo.com
 tracking.audio.thisisdax.com
 tracking.aws.judge.me
-tracking.budbee.com
 tracking.cdiscount.com
 tracking.cdn.vpsvc.com
 tracking.chilipiper.com
@@ -16540,6 +16540,7 @@ tracking.immobilienscout24.at
 tracking.india.miui.com
 tracking.intl.miui.com
 tracking.krone.at
+tracking.launchpotato.com
 tracking.lindner-group.com
 tracking.listhub.net
 tracking.live.wetter.at
@@ -16690,6 +16691,7 @@ try.abtasty.com
 trybento.co
 trycoupons.net
 tryoffer.net
+tryonyxfinancial.info
 tryribbon.com
 trysales.net
 tsboi.com
@@ -16750,6 +16752,7 @@ tw.netcore.co.in
 twdvd.com
 tweaking.in
 tweakwise.com
+tweakwisenavigator.net
 twh5.com
 twiago.com
 twil.io
@@ -16952,7 +16955,6 @@ us-central1-signal-data-science.cloudfunctions.net
 us-reviews.com
 us-u.openx.net
 us.tags.newscgp.com
-us.ynuf.aliapp.org
 us01.rayjump.com
 us01campaign.zoom.us
 us3.datadoghq.com
@@ -17620,6 +17622,7 @@ wootric.com
 wordstream.com
 workarea.com
 workcomposer.com
+workers.dev
 workingatcompanyinfo.nl
 worldaccelerator.com
 worldchasetag.com
@@ -17692,7 +17695,6 @@ www-analytics.esa.int
 www-cultofmac-com.ezoic.net
 www-elperiodic-com.translate.goog
 www-googletagmanager.l.google.com
-www.googletagmanager.com
 www138.civicscience.com
 wx.xwjqr.com
 wxsnsdy.wxs.qq.com

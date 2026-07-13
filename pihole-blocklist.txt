@@ -1,9 +1,9 @@
-
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
-# Expires: 1 day
-# Homepage: https://github.com/ph00lt0/blocklist
-# Issue tracker: https://github.com/ph00lt0/blocklist
 # Title: ph00lt0 - Blocklist
+# Expires: 1 day
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Homepage: https://github.com/ph00lt0/blocklist
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 000dn.com
 0.0.0.0 001union.com
@@ -302,12 +302,10 @@
 0.0.0.0 265.com
 0.0.0.0 268mob.cn
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
-0.0.0.0 26qxvo.tdum.alibaba.com
 0.0.0.0 26zsd.cn
 0.0.0.0 270degrees.io
 0.0.0.0 27gugn2cjlf23by7ems65e21-wpengine.netdna-ssl.com
 0.0.0.0 27qfj.x.incapdns.net
-0.0.0.0 28345.ase.aidcgroup.net
 0.0.0.0 287rdd4e492u2pyoiu9wz52k-wpengine.netdna-ssl.com
 0.0.0.0 28acglz.com
 0.0.0.0 29y1pu2xvdbzd0g2823sa275-wpengine.netdna-ssl.com
@@ -2235,9 +2233,11 @@
 0.0.0.0 algonomy.com
 0.0.0.0 algorecs.com
 0.0.0.0 aliabdaal.ck.page
-0.0.0.0 alibaba-inc.com
+0.0.0.0 alibaba.com
+0.0.0.0 alicdn.com
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.com
 0.0.0.0 aliexpress.ru
 0.0.0.0 alikunlun.com
 0.0.0.0 alimama.com
@@ -2255,6 +2255,7 @@
 0.0.0.0 aliveachiever.com
 0.0.0.0 aliyuncs.com
 0.0.0.0 all4phones.de
+0.0.0.0 allaboutcookies.org
 0.0.0.0 allawntech.com
 0.0.0.0 allbud.s3.amazonaws.com
 0.0.0.0 allesoverlithium.nl
@@ -2777,8 +2778,6 @@
 0.0.0.0 apkdo.com
 0.0.0.0 apkpure.net
 0.0.0.0 aplikacii.com
-0.0.0.0 aplus-sdk.alibaba-inc.com
-0.0.0.0 aplus.aliexpress.com
 0.0.0.0 apm.bigbank.eu
 0.0.0.0 apnarm.net.au
 0.0.0.0 apns.ios.ijinshan.com
@@ -3032,7 +3031,6 @@
 0.0.0.0 as.yuewz.com
 0.0.0.0 as49870.net
 0.0.0.0 asciinema.org
-0.0.0.0 ase.aidcgroup.net
 0.0.0.0 ase.com
 0.0.0.0 asfinagv8.azureedge.net
 0.0.0.0 ashampoo.com
@@ -3062,7 +3060,6 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adobetm.com
 0.0.0.0 assets.adsttc.com
-0.0.0.0 assets.alicdn.com
 0.0.0.0 assets.cengage.com
 0.0.0.0 assets.contently.com
 0.0.0.0 assets.context.ly
@@ -3101,6 +3098,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-band-camp.net
 0.0.0.0 at-config.sensic.net
+0.0.0.0 at.alicdn.com
 0.0.0.0 at.cylex.de
 0.0.0.0 at98.com
 0.0.0.0 atanx.alicdn.com
@@ -3791,6 +3789,7 @@
 0.0.0.0 bitbrowser.net
 0.0.0.0 bitcoin-powersupply.com
 0.0.0.0 bitcoinbazis.hu
+0.0.0.0 bitdefender.com
 0.0.0.0 bitdreams.com
 0.0.0.0 bitgravity.com
 0.0.0.0 bitly.com
@@ -6703,6 +6702,7 @@
 0.0.0.0 distance.to
 0.0.0.0 distantdesktop.com
 0.0.0.0 distillery.wistia.com
+0.0.0.0 distinctlypr.co
 0.0.0.0 distribusion.com
 0.0.0.0 districtm.ca
 0.0.0.0 distroscale.com
@@ -7524,6 +7524,7 @@
 0.0.0.0 expoints.nl
 0.0.0.0 exponea.com
 0.0.0.0 exponential.com
+0.0.0.0 expresscps.com
 0.0.0.0 expresspigeon.com
 0.0.0.0 ext.frontusercontent.com
 0.0.0.0 extend.tv
@@ -8330,6 +8331,7 @@
 0.0.0.0 getsidekick.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 getsmartlook.com
+0.0.0.0 getsmsfast.com
 0.0.0.0 getsocial.io
 0.0.0.0 getsquirrel.co
 0.0.0.0 gettrackify.com
@@ -8637,7 +8639,6 @@
 0.0.0.0 gtm.wearetriple.com
 0.0.0.0 gtminet.net
 0.0.0.0 gtmniddocks.herokuapp.com
-0.0.0.0 gtmsdd.alicdn.com
 0.0.0.0 gtmucs.cn
 0.0.0.0 gtranslate.io
 0.0.0.0 gtranslate.net
@@ -13785,6 +13786,7 @@
 0.0.0.0 rakutenadvertising.com
 0.0.0.0 rallymind.com
 0.0.0.0 rampanel.com
+0.0.0.0 randybaldwin.com
 0.0.0.0 rankactive.com
 0.0.0.0 rankinggenie.com
 0.0.0.0 rankur.com
@@ -13983,7 +13985,6 @@
 0.0.0.0 requestmetrics.com
 0.0.0.0 rereddit.com
 0.0.0.0 res-geo.cdn.office.net
-0.0.0.0 res-odx.op-mobile.opera.com
 0.0.0.0 res.adcome.cn
 0.0.0.0 res.aduu.cn
 0.0.0.0 res.gwifi.com.cn
@@ -14296,7 +14297,6 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 s.on-device.com
 0.0.0.0 s.p.youku.com
-0.0.0.0 s.pinimg.com
 0.0.0.0 s.qhupdate.com
 0.0.0.0 s.search.naver.com
 0.0.0.0 s.skimresources.com
@@ -14709,6 +14709,7 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
+0.0.0.0 sentry.io
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.odysee.tv
@@ -14864,6 +14865,7 @@
 0.0.0.0 shortest-route.com
 0.0.0.0 shortnim.me
 0.0.0.0 shortstack.com
+0.0.0.0 shorturl.asia
 0.0.0.0 shorturl.at
 0.0.0.0 shotwithgeforce.com
 0.0.0.0 shouji.360.cn
@@ -16017,7 +16019,6 @@
 0.0.0.0 tags.adnuntius.com
 0.0.0.0 tags.affiliatefuture.com
 0.0.0.0 tags.chip.de
-0.0.0.0 tags.creativecdn.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.experian.co.uk
 0.0.0.0 tags.expo9.exponential.com
@@ -16524,7 +16525,6 @@
 0.0.0.0 tracking.atreemo.com
 0.0.0.0 tracking.audio.thisisdax.com
 0.0.0.0 tracking.aws.judge.me
-0.0.0.0 tracking.budbee.com
 0.0.0.0 tracking.cdiscount.com
 0.0.0.0 tracking.cdn.vpsvc.com
 0.0.0.0 tracking.chilipiper.com
@@ -16540,6 +16540,7 @@
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.krone.at
+0.0.0.0 tracking.launchpotato.com
 0.0.0.0 tracking.lindner-group.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.live.wetter.at
@@ -16690,6 +16691,7 @@
 0.0.0.0 trybento.co
 0.0.0.0 trycoupons.net
 0.0.0.0 tryoffer.net
+0.0.0.0 tryonyxfinancial.info
 0.0.0.0 tryribbon.com
 0.0.0.0 trysales.net
 0.0.0.0 tsboi.com
@@ -16750,6 +16752,7 @@
 0.0.0.0 twdvd.com
 0.0.0.0 tweaking.in
 0.0.0.0 tweakwise.com
+0.0.0.0 tweakwisenavigator.net
 0.0.0.0 twh5.com
 0.0.0.0 twiago.com
 0.0.0.0 twil.io
@@ -16952,7 +16955,6 @@
 0.0.0.0 us-reviews.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.tags.newscgp.com
-0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us01.rayjump.com
 0.0.0.0 us01campaign.zoom.us
 0.0.0.0 us3.datadoghq.com
@@ -17620,6 +17622,7 @@
 0.0.0.0 wordstream.com
 0.0.0.0 workarea.com
 0.0.0.0 workcomposer.com
+0.0.0.0 workers.dev
 0.0.0.0 workingatcompanyinfo.nl
 0.0.0.0 worldaccelerator.com
 0.0.0.0 worldchasetag.com
@@ -17692,7 +17695,6 @@
 0.0.0.0 www-cultofmac-com.ezoic.net
 0.0.0.0 www-elperiodic-com.translate.goog
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 wxsnsdy.wxs.qq.com

@@ -1,9 +1,9 @@
-# Title: ph00lt0 - Blocklist
-# Expires: 1 day
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Homepage: https://github.com/ph00lt0/blocklist
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 local-zone: "0.r.msn.com." always_null
 local-zone: "00007.casino." always_null
 local-zone: "0001.casino." always_null
@@ -5311,6 +5311,7 @@ local-zone: "alibaba-inc.com." always_null
 local-zone: "alicervois.com." always_null
 local-zone: "alicloudapi.com." always_null
 local-zone: "alida.com." always_null
+local-zone: "aliexpress.ru." always_null
 local-zone: "alikunlun.com." always_null
 local-zone: "alimama.com." always_null
 local-zone: "alimento.be." always_null
@@ -6337,7 +6338,6 @@ local-zone: "aswpsdkeu.com." always_null
 local-zone: "aswpsdkus.com." always_null
 local-zone: "at-band-camp.net." always_null
 local-zone: "at-config.sensic.net." always_null
-local-zone: "at.alicdn.com." always_null
 local-zone: "at.cylex.de." always_null
 local-zone: "at98.com." always_null
 local-zone: "atanx.alicdn.com." always_null
@@ -16278,6 +16278,7 @@ local-zone: "gtm.vanmoof.com." always_null
 local-zone: "gtm.wearetriple.com." always_null
 local-zone: "gtminet.net." always_null
 local-zone: "gtmniddocks.herokuapp.com." always_null
+local-zone: "gtmsdd.alicdn.com." always_null
 local-zone: "gtmucs.cn." always_null
 local-zone: "gtr96.casino." always_null
 local-zone: "gtranslate.io." always_null
@@ -25574,7 +25575,6 @@ local-zone: "sentry.hetzner.company." always_null
 local-zone: "sentry.hq.citizenlab.co." always_null
 local-zone: "sentry.internxt.com." always_null
 local-zone: "sentry.invoicing.co." always_null
-local-zone: "sentry.io." always_null
 local-zone: "sentry.justwatch.com." always_null
 local-zone: "sentry.matrix.org." always_null
 local-zone: "sentry.odysee.tv." always_null
@@ -30218,6 +30218,7 @@ local-zone: "www-fifa.work." always_null
 local-zone: "www-fifa.xin." always_null
 local-zone: "www-fifa.xyz." always_null
 local-zone: "www-googletagmanager.l.google.com." always_null
+local-zone: "www.googletagmanager.com." always_null
 local-zone: "www138.civicscience.com." always_null
 local-zone: "wwwv-roblox.co." always_null
 local-zone: "wx.xwjqr.com." always_null

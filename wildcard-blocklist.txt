@@ -1,9 +1,9 @@
-# Title: ph00lt0 - Blocklist
-# Expires: 1 day
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Homepage: https://github.com/ph00lt0/blocklist
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 *.0.r.msn.com
 *.00007.casino
 *.0001.casino
@@ -5311,6 +5311,7 @@
 *.alicervois.com
 *.alicloudapi.com
 *.alida.com
+*.aliexpress.ru
 *.alikunlun.com
 *.alimama.com
 *.alimento.be
@@ -16278,6 +16279,7 @@
 *.gtm.wearetriple.com
 *.gtminet.net
 *.gtmniddocks.herokuapp.com
+*.gtmsdd.alicdn.com
 *.gtmucs.cn
 *.gtr96.casino
 *.gtranslate.io
@@ -30218,6 +30220,7 @@
 *.www-fifa.xin
 *.www-fifa.xyz
 *.www-googletagmanager.l.google.com
+*.www.googletagmanager.com
 *.www138.civicscience.com
 *.wwwv-roblox.co
 *.wx.xwjqr.com

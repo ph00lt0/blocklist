@@ -1,0 +1,12 @@
+HTTP/2 302 
+server: nginx
+date: Wed, 24 Jun 2026 18:02:48 GMT
+content-type: text/html; charset=UTF-8
+location: https://bvnt2.org/product/conferentie-2026-vrijdag
+link: <https://bvnt2.org/wp-json/>; rel="https://api.w.org/"
+link: <https://bvnt2.org/?p=11124>; rel=shortlink
+x-redirect-by: WordPress
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+

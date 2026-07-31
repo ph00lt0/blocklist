@@ -1,0 +1,6 @@
+dnspython==2.6.1
+pyfiglet==1.0.2
+python-dateutil==2.9.0.post0
+python-whois==0.9.4
+six==1.16.0
+validators==0.33.0

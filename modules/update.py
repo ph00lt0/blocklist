@@ -3,6 +3,7 @@
 
 import re
 import json
+import sys
 
 import pyfiglet
 
@@ -82,3 +83,10 @@ def update_blocklists(blocklist_file='blocklist.txt'):
 
     print(pyfiglet.figlet_format(F"First-party domains extracted and saved to all blocklists."))
 
+
+if __name__ == '__main__':
+    try:
+        update_blocklists('blocklist.txt')
+    except FileNotFoundError as e:
+        print(f"Error: {e}")
+        sys.exit(1)

@@ -7,7 +7,6 @@ import pyfiglet
 from modules.validate import validate_record
 from modules.clean import format_record
 from modules.status import can_be_added
-from modules.update import update_blocklists
 
 os.system('cls' if os.name == 'nt' else 'clear')
 print(pyfiglet.figlet_format("IMPORT", font="banner3-D"))

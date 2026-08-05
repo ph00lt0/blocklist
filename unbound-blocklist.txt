@@ -11167,6 +11167,7 @@ local-zone: "clarium.global.ssl.fastly.net." always_null
 local-zone: "clarium.io." always_null
 local-zone: "clarivate.com." always_null
 local-zone: "clarivoy.com." always_null
+local-zone: "clarksdalecollegiate.org." always_null
 local-zone: "classiccasino.com." always_null
 local-zone: "classicposters.com." always_null
 local-zone: "classistatic.de." always_null
@@ -12363,6 +12364,7 @@ local-zone: "crvbl.com." always_null
 local-zone: "crwdcntrl.net." always_null
 local-zone: "crwellfood.com." always_null
 local-zone: "crxsoso.com." always_null
+local-zone: "cryprecovery.com." always_null
 local-zone: "crypto-casino-uk.com." always_null
 local-zone: "crypto.com." always_null
 local-zone: "crypto.news." always_null

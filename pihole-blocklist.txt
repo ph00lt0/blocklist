@@ -11167,6 +11167,7 @@
 0.0.0.0 clarium.io
 0.0.0.0 clarivate.com
 0.0.0.0 clarivoy.com
+0.0.0.0 clarksdalecollegiate.org
 0.0.0.0 classiccasino.com
 0.0.0.0 classicposters.com
 0.0.0.0 classistatic.de
@@ -12363,6 +12364,7 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 crwellfood.com
 0.0.0.0 crxsoso.com
+0.0.0.0 cryprecovery.com
 0.0.0.0 crypto-casino-uk.com
 0.0.0.0 crypto.com
 0.0.0.0 crypto.news

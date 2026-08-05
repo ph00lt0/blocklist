@@ -11167,6 +11167,7 @@ clarium.global.ssl.fastly.net CNAME .
 clarium.io CNAME .
 clarivate.com CNAME .
 clarivoy.com CNAME .
+clarksdalecollegiate.org CNAME .
 classiccasino.com CNAME .
 classicposters.com CNAME .
 classistatic.de CNAME .
@@ -12363,6 +12364,7 @@ crvbl.com CNAME .
 crwdcntrl.net CNAME .
 crwellfood.com CNAME .
 crxsoso.com CNAME .
+cryprecovery.com CNAME .
 crypto-casino-uk.com CNAME .
 crypto.com CNAME .
 crypto.news CNAME .

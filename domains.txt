@@ -11167,6 +11167,7 @@ clarium.global.ssl.fastly.net
 clarium.io
 clarivate.com
 clarivoy.com
+clarksdalecollegiate.org
 classiccasino.com
 classicposters.com
 classistatic.de
@@ -12363,6 +12364,7 @@ crvbl.com
 crwdcntrl.net
 crwellfood.com
 crxsoso.com
+cryprecovery.com
 crypto-casino-uk.com
 crypto.com
 crypto.news

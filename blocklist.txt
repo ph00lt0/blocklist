@@ -29049,7 +29049,6 @@ ziekenhuischeck.nl##.toaster-overlay
 ||tcmworld.org^
 ||tcommunity.linkedin.com^
 ||td-pixel.c.appier.net^
-||td.com^
 ||td.intelliresponse.com^
 ||td.yieldify.com^
 ||tdbtrk.com^
@@ -34040,3 +34039,7 @@ ziekenhuischeck.nl##.toaster-overlay
 ||zeexpress-bebidas48h.shop^
 ||zeexpress-drinks48h.shop^
 ||zoredaye.com^
+||cmgfinancialconsultant.com^
+||mailepicvin.com^
+||ynu.ac.kr^
+||arzhost.com^

@@ -6233,6 +6233,7 @@ arvax.xyz CNAME .
 arxivcu.containers.piwik.pro CNAME .
 aryanjalan.com CNAME .
 aryel.io CNAME .
+arzhost.com CNAME .
 arzneiprivat.de CNAME .
 as.al CNAME .
 as.aplus.pptv.com CNAME .
@@ -11591,6 +11592,7 @@ cmcdn.de CNAME .
 cmcm.com CNAME .
 cmcore.com CNAME .
 cmdcbv.app CNAME .
+cmgfinancialconsultant.com CNAME .
 cmp-static.springer.com CNAME .
 cmp-teamblue.services CNAME .
 cmp.aftenbladet.no CNAME .
@@ -20689,6 +20691,7 @@ mailblue.nl CNAME .
 mailcamp.nl CNAME .
 mailcampaigns.nl CNAME .
 mailcatch.com CNAME .
+mailepicvin.com CNAME .
 mailerking.net CNAME .
 mailerlite.com CNAME .
 mailersend.com CNAME .
@@ -28996,7 +28999,6 @@ tcmclassics.org CNAME .
 tcmworld.org CNAME .
 tcommunity.linkedin.com CNAME .
 td-pixel.c.appier.net CNAME .
-td.com CNAME .
 td.intelliresponse.com CNAME .
 td.yieldify.com CNAME .
 tdbtrk.com CNAME .
@@ -31984,6 +31986,7 @@ ymcqb.com CNAME .
 ymetrica1.com CNAME .
 ymp.io CNAME .
 ymtracking.com CNAME .
+ynu.ac.kr CNAME .
 yoadx.com CNAME .
 yoc-adserver.com CNAME .
 yoc-performance.com CNAME .

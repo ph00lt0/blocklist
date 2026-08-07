@@ -6233,6 +6233,7 @@ local-zone: "arvax.xyz." always_null
 local-zone: "arxivcu.containers.piwik.pro." always_null
 local-zone: "aryanjalan.com." always_null
 local-zone: "aryel.io." always_null
+local-zone: "arzhost.com." always_null
 local-zone: "arzneiprivat.de." always_null
 local-zone: "as.al." always_null
 local-zone: "as.aplus.pptv.com." always_null
@@ -11591,6 +11592,7 @@ local-zone: "cmcdn.de." always_null
 local-zone: "cmcm.com." always_null
 local-zone: "cmcore.com." always_null
 local-zone: "cmdcbv.app." always_null
+local-zone: "cmgfinancialconsultant.com." always_null
 local-zone: "cmp-static.springer.com." always_null
 local-zone: "cmp-teamblue.services." always_null
 local-zone: "cmp.aftenbladet.no." always_null
@@ -20689,6 +20691,7 @@ local-zone: "mailblue.nl." always_null
 local-zone: "mailcamp.nl." always_null
 local-zone: "mailcampaigns.nl." always_null
 local-zone: "mailcatch.com." always_null
+local-zone: "mailepicvin.com." always_null
 local-zone: "mailerking.net." always_null
 local-zone: "mailerlite.com." always_null
 local-zone: "mailersend.com." always_null
@@ -28996,7 +28999,6 @@ local-zone: "tcmclassics.org." always_null
 local-zone: "tcmworld.org." always_null
 local-zone: "tcommunity.linkedin.com." always_null
 local-zone: "td-pixel.c.appier.net." always_null
-local-zone: "td.com." always_null
 local-zone: "td.intelliresponse.com." always_null
 local-zone: "td.yieldify.com." always_null
 local-zone: "tdbtrk.com." always_null
@@ -31984,6 +31986,7 @@ local-zone: "ymcqb.com." always_null
 local-zone: "ymetrica1.com." always_null
 local-zone: "ymp.io." always_null
 local-zone: "ymtracking.com." always_null
+local-zone: "ynu.ac.kr." always_null
 local-zone: "yoadx.com." always_null
 local-zone: "yoc-adserver.com." always_null
 local-zone: "yoc-performance.com." always_null

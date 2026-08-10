@@ -1,9 +1,9 @@
-# Title: ph00lt0 - Blocklist
-# Expires: 1 day
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Homepage: https://github.com/ph00lt0/blocklist
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 000037.cc CNAME .
 00007.casino CNAME .
 0001.casino CNAME .
@@ -5302,6 +5302,7 @@ aliabdaal.ck.page CNAME .
 alibaba-inc.com CNAME .
 alicloudapi.com CNAME .
 alida.com CNAME .
+aliexpress.ru CNAME .
 alikunlun.com CNAME .
 alimama.com CNAME .
 alimento.be CNAME .
@@ -6346,7 +6347,6 @@ aswpsdkeu.com CNAME .
 aswpsdkus.com CNAME .
 at-band-camp.net CNAME .
 at-config.sensic.net CNAME .
-at.alicdn.com CNAME .
 at.cylex.de CNAME .
 at98.com CNAME .
 atanx.alicdn.com CNAME .
@@ -16701,6 +16701,7 @@ gtm.reflect.app CNAME .
 gtm.vanmoof.com CNAME .
 gtminet.net CNAME .
 gtmniddocks.herokuapp.com CNAME .
+gtmsdd.alicdn.com CNAME .
 gtmucs.cn CNAME .
 gtr96.casino CNAME .
 gtranslate.io CNAME .
@@ -26631,7 +26632,6 @@ sentry.hetzner.company CNAME .
 sentry.hq.citizenlab.co CNAME .
 sentry.internxt.com CNAME .
 sentry.invoicing.co CNAME .
-sentry.io CNAME .
 sentry.justwatch.com CNAME .
 sentry.matrix.org CNAME .
 sentry.odysee.tv CNAME .
@@ -31492,6 +31492,7 @@ www-fifa.work CNAME .
 www-fifa.xin CNAME .
 www-googletagmanager.l.google.com CNAME .
 www-robllox.com CNAME .
+www.googletagmanager.com CNAME .
 www.helloalbuquerque.com CNAME .
 www138.civicscience.com CNAME .
 wwwv-roblox.co CNAME .

@@ -3,7 +3,7 @@
 Comprehensive blocklist for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole
 
 [![Stars](https://img.shields.io/github/stars/ph00lt0/blocklist?style=social)](https://github.com/ph00lt0/blocklist)
-[![Issues](https://img.shields.io/github/issues/ph00lt0/blocklist)](https://github.com/ph00lt0/blocklist/issues)
+[![Issues](https://img.shields.io/github/issues/ph00lt0/blocklist)](https://github.com/CaptainCodeAU/littlesnitch_blocklist/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/ph00lt0/blocklist)](https://github.com/ph00lt0/blocklist/commits)
 
 ---
@@ -128,7 +128,7 @@ This repository generates multiple formats for different tools:
 ### uBlock Origin
 
 **Easiest method:**
-1. [Click here](https://ph00lt0.github.io/blocklist/install.html) to add automatically
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/install.html) to add automatically
 2. Click the Subscribe button
 
 **Manual method:**
@@ -136,7 +136,7 @@ This repository generates multiple formats for different tools:
 2. Navigate to Filter lists
 3. Scroll down to + Custom
 4. Check Import...
-5. Paste: https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
+5. Paste: https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 6. Click Apply changes
 
 ---
@@ -147,7 +147,7 @@ This repository generates multiple formats for different tools:
 2. Click Add blocklist
 3. Select Add a custom list
 4. Choose a name and paste:
-   https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
+   https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 5. Click Save
 
 ---
@@ -155,7 +155,7 @@ This repository generates multiple formats for different tools:
 ### AdGuard
 
 **Automatic method:**
-1. [Click here](https://ph00lt0.github.io/blocklist/install.html) to subscribe
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/install.html) to subscribe
 2. For best results, enable the trusted checkbox
 3. Click Subscribe
 
@@ -164,7 +164,7 @@ This repository generates multiple formats for different tools:
 2. Navigate to Filters > Custom
 3. Enable the custom switch
 4. Click Add custom filter
-5. Paste: https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
+5. Paste: https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 6. Enable trusted checkbox
 7. Click Subscribe
 
@@ -172,7 +172,7 @@ This repository generates multiple formats for different tools:
 
 ### Little Snitch
 
-1. [Click here](https://ph00lt0.github.io/blocklist/little-snitch-install.html) to add the list
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/little-snitch-install.html) to add the list
 2. Allow your browser to open Little Snitch
 3. Verify update frequency is set to daily and list is active
 4. Press Add
@@ -183,7 +183,7 @@ This repository generates multiple formats for different tools:
 
 1. Go to: brave://adblock
 2. Under Add custom filter lists, paste:
-   https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
+   https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt
 3. Click Add
 
 ---
@@ -194,7 +194,7 @@ PiHole uses a different format (hosts blocklist):
 
 1. Go to Group Management > Adlist
 2. Paste the URL:
-   https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
+   https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/hosts-blocklist.txt
 3. Click Add
 4. Go to Tools > Update Gravity > Update
 
@@ -213,7 +213,7 @@ PiHole uses a different format (hosts blocklist):
 **Add the blocklist:**
 1. Go to Firewall > pfBlockerNG > DNSBL > DNSBL Groups
 2. Click Add
-3. Paste: https://raw.githubusercontent.com/ph00lt0/blocklist/master/unbound-blocklist.txt
+3. Paste: https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/unbound-blocklist.txt
 4. Click Save
 5. Enable auto-updates and force update if needed
 
@@ -226,12 +226,12 @@ PiHole uses a different format (hosts blocklist):
 1. Create a folder and download script:
    ```zsh
    mkdir -p /media/ph00lt0-blocklist/
-   wget https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt -O /media/ph00lt0-blocklist/blocklist.txt
+   wget https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt -O /media/ph00lt0-blocklist/blocklist.txt
    ```
 
 2. Add to crontab for daily updates:
    ```zsh
-   crontab -l | { cat; echo "00 11 * * * /usr/bin/wget https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt -O /media/ph00lt0-blocklist/blocklist.txt"; } | crontab -
+   crontab -l | { cat; echo "00 11 * * * /usr/bin/wget https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/blocklist.txt -O /media/ph00lt0-blocklist/blocklist.txt"; } | crontab -
    ```
 
 3. In Open Snitch UI:
@@ -256,7 +256,7 @@ PiHole uses a different format (hosts blocklist):
    http://1-uabaqaaaqaqaa.max.rethinkdns.com/
 
 **MobileConfig (Apple Devices):**
-1. [Click here](https://ph00lt0.github.io/blocklist/rethinkdns.mobileconfig) to download
+1. [Click here](https://captaincodeau.github.io/littlesnitch_blocklist/rethinkdns.mobileconfig) to download
 2. Open Settings/Preferences
 3. Tap Profile Downloaded
 4. Tap Install and follow onscreen instructions
@@ -268,7 +268,7 @@ NextDNS doesn't natively support this list, but you can import it via API using 
 ```zsh
 pip install nextdnsctl nextdnsctl 
 login 
-nextdnsctl denylist import <profile> https://raw.githubusercontent.com/ph00lt0/blocklist/master/domains.txt
+nextdnsctl denylist import <profile> https://raw.githubusercontent.com/CaptainCodeAU/littlesnitch_blocklist/master/domains.txt
 ```
 
 ---
@@ -300,8 +300,8 @@ If a website or app breaks after enabling this blocklist:
 
 Found a broken website or want to suggest improvements?
 
-- [Report a broken site](https://github.com/ph00lt0/blocklist/issues/new?template=broken-website-or-app.md)
-- [Request a feature](https://github.com/ph00lt0/blocklist/issues/new)
+- [Report a broken site](https://github.com/CaptainCodeAU/littlesnitch_blocklist/issues/new?template=broken-website-or-app.md)
+- [Request a feature](https://github.com/CaptainCodeAU/littlesnitch_blocklist/issues/new)
 
 ---
 

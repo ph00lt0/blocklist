@@ -1,9 +1,9 @@
-# Title: ph00lt0 - Blocklist
-# Expires: 1 day
-# Issue tracker: https://github.com/ph00lt0/blocklist
-# Homepage: https://github.com/ph00lt0/blocklist
-# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 
+# Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
+# Expires: 1 day
+# Homepage: https://github.com/ph00lt0/blocklist
+# Issue tracker: https://github.com/ph00lt0/blocklist
+# Title: ph00lt0 - Blocklist
 0.0.0.0 000037.cc
 0.0.0.0 00007.casino
 0.0.0.0 0001.casino
@@ -5302,6 +5302,7 @@
 0.0.0.0 alibaba-inc.com
 0.0.0.0 alicloudapi.com
 0.0.0.0 alida.com
+0.0.0.0 aliexpress.ru
 0.0.0.0 alikunlun.com
 0.0.0.0 alimama.com
 0.0.0.0 alimento.be
@@ -6346,7 +6347,6 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-band-camp.net
 0.0.0.0 at-config.sensic.net
-0.0.0.0 at.alicdn.com
 0.0.0.0 at.cylex.de
 0.0.0.0 at98.com
 0.0.0.0 atanx.alicdn.com
@@ -16701,6 +16701,7 @@
 0.0.0.0 gtm.vanmoof.com
 0.0.0.0 gtminet.net
 0.0.0.0 gtmniddocks.herokuapp.com
+0.0.0.0 gtmsdd.alicdn.com
 0.0.0.0 gtmucs.cn
 0.0.0.0 gtr96.casino
 0.0.0.0 gtranslate.io
@@ -26631,7 +26632,6 @@
 0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
-0.0.0.0 sentry.io
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.odysee.tv
@@ -31492,6 +31492,7 @@
 0.0.0.0 www-fifa.xin
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www-robllox.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.helloalbuquerque.com
 0.0.0.0 www138.civicscience.com
 0.0.0.0 wwwv-roblox.co

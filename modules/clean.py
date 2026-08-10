@@ -1,6 +1,5 @@
 # Description: This file contains functions to clean up a list of records, removing duplicates, empty records, and invalid records.
 
-
 import pyfiglet
 
 from modules.validate import validate_record, is_domain_or_ip

@@ -1,100 +1,56 @@
-# Getting started
+# Contributing
 
-## Use both repositories
+Want to add or remove a domain from the blocklist? Just **open an issue**, that's all you need to do. You should not edit any files.
 
-```zsh
-git clone git@gitlab.com:ph00lt0/blocklists.git
-cd blocklists
-git remote add github git@github.com:ph00lt0/blocklists.git
-```
+## What to Include
 
-## Init project
+When opening an issue, please provide:
 
-```zsh
-python3 -m venv blocklist
-source blocklist/bin/activate
-pip install -r requirements.txt
-# add simple command to open project and venv by just typing block
-echo "$(pwd)" > ~/.blocklist
-echo "alias block='cd \$(cat ~/.blocklist) && source \$(cat ~/.blocklist)/blocklist/bin/activate'" >> ~/.zshrc
-echo "alias block='cd \$(cat ~/.blocklist) && source \$(cat ~/.blocklist)/blocklist/bin/activate'" >> ~/.bashrc
-echo "python cleanup.py" > .git/hooks/pre-commit
-chmod +x .git/hooks/pre-commit
-```
+1. **The domain** (just `example.com`, not `https://...`)
+2. **What you want** (add or remove)
+3. **Why** (tracker, popup, malware, etc.)
 
-## Insert
+---
 
-```zsh
-block
-python insert.py
-```
+## What Belongs on the Blocklist
 
-Insert supports, domains and filepaths.
+See the [full list of what this blocklist blocks](https://github.com/ph00lt0/blocklist#what-this-blocklist-blocks) in the README. If the domain fits any of those categories, it's eligible.
 
-If you enter a domain name, https:// or http and trailing / are automatically being removed if included.
-So https://annoyingtrackers.com/ becomes: annoyingtrackers.com
+### ❌ Will Not Be Added
 
-Hit enter, and the domain will be added to the list.
+- **Legitimate CDNs** (e.g., jQuery libraries, font hosts)
+- **Essential infrastructure** (e.g., payment gateways, login systems)
+- **Core website functionality** (e.g., `images.example.com` for a legitimate site)
+- **Email servers** for legitimate communication
 
-## Badlist
+---
 
-```zsh
-block
-python badlist.py
-```
+## Removal Policy
 
-Badlist supports filepaths and domains.
+**Removals are exceptionally rare.** Once a domain is added, it stays on the blocklist. If a domain falls under any of the categories listed in the [README](https://github.com/ph00lt0/blocklist#what-this-blocklist-blocks), it will **not** be removed — no exceptions. This includes domains that are offline, repurposed, or claim to have changed practices.
 
-## Made a mistake?
+Additionally, known issues described in the [Known Issues](https://github.com/ph00lt0/blocklist#known-issues) section will not be fixed. Don't open issues about them.
 
-Make your changes in blocklist.txt and commit.
+### When Removal Is Considered (Rare)
 
-## Remove a URL parameter (legacy)
+| Scenario | Evidence Required |
+|----------|------------------|
+| **False positive** | Clear proof the domain was never used for its alleged purpose |
+| **Shared infrastructure mistake** | Proof that blocking breaks unrelated legitimate services (e.g., misidentified CDN) |
 
-```zsh
-./insert-filter-remove-parameter.sh
-```
+The default assumption is "block first, question later." Expect a thorough review before any removal happens.
 
-OR
+---
 
-```zsh
-insert-filter-remove-parameter-domain.sh
-```
-Carefully choose whether to remove a parameter from only a single domain or globally. A clear tracker can be removed from all websites, but a UID may be required for some websites to operate. Generic UID names should not be removed globally.
+## Quick Tips
 
-Depending on the script enter the domain name and the parameter to remove. The script will do the rest.
+- ✅ Use just the domain name (`example.com`)
+- ❌ Don't include URLs (`https://example.com/page`)
+- ✅ One domain per issue (keeps things organized)
+- ✅ Explain why it should be added/removed
 
-## Remove element by class or id (legacy)
+---
 
-```zsh
+## After You Submit
 
-./insert-filter-remove-element.sh
-```
-
-- Enter the domain
-- Enter the identifier, following given instructions
-
-Hit enter, and the rule will be added to the blocklist. Note that this won't be in the pihole blocklist and work for DNS only filters
-
-## Add filter to remove a class from element (legacy)
-
-```zsh
-./insert-filter-remove-class.sh 
-```
-
-Do you want to remove a class from an element? For example a class making the body disappear to show a cookie banner?
-
-- Enter the domain name, the class, and the element to remove it from
-
-Hit enter, and the class removal rule will be added
-Note that all rules are set to stay active, so that they will continue to work on page refreshes as well as with async content.
-
-## Add filter to remove hidden overflow (legacy)
-
-```zsh
-./insert-filter-remove-overflow-hidden.sh
-```
-
-- Enter the domain name
-
-Hit enter, and the hidden overflow will be removed from the body
+Your issue will be reviewed and taken care of. Thanks for helping improve the blocklist!

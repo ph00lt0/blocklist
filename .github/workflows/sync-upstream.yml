@@ -2,12 +2,14 @@ name: Sync upstream and apply exclusions
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Every Monday at 6am UTC
-  workflow_dispatch:       # Allows manual trigger from GitHub Actions tab
+    - cron: '0 6,18 * * *'  # Twice daily at 06:00 and 18:00 UTC
+  workflow_dispatch:         # Allows manual trigger from GitHub Actions tab
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout fork
@@ -70,10 +72,29 @@ jobs:
           chmod +x apply-exclusions.sh
           ./apply-exclusions.sh
 
-      - name: Commit and push if changed
+      - name: Orphan commit and force push
+        env:
+          TARGET_BRANCH: master
         run: |
           git add -A
-          git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "chore: sync upstream $(date '+%Y-%m-%d') + apply exclusions"
-          git push origin master
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
 
+          # Orphan commit: discard all history, commit fresh state, force-push.
+          # This keeps the repo lightweight despite frequent automated syncs.
+          git checkout --orphan temp
+          git commit -am "chore: sync upstream $(date '+%Y-%m-%dT%H:%M') + apply exclusions"
+          git branch -D "$TARGET_BRANCH"
+          git branch -m "$TARGET_BRANCH"
+          git push -f origin "$TARGET_BRANCH"
+
+      - name: Summary
+        run: |
+          echo "## Upstream Sync" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Upstream**: ph00lt0/blocklist" >> $GITHUB_STEP_SUMMARY
+          echo "- **Schedule**: Twice daily (06:00 & 18:00 UTC)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Strategy**: Orphan commit (no history retention)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Completed**: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY

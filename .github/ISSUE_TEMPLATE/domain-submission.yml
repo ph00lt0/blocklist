@@ -1,0 +1,87 @@
+name: Domain Submission
+description: Submit a domain for inclusion in the blocklist
+title: "[Domain Submission]: "
+labels:
+  - domain-submission
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Domain Submission
+        Please provide accurate information to help us evaluate this domain for inclusion.
+
+  - type: input
+    id: domain
+    attributes:
+      label: Domain Name
+      description: The exact domain name to add (e.g., example.com)
+      placeholder: example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What type of threat or behavior does this domain exhibit?
+      options:
+        - "🔍 Analytics & Tracking"
+        - "📊 Stats Platforms"
+        - "🍪 Cookie & Consent Management"
+        - "🐛 Debugging Trackers"
+        - "🎯 Data Brokers"
+        - "🔗 Tracking Parameters"
+        - "💄 Cosmetic Filters"
+        - "📧 Newsletter and Chatbot Popups"
+        - "🌐 Ad Networks & Servers"
+        - "🏗️ Programmatic Bidding Infrastructure"
+        - "🖼️ Retargeting & Audience Matching"
+        - "📰 Social Widgets"
+        - "✍️ Font & Image Trackers"
+        - "⛏️ Cryptojacking"
+        - "🔀 Browser Hijackers"
+        - "🦠 Malware"
+        - "🖥️ Remote Administration Tools"
+        - "🎣 Phishing Campaigns"
+        - "💊 Health & Medical Scams"
+        - "🛠️ Tech Support Scams"
+        - "💰 Investment & Crypto Scams"
+        - "🎰 Gambling and Lottery"
+        - "💌 Romance & Impersonation Scams"
+        - "🎁 Survey & Sweepstakes Scams"
+        - "📬 Email Spam Domains"
+        - "📩 Spam Domains"
+        - "💿 Shareware & Fake Downloads"
+        - "🧱 Bloatware & Trialware"
+        - "🤖 AI Data Harvesting"
+    validations:
+      required: true
+
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Explain why this domain should be blocked.
+      placeholder: |
+        Observed tracking pixels on multiple sites. Contains 'analytics' in subdomains.
+        VirusTotal detection: X malicious/78 engines.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting Evidence (Optional)
+      description: Links to URLscan.io, VirusTotal, OTX pulses, or other intelligence sources.
+      placeholder: https://urlscan.io/result/...
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Verification Confirmation
+      options:
+        - label: I confirm this is not a legitimate service I'm trying to block for personal reasons
+          required: true
+        - label: I understand approved domains become part of an automated blocklist used by others
+          required: true

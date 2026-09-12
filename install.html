@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ph00lt0 Blocklist</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: #030308;
+            color: #e0e0e0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        canvas {
+            position: fixed;
+            top: 0; left: 0;
+            z-index: 0;
+        }
+
+        /* === Scanlines + CRT === */
+        .crt-overlay {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 50;
+            pointer-events: none;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.08) 0px,
+                rgba(0, 0, 0, 0.08) 1px,
+                transparent 1px,
+                transparent 3px
+            );
+        }
+        .crt-vignette {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 49;
+            pointer-events: none;
+            background: radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.4) 100%);
+        }
+        .crt-flicker {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 48;
+            pointer-events: none;
+            background: rgba(109, 74, 255, 0.012);
+            animation: crtFlicker 0.18s infinite;
+        }
+        @keyframes crtFlicker {
+            0%   { opacity: 0.9; }
+            50%  { opacity: 1; }
+            100% { opacity: 0.92; }
+        }
+
+        /* === Boot Sequence === */
+        .boot-screen {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 100;
+            background: #030308;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            color: #6d4aff;
+            font-size: 0.8rem;
+            line-height: 1.6;
+            transition: opacity 0.3s;
+        }
+        .boot-screen.done {
+            opacity: 0;
+            pointer-events: none;
+        }
+        .boot-line {
+            opacity: 0;
+            white-space: nowrap;
+        }
+        .boot-line.visible { opacity: 1; }
+        .boot-cursor {
+            display: inline-block;
+            width: 7px;
+            height: 0.8rem;
+            background: #6d4aff;
+            animation: blink 0.5s step-end infinite;
+            vertical-align: text-bottom;
+            margin-left: 2px;
+        }
+        @keyframes blink { 50% { opacity: 0; } }
+
+        /* === HUD === */
+        .hud {
+            position: fixed;
+            top: 16px;
+            z-index: 9;
+            display: flex;
+            gap: 0.6rem;
+            align-items: center;
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.64rem;
+        }
+        .hud-left { left: 20px; }
+        .hud-right { right: 20px; }
+
+        .stat-box {
+            background: rgba(10, 10, 18, 0.8);
+            border: 1px solid rgba(109, 74, 255, 0.25);
+            border-radius: 4px;
+            padding: 0.3rem 0.65rem;
+            color: #555;
+            backdrop-filter: blur(4px);
+            letter-spacing: 0.03em;
+        }
+        .stat-box .label { color: #444; }
+        .stat-box .val { color: #6d4aff; font-weight: 700; }
+        .stat-box .val.combo { color: #ff0080; }
+        .stat-box .val.danger { color: #ff4757; }
+
+        .stat-cursor {
+            display: inline-block;
+            width: 5px;
+            height: 0.7rem;
+            background: #6d4aff;
+            animation: blink 0.5s step-end infinite;
+            vertical-align: text-bottom;
+            margin-left: 2px;
+        }
+
+        /* === Glitch Title === */
+        .glitch-title {
+            position: relative;
+            display: block;
+            margin-bottom: 0.8rem;
+        }
+        .glitch-title h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            margin: 0;
+            color: #fff;
+            text-shadow: 0 0 30px rgba(109, 74, 255, 0.4);
+            position: relative;
+            z-index: 2;
+        }
+        .glitch-title::before,
+        .glitch-title::after {
+            content: attr(data-text);
+            position: absolute;
+            top: 0; left: 0;
+            font-size: 1.6rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            opacity: 0;
+            pointer-events: none;
+        }
+        .glitch-title.glitching::before {
+            color: #ff0080;
+            opacity: 0.8;
+            animation: glitchLeft 0.18s steps(2) forwards;
+        }
+        .glitch-title.glitching::after {
+            color: #00f0ff;
+            opacity: 0.8;
+            animation: glitchRight 0.18s steps(2) forwards;
+        }
+        @keyframes glitchLeft {
+            0%   { transform: translate(0); clip-path: inset(0 0 0 0); }
+            25%  { transform: translate(-3px, 1px); clip-path: inset(20% 0 60% 0); }
+            50%  { transform: translate(-5px, -2px); clip-path: inset(50% 0 20% 0); }
+            75%  { transform: translate(-2px, 1px); clip-path: inset(10% 0 80% 0); }
+            100% { transform: translate(0); clip-path: inset(0 0 0 0); opacity: 0; }
+        }
+        @keyframes glitchRight {
+            0%   { transform: translate(0); clip-path: inset(0 0 0 0); }
+            25%  { transform: translate(3px, -1px); clip-path: inset(60% 0 20% 0); }
+            50%  { transform: translate(5px, 2px); clip-path: inset(20% 0 50% 0); }
+            75%  { transform: translate(2px, -1px); clip-path: inset(80% 0 10% 0); }
+            100% { transform: translate(0); clip-path: inset(0 0 0 0); opacity: 0; }
+        }
+
+        /* === Ads === */
+        .fake-ad {
+            position: fixed;
+            z-index: 3;
+            padding: 0.6rem 1.2rem;
+            background: linear-gradient(135deg, #ff4757, #ff3838);
+            border-radius: 6px;
+            font-size: 0.72rem;
+            font-weight: 700;
+            color: #fff;
+            white-space: nowrap;
+            cursor: crosshair;
+            box-shadow: 0 0 18px rgba(255, 71, 87, 0.45), 0 0 35px rgba(255, 71, 87, 0.15);
+            opacity: 0;
+            animation: adPop 0.25s ease-out forwards;
+            transition: transform 0.12s, box-shadow 0.12s;
+            user-select: none;
+        }
+        @keyframes adPop {
+            0%   { opacity: 0; transform: scale(0.5) rotate(-5deg); }
+            100% { opacity: 1; transform: scale(1) rotate(0); }
+        }
+        .fake-ad:hover {
+            transform: scale(1.08);
+            box-shadow: 0 0 28px rgba(255, 71, 87, 0.75), 0 0 55px rgba(255, 71, 87, 0.3);
+        }
+        .fake-ad.targeted {
+            box-shadow: 0 0 28px rgba(109, 74, 255, 0.75), 0 0 55px rgba(109, 74, 255, 0.3);
+            border: 2px solid #6d4aff;
+        }
+        .fake-ad.radar-marked {
+            box-shadow: 0 0 28px rgba(0, 240, 255, 0.6), 0 0 55px rgba(0, 240, 255, 0.2);
+            border: 2px dashed #00f0ff;
+            animation: radarPulse 0.5s ease-in-out infinite;
+        }
+        @keyframes radarPulse {
+            0%, 100% { opacity: 1; }
+            50%      { opacity: 0.6; }
+        }
+        .fake-ad.destroyed { pointer-events: none; }
+        .fake-ad.missed {
+            animation: adMissed 0.45s ease-in forwards !important;
+            pointer-events: none;
+        }
+        @keyframes adMissed {
+            0%   { opacity: 1; }
+            100% { opacity: 0; transform: translateY(20px) scale(0.8); filter: blur(4px); }
+        }
+
+        /* === RGB Split Ghost === */
+        .rgb-ghost {
+            position: fixed;
+            z-index: 3;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            font-size: 0.72rem;
+            font-weight: 700;
+            white-space: nowrap;
+            pointer-events: none;
+            opacity: 0;
+            animation: ghostSplit 0.3s ease-out forwards;
+        }
+        .rgb-ghost.red {
+            color: rgba(255, 0, 128, 0.7);
+            background: rgba(255, 0, 128, 0.05);
+            border: 1px solid rgba(255, 0, 128, 0.3);
+        }
+        .rgb-ghost.cyan {
+            color: rgba(0, 240, 255, 0.7);
+            background: rgba(0, 240, 255, 0.05);
+            border: 1px solid rgba(0, 240, 255, 0.3);
+        }
+        @keyframes ghostSplit {
+            0%   { opacity: 0.75; transform: translate(0, 0) scale(1); }
+            100% { opacity: 0; transform: translate(var(--dx, 0), var(--dy, 0)) scale(1.25); filter: blur(3px); }
+        }
+
+        /* === Digital Dissolution === */
+        .pixel-bit {
+            position: fixed;
+            z-index: 4;
+            pointer-events: none;
+            will-change: transform, opacity;
+        }
+
+        /* === Ship Laser (purple) === */
+        .laser {
+            position: fixed;
+            z-index: 4;
+            background: linear-gradient(90deg, transparent 0%, rgba(109, 74, 255, 0.4) 15%, #6d4aff 50%, #fff 85%, transparent 100%);
+            height: 4px;
+            pointer-events: none;
+            transform-origin: left center;
+            box-shadow: 0 0 15px rgba(109, 74, 255, 0.9), 0 0 30px rgba(109, 74, 255, 0.5);
+            border-radius: 2px;
+        }
+
+        /* === Radar Defense Beam (cyan) === */
+        .radar-beam {
+            position: fixed;
+            z-index: 7;
+            background: linear-gradient(90deg, transparent 0%, rgba(0, 240, 255, 0.2) 10%, #00f0ff 40%, #fff 60%, rgba(0, 240, 255, 0.6) 90%, transparent 100%);
+            height: 3px;
+            pointer-events: none;
+            transform-origin: left center;
+            box-shadow: 0 0 20px rgba(0, 240, 255, 1), 0 0 40px rgba(0, 240, 255, 0.6);
+            border-radius: 2px;
+            opacity: 0;
+            animation: beamFire 0.25s ease-out forwards;
+        }
+        @keyframes beamFire {
+            0%   { opacity: 0; }
+            20%  { opacity: 1; }
+            100% { opacity: 0; }
+        }
+
+        /* === Radar Charge Pulse === */
+        .radar-charge {
+            position: fixed;
+            z-index: 7;
+            border-radius: 50%;
+            border: 2px solid rgba(0, 240, 255, 0.6);
+            pointer-events: none;
+            animation: chargePulse 0.2s ease-out forwards;
+        }
+        @keyframes chargePulse {
+            0%   { width: 0; height: 0; opacity: 1; transform: translate(-50%, -50%); }
+            100% { width: 60px; height: 60px; opacity: 0; transform: translate(-50%, -50%); }
+        }
+
+        /* === Ship === */
+        .ship-wrap {
+            position: fixed;
+            z-index: 5;
+            font-size: 2.4rem;
+            pointer-events: none;
+            filter: drop-shadow(0 0 12px rgba(109, 74, 255, 0.8));
+            will-change: transform;
+            top: 0; left: 0;
+        }
+        .ship-wrap.firing { filter: drop-shadow(0 0 25px rgba(109, 74, 255, 1)); }
+
+        /* === Explosion Flash === */
+        .exp-flash {
+            position: fixed;
+            z-index: 4;
+            border-radius: 50%;
+            background: radial-gradient(circle, rgba(255,255,255,0.9) 0%, rgba(0, 240, 255, 0.5) 30%, transparent 70%);
+            pointer-events: none;
+            animation: flashExpand 0.35s ease-out forwards;
+        }
+        @keyframes flashExpand {
+            0%   { width: 0; height: 0; opacity: 1; transform: translate(-50%, -50%); }
+            50%  { opacity: 0.75; }
+            100% { width: 110px; height: 110px; opacity: 0; transform: translate(-50%, -50%); }
+        }
+
+        /* === Score Popup === */
+        .combo-flash {
+            position: fixed;
+            z-index: 11;
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 1.3rem;
+            font-weight: 900;
+            color: #00f0ff;
+            text-shadow: 0 0 15px rgba(0, 240, 255, 0.8);
+            pointer-events: none;
+            animation: comboFly 0.9s ease-out forwards;
+            transform: translate(-50%, -50%);
+        }
+        @keyframes comboFly {
+            0%   { opacity: 0; transform: translate(-50%, -50%) scale(0.5); }
+            15%  { opacity: 1; transform: translate(-50%, -50%) scale(1.15); }
+            100% { opacity: 0; transform: translate(-50%, -120%) scale(1); }
+        }
+
+        /* === Radar === */
+        .radar-container {
+            position: fixed;
+            z-index: 6;
+            pointer-events: none;
+        }
+        .radar-core {
+            position: absolute;
+            top: 50%; left: 50%;
+            width: 8px; height: 8px;
+            background: #00f0ff;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 0 0 12px #00f0ff;
+            animation: corePulse 1.5s ease-in-out infinite;
+        }
+        @keyframes corePulse {
+            0%, 100% { opacity: 0.6; box-shadow: 0 0 12px #00f0ff; }
+            50%      { opacity: 1; box-shadow: 0 0 20px #00f0ff, 0 0 40px rgba(0,240,255,0.4); }
+        }
+        .radar-circle {
+            position: absolute;
+            border: 1px solid rgba(0, 240, 255, 0.2);
+            border-radius: 50%;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .radar-sweep {
+            position: absolute;
+            top: 0; left: 50%;
+            width: 50%;
+            height: 50%;
+            transform-origin: bottom left;
+            background: conic-gradient(from 0deg, transparent 0deg, transparent 300deg, rgba(0, 240, 255, 0.35) 350deg, rgba(0, 240, 255, 0.55) 360deg);
+            border-radius: 0 100% 0 0;
+            animation: radarSweep 1.8s linear infinite;
+        }
+        @keyframes radarSweep {
+            from { transform: rotate(0deg); }
+            to   { transform: rotate(360deg); }
+        }
+        .radar-cross {
+            position: absolute;
+            top: 0; left: 50%;
+            width: 1px; height: 100%;
+            background: rgba(0, 240, 255, 0.08);
+        }
+        .radar-cross-h {
+            position: absolute;
+            top: 50%; left: 0;
+            width: 100%; height: 1px;
+            background: rgba(0, 240, 255, 0.08);
+        }
+
+        /* === Central UI === */
+        .container {
+            position: relative;
+            z-index: 10;
+            text-align: center;
+            padding: 2rem;
+            max-width: 500px;
+        }
+
+        .mode-badge {
+            display: block;
+            padding: 0.25rem 0.6rem;
+            background: rgba(109, 74, 255, 0.12);
+            border: 1px solid rgba(109, 74, 255, 0.25);
+            border-radius: 4px;
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.6rem;
+            color: #888;
+            margin-bottom: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        p.subtle {
+            color: #777;
+            font-size: 0.82rem;
+            margin-bottom: 1.8rem;
+            line-height: 1.5;
+        }
+        p.subtle .hint {
+            color: #00f0ff;
+            font-weight: 600;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 0.8rem 2.3rem;
+            background: #6d4aff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            box-shadow: 0 0 18px rgba(109, 74, 255, 0.3), 0 0 55px rgba(109, 74, 255, 0.08);
+            animation: btnPulse 2.2s ease-in-out infinite;
+            margin-bottom: 1.5rem;
+        }
+        @keyframes btnPulse {
+            0%, 100% { box-shadow: 0 0 18px rgba(109, 74, 255, 0.3), 0 0 55px rgba(109, 74, 255, 0.08); }
+            50%      { box-shadow: 0 0 32px rgba(109, 74, 255, 0.5), 0 0 75px rgba(109, 74, 255, 0.15); }
+        }
+        .btn:hover { background: #5938d9; }
+
+        .fallback {
+            color: #444;
+            font-size: 0.74rem;
+            line-height: 1.6;
+        }
+        .fallback a { color: #00f0ff; text-decoration: underline; }
+
+        .missed-banner {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 9;
+            background: rgba(255, 71, 87, 0.15);
+            border: 1px solid rgba(255, 71, 87, 0.3);
+            color: #ff4757;
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.68rem;
+            padding: 0.4rem 1rem;
+            border-radius: 4px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .missed-banner.show { opacity: 1; }
+    </style>
+</head>
+<body>
+<canvas id="starfield"></canvas>
+<div class="crt-flicker"></div>
+<div class="crt-vignette"></div>
+<div class="crt-overlay"></div>
+
+<!-- Boot Screen -->
+<div class="boot-screen" id="bootScreen">
+    <div class="boot-line" id="boot0">&gt; PH00LT0 BLOCKLIST ENGINE<span class="boot-cursor"></span></div>
+    <div class="boot-line" id="boot1">&gt; ADS DETECTED — ENGAGING</div>
+    <div class="boot-line" id="boot2" style="color:#00f0ff;">&gt; READY</div>
+</div>
+
+<!-- HUD -->
+<div class="hud hud-left">
+    <div class="stat-box"><span class="label">SCORE[</span><span class="val" id="score">0</span><span class="label">]</span></div>
+    <div class="stat-box"><span class="label">COMBO[</span><span class="val combo" id="combo">x1</span><span class="label">]</span></div>
+</div>
+<div class="hud hud-right">
+    <div class="stat-box"><span class="label">ADS[</span><span class="val danger" id="liveAds">0</span><span class="label">]<span class="stat-cursor"></span></span></div>
+</div>
+
+<div class="missed-banner" id="missedBanner">⚠ AD ESCAPED — COMBO RESET</div>
+
+<!-- Radar -->
+<div class="radar-container" id="radar" style="width:260px;height:260px;left:50%;top:50%;transform:translate(-50%,-50%);">
+    <div class="radar-circle" style="width:100%;height:100%;"></div>
+    <div class="radar-circle" style="width:66%;height:66%;"></div>
+    <div class="radar-circle" style="width:33%;height:33%;"></div>
+    <div class="radar-cross"></div>
+    <div class="radar-cross-h"></div>
+    <div class="radar-sweep"></div>
+    <div class="radar-core" id="radarCore"></div>
+</div>
+
+<!-- Ship -->
+<div class="ship-wrap" id="ship">🚀</div>
+
+<!-- Main Content -->
+<div class="container">
+    <div class="glitch-title" id="glitchTitle" data-text="ph00lt0 Blocklist">
+        <h1>ph00lt0 Blocklist</h1>
+    </div>
+    <span class="mode-badge" id="modeBadge">UBLOCK ORIGIN / ADGUARD</span>
+    <p class="subtle" id="introText">
+        <span class="hint">Click outer ads</span> to send your ship.
+        The radar auto-intercepts anything that gets too close.
+    </p>
+
+    <a class="btn" id="subscribeBtn" href="#">Subscribe to Blocklist</a>
+
+    <div class="fallback">
+        Or see setup instructions in the<br>
+        <a href="https://github.com/ph00lt0/Blocklist#readme">README</a>
+    </div>
+</div>
+
+<script>
+/* ==================== Config ==================== */
+var urlParams = new URLSearchParams(window.location.search);
+var littleSnitchMode = urlParams.has('ls') && urlParams.get('ls') !== 'false';
+
+var AD_LIFETIME     = 8000;
+var SPAWN_INTERVAL  = 2000;
+var MAX_ADS         = 6;
+var SHIP_SPEED_PX   = 10;
+var COMBO_TIMEOUT   = 3000;
+var RADAR_RANGE     = 130;
+
+/* ==================== Ad Texts (by category) ==================== */
+var adTexts = [
+    /* Originals */
+    '🎯 YOU WON AN IPHONE!', '🔥 LIMITED OFFER!!!', 'CLICK NOW TO CLAIM',
+    '1 WEIRD TRICK...', '💰 EARN $5000/DAY', 'INSTALL THIS UPDATE',
+    'YOUR PC IS INFECTED', 'DEAL EXPIRES SOON!', '🚨 VIRUS DETECTED',
+    'HOT SINGLES NEAR YOU', 'FREE TRIAL — ACT NOW', '⚡ SPEED UP YOUR PC',
+    'AD: DOUBLE YOUR RAM', '⚠️ SECURITY ALERT', 'CONGRATULATIONS!!!',
+    '📈 1000% ROI GUARANTEED', '🎁 CLAIM YOUR REWARD', '❤️ MATCHES WAITING',
+
+    /* Analytics & Tracking */
+    '📊 Google Analytics loaded',
+    '🔍 Tracking your scroll depth...',
+    'Segment: User identified #44721',
+    'Tracking pixel deployed ✓',
+
+    /* Stats Platforms */
+    '📈 Profiling your session...',
+    'Mixpanel: 47 events captured',
+    'Session replay recording active',
+
+    /* Cookie & Consent */
+    '🍪 We value your privacy (Accept All)',
+    'By continuing you agree to 847 partners',
+    'Cookies required to read this article',
+    'Manage preferences (all required)',
+
+    /* Debugging Trackers */
+    '🐛 Sentry error report sent',
+    'LogRocket: Recording your screen',
+    'Bugsnag: Session tracked + uploaded',
+
+    /* Data Brokers */
+    '🗂️ Your profile sold to 3 buyers',
+    'Data enriched: 52 datapoints',
+    'Acxiom: Identity resolved ✓',
+
+    /* Tracking Parameters */
+    '?utm_source=tracker&utm_medium=sell',
+    '?fbclid=IwAR0x0_track_pixel',
+    '?gclid=EA123456_click_id',
+
+    /* Newsletter & Chatbot Popups */
+    '📧 SUBSCRIBE! 20% OFF (exit intent)',
+    '👋 Hi! I\'m an AI chatbot. Need help?',
+    'Wait! Don\'t leave! Get 10% off!',
+
+    /* Ad Networks & Servers */
+    '🌐 doubleclick.net served ad',
+    'Ad delivery in progress...',
+    'Serving ad from adservice.com',
+
+    /* Programmatic Bidding */
+    '🏗️ RTB auction: bid $0.03',
+    'DSP: Audience matched, bidding...',
+    'SSP: Impression sold to highest bidder',
+
+    /* Retargeting & Audience Matching */
+    '🖼️ You looked at shoes. Buy now?',
+    'Audience matched: interested buyer',
+    'Cross-site tracking: 14 sites visited',
+
+    /* Social Widgets */
+    '📰 Share on Facebook (we track you)',
+    'Tweet this (we see everything)',
+    'LinkedIn insight tag loaded',
+
+    /* Font & Image Trackers */
+    '✍️ Loading tracking font.css...',
+    'Canvas fingerprint captured ✓',
+    'WebGL renderer: identified',
+
+    /* Cryptojacking */
+    '⛏️ Mining crypto in background...',
+    'CPU: 99% (not for your benefit)',
+    'Coinhive script injected',
+
+    /* Browser Hijackers */
+    '🔀 Your homepage has been changed',
+    'Redirecting to sponsor site...',
+    'New tab opened: ad.example',
+
+    /* Malware */
+    '🦠 Trojan payload delivered',
+    'Malware.exe downloaded',
+    'Rootkit installed silently',
+
+    /* Remote Administration Tools */
+    '🖥️ Remote access granted',
+    'Your screen is being watched',
+    'TeamViewer: connected (not yours)',
+
+    /* Phishing */
+    '🎣 Verify your PayPal password',
+    'Your package is held at customs',
+    'Amazon: Confirm your billing info',
+    'Netflix: Account suspended, click here',
+
+    /* Health & Medical Scams */
+    '💊 Miracle cure! CBD heals everything',
+    'Doctors HATE this one trick!',
+    'Lose 30kg in 3 days — guaranteed',
+
+    /* Tech Support Scams */
+    '🛠️ Call Microsoft: 1-800-FAKE-NOW',
+    'Your PC is at risk! Call immediately!',
+    'Windows Defender: Threat detected! Call',
+
+    /* Investment & Crypto Scams */
+    '💰 10x your Bitcoin in 7 days!',
+    'Guaranteed returns, zero risk!',
+    'Elon Musk: Send BTC, get 2x back!',
+
+    /* Gambling & Lottery */
+    '🎰 1 spin away from $50,000!',
+    'Bet now! 99% win rate promised',
+    'You\'ve been selected for VIP slots',
+
+    /* Romance & Impersonation */
+    '💌 I\'m stranded abroad — send money',
+    'Love at first sight! Send gift cards?',
+    'I\'m a prince and I need your help',
+
+    /* Survey & Sweepstakes */
+    '🎁 You\'ve been selected! Claim iPhone',
+    'Complete this survey for $500',
+    'You\'re our 1,000,000th visitor!',
+
+    /* Email Spam */
+    '📬 VIAGRA 90% OFF — c1ick here',
+    'FR## M0RTGAGE QUOTE — reply NOW',
+    'Nigerian prince: urgent business proposal',
+
+    /* Spam Domains */
+    'Bulk mail sent: 50,000 recipients',
+    'Spam campaign deployed ✓',
+    'Snowshoe spam relay active',
+
+    /* Shareware & Fake Downloads */
+    '💿 Download FREE VLC Player (+18 tools)',
+    'Crack included! (also: spyware)',
+    'Warning: Your Flash is outdated — update',
+
+    /* Bloatware & Trialware */
+    '🧱 McAfee pre-installed (can\'t remove)',
+    '30-day trial active (never expires)',
+    'Toolbar installed — enjoy your new tabs',
+
+    /* AI Data Harvesting */
+    '🤖 Your input trains our AI model',
+    'ChatGPT logs everything you type',
+    'We sell your conversations to advertisers',
+    'AI training: your data harvested ✓'
+];
+
+/* ==================== Game State ==================== */
+var W = window.innerWidth;
+var H = window.innerHeight;
+
+var state = {
+    score: 0,
+    combo: 1,
+    shipX: W / 2,
+    shipY: H / 2,
+    shipHomeX: W / 2,
+    shipHomeY: H / 2,
+    shipAngle: 0,
+    shipTargetX: null,
+    shipTargetY: null,
+    shipQueuedAd: null,
+    shipReturning: false,
+    firing: false,
+    adIdCounter: 0,
+    liveAds: [],
+    booted: false
+};
+
+window.addEventListener('resize', function () {
+    W = window.innerWidth;
+    H = window.innerHeight;
+    state.shipHomeX = W / 2;
+    state.shipHomeY = H / 2;
+});
+
+/* ==================== Boot Sequence ==================== */
+(function () {
+    var delays = [0, 300, 600];
+    ['boot0', 'boot1', 'boot2'].forEach(function (id, i) {
+        setTimeout(function () {
+            document.getElementById(id).classList.add('visible');
+        }, delays[i]);
+    });
+    setTimeout(function () {
+        document.getElementById('bootScreen').classList.add('done');
+        state.booted = true;
+        startSpawning();
+        setTimeout(spawnAd, 100);
+        setTimeout(function () {
+            var bs = document.getElementById('bootScreen');
+            if (bs.parentNode) bs.parentNode.removeChild(bs);
+        }, 400);
+    }, 900);
+})();
+
+/* ==================== Glitch Title ==================== */
+(function () {
+    var glitchEl = document.getElementById('glitchTitle');
+    function randomGlitch() {
+        glitchEl.classList.add('glitching');
+        setTimeout(function () { glitchEl.classList.remove('glitching'); }, 180);
+    }
+    setInterval(function () {
+        if (Math.random() > 0.65) randomGlitch();
+    }, 3500);
+})();
+
+/* ==================== Starfield ==================== */
+(function () {
+    var canvas = document.getElementById('starfield');
+    var ctx = canvas.getContext('2d');
+    var w, h, stars, numStars;
+
+    function init() {
+        w = canvas.width = window.innerWidth;
+        h = canvas.height = window.innerHeight;
+        numStars = Math.floor(w * h / 4500);
+        stars = [];
+        for (var i = 0; i < numStars; i++) stars.push(newStar(true));
+    }
+    function newStar(randomZ) {
+        return { x: (Math.random() - 0.5) * w, y: (Math.random() - 0.5) * h, z: randomZ ? Math.random() : 1, pz: 0 };
+    }
+    function draw() {
+        ctx.fillStyle = '#030308';
+        ctx.fillRect(0, 0, w, h);
+        ctx.translate(w / 2, h / 2);
+        for (var i = 0; i < stars.length; i++) {
+            var s = stars[i];
+            s.pz = s.z; s.z -= 0.012;
+            if (s.z <= 0) { stars[i] = newStar(false); continue; }
+            var sx = s.x / s.z, sy = s.y / s.z;
+            var psx = s.x / s.pz, psy = s.y / s.pz;
+            var size = (1 - s.z) * 1.5, alpha = (1 - s.z) * 0.6;
+            ctx.strokeStyle = 'rgba(109, 74, 255, ' + alpha + ')';
+            ctx.lineWidth = size;
+            ctx.beginPath(); ctx.moveTo(psx, psy); ctx.lineTo(sx, sy); ctx.stroke();
+            if (size > 0.8) {
+                ctx.fillStyle = 'rgba(180, 160, 255, ' + (alpha * 0.8) + ')';
+                ctx.fillRect(sx - 0.5, sy - 0.5, 1, 1);
+            }
+        }
+        ctx.translate(-w / 2, -h / 2);
+        requestAnimationFrame(draw);
+    }
+    init(); draw();
+    window.addEventListener('resize', init);
+})();
+
+/* ==================== Ship Movement ==================== */
+var shipEl = document.getElementById('ship');
+var t = 0;
+
+function updateShip() {
+    t += 0.016;
+
+    if (state.shipTargetX !== null && state.shipTargetY !== null) {
+        var dx = state.shipTargetX - state.shipX;
+        var dy = state.shipTargetY - state.shipY;
+        var dist = Math.hypot(dx, dy);
+
+        if (dist < 12) {
+            var tx = state.shipTargetX, ty = state.shipTargetY;
+            state.shipTargetX = null;
+            state.shipTargetY = null;
+            fireFromShip(tx, ty);
+            state.shipReturning = true;
+        } else {
+            var moveDist = Math.min(SHIP_SPEED_PX, dist);
+            state.shipX += (dx / dist) * moveDist;
+            state.shipY += (dy / dist) * moveDist;
+            state.shipAngle = Math.atan2(dy, dx) + Math.PI / 2;
+        }
+    } else if (state.shipReturning) {
+        var hdx = state.shipHomeX - state.shipX;
+        var hdy = state.shipHomeY - state.shipY;
+        var hdist = Math.hypot(hdx, hdy);
+
+        if (hdist < 15) {
+            state.shipReturning = false;
+        } else {
+            var mDist = Math.min(SHIP_SPEED_PX * 0.8, hdist);
+            state.shipX += (hdx / hdist) * mDist;
+            state.shipY += (hdy / hdist) * mDist;
+            state.shipAngle = Math.atan2(hdy, hdx) + Math.PI / 2;
+        }
+    } else {
+        var idleRange = 25;
+        state.shipX = state.shipHomeX + Math.sin(t * 0.7) * idleRange;
+        state.shipY = state.shipHomeY + Math.cos(t * 0.5) * (idleRange * 0.6);
+        state.shipAngle = Math.sin(t * 0.3) * 0.2;
+    }
+
+    shipEl.style.transform =
+        'translate(' + state.shipX + 'px, ' + state.shipY + 'px) ' +
+        'rotate(' + state.shipAngle + 'rad)';
+
+    requestAnimationFrame(updateShip);
+}
+updateShip();
+
+/* ==================== Ship Firing (manual, purple) ==================== */
+function fireFromShip(tx, ty) {
+    if (state.firing) return;
+    state.firing = true;
+    shipEl.classList.add('firing');
+
+    var dx = tx - state.shipX;
+    var dy = ty - state.shipY;
+    var len = Math.hypot(dx, dy);
+    var angle = Math.atan2(dy, dx);
+
+    var laser = document.createElement('div');
+    laser.className = 'laser';
+    laser.style.width = len + 'px';
+    laser.style.left = state.shipX + 'px';
+    laser.style.top = state.shipY + 'px';
+    laser.style.transform = 'rotate(' + angle + 'rad)';
+    document.body.appendChild(laser);
+
+    setTimeout(function () {
+        if (laser.parentNode) laser.parentNode.removeChild(laser);
+    }, 250);
+
+    if (state.shipQueuedAd && state.shipQueuedAd.parentNode &&
+        !state.shipQueuedAd.classList.contains('destroyed') &&
+        !state.shipQueuedAd.classList.contains('missed'))
+    {
+        destroyAd(state.shipQueuedAd);
+    }
+
+    state.shipQueuedAd = null;
+
+    setTimeout(function () {
+        state.firing = false;
+        shipEl.classList.remove('firing');
+    }, 300);
+}
+
+/* ==================== Radar Firing (auto, cyan) ==================== */
+function fireFromRadar(adEl) {
+    var rect = adEl.getBoundingClientRect();
+    var tx = rect.left + rect.width / 2;
+    var ty = rect.top + rect.height / 2;
+
+    var cx = W / 2;
+    var cy = H / 2;
+    var dx = tx - cx;
+    var dy = ty - cy;
+    var len = Math.hypot(dx, dy);
+    var angle = Math.atan2(dy, dx);
+
+    /* Charge pulse from radar core */
+    var charge = document.createElement('div');
+    charge.className = 'radar-charge';
+    charge.style.left = cx + 'px';
+    charge.style.top = cy + 'px';
+    document.body.appendChild(charge);
+    setTimeout(function () { if (charge.parentNode) charge.parentNode.removeChild(charge); }, 200);
+
+    /* Fire beam after short charge-up */
+    setTimeout(function () {
+        var beam = document.createElement('div');
+        beam.className = 'radar-beam';
+        beam.style.width = len + 'px';
+        beam.style.left = cx + 'px';
+        beam.style.top = cy + 'px';
+        beam.style.transform = 'rotate(' + angle + 'rad)';
+        document.body.appendChild(beam);
+
+        setTimeout(function () {
+            if (beam.parentNode) beam.parentNode.removeChild(beam);
+        }, 250);
+
+        /* Destroy the ad */
+        if (adEl.parentNode &&
+            !adEl.classList.contains('destroyed') &&
+            !adEl.classList.contains('missed'))
+        {
+            destroyAd(adEl);
+        }
+    }, 150);
+}
+
+/* ==================== Ship Targeting (manual) ==================== */
+function sendShipToAd(adEl) {
+    if (adEl.classList.contains('destroyed') ||
+        adEl.classList.contains('missed') ||
+        adEl.classList.contains('targeted') ||
+        adEl.classList.contains('radar-marked'))
+        return;
+
+    adEl.classList.add('targeted');
+    state.shipQueuedAd = adEl;
+
+    var rect = adEl.getBoundingClientRect();
+    state.shipTargetX = rect.left + rect.width / 2;
+    state.shipTargetY = rect.top + rect.height / 2;
+}
+
+/* ==================== Radar Auto-Defense ==================== */
+function updateRadar() {
+    state.liveAds.forEach(function (ad) {
+        if (ad.el.classList.contains('destroyed') ||
+            ad.el.classList.contains('missed') ||
+            ad.el.classList.contains('targeted') ||
+            ad.el.classList.contains('radar-marked'))
+            return;
+
+        var rect = ad.el.getBoundingClientRect();
+        var cx = rect.left + rect.width / 2;
+        var cy = rect.top + rect.height / 2;
+        var dx = cx - W / 2;
+        var dy = cy - H / 2;
+        var dist = Math.hypot(dx, dy);
+
+        if (dist < RADAR_RANGE) {
+            ad.el.classList.add('radar-marked');
+
+            /* Short lock-on delay, then radar fires */
+            setTimeout(function () {
+                if (ad.el.parentNode &&
+                    !ad.el.classList.contains('destroyed') &&
+                    !ad.el.classList.contains('missed') &&
+                    !ad.el.classList.contains('targeted'))
+                {
+                    fireFromRadar(ad.el);
+                }
+            }, 400);
+        }
+    });
+
+    requestAnimationFrame(updateRadar);
+}
+updateRadar();
+
+/* ==================== Ad Spawning ==================== */
+var spawnTimer;
+
+function startSpawning() {
+    spawnTimer = setInterval(spawnAd, SPAWN_INTERVAL);
+}
+
+function spawnAd() {
+    if (!state.booted) return;
+
+    var alive = state.liveAds.filter(function (a) {
+        return !a.el.classList.contains('destroyed') && !a.el.classList.contains('missed');
+    });
+    if (alive.length >= MAX_ADS) return;
+
+    var ad = document.createElement('div');
+    ad.className = 'fake-ad';
+    ad.textContent = adTexts[Math.floor(Math.random() * adTexts.length)];
+
+    var edge = Math.floor(Math.random() * 4);
+    var startX, startY, endX, endY;
+    var pad = 90;
+
+    if (edge === 0) {
+        startX = -220; startY = 70 + Math.random() * (H - 240);
+        endX = pad + Math.random() * (W - pad * 2 - 120); endY = startY;
+    } else if (edge === 1) {
+        startX = W + 220; startY = 70 + Math.random() * (H - 240);
+        endX = W - pad - Math.random() * (W - pad * 2 - 120); endY = startY;
+    } else if (edge === 2) {
+        startX = 80 + Math.random() * (W - 260); startY = -90;
+        endX = startX; endY = pad + Math.random() * (H - pad * 2 - 120);
+    } else {
+        startX = 80 + Math.random() * (W - 260); startY = H + 90;
+        endX = startX; endY = H - pad - Math.random() * (H - pad * 2 - 120);
+    }
+
+    endX = Math.max(20, Math.min(W - 200, endX));
+    endY = Math.max(60, Math.min(H - 80, endY));
+
+    ad.style.left = startX + 'px';
+    ad.style.top = startY + 'px';
+    document.body.appendChild(ad);
+
+    var id = ++state.adIdCounter;
+    var adObj = { id: id, el: ad };
+
+    ad.style.transition = 'left 0.8s cubic-bezier(0.2, 0.8, 0.3, 1), top 0.8s cubic-bezier(0.2, 0.8, 0.3, 1)';
+    requestAnimationFrame(function () {
+        ad.style.left = endX + 'px';
+        ad.style.top = endY + 'px';
+    });
+
+    setTimeout(function () {
+        ad.style.transition = 'transform 0.12s, box-shadow 0.12s';
+    }, 900);
+
+    ad.addEventListener('click', function () {
+        if (ad.classList.contains('destroyed') || ad.classList.contains('missed')) return;
+        if (ad.classList.contains('targeted') || ad.classList.contains('radar-marked')) return;
+        sendShipToAd(ad);
+    });
+
+    state.liveAds.push(adObj);
+
+    setTimeout(function () {
+        if (ad.parentNode && !ad.classList.contains('destroyed')) {
+            ad.classList.add('missed');
+            resetCombo();
+            showMissedBanner();
+            setTimeout(function () { if (ad.parentNode) ad.parentNode.removeChild(ad); }, 500);
+        }
+    }, AD_LIFETIME);
+
+    setTimeout(function () {
+        state.liveAds = state.liveAds.filter(function (a) { return a.id !== id; });
+    }, AD_LIFETIME + 800);
+
+    updateLiveCount();
+}
+
+/* ==================== Destroy Ad ==================== */
+var comboTimer = null;
+
+function destroyAd(ad) {
+    if (ad.classList.contains('destroyed')) return;
+
+    var rect = ad.getBoundingClientRect();
+    var cx = rect.left + rect.width / 2;
+    var cy = rect.top + rect.height / 2;
+    var adText = ad.textContent;
+    var adRect = { left: rect.left, top: rect.top, width: rect.width, height: rect.height };
+
+    /* === RGB Split Ghosts === */
+    var ghostR = document.createElement('div');
+    ghostR.className = 'rgb-ghost red';
+    ghostR.textContent = adText;
+    ghostR.style.left = adRect.left + 'px';
+    ghostR.style.top = adRect.top + 'px';
+    ghostR.style.setProperty('--dx', '-20px');
+    ghostR.style.setProperty('--dy', '-10px');
+    document.body.appendChild(ghostR);
+    setTimeout(function () { if (ghostR.parentNode) ghostR.parentNode.removeChild(ghostR); }, 350);
+
+    var ghostC = document.createElement('div');
+    ghostC.className = 'rgb-ghost cyan';
+    ghostC.textContent = adText;
+    ghostC.style.left = adRect.left + 'px';
+    ghostC.style.top = adRect.top + 'px';
+    ghostC.style.setProperty('--dx', '20px');
+    ghostC.style.setProperty('--dy', '10px');
+    document.body.appendChild(ghostC);
+    setTimeout(function () { if (ghostC.parentNode) ghostC.parentNode.removeChild(ghostC); }, 350);
+
+    ad.classList.add('destroyed');
+
+    /* === Digital Dissolution === */
+    var bits = 8;
+    var bitW = adRect.width / bits;
+    var bitH = adRect.height / 3;
+    var colors = ['#ff4757', '#ff3838', '#ff6b6b', '#ff0080', '#00f0ff', '#6d4aff'];
+
+    for (var row = 0; row < 3; row++) {
+        for (var col = 0; col < bits; col++) {
+            var bit = document.createElement('div');
+            bit.className = 'pixel-bit';
+            bit.style.width = bitW + 'px';
+            bit.style.height = bitH + 'px';
+            bit.style.left = (adRect.left + col * bitW) + 'px';
+            bit.style.top = (adRect.top + row * bitH) + 'px';
+            bit.style.background = colors[(row * bits + col) % colors.length];
+            bit.style.opacity = '0.85';
+            bit.style.boxShadow = '0 0 4px ' + bit.style.background;
+
+            var bvx = (col - bits / 2) * (2 + Math.random() * 3);
+            var bvy = (row - 1) * (3 + Math.random() * 4) + (Math.random() - 0.5) * 6;
+            var bRot = (Math.random() - 0.5) * 720;
+
+            (function (b, vx, vy, rot) {
+                var bx = 0, by = 0, bOp = 0.85, br = 0;
+                function animBit() {
+                    bx += vx; by += vy; vy += 0.3; vx *= 0.97; br += rot * 0.02; bOp -= 0.025;
+                    b.style.transform = 'translate(' + bx + 'px, ' + by + 'px) rotate(' + br + 'deg)';
+                    b.style.opacity = bOp;
+                    if (bOp > 0) requestAnimationFrame(animBit);
+                    else if (b.parentNode) b.parentNode.removeChild(b);
+                }
+                animBit();
+            })(bit, bvx, bvy, bRot);
+
+            document.body.appendChild(bit);
+        }
+    }
+
+    /* === Flash === */
+    var flash = document.createElement('div');
+    flash.className = 'exp-flash';
+    flash.style.left = cx + 'px';
+    flash.style.top = cy + 'px';
+    document.body.appendChild(flash);
+    setTimeout(function () { if (flash.parentNode) flash.parentNode.removeChild(flash); }, 350);
+
+    setTimeout(function () { if (ad.parentNode) ad.parentNode.removeChild(ad); }, 350);
+
+    /* === Score & Combo === */
+    var points = 100 * state.combo;
+    state.score += points;
+    state.combo++;
+
+    document.getElementById('score').textContent = state.score;
+    document.getElementById('combo').textContent = 'x' + state.combo;
+
+    if (state.combo > 1) {
+        var popup = document.createElement('div');
+        popup.className = 'combo-flash';
+        popup.textContent = '+' + points + (state.combo > 2 ? ' x' + state.combo : '');
+        popup.style.left = cx + 'px';
+        popup.style.top = cy + 'px';
+        document.body.appendChild(popup);
+        setTimeout(function () { if (popup.parentNode) popup.parentNode.removeChild(popup); }, 900);
+    }
+
+    clearTimeout(comboTimer);
+    comboTimer = setTimeout(resetCombo, COMBO_TIMEOUT);
+
+    updateLiveCount();
+}
+
+function resetCombo() {
+    state.combo = 1;
+    document.getElementById('combo').textContent = 'x1';
+}
+
+function updateLiveCount() {
+    var alive = state.liveAds.filter(function (a) {
+        return !a.el.classList.contains('destroyed') && !a.el.classList.contains('missed');
+    });
+    document.getElementById('liveAds').textContent = alive.length;
+}
+
+/* ==================== Missed Banner ==================== */
+var missedTimeout;
+function showMissedBanner() {
+    var b = document.getElementById('missedBanner');
+    b.classList.add('show');
+    clearTimeout(missedTimeout);
+    missedTimeout = setTimeout(function () { b.classList.remove('show'); }, 2500);
+}
+
+/* ==================== Subscribe Logic ==================== */
+(function () {
+    var blocklistTxtB64 = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3BoMDBsdDAvQmxvY2tsaXN0L21hc3Rlci9ibG9ja2xpc3QudHh0';
+    var lsrulesB64      = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3BoMDBsdDAvYmxvY2tsaXN0L3JlZnMv aGVhZHMvbWFzdGVyL2xpdHRsZS1zbml0Y2gtYmxvY2tsaXN0LmxzcnVsZXM';
+
+    var rawUrl = littleSnitchMode ? atob(lsrulesB64) : atob(blocklistTxtB64);
+    var subscribeUrl;
+
+    if (littleSnitchMode) {
+        subscribeUrl = 'x-littlesnitch:subscribe-rules?url=' + rawUrl;
+        document.getElementById('modeBadge').textContent = 'LITTLE SNITCH';
+        document.getElementById('subscribeBtn').textContent = 'Add to Little Snitch';
+    } else {
+        subscribeUrl = 'abp:subscribe?location=' + encodeURIComponent(rawUrl) + '&title=' + encodeURIComponent('ph00lt0 - blocklist');
+        document.getElementById('modeBadge').textContent = 'UBLOCK ORIGIN / ADGUARD';
+        document.getElementById('subscribeBtn').textContent = 'Subscribe to Blocklist';
+    }
+
+    document.getElementById('subscribeBtn').href = subscribeUrl;
+
+    setTimeout(function () {
+        window.location.href = subscribeUrl;
+    }, 3500);
+})();
+</script>
+<noscript>
+    <style>.hud, .ship-wrap, .missed-banner, .crt-overlay, .crt-vignette, .crt-flicker, .radar-container, .boot-screen { display: none; }</style>
+    <div class="container">
+        <h1 style="font-size:1.6rem;font-weight:700;color:#fff;text-shadow:0 0 30px rgba(109,74,255,0.4);margin:0 0 0.8rem 0;">ph00lt0 Blocklist</h1>
+        <span class="mode-badge">UBLOCK ORIGIN / ADGUARD</span>
+        <p class="subtle">JavaScript is required. Follow the manual setup instructions in the README:</p>
+        <div class="fallback">
+            <a href="https://github.com/ph00lt0/Blocklist#readme">View Setup Instructions</a>
+        </div>
+    </div>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadDisplayName</key>
+        <string>RethinkDNS+</string>
+        <key>PayloadOrganization</key>
+        <string>RethinkDNS.com</string>
+        <key>PayloadDescription</key>
+        <string>This profile enables RethinkDNS (DNS over HTTPS) on all networks using iOS, iPadOS, tvOS, macOS built-in Encrypted DNS feature.</string>
+        <key>ConsentText</key>
+        <dict>
+            <key>default</key>
+            <string>Modify:
+https://rethinkdns.com/configure?v=apple#1:oAIIAACAIAA=</string>
+        </dict>
+        <key>PayloadIdentifier</key>
+        <string>c2d10c26-b697-4f81-b158-e8d715032f72</string>
+        <key>PayloadScope</key>
+        <string>User</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>e72e92d0-21a3-47ed-8983-8a8368c8d0c7</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>DNSProtocol</key>
+                    <string>HTTPS</string>
+                    <key>ServerURL</key>
+                    <string>https://max.rethinkdns.com/1:oAIIAACAIAA=</string>
+                </dict>
+                <key>PayloadType</key>
+                <string>com.apple.dnsSettings.managed</string>
+                <key>PayloadIdentifier</key>
+                <string>1b8d49ea-9db5-4069-bb2d-6231c36c53a0</string>
+                <key>PayloadUUID</key>
+                <string>f8666d76-07ef-48e2-8849-aaeb52ab2397</string>
+                <key>PayloadDisplayName</key>
+                <string>RethinkDNS+</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+            </dict>
+        </array>
+    </dict>
+</plist>

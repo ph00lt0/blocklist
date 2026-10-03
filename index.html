@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ph00lt0 Blocklist</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: #030308;
+            color: #e0e0e0;
+            min-height: 100vh;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        canvas {
+            position: fixed;
+            top: 0; left: 0;
+            z-index: 0;
+        }
+
+        /* === CRT Effects === */
+        .crt-overlay {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 50;
+            pointer-events: none;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.06) 0px,
+                rgba(0, 0, 0, 0.06) 1px,
+                transparent 1px,
+                transparent 3px
+            );
+        }
+        .crt-vignette {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 49;
+            pointer-events: none;
+            background: radial-gradient(ellipse at center, transparent 50%, rgba(0, 0, 0, 0.4) 100%);
+        }
+        .crt-flicker {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 48;
+            pointer-events: none;
+            background: rgba(109, 74, 255, 0.01);
+            animation: crtFlicker 0.2s infinite;
+        }
+        @keyframes crtFlicker {
+            0%   { opacity: 0.92; }
+            50%  { opacity: 1; }
+            100% { opacity: 0.94; }
+        }
+
+        /* === Boot Sequence === */
+        .boot-screen {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 100;
+            background: #030308;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            color: #6d4aff;
+            font-size: 0.8rem;
+            line-height: 1.6;
+            transition: opacity 0.3s;
+        }
+        .boot-screen.done { opacity: 0; pointer-events: none; }
+        .boot-line { opacity: 0; white-space: nowrap; }
+        .boot-line.visible { opacity: 1; }
+        .boot-cursor {
+            display: inline-block;
+            width: 7px;
+            height: 0.8rem;
+            background: #6d4aff;
+            animation: blink 0.5s step-end infinite;
+            vertical-align: text-bottom;
+            margin-left: 2px;
+        }
+        @keyframes blink { 50% { opacity: 0; } }
+
+        /* === Layout === */
+        .wrapper {
+            position: relative;
+            z-index: 10;
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem 4rem;
+        }
+
+        /* === Glitch Title === */
+        .glitch-title {
+            position: relative;
+            display: block;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+        .glitch-title h1 {
+            font-size: 2.4rem;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            color: #fff;
+            text-shadow: 0 0 40px rgba(109, 74, 255, 0.4);
+            position: relative;
+            z-index: 2;
+        }
+        .glitch-title::before,
+        .glitch-title::after {
+            content: attr(data-text);
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%;
+            font-size: 2.4rem;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            opacity: 0;
+            pointer-events: none;
+            text-align: center;
+        }
+        .glitch-title.glitching::before {
+            color: #ff0080;
+            opacity: 0.8;
+            animation: glitchLeft 0.18s steps(2) forwards;
+        }
+        .glitch-title.glitching::after {
+            color: #00f0ff;
+            opacity: 0.8;
+            animation: glitchRight 0.18s steps(2) forwards;
+        }
+        @keyframes glitchLeft {
+            0%   { transform: translate(0); clip-path: inset(0 0 0 0); }
+            25%  { transform: translate(-4px, 1px); clip-path: inset(20% 0 60% 0); }
+            50%  { transform: translate(-6px, -2px); clip-path: inset(50% 0 20% 0); }
+            75%  { transform: translate(-2px, 1px); clip-path: inset(10% 0 80% 0); }
+            100% { transform: translate(0); clip-path: inset(0 0 0 0); opacity: 0; }
+        }
+        @keyframes glitchRight {
+            0%   { transform: translate(0); clip-path: inset(0 0 0 0); }
+            25%  { transform: translate(4px, -1px); clip-path: inset(60% 0 20% 0); }
+            50%  { transform: translate(6px, 2px); clip-path: inset(20% 0 50% 0); }
+            75%  { transform: translate(2px, -1px); clip-path: inset(80% 0 10% 0); }
+            100% { transform: translate(0); clip-path: inset(0 0 0 0); opacity: 0; }
+        }
+
+        /* === Description === */
+        .tagline {
+            text-align: center;
+            color: #888;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 2.5rem;
+            max-width: 560px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .tagline .highlight { color: #00f0ff; }
+
+        /* === Badges Row === */
+        .badges {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.4rem;
+            margin-bottom: 3rem;
+        }
+        .badges img { display: block; }
+
+        /* === Section === */
+        .section {
+            margin-bottom: 3rem;
+        }
+        .section-title {
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.7rem;
+            color: #444;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid rgba(109, 74, 255, 0.15);
+        }
+        .section-title::before {
+            content: '> ';
+            color: #6d4aff;
+        }
+
+        /* === Quick Start === */
+        .quick-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 0.8rem;
+        }
+        .tool-card {
+            background: rgba(10, 10, 18, 0.6);
+            border: 1px solid rgba(109, 74, 255, 0.15);
+            border-radius: 8px;
+            padding: 1rem;
+            text-align: center;
+            transition: border-color 0.2s, background 0.2s;
+        }
+        .tool-card:hover {
+            border-color: rgba(109, 74, 255, 0.4);
+            background: rgba(109, 74, 255, 0.04);
+        }
+        .tool-card img { display: block; margin: 0 auto 0.6rem; }
+        .tool-card .tool-name {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #ccc;
+            margin-bottom: 0.2rem;
+        }
+        .tool-card .tool-status {
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.6rem;
+            color: #555;
+        }
+
+        /* === Features === */
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.6rem;
+        }
+        .feature-tag {
+            display: inline-block;
+            padding: 0.3rem 0.7rem;
+            background: rgba(10, 10, 18, 0.6);
+            border: 1px solid rgba(109, 74, 255, 0.12);
+            border-radius: 4px;
+            font-size: 0.72rem;
+            color: #777;
+            transition: color 0.2s, border-color 0.2s;
+        }
+        .feature-tag:hover {
+            color: #bbb;
+            border-color: rgba(109, 74, 255, 0.3);
+        }
+
+        /* === Recommended Setup === */
+        .layers {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 0.8rem;
+        }
+        .layer-card {
+            background: rgba(10, 10, 18, 0.6);
+            border: 1px solid rgba(109, 74, 255, 0.12);
+            border-radius: 8px;
+            padding: 1rem 1.2rem;
+        }
+        .layer-card h3 {
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.65rem;
+            color: #6d4aff;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.6rem;
+        }
+        .layer-card ul {
+            list-style: none;
+        }
+        .layer-card li {
+            font-size: 0.78rem;
+            color: #888;
+            line-height: 1.8;
+            padding-left: 0.8rem;
+            position: relative;
+        }
+        .layer-card li::before {
+            content: '▸';
+            position: absolute;
+            left: 0;
+            color: #6d4aff;
+        }
+        .layer-card a {
+            color: #00f0ff;
+            text-decoration: none;
+        }
+        .layer-card a:hover { text-decoration: underline; }
+
+        /* === CTA === */
+        .cta {
+            text-align: center;
+            margin: 3rem 0;
+        }
+        .cta-btn {
+            display: inline-block;
+            padding: 0.9rem 2.8rem;
+            background: #6d4aff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            box-shadow: 0 0 20px rgba(109, 74, 255, 0.3), 0 0 60px rgba(109, 74, 255, 0.08);
+            animation: btnPulse 2.5s ease-in-out infinite;
+            margin: 0 0.4rem;
+        }
+        @keyframes btnPulse {
+            0%, 100% { box-shadow: 0 0 20px rgba(109, 74, 255, 0.3), 0 0 60px rgba(109, 74, 255, 0.08); }
+            50%      { box-shadow: 0 0 35px rgba(109, 74, 255, 0.55), 0 0 80px rgba(109, 74, 255, 0.18); }
+        }
+        .cta-btn:hover { background: #5938d9; }
+        .cta-btn.secondary {
+            background: transparent;
+            border: 1px solid rgba(109, 74, 255, 0.3);
+            box-shadow: none;
+            animation: none;
+        }
+        .cta-btn.secondary:hover {
+            border-color: rgba(109, 74, 255, 0.6);
+            background: rgba(109, 74, 255, 0.05);
+        }
+
+        /* === Footer === */
+        .footer {
+            text-align: center;
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(109, 74, 255, 0.1);
+        }
+        .footer-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .footer-links a {
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.7rem;
+            color: #666;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .footer-links a:hover { color: #00f0ff; }
+        .footer-license {
+            font-family: 'SF Mono', 'Monaco', 'Consolas', 'Courier New', monospace;
+            font-size: 0.62rem;
+            color: #444;
+        }
+
+        /* === Warning === */
+        .warning-box {
+            background: rgba(255, 71, 87, 0.06);
+            border: 1px solid rgba(255, 71, 87, 0.2);
+            border-radius: 8px;
+            padding: 1rem 1.2rem;
+            font-size: 0.78rem;
+            color: #888;
+            line-height: 1.6;
+            margin-bottom: 3rem;
+        }
+        .warning-box strong { color: #ff4757; }
+
+        /* === Responsive === */
+        @media (max-width: 600px) {
+            .glitch-title h1 { font-size: 1.7rem; }
+            .glitch-title::before, .glitch-title::after { font-size: 1.7rem; }
+            .cta-btn { display: block; margin: 0 auto 0.8rem; max-width: 260px; }
+            .quick-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+<canvas id="starfield"></canvas>
+<div class="crt-flicker"></div>
+<div class="crt-vignette"></div>
+<div class="crt-overlay"></div>
+
+<!-- Boot Screen -->
+<div class="boot-screen" id="bootScreen">
+    <div class="boot-line" id="boot0">&gt; LOADING PH00LT0 BLOCKLIST<span class="boot-cursor"></span></div>
+    <div class="boot-line" id="boot1">&gt; ESTABLISHING SECURE CONNECTION...</div>
+    <div class="boot-line" id="boot2" style="color:#00f0ff;">&gt; READY</div>
+</div>
+
+<div class="wrapper">
+    <!-- Header -->
+    <div class="glitch-title" id="glitchTitle" data-text="ph00lt0 Blocklist">
+        <h1>ph00lt0 Blocklist</h1>
+    </div>
+
+    <p class="tagline">
+        Comprehensive blocklist for AdGuard Home, AdGuard, Little Snitch, Open Snitch,
+        uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole.
+        Automatically cleaned and continuously updated.
+        <span class="highlight">Prioritizes privacy over convenience.</span>
+    </p>
+
+    <!-- Dynamic Badges (sourced live from GitHub/Shields.io) -->
+    <div class="badges">
+        <a href="https://github.com/Ph00lt0/Blocklist" target="_blank">
+            <img src="https://img.shields.io/github/stars/Ph00lt0/Blocklist?style=flat-square&label=Stars&labelColor=000&color=6d4aff" alt="Stars">
+        </a>
+        <a href="https://github.com/Ph00lt0/Blocklist/issues" target="_blank">
+            <img src="https://img.shields.io/github/issues/Ph00lt0/Blocklist?style=flat-square&label=Issues&labelColor=000&color=6d4aff" alt="Issues">
+        </a>
+        <a href="https://github.com/Ph00lt0/Blocklist/blob/master/domains.txt" target="_blank">
+            <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Ph00lt0/Blocklist/master/stats.json&query=$.domains&label=Domains%20Blocked&style=flat-square&labelColor=000&color=6d4aff" alt="Domains Blocked">
+        </a>
+        <a href="https://github.com/Ph00lt0/Blocklist/commits/master" target="_blank">
+            <img src="https://img.shields.io/github/last-commit/Ph00lt0/Blocklist/master?style=flat-square&label=Last%20Updated&labelColor=000&color=6d4aff" alt="Last Updated">
+        </a>
+        <a href="https://github.com/Ph00lt0/Blocklist" target="_blank">
+            <img src="https://img.shields.io/github/repo-size/Ph00lt0/Blocklist?style=flat-square&label=Repo%20Size&labelColor=000&color=6d4aff" alt="Repo Size">
+        </a>
+    </div>
+
+    <!-- Quick Start -->
+    <div class="section">
+        <div class="section-title">Quick Start — One-Click Subscribe</div>
+        <div class="quick-grid">
+            <a href="https://ph00lt0.github.io/blocklist/install.html" style="text-decoration:none;">
+                <div class="tool-card">
+                    <img src="https://img.shields.io/static/v1?label=uBlock%20Origin&message=Subscribe&style=flat-square&labelColor=000&color=6d4aff" alt="uBlock Origin">
+                    <div class="tool-status">RECOMMENDED</div>
+                </div>
+            </a>
+            <a href="https://ph00lt0.github.io/blocklist/install.html?ls=true" style="text-decoration:none;">
+                <div class="tool-card">
+                    <img src="https://img.shields.io/static/v1?label=Little%20Snitch&message=Add%20List&style=flat-square&labelColor=000&color=6d4aff" alt="Little Snitch">
+                    <div class="tool-status">RECOMMENDED</div>
+                </div>
+            </a>
+            <a href="https://ph00lt0.github.io/blocklist/install.html" style="text-decoration:none;">
+                <div class="tool-card">
+                    <img src="https://img.shields.io/static/v1?label=AdGuard&message=Subscribe&style=flat-square&labelColor=000&color=6d4aff" alt="AdGuard">
+                    <div class="tool-status">FULL SUPPORT</div>
+                </div>
+            </a>
+        </div>
+        <p style="text-align:center; margin-top:1rem; font-size:0.78rem; color:#555;">
+            Other tools supported — see the
+            <a href="https://github.com/Ph00lt0/Blocklist#readme" style="color:#00f0ff; text-decoration:none;">full installation guide</a>.
+        </p>
+    </div>
+
+    <!-- What It Blocks -->
+    <div class="section">
+        <div class="section-title">What It Blocks</div>
+        <div class="features">
+            <span class="feature-tag">Analytics &amp; Tracking</span>
+            <span class="feature-tag">Ad Networks</span>
+            <span class="feature-tag">Programmatic Bidding</span>
+            <span class="feature-tag">Cookie Walls</span>
+            <span class="feature-tag">Data Brokers</span>
+            <span class="feature-tag">Debugging Trackers</span>
+            <span class="feature-tag">Retargeting</span>
+            <span class="feature-tag">Social Widgets</span>
+            <span class="feature-tag">Font &amp; Image Trackers</span>
+            <span class="feature-tag">Cryptojacking</span>
+            <span class="feature-tag">Browser Hijackers</span>
+            <span class="feature-tag">Malware</span>
+            <span class="feature-tag">Remote Access Tools</span>
+            <span class="feature-tag">Phishing</span>
+            <span class="feature-tag">Health Scams</span>
+            <span class="feature-tag">Tech Support Scams</span>
+            <span class="feature-tag">Investment &amp; Crypto Scams</span>
+            <span class="feature-tag">Gambling &amp; Lottery</span>
+            <span class="feature-tag">Romance Scams</span>
+            <span class="feature-tag">Survey Scams</span>
+            <span class="feature-tag">Email &amp; Spam Domains</span>
+            <span class="feature-tag">Fake Downloads</span>
+            <span class="feature-tag">Bloatware</span>
+            <span class="feature-tag">AI Data Harvesting</span>
+        </div>
+    </div>
+
+    <!-- Recommended Setup -->
+    <div class="section">
+        <div class="section-title">Recommended Configuration</div>
+        <p style="font-size:0.82rem; color:#666; margin-bottom:1.2rem; line-height:1.6;">
+            For best results, deploy across three filtering levels:
+        </p>
+        <div class="layers">
+            <div class="layer-card">
+                <h3>// Browser Level</h3>
+                <ul>
+                    <li>uBlock Origin</li>
+                    <li>Brave native adblock</li>
+                </ul>
+            </div>
+            <div class="layer-card">
+                <h3>// Device Level</h3>
+                <ul>
+                    <li>Little Snitch (macOS)</li>
+                    <li>Open Snitch (Linux)</li>
+                </ul>
+            </div>
+            <div class="layer-card">
+                <h3>// Network Level</h3>
+                <ul>
+                    <li>AdGuard Home</li>
+                    <li>PiHole (Raspberry Pi)</li>
+                    <li>NextDNS (via API)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Warning -->
+    <div class="section">
+        <div class="warning-box">
+            <strong>⚠ Heads up:</strong> This blocklist prioritizes privacy over convenience. Some sites may break —
+            particularly Facebook, TikTok, Amazon Alexa, link shorteners, and email tracking.
+            See the <a href="https://github.com/Ph00lt0/Blocklist#troubleshooting" style="color:#ff4757; text-decoration:none;">troubleshooting guide</a> for whitelisting instructions.
+        </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="cta">
+        <a class="cta-btn" href="https://ph00lt0.github.io/blocklist/install.html">Install Now</a>
+        <a class="cta-btn secondary" href="https://github.com/Ph00lt0/Blocklist#readme" target="_blank">Full Documentation</a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <div class="footer-links">
+            <a href="https://github.com/Ph00lt0/Blocklist" target="_blank">GITHUB</a>
+            <a href="https://github.com/Ph00lt0/Blocklist/issues" target="_blank">ISSUES</a>
+            <a href="https://github.com/Ph00lt0/Blocklist#readme" target="_blank">README</a>
+            <a href="https://ph00lt0.github.io/blocklist/install.html">INSTALL</a>
+        </div>
+        <div class="footer-license">
+            Source code: MIT · Content/data: CC BY-SA 4.0
+        </div>
+    </div>
+</div>
+
+<script>
+/* === Boot Sequence === */
+(function () {
+    var delays = [0, 250, 500];
+    ['boot0', 'boot1', 'boot2'].forEach(function (id, i) {
+        setTimeout(function () {
+            document.getElementById(id).classList.add('visible');
+        }, delays[i]);
+    });
+    setTimeout(function () {
+        document.getElementById('bootScreen').classList.add('done');
+        setTimeout(function () {
+            var bs = document.getElementById('bootScreen');
+            if (bs.parentNode) bs.parentNode.removeChild(bs);
+        }, 400);
+    }, 750);
+})();
+
+/* === Glitch Title === */
+(function () {
+    var el = document.getElementById('glitchTitle');
+    function glitch() {
+        el.classList.add('glitching');
+        setTimeout(function () { el.classList.remove('glitching'); }, 180);
+    }
+    setInterval(function () {
+        if (Math.random() > 0.8) glitch();
+    }, 200);
+})();
+
+/* === Starfield === */
+(function () {
+    var canvas = document.getElementById('starfield');
+    var ctx = canvas.getContext('2d');
+    var w, h, stars, numStars;
+
+    function init() {
+        w = canvas.width = window.innerWidth;
+        h = canvas.height = window.innerHeight;
+        numStars = Math.floor(w * h / 5500);
+        stars = [];
+        for (var i = 0; i < numStars; i++) stars.push(newStar(true));
+    }
+    function newStar(randomZ) {
+        return { x: (Math.random() - 0.5) * w, y: (Math.random() - 0.5) * h, z: randomZ ? Math.random() : 1, pz: 0 };
+    }
+    function draw() {
+        ctx.fillStyle = '#030308';
+        ctx.fillRect(0, 0, w, h);
+        ctx.translate(w / 2, h / 2);
+        for (var i = 0; i < stars.length; i++) {
+            var s = stars[i];
+            s.pz = s.z; s.z -= 0.01;
+            if (s.z <= 0) { stars[i] = newStar(false); continue; }
+            var sx = s.x / s.z, sy = s.y / s.z;
+            var psx = s.x / s.pz, psy = s.y / s.pz;
+            var size = (1 - s.z) * 1.5, alpha = (1 - s.z) * 0.5;
+            ctx.strokeStyle = 'rgba(109, 74, 255, ' + alpha + ')';
+            ctx.lineWidth = size;
+            ctx.beginPath(); ctx.moveTo(psx, psy); ctx.lineTo(sx, sy); ctx.stroke();
+            if (size > 0.8) {
+                ctx.fillStyle = 'rgba(180, 160, 255, ' + (alpha * 0.8) + ')';
+                ctx.fillRect(sx - 0.5, sy - 0.5, 1, 1);
+            }
+        }
+        ctx.translate(-w / 2, -h / 2);
+        requestAnimationFrame(draw);
+    }
+    init(); draw();
+    window.addEventListener('resize', init);
+})();
+</script>
+</body>
+</html>

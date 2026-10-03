@@ -1,0 +1,65 @@
+name: Domain Removal Request
+description: Request removal of a domain from the blocklist
+title: "[Domain Removal]: "
+labels:
+  - domain-removal
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Domain Removal Request
+        Please provide accurate information to help us evaluate this domain for removal from the blocklist.
+
+  - type: input
+    id: domain
+    attributes:
+      label: Domain Name
+      description: The exact domain name to remove (must be currently in the blocklist)
+      placeholder: example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reason
+    attributes:
+      label: Reason for Removal
+      description: Why should this domain be removed from the blocklist?
+      options:
+        - False Positive / Legitimate Service
+        - Breaking another legitimate service 
+        - Domain No Longer Active
+        - Ownership Changed / Repurposed
+        - Evidence Was Incorrect
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Explain why this domain should be unblocked.
+      placeholder: |
+        This is a legitimate service required for XYZ.
+        Domain ownership transferred to a trusted entity on [DATE].
+        VirusTotal shows 0/78 detections for past 6 months.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting Evidence (Optional)
+      description: Links to WHOIS records, VirusTotal, company website, or other proof of legitimacy.
+      placeholder: https://whois.domaintools.com/example.com
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Verification Confirmation
+      options:
+        - label: I confirm this request is not for evading legitimate blocklist protection
+          required: true
+        - label: I understand approved removals are applied automatically during the next pipeline run
+          required: true

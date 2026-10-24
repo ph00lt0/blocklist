@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+domains-to-insert.txt
+blocklist/*
+__pycache__/*
+*/__pycache__/*

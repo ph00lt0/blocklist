@@ -1,0 +1,80 @@
+name: 📝 Project Suggestion
+description: Suggest a change to the project itself (documentation, formats, workflow, structure, etc.)
+title: "[Suggestion]: "
+labels: ["suggestion", "project"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Important: This is NOT for domain requests or support
+        
+        - **Domain addition?** → Use [Add Domain Request](?template=add-domain.yml)
+        - **Domain removal?** → Use [Remove Domain Request](?template=remove-domain.yml)
+        - **Technical help?** → This project does not provide technical support. See the [Troubleshooting](https://github.com/ph00lt0/blocklist#troubleshooting) section.
+        
+        This template is for **project-level suggestions** only: new features, formats, documentation improvements, workflow changes, structural modifications, etc.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      description: I confirm this is a project-level suggestion, NOT a domain add/remove request and NOT a support/help request.
+      options:
+        - label: I understand this template is for project suggestions only, not for adding/removing domains or requesting technical help
+          required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What are you suggesting?
+      description: Describe your suggestion clearly. What would you like to see changed in the project?
+      placeholder: |
+        Example: "Maybe add a format file for supporting tool x"
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why would this benefit the project?
+      description: Explain the value of your suggestion. Who benefits? What problem does it solve?
+      placeholder: |
+        Example: "Currently tool X is not supported and requires a specific format..." 
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: What area of the project does this relate to?
+      options:
+        - Documentation
+        - Workflow/Automation
+        - Structure/Organization
+        - Feature Request
+        - Formats
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternative solutions considered
+      description: Have you thought about other ways to accomplish this? Mention them here.
+      placeholder: |
+        Optional. Leave blank if none.
+    validations:
+      approved_required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Any other details, screenshots, or references that help explain your suggestion.
+      placeholder: |
+        Optional.
+    validations:
+      required: false

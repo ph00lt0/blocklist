@@ -1,0 +1,672 @@
+name: Domain Submission & Removal Handler
+
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  # =============================================================================
+  # HANDLE DOMAIN SUBMISSION (auto-labels if missing, normalizes title)
+  # =============================================================================
+  handle_submission:
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'issues' &&
+      github.event.action == 'opened' &&
+      (
+        contains(github.event.issue.labels.*.name, 'domain-submission') ||
+        contains(github.event.issue.title, '[Domain Submission]')
+      )
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure domain-submission label exists
+        if: |
+          !contains(github.event.issue.labels.*.name, 'domain-submission')
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['domain-submission']
+            });
+            console.log('Added missing label: domain-submission');
+
+      - name: Send acknowledgment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: acknowledgement
+          body: |
+            ### 🔍 Domain Submission Received
+
+            Your submission has been logged for review. Here's what happens next:
+
+            1. **Validation**: Pipeline verifies domain format and checks if it's already blocked
+            2. **Review**: A maintainer will verify the justification and evidence
+            3. **Decision**: A maintainer comments `/approve-blocklist` to approve
+            4. **Processing**: Approved domains are added during the next pipeline run
+
+            **Please do not edit the domain name after submission.** If corrections are needed, comment below.
+
+      - name: Validate domain format
+        id: validate
+        run: |
+          BODY=$(gh api /repos/${{ github.repository }}/issues/${{ github.event.issue.number }} --jq '.body')
+          DOMAIN=$(echo "$BODY" | grep -A5 "Domain Name" | grep -vE '^(#|\||>|-)' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]' | grep -E '\.' | head -1)
+
+          if [ -z "$DOMAIN" ]; then
+            DOMAIN=$(echo "$BODY" | grep -oE '[a-z0-9][a-z0-9\-]*\.[a-z]{2,}' | head -1 | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if [ -z "$DOMAIN" ]; then
+            TITLE=$(gh api /repos/${{ github.repository }}/issues/${{ github.event.issue.number }} --jq '.title')
+            DOMAIN=$(echo "$TITLE" | sed 's/\[Domain Submission\]: *//g' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if echo "$DOMAIN" | grep -qE '^[a-z0-9]([a-z0-9\-]{0,61}[a-z0-9])?(\.[a-z0-9]([a-z0-9\-]{0,61}[a-z0-9])?)*\.[a-z]{2,}$'; then
+            echo "valid=true" >> $GITHUB_OUTPUT
+            echo "domain=$DOMAIN" >> $GITHUB_OUTPUT
+            echo "✓ Domain format validated: $DOMAIN"
+          else
+            echo "valid=false" >> $GITHUB_OUTPUT
+            echo "⚠ Invalid or missing domain: '$DOMAIN'"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Warn on invalid domain
+        if: steps.validate.outputs.valid == 'false'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: validation-warning
+          body: |
+            ⚠️ **Format Issue Detected**
+
+            Could not parse a valid domain from the submission.
+
+            Valid examples: `example.com`, `sub.example.com`
+            Invalid examples: `http://example.com`, `example`, `example .com`
+
+            Please comment with the corrected domain in plain text.
+
+      - name: Check if domain already in blocklist
+        id: blocklist_check
+        if: steps.validate.outputs.valid == 'true'
+        run: |
+          DOMAIN="${{ steps.validate.outputs.domain }}"
+          FILE="domains.txt"
+
+          if [ ! -f "$FILE" ]; then
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "::warning::Blocklist file not found, skipping duplicate check"
+            exit 0
+          fi
+
+          if grep -qi "${DOMAIN}" "$FILE" 2>/dev/null; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "::notice::Domain already in blocklist: $DOMAIN"
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Reject - already in blocklist
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists == 'true'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: rejection-already-blocked
+          body: |
+            ❌ **Submission Rejected: Already Blocked**
+
+            Domain **`${{ steps.validate.outputs.domain }}`** is already present in the current blocklist.
+
+            No action needed — this domain is already being blocked. Closing this issue.
+
+      - name: Close issue - already blocked
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed',
+              labels: ['rejected']
+            });
+
+      - name: Normalize title
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const domain = '${{ steps.validate.outputs.domain }}';
+            const expected_title = `[Domain Submission]: ${domain}`;
+            const current_title = context.payload.issue.title;
+
+            if (current_title !== expected_title) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                title: expected_title
+              });
+              console.log(`Title normalized to: ${expected_title}`);
+            } else {
+              console.log('Title already correct');
+            }
+
+      - name: Confirm valid domain
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists != 'true'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: validation-confirm
+          body: |
+            ✅ **Domain Validated for Inclusion**
+
+            Domain: **`${{ steps.validate.outputs.domain }}`**
+            Status: Not currently in blocklist — eligible for inclusion.
+
+            Awaiting maintainer review. A maintainer can approve by commenting:
+            ```
+            /approve-blocklist
+            ```
+
+  # =============================================================================
+  # HANDLE DOMAIN REMOVAL (auto-labels if missing, normalizes title)
+  # =============================================================================
+  handle_removal:
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'issues' &&
+      github.event.action == 'opened' &&
+      (
+        contains(github.event.issue.labels.*.name, 'domain-removal') ||
+        contains(github.event.issue.title, '[Domain Removal]')
+      )
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure domain-removal label exists
+        if: |
+          !contains(github.event.issue.labels.*.name, 'domain-removal')
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['domain-removal']
+            });
+            console.log('Added missing label: domain-removal');
+
+      - name: Send acknowledgment
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: acknowledgement
+          body: |
+            ### 🗑️ Domain Removal Request Received
+
+            Your removal request has been logged for review. Here's what happens next:
+
+            1. **Verification**: We check if the domain exists in the current blocklist
+            2. **Review**: A maintainer will verify the justification and evidence
+            3. **Decision**: A maintainer comments `/approve-removal` to approve
+            4. **Processing**: Approved removals are processed during the next sync
+
+            **Please do not edit the domain name after submission.** If corrections are needed, comment below.
+
+      - name: Validate domain format
+        id: validate
+        run: |
+          BODY=$(gh api /repos/${{ github.repository }}/issues/${{ github.event.issue.number }} --jq '.body')
+          DOMAIN=$(echo "$BODY" | grep -A5 "Domain Name" | grep -vE '^(#|\||>|-)' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]' | grep -E '\.' | head -1)
+
+          if [ -z "$DOMAIN" ]; then
+            DOMAIN=$(echo "$BODY" | grep -oE '[a-z0-9][a-z0-9\-]*\.[a-z]{2,}' | head -1 | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if [ -z "$DOMAIN" ]; then
+            TITLE=$(gh api /repos/${{ github.repository }}/issues/${{ github.event.issue.number }} --jq '.title')
+            DOMAIN=$(echo "$TITLE" | sed 's/\[Domain Removal\]: *//g' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if echo "$DOMAIN" | grep -qE '^[a-z0-9]([a-z0-9\-]{0,61}[a-z0-9])?(\.[a-z0-9]([a-z0-9\-]{0,61}[a-z0-9])?)*\.[a-z]{2,}$'; then
+            echo "valid=true" >> $GITHUB_OUTPUT
+            echo "domain=$DOMAIN" >> $GITHUB_OUTPUT
+            echo "✓ Domain format validated: $DOMAIN"
+          else
+            echo "valid=false" >> $GITHUB_OUTPUT
+            echo "⚠ Invalid or missing domain: '$DOMAIN'"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Warn on invalid domain
+        if: steps.validate.outputs.valid == 'false'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: validation-warning
+          body: |
+            ⚠️ **Format Issue Detected**
+
+            Could not parse a valid domain from the removal request.
+
+            Valid examples: `example.com`, `sub.example.com`
+            Invalid examples: `http://example.com`, `example`, `example .com`
+
+            Please comment with the corrected domain in plain text.
+
+      - name: Check if domain exists in blocklist
+        id: blocklist_check
+        if: steps.validate.outputs.valid == 'true'
+        run: |
+          DOMAIN="${{ steps.validate.outputs.domain }}"
+          FILE="domains.txt"
+
+          if [ ! -f "$FILE" ]; then
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "::warning::Blocklist file not found"
+            exit 0
+          fi
+
+          if grep -qi "${DOMAIN}" "$FILE" 2>/dev/null; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "::notice::Domain found in blocklist: $DOMAIN"
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "::notice::Domain NOT in blocklist: $DOMAIN"
+          fi
+
+      - name: Reject - not in blocklist
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists == 'false'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: rejection-not-found
+          body: |
+            ❌ **Removal Rejected: Not In Blocklist**
+
+            Domain **`${{ steps.validate.outputs.domain }}`** was not found in the current blocklist.
+
+            There is nothing to remove. Closing this issue.
+
+            If you believe this is an error, please check the exact domain spelling and submit a new request.
+
+      - name: Close issue - not in blocklist
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed',
+              labels: ['rejected']
+            });
+
+      - name: Normalize title
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const domain = '${{ steps.validate.outputs.domain }}';
+            const expected_title = `[Domain Removal]: ${domain}`;
+            const current_title = context.payload.issue.title;
+
+            if (current_title !== expected_title) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                title: expected_title
+              });
+              console.log(`Title normalized to: ${expected_title}`);
+            } else {
+              console.log('Title already correct');
+            }
+
+      - name: Confirm valid domain
+        if: steps.validate.outputs.valid == 'true' && steps.blocklist_check.outputs.exists == 'true'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment-tag: validation-confirm
+          body: |
+            ✅ **Domain Validated for Removal**
+
+            Domain: **`${{ steps.validate.outputs.domain }}`**
+            Status: Found in current blocklist — eligible for removal.
+
+            Awaiting maintainer review. A maintainer can approve by commenting:
+            ```
+            /approve-removal
+            ```
+
+  # =============================================================================
+  # APPROVE INCLUSION
+  # =============================================================================
+  approve_inclusion:
+    runs-on: ubuntu-latest
+    name: "Approve Inclusion"
+    if: |
+      github.event_name == 'issue_comment' &&
+      github.event.issue.state == 'open' &&
+      startsWith(github.event.comment.body, '/approve-blocklist') &&
+      contains(github.event.issue.labels.*.name, 'domain-submission') &&
+      contains(fromJSON('["ph00lt0"]'), github.actor)
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Extract domain from issue
+        id: extract
+        run: |
+          ISSUE_NUMBER="${{ github.event.issue.number }}"
+          BODY=$(gh api /repos/${{ github.repository }}/issues/$ISSUE_NUMBER --jq '.body')
+
+          DOMAIN=$(echo "$BODY" | grep -A5 "Domain Name" | grep -vE '^(#|\||>|-)' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]' | grep -E '\.' | head -1)
+
+          if [ -z "$DOMAIN" ] || ! echo "$DOMAIN" | grep -qE '\.[a-z]{2,}$'; then
+            DOMAIN=$(echo "$BODY" | grep -oE '[a-z0-9][a-z0-9\-]*\.[a-z]{2,}' | head -1 | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if [ -z "$DOMAIN" ]; then
+            TITLE=$(gh api /repos/${{ github.repository }}/issues/$ISSUE_NUMBER --jq '.title')
+            DOMAIN=$(echo "$TITLE" | sed 's/\[Domain Submission\]: *//g' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if [ -z "$DOMAIN" ]; then
+            echo "::error::Could not extract domain from issue #$ISSUE_NUMBER"
+            exit 1
+          fi
+
+          echo "domain=$DOMAIN" >> $GITHUB_OUTPUT
+          echo "issue_number=$ISSUE_NUMBER" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure issue_inclusions.txt exists
+        run: |
+          mkdir -p blocklist_issue
+          touch blocklist_issue/issue_inclusions.txt
+
+      - name: Check for duplicate
+        id: dupcheck
+        run: |
+          DOMAIN="${{ steps.extract.outputs.domain }}"
+          FILE="blocklist_issue/issue_inclusions.txt"
+
+          if grep -qx "$DOMAIN" "$FILE" 2>/dev/null; then
+            echo "duplicate=true" >> $GITHUB_OUTPUT
+            echo "::notice::Domain already in issue_inclusions.txt: $DOMAIN"
+          else
+            echo "duplicate=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Add domain to issue_inclusions.txt
+        if: steps.dupcheck.outputs.duplicate == 'false'
+        run: |
+          DOMAIN="${{ steps.extract.outputs.domain }}"
+          echo "$DOMAIN" >> blocklist_issue/issue_inclusions.txt
+          echo "::notice::Added to issue_inclusions.txt: $DOMAIN"
+
+      - name: Commit changes
+        if: steps.dupcheck.outputs.duplicate == 'false'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✅ Inclusion approved: ${{ steps.extract.outputs.domain }} (issue #${{ steps.extract.outputs.issue_number }})"
+          file_pattern: blocklist_issue/issue_inclusions.txt
+          branch: ${{ github.ref_name }}
+
+      - name: Post inclusion approved confirmation
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.extract.outputs.issue_number }}
+          comment-tag: approval-confirmation
+          body: |
+            ## ✅ INCLUSION APPROVED
+
+            Domain: **`${{ steps.extract.outputs.domain }}`**
+            Written to: `blocklist_issue/issue_inclusions.txt`
+            Status: Will be added to the blocklist during the next pipeline run.
+
+            *Approved by: @${{ github.actor }}*
+
+            If this was approved in error, remove the domain from `blocklist_issue/issue_inclusions.txt` before the next sync.
+
+      - name: Close issue
+        if: steps.dupcheck.outputs.duplicate == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+      - name: Skip - duplicate already queued
+        if: steps.dupcheck.outputs.duplicate == 'true'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.extract.outputs.issue_number }}
+          comment-tag: skip-duplicate
+          body: |
+            ℹ️ **Already Queued for Inclusion**
+
+            Domain **`${{ steps.extract.outputs.domain }}`** is already in `issue_inclusions.txt`. No duplicate added.
+
+            Closing this issue.
+
+      - name: Close issue - duplicate
+        if: steps.dupcheck.outputs.duplicate == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+  # =============================================================================
+  # APPROVE REMOVAL
+  # =============================================================================
+  approve_removal:
+    runs-on: ubuntu-latest
+    name: "Approve Removal"
+    if: |
+      github.event_name == 'issue_comment' &&
+      github.event.issue.state == 'open' &&
+      startsWith(github.event.comment.body, '/approve-removal') &&
+      contains(github.event.issue.labels.*.name, 'domain-removal') &&
+      contains(fromJSON('["ph00lt0"]'), github.actor)
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Extract domain from issue
+        id: extract
+        run: |
+          ISSUE_NUMBER="${{ github.event.issue.number }}"
+          BODY=$(gh api /repos/${{ github.repository }}/issues/$ISSUE_NUMBER --jq '.body')
+
+          DOMAIN=$(echo "$BODY" | grep -A5 "Domain Name" | grep -vE '^(#|\||>|-)' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]' | grep -E '\.' | head -1)
+
+          if [ -z "$DOMAIN" ] || ! echo "$DOMAIN" | grep -qE '\.[a-z]{2,}$'; then
+            DOMAIN=$(echo "$BODY" | grep -oE '[a-z0-9][a-z0-9\-]*\.[a-z]{2,}' | head -1 | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if [ -z "$DOMAIN" ]; then
+            TITLE=$(gh api /repos/${{ github.repository }}/issues/$ISSUE_NUMBER --jq '.title')
+            DOMAIN=$(echo "$TITLE" | sed 's/\[Domain Removal\]: *//g' | sed 's/[^a-zA-Z0-9.-]//g' | tr '[:upper:]' '[:lower:]')
+          fi
+
+          if [ -z "$DOMAIN" ]; then
+            echo "::error::Could not extract domain from issue #$ISSUE_NUMBER"
+            exit 1
+          fi
+
+          echo "domain=$DOMAIN" >> $GITHUB_OUTPUT
+          echo "issue_number=$ISSUE_NUMBER" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure issue_removals.txt exists
+        run: |
+          mkdir -p blocklist_issue
+          touch blocklist_issue/issue_removals.txt
+
+      - name: Check for duplicate
+        id: dupcheck
+        run: |
+          DOMAIN="${{ steps.extract.outputs.domain }}"
+          FILE="blocklist_issue/issue_removals.txt"
+
+          if grep -qx "$DOMAIN" "$FILE" 2>/dev/null; then
+            echo "duplicate=true" >> $GITHUB_OUTPUT
+            echo "::notice::Domain already in issue_removals.txt: $DOMAIN"
+          else
+            echo "duplicate=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Add domain to issue_removals.txt
+        if: steps.dupcheck.outputs.duplicate == 'false'
+        run: |
+          DOMAIN="${{ steps.extract.outputs.domain }}"
+          echo "$DOMAIN" >> blocklist_issue/issue_removals.txt
+          echo "::notice::Added to issue_removals.txt: $DOMAIN"
+
+      - name: Commit changes
+        if: steps.dupcheck.outputs.duplicate == 'false'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✅ Removal approved: ${{ steps.extract.outputs.domain }} (issue #${{ steps.extract.outputs.issue_number }})"
+          file_pattern: blocklist_issue/issue_removals.txt
+          branch: ${{ github.ref_name }}
+
+      - name: Post removal approved confirmation
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.extract.outputs.issue_number }}
+          comment-tag: approval-confirmation
+          body: |
+            ## ✅ REMOVAL APPROVED
+
+            Domain: **`${{ steps.extract.outputs.domain }}`**
+            Written to: `blocklist_issue/issue_removals.txt`
+            Status: Will be removed from the blocklist during the next pipeline run.
+
+            *Approved by: @${{ github.actor }}*
+
+            If this was approved in error, remove the domain from `blocklist_issue/issue_removals.txt` before the next sync.
+
+      - name: Close issue
+        if: steps.dupcheck.outputs.duplicate == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+      - name: Skip - duplicate already queued
+        if: steps.dupcheck.outputs.duplicate == 'true'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ steps.extract.outputs.issue_number }}
+          comment-tag: skip-duplicate
+          body: |
+            ℹ️ **Already Queued for Removal**
+
+            Domain **`${{ steps.extract.outputs.domain }}`** is already in `issue_removals.txt`. No duplicate added.
+
+            Closing this issue.
+
+      - name: Close issue - duplicate
+        if: steps.dupcheck.outputs.duplicate == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+  # =============================================================================
+  # REJECT WRONG COMMAND ON WRONG ISSUE TYPE
+  # =============================================================================
+  reject_wrong_command:
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'issue_comment' &&
+      (
+        (startsWith(github.event.comment.body, '/approve-blocklist') && !contains(github.event.issue.labels.*.name, 'domain-submission')) ||
+        (startsWith(github.event.comment.body, '/approve-removal') && !contains(github.event.issue.labels.*.name, 'domain-removal'))
+      )
+    permissions:
+      issues: write
+    steps:
+      - name: Post wrong command warning
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            ⚠️ **Wrong Command for This Issue Type**
+
+            - For **Domain Submission** issues (label: `domain-submission`): use `/approve-blocklist`
+            - For **Domain Removal** issues (label: `domain-removal`): use `/approve-removal`
+
+            Please ensure this issue has the correct label and try again.
+
+  # =============================================================================
+  # REJECT UNAUTHORIZED
+  # =============================================================================
+  reject_unauthorized:
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'issue_comment' &&
+      (startsWith(github.event.comment.body, '/approve-blocklist') || startsWith(github.event.comment.body, '/approve-removal')) &&
+      !contains(fromJSON('["ph00lt0"]'), github.actor)
+    permissions:
+      issues: write
+    steps:
+      - name: Post rejection
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            ❌ **Authorization Required**
+
+            Only repository maintainers can approve domain submissions or removals. Your comment was ignored.

@@ -1,0 +1,90 @@
+name: Generate Blocklist Formats
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'blocklist.txt'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-formats:
+    name: Generate All Formats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyfiglet --quiet
+
+      - name: Run blocklist format generator
+        run: python .github/format.py
+
+      - name: Generate stats.json
+        run: |
+          DOMAINS=$(wc -l < domains.txt | tr -d ' ')
+          cat > stats.json << EOF
+          {
+            "domains": ${DOMAINS},
+            "timestamp": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "version": "${{ github.sha }}"
+          }
+          EOF
+
+      - name: Show stats
+        run: |
+          echo "📊 Stats generated:"
+          cat stats.json
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+            echo "No format updates needed"
+          else
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Orphan commit and force push
+        if: steps.changes.outputs.changes_detected == 'true'
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name 'ph00lt0 Blocklist'
+            git config user.email '-'
+            git add -A
+            git checkout --orphan temp
+            git commit -am "Blocklist release"
+            git branch -D "$TARGET_BRANCH"
+            git branch -m "$TARGET_BRANCH"
+            git push -f origin "$TARGET_BRANCH"
+          else
+            echo "There are no changes in the repository"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## Blocklist Format Generation" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Trigger**: Push to blocklist.txt" >> $GITHUB_STEP_SUMMARY
+          echo "- **Domains in list**: $(cat stats.json | grep '"domains"' | cut -d'"' -f4)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Status**: ${{ steps.changes.outputs.changes_detected == 'true' && 'Formats regenerated ✓' || 'No changes' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Strategy**: Orphan commit (no history retention)" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch**: ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Script**: \`.github/format.py\`" >> $GITHUB_STEP_SUMMARY
+          echo "- **Completed**: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
